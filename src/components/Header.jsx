@@ -393,9 +393,9 @@ const Header = () => {
                 </div>
               </div>
 
-              {/* SHIKSHA ONLINE MEGA MENU */}
+              {/* COLLEGESEARCH ONLINE MEGA MENU */}
               <div className="nav-item">
-                <Nav.Link as={Link} to="/news" className="fw-semibold">SHIKSHA ONLINE <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
+                <Nav.Link as={Link} to="/news" className="fw-semibold">COLLEGESEARCH ONLINE <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
                   <div className="mega-sidebar">
                     {onlineTabs.map(tab => (
