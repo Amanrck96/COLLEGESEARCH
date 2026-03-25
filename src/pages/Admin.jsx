@@ -3,6 +3,11 @@ import { Container, Row, Col, Nav, Table, Button, Form, Card } from 'react-boots
 import { FaEdit, FaTrash, FaPlus, FaUpload } from 'react-icons/fa';
 
 const Admin = () => {
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const [username, setUsername] = useState('');
+  const [password, setPassword] = useState('');
+  const [loginError, setLoginError] = useState(false);
+
   const [activeTab, setActiveTab] = useState('dashboard');
   const [showAddCollege, setShowAddCollege] = useState(false);
 
@@ -14,6 +19,45 @@ const Admin = () => {
     { id: 5, name: 'Dr. P. A. Inamdar University', shortName: 'DRPAIU', type: 'Full Time', rating: 5, ranking: 10 },
     { id: 6, name: 'DES Pune University', shortName: 'DESPU', type: 'Full Time', rating: 4.8, ranking: 6 },
   ]);
+
+  const handleLogin = (e) => {
+    e.preventDefault();
+    if (username === 'admin' && password === 'admin123') {
+      setIsAuthenticated(true);
+      setLoginError(false);
+    } else {
+      setLoginError(true);
+    }
+  };
+
+  if (!isAuthenticated) {
+    return (
+      <div className="d-flex align-items-center justify-content-center" style={{ minHeight: '100vh', backgroundColor: '#f3f4f6' }}>
+        <Card style={{ width: '400px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}>
+          <Card.Body className="p-5">
+            <div className="text-center mb-4">
+              <h4 className="fw-bold" style={{color: '#1a43bf'}}>Admin Login</h4>
+              <p className="text-muted small">Please enter your credentials to access the admin center</p>
+            </div>
+            {loginError && <div className="alert alert-danger py-2 small">Invalid username or password.</div>}
+            <Form onSubmit={handleLogin}>
+              <Form.Group className="mb-3">
+                <Form.Label className="small fw-semibold">Username</Form.Label>
+                <Form.Control type="text" placeholder="admin" value={username} onChange={(e) => setUsername(e.target.value)} required />
+              </Form.Group>
+              <Form.Group className="mb-4">
+                <Form.Label className="small fw-semibold">Password</Form.Label>
+                <Form.Control type="password" placeholder="admin123" value={password} onChange={(e) => setPassword(e.target.value)} required />
+              </Form.Group>
+              <Button type="submit" variant="primary" className="w-100 fw-bold py-2" style={{backgroundColor: '#1c4ed8', border: 'none'}}>
+                Login
+              </Button>
+            </Form>
+          </Card.Body>
+        </Card>
+      </div>
+    );
+  }
 
   return (
     <div style={{ minHeight: '100vh', backgroundColor: '#f8f9fa' }}>
