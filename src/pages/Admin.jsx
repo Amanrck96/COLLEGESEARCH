@@ -1,7 +1,8 @@
-import React, { useState, useContext } from 'react';
+import React, { useState, useContext, useEffect } from 'react';
 import { Container, Row, Col, Nav, Table, Button, Form, Card } from 'react-bootstrap';
 import { FaEdit, FaTrash, FaPlus, FaUpload } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
+import { State, City } from 'country-state-city';
 
 const Admin = () => {
   const { colleges, addCollege, updateCollege, deleteCollege } = useContext(CollegeContext);
@@ -188,19 +189,54 @@ const Admin = () => {
 };
 
 const AddCollegeForm = ({ college, onCancel, onSave }) => {
+  const indianStates = State.getStatesOfCountry("IN");
+  const [selectedState, setSelectedState] = useState(college?.state || '');
+  const [cities, setCities] = useState([]);
+
+  useEffect(() => {
+    if (selectedState) {
+      const stateObj = indianStates.find(s => s.name === selectedState);
+      if (stateObj) {
+        setCities(City.getCitiesOfState("IN", stateObj.isoCode));
+      } else {
+        setCities([]);
+      }
+    } else {
+      setCities([]);
+    }
+  }, [selectedState, indianStates]);
+
   const handleSubmit = (e) => {
     e.preventDefault();
     const fd = new FormData(e.target);
     const data = {
       name: fd.get('name'),
       shortName: fd.get('shortName'),
-      location: fd.get('location'),
+      about: fd.get('about'),
+      location: fd.get('district'),
+      mapUrl: fd.get('mapUrl'),
+      address: fd.get('address'),
+      brochureLink: fd.get('brochureLink'),
+      established: fd.get('established'),
       type: fd.get('type'),
+      state: fd.get('state'),
+      affiliation: fd.get('affiliation'),
       ranking: fd.get('ranking') ? parseInt(fd.get('ranking')) : 0,
-      rating: college ? college.rating : 4.5, // preserve or default
-      fees: college ? college.fees : "₹10 Lacs/Year",
-      exams: college ? college.exams : "None",
-      img: college ? college.img : "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400"
+      specializations: fd.get('specializations'),
+      applyNowLink: fd.get('applyNowLink'),
+      highlights: fd.get('highlights'),
+      topRecruiters: fd.get('topRecruiters'),
+      courseName: fd.get('courseName'),
+      courseDuration: fd.get('courseDuration'),
+      fees: fd.get('courseFee') ? `₹${fd.get('courseFee')} Lacs/Year` : "₹10 Lacs/Year",
+      courseEligibility: fd.get('courseEligibility'),
+      website: fd.get('website'),
+      facebook: fd.get('facebook'),
+      instagram: fd.get('instagram'),
+      linkedin: fd.get('linkedin'),
+      rating: college?.rating || 4.5, // keep existing rating
+      exams: college?.exams || "None", // exams might be derived or hardcoded
+      img: college?.img || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400"
     };
     onSave(data);
   };
@@ -232,17 +268,20 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
           <Col md={6}>
             <Form.Group>
               <Form.Label className="fw-semibold small">About</Form.Label>
-              <Form.Control as="textarea" rows={3} className="py-2" />
+              <Form.Control name="about" as="textarea" rows={3} defaultValue={college?.about || ''} className="py-2" />
             </Form.Group>
           </Col>
           <Col md={6}>
             <Form.Group className="mb-3">
-              <Form.Label className="fw-semibold small">District/Location*</Form.Label>
-              <Form.Control name="location" type="text" placeholder="Location" defaultValue={college?.location || ''} className="py-2" required />
+              <Form.Label className="fw-semibold small">District/City*</Form.Label>
+              <Form.Select name="district" defaultValue={college?.location || ''} className="py-2" required>
+                <option value="">Select City</option>
+                {cities.map(c => <option key={c.name} value={c.name}>{c.name}</option>)}
+              </Form.Select>
             </Form.Group>
             <Form.Group>
               <Form.Label className="fw-semibold small">Map URL</Form.Label>
-              <Form.Control type="url" placeholder="Map URL" className="py-2" />
+              <Form.Control name="mapUrl" type="url" placeholder="Map URL" defaultValue={college?.mapUrl || ''} className="py-2" />
             </Form.Group>
           </Col>
         </Row>
@@ -250,8 +289,8 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
         <Row className="mb-3">
           <Col md={6}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Address</Form.Label>
-              <Form.Control as="textarea" rows={2} className="py-2" />
+              <Form.Label className="fw-semibold small">Address*</Form.Label>
+              <Form.Control name="address" as="textarea" rows={2} defaultValue={college?.address || ''} className="py-2" />
             </Form.Group>
           </Col>
           <Col md={6}>
@@ -259,13 +298,13 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
               <Col xs={6}>
                 <Form.Group>
                   <Form.Label className="fw-semibold small">Brochure Link</Form.Label>
-                  <Form.Control type="url" className="py-2" />
+                  <Form.Control name="brochureLink" type="url" defaultValue={college?.brochureLink || ''} className="py-2" />
                 </Form.Group>
               </Col>
               <Col xs={6}>
                 <Form.Group>
                   <Form.Label className="fw-semibold small">Established</Form.Label>
-                  <Form.Control type="text" className="py-2" />
+                  <Form.Control name="established" type="text" defaultValue={college?.established || ''} className="py-2" />
                 </Form.Group>
               </Col>
             </Row>
@@ -278,10 +317,11 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
               <Col xs={6}>
                 <Form.Group>
                   <Form.Label className="fw-semibold small">Type*</Form.Label>
-                  <Form.Select name="type" className="py-2" defaultValue={college?.type || 'Online'}>
+                  <Form.Select name="type" className="py-2" defaultValue={college?.type || 'Government'}>
                     <option>Government</option>
                     <option>Private</option>
                     <option>Autonomous</option>
+                    <option>Public-Private</option>
                     <option>Online</option>
                     <option>Full Time</option>
                   </Form.Select>
@@ -289,9 +329,16 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
               </Col>
               <Col xs={6}>
                 <Form.Group>
-                  <Form.Label className="fw-semibold small">State</Form.Label>
-                  <Form.Select className="py-2">
-                    <option>Select State</option>
+                  <Form.Label className="fw-semibold small">State*</Form.Label>
+                  <Form.Select 
+                    name="state" 
+                    className="py-2" 
+                    value={selectedState} 
+                    onChange={(e) => setSelectedState(e.target.value)}
+                    required
+                  >
+                    <option value="">Select State</option>
+                    {indianStates.map(st => <option key={st.isoCode} value={st.name}>{st.name}</option>)}
                   </Form.Select>
                 </Form.Group>
               </Col>
@@ -302,7 +349,7 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
               <Col xs={6}>
                 <Form.Group>
                   <Form.Label className="fw-semibold small">Affiliation</Form.Label>
-                  <Form.Control type="text" className="py-2" />
+                  <Form.Control name="affiliation" type="text" defaultValue={college?.affiliation || ''} className="py-2" />
                 </Form.Group>
               </Col>
               <Col xs={6}>
@@ -312,6 +359,141 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
                 </Form.Group>
               </Col>
             </Row>
+          </Col>
+        </Row>
+
+        {/* Specializations & Links */}
+        <Row className="mb-4">
+          <Col md={6}>
+            <Form.Group>
+              <Form.Label className="fw-semibold small">Specializations*</Form.Label>
+              <Form.Control name="specializations" type="text" placeholder="HR, Marketing, Finance..." defaultValue={college?.specializations || 'HR, Marketing, Finance, Operations'} className="py-2" />
+            </Form.Group>
+          </Col>
+          <Col md={6}>
+            <Form.Group>
+              <Form.Label className="fw-semibold small">Apply Now Link</Form.Label>
+              <Form.Control name="applyNowLink" type="url" placeholder="https://" defaultValue={college?.applyNowLink || ''} className="py-2" />
+            </Form.Group>
+          </Col>
+        </Row>
+
+        {/* Highlights */}
+        <div className="mb-4">
+          <Form.Label className="fw-bold" style={{color: '#15803d'}}>Highlights</Form.Label>
+          <div className="d-flex mb-2">
+            <Form.Control name="highlights" type="text" defaultValue={college?.highlights || ''} className="py-2 me-2" />
+            <Button variant="danger" className="px-3" type="button"><FaTrash /></Button>
+          </div>
+          <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
+            Add Highlights
+          </Button>
+        </div>
+
+        {/* Top Recruiters */}
+        <div className="mb-4">
+          <Form.Label className="fw-bold" style={{color: '#15803d'}}>Top Recruiters</Form.Label>
+          <div className="d-flex mb-2">
+            <Form.Control name="topRecruiters" type="text" defaultValue={college?.topRecruiters || ''} className="py-2 me-2" />
+            <Button variant="danger" className="px-3" type="button"><FaTrash /></Button>
+          </div>
+          <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
+            Add Top Recruiters
+          </Button>
+        </div>
+
+        {/* Admission Process */}
+        <div className="mb-4">
+          <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
+            Add Admission Process
+          </Button>
+        </div>
+
+        {/* Courses */}
+        <div className="mb-4">
+          <Form.Label className="fw-bold d-block" style={{color: '#15803d'}}>
+            Courses <span className="text-danger fw-normal" style={{fontSize: '12px'}}>(at least one course is required)</span>
+          </Form.Label>
+          <Row className="mb-2">
+            <Col xs={3}>
+              <Form.Select name="courseName" className="py-2" defaultValue={college?.courseName || 'B.Tech'}>
+                <option>B.Tech</option>
+                <option>MBA</option>
+                <option>MBBS</option>
+                <option>BFA</option>
+                <option>PGDM</option>
+                <option>B.Sc</option>
+                <option>B.Com</option>
+                <option>B.A</option>
+              </Form.Select>
+            </Col>
+            <Col xs={2}>
+              <Form.Control name="courseDuration" type="text" placeholder="Duration" defaultValue={college?.courseDuration || '2'} className="py-2" />
+            </Col>
+            <Col xs={2}>
+              <Form.Control name="courseFee" type="text" placeholder="Fee (Lakhs)" defaultValue={college?.courseFee || '1.68'} className="py-2" />
+            </Col>
+            <Col xs={3}>
+              <Form.Control name="courseEligibility" type="text" placeholder="Eligibility" defaultValue={college?.courseEligibility || ''} className="py-2" />
+            </Col>
+            <Col xs={2}>
+              <Form.Control type="number" placeholder="Ranking" defaultValue="0" className="py-2" />
+            </Col>
+          </Row>
+          <Button variant="danger" className="w-100 mb-3 py-2 rounded-3 border-0" type="button"><FaTrash /></Button>
+          <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
+            Add Course
+          </Button>
+        </div>
+
+        {/* Social Links */}
+        <Row className="mb-4">
+          <Col md={3}>
+            <Form.Group>
+              <Form.Label className="fw-semibold small">Website</Form.Label>
+              <Form.Control name="website" type="url" defaultValue={college?.website || ''} className="py-2" />
+            </Form.Group>
+          </Col>
+          <Col md={3}>
+            <Form.Group>
+              <Form.Label className="fw-semibold small">Facebook</Form.Label>
+              <Form.Control name="facebook" type="url" defaultValue={college?.facebook || ''} className="py-2" />
+            </Form.Group>
+          </Col>
+          <Col md={3}>
+            <Form.Group>
+              <Form.Label className="fw-semibold small">Instagram</Form.Label>
+              <Form.Control name="instagram" type="url" defaultValue={college?.instagram || ''} className="py-2" />
+            </Form.Group>
+          </Col>
+          <Col md={3}>
+            <Form.Group>
+              <Form.Label className="fw-semibold small">LinkedIn</Form.Label>
+              <Form.Control name="linkedin" type="url" defaultValue={college?.linkedin || ''} className="py-2" />
+            </Form.Group>
+          </Col>
+        </Row>
+
+        {/* Uploads */}
+        <Row className="mb-5">
+          <Col md={6}>
+            <Form.Group>
+              <Form.Label className="fw-semibold small">Upload Main Image*</Form.Label>
+              <div className="border border-primary border-dashed rounded bg-light text-center p-4" style={{borderStyle: 'dashed', cursor: 'pointer', color: '#2563eb'}}>
+                <FaUpload className="fs-4 mb-2" />
+                <div>Image selected</div>
+              </div>
+              {college?.img && <img src={college.img} alt="Main" className="mt-2 rounded" style={{maxWidth: '150px'}}/>}
+            </Form.Group>
+          </Col>
+          <Col md={6}>
+            <Form.Group>
+              <Form.Label className="fw-semibold small">Brochure PDF</Form.Label>
+              <div className="border border-primary border-dashed rounded bg-light text-center p-4" style={{borderStyle: 'dashed', cursor: 'pointer', color: '#2563eb'}}>
+                <FaUpload className="fs-4 mb-2" />
+                <div>Click to upload PDF or drag and drop</div>
+              </div>
+            </Form.Group>
           </Col>
         </Row>
 
