@@ -20,6 +20,7 @@ import News from './pages/News';
 import CompareColleges from './pages/CompareColleges';
 import Contact from './pages/Contact';
 import About from './pages/About';
+import Admin from './pages/Admin';
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
           <Route path="/compare" element={<CompareColleges />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/about" element={<About />} />
+          <Route path="/admin/*" element={<Admin />} />
         </Routes>
       </Layout>
     </Router>
