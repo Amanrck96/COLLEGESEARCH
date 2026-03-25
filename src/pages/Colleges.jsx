@@ -4,16 +4,10 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark } from 'react-icons/fa';
 
-const collegesData = [
-  { id: 1, name: "Indian Institute of Technology (IIT)", location: "Delhi", rating: 4.8, type: "Government", fees: "₹10 Lacs/Year", exams: "JEE Advanced", img: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=400" },
-  { id: 2, name: "National Institute of Design (NID)", location: "Ahmedabad", rating: 4.7, type: "Autonomous", fees: "₹8 Lacs/Year", exams: "NID DAT", img: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400" },
-  { id: 3, name: "Indian Institute of Management (IIM)", location: "Bangalore", rating: 4.9, type: "Government", fees: "₹24 Lacs/Prog", exams: "CAT", img: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?auto=format&fit=crop&q=80&w=400" },
-  { id: 4, name: "Vellore Institute of Technology (VIT)", location: "Vellore", rating: 4.5, type: "Private", fees: "₹12 Lacs/Year", exams: "VITEEE", img: "https://images.unsplash.com/photo-1590408546194-e3fb4b917531?auto=format&fit=crop&q=80&w=400" },
-  { id: 5, name: "Bits Pilani", location: "Pilani", rating: 4.8, type: "Private", fees: "₹15 Lacs/Year", exams: "BITSAT", img: "https://images.unsplash.com/photo-1592284988080-87b40b171bc8?auto=format&fit=crop&q=80&w=400" },
-  { id: 6, name: "Symbiosis Institute of Business", location: "Pune", rating: 4.4, type: "Private", fees: "₹20 Lacs/Prog", exams: "SNAP", img: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80&w=400" },
-];
+import { CollegeContext } from '../contexts/CollegeContext';
 
 const Colleges = () => {
+  const { colleges } = React.useContext(CollegeContext);
   const [searchTerm, setSearchTerm] = useState("");
   const [saved, setSaved] = useState({});
   const [sortBy, setSortBy] = useState("rating");
@@ -22,7 +16,7 @@ const Colleges = () => {
     setSaved(prev => ({...prev, [id]: !prev[id]}));
   };
 
-  let filteredColleges = collegesData.filter(c => 
+  let filteredColleges = (colleges || []).filter(c => 
     c.name.toLowerCase().includes(searchTerm.toLowerCase()) || 
     c.location.toLowerCase().includes(searchTerm.toLowerCase())
   );

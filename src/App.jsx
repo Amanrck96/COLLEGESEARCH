@@ -21,10 +21,12 @@ import CompareColleges from './pages/CompareColleges';
 import Contact from './pages/Contact';
 import About from './pages/About';
 import Admin from './pages/Admin';
+import { CollegeProvider } from './contexts/CollegeContext';
 
 function App() {
   return (
-    <Router>
+    <CollegeProvider>
+      <Router>
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -45,6 +47,7 @@ function App() {
         </Routes>
       </Layout>
     </Router>
+    </CollegeProvider>
   );
 }
 

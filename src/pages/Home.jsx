@@ -3,6 +3,7 @@ import { Container, Row, Col, Card, Button, Badge } from 'react-bootstrap';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { FaGraduationCap, FaUniversity, FaBookOpen, FaStar, FaChevronRight } from 'react-icons/fa';
+import { CollegeContext } from '../contexts/CollegeContext';
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 50 },
@@ -30,6 +31,7 @@ const SectionData = {
 };
 
 const Home = () => {
+  const { colleges } = React.useContext(CollegeContext);
   return (
     <div>
       {/* Hero Section */}
@@ -60,7 +62,7 @@ const Home = () => {
             <p>Explore the top-ranked institutions based on placement, faculty, and student reviews.</p>
           </div>
           <Row className="g-4">
-            {SectionData.colleges.map((college, idx) => (
+            {(colleges || SectionData.colleges).slice(0, 4).map((college, idx) => (
               <Col md={6} lg={3} key={idx}>
                 <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
                   <Card className="custom-card h-100 border-0">
