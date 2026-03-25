@@ -66,7 +66,7 @@ const Admin = () => {
         <div className="d-flex align-items-center">
           <div className="fw-bold fs-5 me-2" style={{color: '#1a43bf'}}>
             <img src="https://via.placeholder.com/30" alt="logo" className="me-2" style={{borderRadius:'5px'}}/>
-            ADMISSION IN MBA
+            CollegeSearchs
           </div>
         </div>
         <div className="d-flex align-items-center">
