@@ -1,33 +1,32 @@
-import React, { useState } from 'react';
+import React, { useState, useContext, useEffect } from 'react';
 import { Navbar, Nav, Container, Form, Button, InputGroup, Row, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { FaAngleRight } from 'react-icons/fa';
+import { SiteContext } from '../contexts/SiteContext';
 
 const Header = () => {
-  const [activeMbaTab, setActiveMbaTab] = useState('Top Ranked Colleges');
-  const [activeEngTab, setActiveEngTab] = useState('Top Ranked Colleges');
-  const [activeMedTab, setActiveMedTab] = useState('Top Ranked Colleges');
-  const [activeDesTab, setActiveDesTab] = useState('Top Ranked Colleges');
-  const [activeMoreTab, setActiveMoreTab] = useState('Sarkari Exams');
-  const [activeStudyTab, setActiveStudyTab] = useState('Countries');
-  const [activeCounselingTab, setActiveCounselingTab] = useState('Get Expert Guidance');
-  const [activeOnlineTab, setActiveOnlineTab] = useState('Technology');
+  const { siteData } = useContext(SiteContext);
+  const { mbaTabs, engTabs, medTabs, desTabs, moreTabs, studyTabs, counselingTabs, onlineTabs } = siteData.header;
 
-  const mbaTabs = ['Top Ranked Colleges', 'Popular Courses', 'Popular Specializations', 'Exams', 'Colleges By Location', 'Compare Colleges', 'College Reviews', 'CAT Percentile Predictor', 'College Predictors', 'Ask Current MBA Students', 'Resources'];
-  
-  const engTabs = ['Top Ranked Colleges', 'Popular Courses', 'Popular Specializations', 'Exams', 'Colleges By Location', 'Compare Colleges', 'Rank Predictors', 'College Predictors', 'College Reviews', 'Resources'];
+  const [activeMbaTab, setActiveMbaTab] = useState(mbaTabs[0] || '');
+  const [activeEngTab, setActiveEngTab] = useState(engTabs[0] || '');
+  const [activeMedTab, setActiveMedTab] = useState(medTabs[0] || '');
+  const [activeDesTab, setActiveDesTab] = useState(desTabs[0] || '');
+  const [activeMoreTab, setActiveMoreTab] = useState(moreTabs[0] || '');
+  const [activeStudyTab, setActiveStudyTab] = useState(studyTabs[0] || '');
+  const [activeCounselingTab, setActiveCounselingTab] = useState(counselingTabs[0] || '');
+  const [activeOnlineTab, setActiveOnlineTab] = useState(onlineTabs[0] || '');
 
-  const medTabs = ['Top Ranked Colleges', 'Popular Courses', 'Popular Specializations', 'Exams', 'Colleges By Location', 'College Predictors', 'Resources'];
-
-  const desTabs = ['Top Ranked Colleges', 'Popular Specializations', 'Popular Courses', 'Exams', 'College Predictors', 'Colleges By Location', 'Resources'];
-
-  const moreTabs = ['Sarkari Exams', 'Law', 'Hospitality & Travel', 'Animation', 'Mass Communication & Media', 'Business & Management Studies', 'IT & Software', 'Humanities & Social Sciences', 'Arts (Fine/Visual/Performing)', 'Science', 'Architecture & Planning', 'Accounting & Commerce'];
-
-  const studyTabs = ['Countries', 'Exams', 'Popular Programs', 'Popular Specialization', 'Student Visas', 'SOP/LOR', 'Scholarships', 'Education Loan', 'Services'];
-
-  const counselingTabs = ['Get Expert Guidance', 'Careers After 12th', 'Courses After 12th', 'Free Prep Material', 'National Boards', 'State Boards', 'Abroad Counseling Service', 'My Recommendations', 'Get Free Counselling'];
-
-  const onlineTabs = ['Technology', 'Data Science', 'Management', 'Finance', 'Creativity & Design', 'Emerging Technologies', 'Engineering-Non CS', 'Healthcare', 'Energy And Environment', 'Social Sciences', 'Personal Development', 'Degree Programs'];
+  useEffect(() => {
+    setActiveMbaTab(mbaTabs[0] || '');
+    setActiveEngTab(engTabs[0] || '');
+    setActiveMedTab(medTabs[0] || '');
+    setActiveDesTab(desTabs[0] || '');
+    setActiveMoreTab(moreTabs[0] || '');
+    setActiveStudyTab(studyTabs[0] || '');
+    setActiveCounselingTab(counselingTabs[0] || '');
+    setActiveOnlineTab(onlineTabs[0] || '');
+  }, [mbaTabs, engTabs, medTabs, desTabs, moreTabs, studyTabs, counselingTabs, onlineTabs]);
 
   return (
     <div className="custom-header-wrapper">

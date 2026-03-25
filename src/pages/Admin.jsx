@@ -2,10 +2,12 @@ import React, { useState, useContext, useEffect } from 'react';
 import { Container, Row, Col, Nav, Table, Button, Form, Card } from 'react-bootstrap';
 import { FaEdit, FaTrash, FaPlus, FaUpload } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
+import { SiteContext } from '../contexts/SiteContext';
 import { State, City } from 'country-state-city';
 
 const Admin = () => {
   const { colleges, addCollege, updateCollege, deleteCollege } = useContext(CollegeContext);
+  const { siteData, updateSiteData } = useContext(SiteContext);
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
@@ -108,6 +110,12 @@ const Admin = () => {
               <Nav.Link className="py-2 px-3 rounded mb-1 text-secondary">
                 <span className="me-2">📝</span> Blog Manager
               </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded mb-1 ${activeTab === 'siteSettings' ? 'bg-light text-dark fw-bold' : 'text-secondary'}`}
+                onClick={() => setActiveTab('siteSettings')}
+              >
+                <span className="me-2">⚙️</span> Site Settings
+              </Nav.Link>
               <Nav.Link className="py-2 px-3 rounded mb-1 text-secondary">
                 <span className="me-2">📞</span> Contact
               </Nav.Link>
@@ -180,6 +188,13 @@ const Admin = () => {
               college={editingCollege} 
               onCancel={() => { setShowAddCollege(false); setEditingCollege(null); }} 
               onSave={handleSaveCollege} 
+            />
+          )}
+
+          {activeTab === 'siteSettings' && (
+            <SiteSettingsForm 
+              siteData={siteData} 
+              onSave={(newData) => updateSiteData(newData)} 
             />
           )}
         </Col>
@@ -507,3 +522,139 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
 };
 
 export default Admin;
+
+const SiteSettingsForm = ({ siteData, onSave }) => {
+  const [formData, setFormData] = useState(JSON.parse(JSON.stringify(siteData)));
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    onSave(formData);
+    alert("Site settings updated successfully!");
+  }
+
+  const handleHeaderTabChange = (key, val) => {
+    setFormData(prev => ({
+      ...prev,
+      header: { ...prev.header, [key]: val.split(',').map(s => s.trim()) }
+    }));
+  };
+
+  const handleFooterChange = (key, val) => {
+    setFormData(prev => ({
+      ...prev,
+      footer: { ...prev.footer, [key]: val }
+    }));
+  };
+
+  const handleSocialChange = (key, val) => {
+    setFormData(prev => ({
+      ...prev,
+      footer: { ...prev.footer, social: { ...prev.footer.social, [key]: val } }
+    }));
+  };
+
+  const handleContactChange = (key, val) => {
+    setFormData(prev => ({
+      ...prev,
+      footer: { ...prev.footer, contactInfo: { ...prev.footer.contactInfo, [key]: val } }
+    }));
+  };
+
+  return (
+    <div>
+      <h4 className="fw-bold mb-4">Site Settings</h4>
+      <Form onSubmit={handleSubmit}>
+        <h5 className="mb-3" style={{color: '#1c4ed8'}}>Header Mega Menu Tabs (comma separated)</h5>
+        <Card className="p-4 mb-4 border-0 shadow-sm">
+          <Row className="mb-3">
+            <Col md={6}>
+              <Form.Group className="mb-3">
+                <Form.Label className="small fw-semibold">MBA Tabs</Form.Label>
+                <Form.Control as="textarea" rows={2} value={(formData.header.mbaTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('mbaTabs', e.target.value)} />
+              </Form.Group>
+              <Form.Group className="mb-3">
+                <Form.Label className="small fw-semibold">Engineering Tabs</Form.Label>
+                <Form.Control as="textarea" rows={2} value={(formData.header.engTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('engTabs', e.target.value)} />
+              </Form.Group>
+              <Form.Group className="mb-3">
+                <Form.Label className="small fw-semibold">Medical Tabs</Form.Label>
+                <Form.Control as="textarea" rows={2} value={(formData.header.medTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('medTabs', e.target.value)} />
+              </Form.Group>
+              <Form.Group className="mb-3">
+                <Form.Label className="small fw-semibold">Design Tabs</Form.Label>
+                <Form.Control as="textarea" rows={2} value={(formData.header.desTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('desTabs', e.target.value)} />
+              </Form.Group>
+            </Col>
+            <Col md={6}>
+              <Form.Group className="mb-3">
+                <Form.Label className="small fw-semibold">More (Sarkari) Tabs</Form.Label>
+                <Form.Control as="textarea" rows={2} value={(formData.header.moreTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('moreTabs', e.target.value)} />
+              </Form.Group>
+              <Form.Group className="mb-3">
+                <Form.Label className="small fw-semibold">Study Abroad Tabs</Form.Label>
+                <Form.Control as="textarea" rows={2} value={(formData.header.studyTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('studyTabs', e.target.value)} />
+              </Form.Group>
+              <Form.Group className="mb-3">
+                <Form.Label className="small fw-semibold">Counseling Tabs</Form.Label>
+                <Form.Control as="textarea" rows={2} value={(formData.header.counselingTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('counselingTabs', e.target.value)} />
+              </Form.Group>
+              <Form.Group className="mb-3">
+                <Form.Label className="small fw-semibold">Online Tabs</Form.Label>
+                <Form.Control as="textarea" rows={2} value={(formData.header.onlineTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('onlineTabs', e.target.value)} />
+              </Form.Group>
+            </Col>
+          </Row>
+        </Card>
+
+        <h5 className="mb-3 mt-4" style={{color: '#1c4ed8'}}>Footer Settings</h5>
+        <Card className="p-4 mb-4 border-0 shadow-sm">
+          <Form.Group className="mb-4">
+            <Form.Label className="small fw-semibold">Description</Form.Label>
+            <Form.Control as="textarea" rows={2} value={formData.footer.description || ''} onChange={(e) => handleFooterChange('description', e.target.value)} />
+          </Form.Group>
+
+          <Row className="mb-3">
+            <Col md={6}>
+               <h6 className="fw-semibold mb-3">Contact Info</h6>
+               <Form.Group className="mb-2">
+                 <Form.Label className="small">Address</Form.Label>
+                 <Form.Control type="text" value={formData.footer.contactInfo?.address || ''} onChange={(e) => handleContactChange('address', e.target.value)} />
+               </Form.Group>
+               <Form.Group className="mb-2">
+                 <Form.Label className="small">Phone</Form.Label>
+                 <Form.Control type="text" value={formData.footer.contactInfo?.phone || ''} onChange={(e) => handleContactChange('phone', e.target.value)} />
+               </Form.Group>
+               <Form.Group className="mb-2">
+                 <Form.Label className="small">Email</Form.Label>
+                 <Form.Control type="text" value={formData.footer.contactInfo?.email || ''} onChange={(e) => handleContactChange('email', e.target.value)} />
+               </Form.Group>
+            </Col>
+            <Col md={6}>
+               <h6 className="fw-semibold mb-3">Social Links</h6>
+               <Form.Group className="mb-2">
+                 <Form.Label className="small">Facebook</Form.Label>
+                 <Form.Control type="url" value={formData.footer.social?.facebook || ''} onChange={(e) => handleSocialChange('facebook', e.target.value)} />
+               </Form.Group>
+               <Form.Group className="mb-2">
+                 <Form.Label className="small">Twitter</Form.Label>
+                 <Form.Control type="url" value={formData.footer.social?.twitter || ''} onChange={(e) => handleSocialChange('twitter', e.target.value)} />
+               </Form.Group>
+               <Form.Group className="mb-2">
+                 <Form.Label className="small">Instagram</Form.Label>
+                 <Form.Control type="url" value={formData.footer.social?.instagram || ''} onChange={(e) => handleSocialChange('instagram', e.target.value)} />
+               </Form.Group>
+               <Form.Group className="mb-2">
+                 <Form.Label className="small">LinkedIn</Form.Label>
+                 <Form.Control type="url" value={formData.footer.social?.linkedin || ''} onChange={(e) => handleSocialChange('linkedin', e.target.value)} />
+               </Form.Group>
+            </Col>
+          </Row>
+        </Card>
+
+        <Button type="submit" variant="success" className="w-100 py-3 fw-bold fs-5 rounded-1" style={{backgroundColor: '#16a34a', border: 'none'}}>
+          Save Settings
+        </Button>
+      </Form>
+    </div>
+  );
+};

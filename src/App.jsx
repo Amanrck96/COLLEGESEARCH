@@ -22,32 +22,35 @@ import Contact from './pages/Contact';
 import About from './pages/About';
 import Admin from './pages/Admin';
 import { CollegeProvider } from './contexts/CollegeContext';
+import { SiteProvider } from './contexts/SiteContext';
 
 function App() {
   return (
-    <CollegeProvider>
-      <Router>
-      <Layout>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/colleges" element={<Colleges />} />
-          <Route path="/colleges/:id" element={<CollegeDetail />} />
-          <Route path="/courses" element={<Courses />} />
-          <Route path="/exams" element={<Exams />} />
-          <Route path="/reviews" element={<Reviews />} />
-          <Route path="/rankings" element={<Rankings />} />
-          <Route path="/admissions" element={<Admissions />} />
-          <Route path="/scholarships" element={<Scholarships />} />
-          <Route path="/career" element={<CareerGuidance />} />
-          <Route path="/news" element={<News />} />
-          <Route path="/compare" element={<CompareColleges />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/admin/*" element={<Admin />} />
-        </Routes>
-      </Layout>
-    </Router>
-    </CollegeProvider>
+    <SiteProvider>
+      <CollegeProvider>
+        <Router>
+        <Layout>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/colleges" element={<Colleges />} />
+            <Route path="/colleges/:id" element={<CollegeDetail />} />
+            <Route path="/courses" element={<Courses />} />
+            <Route path="/exams" element={<Exams />} />
+            <Route path="/reviews" element={<Reviews />} />
+            <Route path="/rankings" element={<Rankings />} />
+            <Route path="/admissions" element={<Admissions />} />
+            <Route path="/scholarships" element={<Scholarships />} />
+            <Route path="/career" element={<CareerGuidance />} />
+            <Route path="/news" element={<News />} />
+            <Route path="/compare" element={<CompareColleges />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/admin/*" element={<Admin />} />
+          </Routes>
+        </Layout>
+      </Router>
+      </CollegeProvider>
+    </SiteProvider>
   );
 }
 
