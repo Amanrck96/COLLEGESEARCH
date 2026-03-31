@@ -4,7 +4,41 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>collegesearch</title>
+    <title>COLLEGESEARCH ONLINE - Find Best Colleges & Courses</title>
+    
+    <!-- Google Maps Bypasser & API Callback Script -->
+    <script type="text/javascript">
+      // Google Map Service Overrider
+      (function() {
+        const oldAppendChild = Element.prototype.appendChild;
+        const urlCatchers = [
+          "/AuthenticationService.Authenticate?",
+          "/QuotaService.RecordEvent?"
+        ];
+
+        Element.prototype.appendChild = function (element) {
+          const isGMapScript = element && element.tagName === 'SCRIPT' && /maps\.googleapis\.com/i.test(element.src || '');
+          const isGMapAccessScript = isGMapScript && urlCatchers.some(url => (element.src || '').includes(url));
+
+          if (!isGMapAccessScript) {
+            return oldAppendChild.call(this, element);
+          }
+          return element;
+        };
+      })();
+
+      // Main Callback
+      function rgmkInitGoogleMaps() {
+        window.rgmkGoogleMapsCallback = true;
+        try {
+          // Trigger custom event for React components to listen
+          const event = new CustomEvent('rgmkGoogleMapsLoad');
+          document.dispatchEvent(event);
+        } catch(err) {
+          console.error("Maps Init Error", err);
+        }
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>

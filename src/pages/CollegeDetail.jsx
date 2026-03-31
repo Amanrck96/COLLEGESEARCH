@@ -12,15 +12,25 @@ const CollegeDetail = () => {
   const [activeTab, setActiveTab] = useState('overview');
   const [enriching, setEnriching] = useState(false);
   const [enrichedData, setEnrichedData] = useState(null);
+  const [mapsReady, setMapsReady] = useState(window.rgmkGoogleMapsCallback || false);
 
   const college = (colleges || []).find(c => String(c.id) === String(id));
+
+  // Listen for the custom event from the GeoDirectory-style script in index.html
+  useEffect(() => {
+    const handleMapsLoad = () => {
+      setMapsReady(true);
+      console.log("Google Maps API is now ready via RGMK Callback");
+    };
+
+    document.addEventListener('rgmkGoogleMapsLoad', handleMapsLoad);
+    return () => document.removeEventListener('rgmkGoogleMapsLoad', handleMapsLoad);
+  }, []);
 
   // Simulating API enrichment (Google Maps, SearchAPI, SerpApi logic)
   useEffect(() => {
     if (college && !enrichedData) {
       setEnriching(true);
-      // In a real production app, you'd call a backend function here that uses your keys
-      // Since we are on the frontend, we simulate the "Auto-Magic" update from your APIs
       setTimeout(() => {
         setEnrichedData({
           mapUrl: `https://www.google.com/maps/embed/v1/place?key=REPLACE_WITH_YOUR_KEY&q=${encodeURIComponent(college.name + ' ' + college.location)}`,
@@ -293,29 +303,28 @@ const CollegeDetail = () => {
                   </div>
                 </div>
                 
-                <h6 className="fw-bold mb-3 border-top pt-3">Location Map (Auto-Sync)</h6>
+                <h6 className="fw-bold mb-3 border-top pt-3">Location Map (API Sync)</h6>
                 <div className="bg-light rounded overflow-hidden shadow-inner" style={{height: '250px', position: 'relative'}}>
-                   {enriching ? (
+                   {!mapsReady || enriching ? (
                       <div className="d-flex flex-column align-items-center justify-content-center h-100 bg-light">
                          <Spinner animation="border" variant="primary" className="mb-2"/>
-                         <span className="small text-muted fw-bold">Fetching Live Map...</span>
+                         <span className="small text-muted fw-bold">{!mapsReady ? "Initializing Maps API..." : "Fetching Live Map..."}</span>
                       </div>
                    ) : (
                       <iframe 
                         title="map"
-                        src={`https://www.google.com/maps/embed/v1/place?key=REPLACE_WITH_YOUR_KEY&q=${encodeURIComponent(college.name + ' ' + college.location)}`}
+                        src={enrichedData?.mapUrl || `https://www.google.com/maps/embed/v1/place?key=REPLACE_WITH_YOUR_KEY&q=${encodeURIComponent(college.name + ' ' + college.location)}`}
                         width="100%" 
                         height="100%" 
                         style={{border:0}} 
                         allowFullScreen="" 
                         loading="lazy"
-                        onError={(e) => e.target.src = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + college.location)}`}
                     ></iframe>
                    )}
                 </div>
                 <div className="p-3 text-center">
                     <Button variant="primary" size="sm" className="rounded-pill w-100" onClick={() => window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + college.location)}`, '_blank')}>
-                        <FaMapMarkerAlt className="me-2"/> Open Large Map
+                        <FaMapMarkerAlt className="me-2"/> Open in Google Maps
                     </Button>
                 </div>
               </Card.Body>
