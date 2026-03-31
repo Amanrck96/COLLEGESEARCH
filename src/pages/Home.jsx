@@ -11,27 +11,17 @@ const fadeInUp = {
 };
 
 const SectionData = {
-  colleges: [
-    { name: "Indian Institute of Technology (IIT)", location: "Delhi", rating: 4.8, type: "Government", img: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=400" },
-    { name: "National Institute of Design (NID)", location: "Ahmedabad", rating: 4.7, type: "Autonomous", img: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400" },
-    { name: "Indian Institute of Management (IIM)", location: "Bangalore", rating: 4.9, type: "Government", img: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?auto=format&fit=crop&q=80&w=400" },
-    { name: "All India Institute of Medical Sciences", location: "New Delhi", rating: 4.9, type: "Government", img: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=400" }
-  ],
   courses: [
     { title: "B.Tech in Computer Science", duration: "4 Years", exams: "JEE Main, BITSAT", icon: <FaBookOpen size={30} color="var(--accent-light)"/> },
     { title: "Master of Business Administration (MBA)", duration: "2 Years", exams: "CAT, XAT, MAT", icon: <FaGraduationCap size={30} color="var(--accent-light)"/> },
     { title: "Bachelor of Medicine (MBBS)", duration: "5.5 Years", exams: "NEET UG", icon: <FaBookOpen size={30} color="var(--accent-light)"/> },
     { title: "Bachelor of Fine Arts (BFA)", duration: "4 Years", exams: "NID DAT, UCEED", icon: <FaBookOpen size={30} color="var(--accent-light)"/> }
-  ],
-  exams: [
-    { name: "JEE Advanced 2026", date: "May 25, 2026", level: "National", tag: "Engineering" },
-    { name: "NEET UG 2026", date: "May 03, 2026", level: "National", tag: "Medical" },
-    { name: "CAT 2026", date: "Nov 30, 2026", level: "National", tag: "Management" }
   ]
 };
 
 const Home = () => {
-  const { colleges } = React.useContext(CollegeContext);
+  const { colleges, exams } = React.useContext(CollegeContext);
+  
   return (
     <div>
       {/* Hero Section */}
@@ -42,7 +32,7 @@ const Home = () => {
           </motion.h1>
           
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3, duration: 0.8 }} className="fs-6 mb-4 fw-medium" style={{color: '#f8f9fa'}}>
-            66,000+ Colleges <span className="mx-2 text-warning">•</span> 4,80,000+ Courses <span className="mx-2 text-warning">•</span> 6,85,000+ Reviews <span className="mx-2 text-warning">•</span> 1,150+ Exams
+            {colleges.length}+ Colleges <span className="mx-2 text-warning">•</span> 4,80,000+ Courses <span className="mx-2 text-warning">•</span> 6,85,000+ Reviews <span className="mx-2 text-warning">•</span> {exams.length}+ Exams
           </motion.div>
           
           <motion.div initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ delay: 0.5 }}>
@@ -62,19 +52,19 @@ const Home = () => {
             <p>Explore the top-ranked institutions based on placement, faculty, and student reviews.</p>
           </div>
           <Row className="g-4">
-            {(colleges || SectionData.colleges).slice(0, 4).map((college, idx) => (
+            {(colleges || []).slice(0, 4).map((college, idx) => (
               <Col md={6} lg={3} key={idx}>
                 <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
                   <Card className="custom-card h-100 border-0">
-                    <Card.Img variant="top" src={college.img} className="card-img-top-custom" />
+                    <Card.Img variant="top" src={college.img} className="card-img-top-custom" style={{height: '200px', objectFit: 'cover'}} />
                     <Card.Body className="d-flex flex-column">
                       <div className="mb-2">
-                        <span className="meta-badge">{college.type}</span>
+                        <span className="badge bg-light text-primary me-2">{college.type}</span>
                         <Badge bg="warning" text="dark"><FaStar className="mb-1 me-1"/>{college.rating}</Badge>
                       </div>
-                      <Card.Title className="fw-bold text-primary flex-grow-1">{college.name}</Card.Title>
-                      <Card.Text className="text-muted mb-3"><FaUniversity className="me-2"/>{college.location}</Card.Text>
-                      <Link to={`/colleges/c${idx+1}`} className="btn btn-outline-primary rounded-pill w-100">View Details</Link>
+                      <Card.Title className="fw-bold text-primary flex-grow-1" style={{fontSize: '1.1rem'}}>{college.name}</Card.Title>
+                      <Card.Text className="text-muted mb-3 small"><FaUniversity className="me-2"/>{college.location}</Card.Text>
+                      <Link to={`/colleges/${college.id}`} className="btn btn-outline-primary rounded-pill w-100">View Details</Link>
                     </Card.Body>
                   </Card>
                 </motion.div>
@@ -125,7 +115,7 @@ const Home = () => {
                 <h3 className="fw-bold text-primary border-bottom pb-3 border-2 border-primary" style={{display: 'inline-block'}}>Upcoming Exams</h3>
               </div>
               <Row className="gy-3">
-                {SectionData.exams.map((exam, i) => (
+                {exams.slice(0, 3).map((exam, i) => (
                   <Col sm={12} key={i}>
                     <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true }}>
                       <div className="d-flex align-items-center bg-light p-3 rounded-3 shadow-sm border-start border-4 border-primary">
@@ -142,6 +132,7 @@ const Home = () => {
                     </motion.div>
                   </Col>
                 ))}
+                {exams.length === 0 && <p className="text-muted">No exams found in Excel data.</p>}
               </Row>
               <div className="mt-4"><Link to="/exams" className="text-decoration-none fw-bold" style={{color: 'var(--accent-gold)'}}>See all exams <FaChevronRight /></Link></div>
             </Col>

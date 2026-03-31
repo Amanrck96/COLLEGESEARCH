@@ -3,18 +3,32 @@ import { Container, Row, Col, Card, Form, InputGroup, Badge } from 'react-bootst
 import { motion } from 'framer-motion';
 import { FaSearch, FaLaptopCode, FaStethoscope, FaChartPie, FaPaintBrush, FaBalanceScale } from 'react-icons/fa';
 
-const coursesData = [
-  { title: "B.Tech Computer Science", duration: "4 Years", avgFee: "₹8L - ₹15L", category: "Engineering", icon: <FaLaptopCode size={40} className="text-primary"/> },
-  { title: "MBBS", duration: "5.5 Years", avgFee: "₹10L - ₹1Cr", category: "Medical", icon: <FaStethoscope size={40} className="text-danger"/> },
-  { title: "MBA Finance", duration: "2 Years", avgFee: "₹10L - ₹25L", category: "Management", icon: <FaChartPie size={40} className="text-success"/> },
-  { title: "B.Des Fashion", duration: "4 Years", avgFee: "₹5L - ₹12L", category: "Design", icon: <FaPaintBrush size={40} className="text-warning"/> },
-  { title: "BA LLB", duration: "5 Years", avgFee: "₹4L - ₹10L", category: "Law", icon: <FaBalanceScale size={40} className="text-info"/> },
-];
+import { CollegeContext } from '../contexts/CollegeContext';
+
+const getCategoryIcon = (cat) => {
+  const size = 40;
+  switch (cat) {
+    case 'Engineering': return <FaLaptopCode size={size} className="text-primary"/>;
+    case 'Medical': return <FaStethoscope size={size} className="text-danger"/>;
+    case 'Management': return <FaChartPie size={size} className="text-success"/>;
+    case 'Design': return <FaPaintBrush size={size} className="text-warning"/>;
+    case 'Law': return <FaBalanceScale size={size} className="text-info"/>;
+    default: return <FaLaptopCode size={size} className="text-primary"/>;
+  }
+};
 
 const Courses = () => {
+  const { courses } = React.useContext(CollegeContext);
   const [filter, setFilter] = useState('All');
+  const [searchTerm, setSearchTerm] = useState('');
 
-  const filteredCourses = filter === 'All' ? coursesData : coursesData.filter(c => c.category === filter);
+  let filteredCourses = (courses || []);
+  if (filter !== 'All') {
+    filteredCourses = filteredCourses.filter(c => c.category === filter);
+  }
+  if (searchTerm) {
+    filteredCourses = filteredCourses.filter(c => c.title.toLowerCase().includes(searchTerm.toLowerCase()));
+  }
 
   return (
     <div className="pt-2 bg-light min-vh-100 pb-5">
@@ -25,7 +39,13 @@ const Courses = () => {
           <div className="mx-auto" style={{maxWidth: '600px'}}>
             <InputGroup size="lg" className="shadow">
               <InputGroup.Text className="bg-white border-0"><FaSearch color="var(--primary)"/></InputGroup.Text>
-              <Form.Control type="text" placeholder="Search by course name, e.g. B.Tech" className="border-0 shadow-none"/>
+              <Form.Control 
+                type="text" 
+                placeholder="Search by course name, e.g. B.Tech" 
+                className="border-0 shadow-none"
+                value={searchTerm}
+                onChange={(e) => setSearchTerm(e.target.value)}
+              />
             </InputGroup>
           </div>
         </Container>
@@ -33,7 +53,7 @@ const Courses = () => {
 
       <Container className="mt-5">
         <div className="d-flex justify-content-center gap-2 mb-5 flex-wrap">
-          {['All', 'Engineering', 'Medical', 'Management', 'Design', 'Law'].map(cat => (
+          {['All', 'Engineering', 'Medical', 'Management', 'Design', 'Law', 'Science', 'Arts'].map(cat => (
             <Badge 
               key={cat} 
               pill 
@@ -51,9 +71,9 @@ const Courses = () => {
         <Row className="g-4">
           {filteredCourses.map((course, idx) => (
             <Col md={6} lg={4} key={idx}>
-              <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.1 }}>
+              <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.05 }}>
                 <Card className="custom-card h-100 border-0 p-3 text-center">
-                  <div className="mt-3 mb-4">{course.icon}</div>
+                  <div className="mt-3 mb-4">{getCategoryIcon(course.category)}</div>
                   <Card.Body>
                     <Badge bg="light" text="primary" className="mb-2">{course.category}</Badge>
                     <Card.Title className="fw-bold mb-3">{course.title}</Card.Title>

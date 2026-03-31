@@ -3,9 +3,11 @@ import { Navbar, Nav, Container, Form, Button, InputGroup, Row, Col } from 'reac
 import { Link } from 'react-router-dom';
 import { FaAngleRight } from 'react-icons/fa';
 import { SiteContext } from '../contexts/SiteContext';
+import { CollegeContext } from '../contexts/CollegeContext';
 
 const Header = () => {
   const { siteData } = useContext(SiteContext);
+  const { colleges } = useContext(CollegeContext);
   const { mbaTabs, engTabs, medTabs, desTabs, moreTabs, studyTabs, counselingTabs, onlineTabs } = siteData.header;
 
   const [activeMbaTab, setActiveMbaTab] = useState(mbaTabs[0] || '');
@@ -66,7 +68,7 @@ const Header = () => {
               
               {/* MBA MEGA MENU */}
               <div className="nav-item">
-                <Nav.Link as={Link} to="/courses" className="fw-semibold">MBA <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
+                <Nav.Link as={Link} to="/colleges" className="fw-semibold">MBA <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
                   <div className="mega-sidebar">
                     {mbaTabs.map(tab => (
@@ -83,25 +85,23 @@ const Header = () => {
                     {activeMbaTab === 'Top Ranked Colleges' && (
                        <Row>
                          <Col md={5}>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in India</Link>
-                           <Link to="/courses" className="mega-link">Top Private MBA Colleges in India</Link>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in Bangalore</Link>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in Mumbai</Link>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in Pune</Link>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in Hyderabad</Link>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in Delhi</Link>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in Chennai</Link>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in Maharashtra</Link>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in Kolkata</Link>
-                           <Link to="/courses" className="mega-link">Top MBA Colleges in Kerala</Link>
+                            <Link to="/colleges?q=India" className="mega-link">Top MBA Colleges in India</Link>
+                            <Link to="/colleges?q=Private" className="mega-link">Top Private MBA Colleges in India</Link>
+                            <Link to="/colleges?q=Bangalore" className="mega-link">Top MBA Colleges in Bangalore</Link>
+                            <Link to="/colleges?q=Mumbai" className="mega-link">Top MBA Colleges in Mumbai</Link>
+                            <Link to="/colleges?q=Pune" className="mega-link">Top MBA Colleges in Pune</Link>
+                            <Link to="/colleges?q=Hyderabad" className="mega-link">Top MBA Colleges in Hyderabad</Link>
+                            <Link to="/colleges?q=Delhi" className="mega-link">Top MBA Colleges in Delhi</Link>
+                            <Link to="/colleges?q=Chennai" className="mega-link">Top MBA Colleges in Chennai</Link>
+                            <Link to="/colleges?q=Maharashtra" className="mega-link">Top MBA Colleges in Maharashtra</Link>
+                            <Link to="/colleges?q=Kolkata" className="mega-link">Top MBA Colleges in Kolkata</Link>
+                            <Link to="/colleges?q=Kerala" className="mega-link">Top MBA Colleges in Kerala</Link>
                          </Col>
                          <Col md={7}>
                            <div className="mega-title">Featured Colleges</div>
-                           <Link to="/colleges/1" className="mega-link">International Institute of Management Studies (IIMS Pune)</Link>
-                           <Link to="/colleges/2" className="mega-link">IIEBM - Indus Business School</Link>
-                           <Link to="/colleges/3" className="mega-link">CGC University, Mohali</Link>
-                           <Link to="/colleges/4" className="mega-link">Jagan Institute of Management Studies, Rohini</Link>
-                           <Link to="/colleges/5" className="mega-link">Chandigarh University (CU)</Link>
+                           {(colleges || []).slice(0, 5).map(college => (
+                             <Link key={college.id} to={`/colleges/${college.id}`} className="mega-link">{college.name}</Link>
+                           ))}
                          </Col>
                        </Row>
                     )}
@@ -112,7 +112,7 @@ const Header = () => {
 
               {/* ENGINEERING MEGA MENU */}
               <div className="nav-item">
-                <Nav.Link as={Link} to="/courses" className="fw-semibold">ENGINEERING <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
+                <Nav.Link as={Link} to="/colleges" className="fw-semibold">ENGINEERING <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
                   <div className="mega-sidebar">
                     {engTabs.map(tab => (
@@ -129,26 +129,24 @@ const Header = () => {
                     {activeEngTab === 'Top Ranked Colleges' && (
                        <Row>
                          <Col md={5}>
-                           <Link to="/courses" className="mega-link">Top Engineering Colleges in India</Link>
-                           <Link to="/courses" className="mega-link">Top Private Engineering Colleges in India</Link>
-                           <Link to="/courses" className="mega-link">Top IITs in India</Link>
-                           <Link to="/courses" className="mega-link">Top NITs in India</Link>
-                           <Link to="/courses" className="mega-link">Top Engineering Colleges in Bangalore</Link>
-                           <Link to="/courses" className="mega-link">Top Engineering Colleges in Karnataka</Link>
-                           <Link to="/courses" className="mega-link">Top Engineering Colleges in Hyderabad</Link>
-                           <Link to="/courses" className="mega-link">Top Engineering Colleges in Pune</Link>
-                           <Link to="/courses" className="mega-link">Top Engineering Colleges in Mumbai</Link>
-                           <Link to="/courses" className="mega-link">Top Engineering Colleges in Maharashtra</Link>
-                           <Link to="/courses" className="mega-link">Top Engineering Colleges in Chennai</Link>
-                           <Link to="/courses" className="mega-link">Top Engineering Colleges in Kerala</Link>
+                            <Link to="/colleges?q=India" className="mega-link">Top Engineering Colleges in India</Link>
+                            <Link to="/colleges?q=Private" className="mega-link">Top Private Engineering Colleges in India</Link>
+                            <Link to="/colleges?q=IIT" className="mega-link">Top IITs in India</Link>
+                            <Link to="/colleges?q=NIT" className="mega-link">Top NITs in India</Link>
+                            <Link to="/colleges?q=Bangalore" className="mega-link">Top Engineering Colleges in Bangalore</Link>
+                            <Link to="/colleges?q=Karnataka" className="mega-link">Top Engineering Colleges in Karnataka</Link>
+                            <Link to="/colleges?q=Hyderabad" className="mega-link">Top Engineering Colleges in Hyderabad</Link>
+                            <Link to="/colleges?q=Pune" className="mega-link">Top Engineering Colleges in Pune</Link>
+                            <Link to="/colleges?q=Mumbai" className="mega-link">Top Engineering Colleges in Mumbai</Link>
+                            <Link to="/colleges?q=Maharashtra" className="mega-link">Top Engineering Colleges in Maharashtra</Link>
+                            <Link to="/colleges?q=Chennai" className="mega-link">Top Engineering Colleges in Chennai</Link>
+                            <Link to="/colleges?q=Kerala" className="mega-link">Top Engineering Colleges in Kerala</Link>
                          </Col>
                          <Col md={7}>
                            <div className="mega-title">Featured Colleges</div>
-                           <Link to="/colleges/1" className="mega-link">NHCE Bangalore - New Horizon College of Engineering</Link>
-                           <Link to="/colleges/2" className="mega-link">Dev Bhoomi School of Engineering, Dev Bhoomi Uttarakhand University</Link>
-                           <Link to="/colleges/3" className="mega-link">CGC University, Mohali</Link>
-                           <Link to="/colleges/4" className="mega-link">Jain Deemed -to- be University, Faculty of Engineering and Technology</Link>
-                           <Link to="/colleges/5" className="mega-link">Chandigarh University (CU)</Link>
+                           {(colleges || []).slice(5, 10).map(college => (
+                             <Link key={college.id} to={`/colleges/${college.id}`} className="mega-link">{college.name}</Link>
+                           ))}
                          </Col>
                        </Row>
                     )}
@@ -159,7 +157,7 @@ const Header = () => {
 
               {/* MEDICAL MEGA MENU */}
               <div className="nav-item">
-                <Nav.Link as={Link} to="/courses" className="fw-semibold">MEDICAL <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
+                <Nav.Link as={Link} to="/colleges" className="fw-semibold">MEDICAL <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
                   <div className="mega-sidebar">
                     {medTabs.map(tab => (
@@ -176,15 +174,15 @@ const Header = () => {
                     {activeMedTab === 'Top Ranked Colleges' && (
                        <Row>
                          <Col md={6}>
-                           <Link to="/courses" className="mega-link">Top Medical Colleges in India</Link>
-                           <Link to="/courses" className="mega-link">Top Medical Colleges in Karnataka</Link>
-                           <Link to="/courses" className="mega-link">Top Pharmacy Colleges in India</Link>
-                           <Link to="/courses" className="mega-link">Top Medical Colleges in Bangalore</Link>
-                           <Link to="/courses" className="mega-link">Top Dental Colleges in India</Link>
-                           <Link to="/courses" className="mega-link">Top Medical Colleges in Maharashtra</Link>
-                           <Link to="/courses" className="mega-link">Top Medical Colleges in Mumbai</Link>
-                           <Link to="/courses" className="mega-link">Top Medical Colleges in Delhi</Link>
-                           <Link to="/courses" className="mega-link">Top Pharmacy Colleges in Maharashtra</Link>
+                            <Link to="/colleges?q=Medical" className="mega-link">Top Medical Colleges in India</Link>
+                            <Link to="/colleges?q=Karnataka" className="mega-link">Top Medical Colleges in Karnataka</Link>
+                            <Link to="/colleges?q=Pharmacy" className="mega-link">Top Pharmacy Colleges in India</Link>
+                            <Link to="/colleges?q=Bangalore" className="mega-link">Top Medical Colleges in Bangalore</Link>
+                            <Link to="/colleges?q=Dental" className="mega-link">Top Dental Colleges in India</Link>
+                            <Link to="/colleges?q=Maharashtra" className="mega-link">Top Medical Colleges in Maharashtra</Link>
+                            <Link to="/colleges?q=Mumbai" className="mega-link">Top Medical Colleges in Mumbai</Link>
+                            <Link to="/colleges?q=Delhi" className="mega-link">Top Medical Colleges in Delhi</Link>
+                            <Link to="/colleges?q=Pharmacy" className="mega-link">Top Pharmacy Colleges in Maharashtra</Link>
                          </Col>
                        </Row>
                     )}
@@ -195,7 +193,7 @@ const Header = () => {
 
               {/* DESIGN MEGA MENU */}
               <div className="nav-item">
-                <Nav.Link as={Link} to="/courses" className="fw-semibold">DESIGN <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
+                <Nav.Link as={Link} to="/colleges" className="fw-semibold">DESIGN <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
                   <div className="mega-sidebar">
                     {desTabs.map(tab => (
@@ -212,9 +210,9 @@ const Header = () => {
                     {activeDesTab === 'Top Ranked Colleges' && (
                        <Row>
                          <Col md={6}>
-                           <Link to="/courses" className="mega-link">Top Fashion Designing Colleges in India</Link>
-                           <Link to="/courses" className="mega-link">Top Fashion Designing Colleges in Bangalore</Link>
-                           <Link to="/courses" className="mega-link">Top Fashion Designing Colleges in Delhi/NCR</Link>
+                            <Link to="/colleges?q=Fashion" className="mega-link">Top Fashion Designing Colleges in India</Link>
+                            <Link to="/colleges?q=Bangalore" className="mega-link">Top Fashion Designing Colleges in Bangalore</Link>
+                            <Link to="/colleges?q=Delhi" className="mega-link">Top Fashion Designing Colleges in Delhi/NCR</Link>
                          </Col>
                        </Row>
                     )}

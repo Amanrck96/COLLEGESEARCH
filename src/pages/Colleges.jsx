@@ -1,16 +1,25 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Card, Form, Badge, Button, InputGroup } from 'react-bootstrap';
 import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark } from 'react-icons/fa';
 
 import { CollegeContext } from '../contexts/CollegeContext';
 
 const Colleges = () => {
   const { colleges } = React.useContext(CollegeContext);
+  const location = useLocation();
   const [searchTerm, setSearchTerm] = useState("");
   const [saved, setSaved] = useState({});
   const [sortBy, setSortBy] = useState("rating");
+
+  useEffect(() => {
+    const params = new URLSearchParams(location.search);
+    const query = params.get('q');
+    if (query) {
+      setSearchTerm(query);
+    }
+  }, [location.search]);
 
   const toggleSave = (id) => {
     setSaved(prev => ({...prev, [id]: !prev[id]}));
@@ -18,7 +27,9 @@ const Colleges = () => {
 
   let filteredColleges = (colleges || []).filter(c => 
     c.name.toLowerCase().includes(searchTerm.toLowerCase()) || 
-    c.location.toLowerCase().includes(searchTerm.toLowerCase())
+    c.location.toLowerCase().includes(searchTerm.toLowerCase()) ||
+    c.state.toLowerCase().includes(searchTerm.toLowerCase()) ||
+    c.type.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   if (sortBy === "rating") {
@@ -41,7 +52,7 @@ const Colleges = () => {
                 <InputGroup.Text className="bg-white border-end-0"><FaSearch color="var(--primary)"/></InputGroup.Text>
                 <Form.Control 
                   type="text" 
-                  placeholder="Search by name, city..." 
+                  placeholder="Search by name, city, state..." 
                   className="border-start-0 ps-0 border-end-0" 
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
@@ -62,31 +73,24 @@ const Colleges = () => {
               </div>
               <Form>
                 <Form.Group className="mb-3">
-                  <Form.Label className="fw-medium text-dark">Location</Form.Label>
-                  <Form.Select className="text-muted text-sm shadow-none">
-                    <option>All Cities</option>
-                    <option>Delhi</option>
-                    <option>Bangalore</option>
-                    <option>Mumbai</option>
-                    <option>Pune</option>
-                  </Form.Select>
-                </Form.Group>
-                
-                <Form.Group className="mb-3">
-                  <Form.Label className="fw-medium text-dark">Course Type</Form.Label>
-                  <Form.Check type="checkbox" label="Engineering" className="text-muted small mb-1" />
-                  <Form.Check type="checkbox" label="Management" className="text-muted small mb-1" />
-                  <Form.Check type="checkbox" label="Medical" className="text-muted small mb-1" />
-                  <Form.Check type="checkbox" label="Design" className="text-muted small" />
-                </Form.Group>
-
-                <Form.Group className="mb-4">
-                  <Form.Label className="fw-medium text-dark">Institute Type</Form.Label>
-                  <Form.Check type="checkbox" label="Government" className="text-muted small mb-1" />
-                  <Form.Check type="checkbox" label="Private" className="text-muted small" />
+                  <Form.Label className="fw-medium text-dark">Quick Filters</Form.Label>
+                  <div className="d-flex flex-wrap gap-2">
+                    {['India', 'Bangalore', 'Mumbai', 'Delhi', 'Pune', 'Government', 'Private'].map(tag => (
+                      <Badge 
+                        key={tag} 
+                        bg={searchTerm.toLowerCase() === tag.toLowerCase() ? 'primary' : 'light'} 
+                        text={searchTerm.toLowerCase() === tag.toLowerCase() ? 'white' : 'dark'}
+                        className="cursor-pointer py-2 px-3 border"
+                        style={{cursor: 'pointer'}}
+                        onClick={() => setSearchTerm(tag)}
+                      >
+                        {tag}
+                      </Badge>
+                    ))}
+                  </div>
                 </Form.Group>
 
-                <Button variant="outline-primary" className="w-100 btn-sm rounded-pill">Apply Filters</Button>
+                <Button variant="outline-primary" className="w-100 btn-sm rounded-pill mt-3" onClick={() => setSearchTerm("")}>Clear All</Button>
               </Form>
             </Card>
           </Col>
@@ -94,7 +98,7 @@ const Colleges = () => {
           {/* College List */}
           <Col lg={9}>
             <div className="d-flex justify-content-between align-items-center mb-3">
-              <span className="text-muted">{filteredColleges.length} Colleges Found</span>
+              <span className="text-muted">{filteredColleges.length} Colleges Found {searchTerm && `for "${searchTerm}"`}</span>
               <div className="d-flex align-items-center">
                 <span className="me-2 text-muted small">Sort By:</span>
                 <Form.Select size="sm" value={sortBy} onChange={(e) => setSortBy(e.target.value)} style={{width: 'auto'}}>
@@ -106,7 +110,7 @@ const Colleges = () => {
             <Row className="g-4">
               {filteredColleges.map((college, idx) => (
                 <Col md={6} key={college.id}>
-                  <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: idx * 0.1, duration: 0.5 }}>
+                  <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: (idx % 10) * 0.1, duration: 0.5 }}>
                     <Card className="custom-card h-100 border-0">
                       <div className="position-relative">
                         <Card.Img variant="top" src={college.img} className="card-img-top-custom" style={{height: '220px'}} />
@@ -126,7 +130,7 @@ const Colleges = () => {
                           <span className="badge bg-light text-primary me-2">{college.type}</span>
                         </div>
                         <Card.Title className="fw-bold text-primary mb-1">{college.name}</Card.Title>
-                        <Card.Text className="text-muted small mb-3"><FaMapMarkerAlt className="me-1 text-danger"/>{college.location}</Card.Text>
+                        <Card.Text className="text-muted small mb-3"><FaMapMarkerAlt className="me-1 text-danger"/>{college.address || college.location}</Card.Text>
                         
                         <div className="bg-light p-3 rounded-3 mb-3 d-flex justify-content-between text-center flex-grow-1 align-items-center">
                           <div>
@@ -134,8 +138,8 @@ const Colleges = () => {
                             <div className="fw-bold text-dark">{college.fees}</div>
                           </div>
                           <div>
-                            <div className="text-muted small mb-1">Exams Accepted</div>
-                            <div className="fw-bold text-dark">{college.exams}</div>
+                            <div className="text-muted small mb-1">Location</div>
+                            <div className="fw-bold text-dark">{college.location}</div>
                           </div>
                         </div>
 

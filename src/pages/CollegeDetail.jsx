@@ -3,24 +3,35 @@ import { Container, Row, Col, Card, Nav, Tab, Badge, Button, Image } from 'react
 import { motion } from 'framer-motion';
 import { FaMapMarkerAlt, FaStar, FaBuilding, FaInfoCircle, FaPhoneAlt, FaGlobe, FaEnvelope } from 'react-icons/fa';
 
+import { useParams } from 'react-router-dom';
+import { CollegeContext } from '../contexts/CollegeContext';
+
 const CollegeDetail = () => {
+  const { id } = useParams();
+  const { colleges } = React.useContext(CollegeContext);
   const [activeTab, setActiveTab] = useState('overview');
+
+  const college = (colleges || []).find(c => String(c.id) === String(id));
+
+  if (!college) {
+    return <Container className="my-5 text-center"><h3>College Not Found</h3></Container>;
+  }
 
   return (
     <div className="pt-2">
       {/* Detail Header */}
       <section className="bg-light pb-5 position-relative">
         <div style={{height: '350px', width: '100%', overflow: 'hidden'}} className="position-relative">
-          <Image src="https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1200" className="w-100 h-100 object-fit-cover" style={{filter: 'brightness(60%)'}} />
+          <Image src={college.img || "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1200"} className="w-100 h-100 object-fit-cover" style={{filter: 'brightness(60%)'}} />
           <Container className="position-absolute bottom-0 start-50 translate-middle-x pb-4">
             <Row className="align-items-end text-white">
               <Col md={8}>
                 <div className="d-flex align-items-center mb-3">
-                  <Badge bg="warning" text="dark" className="fs-6 me-3"><FaStar className="me-1 mb-1"/>4.8 Rating</Badge>
-                  <Badge bg="primary" className="fs-6">Govt. Institute</Badge>
+                  <Badge bg="warning" text="dark" className="fs-6 me-3"><FaStar className="me-1 mb-1"/>{college.rating} Rating</Badge>
+                  <Badge bg="primary" className="fs-6">{college.type}</Badge>
                 </div>
-                <h1 className="fw-bold display-5 mb-2 text-white">Indian Institute of Technology (IIT) Delhi</h1>
-                <p className="fs-5 mb-0"><FaMapMarkerAlt className="me-2 text-danger"/>Hauz Khas, New Delhi, Delhi 110016</p>
+                <h1 className="fw-bold display-5 mb-2 text-white">{college.name}</h1>
+                <p className="fs-5 mb-0"><FaMapMarkerAlt className="me-2 text-danger"/>{college.address}</p>
               </Col>
               <Col md={4} className="text-md-end mt-4 mt-md-0">
                 <Button className="btn-primary-custom btn-lg shadow w-100 mb-2">Apply for Admission</Button>
@@ -51,15 +62,15 @@ const CollegeDetail = () => {
                   <motion.div initial={{opacity:0}} animate={{opacity:1}} transition={{duration:0.4}}>
                     <Card className="border-0 shadow-sm mb-4">
                       <Card.Body className="p-4">
-                        <h4 className="fw-bold text-primary mb-3">About IIT Delhi</h4>
+                        <h4 className="fw-bold text-primary mb-3">About {college.name}</h4>
                         <p className="text-muted" style={{lineHeight: '1.8'}}>
-                          Indian Institute of Technology Delhi is one of the 23 IITs created to be Centres of Excellence for training, research and development in science, engineering and technology in India. Established as College of Engineering in 1961.
+                          {college.about}
                         </p>
                         <h5 className="fw-bold text-dark mt-4 mb-3">Highlights</h5>
                         <ul className="list-group list-group-flush border-top border-bottom">
-                          <li className="list-group-item d-flex justify-content-between text-muted"><span className="fw-medium text-dark">Establishment Year</span> 1961</li>
-                          <li className="list-group-item d-flex justify-content-between text-muted"><span className="fw-medium text-dark">Campus Size</span> 320 Acres</li>
-                          <li className="list-group-item d-flex justify-content-between text-muted"><span className="fw-medium text-dark">NIRF Ranking 2025</span> #2 in Engineering</li>
+                          <li className="list-group-item d-flex justify-content-between text-muted"><span className="fw-medium text-dark">Location</span> {college.location}</li>
+                          <li className="list-group-item d-flex justify-content-between text-muted"><span className="fw-medium text-dark">State</span> {college.state}</li>
+                          <li className="list-group-item d-flex justify-content-between text-muted"><span className="fw-medium text-dark">Ranking</span> #{college.ranking}</li>
                           <li className="list-group-item d-flex justify-content-between text-muted"><span className="fw-medium text-dark">Total Faculty</span> 600+</li>
                         </ul>
                       </Card.Body>
@@ -125,15 +136,15 @@ const CollegeDetail = () => {
                   <motion.div initial={{opacity:0}} animate={{opacity:1}} transition={{duration:0.4}}>
                      <Card className="border-0 shadow-sm p-4">
                        <h4 className="fw-bold text-primary mb-4">Student Reviews</h4>
-                       <div className="d-flex align-items-center mb-4 p-3 bg-light rounded">
-                         <h1 className="display-4 fw-bold text-dark mb-0 me-3">4.8</h1>
-                         <div>
-                           <div className="text-warning fs-5">
-                             <FaStar/><FaStar/><FaStar/><FaStar/><FaStar className="text-muted"/>
-                           </div>
-                           <span className="text-muted small">Based on 1250 Verified Reviews</span>
-                         </div>
-                       </div>
+                         <div className="d-flex align-items-center mb-4 p-3 bg-light rounded">
+                          <h1 className="display-4 fw-bold text-dark mb-0 me-3">{college.rating}</h1>
+                          <div>
+                            <div className="text-warning fs-5">
+                              <FaStar/><FaStar/><FaStar/><FaStar/><FaStar className="text-muted"/>
+                            </div>
+                            <span className="text-muted small">Based on {college.reviews} Verified Reviews</span>
+                          </div>
+                        </div>
                        
                        <div className="border-bottom pb-4 mb-4">
                          <div className="d-flex justify-content-between align-items-center mb-2">
@@ -186,25 +197,18 @@ const CollegeDetail = () => {
                      <Card className="border-0 shadow-sm p-4">
                        <h4 className="fw-bold text-primary mb-4">Campus Gallery</h4>
                        <Row className="g-3">
-                         {[
-                           "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
-                           "https://images.unsplash.com/photo-1592284988080-87b40b171bc8?auto=format&fit=crop&q=80&w=400",
-                           "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80&w=400",
-                           "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=400",
-                           "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?auto=format&fit=crop&q=80&w=400",
-                           "https://images.unsplash.com/photo-1590408546194-e3fb4b917531?auto=format&fit=crop&q=80&w=400"
-                         ].map((img, idx) => (
-                           <Col xs={6} md={4} key={idx}>
-                             <div className="overflow-hidden rounded shadow-sm" style={{height: '150px', cursor: 'pointer'}}>
-                               <motion.img 
-                                 whileHover={{ scale: 1.15 }} 
-                                 transition={{ duration: 0.3 }}
-                                 src={img} 
-                                 className="w-100 h-100 object-fit-cover" 
-                               />
-                             </div>
-                           </Col>
-                         ))}
+                          {(college.gallery || []).map((img, idx) => (
+                            <Col xs={6} md={4} key={idx}>
+                              <div className="overflow-hidden rounded shadow-sm" style={{height: '150px', cursor: 'pointer'}}>
+                                <motion.img 
+                                  whileHover={{ scale: 1.15 }} 
+                                  transition={{ duration: 0.3 }}
+                                  src={img} 
+                                  className="w-100 h-100 object-fit-cover" 
+                                />
+                              </div>
+                            </Col>
+                          ))}
                        </Row>
                      </Card>
                   </motion.div>
@@ -222,27 +226,39 @@ const CollegeDetail = () => {
                   <div className="bg-light p-2 rounded text-primary me-3"><FaGlobe size={20}/></div>
                   <div>
                     <div className="text-muted small">Website</div>
-                    <a href="#!" className="fw-medium text-dark text-decoration-none">www.iitd.ac.in</a>
+                    <a href={college.website} target="_blank" rel="noopener noreferrer" className="fw-medium text-dark text-decoration-none">{college.website}</a>
                   </div>
                 </div>
                 <div className="d-flex align-items-center mb-3">
                   <div className="bg-light p-2 rounded text-primary me-3"><FaPhoneAlt size={20}/></div>
                   <div>
                     <div className="text-muted small">Phone</div>
-                    <span className="fw-medium text-dark">011-26597135</span>
+                    <span className="fw-medium text-dark">{college.phone}</span>
                   </div>
                 </div>
                 <div className="d-flex align-items-center mb-4">
                   <div className="bg-light p-2 rounded text-primary me-3"><FaEnvelope size={20}/></div>
                   <div>
-                    <div className="text-muted small">Email</div>
-                    <span className="fw-medium text-dark">admissions@iitd.ac.in</span>
+                    <div className="text-muted small">Social Profiles</div>
+                    <div className="d-flex gap-2 mt-1">
+                      <a href={college.facebook} className="text-muted small">Facebook</a>
+                      <a href={college.instagram} className="text-muted small">Instagram</a>
+                      <a href={college.linkedin} className="text-muted small">LinkedIn</a>
+                    </div>
                   </div>
                 </div>
                 
                 <h6 className="fw-bold mb-3 border-top pt-3">Location Map</h6>
-                <div className="bg-light rounded d-flex align-items-center justify-content-center text-muted" style={{height: '200px'}}>
-                  [ Google Maps Integration ]
+                <div className="bg-light rounded overflow-hidden" style={{height: '200px'}}>
+                  {college.map_url && college.map_url !== '#' ? (
+                    <div className="p-3 text-center">
+                      <a href={college.map_url} target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary btn-sm rounded-pill mt-4">View Location on Google Maps</a>
+                    </div>
+                  ) : (
+                    <div className="d-flex align-items-center justify-content-center h-100 text-muted">
+                      [ Map Not Available ]
+                    </div>
+                  )}
                 </div>
               </Card.Body>
             </Card>
