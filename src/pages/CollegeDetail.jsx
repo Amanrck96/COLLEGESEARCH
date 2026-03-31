@@ -5,6 +5,7 @@ import { FaMapMarkerAlt, FaStar, FaBuilding, FaInfoCircle, FaPhoneAlt, FaGlobe, 
 
 import { useParams } from 'react-router-dom';
 import { CollegeContext } from '../contexts/CollegeContext';
+import { generateMissingDetails } from '../utils/geminiApi';
 
 const CollegeDetail = () => {
   const { id } = useParams();
@@ -13,8 +14,33 @@ const CollegeDetail = () => {
   const [enriching, setEnriching] = useState(false);
   const [enrichedData, setEnrichedData] = useState(null);
   const [mapsReady, setMapsReady] = useState(window.rgmkGoogleMapsCallback || false);
+  
+  // AI Dynamic Generated Fields Context
+  const [aiDetails, setAiDetails] = useState({ 
+    overview: '', placementsOverview: '', facilitiesList: ''
+  });
+  const [aiLoading, setAiLoading] = useState({});
 
   const college = (colleges || []).find(c => String(c.id) === String(id));
+
+  // AI Auto-Enrich logic on tab change
+  useEffect(() => {
+    if (!college) return;
+
+    const fetchAi = async (field, promptKey) => {
+      if (!aiDetails[field]) {
+        setAiLoading(prev => ({...prev, [field]: true}));
+        const text = await generateMissingDetails(college.name, college.location, promptKey);
+        setAiDetails(prev => ({...prev, [field]: text}));
+        setAiLoading(prev => ({...prev, [field]: false}));
+      }
+    };
+
+    if (activeTab === 'overview' && !college.about) fetchAi('overview', 'Brief Overview and About Section');
+    if (activeTab === 'placements' && !college.placements) fetchAi('placementsOverview', 'Placements Record and Top Recruiters');
+    if (activeTab === 'facilities') fetchAi('facilitiesList', 'Unique Campus Facilities Description');
+
+  }, [activeTab, college, aiDetails]);
 
   // Listen for the custom event from the GeoDirectory-style script in index.html
   useEffect(() => {
@@ -96,9 +122,20 @@ const CollegeDetail = () => {
                     <Card className="border-0 shadow-sm mb-4">
                       <Card.Body className="p-4">
                         <h4 className="fw-bold text-primary mb-3">About {college.name}</h4>
-                        <p className="text-muted" style={{lineHeight: '1.8'}}>
-                          {college.about || `Welcome to ${college.name}. One of the most prestigious institutions located in ${college.location}, ${college.state}.`}
-                        </p>
+                        {college.about ? (
+                          <p className="text-muted" style={{lineHeight: '1.8'}}>{college.about}</p>
+                        ) : (
+                          <div className="p-3 bg-light rounded-2 border border-info border-opacity-50" style={{lineHeight: '1.8'}}>
+                            {aiLoading.overview ? (
+                               <div className="text-info fw-bold"><Spinner size="sm" className="me-2"/> AI Generating Overview in 0.3s...</div>
+                            ) : (
+                               <div className="text-muted">
+                                 <Badge bg="info" className="me-2 mb-1">✨ AI Generated</Badge> 
+                                 {aiDetails.overview}
+                               </div>
+                            )}
+                          </div>
+                        )}
                         <h5 className="fw-bold text-dark mt-4 mb-3">Highlights</h5>
                         <ul className="list-group list-group-flush border-top border-bottom">
                           <li className="list-group-item d-flex justify-content-between text-muted"><span className="fw-medium text-dark">Location</span> {college.location}</li>
@@ -168,6 +205,19 @@ const CollegeDetail = () => {
                         </Card>
                       </Col>
                     </Row>
+                    
+                    {!college.placements && (
+                       <div className="p-3 bg-light rounded-2 border border-info border-opacity-50 mb-4" style={{lineHeight: '1.8'}}>
+                         {aiLoading.placementsOverview ? (
+                            <div className="text-info fw-bold"><Spinner size="sm" className="me-2"/> AI Fetching Placements info in 0.3s...</div>
+                         ) : (
+                            <div className="text-muted">
+                              <Badge bg="info" className="me-2 mb-1">✨ AI Report</Badge> 
+                              {aiDetails.placementsOverview}
+                            </div>
+                         )}
+                       </div>
+                    )}
                     <Card className="border-0 shadow-sm p-4">
                        <h5 className="fw-bold mb-3"><FaBriefcase className="me-2 text-primary"/> Top Recruiters</h5>
                        <div className="d-flex flex-wrap gap-2">
@@ -219,6 +269,17 @@ const CollegeDetail = () => {
                          <Col xs={6} md={4}><div className="p-3 bg-light rounded text-primary border"><FaBuilding size={30} className="mb-2"/><br/>Cafeteria</div></Col>
                          <Col xs={6} md={4}><div className="p-3 bg-light rounded text-primary border"><FaBuilding size={30} className="mb-2"/><br/>Med Center</div></Col>
                        </Row>
+                       
+                       <div className="mt-4 p-3 bg-light rounded-2 border border-info border-opacity-50" style={{lineHeight: '1.8'}}>
+                         {aiLoading.facilitiesList ? (
+                            <div className="text-info fw-bold"><Spinner size="sm" className="me-2"/> AI Exploring Campus Facilities...</div>
+                         ) : (
+                            <div className="text-muted">
+                              <Badge bg="info" className="me-2 mb-1">✨ AI Virtual Tour Notes</Badge> 
+                              {aiDetails.facilitiesList}
+                            </div>
+                         )}
+                       </div>
                      </Card>
                   </motion.div>
                 </Tab.Pane>

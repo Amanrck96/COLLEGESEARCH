@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Container, Row, Col, Card, Form, Badge, Button, InputGroup } from 'react-bootstrap';
+import { Container, Row, Col, Card, Form, Badge, Button, InputGroup, Spinner } from 'react-bootstrap';
 import { motion } from 'framer-motion';
 import { Link, useLocation } from 'react-router-dom';
 import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark } from 'react-icons/fa';
@@ -14,6 +14,10 @@ const Colleges = () => {
   const [sortBy, setSortBy] = useState("rating");
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 12;
+
+  // AI Fallback Search State
+  const [aiColleges, setAiColleges] = useState([]);
+  const [aiLoading, setAiLoading] = useState(false);
 
   useEffect(() => {
     const params = new URLSearchParams(location.search);
@@ -50,6 +54,21 @@ const Colleges = () => {
 
   // Auto-reset page when filter changes
   useEffect(() => { setCurrentPage(1); }, [searchTerm, sortBy]);
+
+  // AI Fallback Search Effect
+  useEffect(() => {
+    if (searchTerm && filteredColleges.length === 0 && !aiColleges.length) {
+      setAiLoading(true);
+      import('../utils/geminiApi').then(m => {
+        m.aiSearchColleges(searchTerm).then(results => {
+          setAiColleges(results || []);
+          setAiLoading(false);
+        });
+      });
+    } else if (filteredColleges.length > 0 && aiColleges.length > 0) {
+      setAiColleges([]); // Clear AI search if native data resolves
+    }
+  }, [searchTerm, filteredColleges.length, aiColleges.length]);
 
   return (
     <div className="pt-2 bg-light min-vh-100">
@@ -165,9 +184,43 @@ const Colleges = () => {
                   </motion.div>
                 </Col>
               ))}
-              {filteredColleges.length === 0 && (
+
+              {filteredColleges.length === 0 && !aiLoading && aiColleges.length > 0 && (
+                <Col md={12}>
+                  <div className="p-3 mb-2 bg-info bg-opacity-10 text-info fw-bold rounded border border-info border-opacity-50">
+                    ✨ AI Recommendations based on "{searchTerm}"
+                  </div>
+                  <Row className="g-4 mt-1">
+                    {aiColleges.map((college, idx) => (
+                      <Col md={6} key={idx}>
+                        <Card className="custom-card h-100 border-0 border-start border-info border-4">
+                          <Card.Body className="p-4 d-flex flex-column text-start">
+                            <h5 className="fw-bold mb-1 text-primary">{college.name}</h5>
+                            <span className="text-muted small mb-3 d-block"><FaMapMarkerAlt className="me-1 text-danger"/>{college.location}, {college.state}</span>
+                            <div className="text-muted small flex-grow-1 border-bottom pb-2 mb-2" style={{lineHeight: 1.6}}>{college.about}</div>
+                            <div className="d-flex justify-content-between align-items-center mb-0 mt-auto">
+                              <div><span className="text-muted small d-block">Est. Fees</span><span className="fw-bold fs-6">{college.fees || "N/A"}</span></div>
+                              <span className="badge bg-light text-dark border"><FaStar className="me-1 text-warning"/> {college.rating || 4.5}</span>
+                            </div>
+                            <Button as={Link} to={`/colleges/${college.id || "ai-" + idx}`} variant="outline-info" size="sm" className="w-100 mt-3 rounded-pill fw-bold">View AI Context</Button>
+                          </Card.Body>
+                        </Card>
+                      </Col>
+                    ))}
+                  </Row>
+                </Col>
+              )}
+
+              {filteredColleges.length === 0 && !aiLoading && aiColleges.length === 0 && (
                 <Col className="text-center py-5">
-                  <h4 className="text-muted">No colleges found matching your criteria.</h4>
+                  <h4 className="text-muted">No exact match locally.</h4>
+                </Col>
+              )}
+
+              {filteredColleges.length === 0 && aiLoading && (
+                <Col className="text-center py-5">
+                  <Spinner animation="border" variant="info" style={{width: '3rem', height: '3rem'}} />
+                  <h5 className="text-info mt-3 fw-bold">✨ Gemini AI compiling list for "{searchTerm}" in 0.3s...</h5>
                 </Col>
               )}
             </Row>

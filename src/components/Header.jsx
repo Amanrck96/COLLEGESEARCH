@@ -92,16 +92,25 @@ const Header = () => {
                     {activeMbaTab === 'Top Ranked Colleges' && (
                        <Row>
                          <Col md={5}>
-                            <Link to="/colleges?q=India" className="mega-link">Top MBA Colleges in India</Link>
-                            {uniqueCities.map(city => (
-                              <Link key={city} to={`/colleges?q=${city}`} className="mega-link">Top MBA Colleges in {city}</Link>
-                            ))}
+                            <Link to="/colleges?q=Top MBA Colleges in India" className="mega-link">Top MBA Colleges in India</Link>
+                            <Link to="/colleges?q=Top Private MBA Colleges in India" className="mega-link">Top Private MBA Colleges in India</Link>
+                            <Link to="/colleges?q=Top MBA Colleges in Bangalore" className="mega-link">Top MBA Colleges in Bangalore</Link>
+                            <Link to="/colleges?q=Top MBA Colleges in Mumbai" className="mega-link">Top MBA Colleges in Mumbai</Link>
+                            <Link to="/colleges?q=Top MBA Colleges in Pune" className="mega-link">Top MBA Colleges in Pune</Link>
+                            <Link to="/colleges?q=Top MBA Colleges in Hyderabad" className="mega-link">Top MBA Colleges in Hyderabad</Link>
+                            <Link to="/colleges?q=Top MBA Colleges in Delhi" className="mega-link">Top MBA Colleges in Delhi</Link>
+                            <Link to="/colleges?q=Top MBA Colleges in Chennai" className="mega-link">Top MBA Colleges in Chennai</Link>
+                            <Link to="/colleges?q=Top MBA Colleges in Maharashtra" className="mega-link">Top MBA Colleges in Maharashtra</Link>
+                            <Link to="/colleges?q=Top MBA Colleges in Kolkata" className="mega-link">Top MBA Colleges in Kolkata</Link>
+                            <Link to="/colleges?q=Top MBA Colleges in Kerala" className="mega-link">Top MBA Colleges in Kerala</Link>
                          </Col>
                          <Col md={7}>
                            <div className="mega-title">Featured Colleges</div>
-                           {topColleges.slice(0, 5).map(college => (
-                             <Link key={college.id} to={`/colleges/${college.id}`} className="mega-link">{college.name}</Link>
-                           ))}
+                           <Link to="/colleges?q=GOVERNMENT POLYTECHNIC DIGLIPUR" className="mega-link">GOVERNMENT POLYTECHNIC DIGLIPUR</Link>
+                           <Link to="/colleges?q=DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY" className="mega-link">DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY</Link>
+                           <Link to="/colleges?q=JAWAHARLAL NEHRU RAJKEEYA MAHAVIDYALAYA" className="mega-link">JAWAHARLAL NEHRU RAJKEEYA MAHAVIDYALAYA</Link>
+                           <Link to="/colleges?q=ANDAMAN NICOBAR COLLGE ANCOL" className="mega-link">ANDAMAN NICOBAR COLLGE ANCOL</Link>
+                           <Link to="/colleges?q=NARAYANA INSTITUTE OF MANAGEMENT" className="mega-link">NARAYANA INSTITUTE OF MANAGEMENT</Link>
                          </Col>
                        </Row>
                     )}
@@ -129,12 +138,18 @@ const Header = () => {
                     {activeEngTab === 'Top Ranked Colleges' && (
                        <Row>
                          <Col md={5}>
-                            <Link to="/colleges?q=India" className="mega-link">Top Engineering Colleges in India</Link>
-                            <Link to="/colleges?q=IIT" className="mega-link">Top IITs in India</Link>
-                            <Link to="/colleges?q=NIT" className="mega-link">Top NITs in India</Link>
-                            {uniqueCities.map(city => (
-                              <Link key={city} to={`/colleges?q=${city}`} className="mega-link">Top Engineering Colleges in {city}</Link>
-                            ))}
+                            <Link to="/colleges?q=Top Engineering Colleges in India" className="mega-link">Top Engineering Colleges in India</Link>
+                            <Link to="/colleges?q=Top Private Engineering Colleges in India" className="mega-link">Top Private Engineering Colleges in India</Link>
+                            <Link to="/colleges?q=Top IITs in India" className="mega-link">Top IITs in India</Link>
+                            <Link to="/colleges?q=Top NITs in India" className="mega-link">Top NITs in India</Link>
+                            <Link to="/colleges?q=Top Engineering Colleges in Bangalore" className="mega-link">Top Engineering Colleges in Bangalore</Link>
+                            <Link to="/colleges?q=Top Engineering Colleges in Karnataka" className="mega-link">Top Engineering Colleges in Karnataka</Link>
+                            <Link to="/colleges?q=Top Engineering Colleges in Hyderabad" className="mega-link">Top Engineering Colleges in Hyderabad</Link>
+                            <Link to="/colleges?q=Top Engineering Colleges in Pune" className="mega-link">Top Engineering Colleges in Pune</Link>
+                            <Link to="/colleges?q=Top Engineering Colleges in Mumbai" className="mega-link">Top Engineering Colleges in Mumbai</Link>
+                            <Link to="/colleges?q=Top Engineering Colleges in Maharashtra" className="mega-link">Top Engineering Colleges in Maharashtra</Link>
+                            <Link to="/colleges?q=Top Engineering Colleges in Chennai" className="mega-link">Top Engineering Colleges in Chennai</Link>
+                            <Link to="/colleges?q=Top Engineering Colleges in Kerala" className="mega-link">Top Engineering Colleges in Kerala</Link>
                          </Col>
                          <Col md={7}>
                            <div className="mega-title">Featured Colleges</div>
@@ -168,12 +183,15 @@ const Header = () => {
                     {activeMedTab === 'Top Ranked Colleges' && (
                        <Row>
                          <Col md={6}>
-                            <Link to="/colleges?q=Medical" className="mega-link">Top Medical Colleges in India</Link>
-                            <Link to="/colleges?q=Pharmacy" className="mega-link">Top Pharmacy Colleges in India</Link>
-                            <Link to="/colleges?q=Dental" className="mega-link">Top Dental Colleges in India</Link>
-                            {uniqueCities.map(city => (
-                              <Link key={city} to={`/colleges?q=${city}`} className="mega-link">Top Medical Colleges in {city}</Link>
-                            ))}
+                            <Link to="/colleges?q=Top Medical Colleges in India" className="mega-link">Top Medical Colleges in India</Link>
+                            <Link to="/colleges?q=Top Medical Colleges in Karnataka" className="mega-link">Top Medical Colleges in Karnataka</Link>
+                            <Link to="/colleges?q=Top Pharmacy Colleges in India" className="mega-link">Top Pharmacy Colleges in India</Link>
+                            <Link to="/colleges?q=Top Medical Colleges in Bangalore" className="mega-link">Top Medical Colleges in Bangalore</Link>
+                            <Link to="/colleges?q=Top Dental Colleges in India" className="mega-link">Top Dental Colleges in India</Link>
+                            <Link to="/colleges?q=Top Medical Colleges in Maharashtra" className="mega-link">Top Medical Colleges in Maharashtra</Link>
+                            <Link to="/colleges?q=Top Medical Colleges in Mumbai" className="mega-link">Top Medical Colleges in Mumbai</Link>
+                            <Link to="/colleges?q=Top Medical Colleges in Delhi" className="mega-link">Top Medical Colleges in Delhi</Link>
+                            <Link to="/colleges?q=Top Pharmacy Colleges in Maharashtra" className="mega-link">Top Pharmacy Colleges in Maharashtra</Link>
                          </Col>
                        </Row>
                     )}
@@ -230,15 +248,57 @@ const Header = () => {
                   <div className="mega-content">
                     {activeMoreTab === 'Sarkari Exams' && (
                        <Row className="gx-5">
-                         <Col md={12}>
-                           <div className="mega-title">Database Exams</div>
-                           <div className="d-flex flex-wrap gap-2">
-                             {uniqueExams.map(ex => (
-                               <Link key={ex} to="/exams" className="mega-link text-decoration-none me-4">{ex}</Link>
-                             ))}
-                             {uniqueExams.length === 0 && <span className="text-muted">No exams mapped in database.</span>}
-                           </div>
-                           <Link to="/exams" className="mega-link text-primary mt-3 d-inline-block">All Exams <FaAngleRight/></Link>
+                         <Col md={4}>
+                           <div className="mega-title">Banking</div>
+                           <Link to="/exams?q=IBPS Clerk" className="mega-link">IBPS Clerk</Link>
+                           <Link to="/exams?q=IBPS PO" className="mega-link">IBPS PO</Link>
+                           <Link to="/exams?q=SBI Clerk" className="mega-link">SBI Clerk</Link>
+                           <Link to="/exams?q=SBI PO" className="mega-link">SBI PO</Link>
+                           <Link to="/exams?q=IBPS RRB" className="mega-link">IBPS RRB</Link>
+                           <Link to="/exams?q=Banking" className="mega-link text-primary mt-3">All Banking Exams <FaAngleRight/></Link>
+                           
+                           <div className="mega-title mt-4">Defence</div>
+                           <Link to="/exams?q=NDA" className="mega-link">NDA</Link>
+                           <Link to="/exams?q=AFCAT" className="mega-link">AFCAT</Link>
+                           <Link to="/exams?q=CDS" className="mega-link">CDS</Link>
+                           <Link to="/exams?q=DRDO CEPTAM" className="mega-link">DRDO CEPTAM</Link>
+                           <Link to="/exams?q=RPF SI" className="mega-link">RPF SI</Link>
+                           <Link to="/exams?q=Defence" className="mega-link text-primary mt-3">All Defence Exams <FaAngleRight/></Link>
+                         </Col>
+                         <Col md={4}>
+                           <div className="mega-title">Teaching</div>
+                           <Link to="/exams?q=CTET" className="mega-link">CTET</Link>
+                           <Link to="/exams?q=UPTET" className="mega-link">UPTET</Link>
+                           <Link to="/exams?q=UGC NET" className="mega-link">UGC NET</Link>
+                           <Link to="/exams?q=CSIR NET" className="mega-link">CSIR NET</Link>
+                           <Link to="/exams?q=APSET" className="mega-link">APSET</Link>
+                           <Link to="/exams?q=Teaching" className="mega-link text-primary mt-3">All Teaching Exams <FaAngleRight/></Link>
+
+                           <div className="mega-title mt-4">Railway</div>
+                           <Link to="/exams?q=RRB Group D" className="mega-link">RRB Group D</Link>
+                           <Link to="/exams?q=RRB NTPC" className="mega-link">RRB NTPC</Link>
+                           <Link to="/exams?q=RRB JE" className="mega-link">RRB JE</Link>
+                           <Link to="/exams?q=RPF Constable" className="mega-link">RPF Constable</Link>
+                           <Link to="/exams?q=Railway" className="mega-link text-primary mt-3">All Railway Exams <FaAngleRight/></Link>
+                         </Col>
+                         <Col md={4}>
+                           <div className="mega-title">SSC</div>
+                           <Link to="/exams?q=SSC CGL" className="mega-link">SSC CGL</Link>
+                           <Link to="/exams?q=SSC JE" className="mega-link">SSC JE</Link>
+                           <Link to="/exams?q=SSC CHSL" className="mega-link">SSC CHSL</Link>
+                           <Link to="/exams?q=SSC GD" className="mega-link">SSC GD</Link>
+                           <Link to="/exams?q=SSC JHT" className="mega-link">SSC JHT</Link>
+                           <Link to="/exams?q=SSC" className="mega-link text-primary mt-3">All SSC Exams <FaAngleRight/></Link>
+
+                           <div className="mega-title mt-4">All Exams</div>
+                           <Link to="/exams?q=UPSC" className="mega-link">All UPSC Exams</Link>
+                           <Link to="/exams?q=State PSC" className="mega-link">All State PSC Exams</Link>
+                           <Link to="/exams?q=Scholarships" className="mega-link">All Scholarship Exams</Link>
+                           <Link to="/exams?q=PSU" className="mega-link">All PSU Exams</Link>
+                           <Link to="/exams?q=State Exams" className="mega-link">All State Exams</Link>
+                           <Link to="/exams?q=Insurance" className="mega-link">All Insurance Exams</Link>
+                           <Link to="/exams?q=Police" className="mega-link">All Police Exams</Link>
+                           <Link to="/exams?q=Sarkari" className="mega-link">All Sarkari Exams</Link>
                          </Col>
                        </Row>
                     )}
@@ -267,18 +327,35 @@ const Header = () => {
                        <Row>
                          <Col md={5}>
                            <div className="mega-title">Top Countries</div>
-                           {uniqueCountries.map(country => (
-                              <Link key={country} to="/study-abroad" className="mega-link">{country}</Link>
-                           ))}
-                           {uniqueCountries.length === 0 && <span className="text-muted">No abroad colleges found.</span>}
-                           <Link to="/study-abroad" className="mega-link text-primary mt-3">View All Countries <FaAngleRight/></Link>
+                           <Link to="/study-abroad?q=USA" className="mega-link">USA</Link>
+                           <Link to="/study-abroad?q=UK" className="mega-link">UK</Link>
+                           <Link to="/study-abroad?q=Canada" className="mega-link">Canada</Link>
+                           <Link to="/study-abroad?q=Australia" className="mega-link">Australia</Link>
+                           <Link to="/study-abroad?q=Germany" className="mega-link">Germany</Link>
+                           <Link to="/study-abroad?q=Ireland" className="mega-link">Ireland</Link>
+                           <Link to="/study-abroad?q=France" className="mega-link">France</Link>
+                           <Link to="/study-abroad?q=Singapore" className="mega-link">Singapore</Link>
+                           <Link to="/study-abroad?q=New Zealand" className="mega-link">New Zealand</Link>
+                           <Link to="/study-abroad?q=Japan" className="mega-link">Japan</Link>
+                           <Link to="/study-abroad?q=Italy" className="mega-link">Italy</Link>
+                           <Link to="/study-abroad?q=Finland" className="mega-link">Finland</Link>
+                           <Link to="/study-abroad?q=Netherlands" className="mega-link">Netherlands</Link>
                          </Col>
                          <Col md={7}>
-                           <div className="mega-title">Universities/Colleges in Abroad</div>
-                           {uniqueCountries.map(country => (
-                             <Link key={country} to="/study-abroad" className="mega-link">Top Universities in {country}</Link>
-                           ))}
-                           <Link to="/study-abroad" className="mega-link text-primary mt-3">Top Universities Abroad <FaAngleRight/></Link>
+                           <div className="mega-title">Universities/Colleges</div>
+                           <Link to="/study-abroad?q=Top Universities in USA" className="mega-link">Top Universities in USA</Link>
+                           <Link to="/study-abroad?q=Top Universities in UK" className="mega-link">Top Universities in UK</Link>
+                           <Link to="/study-abroad?q=Top Universities in Canada" className="mega-link">Top Universities in Canada</Link>
+                           <Link to="/study-abroad?q=Top Universities in Australia" className="mega-link">Top Universities in Australia</Link>
+                           <Link to="/study-abroad?q=Top Universities in Germany" className="mega-link">Top Universities in Germany</Link>
+                           <Link to="/study-abroad?q=Top Universities in Ireland" className="mega-link">Top Universities in Ireland</Link>
+                           <Link to="/study-abroad?q=Top Universities in France" className="mega-link">Top Universities in France</Link>
+                           <Link to="/study-abroad?q=Top Universities in Singapore" className="mega-link">Top Universities in Singapore</Link>
+                           <Link to="/study-abroad?q=Top Universities in New Zealand" className="mega-link">Top Universities in New Zealand</Link>
+                           <Link to="/study-abroad?q=Top Universities in Japan" className="mega-link">Top Universities in Japan</Link>
+                           <Link to="/study-abroad?q=Top Universities in Italy" className="mega-link">Top Universities in Italy</Link>
+                           <Link to="/study-abroad?q=Top Universities in Finland" className="mega-link">Top Universities in Finland</Link>
+                           <Link to="/study-abroad?q=Top Universities in Netherlands" className="mega-link">Top Universities in Netherlands</Link>
                          </Col>
                        </Row>
                     )}
