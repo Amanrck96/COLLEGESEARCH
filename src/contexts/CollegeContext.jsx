@@ -4,36 +4,50 @@ import siteData from '../data/siteData.json';
 export const CollegeContext = createContext();
 
 export const CollegeProvider = ({ children }) => {
-  const [colleges, setColleges] = useState(() => {
-    return siteData.colleges;
-  });
+  // Load overrides from localStorage for better performance (prevent serializing 12k items)
+  const [addedColleges, setAddedColleges] = useState(() => JSON.parse(localStorage.getItem('addedColleges') || '[]'));
+  const [editedColleges, setEditedColleges] = useState(() => JSON.parse(localStorage.getItem('editedColleges') || '{}'));
+  const [deletedColleges, setDeletedColleges] = useState(() => JSON.parse(localStorage.getItem('deletedColleges') || '[]'));
 
-  const [courses, setCourses] = useState(() => {
-    return siteData.courses || [];
-  });
+  // Derived visible colleges
+  const colleges = React.useMemo(() => {
+    const base = (siteData.colleges || []).filter(c => !deletedColleges.includes(String(c.id)));
+    const mergedBase = base.map(c => editedColleges[String(c.id)] ? { ...c, ...editedColleges[String(c.id)] } : c);
+    return [...mergedBase, ...addedColleges];
+  }, [editedColleges, addedColleges, deletedColleges]);
 
-  const [exams, setExams] = useState(() => {
-    return siteData.exams || [];
-  });
+  // Keep exams/courses simple since they are small arrays
+  const [courses, setCourses] = useState(() => JSON.parse(localStorage.getItem('coursesData') || JSON.stringify(siteData.courses || [])));
+  const [exams, setExams] = useState(() => JSON.parse(localStorage.getItem('examsData') || JSON.stringify(siteData.exams || [])));
 
-  // Automatically refresh when siteData changes (e.g. after sync)
-  useEffect(() => {
-    setColleges(siteData.colleges);
-    setCourses(siteData.courses || []);
-    setExams(siteData.exams || []);
-  }, []);
+  useEffect(() => { localStorage.setItem('addedColleges', JSON.stringify(addedColleges)); }, [addedColleges]);
+  useEffect(() => { localStorage.setItem('editedColleges', JSON.stringify(editedColleges)); }, [editedColleges]);
+  useEffect(() => { localStorage.setItem('deletedColleges', JSON.stringify(deletedColleges)); }, [deletedColleges]);
+  useEffect(() => { localStorage.setItem('coursesData', JSON.stringify(courses)); }, [courses]);
+  useEffect(() => { localStorage.setItem('examsData', JSON.stringify(exams)); }, [exams]);
 
   const addCollege = (college) => {
-    setColleges([...colleges, { ...college, id: Date.now() }]);
+    setAddedColleges(prev => [...prev, { ...college, id: Date.now() }]);
   };
 
   const updateCollege = (id, updatedCollege) => {
-    setColleges(colleges.map(c => c.id === id ? { ...c, ...updatedCollege } : c));
+    const isAdded = addedColleges.some(c => String(c.id) === String(id));
+    if (isAdded) {
+      setAddedColleges(prev => prev.map(c => String(c.id) === String(id) ? { ...c, ...updatedCollege } : c));
+    } else {
+      setEditedColleges(prev => ({ ...prev, [String(id)]: { ...(prev[String(id)] || {}), ...updatedCollege } }));
+    }
   };
 
   const deleteCollege = (id) => {
-    setColleges(colleges.filter(c => c.id !== id));
+    const isAdded = addedColleges.some(c => String(c.id) === String(id));
+    if (isAdded) {
+      setAddedColleges(prev => prev.filter(c => String(c.id) !== String(id)));
+    } else {
+      setDeletedColleges(prev => [...prev, String(id)]);
+    }
   };
+
 
   return (
     <CollegeContext.Provider value={{ colleges, courses, exams, addCollege, updateCollege, deleteCollege }}>

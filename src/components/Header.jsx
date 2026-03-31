@@ -30,6 +30,12 @@ const Header = () => {
     setActiveOnlineTab(onlineTabs[0] || '');
   }, [mbaTabs, engTabs, medTabs, desTabs, moreTabs, studyTabs, counselingTabs, onlineTabs]);
 
+  // Dynamic calculations based on DB - Memoized for Performance
+  const uniqueCities = React.useMemo(() => Array.from(new Set((colleges || []).map(c => c.location))).slice(0, 10), [colleges]);
+  const topColleges = React.useMemo(() => [...(colleges || [])].sort((a,b) => b.ranking - a.ranking || b.rating - a.rating), [colleges]);
+  const uniqueExams = React.useMemo(() => Array.from(new Set((colleges || []).flatMap(c => (c.exams || '').split(',').map(s=>s.trim())))).filter(Boolean).slice(0, 15), [colleges]);
+  const uniqueCountries = React.useMemo(() => Array.from(new Set((colleges || []).map(c => c.country || 'India'))).filter(c => c !== 'India').slice(0, 15), [colleges]);
+
   return (
     <div className="custom-header-wrapper">
       {/* Top Search Tier */}
@@ -41,15 +47,16 @@ const Header = () => {
           </Link>
 
           <div className="flex-grow-1 ms-5 me-5">
-            <Form className="d-flex mx-auto" style={{ maxWidth: '800px' }}>
+            <Form className="d-flex mx-auto" style={{ maxWidth: '800px' }} action="/colleges" method="get">
               <InputGroup>
                 <Form.Control
+                  name="q"
                   type="search"
                   placeholder="Search Colleges, Courses, Exams, QnA, & Articles"
                   className="border-0 rounded-0"
                   style={{ boxShadow: 'none', padding: '12px 20px' }}
                 />
-                <Button className="btn-search-orange rounded-0" style={{padding: '0 40px'}}>
+                <Button type="submit" className="btn-search-orange rounded-0" style={{padding: '0 40px'}}>
                   Search
                 </Button>
               </InputGroup>
@@ -86,20 +93,13 @@ const Header = () => {
                        <Row>
                          <Col md={5}>
                             <Link to="/colleges?q=India" className="mega-link">Top MBA Colleges in India</Link>
-                            <Link to="/colleges?q=Private" className="mega-link">Top Private MBA Colleges in India</Link>
-                            <Link to="/colleges?q=Bangalore" className="mega-link">Top MBA Colleges in Bangalore</Link>
-                            <Link to="/colleges?q=Mumbai" className="mega-link">Top MBA Colleges in Mumbai</Link>
-                            <Link to="/colleges?q=Pune" className="mega-link">Top MBA Colleges in Pune</Link>
-                            <Link to="/colleges?q=Hyderabad" className="mega-link">Top MBA Colleges in Hyderabad</Link>
-                            <Link to="/colleges?q=Delhi" className="mega-link">Top MBA Colleges in Delhi</Link>
-                            <Link to="/colleges?q=Chennai" className="mega-link">Top MBA Colleges in Chennai</Link>
-                            <Link to="/colleges?q=Maharashtra" className="mega-link">Top MBA Colleges in Maharashtra</Link>
-                            <Link to="/colleges?q=Kolkata" className="mega-link">Top MBA Colleges in Kolkata</Link>
-                            <Link to="/colleges?q=Kerala" className="mega-link">Top MBA Colleges in Kerala</Link>
+                            {uniqueCities.map(city => (
+                              <Link key={city} to={`/colleges?q=${city}`} className="mega-link">Top MBA Colleges in {city}</Link>
+                            ))}
                          </Col>
                          <Col md={7}>
                            <div className="mega-title">Featured Colleges</div>
-                           {(colleges || []).slice(0, 5).map(college => (
+                           {topColleges.slice(0, 5).map(college => (
                              <Link key={college.id} to={`/colleges/${college.id}`} className="mega-link">{college.name}</Link>
                            ))}
                          </Col>
@@ -130,21 +130,15 @@ const Header = () => {
                        <Row>
                          <Col md={5}>
                             <Link to="/colleges?q=India" className="mega-link">Top Engineering Colleges in India</Link>
-                            <Link to="/colleges?q=Private" className="mega-link">Top Private Engineering Colleges in India</Link>
                             <Link to="/colleges?q=IIT" className="mega-link">Top IITs in India</Link>
                             <Link to="/colleges?q=NIT" className="mega-link">Top NITs in India</Link>
-                            <Link to="/colleges?q=Bangalore" className="mega-link">Top Engineering Colleges in Bangalore</Link>
-                            <Link to="/colleges?q=Karnataka" className="mega-link">Top Engineering Colleges in Karnataka</Link>
-                            <Link to="/colleges?q=Hyderabad" className="mega-link">Top Engineering Colleges in Hyderabad</Link>
-                            <Link to="/colleges?q=Pune" className="mega-link">Top Engineering Colleges in Pune</Link>
-                            <Link to="/colleges?q=Mumbai" className="mega-link">Top Engineering Colleges in Mumbai</Link>
-                            <Link to="/colleges?q=Maharashtra" className="mega-link">Top Engineering Colleges in Maharashtra</Link>
-                            <Link to="/colleges?q=Chennai" className="mega-link">Top Engineering Colleges in Chennai</Link>
-                            <Link to="/colleges?q=Kerala" className="mega-link">Top Engineering Colleges in Kerala</Link>
+                            {uniqueCities.map(city => (
+                              <Link key={city} to={`/colleges?q=${city}`} className="mega-link">Top Engineering Colleges in {city}</Link>
+                            ))}
                          </Col>
                          <Col md={7}>
                            <div className="mega-title">Featured Colleges</div>
-                           {(colleges || []).slice(5, 10).map(college => (
+                           {topColleges.slice(5, 10).map(college => (
                              <Link key={college.id} to={`/colleges/${college.id}`} className="mega-link">{college.name}</Link>
                            ))}
                          </Col>
@@ -175,14 +169,11 @@ const Header = () => {
                        <Row>
                          <Col md={6}>
                             <Link to="/colleges?q=Medical" className="mega-link">Top Medical Colleges in India</Link>
-                            <Link to="/colleges?q=Karnataka" className="mega-link">Top Medical Colleges in Karnataka</Link>
                             <Link to="/colleges?q=Pharmacy" className="mega-link">Top Pharmacy Colleges in India</Link>
-                            <Link to="/colleges?q=Bangalore" className="mega-link">Top Medical Colleges in Bangalore</Link>
                             <Link to="/colleges?q=Dental" className="mega-link">Top Dental Colleges in India</Link>
-                            <Link to="/colleges?q=Maharashtra" className="mega-link">Top Medical Colleges in Maharashtra</Link>
-                            <Link to="/colleges?q=Mumbai" className="mega-link">Top Medical Colleges in Mumbai</Link>
-                            <Link to="/colleges?q=Delhi" className="mega-link">Top Medical Colleges in Delhi</Link>
-                            <Link to="/colleges?q=Pharmacy" className="mega-link">Top Pharmacy Colleges in Maharashtra</Link>
+                            {uniqueCities.map(city => (
+                              <Link key={city} to={`/colleges?q=${city}`} className="mega-link">Top Medical Colleges in {city}</Link>
+                            ))}
                          </Col>
                        </Row>
                     )}
@@ -239,57 +230,15 @@ const Header = () => {
                   <div className="mega-content">
                     {activeMoreTab === 'Sarkari Exams' && (
                        <Row className="gx-5">
-                         <Col md={4}>
-                           <div className="mega-title">Banking</div>
-                           <Link to="/exams" className="mega-link">IBPS Clerk</Link>
-                           <Link to="/exams" className="mega-link">IBPS PO</Link>
-                           <Link to="/exams" className="mega-link">SBI Clerk</Link>
-                           <Link to="/exams" className="mega-link">SBI PO</Link>
-                           <Link to="/exams" className="mega-link">IBPS RRB</Link>
-                           <Link to="/exams" className="mega-link text-primary mt-3">All Banking Exams <FaAngleRight/></Link>
-                           
-                           <div className="mega-title mt-4">Defence</div>
-                           <Link to="/exams" className="mega-link">NDA</Link>
-                           <Link to="/exams" className="mega-link">AFCAT</Link>
-                           <Link to="/exams" className="mega-link">CDS</Link>
-                           <Link to="/exams" className="mega-link">DRDO CEPTAM</Link>
-                           <Link to="/exams" className="mega-link">RPF SI</Link>
-                           <Link to="/exams" className="mega-link text-primary mt-3">All Defence Exams <FaAngleRight/></Link>
-                         </Col>
-                         <Col md={4}>
-                           <div className="mega-title">Teaching</div>
-                           <Link to="/exams" className="mega-link">CTET</Link>
-                           <Link to="/exams" className="mega-link">UPTET</Link>
-                           <Link to="/exams" className="mega-link">UGC NET</Link>
-                           <Link to="/exams" className="mega-link">CSIR NET</Link>
-                           <Link to="/exams" className="mega-link">APSET</Link>
-                           <Link to="/exams" className="mega-link text-primary mt-3">All Teaching Exams <FaAngleRight/></Link>
-
-                           <div className="mega-title mt-4">Railway</div>
-                           <Link to="/exams" className="mega-link">RRB Group D</Link>
-                           <Link to="/exams" className="mega-link">RRB NTPC</Link>
-                           <Link to="/exams" className="mega-link">RRB JE</Link>
-                           <Link to="/exams" className="mega-link">RPF Constable</Link>
-                           <Link to="/exams" className="mega-link text-primary mt-3">All Railway Exams <FaAngleRight/></Link>
-                         </Col>
-                         <Col md={4}>
-                           <div className="mega-title">SSC</div>
-                           <Link to="/exams" className="mega-link">SSC CGL</Link>
-                           <Link to="/exams" className="mega-link">SSC JE</Link>
-                           <Link to="/exams" className="mega-link">SSC CHSL</Link>
-                           <Link to="/exams" className="mega-link">SSC GD</Link>
-                           <Link to="/exams" className="mega-link">SSC JHT</Link>
-                           <Link to="/exams" className="mega-link text-primary mt-3">All SSC Exams <FaAngleRight/></Link>
-
-                           <div className="mega-title mt-4">All Exams</div>
-                           <Link to="/exams" className="mega-link">All UPSC Exams</Link>
-                           <Link to="/exams" className="mega-link">All State PSC Exams</Link>
-                           <Link to="/exams" className="mega-link">All Scholarship Exams</Link>
-                           <Link to="/exams" className="mega-link">All PSU Exams</Link>
-                           <Link to="/exams" className="mega-link">All State Exams</Link>
-                           <Link to="/exams" className="mega-link">All Insurance Exams</Link>
-                           <Link to="/exams" className="mega-link">All Police Exams</Link>
-                           <Link to="/exams" className="mega-link">All Sarkari Exams</Link>
+                         <Col md={12}>
+                           <div className="mega-title">Database Exams</div>
+                           <div className="d-flex flex-wrap gap-2">
+                             {uniqueExams.map(ex => (
+                               <Link key={ex} to="/exams" className="mega-link text-decoration-none me-4">{ex}</Link>
+                             ))}
+                             {uniqueExams.length === 0 && <span className="text-muted">No exams mapped in database.</span>}
+                           </div>
+                           <Link to="/exams" className="mega-link text-primary mt-3 d-inline-block">All Exams <FaAngleRight/></Link>
                          </Col>
                        </Row>
                     )}
@@ -318,36 +267,17 @@ const Header = () => {
                        <Row>
                          <Col md={5}>
                            <div className="mega-title">Top Countries</div>
-                           <Link to="/study-abroad" className="mega-link">USA</Link>
-                           <Link to="/study-abroad" className="mega-link">UK</Link>
-                           <Link to="/study-abroad" className="mega-link">Canada</Link>
-                           <Link to="/study-abroad" className="mega-link">Australia</Link>
-                           <Link to="/study-abroad" className="mega-link">Germany</Link>
-                           <Link to="/study-abroad" className="mega-link">Ireland</Link>
-                           <Link to="/study-abroad" className="mega-link">France</Link>
-                           <Link to="/study-abroad" className="mega-link">Singapore</Link>
-                           <Link to="/study-abroad" className="mega-link">New Zealand</Link>
-                           <Link to="/study-abroad" className="mega-link">Japan</Link>
-                           <Link to="/study-abroad" className="mega-link">Italy</Link>
-                           <Link to="/study-abroad" className="mega-link">Finland</Link>
-                           <Link to="/study-abroad" className="mega-link">Netherlands</Link>
+                           {uniqueCountries.map(country => (
+                              <Link key={country} to="/study-abroad" className="mega-link">{country}</Link>
+                           ))}
+                           {uniqueCountries.length === 0 && <span className="text-muted">No abroad colleges found.</span>}
                            <Link to="/study-abroad" className="mega-link text-primary mt-3">View All Countries <FaAngleRight/></Link>
                          </Col>
                          <Col md={7}>
-                           <div className="mega-title">Universities/Colleges</div>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in USA</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in UK</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in Canada</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in Australia</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in Germany</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in Ireland</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in France</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in Singapore</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in New Zealand</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in Japan</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in Italy</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in Finland</Link>
-                           <Link to="/study-abroad" className="mega-link">Top Universities in Netherlands</Link>
+                           <div className="mega-title">Universities/Colleges in Abroad</div>
+                           {uniqueCountries.map(country => (
+                             <Link key={country} to="/study-abroad" className="mega-link">Top Universities in {country}</Link>
+                           ))}
                            <Link to="/study-abroad" className="mega-link text-primary mt-3">Top Universities Abroad <FaAngleRight/></Link>
                          </Col>
                        </Row>

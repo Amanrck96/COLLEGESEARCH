@@ -10,18 +10,27 @@ const fadeInUp = {
   visible: { opacity: 1, y: 0, transition: { duration: 0.6 } }
 };
 
-const SectionData = {
-  courses: [
-    { title: "B.Tech in Computer Science", duration: "4 Years", exams: "JEE Main, BITSAT", icon: <FaBookOpen size={30} color="var(--accent-light)"/> },
-    { title: "Master of Business Administration (MBA)", duration: "2 Years", exams: "CAT, XAT, MAT", icon: <FaGraduationCap size={30} color="var(--accent-light)"/> },
-    { title: "Bachelor of Medicine (MBBS)", duration: "5.5 Years", exams: "NEET UG", icon: <FaBookOpen size={30} color="var(--accent-light)"/> },
-    { title: "Bachelor of Fine Arts (BFA)", duration: "4 Years", exams: "NID DAT, UCEED", icon: <FaBookOpen size={30} color="var(--accent-light)"/> }
-  ]
-};
-
 const Home = () => {
   const { colleges, exams } = React.useContext(CollegeContext);
   
+  // Extract unique courses across all colleges dynamically
+  const uniqueCoursesMap = new Map();
+  (colleges || []).forEach(c => {
+    if (Array.isArray(c.courses)) {
+      c.courses.forEach(course => {
+        if (!uniqueCoursesMap.has(course.title)) {
+          uniqueCoursesMap.set(course.title, {
+            title: course.title,
+            duration: course.duration || "N/A",
+            exams: c.exams || "Merit Based",
+            icon: <FaBookOpen size={30} color="var(--accent-light)"/>
+          });
+        }
+      });
+    }
+  });
+  const trendingCourses = Array.from(uniqueCoursesMap.values()).slice(0, 4);
+
   return (
     <div>
       {/* Hero Section */}
@@ -85,7 +94,7 @@ const Home = () => {
             <p>Find courses leading to high-demand careers across top industries.</p>
           </div>
           <Row className="g-4">
-            {SectionData.courses.map((course, idx) => (
+            {trendingCourses.length > 0 ? trendingCourses.map((course, idx) => (
               <Col md={6} lg={3} key={idx}>
                 <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
                   <Card className="custom-card h-100 p-3 text-center border-0 shadow-sm align-items-center">
@@ -101,7 +110,9 @@ const Home = () => {
                   </Card>
                 </motion.div>
               </Col>
-            ))}
+            )) : (
+              <Col><p className="text-muted text-center pt-3">No dynamic courses loaded. Ensure colleges have course arrays in DB.</p></Col>
+            )}
           </Row>
         </Container>
       </section>

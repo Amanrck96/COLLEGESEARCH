@@ -251,7 +251,7 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
       linkedin: fd.get('linkedin'),
       rating: college?.rating || 4.5, // keep existing rating
       exams: college?.exams || "None", // exams might be derived or hardcoded
-      img: college?.img || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400"
+      img: fd.get('img') || college?.img || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400"
     };
     onSave(data);
   };
@@ -491,23 +491,11 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
 
         {/* Uploads */}
         <Row className="mb-5">
-          <Col md={6}>
+          <Col md={12}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Upload Main Image*</Form.Label>
-              <div className="border border-primary border-dashed rounded bg-light text-center p-4" style={{borderStyle: 'dashed', cursor: 'pointer', color: '#2563eb'}}>
-                <FaUpload className="fs-4 mb-2" />
-                <div>Image selected</div>
-              </div>
-              {college?.img && <img src={college.img} alt="Main" className="mt-2 rounded" style={{maxWidth: '150px'}}/>}
-            </Form.Group>
-          </Col>
-          <Col md={6}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">Brochure PDF</Form.Label>
-              <div className="border border-primary border-dashed rounded bg-light text-center p-4" style={{borderStyle: 'dashed', cursor: 'pointer', color: '#2563eb'}}>
-                <FaUpload className="fs-4 mb-2" />
-                <div>Click to upload PDF or drag and drop</div>
-              </div>
+              <Form.Label className="fw-semibold small">Main Image URL*</Form.Label>
+              <Form.Control name="img" type="url" placeholder="https://" defaultValue={college?.img || ''} className="py-2 mb-3" />
+              {college?.img && <img src={college.img} alt="Main" className="rounded border shadow-sm" style={{maxWidth: '200px', height: '120px', objectFit: 'cover'}}/>}
             </Form.Group>
           </Col>
         </Row>
