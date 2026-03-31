@@ -13,23 +13,25 @@ const fadeInUp = {
 const Home = () => {
   const { colleges, exams } = React.useContext(CollegeContext);
   
-  // Extract unique courses across all colleges dynamically
-  const uniqueCoursesMap = new Map();
-  (colleges || []).forEach(c => {
-    if (Array.isArray(c.courses)) {
-      c.courses.forEach(course => {
-        if (!uniqueCoursesMap.has(course.title)) {
-          uniqueCoursesMap.set(course.title, {
-            title: course.title,
-            duration: course.duration || "N/A",
-            exams: c.exams || "Merit Based",
-            icon: <FaBookOpen size={30} color="var(--accent-light)"/>
-          });
-        }
-      });
-    }
-  });
-  const trendingCourses = Array.from(uniqueCoursesMap.values()).slice(0, 4);
+  // Extract unique courses across all colleges dynamically - Memoized
+  const trendingCourses = React.useMemo(() => {
+    const uniqueCoursesMap = new Map();
+    (colleges || []).forEach(c => {
+      if (Array.isArray(c.courses)) {
+        c.courses.forEach(course => {
+          if (!uniqueCoursesMap.has(course.title)) {
+            uniqueCoursesMap.set(course.title, {
+              title: course.title,
+              duration: course.duration || "N/A",
+              exams: c.exams || "Merit Based",
+              icon: <FaBookOpen size={30} color="var(--accent-light)"/>
+            });
+          }
+        });
+      }
+    });
+    return Array.from(uniqueCoursesMap.values()).slice(0, 4);
+  }, [colleges]);
 
   return (
     <div>

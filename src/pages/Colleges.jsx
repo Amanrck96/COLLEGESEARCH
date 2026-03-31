@@ -12,6 +12,8 @@ const Colleges = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [saved, setSaved] = useState({});
   const [sortBy, setSortBy] = useState("rating");
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 12;
 
   useEffect(() => {
     const params = new URLSearchParams(location.search);
@@ -25,18 +27,29 @@ const Colleges = () => {
     setSaved(prev => ({...prev, [id]: !prev[id]}));
   };
 
-  let filteredColleges = (colleges || []).filter(c => 
-    c.name.toLowerCase().includes(searchTerm.toLowerCase()) || 
-    c.location.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    c.state.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    c.type.toLowerCase().includes(searchTerm.toLowerCase())
-  );
+  // Memoize search to avoid lagging the UI
+  const filteredColleges = React.useMemo(() => {
+    let result = (colleges || []).filter(c => 
+      c.name.toLowerCase().includes(searchTerm.toLowerCase()) || 
+      c.location?.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      c.state?.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      c.type?.toLowerCase().includes(searchTerm.toLowerCase())
+    );
 
-  if (sortBy === "rating") {
-    filteredColleges.sort((a, b) => b.rating - a.rating);
-  } else if (sortBy === "fees_low") {
-    filteredColleges.sort((a, b) => parseInt(a.fees.replace(/\D/g,'')) - parseInt(b.fees.replace(/\D/g,'')));
-  }
+    if (sortBy === "rating") {
+      result.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+    } else if (sortBy === "fees_low") {
+      result.sort((a, b) => parseInt((a.fees||'0').replace(/\D/g,'')||'0') - parseInt((b.fees||'0').replace(/\D/g,'')||'0'));
+    }
+    return result;
+  }, [colleges, searchTerm, sortBy]);
+
+  // Derived visible colleges per page
+  const totalPages = Math.ceil(filteredColleges.length / itemsPerPage);
+  const currentItems = filteredColleges.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
+
+  // Auto-reset page when filter changes
+  useEffect(() => { setCurrentPage(1); }, [searchTerm, sortBy]);
 
   return (
     <div className="pt-2 bg-light min-vh-100">
@@ -108,7 +121,7 @@ const Colleges = () => {
               </div>
             </div>
             <Row className="g-4">
-              {filteredColleges.map((college, idx) => (
+              {currentItems.map((college, idx) => (
                 <Col md={6} key={college.id}>
                   <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: (idx % 10) * 0.1, duration: 0.5 }}>
                     <Card className="custom-card h-100 border-0">
@@ -159,16 +172,20 @@ const Colleges = () => {
               )}
             </Row>
 
-            {/* Pagination Placeholder */}
-            {filteredColleges.length > 0 && (
+            {/* Working Pagination */}
+            {totalPages > 1 && (
               <div className="d-flex justify-content-center mt-5">
                 <nav>
                   <ul className="pagination">
-                    <li className="page-item disabled"><a className="page-link" href="#!">Previous</a></li>
-                    <li className="page-item active"><a className="page-link" href="#!">1</a></li>
-                    <li className="page-item"><a className="page-link" href="#!">2</a></li>
-                    <li className="page-item"><a className="page-link" href="#!">3</a></li>
-                    <li className="page-item"><a className="page-link" href="#!">Next</a></li>
+                    <li className={`page-item ${currentPage === 1 ? 'disabled' : ''}`}>
+                      <button className="page-link" onClick={() => setCurrentPage(p => Math.max(1, p - 1))}>Previous</button>
+                    </li>
+                    <li className="page-item active">
+                      <span className="page-link">{currentPage} / {totalPages}</span>
+                    </li>
+                    <li className={`page-item ${currentPage === totalPages ? 'disabled' : ''}`}>
+                      <button className="page-link" onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}>Next</button>
+                    </li>
                   </ul>
                 </nav>
               </div>
