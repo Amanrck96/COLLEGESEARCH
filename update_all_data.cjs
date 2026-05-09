@@ -20,15 +20,17 @@ try {
 
   const mappedColleges = rawData.map((item, index) => {
     const name = String(item['Name'] || 'College Name').trim();
-    const location = String(item['Location'] || 'India').trim();
+    const location = String(item['Location (District)'] || item['Location'] || 'India').trim();
     const state = String(item['State'] || 'India').trim();
     const address = String(item['Address'] || location).trim();
-    const phone = String(item['Phone'] || '0123-456789').trim();
-    const website = String(item['Website'] || 'http://www.college.edu').trim();
-    const rating = parseFloat(item['Rating'] || (Math.random() * (5.0 - 4.2) + 4.2).toFixed(1));
+    const phone = String(item['phone'] || item['Phone'] || '0123-456789').trim();
+    const email = item['email'] ? String(item['email']).trim() : undefined;
+    const website = String(item['website'] || item['Website'] || 'http://www.college.edu').trim();
+    const rating = parseFloat(item['Ratings'] || item['Rating'] || (Math.random() * (5.0 - 4.2) + 4.2).toFixed(1));
     const reviews = parseInt(item['Reviews'] || Math.floor(Math.random() * 2000) + 100);
     const category = String(item['Category'] || 'Private').trim();
-    const about = String(item['About'] || `Welcome to ${name}, a premier institute located in ${location}. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.`).trim();
+    const aboutText = item['about'] || item['About'];
+    const about = String(aboutText || `Welcome to ${name}, a premier institute located in ${location}. We offer world-class education and facilities for our students.`).trim();
     
     // Fallback images if not in data
     let collegeImages = images.slice(0, 6);
@@ -37,23 +39,20 @@ try {
       if (customImgs.length > 0) collegeImages = customImgs;
     }
 
-    // Dynamic Courses
+    // Dynamic Courses mapping all 15 possible courses
     const courses = [];
-    if (item['Course Name 1']) {
-        courses.push({
-            title: String(item['Course Name 1']).trim(),
-            duration: item['Duration 1'] || '2 Years',
-            fees: item['Fee 1'] || '₹2.5 Lakhs',
-            eligibility: item['Eligibility 1'] || 'Graduation with 50%'
-        });
-    }
-    if (item['Course Name 2']) {
-        courses.push({
-            title: String(item['Course Name 2']).trim(),
-            duration: item['Duration 2'] || '4 Years',
-            fees: item['Fee 2'] || '₹8.5 Lakhs',
-            eligibility: item['Eligibility 2'] || '10+2 with 60%'
-        });
+    for (let i = 1; i <= 15; i++) {
+        if (item[`Course Name ${i}`]) {
+            courses.push({
+                title: String(item[`Course Name ${i}`]).trim(),
+                type: item[`Course Type ${i}`] || 'Full Time',
+                division: item[`Division ${i}`] || 'Degree',
+                duration: item[`Duration ${i}`] || (String(item[`Division ${i}`]).toLowerCase().includes('diploma') ? '3 Years' : '4 Years'),
+                fees: item[`Fees Course Name ${i}`] || item[`Fee ${i}`] || 'Contact for details',
+                intake: item[`Intake ${i}`] || 'N/A',
+                eligibility: item[`Eligibility ${i}`] || 'As per norms'
+            });
+        }
     }
     // Simple fallback if no courses found
     if (courses.length === 0) {
@@ -73,6 +72,7 @@ try {
       state,
       address,
       phone,
+      email,
       website: website.startsWith('http') ? website : `http://${website}`,
       rating,
       reviews,
@@ -82,15 +82,20 @@ try {
       facebook: item['facebook'] || '#',
       instagram: item['instagram'] || '#',
       linkedin: item['linkedin'] || '#',
-      map_url: item['map_url'] || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(name + ' ' + location)}`,
-      fees: item['Fee 1'] || "₹2.5 Lakhs",
+      map_url: item['Map Url'] || item['map_url'] || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(name + ' ' + location)}`,
+      fees: courses[0]?.fees || "Contact for details",
       exams: item['Entrance Exam'] || "Direct Admission",
       img: collegeImages[0],
       gallery: collegeImages,
       courses: courses,
-      highestPackage: item['Highest Package'] || '₹12 LPA',
-      averagePackage: item['Average Package'] || '₹6 LPA',
-      placements: item['Placement Percentage'] || '95%'
+      highestPackage: item['highestPackage'] || item['Highest Package'] || 'Contact for details',
+      averagePackage: item['averagePackage'] || item['Average Package'] || 'Contact for details',
+      placements: item['Placement Percentage'] || 'N/A',
+      highlights: item['highlights'] || '',
+      facilities: item['facilities'] || '',
+      admissionProcess: item['admissionProcess'] || '',
+      topRecruiters: item['topRecruiters'] || '',
+      brochureLink: item['brochureLink'] || ''
     };
   });
 
