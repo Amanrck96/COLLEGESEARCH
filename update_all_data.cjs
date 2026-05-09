@@ -1,7 +1,7 @@
 const xlsx = require('xlsx');
 const fs = require('fs');
 
-const excelFilePath = 'C:\\Users\\amanr\\Downloads\\College Data_AMAN .xlsm';
+const excelFilePath = 'C:\\Users\\amanr\\Downloads\\2025\\College Data_AMAN .xlsm';
 const jsonOutputPath = 'c:\\Users\\amanr\\collegesearch\\src\\data\\siteData.json';
 
 try {

@@ -4,6 +4,7 @@ import { FaEdit, FaTrash, FaPlus, FaUpload } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
 import { SiteContext } from '../contexts/SiteContext';
 import { State, City } from 'country-state-city';
+import * as XLSX from 'xlsx';
 
 const Admin = () => {
   const { colleges, addCollege, updateCollege, deleteCollege } = useContext(CollegeContext);
@@ -46,6 +47,18 @@ const Admin = () => {
     }
     setShowAddCollege(false);
     setEditingCollege(null);
+  };
+
+  const handleBulkSave = (collegesData) => {
+    if (collegesData.length > 50) {
+      alert(`Warning: You are uploading ${collegesData.length} colleges. This may exceed browser storage. For large files, please contact developers to import via script.`);
+    }
+
+    collegesData.forEach(college => {
+      addCollege(college);
+    });
+    alert(`${collegesData.length} colleges added successfully!`);
+    setActiveTab('dashboard');
   };
 
   if (!isAuthenticated) {
@@ -106,6 +119,12 @@ const Admin = () => {
                 onClick={() => setActiveTab('dashboard')}
               >
                 <span className="me-2">㗊</span> Dashboard
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded mb-1 ${activeTab === 'bulkUpload' ? 'bg-light text-dark fw-bold' : 'text-secondary'}`}
+                onClick={() => setActiveTab('bulkUpload')}
+              >
+                <span className="me-2">📤</span> Bulk Upload
               </Nav.Link>
               <Nav.Link className="py-2 px-3 rounded mb-1 text-secondary">
                 <span className="me-2">📝</span> Blog Manager
@@ -196,6 +215,10 @@ const Admin = () => {
               siteData={siteData} 
               onSave={(newData) => updateSiteData(newData)} 
             />
+          )}
+
+          {activeTab === 'bulkUpload' && (
+            <BulkUploadForm onSave={handleBulkSave} />
           )}
         </Col>
       </Row>
@@ -644,5 +667,120 @@ const SiteSettingsForm = ({ siteData, onSave }) => {
         </Button>
       </Form>
     </div>
+  );
+};
+
+const BulkUploadForm = ({ onSave }) => {
+  const [file, setFile] = useState(null);
+  
+  const handleFileChange = (e) => {
+    setFile(e.target.files[0]);
+  };
+
+  const handleUpload = () => {
+    if (!file) return alert("Please select a file first.");
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      try {
+        const data = e.target.result;
+        const workbook = XLSX.read(data, { type: 'binary' });
+        const sheetName = workbook.SheetNames[0];
+        const worksheet = workbook.Sheets[sheetName];
+        const rawData = XLSX.utils.sheet_to_json(worksheet);
+
+        const mappedData = rawData.map((item, index) => {
+          const images = [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
+            "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?auto=format&fit=crop&q=80&w=400",
+            "https://images.unsplash.com/photo-1590408546194-e3fb4b917531?auto=format&fit=crop&q=80&w=400"
+          ];
+          const randomImage = images[index % images.length];
+
+          return {
+            id: Date.now() + index,
+            name: item['Name'] || 'Unknown College',
+            shortName: item['Code'] || item['Short Name'] || (item['Name'] ? item['Name'].substring(0, 5).toUpperCase() : 'COLLEGE'),
+            location: item['Location'] || item['District/City'] || 'India',
+            state: item['State'] || 'Unknown',
+            address: item['Address'] || 'Unknown',
+            phone: item['Phone'] || "0123-456789",
+            website: item['Website'] || "http://www.college.edu",
+            rating: item['Rating'] || 4.5,
+            reviews: item['Reviews'] || Math.floor(Math.random() * 500) + 50,
+            type: item['Type'] || 'Private',
+            about: item['About'] || `Welcome to ${item['Name'] || 'our college'}. We offer world-class education.`,
+            ranking: item['Ranking'] || Math.floor(Math.random() * 100) + 1,
+            fees: item['Fees'] || "₹2.5 Lakhs",
+            exams: item['Exams'] || "Direct Admission",
+            img: item['Image URL'] || `https://loremflickr.com/400/300/college,campus?random=${index}`,
+            gallery: [randomImage],
+            courses: [
+              {
+                title: item['Course Name'] || 'B.Tech',
+                duration: item['Course Duration'] || "4 Years",
+                fees: item['Course Fees'] || "₹2.5 Lakhs",
+                eligibility: item['Course Eligibility'] || "10+2"
+              }
+            ]
+          };
+        });
+
+        onSave(mappedData);
+      } catch (error) {
+        console.error(error);
+        alert("Error parsing Excel file. Please ensure it's in the correct format.");
+      }
+    };
+    reader.readAsBinaryString(file);
+  };
+
+  const handleDownloadSample = () => {
+    const sampleData = [
+      {
+        'Name': 'Sample College of Engineering',
+        'Code': 'SCE',
+        'Location': 'Bengaluru',
+        'State': 'Karnataka',
+        'Address': '123 Main St, Bengaluru',
+        'Type': 'Private',
+        'Ranking': 15,
+        'Rating': 4.5,
+        'Course Name': 'B.Tech Computer Science',
+        'Course Duration': '4 Years',
+        'Course Fees': '8 Lakhs',
+        'Course Eligibility': '10+2 with 60%',
+        'Image URL': 'https://loremflickr.com/400/300/college'
+      }
+    ];
+
+    const ws = XLSX.utils.json_to_sheet(sampleData);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Colleges");
+    XLSX.writeFile(wb, "Sample_Colleges_Upload.xlsx");
+  };
+
+  return (
+    <Card className="p-4 border-0 shadow-sm">
+      <h4 className="fw-bold mb-4" style={{color: '#1a43bf'}}>Bulk Upload Colleges</h4>
+      <p className="text-secondary mb-4">
+        Upload an Excel (.xlsx or .xls) file to add multiple colleges at once. 
+        Please make sure your Excel file matches the required format.
+      </p>
+      
+      <div className="mb-4">
+        <Button variant="outline-primary" onClick={handleDownloadSample} className="d-flex align-items-center">
+          <FaUpload className="me-2" /> Download Sample Excel Format
+        </Button>
+      </div>
+
+      <Form.Group controlId="formFile" className="mb-4">
+        <Form.Label className="fw-semibold">Select Excel File</Form.Label>
+        <Form.Control type="file" accept=".xlsx, .xls" onChange={handleFileChange} />
+      </Form.Group>
+
+      <Button variant="success" onClick={handleUpload} disabled={!file} className="px-4 py-2 fw-bold d-flex align-items-center" style={{backgroundColor: '#16a34a'}}>
+        <FaUpload className="me-2" /> Upload and Import
+      </Button>
+    </Card>
   );
 };
