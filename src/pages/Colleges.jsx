@@ -158,8 +158,13 @@ const Colleges = () => {
                         </div>
                       </div>
                       <Card.Body className="d-flex flex-column">
-                        <div className="mb-2">
-                          <span className="badge bg-light text-primary me-2">{college.type}</span>
+                        <div className="mb-2 d-flex flex-wrap gap-1">
+                          <Badge bg="light" text="primary" className="border">{college.type}</Badge>
+                          {college.name.match(/IIT|INDIAN INSTITUTE OF TECHNOLOGY/i) && <Badge bg="success" className="shadow-sm">Top 10 IIT</Badge>}
+                          {college.name.match(/NIT|NATIONAL INSTITUTE OF TECHNOLOGY/i) && <Badge bg="info" className="shadow-sm">Top NIT</Badge>}
+                          {college.name.match(/IIM|INDIAN INSTITUTE OF MANAGEMENT/i) && <Badge bg="danger" className="shadow-sm">Top IIM</Badge>}
+                          {college.ranking <= 50 && <Badge bg="primary" className="shadow-sm">Top 50 Ranked</Badge>}
+                          {college.rating >= 4.5 && <Badge bg="secondary" className="shadow-sm">Premium Institute</Badge>}
                         </div>
                         <Card.Title className="fw-bold text-primary mb-1">{college.name}</Card.Title>
                         <Card.Text className="text-muted small mb-3"><FaMapMarkerAlt className="me-1 text-danger"/>{college.address || college.location}</Card.Text>
