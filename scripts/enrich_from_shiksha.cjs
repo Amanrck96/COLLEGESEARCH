@@ -18,7 +18,18 @@ async function scrapeCollegeData(page, collegeName) {
         
         // Wait for search results
         await page.waitForSelector(SEARCH_RESULT_SELECTOR, { timeout: 10000 }).catch(() => null);
-        const href = await page.$eval(SEARCH_RESULT_SELECTOR, el => el.href).catch(() => null);
+        
+        const results = await page.$$(SEARCH_RESULT_SELECTOR);
+        let href = null;
+        for (let el of results) {
+            const text = await page.evaluate(e => e.innerText || '', el);
+            const firstWord = collegeName.split(' ')[0].toLowerCase();
+            // Skip "Sponsored" or "Featured" links by ensuring the title actually matches the college
+            if (text.toLowerCase().includes(firstWord)) {
+                href = await page.evaluate(e => e.href, el);
+                break;
+            }
+        }
         
         if (!href) {
             console.log(` -> No search results found on Shiksha for ${collegeName}`);
@@ -58,9 +69,9 @@ async function scrapeCollegeData(page, collegeName) {
 
 (async () => {
     console.log("Launching Puppeteer...");
-    // Use headless: false so you can solve captchas if Cloudflare blocks you
+    // Use headless mode to run in background
     const browser = await puppeteer.launch({ 
-        headless: false,
+        headless: 'new',
         defaultViewport: { width: 1280, height: 800 }
     }); 
     const page = await browser.newPage();
@@ -70,7 +81,7 @@ async function scrapeCollegeData(page, collegeName) {
 
     let updatedCount = 0;
     const START_INDEX = 0; // You can change this if you want to skip first N colleges
-    const MAX_TO_PROCESS = 5; // Limiting to 5 for testing. Change this to a larger number later.
+    const MAX_TO_PROCESS = 50; // Processing 50 colleges in this batch
 
     for (let i = START_INDEX; i < siteData.colleges.length; i++) {
         const college = siteData.colleges[i];
