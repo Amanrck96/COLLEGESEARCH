@@ -5,6 +5,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark } from 'react-icons/fa';
 
 import { CollegeContext } from '../contexts/CollegeContext';
+import CollegeImg from '../components/CollegeImg';
 
 const Colleges = () => {
   const { colleges } = React.useContext(CollegeContext);
@@ -31,22 +32,151 @@ const Colleges = () => {
     setSaved(prev => ({...prev, [id]: !prev[id]}));
   };
 
-  // Memoize search to avoid lagging the UI
+  // Semantic query parser for advanced searches
   const filteredColleges = React.useMemo(() => {
-    let result = (colleges || []).filter(c => 
-      c.name.toLowerCase().includes(searchTerm.toLowerCase()) || 
-      c.location?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      c.state?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      c.type?.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-
-    if (sortBy === "rating") {
-      result.sort((a, b) => (b.rating || 0) - (a.rating || 0));
-    } else if (sortBy === "fees_low") {
-      result.sort((a, b) => parseInt((a.fees||'0').replace(/\D/g,'')||'0') - parseInt((b.fees||'0').replace(/\D/g,'')||'0'));
+    if (!searchTerm) {
+      let result = [...(colleges || [])];
+      if (sortBy === "rating") {
+        result.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+      } else if (sortBy === "fees_low") {
+        result.sort((a, b) => parseInt((a.fees||'0').replace(/\D/g,'')||'0') - parseInt((b.fees||'0').replace(/\D/g,'')||'0'));
+      }
+      return result;
     }
-    return result;
+
+    const queryLower = searchTerm.toLowerCase();
+
+    // 1. Extract modifiers
+    const isGovernment = queryLower.includes('govt') || queryLower.includes('government') || queryLower.includes('public') || queryLower.includes('sarkari');
+    const isPrivate = queryLower.includes('private');
+    const isTop = queryLower.includes('top') || queryLower.includes('best');
+
+    // 2. Extract location/state
+    let matchedLocation = null;
+    let matchedState = null;
+
+    // Look for matches in the dataset
+    for (const c of colleges) {
+      if (c.location && queryLower.includes(c.location.toLowerCase())) {
+        matchedLocation = c.location.toLowerCase();
+      }
+      if (c.state && queryLower.includes(c.state.toLowerCase())) {
+        matchedState = c.state.toLowerCase();
+      }
+    }
+
+    // 3. Extract streams/courses
+    const isMba = queryLower.includes('mba') || queryLower.includes('pgdm') || queryLower.includes('management') || queryLower.includes('business') || queryLower.includes('iim');
+    const isEng = queryLower.includes('b.tech') || queryLower.includes('btech') || queryLower.includes('engineering') || queryLower.includes('technology') || queryLower.includes('polytechnic') || queryLower.includes('computer science') || queryLower.includes('iit') || queryLower.includes('nit');
+    const isMed = queryLower.includes('mbbs') || queryLower.includes('medical') || queryLower.includes('pharmacy') || queryLower.includes('dental') || queryLower.includes('nursing') || queryLower.includes('neet');
+    const isDes = queryLower.includes('design') || queryLower.includes('fashion') || queryLower.includes('animation') || queryLower.includes('nift');
+    const isLaw = queryLower.includes('law') || queryLower.includes('llb') || queryLower.includes('clat');
+
+    // 4. Perform filter
+    let results = (colleges || []).filter(c => {
+      if (c.name.toLowerCase().includes(queryLower)) return true;
+
+      let matchesFilters = true;
+
+      // Location match
+      if (matchedLocation && (c.location || '').toLowerCase() !== matchedLocation) {
+        matchesFilters = false;
+      }
+      // State match
+      if (matchedState && (c.state || '').toLowerCase() !== matchedState) {
+        matchesFilters = false;
+      }
+      // Type match
+      if (isGovernment && c.type.toLowerCase() !== 'government' && !c.name.toLowerCase().includes('government') && !c.name.toLowerCase().includes('govt') && !c.name.toLowerCase().includes('sarkari')) {
+        matchesFilters = false;
+      }
+      if (isPrivate && c.type.toLowerCase() !== 'private') {
+        matchesFilters = false;
+      }
+
+      // Stream match
+      if (isMba) {
+        const hasMbaCourse = (c.courses || []).some(co => 
+          co.type?.toUpperCase().includes('MANAGEMENT') || 
+          co.title?.toUpperCase().includes('MBA') || 
+          co.title?.toUpperCase().includes('PGDM')
+        );
+        const nameHasMba = c.name.toLowerCase().includes('management') || c.name.toLowerCase().includes('business') || c.name.toLowerCase().includes('iim');
+        if (!hasMbaCourse && !nameHasMba) matchesFilters = false;
+      }
+      if (isEng) {
+        const hasEngCourse = (c.courses || []).some(co => 
+          co.type?.toUpperCase().includes('ENGINEERING') || 
+          co.type?.toUpperCase().includes('TECHNOLOGY') || 
+          co.title?.toUpperCase().includes('B.TECH') || 
+          co.title?.toUpperCase().includes('BTECH') || 
+          co.title?.toUpperCase().includes('DIPLOMA')
+        );
+        const nameHasEng = c.name.toLowerCase().includes('technology') || c.name.toLowerCase().includes('polytechnic') || c.name.toLowerCase().includes('engineering') || c.name.toLowerCase().includes('iit') || c.name.toLowerCase().includes('nit');
+        if (!hasEngCourse && !nameHasEng) matchesFilters = false;
+      }
+      if (isMed) {
+        const hasMedCourse = (c.courses || []).some(co => 
+          co.type?.toUpperCase().includes('MEDICAL') || 
+          co.type?.toUpperCase().includes('PHARMACY') || 
+          co.title?.toUpperCase().includes('MBBS')
+        );
+        const nameHasMed = c.name.toLowerCase().includes('medical') || c.name.toLowerCase().includes('pharmacy') || c.name.toLowerCase().includes('dental') || c.name.toLowerCase().includes('nursing') || c.name.toLowerCase().includes('hospital');
+        if (!hasMedCourse && !nameHasMed) matchesFilters = false;
+      }
+      if (isDes) {
+        const hasDesCourse = (c.courses || []).some(co => 
+          co.type?.toUpperCase().includes('DESIGN') || 
+          co.type?.toUpperCase().includes('ARTS') || 
+          co.title?.toUpperCase().includes('DESIGN')
+        );
+        const nameHasDes = c.name.toLowerCase().includes('design') || c.name.toLowerCase().includes('fashion') || c.name.toLowerCase().includes('arts') || c.name.toLowerCase().includes('nift');
+        if (!hasDesCourse && !nameHasDes) matchesFilters = false;
+      }
+      if (isLaw) {
+        const hasLawCourse = (c.courses || []).some(co => 
+          co.type?.toUpperCase().includes('LAW') || 
+          co.title?.toUpperCase().includes('LLB') || 
+          co.title?.toUpperCase().includes('LAW')
+        );
+        const nameHasLaw = c.name.toLowerCase().includes('law') || c.name.toLowerCase().includes('legal');
+        if (!hasLawCourse && !nameHasLaw) matchesFilters = false;
+      }
+
+      // Fallback search if no explicit category filters matched
+      if (!matchedLocation && !matchedState && !isGovernment && !isPrivate && !isMba && !isEng && !isMed && !isDes && !isLaw) {
+        const words = queryLower.split(/\s+/).filter(w => w.length > 2);
+        if (words.length > 0) {
+          return words.every(w => 
+            c.name.toLowerCase().includes(w) || 
+            (c.location || '').toLowerCase().includes(w) || 
+            (c.state || '').toLowerCase().includes(w) ||
+            (c.type || '').toLowerCase().includes(w)
+          );
+        }
+      }
+
+      return matchesFilters;
+    });
+
+    // 5. Apply ranking or sorting
+    if (isTop) {
+      results.sort((a, b) => {
+        const rankA = a.ranking || 9999;
+        const rankB = b.ranking || 9999;
+        return rankA - rankB;
+      });
+    } else {
+      if (sortBy === "rating") {
+        results.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+      } else if (sortBy === "fees_low") {
+        results.sort((a, b) => parseInt((a.fees||'0').replace(/\D/g,'')||'0') - parseInt((b.fees||'0').replace(/\D/g,'')||'0'));
+      }
+    }
+
+    return results;
   }, [colleges, searchTerm, sortBy]);
+
 
   // Derived visible colleges per page
   const totalPages = Math.ceil(filteredColleges.length / itemsPerPage);
@@ -145,7 +275,7 @@ const Colleges = () => {
                   <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: (idx % 10) * 0.1, duration: 0.5 }}>
                     <Card className="custom-card h-100 border-0">
                       <div className="position-relative">
-                        <Card.Img variant="top" src={college.img} className="card-img-top-custom" style={{height: '220px'}} />
+                        <CollegeImg college={college} className="card-img-top-custom" style={{height: '220px'}} />
                         <Badge bg="warning" text="dark" className="position-absolute shadow" style={{top: '15px', right: '15px', fontSize: '14px', zIndex: 2}}>
                           <FaStar className="me-1 mb-1"/>{college.rating}
                         </Badge>

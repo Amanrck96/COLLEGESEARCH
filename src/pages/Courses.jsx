@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Container, Row, Col, Card, Form, InputGroup, Badge } from 'react-bootstrap';
 import { motion } from 'framer-motion';
 import { FaSearch, FaLaptopCode, FaStethoscope, FaChartPie, FaPaintBrush, FaBalanceScale } from 'react-icons/fa';
+import { useNavigate } from 'react-router-dom';
 
 import { CollegeContext } from '../contexts/CollegeContext';
 
@@ -21,6 +22,7 @@ const Courses = () => {
   const { courses } = React.useContext(CollegeContext);
   const [filter, setFilter] = useState('All');
   const [searchTerm, setSearchTerm] = useState('');
+  const navigate = useNavigate();
 
   let filteredCourses = (courses || []);
   if (filter !== 'All') {
@@ -69,9 +71,9 @@ const Courses = () => {
         </div>
 
         <Row className="g-4">
-          {filteredCourses.map((course, idx) => (
+          {filteredCourses.slice(0, 100).map((course, idx) => (
             <Col md={6} lg={4} key={idx}>
-              <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.05 }}>
+              <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: Math.min(idx * 0.02, 1) }}>
                 <Card className="custom-card h-100 border-0 p-3 text-center">
                   <div className="mt-3 mb-4">{getCategoryIcon(course.category)}</div>
                   <Card.Body>
@@ -84,13 +86,18 @@ const Courses = () => {
                       </div>
                       <div className="border-start"></div>
                       <div>
-                        <div className="fw-bold text-dark">{course.avgFee}</div>
-                        <div>Avg. Fee</div>
+                        <div className="fw-bold text-dark">{course.collegesCount}</div>
+                        <div>Colleges</div>
                       </div>
                     </div>
                   </Card.Body>
                   <Card.Footer className="bg-white border-0 pt-0">
-                    <button className="btn btn-outline-primary rounded-pill w-100">View Details</button>
+                    <button 
+                      className="btn btn-outline-primary rounded-pill w-100"
+                      onClick={() => navigate(`/colleges?q=${encodeURIComponent(course.title)}`)}
+                    >
+                      View Colleges
+                    </button>
                   </Card.Footer>
                 </Card>
               </motion.div>

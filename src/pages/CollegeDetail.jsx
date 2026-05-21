@@ -6,6 +6,7 @@ import { FaMapMarkerAlt, FaStar, FaBuilding, FaInfoCircle, FaPhoneAlt, FaGlobe, 
 import { useParams } from 'react-router-dom';
 import { CollegeContext } from '../contexts/CollegeContext';
 import { generateMissingDetails } from '../utils/geminiApi';
+import CollegeImg from '../components/CollegeImg';
 
 const CollegeDetail = () => {
   const { id } = useParams();
@@ -77,7 +78,7 @@ const CollegeDetail = () => {
       {/* Detail Header */}
       <section className="bg-light pb-5 position-relative">
         <div style={{height: '350px', width: '100%', overflow: 'hidden'}} className="position-relative">
-          <Image src={college.img || "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1200"} className="w-100 h-100 object-fit-cover" style={{filter: 'brightness(60%)'}} />
+          <CollegeImg college={college} className="w-100 h-100 object-fit-cover" style={{filter: 'brightness(60%)'}} />
           <Container className="position-absolute bottom-0 start-50 translate-middle-x pb-4">
             <Row className="align-items-end text-white">
               <Col md={8}>

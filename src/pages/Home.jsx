@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Container, Row, Col, Card, Button, Badge } from 'react-bootstrap';
 import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { FaGraduationCap, FaUniversity, FaBookOpen, FaStar, FaChevronRight } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
+import CollegeImg from '../components/CollegeImg';
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 50 },
@@ -12,7 +13,16 @@ const fadeInUp = {
 
 const Home = () => {
   const { colleges, exams } = React.useContext(CollegeContext);
+  const navigate = useNavigate();
+  const [searchQuery, setSearchQuery] = useState('');
   
+  const handleSearch = (e) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      navigate(`/colleges?q=${encodeURIComponent(searchQuery.trim())}`);
+    }
+  };
+
   // Extract unique courses across all colleges dynamically - Memoized
   const trendingCourses = React.useMemo(() => {
     const uniqueCoursesMap = new Map();
@@ -47,10 +57,15 @@ const Home = () => {
           </motion.div>
           
           <motion.div initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ delay: 0.5 }}>
-            <div className="hero-search-wrapper w-100">
-              <input type="text" placeholder="Search Colleges, Courses, Exams, Questions and Articles" />
-              <button className="btn-search-orange">Search</button>
-            </div>
+            <form onSubmit={handleSearch} className="hero-search-wrapper w-100">
+              <input 
+                type="text" 
+                placeholder="Search Colleges, Courses, Exams, Questions and Articles" 
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+              />
+              <button type="submit" className="btn-search-orange">Search</button>
+            </form>
           </motion.div>
         </Container>
       </section>
@@ -67,7 +82,7 @@ const Home = () => {
               <Col md={6} lg={3} key={idx}>
                 <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
                   <Card className="custom-card h-100 border-0">
-                    <Card.Img variant="top" src={college.img} className="card-img-top-custom" style={{height: '200px', objectFit: 'cover'}} />
+                    <CollegeImg college={college} className="card-img-top-custom" style={{height: '200px'}} />
                     <Card.Body className="d-flex flex-column">
                       <div className="mb-2">
                         <span className="badge bg-light text-primary me-2">{college.type}</span>
@@ -82,6 +97,7 @@ const Home = () => {
               </Col>
             ))}
           </Row>
+
           <div className="text-center mt-5">
             <Link to="/colleges" className="btn btn-primary-custom">View All Colleges <FaChevronRight /></Link>
           </div>
