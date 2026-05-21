@@ -7,6 +7,18 @@ import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark }
 import { CollegeContext } from '../contexts/CollegeContext';
 import CollegeImg from '../components/CollegeImg';
 
+const parseFees = (fees) => {
+  if (fees === null || fees === undefined) return 0;
+  if (typeof fees === 'number') return fees;
+  const feesStr = String(fees);
+  const clean = feesStr.replace(/[^\d.]/g, '');
+  const num = parseFloat(clean) || 0;
+  if (feesStr.toLowerCase().includes('lakh')) {
+    return Math.round(num * 100000);
+  }
+  return Math.round(num);
+};
+
 const Colleges = () => {
   const { colleges } = React.useContext(CollegeContext);
   const location = useLocation();
@@ -39,7 +51,7 @@ const Colleges = () => {
       if (sortBy === "rating") {
         result.sort((a, b) => (b.rating || 0) - (a.rating || 0));
       } else if (sortBy === "fees_low") {
-        result.sort((a, b) => parseInt((a.fees||'0').replace(/\D/g,'')||'0') - parseInt((b.fees||'0').replace(/\D/g,'')||'0'));
+        result.sort((a, b) => parseFees(a.fees) - parseFees(b.fees));
       }
       return result;
     }
@@ -55,13 +67,23 @@ const Colleges = () => {
     let matchedLocation = null;
     let matchedState = null;
 
-    // Look for matches in the dataset
+    // Look for matches in the dataset with word boundaries, ignoring general country name "india"
     for (const c of colleges) {
-      if (c.location && queryLower.includes(c.location.toLowerCase())) {
-        matchedLocation = c.location.toLowerCase();
+      if (c.location && c.location.toLowerCase() !== 'india') {
+        const locLower = c.location.toLowerCase();
+        const escaped = locLower.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+        const regex = new RegExp('(?:^|\\s|\\b)' + escaped + '(?:\\b|\\s|$)', 'i');
+        if (regex.test(queryLower)) {
+          matchedLocation = locLower;
+        }
       }
-      if (c.state && queryLower.includes(c.state.toLowerCase())) {
-        matchedState = c.state.toLowerCase();
+      if (c.state && c.state.toLowerCase() !== 'india') {
+        const stateLower = c.state.toLowerCase();
+        const escaped = stateLower.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+        const regex = new RegExp('(?:^|\\s|\\b)' + escaped + '(?:\\b|\\s|$)', 'i');
+        if (regex.test(queryLower)) {
+          matchedState = stateLower;
+        }
       }
     }
 
@@ -170,7 +192,7 @@ const Colleges = () => {
       if (sortBy === "rating") {
         results.sort((a, b) => (b.rating || 0) - (a.rating || 0));
       } else if (sortBy === "fees_low") {
-        results.sort((a, b) => parseInt((a.fees||'0').replace(/\D/g,'')||'0') - parseInt((b.fees||'0').replace(/\D/g,'')||'0'));
+        results.sort((a, b) => parseFees(a.fees) - parseFees(b.fees));
       }
     }
 
