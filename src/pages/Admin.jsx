@@ -5,8 +5,10 @@ import { CollegeContext } from '../contexts/CollegeContext';
 import { SiteContext } from '../contexts/SiteContext';
 import { State, City } from 'country-state-city';
 import * as XLSX from 'xlsx';
+import { useTranslation } from 'react-i18next';
 
 const Admin = () => {
+  const { t } = useTranslation();
   const { colleges, addCollege, updateCollege, deleteCollege } = useContext(CollegeContext);
   const { siteData, updateSiteData } = useContext(SiteContext);
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -67,21 +69,21 @@ const Admin = () => {
         <Card style={{ width: '400px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}>
           <Card.Body className="p-5">
             <div className="text-center mb-4">
-              <h4 className="fw-bold" style={{color: '#1a43bf'}}>Admin Login</h4>
-              <p className="text-muted small">Please enter your credentials to access the admin center</p>
+              <h4 className="fw-bold" style={{color: '#1a43bf'}}>{t('adminLogin')}</h4>
+              <p className="text-muted small">{t('enterCredentials')}</p>
             </div>
-            {loginError && <div className="alert alert-danger py-2 small">Invalid username or password.</div>}
+            {loginError && <div className="alert alert-danger py-2 small">{t('invalidCredentials')}</div>}
             <Form onSubmit={handleLogin}>
               <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">Username</Form.Label>
+                <Form.Label className="small fw-semibold">{t('username')}</Form.Label>
                 <Form.Control type="text" placeholder="admin" value={username} onChange={(e) => setUsername(e.target.value)} required />
               </Form.Group>
               <Form.Group className="mb-4">
-                <Form.Label className="small fw-semibold">Password</Form.Label>
+                <Form.Label className="small fw-semibold">{t('password')}</Form.Label>
                 <Form.Control type="password" placeholder="admin123" value={password} onChange={(e) => setPassword(e.target.value)} required />
               </Form.Group>
               <Button type="submit" variant="primary" className="w-100 fw-bold py-2" style={{backgroundColor: '#1c4ed8', border: 'none'}}>
-                Login
+                {t('login')}
               </Button>
             </Form>
           </Card.Body>
@@ -101,8 +103,8 @@ const Admin = () => {
           </div>
         </div>
         <div className="d-flex align-items-center">
-          <span className="me-4 text-muted fw-semibold">Blog</span>
-          <span className="me-4 text-muted fw-semibold">Compare</span>
+          <span className="me-4 text-muted fw-semibold">{t('blog')}</span>
+          <span className="me-4 text-muted fw-semibold">{t('compare')}</span>
         </div>
       </div>
 
@@ -148,8 +150,8 @@ const Admin = () => {
             <div>
               <div className="d-flex justify-content-between align-items-center mb-4">
                 <div>
-                  <h4 className="fw-bold mb-1">Manage Colleges</h4>
-                  <p className="text-secondary mb-0">Add or edit colleges information</p>
+                  <h4 className="fw-bold mb-1">{t('manageColleges')}</h4>
+                  <p className="text-secondary mb-0">{t('addOrEditCollegesInfo')}</p>
                 </div>
                 <Button variant="primary" onClick={() => { setEditingCollege(null); setShowAddCollege(true); }} className="px-4 py-2 fw-semibold rounded-3 d-flex align-items-center" style={{backgroundColor: '#1c4ed8', border: 'none'}}>
                   <FaPlus className="me-2" /> Add College
@@ -167,12 +169,12 @@ const Admin = () => {
                 <Table hover className="align-middle" style={{ borderCollapse: 'separate', borderSpacing: '0 8px' }}>
                   <thead>
                     <tr className="text-muted" style={{borderBottom: 'none'}}>
-                      <th className="fw-normal" style={{border: 'none'}}>Name</th>
-                      <th className="fw-normal" style={{border: 'none'}}>Short Name</th>
-                      <th className="fw-normal" style={{border: 'none'}}>Type</th>
-                      <th className="fw-normal" style={{border: 'none'}}>Rating</th>
-                      <th className="fw-normal" style={{border: 'none'}}>Ranking</th>
-                      <th className="fw-normal" style={{border: 'none'}}>Actions</th>
+                      <th className="fw-normal" style={{border: 'none'}}>{t('name')}</th>
+                      <th className="fw-normal" style={{border: 'none'}}>{t('shortName')}</th>
+                      <th className="fw-normal" style={{border: 'none'}}>{t('type')}</th>
+                      <th className="fw-normal" style={{border: 'none'}}>{t('rating')}</th>
+                      <th className="fw-normal" style={{border: 'none'}}>{t('ranking')}</th>
+                      <th className="fw-normal" style={{border: 'none'}}>{t('actions')}</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -194,7 +196,7 @@ const Admin = () => {
                       </tr>
                     ))}
                     {!colleges?.length && (
-                      <tr><td colSpan="6" className="text-center py-4 text-muted">No colleges found. Add one!</td></tr>
+                      <tr><td colSpan="6" className="text-center py-4 text-muted">{t('noCollegesFound')}</td></tr>
                     )}
                   </tbody>
                 </Table>
