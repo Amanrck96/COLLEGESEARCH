@@ -76,7 +76,7 @@ export const CollegeProvider = ({ children }) => {
     { name: 'NIFT', date: 'Feb 05, 2026', level: 'National', tag: 'Design', img: 'https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=400' }
   ], []);
 
-  const [exams, setExams] = useState(() => JSON.parse(localStorage.getItem('examsData') || JSON.stringify(defaultExams)));
+  const [exams] = useState(() => JSON.parse(localStorage.getItem('examsData') || JSON.stringify(defaultExams)));
 
   useEffect(() => { localStorage.setItem('addedColleges', JSON.stringify(addedColleges)); }, [addedColleges]);
   useEffect(() => { localStorage.setItem('editedColleges', JSON.stringify(editedColleges)); }, [editedColleges]);

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext } from 'react';
+import React, { useState, useEffect, useContext, useCallback } from 'react';
 import { Spinner } from 'react-bootstrap';
 import { CollegeContext } from '../contexts/CollegeContext';
 
@@ -19,7 +19,7 @@ const CollegeImg = ({ college, className, style, alt, ...props }) => {
     setAttempt(0);
   }, [college?.img]);
 
-  const fetchRealImage = async () => {
+  const fetchRealImage = useCallback(async () => {
     if (attempt > 2 || loading) return;
     setLoading(true);
     setAttempt(prev => prev + 1);
@@ -53,13 +53,13 @@ const CollegeImg = ({ college, className, style, alt, ...props }) => {
     } finally {
       setLoading(false);
     }
-  };
+  }, [attempt, loading, college, updateCollege]);
 
   useEffect(() => {
     if (college && isPlaceholder(imgSrc) && attempt === 0) {
       fetchRealImage();
     }
-  }, [imgSrc, college]);
+  }, [imgSrc, college, attempt, fetchRealImage]);
 
   const handleError = () => {
     // If the direct URL failed and we have search results, try the Google CDN thumbnail (preview) which always works

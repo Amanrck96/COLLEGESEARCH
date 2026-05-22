@@ -51,7 +51,7 @@ export const SiteProvider = ({ children }) => {
     if (savedSiteData) {
       try {
         return JSON.parse(savedSiteData);
-      } catch (err) {
+      } catch {
         return initialSiteData;
       }
     }

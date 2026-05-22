@@ -20,22 +20,23 @@ const Header = () => {
   const [activeCounselingTab, setActiveCounselingTab] = useState(counselingTabs[0] || '');
   const [activeOnlineTab, setActiveOnlineTab] = useState(onlineTabs[0] || '');
 
-  useEffect(() => {
-    setActiveMbaTab(mbaTabs[0] || '');
-    setActiveEngTab(engTabs[0] || '');
-    setActiveMedTab(medTabs[0] || '');
-    setActiveDesTab(desTabs[0] || '');
-    setActiveMoreTab(moreTabs[0] || '');
-    setActiveStudyTab(studyTabs[0] || '');
-    setActiveCounselingTab(counselingTabs[0] || '');
-    setActiveOnlineTab(onlineTabs[0] || '');
-  }, [mbaTabs, engTabs, medTabs, desTabs, moreTabs, studyTabs, counselingTabs, onlineTabs]);
+  const [prevMbaTabs, setPrevMbaTabs] = useState(mbaTabs);
+  const [prevEngTabs, setPrevEngTabs] = useState(engTabs);
+  const [prevMedTabs, setPrevMedTabs] = useState(medTabs);
+  const [prevDesTabs, setPrevDesTabs] = useState(desTabs);
+  const [prevMoreTabs, setPrevMoreTabs] = useState(moreTabs);
+  const [prevStudyTabs, setPrevStudyTabs] = useState(studyTabs);
+  const [prevCounselingTabs, setPrevCounselingTabs] = useState(counselingTabs);
+  const [prevOnlineTabs, setPrevOnlineTabs] = useState(onlineTabs);
 
-  // Dynamic calculations based on DB - Memoized for Performance
-  const uniqueCities = React.useMemo(() => Array.from(new Set((colleges || []).map(c => c.location))).slice(0, 10), [colleges]);
-  const topColleges = React.useMemo(() => [...(colleges || [])].sort((a,b) => b.ranking - a.ranking || b.rating - a.rating), [colleges]);
-  const uniqueExams = React.useMemo(() => Array.from(new Set((colleges || []).flatMap(c => (c.exams || '').split(',').map(s=>s.trim())))).filter(Boolean).slice(0, 15), [colleges]);
-  const uniqueCountries = React.useMemo(() => Array.from(new Set((colleges || []).map(c => c.country || 'India'))).filter(c => c !== 'India').slice(0, 15), [colleges]);
+  if (mbaTabs !== prevMbaTabs) { setPrevMbaTabs(mbaTabs); setActiveMbaTab(mbaTabs[0] || ''); }
+  if (engTabs !== prevEngTabs) { setPrevEngTabs(engTabs); setActiveEngTab(engTabs[0] || ''); }
+  if (medTabs !== prevMedTabs) { setPrevMedTabs(medTabs); setActiveMedTab(medTabs[0] || ''); }
+  if (desTabs !== prevDesTabs) { setPrevDesTabs(desTabs); setActiveDesTab(desTabs[0] || ''); }
+  if (moreTabs !== prevMoreTabs) { setPrevMoreTabs(moreTabs); setActiveMoreTab(moreTabs[0] || ''); }
+  if (studyTabs !== prevStudyTabs) { setPrevStudyTabs(studyTabs); setActiveStudyTab(studyTabs[0] || ''); }
+  if (counselingTabs !== prevCounselingTabs) { setPrevCounselingTabs(counselingTabs); setActiveCounselingTab(counselingTabs[0] || ''); }
+  if (onlineTabs !== prevOnlineTabs) { setPrevOnlineTabs(onlineTabs); setActiveOnlineTab(onlineTabs[0] || ''); }
 
   return (
     <div className="custom-header-wrapper">

@@ -229,20 +229,23 @@ const Admin = () => {
 const AddCollegeForm = ({ college, onCancel, onSave }) => {
   const indianStates = State.getStatesOfCountry("IN");
   const [selectedState, setSelectedState] = useState(college?.state || '');
-  const [cities, setCities] = useState([]);
+  const [cities, setCities] = useState(() => {
+    if (college?.state) {
+      const stateObj = State.getStatesOfCountry("IN").find(s => s.name === college.state);
+      return stateObj ? City.getCitiesOfState("IN", stateObj.isoCode) : [];
+    }
+    return [];
+  });
 
-  useEffect(() => {
-    if (selectedState) {
-      const stateObj = indianStates.find(s => s.name === selectedState);
-      if (stateObj) {
-        setCities(City.getCitiesOfState("IN", stateObj.isoCode));
-      } else {
-        setCities([]);
-      }
+  const handleStateChange = (stateName) => {
+    setSelectedState(stateName);
+    const stateObj = indianStates.find(s => s.name === stateName);
+    if (stateObj) {
+      setCities(City.getCitiesOfState("IN", stateObj.isoCode));
     } else {
       setCities([]);
     }
-  }, [selectedState, indianStates]);
+  };
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -372,7 +375,7 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
                     name="state" 
                     className="py-2" 
                     value={selectedState} 
-                    onChange={(e) => setSelectedState(e.target.value)}
+                    onChange={(e) => handleStateChange(e.target.value)}
                     required
                   >
                     <option value="">Select State</option>
