@@ -697,7 +697,7 @@ const BulkUploadForm = ({ onSave }) => {
             "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?auto=format&fit=crop&q=80&w=400",
             "https://images.unsplash.com/photo-1590408546194-e3fb4b917531?auto=format&fit=crop&q=80&w=400"
           ];
-          const randomImage = images[index % images.length];
+          const randomImage = images.at(index % images.length);
 
           return {
             id: Date.now() + index,

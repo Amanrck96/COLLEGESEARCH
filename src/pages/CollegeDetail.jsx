@@ -37,7 +37,7 @@ const CollegeDetail = () => {
     if (!college) return;
 
     const fetchAi = async (field, promptKey) => {
-      if (!aiDetails[field]) {
+      if (!Reflect.get(aiDetails, field)) {
         setAiLoading(prev => ({...prev, [field]: true}));
         const text = await generateMissingDetails(college.name, college.location, promptKey);
         setAiDetails(prev => ({...prev, [field]: text}));
