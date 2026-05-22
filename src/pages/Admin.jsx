@@ -5,7 +5,7 @@ import { CollegeContext } from '../contexts/CollegeContext';
 import { SiteContext } from '../contexts/SiteContext';
 import { State, City } from 'country-state-city';
 import * as XLSX from 'xlsx';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '../utils/i18n';
 
 const Admin = () => {
   const { t } = useTranslation();
@@ -36,7 +36,7 @@ const Admin = () => {
   };
 
   const handleDelete = (id) => {
-    if (window.confirm("Are you sure you want to delete this college?")) {
+    if (window.confirm(t('confirmDeleteCollege'))) {
       deleteCollege(id);
     }
   };
@@ -53,13 +53,13 @@ const Admin = () => {
 
   const handleBulkSave = (collegesData) => {
     if (collegesData.length > 50) {
-      alert(`Warning: You are uploading ${collegesData.length} colleges. This may exceed browser storage. For large files, please contact developers to import via script.`);
+      alert(t('bulkUploadWarning', { count: collegesData.length }));
     }
 
     collegesData.forEach(college => {
       addCollege(college);
     });
-    alert(`${collegesData.length} colleges added successfully!`);
+    alert(t('collegesAddedSuccessfully', { count: collegesData.length }));
     setActiveTab('dashboard');
   };
 
@@ -98,8 +98,8 @@ const Admin = () => {
       <div className="bg-white border-bottom px-4 py-3 d-flex align-items-center justify-content-between sticky-top">
         <div className="d-flex align-items-center">
           <div className="fw-bold fs-5 me-2" style={{color: '#1a43bf'}}>
-            <img src="https://via.placeholder.com/30" alt="logo" className="me-2" style={{borderRadius:'5px'}}/>
-            CollegeSearchs
+            <img src="https://via.placeholder.com/30" alt={t('logoAlt')} className="me-2" style={{borderRadius:'5px'}}/>
+            {t('brandName', 'CollegeSearchs')}
           </div>
         </div>
         <div className="d-flex align-items-center">
@@ -113,32 +113,32 @@ const Admin = () => {
         <Col md={2} className="bg-white border-end" style={{ minHeight: 'calc(100vh - 70px)' }}>
           <div className="p-3">
             <h6 className="text-muted fw-bold mb-3 d-flex align-items-center">
-              <span className="me-2">🎓</span> Admin Panel
+              <span className="me-2">🎓</span> {t('adminPanel')}
             </h6>
             <Nav className="flex-column">
               <Nav.Link 
                 className={`py-2 px-3 rounded mb-1 ${activeTab === 'dashboard' ? 'bg-light text-dark fw-bold' : 'text-secondary'}`}
                 onClick={() => setActiveTab('dashboard')}
               >
-                <span className="me-2">㗊</span> Dashboard
+                <span className="me-2">㗊</span> {t('dashboard')}
               </Nav.Link>
               <Nav.Link 
                 className={`py-2 px-3 rounded mb-1 ${activeTab === 'bulkUpload' ? 'bg-light text-dark fw-bold' : 'text-secondary'}`}
                 onClick={() => setActiveTab('bulkUpload')}
               >
-                <span className="me-2">📤</span> Bulk Upload
+                <span className="me-2">📤</span> {t('bulkUpload')}
               </Nav.Link>
               <Nav.Link className="py-2 px-3 rounded mb-1 text-secondary">
-                <span className="me-2">📝</span> Blog Manager
+                <span className="me-2">📝</span> {t('blogManager')}
               </Nav.Link>
               <Nav.Link 
                 className={`py-2 px-3 rounded mb-1 ${activeTab === 'siteSettings' ? 'bg-light text-dark fw-bold' : 'text-secondary'}`}
                 onClick={() => setActiveTab('siteSettings')}
               >
-                <span className="me-2">⚙️</span> Site Settings
+                <span className="me-2">⚙️</span> {t('siteSettings')}
               </Nav.Link>
               <Nav.Link className="py-2 px-3 rounded mb-1 text-secondary">
-                <span className="me-2">📞</span> Contact
+                <span className="me-2">📞</span> {t('contact')}
               </Nav.Link>
             </Nav>
           </div>
@@ -154,13 +154,13 @@ const Admin = () => {
                   <p className="text-secondary mb-0">{t('addOrEditCollegesInfo')}</p>
                 </div>
                 <Button variant="primary" onClick={() => { setEditingCollege(null); setShowAddCollege(true); }} className="px-4 py-2 fw-semibold rounded-3 d-flex align-items-center" style={{backgroundColor: '#1c4ed8', border: 'none'}}>
-                  <FaPlus className="me-2" /> Add College
+                  <FaPlus className="me-2" /> {t('addCollegeBtn')}
                 </Button>
               </div>
 
               <Form.Control 
                 type="text" 
-                placeholder="Search by name or shortname" 
+                placeholder={t('searchPlaceholder')} 
                 className="mb-4 bg-light border-0 py-2"
                 style={{ maxWidth: '400px' }}
               />
@@ -229,6 +229,7 @@ const Admin = () => {
 };
 
 const AddCollegeForm = ({ college, onCancel, onSave }) => {
+  const { t } = useTranslation();
   const indianStates = State.getStatesOfCountry("IN");
   const [selectedState, setSelectedState] = useState(college?.state || '');
   const [cities, setCities] = useState(() => {
@@ -287,7 +288,7 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
   return (
     <div className="p-3">
       <div className="d-flex justify-content-between align-items-center mb-4">
-        <h5 className="fw-bold" style={{color: '#15803d'}}>{college ? "Edit Basic Information" : "Basic Information"}</h5>
+        <h5 className="fw-bold" style={{color: '#15803d'}}>{college ? t('editBasicInfo') : t('basicInfo')}</h5>
         <Button variant="link" className="text-muted text-decoration-none fs-5 p-0" onClick={onCancel}>✖</Button>
       </div>
 
@@ -295,14 +296,14 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
         <Row className="mb-3">
           <Col md={6}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Name*</Form.Label>
-              <Form.Control name="name" type="text" placeholder="College Name" defaultValue={college?.name || ''} className="py-2" required />
+              <Form.Label className="fw-semibold small">{t('nameRequired')}</Form.Label>
+              <Form.Control name="name" type="text" placeholder={t('collegeNamePlaceholder')} defaultValue={college?.name || ''} className="py-2" required />
             </Form.Group>
           </Col>
           <Col md={6}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Short Name*</Form.Label>
-              <Form.Control name="shortName" type="text" placeholder="Short Name" defaultValue={college?.shortName || ''} className="py-2" required />
+              <Form.Label className="fw-semibold small">{t('shortNameRequired')}</Form.Label>
+              <Form.Control name="shortName" type="text" placeholder={t('shortName')} defaultValue={college?.shortName || ''} className="py-2" required />
             </Form.Group>
           </Col>
         </Row>
@@ -310,21 +311,21 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
         <Row className="mb-3">
           <Col md={6}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">About</Form.Label>
+              <Form.Label className="fw-semibold small">{t('about')}</Form.Label>
               <Form.Control name="about" as="textarea" rows={3} defaultValue={college?.about || ''} className="py-2" />
             </Form.Group>
           </Col>
           <Col md={6}>
             <Form.Group className="mb-3">
-              <Form.Label className="fw-semibold small">District/City*</Form.Label>
+              <Form.Label className="fw-semibold small">{t('districtCityRequired')}</Form.Label>
               <Form.Select name="district" defaultValue={college?.location || ''} className="py-2" required>
-                <option value="">Select City</option>
+                <option value="">{t('selectCity')}</option>
                 {cities.map(c => <option key={c.name} value={c.name}>{c.name}</option>)}
               </Form.Select>
             </Form.Group>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Map URL</Form.Label>
-              <Form.Control name="mapUrl" type="url" placeholder="Map URL" defaultValue={college?.mapUrl || ''} className="py-2" />
+              <Form.Label className="fw-semibold small">{t('mapUrl')}</Form.Label>
+              <Form.Control name="mapUrl" type="url" placeholder={t('mapUrlPlaceholder')} defaultValue={college?.mapUrl || ''} className="py-2" />
             </Form.Group>
           </Col>
         </Row>
@@ -332,7 +333,7 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
         <Row className="mb-3">
           <Col md={6}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Address*</Form.Label>
+              <Form.Label className="fw-semibold small">{t('addressRequired')}</Form.Label>
               <Form.Control name="address" as="textarea" rows={2} defaultValue={college?.address || ''} className="py-2" />
             </Form.Group>
           </Col>
@@ -340,13 +341,13 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
             <Row>
               <Col xs={6}>
                 <Form.Group>
-                  <Form.Label className="fw-semibold small">Brochure Link</Form.Label>
+                  <Form.Label className="fw-semibold small">{t('brochureLink')}</Form.Label>
                   <Form.Control name="brochureLink" type="url" defaultValue={college?.brochureLink || ''} className="py-2" />
                 </Form.Group>
               </Col>
               <Col xs={6}>
                 <Form.Group>
-                  <Form.Label className="fw-semibold small">Established</Form.Label>
+                  <Form.Label className="fw-semibold small">{t('established')}</Form.Label>
                   <Form.Control name="established" type="text" defaultValue={college?.established || ''} className="py-2" />
                 </Form.Group>
               </Col>
@@ -359,20 +360,20 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
             <Row>
               <Col xs={6}>
                 <Form.Group>
-                  <Form.Label className="fw-semibold small">Type*</Form.Label>
+                  <Form.Label className="fw-semibold small">{t('typeRequired')}</Form.Label>
                   <Form.Select name="type" className="py-2" defaultValue={college?.type || 'Government'}>
-                    <option>Government</option>
-                    <option>Private</option>
-                    <option>Autonomous</option>
-                    <option>Public-Private</option>
-                    <option>Online</option>
-                    <option>Full Time</option>
+                    <option value="Government">{t('government')}</option>
+                    <option value="Private">{t('private')}</option>
+                    <option value="Autonomous">{t('autonomous')}</option>
+                    <option value="Public-Private">{t('publicPrivate')}</option>
+                    <option value="Online">{t('online')}</option>
+                    <option value="Full Time">{t('fullTime')}</option>
                   </Form.Select>
                 </Form.Group>
               </Col>
               <Col xs={6}>
                 <Form.Group>
-                  <Form.Label className="fw-semibold small">State*</Form.Label>
+                  <Form.Label className="fw-semibold small">{t('stateRequired')}</Form.Label>
                   <Form.Select 
                     name="state" 
                     className="py-2" 
@@ -380,7 +381,7 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
                     onChange={(e) => handleStateChange(e.target.value)}
                     required
                   >
-                    <option value="">Select State</option>
+                    <option value="">{t('selectState')}</option>
                     {indianStates.map(st => <option key={st.isoCode} value={st.name}>{st.name}</option>)}
                   </Form.Select>
                 </Form.Group>
@@ -391,13 +392,13 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
             <Row>
               <Col xs={6}>
                 <Form.Group>
-                  <Form.Label className="fw-semibold small">Affiliation</Form.Label>
+                  <Form.Label className="fw-semibold small">{t('affiliation')}</Form.Label>
                   <Form.Control name="affiliation" type="text" defaultValue={college?.affiliation || ''} className="py-2" />
                 </Form.Group>
               </Col>
               <Col xs={6}>
                 <Form.Group>
-                  <Form.Label className="fw-semibold small">Ranking</Form.Label>
+                  <Form.Label className="fw-semibold small">{t('ranking')}</Form.Label>
                   <Form.Control name="ranking" type="number" defaultValue={college?.ranking || 0} className="py-2" />
                 </Form.Group>
               </Col>
@@ -409,83 +410,83 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
         <Row className="mb-4">
           <Col md={6}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Specializations*</Form.Label>
-              <Form.Control name="specializations" type="text" placeholder="HR, Marketing, Finance..." defaultValue={college?.specializations || 'HR, Marketing, Finance, Operations'} className="py-2" />
+              <Form.Label className="fw-semibold small">{t('specializationsRequired')}</Form.Label>
+              <Form.Control name="specializations" type="text" placeholder={t('specializationsPlaceholder')} defaultValue={college?.specializations || 'HR, Marketing, Finance, Operations'} className="py-2" />
             </Form.Group>
           </Col>
           <Col md={6}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Apply Now Link</Form.Label>
-              <Form.Control name="applyNowLink" type="url" placeholder="https://" defaultValue={college?.applyNowLink || ''} className="py-2" />
+              <Form.Label className="fw-semibold small">{t('applyNowLink')}</Form.Label>
+              <Form.Control name="applyNowLink" type="url" placeholder={t('urlPlaceholder')} defaultValue={college?.applyNowLink || ''} className="py-2" />
             </Form.Group>
           </Col>
         </Row>
 
         {/* Highlights */}
         <div className="mb-4">
-          <Form.Label className="fw-bold" style={{color: '#15803d'}}>Highlights</Form.Label>
+          <Form.Label className="fw-bold" style={{color: '#15803d'}}>{t('highlights')}</Form.Label>
           <div className="d-flex mb-2">
             <Form.Control name="highlights" type="text" defaultValue={college?.highlights || ''} className="py-2 me-2" />
             <Button variant="danger" className="px-3" type="button"><FaTrash /></Button>
           </div>
           <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
-            Add Highlights
+            {t('addHighlights')}
           </Button>
         </div>
 
         {/* Top Recruiters */}
         <div className="mb-4">
-          <Form.Label className="fw-bold" style={{color: '#15803d'}}>Top Recruiters</Form.Label>
+          <Form.Label className="fw-bold" style={{color: '#15803d'}}>{t('topRecruiters')}</Form.Label>
           <div className="d-flex mb-2">
             <Form.Control name="topRecruiters" type="text" defaultValue={college?.topRecruiters || ''} className="py-2 me-2" />
             <Button variant="danger" className="px-3" type="button"><FaTrash /></Button>
           </div>
           <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
-            Add Top Recruiters
+            {t('addTopRecruiters')}
           </Button>
         </div>
 
         {/* Admission Process */}
         <div className="mb-4">
           <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
-            Add Admission Process
+            {t('addAdmissionProcess')}
           </Button>
         </div>
 
         {/* Courses */}
         <div className="mb-4">
           <Form.Label className="fw-bold d-block" style={{color: '#15803d'}}>
-            Courses <span className="text-danger fw-normal" style={{fontSize: '12px'}}>(at least one course is required)</span>
+            {t('courses')} <span className="text-danger fw-normal" style={{fontSize: '12px'}}>{t('coursesPrompt')}</span>
           </Form.Label>
           <Row className="mb-2">
             <Col xs={3}>
               <Form.Select name="courseName" className="py-2" defaultValue={college?.courseName || 'B.Tech'}>
-                <option>B.Tech</option>
-                <option>MBA</option>
-                <option>MBBS</option>
-                <option>BFA</option>
-                <option>PGDM</option>
-                <option>B.Sc</option>
-                <option>B.Com</option>
-                <option>B.A</option>
+                <option value="B.Tech">{t('btech')}</option>
+                <option value="MBA">{t('mba')}</option>
+                <option value="MBBS">{t('mbbs')}</option>
+                <option value="BFA">{t('bfa')}</option>
+                <option value="PGDM">{t('pgdm')}</option>
+                <option value="B.Sc">{t('bsc')}</option>
+                <option value="B.Com">{t('bcom')}</option>
+                <option value="B.A">{t('ba')}</option>
               </Form.Select>
             </Col>
             <Col xs={2}>
-              <Form.Control name="courseDuration" type="text" placeholder="Duration" defaultValue={college?.courseDuration || '2'} className="py-2" />
+              <Form.Control name="courseDuration" type="text" placeholder={t('durationPlaceholder')} defaultValue={college?.courseDuration || '2'} className="py-2" />
             </Col>
             <Col xs={2}>
-              <Form.Control name="courseFee" type="text" placeholder="Fee (Lakhs)" defaultValue={college?.courseFee || '1.68'} className="py-2" />
+              <Form.Control name="courseFee" type="text" placeholder={t('feePlaceholder')} defaultValue={college?.courseFee || '1.68'} className="py-2" />
             </Col>
             <Col xs={3}>
-              <Form.Control name="courseEligibility" type="text" placeholder="Eligibility" defaultValue={college?.courseEligibility || ''} className="py-2" />
+              <Form.Control name="courseEligibility" type="text" placeholder={t('eligibilityPlaceholder')} defaultValue={college?.courseEligibility || ''} className="py-2" />
             </Col>
             <Col xs={2}>
-              <Form.Control type="number" placeholder="Ranking" defaultValue="0" className="py-2" />
+              <Form.Control type="number" placeholder={t('rankingPlaceholder')} defaultValue="0" className="py-2" />
             </Col>
           </Row>
           <Button variant="danger" className="w-100 mb-3 py-2 rounded-3 border-0" type="button"><FaTrash /></Button>
           <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
-            Add Course
+            {t('addCourse')}
           </Button>
         </div>
 
@@ -493,25 +494,25 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
         <Row className="mb-4">
           <Col md={3}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Website</Form.Label>
+              <Form.Label className="fw-semibold small">{t('website')}</Form.Label>
               <Form.Control name="website" type="url" defaultValue={college?.website || ''} className="py-2" />
             </Form.Group>
           </Col>
           <Col md={3}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Facebook</Form.Label>
+              <Form.Label className="fw-semibold small">{t('facebook')}</Form.Label>
               <Form.Control name="facebook" type="url" defaultValue={college?.facebook || ''} className="py-2" />
             </Form.Group>
           </Col>
           <Col md={3}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Instagram</Form.Label>
+              <Form.Label className="fw-semibold small">{t('instagram')}</Form.Label>
               <Form.Control name="instagram" type="url" defaultValue={college?.instagram || ''} className="py-2" />
             </Form.Group>
           </Col>
           <Col md={3}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">LinkedIn</Form.Label>
+              <Form.Label className="fw-semibold small">{t('linkedin')}</Form.Label>
               <Form.Control name="linkedin" type="url" defaultValue={college?.linkedin || ''} className="py-2" />
             </Form.Group>
           </Col>
@@ -521,15 +522,15 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
         <Row className="mb-5">
           <Col md={12}>
             <Form.Group>
-              <Form.Label className="fw-semibold small">Main Image URL*</Form.Label>
-              <Form.Control name="img" type="url" placeholder="https://" defaultValue={college?.img || ''} className="py-2 mb-3" />
-              {college?.img && <img src={college.img} alt="Main" className="rounded border shadow-sm" style={{maxWidth: '200px', height: '120px', objectFit: 'cover'}}/>}
+              <Form.Label className="fw-semibold small">{t('mainImageUrlRequired')}</Form.Label>
+              <Form.Control name="img" type="url" placeholder={t('urlPlaceholder')} defaultValue={college?.img || ''} className="py-2 mb-3" />
+              {college?.img && <img src={college.img} alt={t('mainAlt')} className="rounded border shadow-sm" style={{maxWidth: '200px', height: '120px', objectFit: 'cover'}}/>}
             </Form.Group>
           </Col>
         </Row>
 
         <Button type="submit" variant="success" className="w-100 py-3 fw-bold fs-5 rounded-1" style={{backgroundColor: '#16a34a', border: 'none'}}>
-          {college ? "Update College" : "Save College"}
+          {college ? t('updateCollege') : t('saveCollege')}
         </Button>
 
       </Form>
@@ -540,12 +541,13 @@ const AddCollegeForm = ({ college, onCancel, onSave }) => {
 export default Admin;
 
 const SiteSettingsForm = ({ siteData, onSave }) => {
+  const { t } = useTranslation();
   const [formData, setFormData] = useState(JSON.parse(JSON.stringify(siteData)));
 
   const handleSubmit = (e) => {
     e.preventDefault();
     onSave(formData);
-    alert("Site settings updated successfully!");
+    alert(t('siteSettingsUpdated', 'Site settings updated successfully!'));
   }
 
   const handleHeaderTabChange = (key, val) => {
@@ -578,89 +580,89 @@ const SiteSettingsForm = ({ siteData, onSave }) => {
 
   return (
     <div>
-      <h4 className="fw-bold mb-4">Site Settings</h4>
+      <h4 className="fw-bold mb-4">{t('siteSettings')}</h4>
       <Form onSubmit={handleSubmit}>
-        <h5 className="mb-3" style={{color: '#1c4ed8'}}>Header Mega Menu Tabs (comma separated)</h5>
+        <h5 className="mb-3" style={{color: '#1c4ed8'}}>{t('headerMegaMenuTabs')}</h5>
         <Card className="p-4 mb-4 border-0 shadow-sm">
           <Row className="mb-3">
             <Col md={6}>
               <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">MBA Tabs</Form.Label>
+                <Form.Label className="small fw-semibold">{t('mbaTabs')}</Form.Label>
                 <Form.Control as="textarea" rows={2} value={(formData.header.mbaTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('mbaTabs', e.target.value)} />
               </Form.Group>
               <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">Engineering Tabs</Form.Label>
+                <Form.Label className="small fw-semibold">{t('engineeringTabs')}</Form.Label>
                 <Form.Control as="textarea" rows={2} value={(formData.header.engTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('engTabs', e.target.value)} />
               </Form.Group>
               <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">Medical Tabs</Form.Label>
+                <Form.Label className="small fw-semibold">{t('medicalTabs')}</Form.Label>
                 <Form.Control as="textarea" rows={2} value={(formData.header.medTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('medTabs', e.target.value)} />
               </Form.Group>
               <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">Design Tabs</Form.Label>
+                <Form.Label className="small fw-semibold">{t('designTabs')}</Form.Label>
                 <Form.Control as="textarea" rows={2} value={(formData.header.desTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('desTabs', e.target.value)} />
               </Form.Group>
             </Col>
             <Col md={6}>
               <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">More (Sarkari) Tabs</Form.Label>
+                <Form.Label className="small fw-semibold">{t('moreSarkariTabs')}</Form.Label>
                 <Form.Control as="textarea" rows={2} value={(formData.header.moreTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('moreTabs', e.target.value)} />
               </Form.Group>
               <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">Study Abroad Tabs</Form.Label>
+                <Form.Label className="small fw-semibold">{t('studyAbroadTabs')}</Form.Label>
                 <Form.Control as="textarea" rows={2} value={(formData.header.studyTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('studyTabs', e.target.value)} />
               </Form.Group>
               <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">Counseling Tabs</Form.Label>
+                <Form.Label className="small fw-semibold">{t('counselingTabs')}</Form.Label>
                 <Form.Control as="textarea" rows={2} value={(formData.header.counselingTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('counselingTabs', e.target.value)} />
               </Form.Group>
               <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">Online Tabs</Form.Label>
+                <Form.Label className="small fw-semibold">{t('onlineTabs')}</Form.Label>
                 <Form.Control as="textarea" rows={2} value={(formData.header.onlineTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('onlineTabs', e.target.value)} />
               </Form.Group>
             </Col>
           </Row>
         </Card>
 
-        <h5 className="mb-3 mt-4" style={{color: '#1c4ed8'}}>Footer Settings</h5>
+        <h5 className="mb-3 mt-4" style={{color: '#1c4ed8'}}>{t('footerSettings')}</h5>
         <Card className="p-4 mb-4 border-0 shadow-sm">
           <Form.Group className="mb-4">
-            <Form.Label className="small fw-semibold">Description</Form.Label>
+            <Form.Label className="small fw-semibold">{t('description')}</Form.Label>
             <Form.Control as="textarea" rows={2} value={formData.footer.description || ''} onChange={(e) => handleFooterChange('description', e.target.value)} />
           </Form.Group>
 
           <Row className="mb-3">
             <Col md={6}>
-               <h6 className="fw-semibold mb-3">Contact Info</h6>
+               <h6 className="fw-semibold mb-3">{t('contactInfo')}</h6>
                <Form.Group className="mb-2">
-                 <Form.Label className="small">Address</Form.Label>
+                 <Form.Label className="small">{t('address')}</Form.Label>
                  <Form.Control type="text" value={formData.footer.contactInfo?.address || ''} onChange={(e) => handleContactChange('address', e.target.value)} />
                </Form.Group>
                <Form.Group className="mb-2">
-                 <Form.Label className="small">Phone</Form.Label>
+                 <Form.Label className="small">{t('phone')}</Form.Label>
                  <Form.Control type="text" value={formData.footer.contactInfo?.phone || ''} onChange={(e) => handleContactChange('phone', e.target.value)} />
                </Form.Group>
                <Form.Group className="mb-2">
-                 <Form.Label className="small">Email</Form.Label>
+                 <Form.Label className="small">{t('email')}</Form.Label>
                  <Form.Control type="text" value={formData.footer.contactInfo?.email || ''} onChange={(e) => handleContactChange('email', e.target.value)} />
                </Form.Group>
             </Col>
             <Col md={6}>
-               <h6 className="fw-semibold mb-3">Social Links</h6>
+               <h6 className="fw-semibold mb-3">{t('socialLinks')}</h6>
                <Form.Group className="mb-2">
-                 <Form.Label className="small">Facebook</Form.Label>
+                 <Form.Label className="small">{t('facebook')}</Form.Label>
                  <Form.Control type="url" value={formData.footer.social?.facebook || ''} onChange={(e) => handleSocialChange('facebook', e.target.value)} />
                </Form.Group>
                <Form.Group className="mb-2">
-                 <Form.Label className="small">Twitter</Form.Label>
+                 <Form.Label className="small">{t('twitter')}</Form.Label>
                  <Form.Control type="url" value={formData.footer.social?.twitter || ''} onChange={(e) => handleSocialChange('twitter', e.target.value)} />
                </Form.Group>
                <Form.Group className="mb-2">
-                 <Form.Label className="small">Instagram</Form.Label>
+                 <Form.Label className="small">{t('instagram')}</Form.Label>
                  <Form.Control type="url" value={formData.footer.social?.instagram || ''} onChange={(e) => handleSocialChange('instagram', e.target.value)} />
                </Form.Group>
                <Form.Group className="mb-2">
-                 <Form.Label className="small">LinkedIn</Form.Label>
+                 <Form.Label className="small">{t('linkedin')}</Form.Label>
                  <Form.Control type="url" value={formData.footer.social?.linkedin || ''} onChange={(e) => handleSocialChange('linkedin', e.target.value)} />
                </Form.Group>
             </Col>
@@ -668,7 +670,7 @@ const SiteSettingsForm = ({ siteData, onSave }) => {
         </Card>
 
         <Button type="submit" variant="success" className="w-100 py-3 fw-bold fs-5 rounded-1" style={{backgroundColor: '#16a34a', border: 'none'}}>
-          Save Settings
+          {t('saveSettings')}
         </Button>
       </Form>
     </div>
@@ -676,6 +678,7 @@ const SiteSettingsForm = ({ siteData, onSave }) => {
 };
 
 const BulkUploadForm = ({ onSave }) => {
+  const { t } = useTranslation();
   const [file, setFile] = useState(null);
   
   const handleFileChange = (e) => {
@@ -683,7 +686,7 @@ const BulkUploadForm = ({ onSave }) => {
   };
 
   const handleUpload = () => {
-    if (!file) return alert("Please select a file first.");
+    if (!file) return alert(t('selectFileFirst'));
     const reader = new FileReader();
     reader.onload = (e) => {
       try {
@@ -733,7 +736,7 @@ const BulkUploadForm = ({ onSave }) => {
         onSave(mappedData);
       } catch (error) {
         console.error(error);
-        alert("Error parsing Excel file. Please ensure it's in the correct format.");
+        alert(t('errorParsingExcel'));
       }
     };
     reader.readAsBinaryString(file);
@@ -766,25 +769,24 @@ const BulkUploadForm = ({ onSave }) => {
 
   return (
     <Card className="p-4 border-0 shadow-sm">
-      <h4 className="fw-bold mb-4" style={{color: '#1a43bf'}}>Bulk Upload Colleges</h4>
+      <h4 className="fw-bold mb-4" style={{color: '#1a43bf'}}>{t('bulkUploadColleges')}</h4>
       <p className="text-secondary mb-4">
-        Upload an Excel (.xlsx or .xls) file to add multiple colleges at once. 
-        Please make sure your Excel file matches the required format.
+        {t('bulkUploadPrompt')}
       </p>
       
       <div className="mb-4">
         <Button variant="outline-primary" onClick={handleDownloadSample} className="d-flex align-items-center">
-          <FaUpload className="me-2" /> Download Sample Excel Format
+          <FaUpload className="me-2" /> {t('downloadSampleExcel')}
         </Button>
       </div>
 
       <Form.Group controlId="formFile" className="mb-4">
-        <Form.Label className="fw-semibold">Select Excel File</Form.Label>
+        <Form.Label className="fw-semibold">{t('selectExcelFile')}</Form.Label>
         <Form.Control type="file" accept=".xlsx, .xls" onChange={handleFileChange} />
       </Form.Group>
 
       <Button variant="success" onClick={handleUpload} disabled={!file} className="px-4 py-2 fw-bold d-flex align-items-center" style={{backgroundColor: '#16a34a'}}>
-        <FaUpload className="me-2" /> Upload and Import
+        <FaUpload className="me-2" /> {t('uploadAndImport')}
       </Button>
     </Card>
   );
