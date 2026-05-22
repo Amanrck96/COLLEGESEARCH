@@ -11,18 +11,26 @@ import CollegeImg from '../components/CollegeImg';
 const CollegeDetail = () => {
   const { id } = useParams();
   const { colleges } = React.useContext(CollegeContext);
+  const college = (colleges || []).find(c => String(c.id) === String(id));
+
   const [activeTab, setActiveTab] = useState('overview');
-  const [enriching, setEnriching] = useState(false);
   const [enrichedData, setEnrichedData] = useState(null);
+  const [enriching, setEnriching] = useState(() => !!(college && !enrichedData));
+  const [prevCollegeId, setPrevCollegeId] = useState(college?.id || null);
   const [mapsReady, setMapsReady] = useState(window.rgmkGoogleMapsCallback || false);
+  
+  // Sync state if college changes
+  if (college && college.id !== prevCollegeId) {
+    setPrevCollegeId(college.id);
+    setEnrichedData(null);
+    setEnriching(true);
+  }
   
   // AI Dynamic Generated Fields Context
   const [aiDetails, setAiDetails] = useState({ 
     overview: '', placementsOverview: '', facilitiesList: ''
   });
   const [aiLoading, setAiLoading] = useState({});
-
-  const college = (colleges || []).find(c => String(c.id) === String(id));
 
   // AI Auto-Enrich logic on tab change
   useEffect(() => {
@@ -56,17 +64,18 @@ const CollegeDetail = () => {
 
   // Simulating API enrichment (Google Maps, SearchAPI, SerpApi logic)
   useEffect(() => {
-    if (college && !enrichedData) {
-      setEnriching(true);
-      setTimeout(() => {
-        setEnrichedData({
-          mapUrl: `https://www.google.com/maps/embed/v1/place?key=REPLACE_WITH_YOUR_KEY&q=${encodeURIComponent(college.name + ' ' + college.location)}`,
-          searchLink: `https://www.google.com/search?q=${encodeURIComponent(college.name + ' admission 2026')}`,
-          images: college.gallery || []
-        });
-        setEnriching(false);
-      }, 1000);
-    }
+    if (!college || enrichedData) return;
+
+    const timer = setTimeout(() => {
+      setEnrichedData({
+        mapUrl: `https://www.google.com/maps/embed/v1/place?key=REPLACE_WITH_YOUR_KEY&q=${encodeURIComponent(college.name + ' ' + college.location)}`,
+        searchLink: `https://www.google.com/search?q=${encodeURIComponent(college.name + ' admission 2026')}`,
+        images: college.gallery || []
+      });
+      setEnriching(false);
+    }, 1000);
+
+    return () => clearTimeout(timer);
   }, [college, enrichedData]);
 
   if (!college) {

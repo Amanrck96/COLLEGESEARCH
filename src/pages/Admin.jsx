@@ -1,4 +1,4 @@
-import React, { useState, useContext, useEffect } from 'react';
+import React, { useState, useContext } from 'react';
 import { Container, Row, Col, Nav, Table, Button, Form, Card } from 'react-bootstrap';
 import { FaEdit, FaTrash, FaPlus, FaUpload } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';

@@ -1,14 +1,12 @@
-import React, { useState, useContext, useEffect } from 'react';
+import React, { useState, useContext } from 'react';
 import { Navbar, Nav, Container, Form, Button, InputGroup, Row, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { FaAngleRight } from 'react-icons/fa';
 import { SiteContext } from '../contexts/SiteContext';
-import { CollegeContext } from '../contexts/CollegeContext';
 import { navData } from '../data/navData';
 
 const Header = () => {
   const { siteData } = useContext(SiteContext);
-  const { colleges } = useContext(CollegeContext);
   const { mbaTabs, engTabs, medTabs, desTabs, moreTabs, studyTabs, counselingTabs, onlineTabs } = siteData.header;
 
   const [activeMbaTab, setActiveMbaTab] = useState(mbaTabs[0] || '');
