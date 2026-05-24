@@ -41,7 +41,7 @@ export default defineConfig({
                   res.statusCode = 400;
                   return res.end(JSON.stringify({ error: 'id and img are required' }));
                 }
-                const dataPath = path.resolve('src/data/siteData.json');
+                const dataPath = path.resolve('public/siteData.json');
                 const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
                 const college = data.colleges.find(c => String(c.id) === String(id));
                 if (college) {
@@ -70,7 +70,7 @@ export default defineConfig({
   ],
   server: {
     watch: {
-      ignored: ['**/src/data/siteData.json']
+      ignored: ['**/public/siteData.json']
     }
   }
 })

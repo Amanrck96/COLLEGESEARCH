@@ -6,9 +6,10 @@ import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark }
 
 import { CollegeContext } from '../contexts/CollegeContext';
 import CollegeImg from '../components/CollegeImg';
+import { aiSearchColleges } from '../utils/geminiApi';
 
 const Colleges = () => {
-  const { colleges } = React.useContext(CollegeContext);
+  const { colleges, loading } = React.useContext(CollegeContext);
   const location = useLocation();
   const [searchTerm, setSearchTerm] = useState("");
   const [saved, setSaved] = useState({});
@@ -189,11 +190,9 @@ const Colleges = () => {
   useEffect(() => {
     if (searchTerm && filteredColleges.length === 0 && !aiColleges.length) {
       setAiLoading(true);
-      import('../utils/geminiApi').then(m => {
-        m.aiSearchColleges(searchTerm).then(results => {
-          setAiColleges(results || []);
-          setAiLoading(false);
-        });
+      aiSearchColleges(searchTerm).then(results => {
+        setAiColleges(results || []);
+        setAiLoading(false);
       });
     } else if (filteredColleges.length > 0 && aiColleges.length > 0) {
       setAiColleges([]); // Clear AI search if native data resolves
@@ -270,7 +269,12 @@ const Colleges = () => {
               </div>
             </div>
             <Row className="g-4">
-              {currentItems.map((college, idx) => (
+              {loading ? (
+                <Col md={12} className="text-center py-5">
+                  <Spinner animation="border" variant="primary" style={{ width: '3rem', height: '3rem' }} />
+                  <h5 className="text-primary mt-3 fw-bold">Loading colleges database...</h5>
+                </Col>
+              ) : currentItems.map((college, idx) => (
                 <Col md={6} key={college.id}>
                   <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: (idx % 10) * 0.1, duration: 0.5 }}>
                     <Card className="custom-card h-100 border-0">

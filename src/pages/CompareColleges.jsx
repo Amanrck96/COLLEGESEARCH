@@ -1,11 +1,11 @@
 import React, { useState, useContext } from 'react';
-import { Container, Row, Col, Card, Form, Badge, Button, ListGroup } from 'react-bootstrap';
+import { Container, Row, Col, Card, Form, Badge, Button, ListGroup, Spinner } from 'react-bootstrap';
 import { FaExchangeAlt, FaTimes } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
 import CollegeImg from '../components/CollegeImg';
 
 const CompareColleges = () => {
-  const { colleges } = useContext(CollegeContext);
+  const { colleges, loading } = useContext(CollegeContext);
   const [selectedIds, setSelectedIds] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
   const [showSearch, setShowSearch] = useState(false);
@@ -87,12 +87,14 @@ const CompareColleges = () => {
                   <div className="w-100 position-relative">
                     <Form.Control 
                       type="text" 
-                      placeholder="Search college name..." 
+                      placeholder={loading ? "Loading colleges..." : "Search college name..."} 
                       value={searchQuery}
                       onChange={(e) => setSearchQuery(e.target.value)}
                       autoFocus
+                      disabled={loading}
                       className="rounded-pill"
                     />
+                    {loading && <div className="text-muted small mt-2"><Spinner animation="border" size="sm" className="me-2" />Loading...</div>}
                     {filteredSuggestions.length > 0 && (
                       <ListGroup className="position-absolute w-100 mt-2 shadow-lg text-start" style={{ zIndex: 100, maxHeight: '200px', overflowY: 'auto' }}>
                         {filteredSuggestions.map(c => (

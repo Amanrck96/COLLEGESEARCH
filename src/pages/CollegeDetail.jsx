@@ -11,7 +11,7 @@ import { useTranslation } from '../utils/i18n';
 
 const CollegeDetail = () => {
   const { id } = useParams();
-  const { colleges } = React.useContext(CollegeContext);
+  const { colleges, loading } = React.useContext(CollegeContext);
   const college = (colleges || []).find(c => String(c.id) === String(id));
   const { t } = useTranslation();
 
@@ -86,6 +86,15 @@ const CollegeDetail = () => {
 
     return () => clearTimeout(timer);
   }, [college, enrichedData]);
+
+  if (loading) {
+    return (
+      <Container className="my-5 text-center">
+        <Spinner animation="border" variant="primary" style={{ width: '3rem', height: '3rem' }} />
+        <h4 className="mt-3 text-muted">Loading college details...</h4>
+      </Container>
+    );
+  }
 
   if (!college) {
     return <Container className="my-5 text-center"><h3>{t('collegeNotFound')}</h3></Container>;

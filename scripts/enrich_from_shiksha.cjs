@@ -4,7 +4,7 @@ puppeteer.use(StealthPlugin());
 const fs = require('fs');
 const path = require('path');
 
-const dataPath = path.join(__dirname, '../src/data/siteData.json');
+const dataPath = path.join(__dirname, '../public/siteData.json');
 let siteData = require(dataPath);
 
 // Selectors for Shiksha (these might change over time)

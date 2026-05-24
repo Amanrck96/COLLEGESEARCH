@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const google = require('googlethis');
 
-const dataPath = path.join(__dirname, '../src/data/siteData.json');
+const dataPath = path.join(__dirname, '../public/siteData.json');
 let siteData = require(dataPath);
 
 async function fetchCampusImage() {

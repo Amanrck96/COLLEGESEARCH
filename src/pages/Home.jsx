@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Container, Row, Col, Card, Button, Badge } from 'react-bootstrap';
+import { Container, Row, Col, Card, Button, Badge, Spinner } from 'react-bootstrap';
 import { motion } from 'framer-motion';
 import { Link, useNavigate } from 'react-router-dom';
 import { FaGraduationCap, FaUniversity, FaBookOpen, FaStar, FaChevronRight } from 'react-icons/fa';
@@ -12,7 +12,7 @@ const fadeInUp = {
 };
 
 const Home = () => {
-  const { colleges, exams } = React.useContext(CollegeContext);
+  const { colleges, exams, loading } = React.useContext(CollegeContext);
   const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState('');
   
@@ -53,7 +53,7 @@ const Home = () => {
           </motion.h1>
           
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3, duration: 0.8 }} className="fs-6 mb-4 fw-medium" style={{color: '#f8f9fa'}}>
-            {colleges.length}+ Colleges <span className="mx-2 text-warning">•</span> 4,80,000+ Courses <span className="mx-2 text-warning">•</span> 6,85,000+ Reviews <span className="mx-2 text-warning">•</span> {exams.length}+ Exams
+            {loading ? "Many" : colleges.length}+ Colleges <span className="mx-2 text-warning">•</span> 4,80,000+ Courses <span className="mx-2 text-warning">•</span> 6,85,000+ Reviews <span className="mx-2 text-warning">•</span> {loading ? "Several" : exams.length}+ Exams
           </motion.div>
           
           <motion.div initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ delay: 0.5 }}>
@@ -78,24 +78,31 @@ const Home = () => {
             <p>Explore the top-ranked institutions based on placement, faculty, and student reviews.</p>
           </div>
           <Row className="g-4">
-            {(colleges || []).slice(0, 4).map((college, idx) => (
-              <Col md={6} lg={3} key={idx}>
-                <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
-                  <Card className="custom-card h-100 border-0">
-                    <CollegeImg college={college} className="card-img-top-custom" style={{height: '200px'}} />
-                    <Card.Body className="d-flex flex-column">
-                      <div className="mb-2">
-                        <span className="badge bg-light text-primary me-2">{college.type}</span>
-                        <Badge bg="warning" text="dark"><FaStar className="mb-1 me-1"/>{college.rating}</Badge>
-                      </div>
-                      <Card.Title className="fw-bold text-primary flex-grow-1" style={{fontSize: '1.1rem'}}>{college.name}</Card.Title>
-                      <Card.Text className="text-muted mb-3 small"><FaUniversity className="me-2"/>{college.location}</Card.Text>
-                      <Link to={`/colleges/${college.id}`} className="btn btn-outline-primary rounded-pill w-100">View Details</Link>
-                    </Card.Body>
-                  </Card>
-                </motion.div>
+            {loading ? (
+              <Col xs={12} className="text-center py-5">
+                <Spinner animation="border" variant="primary" />
+                <p className="mt-2 text-muted">Loading top colleges...</p>
               </Col>
-            ))}
+            ) : (
+              (colleges || []).slice(0, 4).map((college, idx) => (
+                <Col md={6} lg={3} key={idx}>
+                  <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
+                    <Card className="custom-card h-100 border-0">
+                      <CollegeImg college={college} className="card-img-top-custom" style={{height: '200px'}} />
+                      <Card.Body className="d-flex flex-column">
+                        <div className="mb-2">
+                          <span className="badge bg-light text-primary me-2">{college.type}</span>
+                          <Badge bg="warning" text="dark"><FaStar className="mb-1 me-1"/>{college.rating}</Badge>
+                        </div>
+                        <Card.Title className="fw-bold text-primary flex-grow-1" style={{fontSize: '1.1rem'}}>{college.name}</Card.Title>
+                        <Card.Text className="text-muted mb-3 small"><FaUniversity className="me-2"/>{college.location}</Card.Text>
+                        <Link to={`/colleges/${college.id}`} className="btn btn-outline-primary rounded-pill w-100">View Details</Link>
+                      </Card.Body>
+                    </Card>
+                  </motion.div>
+                </Col>
+              ))
+            )}
           </Row>
 
           <div className="text-center mt-5">
@@ -112,23 +119,30 @@ const Home = () => {
             <p>Find courses leading to high-demand careers across top industries.</p>
           </div>
           <Row className="g-4">
-            {trendingCourses.length > 0 ? trendingCourses.map((course, idx) => (
-              <Col md={6} lg={3} key={idx}>
-                <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
-                  <Card className="custom-card h-100 p-3 text-center border-0 shadow-sm align-items-center">
-                    <div className="p-3 bg-light rounded-circle mb-3" style={{width: '70px', height: '70px', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-                      {course.icon}
-                    </div>
-                    <Card.Body>
-                      <Card.Title className="fw-bold mb-3" style={{color: 'var(--primary)'}}>{course.title}</Card.Title>
-                      <Card.Text className="text-muted small mb-1">Duration: <strong>{course.duration}</strong></Card.Text>
-                      <Card.Text className="text-muted small mb-3">Entrance: <strong>{course.exams}</strong></Card.Text>
-                      <Link to="/courses" className="text-decoration-none fw-bold" style={{color: 'var(--accent-light)'}}>Explore <FaChevronRight/></Link>
-                    </Card.Body>
-                  </Card>
-                </motion.div>
+            {loading ? (
+              <Col xs={12} className="text-center py-5">
+                <Spinner animation="border" variant="primary" />
+                <p className="mt-2 text-muted">Loading trending courses...</p>
               </Col>
-            )) : (
+            ) : trendingCourses.length > 0 ? (
+              trendingCourses.map((course, idx) => (
+                <Col md={6} lg={3} key={idx}>
+                  <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
+                    <Card className="custom-card h-100 p-3 text-center border-0 shadow-sm align-items-center">
+                      <div className="p-3 bg-light rounded-circle mb-3" style={{width: '70px', height: '70px', display: 'flex', alignItems: 'center', justifycontent: 'center'}}>
+                        {course.icon}
+                      </div>
+                      <Card.Body>
+                        <Card.Title className="fw-bold mb-3" style={{color: 'var(--primary)'}}>{course.title}</Card.Title>
+                        <Card.Text className="text-muted small mb-1">Duration: <strong>{course.duration}</strong></Card.Text>
+                        <Card.Text className="text-muted small mb-3">Entrance: <strong>{course.exams}</strong></Card.Text>
+                        <Link to="/courses" className="text-decoration-none fw-bold" style={{color: 'var(--accent-light)'}}>Explore <FaChevronRight/></Link>
+                      </Card.Body>
+                    </Card>
+                  </motion.div>
+                </Col>
+              ))
+            ) : (
               <Col><p className="text-muted text-center pt-3">No dynamic courses loaded. Ensure colleges have course arrays in DB.</p></Col>
             )}
           </Row>
@@ -144,24 +158,32 @@ const Home = () => {
                 <h3 className="fw-bold text-primary border-bottom pb-3 border-2 border-primary" style={{display: 'inline-block'}}>Upcoming Exams</h3>
               </div>
               <Row className="gy-3">
-                {exams.slice(0, 3).map((exam, i) => (
-                  <Col sm={12} key={i}>
-                    <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true }}>
-                      <div className="d-flex align-items-center bg-light p-3 rounded-3 shadow-sm border-start border-4 border-primary">
-                        <div className="bg-white rounded p-3 text-center shadow-sm me-4" style={{minWidth: '90px'}}>
-                          <div className="fs-6 fw-bold text-primary">{exam.date.split(' ')[0]}</div>
-                          <div className="fs-4 fw-bold">{exam.date.split(' ')[1].replace(',','')}</div>
-                        </div>
-                        <div className="flex-grow-1">
-                          <h5 className="mb-1 fw-bold text-primary">{exam.name}</h5>
-                          <div className="text-muted small"><Badge bg="secondary" className="me-2">{exam.tag}</Badge>{exam.level} Level</div>
-                        </div>
-                        <Link to="/exams" className="btn btn-sm btn-outline-primary rounded-pill">Info</Link>
-                      </div>
-                    </motion.div>
+                {loading ? (
+                  <Col xs={12} className="text-center py-4">
+                    <Spinner animation="border" variant="primary" size="sm" />
+                    <span className="ms-2 text-muted small">Loading exams...</span>
                   </Col>
-                ))}
-                {exams.length === 0 && <p className="text-muted">No exams found in Excel data.</p>}
+                ) : exams.length > 0 ? (
+                  exams.slice(0, 3).map((exam, i) => (
+                    <Col sm={12} key={i}>
+                      <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true }}>
+                        <div className="d-flex align-items-center bg-light p-3 rounded-3 shadow-sm border-start border-4 border-primary">
+                          <div className="bg-white rounded p-3 text-center shadow-sm me-4" style={{minWidth: '90px'}}>
+                            <div className="fs-6 fw-bold text-primary">{exam.date.split(' ')[0]}</div>
+                            <div className="fs-4 fw-bold">{exam.date.split(' ')[1].replace(',','')}</div>
+                          </div>
+                          <div className="flex-grow-1">
+                            <h5 className="mb-1 fw-bold text-primary">{exam.name}</h5>
+                            <div className="text-muted small"><Badge bg="secondary" className="me-2">{exam.tag}</Badge>{exam.level} Level</div>
+                          </div>
+                          <Link to="/exams" className="btn btn-sm btn-outline-primary rounded-pill">Info</Link>
+                        </div>
+                      </motion.div>
+                    </Col>
+                  ))
+                ) : (
+                  <p className="text-muted">No exams found in Excel data.</p>
+                )}
               </Row>
               <div className="mt-4"><Link to="/exams" className="text-decoration-none fw-bold" style={{color: 'var(--accent-gold)'}}>See all exams <FaChevronRight /></Link></div>
             </Col>

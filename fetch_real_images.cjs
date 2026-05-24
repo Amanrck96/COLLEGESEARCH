@@ -1,7 +1,7 @@
 const fs = require('fs');
 const google = require('googlethis');
 
-const dataPath = 'c:\\Users\\amanr\\collegesearch\\src\\data\\siteData.json';
+const dataPath = 'c:\\Users\\amanr\\collegesearch\\public\\siteData.json';
 
 async function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));

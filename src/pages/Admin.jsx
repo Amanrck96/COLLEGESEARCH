@@ -1,5 +1,5 @@
 import React, { useState, useContext } from 'react';
-import { Container, Row, Col, Nav, Table, Button, Form, Card } from 'react-bootstrap';
+import { Container, Row, Col, Nav, Table, Button, Form, Card, Spinner } from 'react-bootstrap';
 import { FaEdit, FaTrash, FaPlus, FaUpload } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
 import { SiteContext } from '../contexts/SiteContext';
@@ -9,7 +9,7 @@ import { useTranslation } from '../utils/i18n';
 
 const Admin = () => {
   const { t } = useTranslation();
-  const { colleges, addCollege, updateCollege, deleteCollege } = useContext(CollegeContext);
+  const { colleges, addCollege, updateCollege, deleteCollege, loading } = useContext(CollegeContext);
   const { siteData, updateSiteData } = useContext(SiteContext);
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [username, setUsername] = useState('');
@@ -166,7 +166,13 @@ const Admin = () => {
               />
 
               <div className="table-responsive">
-                <Table hover className="align-middle" style={{ borderCollapse: 'separate', borderSpacing: '0 8px' }}>
+                {loading ? (
+                  <div className="text-center py-5">
+                    <Spinner animation="border" variant="primary" />
+                    <p className="mt-2 text-muted">Loading colleges database...</p>
+                  </div>
+                ) : (
+                  <Table hover className="align-middle" style={{ borderCollapse: 'separate', borderSpacing: '0 8px' }}>
                   <thead>
                     <tr className="text-muted" style={{borderBottom: 'none'}}>
                       <th className="fw-normal" style={{border: 'none'}}>{t('name')}</th>
@@ -199,7 +205,8 @@ const Admin = () => {
                       <tr><td colSpan="6" className="text-center py-4 text-muted">{t('noCollegesFound')}</td></tr>
                     )}
                   </tbody>
-                </Table>
+                  </Table>
+                )}
               </div>
             </div>
           )}

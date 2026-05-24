@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const excelPath = 'C:\\Users\\amanr\\Downloads\\Data for Aman.xlsx';
-const jsonPath = path.join(__dirname, 'src', 'data', 'siteData.json');
+const jsonPath = path.join(__dirname, 'public', 'siteData.json');
 
 try {
   // Read Excel

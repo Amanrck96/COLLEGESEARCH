@@ -3,7 +3,7 @@ import json
 
 # Paths
 excel_path = r'C:\Users\amanr\Downloads\2025\College Data_AMAN .xlsm'
-json_path = r'c:\Users\amanr\collegesearch\src\data\siteData.json'
+json_path = r'c:\Users\amanr\collegesearch\public\siteData.json'
 output_path = r'C:\Users\amanr\Downloads\2025\College_Data_Updated_Images.xlsx'
 
 print(f"Loading JSON from {json_path}...")

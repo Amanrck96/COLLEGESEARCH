@@ -1,20 +1,37 @@
 import React, { createContext, useState, useEffect } from 'react';
-import siteData from '../data/siteData.json';
 
 export const CollegeContext = createContext();
 
 export const CollegeProvider = ({ children }) => {
+  const [rawColleges, setRawColleges] = useState([]);
+  const [rawExams, setRawExams] = useState([]);
+  const [loading, setLoading] = useState(true);
+
   // Load overrides from localStorage for better performance (prevent serializing 12k items)
   const [addedColleges, setAddedColleges] = useState(() => JSON.parse(localStorage.getItem('addedColleges') || '[]'));
   const [editedColleges, setEditedColleges] = useState(() => JSON.parse(localStorage.getItem('editedColleges') || '{}'));
   const [deletedColleges, setDeletedColleges] = useState(() => JSON.parse(localStorage.getItem('deletedColleges') || '[]'));
 
+  useEffect(() => {
+    fetch('/siteData.json')
+      .then(res => res.json())
+      .then(data => {
+        setRawColleges(data.colleges || []);
+        setRawExams(data.exams || []);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error("Failed to load colleges data:", err);
+        setLoading(false);
+      });
+  }, []);
+
   // Derived visible colleges
   const colleges = React.useMemo(() => {
-    const base = (siteData.colleges || []).filter(c => !deletedColleges.includes(String(c.id)));
+    const base = (rawColleges || []).filter(c => !deletedColleges.includes(String(c.id)));
     const mergedBase = base.map(c => editedColleges[String(c.id)] ? { ...c, ...editedColleges[String(c.id)] } : c);
     return [...mergedBase, ...addedColleges];
-  }, [editedColleges, addedColleges, deletedColleges]);
+  }, [rawColleges, editedColleges, addedColleges, deletedColleges]);
 
   // Dynamically aggregate and group unique courses from colleges
   const courses = React.useMemo(() => {
@@ -76,7 +93,26 @@ export const CollegeProvider = ({ children }) => {
     { name: 'NIFT', date: 'Feb 05, 2026', level: 'National', tag: 'Design', img: 'https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=400' }
   ], []);
 
-  const [exams] = useState(() => JSON.parse(localStorage.getItem('examsData') || JSON.stringify(defaultExams)));
+  const [exams, setExams] = useState(() => JSON.parse(localStorage.getItem('examsData') || JSON.stringify(defaultExams)));
+
+  useEffect(() => {
+    if (!loading && rawExams.length > 0) {
+      const stored = localStorage.getItem('examsData');
+      if (!stored) {
+        const merged = rawExams.map(re => {
+          const matched = defaultExams.find(de => de.name.toLowerCase() === re.name.toLowerCase());
+          return {
+            name: re.name,
+            date: re.date || 'May 15, 2026',
+            level: re.level || 'National',
+            tag: re.tag || (matched?.tag || 'General'),
+            img: matched?.img || 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=400'
+          };
+        });
+        setExams(merged);
+      }
+    }
+  }, [rawExams, loading, defaultExams]);
 
   useEffect(() => { localStorage.setItem('addedColleges', JSON.stringify(addedColleges)); }, [addedColleges]);
   useEffect(() => { localStorage.setItem('editedColleges', JSON.stringify(editedColleges)); }, [editedColleges]);
@@ -107,7 +143,7 @@ export const CollegeProvider = ({ children }) => {
 
 
   return (
-    <CollegeContext.Provider value={{ colleges, courses, exams, addCollege, updateCollege, deleteCollege }}>
+    <CollegeContext.Provider value={{ colleges, courses, exams, addCollege, updateCollege, deleteCollege, loading }}>
       {children}
     </CollegeContext.Provider>
   );
