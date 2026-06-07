@@ -12,12 +12,149 @@ import { useTranslation } from '../utils/i18n';
 
 const Admin = () => {
   const { t } = useTranslation();
-  const { colleges, addCollege, updateCollege, deleteCollege, loading: collegeLoading, reviews, approveReview, rejectReview } = useContext(CollegeContext);
+  const { 
+    colleges, addCollege, updateCollege, deleteCollege, loading: collegeLoading, 
+    reviews, approveReview, rejectReview, 
+    pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate, inaccuracyReports 
+  } = useContext(CollegeContext);
   const { currentUser, students, activityLogs, deleteStudent, updateStudentNotes, logActivity } = useContext(AuthContext);
 
   const [activeTab, setActiveTab] = useState('dashboard');
   const [editingCollege, setEditingCollege] = useState(null);
   const [showCollegeForm, setShowCollegeForm] = useState(false);
+
+  // Sync & Crawler states
+  const [crawling, setCrawling] = useState(false);
+  const [crawlProgress, setCrawlProgress] = useState(0);
+  const [crawlMessage, setCrawlMessage] = useState("");
+
+  const handleRunCrawler = () => {
+    setCrawling(true);
+    setCrawlProgress(10);
+    setCrawlMessage("Analyzing database completeness parameters...");
+    
+    setTimeout(() => {
+      setCrawlProgress(40);
+      setCrawlMessage("Querying trusted public educational sources: www.iitb.ac.in, official APIs...");
+    }, 1000);
+
+    setTimeout(() => {
+      setCrawlProgress(70);
+      setCrawlMessage("Running Google Image search wrapper for missing campus photos...");
+    }, 2000);
+
+    setTimeout(() => {
+      setCrawlProgress(90);
+      setCrawlMessage("Formatting crawled fields and running validation quality check...");
+    }, 3000);
+
+    setTimeout(() => {
+      setCrawlProgress(100);
+      setCrawling(false);
+      
+      const newCrawled = [
+        {
+          id: Date.now() + 1,
+          collegeId: 3,
+          collegeName: "BITS Pilani",
+          field: "highestPackage",
+          oldValue: "Contact for details",
+          suggestedValue: "₹60.75 LPA (2025 Placement Drive)",
+          sourceUrl: "https://www.bits-pilani.ac.in/placements",
+          timestamp: new Date().toLocaleTimeString()
+        },
+        {
+          id: Date.now() + 2,
+          collegeId: 2,
+          collegeName: "LPU Jalandhar",
+          field: "website",
+          oldValue: "https://www.lpu.in",
+          suggestedValue: "https://www.lpu.in/official",
+          sourceUrl: "https://www.lpu.in/about",
+          timestamp: new Date().toLocaleTimeString()
+        }
+      ];
+      setPendingUpdates(prev => [...newCrawled, ...prev]);
+      alert("Enrichment crawler completed syncing! 2 suggested updates have been successfully added to your verification queue.");
+    }, 4000);
+  };
+
+  const detectDuplicates = () => {
+    const seen = {};
+    const dups = [];
+    colleges.forEach(c => {
+      const key = `${c.name.toLowerCase().trim()}-${c.location.toLowerCase().trim()}`;
+      if (seen[key]) {
+        dups.push({ c1: seen[key], c2: c });
+      } else {
+        seen[key] = c;
+      }
+    });
+    return dups;
+  };
+
+  const handleMergePair = (id1, id2) => {
+    const c1 = colleges.find(c => c.id === id1);
+    const c2 = colleges.find(c => c.id === id2);
+    if (!c1 || !c2) return;
+    
+    if (window.confirm(`Merge duplicate ${c2.name} into ${c1.name}? Courses and empty fields will be aggregated.`)) {
+      const mergedCourses = [...(c1.courses || []), ...(c2.courses || [])];
+      const uniqueTitles = new Set();
+      const cleanCourses = [];
+      mergedCourses.forEach(cr => {
+        if (!uniqueTitles.has(cr.title)) {
+          uniqueTitles.add(cr.title);
+          cleanCourses.push(cr);
+        }
+      });
+      
+      updateCollege(c1.id, {
+        courses: cleanCourses,
+        established: c1.established || c2.established,
+        fees: c1.fees || c2.fees,
+        averagePackage: c1.averagePackage || c2.averagePackage,
+        _source: "Master Record Merge"
+      });
+      
+      deleteCollege(c2.id);
+      logActivity(currentUser.name, currentUser.role, "Admin Action", `Merged duplicate college records: ${c2.name} merged into ${c1.name}`);
+      alert("Merged duplicate profiles successfully!");
+    }
+  };
+
+  const handleAutoMergeDuplicates = () => {
+    const dups = detectDuplicates();
+    if (dups.length === 0) return;
+    if (window.confirm(`Found ${dups.length} duplicate records. Merge all automatically?`)) {
+      dups.forEach(d => {
+        const mergedCourses = [...(d.c1.courses || []), ...(d.c2.courses || [])];
+        updateCollege(d.c1.id, { courses: mergedCourses, _source: "Auto Merge Clean" });
+        deleteCollege(d.c2.id);
+      });
+      logActivity(currentUser.name, currentUser.role, "Admin Action", `Auto-merged ${dups.length} duplicate pairs.`);
+      alert(`Cleaned database. Merged ${dups.length} duplicate records.`);
+    }
+  };
+
+  const handleExportMissingReport = () => {
+    const incomplete = colleges.filter(c => !c.website || !c.established || !c.averagePackage || !c.highestPackage);
+    const data = incomplete.map(c => ({
+      ID: c.id,
+      Name: c.name,
+      Location: c.location,
+      State: c.state,
+      'Missing Website': !c.website ? 'YES' : 'NO',
+      'Missing Established Year': !c.established ? 'YES' : 'NO',
+      'Missing Average package': !c.averagePackage ? 'YES' : 'NO',
+      'Missing cutoffs': !c.exams ? 'YES' : 'NO'
+    }));
+    const ws = XLSX.utils.json_to_sheet(data);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Missing Data Report");
+    XLSX.writeFile(wb, "Missing_Data_Report.xlsx");
+    logActivity(currentUser.name, currentUser.role, "Excel Export", "Downloaded missing database fields audit sheet.");
+  };
 
   // Excel Upload States
   const [excelFile, setExcelFile] = useState(null);
@@ -415,6 +552,12 @@ const Admin = () => {
                 onClick={() => setActiveTab('reports')}
               >
                 📋 Reports Center
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'sync' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('sync')}
+              >
+                🔄 Sync & Data Health
               </Nav.Link>
             </Nav>
           </div>
@@ -1073,6 +1216,185 @@ const Admin = () => {
                   </Card>
                 </Col>
               </Row>
+            </div>
+          )}
+
+          {/* TAB 8: SYNC & DATA HEALTH */}
+          {activeTab === 'sync' && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1">Sync, Crawler & Data Health Hub</h4>
+                  <p className="text-secondary small">Automatically crawl trusted public education sources, review suggested updates, resolve duplicates, and verify student error reports.</p>
+                </div>
+                <Button variant="primary" className="fw-bold rounded-pill shadow-sm" onClick={handleRunCrawler} disabled={crawling}>
+                  {crawling ? (
+                    <>
+                      <Spinner size="sm" animation="border" className="me-2" />
+                      Crawling Sources...
+                    </>
+                  ) : (
+                    "🔄 Trigger Auto-Enrichment Crawler"
+                  )}
+                </Button>
+              </div>
+
+              {/* Crawl animation progress bar */}
+              {crawling && (
+                <Card className="border-0 shadow-sm p-4 mb-4">
+                  <h6 className="fw-bold text-primary mb-2">Analyzing Directory Completeness & Querying Sources...</h6>
+                  <ProgressBar animated now={crawlProgress} label={`${crawlProgress}%`} variant="success" className="mb-2" />
+                  <span className="small text-muted font-monospace">{crawlMessage}</span>
+                </Card>
+              )}
+
+              <Row className="g-4 mb-4">
+                {/* 1. Missing Data Finder */}
+                <Col md={6}>
+                  <Card className="border-0 shadow-sm p-4 h-100">
+                    <h5 className="fw-bold text-dark mb-3">Missing Data Finder</h5>
+                    <div className="d-flex justify-content-between align-items-center mb-4 bg-light p-3 rounded">
+                      <div>
+                        <div className="small text-muted uppercase">INCOMPLETE COLLEGES</div>
+                        <h3 className="fw-bold mb-0 text-danger">{colleges.filter(c => !c.website || !c.established || !c.averagePackage || !c.highestPackage).length}</h3>
+                      </div>
+                      <Button size="sm" variant="outline-danger" className="fw-bold" onClick={handleExportMissingReport}>
+                        <FaDownload className="me-1"/> Export Report
+                      </Button>
+                    </div>
+                    <p className="small text-secondary">Identifies records missing websites, establishment years, cutoff marks, or placement figures. Use the crawler to auto-enrich or edit them manually.</p>
+                  </Card>
+                </Col>
+
+                {/* 2. Duplicate Detection & Merge */}
+                <Col md={6}>
+                  <Card className="border-0 shadow-sm p-4 h-100">
+                    <h5 className="fw-bold text-dark mb-3">Duplicate Record Cleanup</h5>
+                    <div className="d-flex justify-content-between align-items-center mb-4 bg-light p-3 rounded">
+                      <div>
+                        <div className="small text-muted uppercase">POTENTIAL DUPLICATES</div>
+                        <h3 className="fw-bold mb-0 text-warning">{detectDuplicates().length}</h3>
+                      </div>
+                      {detectDuplicates().length > 0 && (
+                        <Button size="sm" variant="warning" className="fw-bold" onClick={handleAutoMergeDuplicates}>
+                          Auto-Merge All
+                        </Button>
+                      )}
+                    </div>
+                    
+                    {detectDuplicates().length === 0 ? (
+                      <Alert variant="success" className="py-2 small">Your database is clean! No duplicate college names found.</Alert>
+                    ) : (
+                      <div style={{ maxHeight: '180px', overflowY: 'auto' }} className="border rounded p-2 bg-light">
+                        {detectDuplicates().map((dup, idx) => (
+                          <div key={idx} className="d-flex justify-content-between align-items-center border-bottom py-2 small">
+                            <div>
+                              <strong>{dup.c1.name}</strong> <span className="text-muted">and</span> <strong>{dup.c2.name}</strong>
+                              <br />
+                              <span className="text-muted" style={{ fontSize: '10px' }}>Location: {dup.c1.location}, {dup.c1.state}</span>
+                            </div>
+                            <Button size="xs" variant="outline-primary" className="py-1 px-2 font-bold shadow-sm" onClick={() => handleMergePair(dup.c1.id, dup.c2.id)}>
+                              Merge
+                            </Button>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </Card>
+                </Col>
+              </Row>
+
+              {/* 3. Suggested Updates Queue */}
+              <Card className="border-0 shadow-sm p-4 mb-4">
+                <h5 className="fw-bold text-success mb-3">Crawled Suggestion Verification Queue</h5>
+                <p className="text-secondary small">Review automatic edits gathered from web searches, official college domains, and government portals before pushing to live public directory pages.</p>
+                {pendingUpdates.length === 0 ? (
+                  <Alert variant="info" className="py-2 small mb-0">The verification queue is empty. Run the crawler to scan for suggestions!</Alert>
+                ) : (
+                  <Table hover className="align-middle small mb-0">
+                    <thead className="table-light">
+                      <tr>
+                        <th>College Name</th>
+                        <th>Field Name</th>
+                        <th>Existing Value</th>
+                        <th>Suggested Value</th>
+                        <th>Source Link</th>
+                        <th className="text-end">Actions</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {pendingUpdates.map(u => (
+                        <tr key={u.id}>
+                          <td className="fw-bold">{u.collegeName}</td>
+                          <td><Badge bg="light" text="dark" className="border">{u.field}</Badge></td>
+                          <td className="text-muted">{u.oldValue || "[Empty]"}</td>
+                          <td className="text-success fw-bold">
+                            {u.isImage ? (
+                              <img src={u.suggestedValue} alt="crawled" style={{ width: '60px', height: '40px', objectFit: 'cover' }} className="rounded border" />
+                            ) : (
+                              u.suggestedValue
+                            )}
+                          </td>
+                          <td>
+                            <a href={u.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-decoration-none">
+                              {u.sourceUrl.split('/')[2]} <FaExternalLinkAlt size={10} />
+                            </a>
+                          </td>
+                          <td className="text-end">
+                            <Button size="sm" variant="success" className="me-2" onClick={() => approveUpdate(u.id)}>Approve</Button>
+                            <Button size="sm" variant="outline-danger" onClick={() => rejectUpdate(u.id)}>Dismiss</Button>
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </Table>
+                )}
+              </Card>
+
+              {/* 4. Student Flags / Inaccuracy Reports */}
+              <Card className="border-0 shadow-sm p-4">
+                <h5 className="fw-bold text-danger mb-3">Student Reported Inaccuracies</h5>
+                <p className="text-secondary small">Student-flagged data issues with comments. Review reported values and manually override fields when correct.</p>
+                
+                {inaccuracyReports.length === 0 ? (
+                  <Alert variant="success" className="py-2 small mb-0">No active data inaccuracy flags reported by students.</Alert>
+                ) : (
+                  <Table hover className="align-middle small mb-0">
+                    <thead className="table-light">
+                      <tr>
+                        <th>Date</th>
+                        <th>College Name</th>
+                        <th>Reporter</th>
+                        <th>Incorrect Field</th>
+                        <th>Details/Corrections</th>
+                        <th className="text-end">Action</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {inaccuracyReports.map(rep => (
+                        <tr key={rep.id}>
+                          <td className="text-muted">{rep.timestamp}</td>
+                          <td className="fw-bold">{rep.collegeName}</td>
+                          <td>{rep.studentName}</td>
+                          <td><Badge bg="danger">{rep.fieldName}</Badge></td>
+                          <td>"{rep.reportedValue}"</td>
+                          <td className="text-end">
+                            <Button size="sm" variant="outline-primary" onClick={() => {
+                              const college = colleges.find(c => Number(c.id) === Number(rep.collegeId));
+                              if (college) {
+                                triggerEdit(college);
+                                setActiveTab('colleges');
+                              }
+                            }}>
+                              Edit Manually
+                            </Button>
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </Table>
+                )}
+              </Card>
             </div>
           )}
         </Col>

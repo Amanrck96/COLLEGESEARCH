@@ -63,11 +63,195 @@ export const CollegeProvider = ({ children }) => {
       });
   }, []);
 
-  // Derived visible colleges
+  // Global Crawler Pending updates queue
+  const [pendingUpdates, setPendingUpdates] = useState(() => {
+    const saved = localStorage.getItem('pendingUpdates');
+    if (saved) return JSON.parse(saved);
+    return [
+      {
+        id: 201,
+        collegeId: 1,
+        collegeName: "IIT Bombay",
+        field: "established",
+        oldValue: "1958",
+        suggestedValue: "1958 (Accredited by NAAC A++)",
+        sourceUrl: "https://www.iitb.ac.in/about",
+        timestamp: "2026-06-07 11:45 AM"
+      },
+      {
+        id: 202,
+        collegeId: 2,
+        collegeName: "LPU Jalandhar",
+        field: "averagePackage",
+        oldValue: "₹6 LPA",
+        suggestedValue: "₹7.5 LPA",
+        sourceUrl: "https://www.lpu.in/placements",
+        timestamp: "2026-06-07 01:12 PM"
+      },
+      {
+        id: 203,
+        collegeId: 1,
+        collegeName: "IIT Bombay",
+        field: "img",
+        oldValue: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
+        suggestedValue: "https://images.unsplash.com/photo-1571260899304-425070110ea8?auto=format&fit=crop&q=80&w=400",
+        sourceUrl: "https://www.iitb.ac.in/gallery",
+        timestamp: "2026-06-07 02:30 PM",
+        isImage: true
+      }
+    ];
+  });
+
+  // Global Inaccuracy reports queue
+  const [inaccuracyReports, setInaccuracyReports] = useState(() => {
+    const saved = localStorage.getItem('inaccuracyReports');
+    if (saved) return JSON.parse(saved);
+    return [
+      { id: 1, collegeId: 2, collegeName: "LPU Jalandhar", fieldName: "Fees", reportedValue: "Hostel fees changed to ₹1,10,000 for AC rooms", studentName: "Aarav Sharma", timestamp: "2026-06-07" }
+    ];
+  });
+
+  useEffect(() => {
+    localStorage.setItem('pendingUpdates', JSON.stringify(pendingUpdates));
+  }, [pendingUpdates]);
+
+  useEffect(() => {
+    localStorage.setItem('inaccuracyReports', JSON.stringify(inaccuracyReports));
+  }, [inaccuracyReports]);
+
+  const approveUpdate = (updateId) => {
+    const update = pendingUpdates.find(u => u.id === updateId);
+    if (!update) return;
+    updateCollege(update.collegeId, {
+      [update.field]: update.suggestedValue,
+      _source: "Web Verified Crawler",
+      _lastSync: new Date().toLocaleDateString()
+    });
+    setPendingUpdates(prev => prev.filter(u => u.id !== updateId));
+  };
+
+  const rejectUpdate = (updateId) => {
+    setPendingUpdates(prev => prev.filter(u => u.id !== updateId));
+  };
+
+  const addInaccuracyReport = (report) => {
+    const newReport = {
+      id: Date.now(),
+      collegeId: Number(report.collegeId),
+      collegeName: report.collegeName,
+      fieldName: report.fieldName,
+      reportedValue: report.reportedValue,
+      studentName: report.studentName || "Anonymous Student",
+      timestamp: new Date().toLocaleDateString()
+    };
+    setInaccuracyReports(prev => [newReport, ...prev]);
+  };
+
+  // Derived visible colleges with worldwide listings and default info
   const colleges = React.useMemo(() => {
     const base = (rawColleges || []).filter(c => !deletedColleges.includes(String(c.id)));
-    const mergedBase = base.map(c => editedColleges[String(c.id)] ? { ...c, ...editedColleges[String(c.id)] } : c);
-    return [...mergedBase, ...addedColleges];
+    const mergedBase = base.map(c => {
+      const overrides = editedColleges[String(c.id)] || {};
+      return {
+        country: 'India',
+        _source: 'Public Directory',
+        _lastSync: '2026-06-06',
+        ...c,
+        ...overrides
+      };
+    });
+
+    const defaultInternational = [
+      {
+        id: 90001,
+        name: "Massachusetts Institute of Technology (MIT)",
+        shortName: "MIT",
+        location: "Cambridge",
+        state: "Massachusetts",
+        country: "USA",
+        type: "Private",
+        established: "1861",
+        fees: "$58,000/Year",
+        exams: "SAT, ACT, TOEFL",
+        averagePackage: "$110,000",
+        highestPackage: "$250,000",
+        rating: 4.9,
+        reviews: 200,
+        about: "The Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts, established in 1861. MIT has played a key role in the development of modern technology and science.",
+        website: "https://www.mit.edu",
+        phone: "+1 617-253-1000",
+        img: "https://images.unsplash.com/photo-1564981797816-1043664bf78d?auto=format&fit=crop&q=80&w=400",
+        gallery: ["https://images.unsplash.com/photo-1564981797816-1043664bf78d?auto=format&fit=crop&q=80&w=400"],
+        courses: [
+          { title: "B.S. Computer Science", duration: "4 Years", fees: "$58,000/Year", eligibility: "SAT/ACT + TOEFL" },
+          { title: "M.S. Electrical Engineering", duration: "2 Years", fees: "$60,000/Year", eligibility: "GRE + TOEFL" }
+        ],
+        facilities: "Library, Hostels, Sports Complex, IT Infrastructure, Cafeteria, Med Center",
+        topRecruiters: "Google, Microsoft, Apple, Meta, NVIDIA, Tesla",
+        _source: "Official Site",
+        _lastSync: "2026-06-07"
+      },
+      {
+        id: 90002,
+        name: "University of Oxford",
+        shortName: "Oxford",
+        location: "Oxford",
+        state: "Oxfordshire",
+        country: "UK",
+        type: "Public",
+        established: "1096",
+        fees: "£38,500/Year",
+        exams: "IELTS, GCE A-Levels",
+        averagePackage: "£75,000",
+        highestPackage: "£180,000",
+        rating: 4.9,
+        reviews: 185,
+        about: "The University of Oxford is a collegiate research university in Oxford, England. There is evidence of teaching as early as 1096, making it the oldest university in the English-speaking world.",
+        website: "https://www.ox.ac.uk",
+        phone: "+44 1865 270000",
+        img: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&q=80&w=400",
+        gallery: ["https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&q=80&w=400"],
+        courses: [
+          { title: "B.A. Philosophy, Politics and Economics (PPE)", duration: "3 Years", fees: "£35,000/Year", eligibility: "A-Levels or equivalent" },
+          { title: "Master of Business Administration (MBA)", duration: "1 Year", fees: "£71,000/Year", eligibility: "GMAT/GRE + IELTS" }
+        ],
+        facilities: "Bodleian Library, Oxford Union, Collegiate Accommodation, Sports Complex",
+        topRecruiters: "Goldman Sachs, McKinsey & Company, BCG, HSBC, Unilever",
+        _source: "Official Site",
+        _lastSync: "2026-06-07"
+      },
+      {
+        id: 90003,
+        name: "National University of Singapore (NUS)",
+        shortName: "NUS",
+        location: "Queenstown",
+        state: "Central Region",
+        country: "Singapore",
+        type: "Public",
+        established: "1905",
+        fees: "S$32,000/Year",
+        exams: "SAT, ACT, IELTS",
+        averagePackage: "S$72,000",
+        highestPackage: "S$150,000",
+        rating: 4.8,
+        reviews: 142,
+        about: "The National University of Singapore (NUS) is a national collegiate research university in Queenstown, Singapore. Founded in 1905, it is the oldest higher education institution in Singapore.",
+        website: "https://nus.edu.sg",
+        phone: "+65 6516 6666",
+        img: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
+        gallery: ["https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400"],
+        courses: [
+          { title: "Bachelor of Computing (Computer Science)", duration: "4 Years", fees: "S$32,000/Year", eligibility: "High School Grad + SAT" },
+          { title: "Master of Science in Finance", duration: "1 Year", fees: "S$48,000/Year", eligibility: "GMAT + IELTS" }
+        ],
+        facilities: "NUS Libraries, University Cultural Centre, UTown Dormitories, IT Centre",
+        topRecruiters: "DBS Bank, Singtel, Shopee, Grab, Google, ByteDance",
+        _source: "Official Site",
+        _lastSync: "2026-06-07"
+      }
+    ];
+
+    return [...mergedBase, ...defaultInternational];
   }, [rawColleges, editedColleges, addedColleges, deletedColleges]);
 
   // Dynamically aggregate and group unique courses from colleges
@@ -180,7 +364,12 @@ export const CollegeProvider = ({ children }) => {
 
 
   return (
-    <CollegeContext.Provider value={{ colleges, courses, exams, addCollege, updateCollege, deleteCollege, loading, reviews, addReview, approveReview, rejectReview }}>
+    <CollegeContext.Provider value={{ 
+      colleges, courses, exams, addCollege, updateCollege, deleteCollege, loading, 
+      reviews, addReview, approveReview, rejectReview,
+      pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate,
+      inaccuracyReports, addInaccuracyReport
+    }}>
       {children}
     </CollegeContext.Provider>
   );

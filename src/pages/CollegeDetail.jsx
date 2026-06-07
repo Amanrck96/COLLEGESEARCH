@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from 'react';
-import { Container, Row, Col, Card, Nav, Tab, Badge, Button, Form, Table, Spinner, InputGroup } from 'react-bootstrap';
+import { Container, Row, Col, Card, Nav, Tab, Badge, Button, Form, Table, Spinner, InputGroup, Modal, Alert } from 'react-bootstrap';
 import { motion } from 'framer-motion';
 import { 
   FaMapMarkerAlt, FaStar, FaBuilding, FaInfoCircle, FaPhoneAlt, FaGlobe, 
@@ -16,7 +16,7 @@ import { useTranslation } from '../utils/i18n';
 
 const CollegeDetail = () => {
   const { id } = useParams();
-  const { colleges, loading, reviews, addReview } = useContext(CollegeContext);
+  const { colleges, loading, reviews, addReview, addInaccuracyReport } = useContext(CollegeContext);
   const { currentUser, trackStudentActivity } = useContext(AuthContext);
   const college = (colleges || []).find(c => String(c.id) === String(id));
   const { t } = useTranslation();
@@ -35,6 +35,9 @@ const CollegeDetail = () => {
 
   // Course Search state
   const [courseSearch, setCourseSearch] = useState('');
+
+  // Report Inaccuracy Modal State
+  const [showReportModal, setShowReportModal] = useState(false);
 
   const getTranslatedType = (type) => {
     if (!type) return '';
@@ -168,9 +171,12 @@ const CollegeDetail = () => {
           <Container className="position-absolute bottom-0 start-50 translate-middle-x pb-4">
             <Row className="align-items-end text-white">
               <Col md={8}>
-                <div className="d-flex align-items-center mb-3">
-                  <Badge bg="warning" text="dark" className="fs-6 me-3"><FaStar className="me-1 mb-1"/>{college.rating} {t('rating')}</Badge>
+                <div className="d-flex align-items-center mb-3 flex-wrap gap-2">
+                  <Badge bg="warning" text="dark" className="fs-6"><FaStar className="me-1 mb-1"/>{college.rating} {t('rating')}</Badge>
                   <Badge bg="primary" className="fs-6">{getTranslatedType(college.type)}</Badge>
+                  <Badge bg="secondary" className="fs-6">{college.country || 'India'}</Badge>
+                  <Badge bg="info" className="fs-6">Source: {college._source || 'Public DB'}</Badge>
+                  <Badge bg="light" text="dark" className="fs-6 border">Last Sync: {college._lastSync || '2026-06-06'}</Badge>
                 </div>
                 <h1 className="fw-bold display-5 mb-2 text-white">{college.name}</h1>
                 <p className="fs-5 mb-0"><FaMapMarkerAlt className="me-2 text-danger"/>{college.address || college.location}</p>
@@ -703,9 +709,60 @@ const CollegeDetail = () => {
                 <Button variant="warning" className="w-100 rounded-pill fw-bold shadow" onClick={handleApply}>{t('requestCallback')}</Button>
               </Card.Body>
             </Card>
+
+            <Button variant="outline-danger" className="w-100 rounded-pill mt-3 fw-bold shadow-sm" onClick={() => setShowReportModal(true)}>
+              Report Incorrect Details
+            </Button>
           </Col>
         </Row>
       </Container>
+
+      {/* REPORT INACCURACY MODAL */}
+      <Modal show={showReportModal} onHide={() => setShowReportModal(false)} centered style={{ color: '#333' }}>
+        <Modal.Header closeButton>
+          <Modal.Title className="fw-bold text-danger">Report Incorrect Information</Modal.Title>
+        </Modal.Header>
+        <Form onSubmit={(e) => {
+          e.preventDefault();
+          const fd = new FormData(e.target);
+          addInaccuracyReport({
+            collegeId: college.id,
+            collegeName: college.name,
+            fieldName: fd.get('field'),
+            reportedValue: fd.get('details'),
+            studentName: currentUser?.name || "Anonymous Student"
+          });
+          setShowReportModal(false);
+          alert("Thank you! Your feedback has been logged and sent to the administrator queue for verification.");
+        }}>
+          <Modal.Body>
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold">Select field with incorrect data</Form.Label>
+              <Form.Select name="field" required>
+                <option value="Fees">Fees & Tuition Structure</option>
+                <option value="Placements">Placements average/highest package</option>
+                <option value="Hostel">Hostel availability or charges</option>
+                <option value="Contact">Contact numbers/Website link</option>
+                <option value="Other">Other general information</option>
+              </Form.Select>
+            </Form.Group>
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold">Please describe the correct information</Form.Label>
+              <Form.Control 
+                as="textarea" 
+                rows={4} 
+                name="details" 
+                placeholder="Specify the error and provide the updated value or source..."
+                required 
+              />
+            </Form.Group>
+          </Modal.Body>
+          <Modal.Footer>
+            <Button variant="outline-secondary" onClick={() => setShowReportModal(false)}>Cancel</Button>
+            <Button type="submit" variant="danger">Submit Flag Report</Button>
+          </Modal.Footer>
+        </Form>
+      </Modal>
     </div>
   );
 };

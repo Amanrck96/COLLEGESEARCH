@@ -20,6 +20,7 @@ const Colleges = () => {
   const itemsPerPage = 12;
 
   // Advanced Filters State
+  const [filterCountry, setFilterCountry] = useState("");
   const [filterState, setFilterState] = useState("");
   const [filterCity, setFilterCity] = useState("");
   const [filterCourse, setFilterCourse] = useState("");
@@ -29,9 +30,11 @@ const Colleges = () => {
   const [filterHostel, setFilterHostel] = useState("");
   const [filterType, setFilterType] = useState("");
 
-  // AI Fallback Search State
-  const [aiColleges, setAiColleges] = useState([]);
-  const [aiLoading, setAiLoading] = useState(false);
+  // Auto-reset lower scopes when country changes
+  useEffect(() => {
+    setFilterState("");
+    setFilterCity("");
+  }, [filterCountry]);
 
   useEffect(() => {
     const params = new URLSearchParams(location.search);
@@ -48,9 +51,16 @@ const Colleges = () => {
     setSaved(prev => ({...prev, [id]: !prev[id]}));
   };
 
-  const uniqueStates = React.useMemo(() => {
-    return [...new Set((colleges || []).map(c => c.state).filter(Boolean))].sort();
+  const uniqueCountries = React.useMemo(() => {
+    return [...new Set((colleges || []).map(c => c.country || 'India').filter(Boolean))].sort();
   }, [colleges]);
+
+  const uniqueStates = React.useMemo(() => {
+    const base = filterCountry 
+      ? (colleges || []).filter(c => String(c.country || 'India').toLowerCase() === filterCountry.toLowerCase())
+      : (colleges || []);
+    return [...new Set(base.map(c => c.state).filter(Boolean))].sort();
+  }, [colleges, filterCountry]);
 
   const uniqueCities = React.useMemo(() => {
     const base = filterState 
@@ -85,6 +95,9 @@ const Colleges = () => {
     }
 
     // 2. Dropdown Filters
+    if (filterCountry) {
+      results = results.filter(c => String(c.country || 'India').toLowerCase() === filterCountry.toLowerCase());
+    }
     if (filterState) {
       results = results.filter(c => String(c.state || '').toLowerCase() === filterState.toLowerCase());
     }
@@ -109,7 +122,7 @@ const Colleges = () => {
     if (filterFeeRange) {
       results = results.filter(c => {
         const feeStr = String(c.fees || '0');
-        const numericFee = parseFloat(feeStr.replace(/[^\d.]/g, '')) || 0; // Extracts numeric digits e.g. "2.5 Lakhs" -> 2.5
+        const numericFee = parseFloat(feeStr.replace(/[^\d.]/g, '')) || 0;
         
         if (filterFeeRange === 'under_1') {
           return numericFee < 1;
@@ -128,7 +141,7 @@ const Colleges = () => {
     if (filterPlacement) {
       results = results.filter(c => {
         const pkgStr = String(c.averagePackage || c.average_package || '0');
-        const numericPkg = parseFloat(pkgStr.replace(/[^\d.]/g, '')) || 0; // e.g. "₹7.5 LPA" -> 7.5
+        const numericPkg = parseFloat(pkgStr.replace(/[^\d.]/g, '')) || 0;
         
         if (filterPlacement === 'above_15') return numericPkg >= 15;
         if (filterPlacement === 'above_10') return numericPkg >= 10;
@@ -158,7 +171,7 @@ const Colleges = () => {
     }
 
     return results;
-  }, [colleges, searchTerm, filterState, filterCity, filterCourse, filterFeeRange, filterRating, filterPlacement, filterHostel, filterType, sortBy]);
+  }, [colleges, searchTerm, filterCountry, filterState, filterCity, filterCourse, filterFeeRange, filterRating, filterPlacement, filterHostel, filterType, sortBy]);
 
 
   // Derived visible colleges per page
@@ -215,7 +228,7 @@ const Colleges = () => {
                 <FaFilter className="me-2" /> Advanced Filters
               </div>
               <Form>
-                {/* Search Text input */}
+                {/* Keyword Search */}
                 <Form.Group className="mb-3">
                   <Form.Label className="small fw-semibold text-muted">Keyword Search</Form.Label>
                   <Form.Control 
@@ -227,15 +240,29 @@ const Colleges = () => {
                   />
                 </Form.Group>
 
+                {/* Country Filter */}
+                <Form.Group className="mb-3">
+                  <Form.Label className="small fw-semibold text-muted">Filter Country</Form.Label>
+                  <Form.Select 
+                    size="sm" 
+                    value={filterCountry} 
+                    onChange={(e) => setFilterCountry(e.target.value)}
+                  >
+                    <option value="">All Countries</option>
+                    {uniqueCountries.map(c => <option key={c} value={c}>{c}</option>)}
+                  </Form.Select>
+                </Form.Group>
+
                 {/* State Filter */}
                 <Form.Group className="mb-3">
-                  <Form.Label className="small fw-semibold text-muted">Filter State</Form.Label>
+                  <Form.Label className="small fw-semibold text-muted">Filter State/Province</Form.Label>
                   <Form.Select 
                     size="sm" 
                     value={filterState} 
+                    disabled={!filterCountry}
                     onChange={(e) => { setFilterState(e.target.value); setFilterCity(""); }}
                   >
-                    <option value="">All States</option>
+                    <option value="">{filterCountry ? "All States/Provinces" : "Select Country First"}</option>
                     {uniqueStates.map(st => <option key={st} value={st}>{st}</option>)}
                   </Form.Select>
                 </Form.Group>
