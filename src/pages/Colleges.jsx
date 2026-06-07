@@ -1,16 +1,17 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
 import { Container, Row, Col, Card, Form, Badge, Button, InputGroup, Spinner } from 'react-bootstrap';
 import { motion } from 'framer-motion';
 import { Link, useLocation } from 'react-router-dom';
 import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark } from 'react-icons/fa';
 
 import { CollegeContext } from '../contexts/CollegeContext';
+import { AuthContext } from '../contexts/AuthContext';
 import CollegeImg from '../components/CollegeImg';
 import { aiSearchColleges } from '../utils/geminiApi';
 
 const Colleges = () => {
-  const { colleges, loading } = React.useContext(CollegeContext);
-  const { trackStudentActivity, currentUser } = React.useContext(AuthContext);
+  const { colleges, loading } = useContext(CollegeContext);
+  const { trackStudentActivity, currentUser } = useContext(AuthContext);
   const location = useLocation();
   const [searchTerm, setSearchTerm] = useState("");
   const [saved, setSaved] = useState({});
