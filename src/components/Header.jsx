@@ -367,6 +367,7 @@ const Header = () => {
             </Nav>
             
             <Nav className="ms-auto align-items-lg-center">
+              <Nav.Link as={Link} to="/enterprise" className="fw-bold me-3 text-capitalize" style={{fontSize:'14px', color: '#f26822'}}>Enterprise Suite ⚙️</Nav.Link>
               <Nav.Link as={Link} to="#login" className="text-white fw-bold me-3 text-capitalize" style={{fontSize:'14px'}}>Login</Nav.Link>
               <Nav.Link as={Link} to="#signup" className="text-white fw-bold text-capitalize" style={{fontSize:'14px'}}>Sign Up</Nav.Link>
             </Nav>

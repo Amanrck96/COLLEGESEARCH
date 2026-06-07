@@ -24,6 +24,7 @@ const CompareColleges = lazy(() => import('./pages/CompareColleges'));
 const Contact = lazy(() => import('./pages/Contact'));
 const About = lazy(() => import('./pages/About'));
 const Admin = lazy(() => import('./pages/Admin'));
+const EnterprisePortal = lazy(() => import('./pages/EnterprisePortal'));
 
 import { CollegeProvider } from './contexts/CollegeContext';
 import { SiteProvider } from './contexts/SiteContext';
@@ -57,6 +58,7 @@ function App() {
               <Route path="/contact" element={<Contact />} />
               <Route path="/about" element={<About />} />
               <Route path="/admin/*" element={<Admin />} />
+              <Route path="/enterprise" element={<EnterprisePortal />} />
             </Routes>
           </Suspense>
         </Layout>
