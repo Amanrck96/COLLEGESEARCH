@@ -1,13 +1,54 @@
 import React, { useState, useContext } from 'react';
-import { Navbar, Nav, Container, Form, Button, InputGroup, Row, Col } from 'react-bootstrap';
+import { Navbar, Nav, Container, Form, Button, InputGroup, Row, Col, Modal } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { FaAngleRight } from 'react-icons/fa';
 import { SiteContext } from '../contexts/SiteContext';
+import { AuthContext } from '../contexts/AuthContext';
 import { navData } from '../data/navData';
 
 const Header = () => {
   const { siteData } = useContext(SiteContext);
   const { mbaTabs, engTabs, medTabs, desTabs, moreTabs, studyTabs, counselingTabs, onlineTabs } = siteData.header;
+
+  const { currentUser, handleLogin, handleLogout } = useContext(AuthContext);
+  const [showAuthModal, setShowAuthModal] = useState(false);
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [selectedRole, setSelectedRole] = useState('student');
+  const [authError, setAuthError] = useState('');
+
+  const onLoginSubmit = (e) => {
+    e.preventDefault();
+    const res = handleLogin(email, password, selectedRole);
+    if (res.success) {
+      setShowAuthModal(false);
+      setEmail('');
+      setPassword('');
+      setAuthError('');
+    } else {
+      setAuthError(res.message);
+    }
+  };
+
+  const autofillDemoUser = (role) => {
+    setSelectedRole(role);
+    if (role === 'student') {
+      setEmail('aarav.sharma@gmail.com');
+      setPassword('password123');
+    } else if (role === 'superadmin') {
+      setEmail('admin@collegesearch.com');
+      setPassword('admin');
+    } else if (role === 'admin') {
+      setEmail('manager@collegesearch.com');
+      setPassword('admin');
+    } else if (role === 'operator') {
+      setEmail('operator@collegesearch.com');
+      setPassword('admin');
+    } else if (role === 'viewer') {
+      setEmail('viewer@collegesearch.com');
+      setPassword('admin');
+    }
+  };
 
   const [activeMbaTab, setActiveMbaTab] = useState(mbaTabs[0] || '');
   const [activeEngTab, setActiveEngTab] = useState(engTabs[0] || '');
@@ -367,13 +408,90 @@ const Header = () => {
             </Nav>
             
             <Nav className="ms-auto align-items-lg-center">
-              <Nav.Link as={Link} to="/enterprise" className="fw-bold me-3 text-capitalize" style={{fontSize:'14px', color: '#f26822'}}>Enterprise Suite ⚙️</Nav.Link>
-              <Nav.Link as={Link} to="#login" className="text-white fw-bold me-3 text-capitalize" style={{fontSize:'14px'}}>Login</Nav.Link>
-              <Nav.Link as={Link} to="#signup" className="text-white fw-bold text-capitalize" style={{fontSize:'14px'}}>Sign Up</Nav.Link>
+              {currentUser ? (
+                <>
+                  <span className="text-white-50 me-3 small">
+                    Logged in: <strong className="text-white">{currentUser.name}</strong> (<span className="text-warning fw-bold">{currentUser.role.toUpperCase()}</span>)
+                  </span>
+                  
+                  {currentUser.role === 'student' ? (
+                    <Nav.Link as={Link} to="/admin/student-profile" className="btn btn-sm btn-info text-dark fw-bold me-3 px-3 py-1 rounded-pill" style={{fontSize:'13px'}}>My Profile Panel</Nav.Link>
+                  ) : (
+                    <Nav.Link as={Link} to="/admin" className="btn btn-sm btn-warning text-dark fw-bold me-3 px-3 py-1 rounded-pill" style={{fontSize:'13px'}}>Admin Console</Nav.Link>
+                  )}
+                  
+                  <Button variant="danger" size="sm" className="rounded-pill px-3 py-1 fw-bold" style={{fontSize:'13px', border: 'none'}} onClick={handleLogout}>Logout</Button>
+                </>
+              ) : (
+                <>
+                  <Button variant="link" className="text-white fw-bold me-3 text-capitalize text-decoration-none" style={{fontSize:'14px'}} onClick={() => { setAuthError(''); setShowAuthModal(true); }}>Login / Portal Access</Button>
+                </>
+              )}
             </Nav>
           </Navbar.Collapse>
         </Container>
       </Navbar>
+
+      {/* Auth & Portal Access Modal */}
+      <Modal show={showAuthModal} onHide={() => setShowAuthModal(false)} centered contentClassName="border-0 shadow text-dark" style={{ color: '#333' }}>
+        <Modal.Header closeButton className="bg-light">
+          <Modal.Title className="fw-bold text-primary">COLLEGESEARCH Portal Login</Modal.Title>
+        </Modal.Header>
+        <Modal.Body className="p-4">
+          {authError && <div className="alert alert-danger py-2 small">{authError}</div>}
+          <Form onSubmit={onLoginSubmit}>
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold">Role Selection</Form.Label>
+              <Form.Select value={selectedRole} onChange={(e) => autofillDemoUser(e.target.value)} required>
+                <option value="student">Student Profile</option>
+                <option value="superadmin">Super Admin</option>
+                <option value="admin">Admin Manager</option>
+                <option value="operator">Data Entry Operator</option>
+                <option value="viewer">Viewer</option>
+              </Form.Select>
+            </Form.Group>
+            
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold">Email address</Form.Label>
+              <Form.Control 
+                type="email" 
+                placeholder="name@example.com" 
+                value={email} 
+                onChange={(e) => setEmail(e.target.value)} 
+                required 
+              />
+            </Form.Group>
+            
+            <Form.Group className="mb-4">
+              <Form.Label className="small fw-semibold">Password</Form.Label>
+              <Form.Control 
+                type="password" 
+                placeholder="Enter password" 
+                value={password} 
+                onChange={(e) => setPassword(e.target.value)} 
+                required={selectedRole !== 'student'} 
+              />
+              <Form.Text className="text-muted small">
+                Demo default password: <strong>admin</strong> (Optional for student)
+              </Form.Text>
+            </Form.Group>
+
+            <div className="mb-3 p-3 bg-light rounded border">
+              <span className="small text-muted d-block mb-1">💡 Quick Demo Autofills:</span>
+              <div className="d-flex flex-wrap gap-2">
+                <Button size="sm" variant="outline-info" onClick={() => autofillDemoUser('student')}>Student (Aarav)</Button>
+                <Button size="sm" variant="outline-primary" onClick={() => autofillDemoUser('superadmin')}>Super Admin</Button>
+                <Button size="sm" variant="outline-secondary" onClick={() => autofillDemoUser('admin')}>Admin Manager</Button>
+                <Button size="sm" variant="outline-dark" onClick={() => autofillDemoUser('operator')}>Operator</Button>
+              </div>
+            </div>
+
+            <Button type="submit" variant="primary" className="w-100 fw-bold py-2 mt-2" style={{ backgroundColor: '#1a43bf', border: 'none' }}>
+              Sign In
+            </Button>
+          </Form>
+        </Modal.Body>
+      </Modal>
     </div>
   );
 };

@@ -12,6 +12,43 @@ export const CollegeProvider = ({ children }) => {
   const [editedColleges, setEditedColleges] = useState(() => JSON.parse(localStorage.getItem('editedColleges') || '{}'));
   const [deletedColleges, setDeletedColleges] = useState(() => JSON.parse(localStorage.getItem('deletedColleges') || '[]'));
 
+  // Global Reviews State with LocalStorage syncing
+  const [reviews, setReviews] = useState(() => {
+    const saved = localStorage.getItem('collegeReviews');
+    if (saved) return JSON.parse(saved);
+    return [
+      { id: 1, collegeId: 1, authorName: "Rahul M.", rating: 4.8, content: "Excellent infrastructure and unmatched placements. Best coding culture.", status: "APPROVED", timestamp: "2026-06-05" },
+      { id: 2, collegeId: 2, authorName: "Sneha S.", rating: 3.5, content: "Massive campus, but crowd is too large. Placements are average.", status: "PENDING", timestamp: "2026-06-06" },
+      { id: 3, collegeId: 3, authorName: "Abhay K.", rating: 4.9, content: "No attendance policy is true freedom. Great startup environment.", status: "PENDING", timestamp: "2026-06-07" },
+      { id: 4, collegeId: 1, authorName: "Priya Singh", rating: 4.5, content: "Great professors and research opportunities, though fees are higher.", status: "APPROVED", timestamp: "2026-06-07" }
+    ];
+  });
+
+  useEffect(() => {
+    localStorage.setItem('collegeReviews', JSON.stringify(reviews));
+  }, [reviews]);
+
+  const addReview = (review) => {
+    const newReview = {
+      id: Date.now(),
+      collegeId: Number(review.collegeId),
+      authorName: review.authorName,
+      rating: parseFloat(review.rating || '5.0'),
+      content: review.content,
+      status: "PENDING",
+      timestamp: new Date().toLocaleDateString()
+    };
+    setReviews(prev => [newReview, ...prev]);
+  };
+
+  const approveReview = (id) => {
+    setReviews(prev => prev.map(r => r.id === id ? { ...r, status: "APPROVED" } : r));
+  };
+
+  const rejectReview = (id) => {
+    setReviews(prev => prev.map(r => r.id === id ? { ...r, status: "REJECTED" } : r));
+  };
+
   useEffect(() => {
     fetch('/siteData.json')
       .then(res => res.json())
@@ -143,7 +180,7 @@ export const CollegeProvider = ({ children }) => {
 
 
   return (
-    <CollegeContext.Provider value={{ colleges, courses, exams, addCollege, updateCollege, deleteCollege, loading }}>
+    <CollegeContext.Provider value={{ colleges, courses, exams, addCollege, updateCollege, deleteCollege, loading, reviews, addReview, approveReview, rejectReview }}>
       {children}
     </CollegeContext.Provider>
   );

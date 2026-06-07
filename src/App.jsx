@@ -24,16 +24,18 @@ const CompareColleges = lazy(() => import('./pages/CompareColleges'));
 const Contact = lazy(() => import('./pages/Contact'));
 const About = lazy(() => import('./pages/About'));
 const Admin = lazy(() => import('./pages/Admin'));
-const EnterprisePortal = lazy(() => import('./pages/EnterprisePortal'));
+const StudentProfilePanel = lazy(() => import('./pages/StudentProfilePanel'));
 
 import { CollegeProvider } from './contexts/CollegeContext';
 import { SiteProvider } from './contexts/SiteContext';
+import { AuthProvider } from './contexts/AuthContext';
 
 function App() {
   return (
-    <SiteProvider>
-      <CollegeProvider>
-        <Router>
+    <AuthProvider>
+      <SiteProvider>
+        <CollegeProvider>
+          <Router>
         <Layout>
           <Suspense fallback={
             <div className="d-flex align-items-center justify-content-center min-vh-100 bg-light">
@@ -57,14 +59,15 @@ function App() {
               <Route path="/compare" element={<CompareColleges />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/about" element={<About />} />
+              <Route path="/admin/student-profile" element={<StudentProfilePanel />} />
               <Route path="/admin/*" element={<Admin />} />
-              <Route path="/enterprise" element={<EnterprisePortal />} />
             </Routes>
           </Suspense>
         </Layout>
       </Router>
       </CollegeProvider>
-    </SiteProvider>
+      </SiteProvider>
+    </AuthProvider>
   );
 }
 

@@ -1,800 +1,1130 @@
-import React, { useState, useContext } from 'react';
-import { Container, Row, Col, Nav, Table, Button, Form, Card, Spinner } from 'react-bootstrap';
-import { FaEdit, FaTrash, FaPlus, FaUpload } from 'react-icons/fa';
+import React, { useState, useContext, useEffect } from 'react';
+import { Container, Row, Col, Card, Form, Table, Button, Badge, Alert, Tab, Nav, ProgressBar, Modal, Spinner } from 'react-bootstrap';
+import { 
+  FaUserShield, FaSchool, FaBookOpen, FaUserGraduate, FaHistory, FaFileExcel, 
+  FaFilePdf, FaBan, FaCheck, FaTimes, FaPlus, FaTrash, FaEdit, FaDownload, 
+  FaExclamationTriangle, FaSearch, FaRegStickyNote, FaFilter, FaExchangeAlt, FaCog
+} from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
-import { SiteContext } from '../contexts/SiteContext';
-import { State, City } from 'country-state-city';
+import { AuthContext } from '../contexts/AuthContext';
 import * as XLSX from 'xlsx';
 import { useTranslation } from '../utils/i18n';
 
 const Admin = () => {
   const { t } = useTranslation();
-  const { colleges, addCollege, updateCollege, deleteCollege, loading } = useContext(CollegeContext);
-  const { siteData, updateSiteData } = useContext(SiteContext);
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
-  const [username, setUsername] = useState('');
-  const [password, setPassword] = useState('');
-  const [loginError, setLoginError] = useState(false);
+  const { colleges, addCollege, updateCollege, deleteCollege, loading: collegeLoading, reviews, approveReview, rejectReview } = useContext(CollegeContext);
+  const { currentUser, students, activityLogs, deleteStudent, updateStudentNotes, logActivity } = useContext(AuthContext);
 
   const [activeTab, setActiveTab] = useState('dashboard');
-  const [showAddCollege, setShowAddCollege] = useState(false);
   const [editingCollege, setEditingCollege] = useState(null);
+  const [showCollegeForm, setShowCollegeForm] = useState(false);
 
-  const handleLogin = (e) => {
-    e.preventDefault();
-    if (username === 'admin' && password === 'admin123') {
-      setIsAuthenticated(true);
-      setLoginError(false);
-    } else {
-      setLoginError(true);
-    }
-  };
-
-  const handleEdit = (college) => {
-    setEditingCollege(college);
-    setShowAddCollege(true);
-  };
-
-  const handleDelete = (id) => {
-    if (window.confirm(t('confirmDeleteCollege'))) {
-      deleteCollege(id);
-    }
-  };
-
-  const handleSaveCollege = (data) => {
-    if (editingCollege) {
-      updateCollege(editingCollege.id, data);
-    } else {
-      addCollege(data);
-    }
-    setShowAddCollege(false);
-    setEditingCollege(null);
-  };
-
-  const handleBulkSave = (collegesData) => {
-    if (collegesData.length > 50) {
-      alert(t('bulkUploadWarning', { count: collegesData.length }));
-    }
-
-    collegesData.forEach(college => {
-      addCollege(college);
-    });
-    alert(t('collegesAddedSuccessfully', { count: collegesData.length }));
-    setActiveTab('dashboard');
-  };
-
-  if (!isAuthenticated) {
-    return (
-      <div className="d-flex align-items-center justify-content-center" style={{ minHeight: '100vh', backgroundColor: '#f3f4f6' }}>
-        <Card style={{ width: '400px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}>
-          <Card.Body className="p-5">
-            <div className="text-center mb-4">
-              <h4 className="fw-bold" style={{color: '#1a43bf'}}>{t('adminLogin')}</h4>
-              <p className="text-muted small">{t('enterCredentials')}</p>
-            </div>
-            {loginError && <div className="alert alert-danger py-2 small">{t('invalidCredentials')}</div>}
-            <Form onSubmit={handleLogin}>
-              <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">{t('username')}</Form.Label>
-                <Form.Control type="text" placeholder="admin" value={username} onChange={(e) => setUsername(e.target.value)} required />
-              </Form.Group>
-              <Form.Group className="mb-4">
-                <Form.Label className="small fw-semibold">{t('password')}</Form.Label>
-                <Form.Control type="password" placeholder="admin123" value={password} onChange={(e) => setPassword(e.target.value)} required />
-              </Form.Group>
-              <Button type="submit" variant="primary" className="w-100 fw-bold py-2" style={{backgroundColor: '#1c4ed8', border: 'none'}}>
-                {t('login')}
-              </Button>
-            </Form>
-          </Card.Body>
-        </Card>
-      </div>
-    );
-  }
-
-  return (
-    <div style={{ minHeight: '100vh', backgroundColor: '#f8f9fa' }}>
-      {/* Top Navbar */}
-      <div className="bg-white border-bottom px-4 py-3 d-flex align-items-center justify-content-between sticky-top">
-        <div className="d-flex align-items-center">
-          <div className="fw-bold fs-5 me-2" style={{color: '#1a43bf'}}>
-            <img src="https://via.placeholder.com/30" alt={t('logoAlt')} className="me-2" style={{borderRadius:'5px'}}/>
-            {t('brandName', 'CollegeSearchs')}
-          </div>
-        </div>
-        <div className="d-flex align-items-center">
-          <span className="me-4 text-muted fw-semibold">{t('blog')}</span>
-          <span className="me-4 text-muted fw-semibold">{t('compare')}</span>
-        </div>
-      </div>
-
-      <Row className="g-0">
-        {/* Sidebar */}
-        <Col md={2} className="bg-white border-end" style={{ minHeight: 'calc(100vh - 70px)' }}>
-          <div className="p-3">
-            <h6 className="text-muted fw-bold mb-3 d-flex align-items-center">
-              <span className="me-2">🎓</span> {t('adminPanel')}
-            </h6>
-            <Nav className="flex-column">
-              <Nav.Link 
-                className={`py-2 px-3 rounded mb-1 ${activeTab === 'dashboard' ? 'bg-light text-dark fw-bold' : 'text-secondary'}`}
-                onClick={() => setActiveTab('dashboard')}
-              >
-                <span className="me-2">㗊</span> {t('dashboard')}
-              </Nav.Link>
-              <Nav.Link 
-                className={`py-2 px-3 rounded mb-1 ${activeTab === 'bulkUpload' ? 'bg-light text-dark fw-bold' : 'text-secondary'}`}
-                onClick={() => setActiveTab('bulkUpload')}
-              >
-                <span className="me-2">📤</span> {t('bulkUpload')}
-              </Nav.Link>
-              <Nav.Link className="py-2 px-3 rounded mb-1 text-secondary">
-                <span className="me-2">📝</span> {t('blogManager')}
-              </Nav.Link>
-              <Nav.Link 
-                className={`py-2 px-3 rounded mb-1 ${activeTab === 'siteSettings' ? 'bg-light text-dark fw-bold' : 'text-secondary'}`}
-                onClick={() => setActiveTab('siteSettings')}
-              >
-                <span className="me-2">⚙️</span> {t('siteSettings')}
-              </Nav.Link>
-              <Nav.Link className="py-2 px-3 rounded mb-1 text-secondary">
-                <span className="me-2">📞</span> {t('contact')}
-              </Nav.Link>
-            </Nav>
-          </div>
-        </Col>
-
-        {/* Main Content */}
-        <Col md={10} className="p-4 bg-white">
-          {activeTab === 'dashboard' && !showAddCollege && (
-            <div>
-              <div className="d-flex justify-content-between align-items-center mb-4">
-                <div>
-                  <h4 className="fw-bold mb-1">{t('manageColleges')}</h4>
-                  <p className="text-secondary mb-0">{t('addOrEditCollegesInfo')}</p>
-                </div>
-                <Button variant="primary" onClick={() => { setEditingCollege(null); setShowAddCollege(true); }} className="px-4 py-2 fw-semibold rounded-3 d-flex align-items-center" style={{backgroundColor: '#1c4ed8', border: 'none'}}>
-                  <FaPlus className="me-2" /> {t('addCollegeBtn')}
-                </Button>
-              </div>
-
-              <Form.Control 
-                type="text" 
-                placeholder={t('searchPlaceholder')} 
-                className="mb-4 bg-light border-0 py-2"
-                style={{ maxWidth: '400px' }}
-              />
-
-              <div className="table-responsive">
-                {loading ? (
-                  <div className="text-center py-5">
-                    <Spinner animation="border" variant="primary" />
-                    <p className="mt-2 text-muted">Loading colleges database...</p>
-                  </div>
-                ) : (
-                  <Table hover className="align-middle" style={{ borderCollapse: 'separate', borderSpacing: '0 8px' }}>
-                  <thead>
-                    <tr className="text-muted" style={{borderBottom: 'none'}}>
-                      <th className="fw-normal" style={{border: 'none'}}>{t('name')}</th>
-                      <th className="fw-normal" style={{border: 'none'}}>{t('shortName')}</th>
-                      <th className="fw-normal" style={{border: 'none'}}>{t('type')}</th>
-                      <th className="fw-normal" style={{border: 'none'}}>{t('rating')}</th>
-                      <th className="fw-normal" style={{border: 'none'}}>{t('ranking')}</th>
-                      <th className="fw-normal" style={{border: 'none'}}>{t('actions')}</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {(colleges || []).map((college) => (
-                      <tr key={college.id} className="bg-white">
-                        <td className="py-3" style={{borderTop: '1px solid #eee', borderBottom: '1px solid #eee'}}>{college.name}</td>
-                        <td className="py-3 text-secondary" style={{borderTop: '1px solid #eee', borderBottom: '1px solid #eee'}}>{college.shortName || '-'}</td>
-                        <td className="py-3 text-secondary" style={{borderTop: '1px solid #eee', borderBottom: '1px solid #eee'}}>{college.type}</td>
-                        <td className="py-3 text-secondary" style={{borderTop: '1px solid #eee', borderBottom: '1px solid #eee'}}>{college.rating}</td>
-                        <td className="py-3 text-secondary" style={{borderTop: '1px solid #eee', borderBottom: '1px solid #eee'}}>{college.ranking || 0}</td>
-                        <td className="py-3" style={{borderTop: '1px solid #eee', borderBottom: '1px solid #eee'}}>
-                          <Button variant="link" className="p-0 text-primary me-3 text-decoration-none" onClick={() => handleEdit(college)}>
-                            <FaEdit />
-                          </Button>
-                          <Button variant="link" className="p-0 text-danger text-decoration-none" onClick={() => handleDelete(college.id)}>
-                            <FaTrash />
-                          </Button>
-                        </td>
-                      </tr>
-                    ))}
-                    {!colleges?.length && (
-                      <tr><td colSpan="6" className="text-center py-4 text-muted">{t('noCollegesFound')}</td></tr>
-                    )}
-                  </tbody>
-                  </Table>
-                )}
-              </div>
-            </div>
-          )}
-
-          {activeTab === 'dashboard' && showAddCollege && (
-            <AddCollegeForm 
-              college={editingCollege} 
-              onCancel={() => { setShowAddCollege(false); setEditingCollege(null); }} 
-              onSave={handleSaveCollege} 
-            />
-          )}
-
-          {activeTab === 'siteSettings' && (
-            <SiteSettingsForm 
-              siteData={siteData} 
-              onSave={(newData) => updateSiteData(newData)} 
-            />
-          )}
-
-          {activeTab === 'bulkUpload' && (
-            <BulkUploadForm onSave={handleBulkSave} />
-          )}
-        </Col>
-      </Row>
-    </div>
-  );
-};
-
-const AddCollegeForm = ({ college, onCancel, onSave }) => {
-  const { t } = useTranslation();
-  const indianStates = State.getStatesOfCountry("IN");
-  const [selectedState, setSelectedState] = useState(college?.state || '');
-  const [cities, setCities] = useState(() => {
-    if (college?.state) {
-      const stateObj = State.getStatesOfCountry("IN").find(s => s.name === college.state);
-      return stateObj ? City.getCitiesOfState("IN", stateObj.isoCode) : [];
-    }
-    return [];
-  });
-
-  const handleStateChange = (stateName) => {
-    setSelectedState(stateName);
-    const stateObj = indianStates.find(s => s.name === stateName);
-    if (stateObj) {
-      setCities(City.getCitiesOfState("IN", stateObj.isoCode));
-    } else {
-      setCities([]);
-    }
-  };
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    const fd = new FormData(e.target);
-    const data = {
-      name: fd.get('name'),
-      shortName: fd.get('shortName'),
-      about: fd.get('about'),
-      location: fd.get('district'),
-      mapUrl: fd.get('mapUrl'),
-      address: fd.get('address'),
-      brochureLink: fd.get('brochureLink'),
-      established: fd.get('established'),
-      type: fd.get('type'),
-      state: fd.get('state'),
-      affiliation: fd.get('affiliation'),
-      ranking: fd.get('ranking') ? parseInt(fd.get('ranking')) : 0,
-      specializations: fd.get('specializations'),
-      applyNowLink: fd.get('applyNowLink'),
-      highlights: fd.get('highlights'),
-      topRecruiters: fd.get('topRecruiters'),
-      courseName: fd.get('courseName'),
-      courseDuration: fd.get('courseDuration'),
-      fees: fd.get('courseFee') ? `₹${fd.get('courseFee')} Lacs/Year` : "₹10 Lacs/Year",
-      courseEligibility: fd.get('courseEligibility'),
-      website: fd.get('website'),
-      facebook: fd.get('facebook'),
-      instagram: fd.get('instagram'),
-      linkedin: fd.get('linkedin'),
-      rating: college?.rating || 4.5, // keep existing rating
-      exams: college?.exams || "None", // exams might be derived or hardcoded
-      img: fd.get('img') || college?.img || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400"
-    };
-    onSave(data);
-  };
-
-  return (
-    <div className="p-3">
-      <div className="d-flex justify-content-between align-items-center mb-4">
-        <h5 className="fw-bold" style={{color: '#15803d'}}>{college ? t('editBasicInfo') : t('basicInfo')}</h5>
-        <Button variant="link" className="text-muted text-decoration-none fs-5 p-0" onClick={onCancel}>✖</Button>
-      </div>
-
-      <Form onSubmit={handleSubmit}>
-        <Row className="mb-3">
-          <Col md={6}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('nameRequired')}</Form.Label>
-              <Form.Control name="name" type="text" placeholder={t('collegeNamePlaceholder')} defaultValue={college?.name || ''} className="py-2" required />
-            </Form.Group>
-          </Col>
-          <Col md={6}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('shortNameRequired')}</Form.Label>
-              <Form.Control name="shortName" type="text" placeholder={t('shortName')} defaultValue={college?.shortName || ''} className="py-2" required />
-            </Form.Group>
-          </Col>
-        </Row>
-
-        <Row className="mb-3">
-          <Col md={6}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('about')}</Form.Label>
-              <Form.Control name="about" as="textarea" rows={3} defaultValue={college?.about || ''} className="py-2" />
-            </Form.Group>
-          </Col>
-          <Col md={6}>
-            <Form.Group className="mb-3">
-              <Form.Label className="fw-semibold small">{t('districtCityRequired')}</Form.Label>
-              <Form.Select name="district" defaultValue={college?.location || ''} className="py-2" required>
-                <option value="">{t('selectCity')}</option>
-                {cities.map(c => <option key={c.name} value={c.name}>{c.name}</option>)}
-              </Form.Select>
-            </Form.Group>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('mapUrl')}</Form.Label>
-              <Form.Control name="mapUrl" type="url" placeholder={t('mapUrlPlaceholder')} defaultValue={college?.mapUrl || ''} className="py-2" />
-            </Form.Group>
-          </Col>
-        </Row>
-
-        <Row className="mb-3">
-          <Col md={6}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('addressRequired')}</Form.Label>
-              <Form.Control name="address" as="textarea" rows={2} defaultValue={college?.address || ''} className="py-2" />
-            </Form.Group>
-          </Col>
-          <Col md={6}>
-            <Row>
-              <Col xs={6}>
-                <Form.Group>
-                  <Form.Label className="fw-semibold small">{t('brochureLink')}</Form.Label>
-                  <Form.Control name="brochureLink" type="url" defaultValue={college?.brochureLink || ''} className="py-2" />
-                </Form.Group>
-              </Col>
-              <Col xs={6}>
-                <Form.Group>
-                  <Form.Label className="fw-semibold small">{t('established')}</Form.Label>
-                  <Form.Control name="established" type="text" defaultValue={college?.established || ''} className="py-2" />
-                </Form.Group>
-              </Col>
-            </Row>
-          </Col>
-        </Row>
-
-        <Row className="mb-4">
-          <Col md={6}>
-            <Row>
-              <Col xs={6}>
-                <Form.Group>
-                  <Form.Label className="fw-semibold small">{t('typeRequired')}</Form.Label>
-                  <Form.Select name="type" className="py-2" defaultValue={college?.type || 'Government'}>
-                    <option value="Government">{t('government')}</option>
-                    <option value="Private">{t('private')}</option>
-                    <option value="Autonomous">{t('autonomous')}</option>
-                    <option value="Public-Private">{t('publicPrivate')}</option>
-                    <option value="Online">{t('online')}</option>
-                    <option value="Full Time">{t('fullTime')}</option>
-                  </Form.Select>
-                </Form.Group>
-              </Col>
-              <Col xs={6}>
-                <Form.Group>
-                  <Form.Label className="fw-semibold small">{t('stateRequired')}</Form.Label>
-                  <Form.Select 
-                    name="state" 
-                    className="py-2" 
-                    value={selectedState} 
-                    onChange={(e) => handleStateChange(e.target.value)}
-                    required
-                  >
-                    <option value="">{t('selectState')}</option>
-                    {indianStates.map(st => <option key={st.isoCode} value={st.name}>{st.name}</option>)}
-                  </Form.Select>
-                </Form.Group>
-              </Col>
-            </Row>
-          </Col>
-          <Col md={6}>
-            <Row>
-              <Col xs={6}>
-                <Form.Group>
-                  <Form.Label className="fw-semibold small">{t('affiliation')}</Form.Label>
-                  <Form.Control name="affiliation" type="text" defaultValue={college?.affiliation || ''} className="py-2" />
-                </Form.Group>
-              </Col>
-              <Col xs={6}>
-                <Form.Group>
-                  <Form.Label className="fw-semibold small">{t('ranking')}</Form.Label>
-                  <Form.Control name="ranking" type="number" defaultValue={college?.ranking || 0} className="py-2" />
-                </Form.Group>
-              </Col>
-            </Row>
-          </Col>
-        </Row>
-
-        {/* Specializations & Links */}
-        <Row className="mb-4">
-          <Col md={6}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('specializationsRequired')}</Form.Label>
-              <Form.Control name="specializations" type="text" placeholder={t('specializationsPlaceholder')} defaultValue={college?.specializations || 'HR, Marketing, Finance, Operations'} className="py-2" />
-            </Form.Group>
-          </Col>
-          <Col md={6}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('applyNowLink')}</Form.Label>
-              <Form.Control name="applyNowLink" type="url" placeholder={t('urlPlaceholder')} defaultValue={college?.applyNowLink || ''} className="py-2" />
-            </Form.Group>
-          </Col>
-        </Row>
-
-        {/* Highlights */}
-        <div className="mb-4">
-          <Form.Label className="fw-bold" style={{color: '#15803d'}}>{t('highlights')}</Form.Label>
-          <div className="d-flex mb-2">
-            <Form.Control name="highlights" type="text" defaultValue={college?.highlights || ''} className="py-2 me-2" />
-            <Button variant="danger" className="px-3" type="button"><FaTrash /></Button>
-          </div>
-          <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
-            {t('addHighlights')}
-          </Button>
-        </div>
-
-        {/* Top Recruiters */}
-        <div className="mb-4">
-          <Form.Label className="fw-bold" style={{color: '#15803d'}}>{t('topRecruiters')}</Form.Label>
-          <div className="d-flex mb-2">
-            <Form.Control name="topRecruiters" type="text" defaultValue={college?.topRecruiters || ''} className="py-2 me-2" />
-            <Button variant="danger" className="px-3" type="button"><FaTrash /></Button>
-          </div>
-          <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
-            {t('addTopRecruiters')}
-          </Button>
-        </div>
-
-        {/* Admission Process */}
-        <div className="mb-4">
-          <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
-            {t('addAdmissionProcess')}
-          </Button>
-        </div>
-
-        {/* Courses */}
-        <div className="mb-4">
-          <Form.Label className="fw-bold d-block" style={{color: '#15803d'}}>
-            {t('courses')} <span className="text-danger fw-normal" style={{fontSize: '12px'}}>{t('coursesPrompt')}</span>
-          </Form.Label>
-          <Row className="mb-2">
-            <Col xs={3}>
-              <Form.Select name="courseName" className="py-2" defaultValue={college?.courseName || 'B.Tech'}>
-                <option value="B.Tech">{t('btech')}</option>
-                <option value="MBA">{t('mba')}</option>
-                <option value="MBBS">{t('mbbs')}</option>
-                <option value="BFA">{t('bfa')}</option>
-                <option value="PGDM">{t('pgdm')}</option>
-                <option value="B.Sc">{t('bsc')}</option>
-                <option value="B.Com">{t('bcom')}</option>
-                <option value="B.A">{t('ba')}</option>
-              </Form.Select>
-            </Col>
-            <Col xs={2}>
-              <Form.Control name="courseDuration" type="text" placeholder={t('durationPlaceholder')} defaultValue={college?.courseDuration || '2'} className="py-2" />
-            </Col>
-            <Col xs={2}>
-              <Form.Control name="courseFee" type="text" placeholder={t('feePlaceholder')} defaultValue={college?.courseFee || '1.68'} className="py-2" />
-            </Col>
-            <Col xs={3}>
-              <Form.Control name="courseEligibility" type="text" placeholder={t('eligibilityPlaceholder')} defaultValue={college?.courseEligibility || ''} className="py-2" />
-            </Col>
-            <Col xs={2}>
-              <Form.Control type="number" placeholder={t('rankingPlaceholder')} defaultValue="0" className="py-2" />
-            </Col>
-          </Row>
-          <Button variant="danger" className="w-100 mb-3 py-2 rounded-3 border-0" type="button"><FaTrash /></Button>
-          <Button variant="primary" size="sm" className="px-3 py-2 fw-semibold" style={{backgroundColor: '#2563eb', border: 'none'}} type="button">
-            {t('addCourse')}
-          </Button>
-        </div>
-
-        {/* Social Links */}
-        <Row className="mb-4">
-          <Col md={3}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('website')}</Form.Label>
-              <Form.Control name="website" type="url" defaultValue={college?.website || ''} className="py-2" />
-            </Form.Group>
-          </Col>
-          <Col md={3}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('facebook')}</Form.Label>
-              <Form.Control name="facebook" type="url" defaultValue={college?.facebook || ''} className="py-2" />
-            </Form.Group>
-          </Col>
-          <Col md={3}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('instagram')}</Form.Label>
-              <Form.Control name="instagram" type="url" defaultValue={college?.instagram || ''} className="py-2" />
-            </Form.Group>
-          </Col>
-          <Col md={3}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('linkedin')}</Form.Label>
-              <Form.Control name="linkedin" type="url" defaultValue={college?.linkedin || ''} className="py-2" />
-            </Form.Group>
-          </Col>
-        </Row>
-
-        {/* Uploads */}
-        <Row className="mb-5">
-          <Col md={12}>
-            <Form.Group>
-              <Form.Label className="fw-semibold small">{t('mainImageUrlRequired')}</Form.Label>
-              <Form.Control name="img" type="url" placeholder={t('urlPlaceholder')} defaultValue={college?.img || ''} className="py-2 mb-3" />
-              {college?.img && <img src={college.img} alt={t('mainAlt')} className="rounded border shadow-sm" style={{maxWidth: '200px', height: '120px', objectFit: 'cover'}}/>}
-            </Form.Group>
-          </Col>
-        </Row>
-
-        <Button type="submit" variant="success" className="w-100 py-3 fw-bold fs-5 rounded-1" style={{backgroundColor: '#16a34a', border: 'none'}}>
-          {college ? t('updateCollege') : t('saveCollege')}
-        </Button>
-
-      </Form>
-    </div>
-  );
-};
-
-export default Admin;
-
-const SiteSettingsForm = ({ siteData, onSave }) => {
-  const { t } = useTranslation();
-  const [formData, setFormData] = useState(JSON.parse(JSON.stringify(siteData)));
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    onSave(formData);
-    alert(t('siteSettingsUpdated', 'Site settings updated successfully!'));
-  }
-
-  const handleHeaderTabChange = (key, val) => {
-    setFormData(prev => ({
-      ...prev,
-      header: { ...prev.header, [key]: val.split(',').map(s => s.trim()) }
-    }));
-  };
-
-  const handleFooterChange = (key, val) => {
-    setFormData(prev => ({
-      ...prev,
-      footer: { ...prev.footer, [key]: val }
-    }));
-  };
-
-  const handleSocialChange = (key, val) => {
-    setFormData(prev => ({
-      ...prev,
-      footer: { ...prev.footer, social: { ...prev.footer.social, [key]: val } }
-    }));
-  };
-
-  const handleContactChange = (key, val) => {
-    setFormData(prev => ({
-      ...prev,
-      footer: { ...prev.footer, contactInfo: { ...prev.footer.contactInfo, [key]: val } }
-    }));
-  };
-
-  return (
-    <div>
-      <h4 className="fw-bold mb-4">{t('siteSettings')}</h4>
-      <Form onSubmit={handleSubmit}>
-        <h5 className="mb-3" style={{color: '#1c4ed8'}}>{t('headerMegaMenuTabs')}</h5>
-        <Card className="p-4 mb-4 border-0 shadow-sm">
-          <Row className="mb-3">
-            <Col md={6}>
-              <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">{t('mbaTabs')}</Form.Label>
-                <Form.Control as="textarea" rows={2} value={(formData.header.mbaTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('mbaTabs', e.target.value)} />
-              </Form.Group>
-              <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">{t('engineeringTabs')}</Form.Label>
-                <Form.Control as="textarea" rows={2} value={(formData.header.engTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('engTabs', e.target.value)} />
-              </Form.Group>
-              <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">{t('medicalTabs')}</Form.Label>
-                <Form.Control as="textarea" rows={2} value={(formData.header.medTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('medTabs', e.target.value)} />
-              </Form.Group>
-              <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">{t('designTabs')}</Form.Label>
-                <Form.Control as="textarea" rows={2} value={(formData.header.desTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('desTabs', e.target.value)} />
-              </Form.Group>
-            </Col>
-            <Col md={6}>
-              <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">{t('moreSarkariTabs')}</Form.Label>
-                <Form.Control as="textarea" rows={2} value={(formData.header.moreTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('moreTabs', e.target.value)} />
-              </Form.Group>
-              <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">{t('studyAbroadTabs')}</Form.Label>
-                <Form.Control as="textarea" rows={2} value={(formData.header.studyTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('studyTabs', e.target.value)} />
-              </Form.Group>
-              <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">{t('counselingTabs')}</Form.Label>
-                <Form.Control as="textarea" rows={2} value={(formData.header.counselingTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('counselingTabs', e.target.value)} />
-              </Form.Group>
-              <Form.Group className="mb-3">
-                <Form.Label className="small fw-semibold">{t('onlineTabs')}</Form.Label>
-                <Form.Control as="textarea" rows={2} value={(formData.header.onlineTabs || []).join(', ')} onChange={(e) => handleHeaderTabChange('onlineTabs', e.target.value)} />
-              </Form.Group>
-            </Col>
-          </Row>
-        </Card>
-
-        <h5 className="mb-3 mt-4" style={{color: '#1c4ed8'}}>{t('footerSettings')}</h5>
-        <Card className="p-4 mb-4 border-0 shadow-sm">
-          <Form.Group className="mb-4">
-            <Form.Label className="small fw-semibold">{t('description')}</Form.Label>
-            <Form.Control as="textarea" rows={2} value={formData.footer.description || ''} onChange={(e) => handleFooterChange('description', e.target.value)} />
-          </Form.Group>
-
-          <Row className="mb-3">
-            <Col md={6}>
-               <h6 className="fw-semibold mb-3">{t('contactInfo')}</h6>
-               <Form.Group className="mb-2">
-                 <Form.Label className="small">{t('address')}</Form.Label>
-                 <Form.Control type="text" value={formData.footer.contactInfo?.address || ''} onChange={(e) => handleContactChange('address', e.target.value)} />
-               </Form.Group>
-               <Form.Group className="mb-2">
-                 <Form.Label className="small">{t('phone')}</Form.Label>
-                 <Form.Control type="text" value={formData.footer.contactInfo?.phone || ''} onChange={(e) => handleContactChange('phone', e.target.value)} />
-               </Form.Group>
-               <Form.Group className="mb-2">
-                 <Form.Label className="small">{t('email')}</Form.Label>
-                 <Form.Control type="text" value={formData.footer.contactInfo?.email || ''} onChange={(e) => handleContactChange('email', e.target.value)} />
-               </Form.Group>
-            </Col>
-            <Col md={6}>
-               <h6 className="fw-semibold mb-3">{t('socialLinks')}</h6>
-               <Form.Group className="mb-2">
-                 <Form.Label className="small">{t('facebook')}</Form.Label>
-                 <Form.Control type="url" value={formData.footer.social?.facebook || ''} onChange={(e) => handleSocialChange('facebook', e.target.value)} />
-               </Form.Group>
-               <Form.Group className="mb-2">
-                 <Form.Label className="small">{t('twitter')}</Form.Label>
-                 <Form.Control type="url" value={formData.footer.social?.twitter || ''} onChange={(e) => handleSocialChange('twitter', e.target.value)} />
-               </Form.Group>
-               <Form.Group className="mb-2">
-                 <Form.Label className="small">{t('instagram')}</Form.Label>
-                 <Form.Control type="url" value={formData.footer.social?.instagram || ''} onChange={(e) => handleSocialChange('instagram', e.target.value)} />
-               </Form.Group>
-               <Form.Group className="mb-2">
-                 <Form.Label className="small">{t('linkedin')}</Form.Label>
-                 <Form.Control type="url" value={formData.footer.social?.linkedin || ''} onChange={(e) => handleSocialChange('linkedin', e.target.value)} />
-               </Form.Group>
-            </Col>
-          </Row>
-        </Card>
-
-        <Button type="submit" variant="success" className="w-100 py-3 fw-bold fs-5 rounded-1" style={{backgroundColor: '#16a34a', border: 'none'}}>
-          {t('saveSettings')}
-        </Button>
-      </Form>
-    </div>
-  );
-};
-
-const BulkUploadForm = ({ onSave }) => {
-  const { t } = useTranslation();
-  const [file, setFile] = useState(null);
+  // Excel Upload States
+  const [excelFile, setExcelFile] = useState(null);
+  const [excelHeaders, setExcelHeaders] = useState([]);
+  const [excelRows, setExcelRows] = useState([]);
+  const [columnMapping, setColumnMapping] = useState({});
+  const [importPreview, setImportPreview] = useState([]);
+  const [importReport, setImportReport] = useState(null);
+  const [showMappingPanel, setShowMappingPanel] = useState(false);
+  const [showPreviewModal, setShowPreviewModal] = useState(false);
+  const [excelErrorLogs, setExcelErrorLogs] = useState([]);
   
-  const handleFileChange = (e) => {
-    setFile(e.target.files[0]);
+  // Student Detail View States
+  const [selectedStudent, setSelectedStudent] = useState(null);
+  const [studentSearch, setStudentSearch] = useState('');
+  const [studentFilterState, setStudentFilterState] = useState('');
+  const [studentFilterCourse, setStudentFilterCourse] = useState('');
+  const [studentNotesInput, setStudentNotesInput] = useState('');
+
+
+  // Student Detail View States
+
+  // Seeding logs on tab visit
+  useEffect(() => {
+    if (currentUser) {
+      logActivity(currentUser.name, currentUser.role, "Page Visit", `Visited Admin panel tab [${activeTab}]`);
+    }
+  }, [activeTab]);
+
+  // Standard staff permission helper
+  const hasAccess = (requiredRole) => {
+    if (!currentUser) return false;
+    const roleHierarchy = {
+      'viewer': 1,
+      'operator': 2,
+      'admin': 3,
+      'superadmin': 4
+    };
+    return roleHierarchy[currentUser.role.toLowerCase()] >= roleHierarchy[requiredRole.toLowerCase()];
   };
 
-  const handleUpload = () => {
-    if (!file) return alert(t('selectFileFirst'));
+  // 1. Excel parsing & mapping
+  const handleExcelFileChange = (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    setExcelFile(file);
+    setExcelErrorLogs([]);
+    setImportReport(null);
+
     const reader = new FileReader();
-    reader.onload = (e) => {
+    reader.onload = (evt) => {
       try {
-        const data = e.target.result;
-        const workbook = XLSX.read(data, { type: 'binary' });
-        const sheetName = workbook.SheetNames[0];
-        const worksheet = workbook.Sheets[sheetName];
-        const rawData = XLSX.utils.sheet_to_json(worksheet);
+        const bstr = evt.target.result;
+        const wb = XLSX.read(bstr, { type: 'binary' });
+        const wsname = wb.SheetNames[0];
+        const ws = wb.Sheets[wsname];
+        const rawRows = XLSX.utils.sheet_to_json(ws, { header: 1 });
+        
+        if (rawRows.length > 0) {
+          const headers = rawRows[0];
+          setExcelHeaders(headers);
+          
+          // Parse data rows
+          const dataRows = XLSX.utils.sheet_to_json(ws);
+          setExcelRows(dataRows);
 
-        const mappedData = rawData.map((item, index) => {
-          const images = [
-            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
-            "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?auto=format&fit=crop&q=80&w=400",
-            "https://images.unsplash.com/photo-1590408546194-e3fb4b917531?auto=format&fit=crop&q=80&w=400"
-          ];
-          const randomImage = images.at(index % images.length);
-
-          return {
-            id: Date.now() + index,
-            name: item['Name'] || 'Unknown College',
-            shortName: item['Code'] || item['Short Name'] || (item['Name'] ? item['Name'].substring(0, 5).toUpperCase() : 'COLLEGE'),
-            location: item['Location'] || item['District/City'] || 'India',
-            state: item['State'] || 'Unknown',
-            address: item['Address'] || 'Unknown',
-            phone: item['Phone'] || "0123-456789",
-            website: item['Website'] || "http://www.college.edu",
-            rating: item['Rating'] || 4.5,
-            reviews: item['Reviews'] || Math.floor(Math.random() * 500) + 50,
-            type: item['Type'] || 'Private',
-            about: item['About'] || `Welcome to ${item['Name'] || 'our college'}. We offer world-class education.`,
-            ranking: item['Ranking'] || Math.floor(Math.random() * 100) + 1,
-            fees: item['Fees'] || "₹2.5 Lakhs",
-            exams: item['Exams'] || "Direct Admission",
-            img: item['Image URL'] || `https://loremflickr.com/400/300/college,campus?random=${index}`,
-            gallery: [randomImage],
-            courses: [
-              {
-                title: item['Course Name'] || 'B.Tech',
-                duration: item['Course Duration'] || "4 Years",
-                fees: item['Course Fees'] || "₹2.5 Lakhs",
-                eligibility: item['Course Eligibility'] || "10+2"
-              }
-            ]
-          };
-        });
-
-        onSave(mappedData);
-      } catch (error) {
-        console.error(error);
-        alert(t('errorParsingExcel'));
+          // Guess mappings
+          const initialMap = {};
+          const dbFields = ['Name', 'Short Name', 'Location', 'State', 'Type', 'Established', 'Fees', 'Entrance Exam', 'Average CTC'];
+          dbFields.forEach(field => {
+            const match = headers.find(h => String(h).toLowerCase().replace(/\s+/g, '').includes(field.toLowerCase().replace(/\s+/g, '')));
+            if (match) initialMap[field] = match;
+          });
+          setColumnMapping(initialMap);
+          setShowMappingPanel(true);
+        }
+      } catch (err) {
+        alert("Error parsing Excel: " + err.message);
       }
     };
     reader.readAsBinaryString(file);
   };
 
-  const handleDownloadSample = () => {
-    const sampleData = [
-      {
-        'Name': 'Sample College of Engineering',
-        'Code': 'SCE',
-        'Location': 'Bengaluru',
-        'State': 'Karnataka',
-        'Address': '123 Main St, Bengaluru',
-        'Type': 'Private',
-        'Ranking': 15,
-        'Rating': 4.5,
-        'Course Name': 'B.Tech Computer Science',
-        'Course Duration': '4 Years',
-        'Course Fees': '8 Lakhs',
-        'Course Eligibility': '10+2 with 60%',
-        'Image URL': 'https://loremflickr.com/400/300/college'
-      }
-    ];
-
-    const ws = XLSX.utils.json_to_sheet(sampleData);
-    const wb = XLSX.utils.book_new();
-    XLSX.utils.book_append_sheet(wb, ws, "Colleges");
-    XLSX.writeFile(wb, "Sample_Colleges_Upload.xlsx");
+  const handleMappingChange = (field, excelHeader) => {
+    setColumnMapping(prev => ({ ...prev, [field]: excelHeader }));
   };
 
-  return (
-    <Card className="p-4 border-0 shadow-sm">
-      <h4 className="fw-bold mb-4" style={{color: '#1a43bf'}}>{t('bulkUploadColleges')}</h4>
-      <p className="text-secondary mb-4">
-        {t('bulkUploadPrompt')}
-      </p>
+  const proceedToImportPreview = () => {
+    // Compile preview data based on mapping
+    const parsedData = excelRows.map((row, index) => {
+      const nameVal = row[columnMapping['Name']] || '';
+      const locationVal = row[columnMapping['Location']] || '';
+      const stateVal = row[columnMapping['State']] || '';
       
-      <div className="mb-4">
-        <Button variant="outline-primary" onClick={handleDownloadSample} className="d-flex align-items-center">
-          <FaUpload className="me-2" /> {t('downloadSampleExcel')}
-        </Button>
+      // Validation checks
+      const errors = [];
+      if (!nameVal) errors.push("Missing College Name");
+      if (!locationVal) errors.push("Missing Location");
+      if (!stateVal) errors.push("Missing State");
+
+      // Check duplicates
+      const isDuplicate = colleges.some(c => c.name.toLowerCase().trim() === String(nameVal).toLowerCase().trim());
+
+      return {
+        id: index + 1,
+        name: nameVal,
+        shortName: row[columnMapping['Short Name']] || String(nameVal).substring(0, 5).toUpperCase(),
+        location: locationVal,
+        state: stateVal,
+        type: row[columnMapping['Type']] || 'Private',
+        established: row[columnMapping['Established']] || 'Unknown',
+        fees: row[columnMapping['Fees']] || '₹2.5 Lakhs',
+        exams: row[columnMapping['Entrance Exam']] || 'Direct Admission',
+        averagePackage: row[columnMapping['Average CTC']] || 'Contact for details',
+        errors,
+        isDuplicate
+      };
+    });
+
+    setImportPreview(parsedData);
+    setShowPreviewModal(true);
+  };
+
+  const executeBulkImport = () => {
+    if (!hasAccess('operator')) {
+      alert("Permission Denied: Data Entry Operators and higher roles only.");
+      return;
+    }
+
+    let successCount = 0;
+    let failedCount = 0;
+    const failures = [];
+
+    importPreview.forEach(item => {
+      if (item.errors.length > 0) {
+        failedCount++;
+        failures.push({ name: item.name || `Row ${item.id}`, reason: item.errors.join(', ') });
+      } else {
+        successCount++;
+        // Add to global state
+        addCollege({
+          name: item.name,
+          shortName: item.shortName,
+          location: item.location,
+          state: item.state,
+          type: item.type,
+          established: item.established,
+          fees: item.fees,
+          exams: item.exams,
+          averagePackage: item.averagePackage,
+          rating: 4.2,
+          reviews: 15,
+          mapUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.name + ' ' + item.location)}`,
+          about: `Welcome to ${item.name}. Detailed profile uploaded via Excel.`,
+          img: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400"
+        });
+      }
+    });
+
+    setExcelErrorLogs(failures);
+    setImportReport({ success: successCount, failed: failedCount });
+    setShowPreviewModal(false);
+    setShowMappingPanel(false);
+    setExcelFile(null);
+
+    logActivity(
+      currentUser.name,
+      currentUser.role,
+      "Excel Upload",
+      `Bulk imported ${successCount} colleges. Mappings applied successfully. ${failedCount} rows failed.`
+    );
+  };
+
+  const downloadSampleTemplate = () => {
+    const headers = [['Name', 'Code', 'Location', 'State', 'Type', 'Established', 'Fees', 'Entrance Exam', 'Average CTC']];
+    const sampleRows = [
+      ['Global College of Engineering', 'GCE', 'Bangalore', 'Karnataka', 'Private', '2010', '₹3.5 Lakhs/Year', 'COMEDK, JEE Main', '₹8 LPA'],
+      ['National Science Institute', 'NSI', 'Pune', 'Maharashtra', 'Government', '1995', '₹80,000/Year', 'MHT CET', '₹12 LPA']
+    ];
+    const ws = XLSX.utils.aoa_to_sheet([...headers, ...sampleRows]);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Template");
+    XLSX.writeFile(wb, "Colleges_Import_Template.xlsx");
+  };
+
+  const handleExportFiltered = () => {
+    const exportData = colleges.map(c => ({
+      ID: c.id,
+      Name: c.name,
+      'Short Name': c.shortName,
+      Location: c.location,
+      State: c.state,
+      Type: c.type,
+      Established: c.established || 'N/A',
+      Fees: c.fees,
+      Exams: c.exams,
+      Rating: c.rating,
+      'Average Placement CTC': c.averagePackage
+    }));
+    
+    const ws = XLSX.utils.json_to_sheet(exportData);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Colleges Report");
+    XLSX.writeFile(wb, "Colleges_Directory_Export.xlsx");
+    logActivity(currentUser.name, currentUser.role, "Excel Export", "Downloaded filtered colleges Excel report.");
+  };
+
+  // 2. Manual CRUD handlers
+  const handleSaveCollegeForm = (e) => {
+    e.preventDefault();
+    if (!hasAccess('operator')) {
+      alert("Permission Denied: Data Entry Operators and higher only.");
+      return;
+    }
+
+    const fd = new FormData(e.target);
+    const collegeData = {
+      name: fd.get('name'),
+      shortName: fd.get('shortName'),
+      location: fd.get('location'),
+      state: fd.get('state'),
+      address: fd.get('address'),
+      phone: fd.get('phone'),
+      website: fd.get('website'),
+      rating: parseFloat(fd.get('rating') || '4.5'),
+      type: fd.get('type'),
+      about: fd.get('about'),
+      ranking: parseInt(fd.get('ranking') || '100'),
+      fees: fd.get('fees'),
+      exams: fd.get('exams'),
+      highestPackage: fd.get('highestPackage'),
+      averagePackage: fd.get('averagePackage'),
+      placements: fd.get('placements'),
+      img: fd.get('img') || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
+      topRecruiters: fd.get('topRecruiters'),
+      highlights: fd.get('highlights'),
+      facilities: fd.get('facilities'),
+      admissionProcess: fd.get('admissionProcess'),
+      brochureLink: fd.get('brochureLink')
+    };
+
+    if (editingCollege) {
+      updateCollege(editingCollege.id, collegeData);
+      logActivity(currentUser.name, currentUser.role, "Admin Action", `Updated college profile manually: ${collegeData.name}`);
+    } else {
+      addCollege(collegeData);
+      logActivity(currentUser.name, currentUser.role, "Admin Action", `Created college profile manually: ${collegeData.name}`);
+    }
+
+    setShowCollegeForm(false);
+    setEditingCollege(null);
+  };
+
+  const triggerEdit = (c) => {
+    if (!hasAccess('operator')) return alert("Permission Denied.");
+    setEditingCollege(c);
+    setShowCollegeForm(true);
+  };
+
+  const triggerDelete = (id, name) => {
+    if (!hasAccess('admin')) return alert("Permission Denied: Only Admins/Super Admins can delete entries.");
+    if (window.confirm(`Are you sure you want to delete ${name}?`)) {
+      deleteCollege(id);
+      logActivity(currentUser.name, currentUser.role, "Admin Action", `Deleted college profile manually: ${name}`);
+    }
+  };
+
+  // Remove duplicates utility
+  const removeDuplicatesManually = () => {
+    if (!hasAccess('admin')) return alert("Permission Denied.");
+    const names = new Set();
+    const duplicates = [];
+    colleges.forEach(c => {
+      const cleanName = c.name.toLowerCase().trim();
+      if (names.has(cleanName)) {
+        duplicates.push(c);
+      } else {
+        names.add(cleanName);
+      }
+    });
+
+    if (duplicates.length === 0) {
+      alert("No duplicate college records found!");
+      return;
+    }
+
+    if (window.confirm(`Found ${duplicates.length} duplicate entries based on names. Delete duplicates automatically?`)) {
+      duplicates.forEach(d => deleteCollege(d.id));
+      logActivity(currentUser.name, currentUser.role, "Admin Action", `De-duplicated college dataset. Removed ${duplicates.length} entries.`);
+      alert(`Successfully cleaned database. Removed ${duplicates.length} duplicate items.`);
+    }
+  };
+
+  // Student list logic
+  const filteredStudents = students.filter(s => {
+    const matchesSearch = s.name.toLowerCase().includes(studentSearch.toLowerCase()) || 
+                          s.email.toLowerCase().includes(studentSearch.toLowerCase()) ||
+                          s.mobile.includes(studentSearch);
+    const matchesState = studentFilterState ? s.state === studentFilterState : true;
+    const matchesCourse = studentFilterCourse ? s.courseInterest === studentFilterCourse : true;
+    return matchesSearch && matchesState && matchesCourse;
+  });
+
+  const selectStudentForDetail = (s) => {
+    setSelectedStudent(s);
+    setStudentNotesInput(s.adminNotes || '');
+  };
+
+  const saveStudentNotes = () => {
+    if (!hasAccess('operator')) return alert("Permission Denied.");
+    updateStudentNotes(selectedStudent.id, studentNotesInput);
+    setSelectedStudent(prev => ({ ...prev, adminNotes: studentNotesInput }));
+    alert("Admin notes saved successfully!");
+  };
+
+  // Check locking
+  if (!currentUser || currentUser.role === 'student') {
+    return (
+      <Container className="py-5 text-center">
+        <Card className="p-5 mx-auto border-0 shadow-sm" style={{ maxWidth: '500px' }}>
+          <FaUserShield size={60} className="text-danger mb-4 mx-auto" />
+          <h4 className="fw-bold text-dark">Access Locked</h4>
+          <p className="text-secondary">
+            The Admin Panel is reserved for staff users (Super Admins, Managers, and Data Operators). 
+            Please select a staff role from the login dropdown in the header to log in.
+          </p>
+        </Card>
+      </Container>
+    );
+  }
+
+  return (
+    <div style={{ minHeight: '100vh', backgroundColor: '#f8f9fa' }}>
+      {/* Admin Title Banner */}
+      <div className="bg-white border-bottom px-4 py-3 d-flex flex-wrap align-items-center justify-content-between">
+        <div>
+          <h4 className="fw-bold mb-1 text-primary d-flex align-items-center">
+            <FaUserShield className="me-2 text-warning" /> COLLEGE_SEARCH Management Console
+          </h4>
+          <span className="text-muted small">Active User: <strong>{currentUser.name}</strong> ({currentUser.role.toUpperCase()})</span>
+        </div>
+        <div className="d-flex gap-2 mt-2 mt-md-0">
+          <Button size="sm" variant="outline-primary" className="fw-bold rounded-pill" onClick={downloadSampleTemplate}>
+            <FaDownload className="me-1" /> Template
+          </Button>
+          <Button size="sm" variant="success" className="fw-bold rounded-pill" onClick={handleExportFiltered}>
+            <FaFileExcel className="me-1" /> Export Data
+          </Button>
+        </div>
       </div>
 
-      <Form.Group controlId="formFile" className="mb-4">
-        <Form.Label className="fw-semibold">{t('selectExcelFile')}</Form.Label>
-        <Form.Control type="file" accept=".xlsx, .xls" onChange={handleFileChange} />
-      </Form.Group>
+      <Row className="g-0">
+        {/* Sidebar */}
+        <Col md={2} className="bg-white border-end" style={{ minHeight: 'calc(100vh - 80px)' }}>
+          <div className="p-3">
+            <Nav className="flex-column nav-pills gap-1">
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'dashboard' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('dashboard')}
+              >
+                㗊 Dashboard
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'colleges' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('colleges')}
+              >
+                🏢 Colleges CRUD
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'excel' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('excel')}
+              >
+                📂 Excel Center
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'students' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('students')}
+              >
+                🎓 Student Profiles
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'reviews' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('reviews')}
+              >
+                📝 Review Moderation
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'activity' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('activity')}
+              >
+                📊 Activity Logs
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'reports' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('reports')}
+              >
+                📋 Reports Center
+              </Nav.Link>
+            </Nav>
+          </div>
+        </Col>
 
-      <Button variant="success" onClick={handleUpload} disabled={!file} className="px-4 py-2 fw-bold d-flex align-items-center" style={{backgroundColor: '#16a34a'}}>
-        <FaUpload className="me-2" /> {t('uploadAndImport')}
-      </Button>
-    </Card>
+        {/* Workspace Panel */}
+        <Col md={10} className="p-4">
+          
+          {/* TAB 1: DASHBOARD */}
+          {activeTab === 'dashboard' && (
+            <div>
+              <Row className="g-3 mb-4">
+                <Col md={3}>
+                  <Card className="border-0 shadow-sm p-4 bg-primary text-white">
+                    <div className="d-flex justify-content-between align-items-center">
+                      <div>
+                        <div className="small opacity-75">TOTAL STUDENTS</div>
+                        <h2 className="fw-bold mt-1">{students.length}</h2>
+                      </div>
+                      <FaUserGraduate size={32} className="opacity-50" />
+                    </div>
+                  </Card>
+                </Col>
+                <Col md={3}>
+                  <Card className="border-0 shadow-sm p-4 bg-success text-white">
+                    <div className="d-flex justify-content-between align-items-center">
+                      <div>
+                        <div className="small opacity-75">TOTAL COLLEGES</div>
+                        <h2 className="fw-bold mt-1">{colleges.length}</h2>
+                      </div>
+                      <FaSchool size={32} className="opacity-50" />
+                    </div>
+                  </Card>
+                </Col>
+                <Col md={3}>
+                  <Card className="border-0 shadow-sm p-4 bg-warning text-dark">
+                    <div className="d-flex justify-content-between align-items-center">
+                      <div>
+                        <div className="small opacity-75">PENDING REVIEWS</div>
+                        <h2 className="fw-bold mt-1">{reviews.filter(r => r.status === 'PENDING').length}</h2>
+                      </div>
+                      <FaExclamationTriangle size={32} className="opacity-50" />
+                    </div>
+                  </Card>
+                </Col>
+                <Col md={3}>
+                  <Card className="border-0 shadow-sm p-4 bg-info text-white">
+                    <div className="d-flex justify-content-between align-items-center">
+                      <div>
+                        <div className="small opacity-75">TOTAL SYSTEM LOGS</div>
+                        <h2 className="fw-bold mt-1">{activityLogs.length}</h2>
+                      </div>
+                      <FaHistory size={32} className="opacity-50" />
+                    </div>
+                  </Card>
+                </Col>
+              </Row>
+
+              <Row className="g-4">
+                {/* Recent activity timeline */}
+                <Col lg={7}>
+                  <Card className="border-0 shadow-sm p-4 mb-4">
+                    <h5 className="fw-bold mb-3 text-primary">Live Activity Log</h5>
+                    <div className="timeline-wrapper" style={{ maxHeight: '380px', overflowY: 'auto' }}>
+                      {activityLogs.map((log, index) => (
+                        <div key={log.id || index} className="border-bottom pb-2 mb-2 small">
+                          <span className="text-muted">[{log.timestamp}]</span>{" "}
+                          <Badge bg="light" text="dark">{log.role}</Badge>{" "}
+                          <strong>{log.user}</strong>: <span className="text-secondary">{log.details}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </Card>
+                </Col>
+
+                {/* Import Failures and approvals status */}
+                <Col lg={5}>
+                  <Card className="border-0 shadow-sm p-4 mb-4">
+                    <h5 className="fw-bold mb-3 text-danger">Excel Import Failed Logs</h5>
+                    {excelErrorLogs.length === 0 ? (
+                      <Alert variant="success" className="py-2 small">No failed records logged during this session.</Alert>
+                    ) : (
+                      <div style={{ maxHeight: '250px', overflowY: 'auto' }}>
+                        {excelErrorLogs.map((fail, i) => (
+                          <div key={i} className="p-2 border rounded mb-2 bg-light small">
+                            <strong className="text-dark">{fail.name}</strong><br/>
+                            <span className="text-danger">{fail.reason}</span>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </Card>
+
+                  <Card className="border-0 shadow-sm p-4">
+                    <h5 className="fw-bold mb-2 text-dark">Data Audit Statistics</h5>
+                    <div className="small text-secondary mb-3">Total records uploaded via portal and bulk importer.</div>
+                    <div className="mb-2">
+                      <div className="d-flex justify-content-between small fw-medium">
+                        <span>Clean/Valid Entries</span>
+                        <span>{Math.floor(colleges.length * 0.98)} / {colleges.length}</span>
+                      </div>
+                      <ProgressBar now={98} variant="success" style={{ height: '6px' }} />
+                    </div>
+                    <div>
+                      <div className="d-flex justify-content-between small fw-medium">
+                        <span>Duplicate Check Clean Rate</span>
+                        <span>100%</span>
+                      </div>
+                      <ProgressBar now={100} variant="info" style={{ height: '6px' }} />
+                    </div>
+                  </Card>
+                </Col>
+              </Row>
+            </div>
+          )}
+
+          {/* TAB 2: COLLEGES CRUD */}
+          {activeTab === 'colleges' && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1">Manual Portal Management</h4>
+                  <p className="text-secondary small">Add, edit, delete college profiles, course listings, fee structures, and placement CTC packages.</p>
+                </div>
+                <div className="d-flex gap-2">
+                  <Button variant="danger" size="sm" onClick={removeDuplicatesManually}>
+                    <FaTimes className="me-1" /> De-duplicate DB
+                  </Button>
+                  <Button variant="primary" onClick={() => { setEditingCollege(null); setShowCollegeForm(true); }}>
+                    <FaPlus className="me-1" /> Add College Profile
+                  </Button>
+                </div>
+              </div>
+
+              {showCollegeForm ? (
+                <Card className="border-0 shadow-sm p-4 mb-4">
+                  <h5 className="fw-bold text-primary mb-4">{editingCollege ? "Edit College Profile" : "Create New College Entry"}</h5>
+                  <Form onSubmit={handleSaveCollegeForm}>
+                    <Row className="g-3 mb-3">
+                      <Col md={6}>
+                        <Form.Label className="small fw-semibold">College Name (Required)</Form.Label>
+                        <Form.Control name="name" defaultValue={editingCollege?.name || ''} required />
+                      </Col>
+                      <Col md={6}>
+                        <Form.Label className="small fw-semibold">Short Code Name (Required)</Form.Label>
+                        <Form.Control name="shortName" defaultValue={editingCollege?.shortName || ''} required />
+                      </Col>
+                    </Row>
+                    <Row className="g-3 mb-3">
+                      <Col md={4}>
+                        <Form.Label className="small fw-semibold">District/City</Form.Label>
+                        <Form.Control name="location" defaultValue={editingCollege?.location || ''} required />
+                      </Col>
+                      <Col md={4}>
+                        <Form.Label className="small fw-semibold">State</Form.Label>
+                        <Form.Control name="state" defaultValue={editingCollege?.state || ''} required />
+                      </Col>
+                      <Col md={4}>
+                        <Form.Label className="small fw-semibold">Established Year</Form.Label>
+                        <Form.Control name="established" defaultValue={editingCollege?.established || ''} />
+                      </Col>
+                    </Row>
+                    <Row className="g-3 mb-3">
+                      <Col md={3}>
+                        <Form.Label className="small fw-semibold">Ownership Type</Form.Label>
+                        <Form.Select name="type" defaultValue={editingCollege?.type || 'Private'}>
+                          <option value="Government">Government</option>
+                          <option value="Private">Private</option>
+                          <option value="Autonomous">Autonomous</option>
+                        </Form.Select>
+                      </Col>
+                      <Col md={3}>
+                        <Form.Label className="small fw-semibold">NIRF / State Ranking</Form.Label>
+                        <Form.Control type="number" name="ranking" defaultValue={editingCollege?.ranking || ''} />
+                      </Col>
+                      <Col md={3}>
+                        <Form.Label className="small fw-semibold">Rating</Form.Label>
+                        <Form.Control type="number" step="0.1" name="rating" defaultValue={editingCollege?.rating || '4.5'} />
+                      </Col>
+                      <Col md={3}>
+                        <Form.Label className="small fw-semibold">Affiliated University</Form.Label>
+                        <Form.Control name="affiliation" defaultValue={editingCollege?.affiliation || ''} />
+                      </Col>
+                    </Row>
+                    <Row className="g-3 mb-3">
+                      <Col md={4}>
+                        <Form.Label className="small fw-semibold">Estimated Course Fees</Form.Label>
+                        <Form.Control name="fees" placeholder="e.g. ₹2.5 Lakhs/Year" defaultValue={editingCollege?.fees || ''} />
+                      </Col>
+                      <Col md={4}>
+                        <Form.Label className="small fw-semibold">Exams Accepted</Form.Label>
+                        <Form.Control name="exams" placeholder="e.g. JEE Main, CAT" defaultValue={editingCollege?.exams || ''} />
+                      </Col>
+                      <Col md={4}>
+                        <Form.Label className="small fw-semibold">Website</Form.Label>
+                        <Form.Control type="url" name="website" defaultValue={editingCollege?.website || ''} />
+                      </Col>
+                    </Row>
+                    <Row className="g-3 mb-3">
+                      <Col md={4}>
+                        <Form.Label className="small fw-semibold">Highest Package (CTC)</Form.Label>
+                        <Form.Control name="highestPackage" placeholder="e.g. ₹42 LPA" defaultValue={editingCollege?.highestPackage || ''} />
+                      </Col>
+                      <Col md={4}>
+                        <Form.Label className="small fw-semibold">Average Package (CTC)</Form.Label>
+                        <Form.Control name="averagePackage" placeholder="e.g. ₹7.5 LPA" defaultValue={editingCollege?.averagePackage || ''} />
+                      </Col>
+                      <Col md={4}>
+                        <Form.Label className="small fw-semibold">Placement Rate %</Form.Label>
+                        <Form.Control name="placements" placeholder="e.g. 95%" defaultValue={editingCollege?.placements || ''} />
+                      </Col>
+                    </Row>
+                    <Row className="g-3 mb-4">
+                      <Col md={6}>
+                        <Form.Label className="small fw-semibold">Highlights (Comma separated)</Form.Label>
+                        <Form.Control name="highlights" defaultValue={editingCollege?.highlights || ''} />
+                      </Col>
+                      <Col md={6}>
+                        <Form.Label className="small fw-semibold">Top Recruiters (Comma separated)</Form.Label>
+                        <Form.Control name="topRecruiters" defaultValue={editingCollege?.topRecruiters || ''} />
+                      </Col>
+                    </Row>
+                    <Form.Group className="mb-4">
+                      <Form.Label className="small fw-semibold">About College Description</Form.Label>
+                      <Form.Control as="textarea" rows={3} name="about" defaultValue={editingCollege?.about || ''} />
+                    </Form.Group>
+                    <div className="d-flex gap-2">
+                      <Button type="submit" variant="success" className="px-4">Save Entry</Button>
+                      <Button variant="outline-secondary" onClick={() => { setShowCollegeForm(false); setEditingCollege(null); }}>Cancel</Button>
+                    </div>
+                  </Form>
+                </Card>
+              ) : (
+                <Card className="border-0 shadow-sm p-4">
+                  <div className="table-responsive" style={{ maxHeight: '500px', overflowY: 'auto' }}>
+                    <Table hover className="align-middle">
+                      <thead className="table-light">
+                        <tr>
+                          <th>Name</th>
+                          <th>Location</th>
+                          <th>Rating</th>
+                          <th>Fees</th>
+                          <th>Average CTC</th>
+                          <th>Type</th>
+                          <th className="text-end">Actions</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {colleges.map(c => (
+                          <tr key={c.id}>
+                            <td className="fw-semibold text-primary">{c.name} ({c.shortName})</td>
+                            <td>{c.location}, {c.state}</td>
+                            <td><Badge bg="warning" text="dark">★ {c.rating}</Badge></td>
+                            <td>{c.fees}</td>
+                            <td>{c.averagePackage || c.average_package || "N/A"}</td>
+                            <td><Badge bg="light" text="dark" className="border">{c.type}</Badge></td>
+                            <td className="text-end">
+                              <Button variant="link" size="sm" className="me-2 p-0 text-info" onClick={() => triggerEdit(c)}><FaEdit size={16}/></Button>
+                              <Button variant="link" size="sm" className="p-0 text-danger" onClick={() => triggerDelete(c.id, c.name)}><FaTrash size={16}/></Button>
+                            </td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </Table>
+                  </div>
+                </Card>
+              )}
+            </div>
+          )}
+
+          {/* TAB 3: EXCEL CENTER */}
+          {activeTab === 'excel' && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1">Bulk Excel Importer & Exporter</h4>
+                  <p className="text-secondary small">Upload files, configure custom column headers mapping, preview data integrity, and run batch duplicate checkers.</p>
+                </div>
+              </div>
+
+              {importReport && (
+                <Alert variant="success" dismissible onClose={() => setImportReport(null)}>
+                  <h6 className="fw-bold">Bulk Processing Complete!</h6>
+                  <ul>
+                    <li>Successfully Imported: <strong>{importReport.success}</strong> records</li>
+                    <li>Skipped/Failed Errors: <strong>{importReport.failed}</strong> records</li>
+                  </ul>
+                  <small className="d-block mt-1">Review the dashboard "Failed Logs" section for row error details.</small>
+                </Alert>
+              )}
+
+              <Card className="border-0 shadow-sm p-4 mb-4">
+                <h5 className="fw-bold text-primary mb-3">1. Upload Excel File</h5>
+                <Form.Group className="mb-3">
+                  <Form.Label className="small text-muted">Select college data spreadsheet (.xlsx, .xls)</Form.Label>
+                  <Form.Control type="file" accept=".xlsx, .xls" onChange={handleExcelFileChange} />
+                </Form.Group>
+              </Card>
+
+              {showMappingPanel && (
+                <Card className="border-0 shadow-sm p-4 mb-4">
+                  <h5 className="fw-bold text-success mb-3"><FaCog className="me-2" /> 2. Column Mapping Configuration</h5>
+                  <p className="text-muted small">Match the database fields on the left with your uploaded Excel headers on the right.</p>
+                  
+                  <Row className="g-3 mb-4">
+                    {[
+                      { field: 'Name', label: 'College Name*' },
+                      { field: 'Short Name', label: 'Short Code' },
+                      { field: 'Location', label: 'District/City*' },
+                      { field: 'State', label: 'State*' },
+                      { field: 'Type', label: 'Ownership Type' },
+                      { field: 'Established', label: 'Establishment Year' },
+                      { field: 'Fees', label: 'Annual Fees' },
+                      { field: 'Entrance Exam', label: 'Entrance Exams' },
+                      { field: 'Average CTC', label: 'Average CTC Package' }
+                    ].map(item => (
+                      <Col md={4} key={item.field}>
+                        <Form.Label className="small fw-semibold">{item.label}</Form.Label>
+                        <Form.Select 
+                          value={columnMapping[item.field] || ''} 
+                          onChange={(e) => handleMappingChange(item.field, e.target.value)}
+                        >
+                          <option value="">-- Ignore Field --</option>
+                          {excelHeaders.map(h => <option key={h} value={h}>{h}</option>)}
+                        </Form.Select>
+                      </Col>
+                    ))}
+                  </Row>
+
+                  <Button variant="success" className="px-4" onClick={proceedToImportPreview}>
+                    Verify Data & Preview
+                  </Button>
+                </Card>
+              )}
+            </div>
+          )}
+
+          {/* TAB 4: STUDENT PROFILES */}
+          {activeTab === 'students' && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1">Captured Student Profile Panel</h4>
+                  <p className="text-secondary small">Review student detail view cards, search logs, saved colleges telemetry, and write follow-up notes.</p>
+                </div>
+              </div>
+
+              <Row>
+                {/* Left Side: Students List */}
+                <Col md={4}>
+                  <Card className="border-0 shadow-sm p-3 mb-4">
+                    <Form.Group className="mb-3">
+                      <InputGroup size="sm">
+                        <InputGroup.Text><FaSearch/></InputGroup.Text>
+                        <Form.Control 
+                          placeholder="Search by name, email..." 
+                          value={studentSearch}
+                          onChange={(e) => setStudentSearch(e.target.value)}
+                        />
+                      </InputGroup>
+                    </Form.Group>
+                    
+                    <div className="list-group list-group-flush" style={{ maxHeight: '450px', overflowY: 'auto' }}>
+                      {filteredStudents.map(s => (
+                        <button 
+                          key={s.id} 
+                          onClick={() => selectStudentForDetail(s)}
+                          className={`list-group-item list-group-item-action border-0 px-2 py-3 rounded mb-2 text-start ${selectedStudent?.id === s.id ? 'bg-primary text-white' : ''}`}
+                        >
+                          <div className="fw-bold">{s.name}</div>
+                          <div className={`small ${selectedStudent?.id === s.id ? 'text-white-50' : 'text-muted'}`}>{s.email}</div>
+                          <div className="mt-1 d-flex justify-content-between">
+                            <Badge bg={selectedStudent?.id === s.id ? 'light' : 'primary'} text={selectedStudent?.id === s.id ? 'dark' : 'white'}>
+                              {s.courseInterest}
+                            </Badge>
+                            <span className="small" style={{ fontSize: '10px' }}>Active: {s.lastActiveTime.split(',')[0]}</span>
+                          </div>
+                        </button>
+                      ))}
+                    </div>
+                  </Card>
+                </Col>
+
+                {/* Right Side: Detailed Profile View */}
+                <Col md={8}>
+                  {selectedStudent ? (
+                    <Card className="border-0 shadow-sm p-4">
+                      <div className="d-flex justify-content-between align-items-start border-bottom pb-3 mb-4">
+                        <div>
+                          <h4 className="fw-bold text-primary">{selectedStudent.name}</h4>
+                          <span className="text-muted small">Student ID: {selectedStudent.id}</span>
+                        </div>
+                        <Badge bg="success" className="py-2 px-3">ACTIVE SESSION</Badge>
+                      </div>
+
+                      <Row className="mb-4">
+                        <Col sm={6}>
+                          <div className="small text-muted">EMAIL</div>
+                          <div className="fw-bold mb-3">{selectedStudent.email}</div>
+                          
+                          <div className="small text-muted">PHONE</div>
+                          <div className="fw-bold mb-3">{selectedStudent.mobile}</div>
+                          
+                          <div className="small text-muted">LOCATION</div>
+                          <div className="fw-bold mb-3">{selectedStudent.city}, {selectedStudent.state}</div>
+                        </Col>
+                        <Col sm={6}>
+                          <div className="small text-muted">COURSE INTEREST</div>
+                          <div className="fw-bold mb-3 text-indigo-400">{selectedStudent.courseInterest}</div>
+                          
+                          <div className="small text-muted">EXAM INTEREST</div>
+                          <div className="fw-bold mb-3 text-info">{selectedStudent.examInterest}</div>
+                          
+                          <div className="small text-muted">LAST LOGIN</div>
+                          <div className="fw-bold mb-3">{selectedStudent.loginTime}</div>
+                        </Col>
+                      </Row>
+
+                      {/* Telemetry tabs */}
+                      <Tab.Container defaultActiveKey="search">
+                        <Nav variant="tabs" className="mb-3">
+                          <Nav.Item><Nav.Link eventKey="search" className="small">Search History</Nav.Link></Nav.Item>
+                          <Nav.Item><Nav.Link eventKey="viewed" className="small">Viewed ({selectedStudent.viewedColleges?.length || 0})</Nav.Link></Nav.Item>
+                          <Nav.Item><Nav.Link eventKey="saved" className="small">Saved Colleges</Nav.Link></Nav.Item>
+                          <Nav.Item><Nav.Link eventKey="downloads" className="small">Downloads</Nav.Link></Nav.Item>
+                          <Nav.Item><Nav.Link eventKey="notes" className="small">Admin Notes</Nav.Link></Nav.Item>
+                        </Nav>
+
+                        <Tab.Content className="p-2 border rounded bg-light min-height-150 mb-3" style={{ minHeight: '150px' }}>
+                          <Tab.Pane eventKey="search">
+                            {selectedStudent.searchHistory?.length === 0 ? <span className="small text-muted p-3">No search history recorded.</span> : (
+                              <ul className="mb-0">
+                                {selectedStudent.searchHistory.map((sh, idx) => <li key={idx} className="small py-1">{sh}</li>)}
+                              </ul>
+                            )}
+                          </Tab.Pane>
+                          
+                          <Tab.Pane eventKey="viewed">
+                            {selectedStudent.viewedColleges?.length === 0 ? <span className="small text-muted p-3">No page views recorded.</span> : (
+                              <ul className="mb-0">
+                                {selectedStudent.viewedColleges.map((colId, idx) => {
+                                  const name = colleges.find(c => String(c.id) === String(colId))?.name || `College ID ${colId}`;
+                                  return <li key={idx} className="small py-1">{name}</li>;
+                                })}
+                              </ul>
+                            )}
+                          </Tab.Pane>
+
+                          <Tab.Pane eventKey="saved">
+                            {selectedStudent.savedColleges?.length === 0 ? <span className="small text-muted p-3">No saved colleges.</span> : (
+                              <div className="d-flex flex-wrap gap-2 p-2">
+                                {selectedStudent.savedColleges.map((colId, idx) => {
+                                  const name = colleges.find(c => String(c.id) === String(colId))?.name || `College ID ${colId}`;
+                                  return <Badge key={idx} bg="primary" className="py-2 px-3">{name}</Badge>;
+                                })}
+                              </div>
+                            )}
+                          </Tab.Pane>
+
+                          <Tab.Pane eventKey="downloads">
+                            {selectedStudent.downloadHistory?.length === 0 ? <span className="small text-muted p-3">No downloaded brochures.</span> : (
+                              <ul className="mb-0">
+                                {selectedStudent.downloadHistory.map((dl, idx) => <li key={idx} className="small py-1">Downloaded {dl}</li>)}
+                              </ul>
+                            )}
+                          </Tab.Pane>
+
+                          <Tab.Pane eventKey="notes">
+                            <Form.Group className="mb-3">
+                              <Form.Control 
+                                as="textarea" 
+                                rows={3} 
+                                value={studentNotesInput} 
+                                onChange={(e) => setStudentNotesInput(e.target.value)}
+                                placeholder="Write follow-up notes, exam predictions, or phone logs..."
+                              />
+                            </Form.Group>
+                            <Button size="sm" variant="success" onClick={saveStudentNotes}>
+                              Save Notes
+                            </Button>
+                          </Tab.Pane>
+                        </Tab.Content>
+                      </Tab.Container>
+                    </Card>
+                  ) : (
+                    <Card className="border-0 shadow-sm p-5 text-center text-secondary">
+                      Select a student profile from the list to display captured session records, bookmark details, and notes.
+                    </Card>
+                  )}
+                </Col>
+              </Row>
+            </div>
+          )}
+
+          {/* TAB 5: REVIEWS MODERATION */}
+          {activeTab === 'reviews' && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1">Student Reviews Moderation</h4>
+                  <p className="text-secondary small">Approve or reject student-submitted reviews before they are published to public directory detail pages.</p>
+                </div>
+              </div>
+
+              <Card className="border-0 shadow-sm p-4">
+                <Table hover className="align-middle">
+                  <thead>
+                    <tr>
+                      <th>College</th>
+                      <th>Student</th>
+                      <th>Rating</th>
+                      <th>Review Content</th>
+                      <th>Status</th>
+                      <th className="text-end">Actions</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {reviews.map(r => {
+                      const college = colleges.find(c => Number(c.id) === Number(r.collegeId));
+                      const collegeName = college ? college.name : `College ID ${r.collegeId}`;
+                      return (
+                        <tr key={r.id}>
+                          <td className="fw-bold">{collegeName}</td>
+                          <td>{r.authorName}</td>
+                          <td><Badge bg="warning" text="dark">★ {r.rating}</Badge></td>
+                          <td className="small text-muted" style={{ maxWidth: '400px' }}>"{r.content}"</td>
+                          <td>
+                            <Badge bg={r.status === 'PENDING' ? 'warning' : r.status === 'APPROVED' ? 'success' : 'danger'}>
+                              {r.status}
+                            </Badge>
+                          </td>
+                          <td className="text-end">
+                            {r.status === 'PENDING' && (
+                              <>
+                                <Button 
+                                  size="sm" 
+                                  variant="outline-success" 
+                                  className="me-2 btn-sm rounded-circle p-1"
+                                  onClick={() => {
+                                    approveReview(r.id);
+                                    logActivity(currentUser.name, currentUser.role, "Admin Action", `Approved student review for ${collegeName}`);
+                                  }}
+                                >
+                                  <FaCheck/>
+                                </Button>
+                                <Button 
+                                  size="sm" 
+                                  variant="outline-danger" 
+                                  className="btn-sm rounded-circle p-1"
+                                  onClick={() => {
+                                    rejectReview(r.id);
+                                    logActivity(currentUser.name, currentUser.role, "Admin Action", `Rejected student review for ${collegeName}`);
+                                  }}
+                                >
+                                  <FaTimes/>
+                                </Button>
+                              </>
+                            )}
+                          </td>
+                        </tr>
+                      );
+                    })}
+                  </tbody>
+                </Table>
+              </Card>
+            </div>
+          )}
+
+          {/* TAB 6: ACTIVITY LOGS */}
+          {activeTab === 'activity' && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1">User Activity & Audit Trail</h4>
+                  <p className="text-secondary small">Security audit tracking for user logins, logouts, searches, and data entry updates.</p>
+                </div>
+              </div>
+
+              <Card className="border-0 shadow-sm p-4">
+                <Table hover className="align-middle">
+                  <thead>
+                    <tr>
+                      <th>Timestamp</th>
+                      <th>User</th>
+                      <th>Role</th>
+                      <th>Action type</th>
+                      <th>Log Details</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {activityLogs.map(l => (
+                      <tr key={l.id}>
+                        <td className="text-muted font-monospace small">{l.timestamp}</td>
+                        <td className="fw-bold">{l.user}</td>
+                        <td><Badge bg="light" text="dark" className="border">{l.role}</Badge></td>
+                        <td>
+                          <Badge bg={l.action === 'Login' ? 'success' : l.action === 'Search' ? 'info' : 'secondary'}>
+                            {l.action}
+                          </Badge>
+                        </td>
+                        <td className="small text-muted">{l.details}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </Table>
+              </Card>
+            </div>
+          )}
+
+          {/* TAB 7: REPORTS */}
+          {activeTab === 'reports' && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1">Reports & Exports Center</h4>
+                  <p className="text-secondary small">Download custom reports on student registrations, college records, and upload success stats in Excel format.</p>
+                </div>
+              </div>
+
+              <Row className="g-4">
+                <Col md={6}>
+                  <Card className="border-0 shadow-sm p-4 text-center">
+                    <FaUserGraduate size={50} className="text-primary mb-3 mx-auto" />
+                    <h5 className="fw-bold">Student Registrations Report</h5>
+                    <p className="text-muted small">Lists name, contact information, interested stream, active history metrics, and notes.</p>
+                    <Button variant="outline-primary" className="w-100 rounded-pill" onClick={() => {
+                      const data = students.map(s => ({
+                        Name: s.name,
+                        Email: s.email,
+                        Phone: s.mobile,
+                        City: s.city,
+                        State: s.state,
+                        'Course Interest': s.courseInterest,
+                        'Exam Interest': s.examInterest,
+                        'Last Active': s.lastActiveTime,
+                        'Admin Notes': s.adminNotes
+                      }));
+                      const ws = XLSX.utils.json_to_sheet(data);
+                      const wb = XLSX.utils.book_new();
+                      XLSX.utils.book_append_sheet(wb, ws, "Students");
+                      XLSX.writeFile(wb, "Student_Profiles_Report.xlsx");
+                    }}>
+                      <FaFileExcel className="me-2"/> Export Excel Report
+                    </Button>
+                  </Card>
+                </Col>
+
+                <Col md={6}>
+                  <Card className="border-0 shadow-sm p-4 text-center">
+                    <FaSchool size={50} className="text-success mb-3 mx-auto" />
+                    <h5 className="fw-bold">Colleges Placements & Fees</h5>
+                    <p className="text-muted small">Detailed records of fee structures, accepted entry exams, and average placement CTC packets.</p>
+                    <Button variant="outline-success" className="w-100 rounded-pill" onClick={handleExportFiltered}>
+                      <FaFileExcel className="me-2"/> Export Excel Report
+                    </Button>
+                  </Card>
+                </Col>
+              </Row>
+            </div>
+          )}
+        </Col>
+      </Row>
+
+      {/* EXCEL IMPORT PREVIEW MODAL */}
+      <Modal show={showPreviewModal} onHide={() => setShowPreviewModal(false)} size="lg" centered style={{ color: '#333' }}>
+        <Modal.Header closeButton className="bg-light">
+          <Modal.Title className="fw-bold text-success">Excel Upload Preview & Validation</Modal.Title>
+        </Modal.Header>
+        <Modal.Body className="p-4" style={{ maxHeight: '450px', overflowY: 'auto' }}>
+          <Alert variant="warning" className="small py-2 mb-3">
+            Please review the rows below. Valid items will be imported automatically. Red items have missing required data.
+          </Alert>
+
+          <Table hover className="align-middle small">
+            <thead>
+              <tr>
+                <th>College Name</th>
+                <th>Location</th>
+                <th>Fees</th>
+                <th>Validation Checks</th>
+              </tr>
+            </thead>
+            <tbody>
+              {importPreview.map(item => (
+                <tr key={item.id} className={item.errors.length > 0 ? "table-danger" : ""}>
+                  <td className="fw-bold">
+                    {item.name || <span className="text-danger">[Empty]</span>} 
+                    {item.isDuplicate && <Badge bg="warning" text="dark" className="ms-2">Duplicate</Badge>}
+                  </td>
+                  <td>{item.location ? `${item.location}, ${item.state}` : <span className="text-danger">Missing location data</span>}</td>
+                  <td>{item.fees}</td>
+                  <td>
+                    {item.errors.length > 0 ? (
+                      <span className="text-danger fw-bold">{item.errors.join(', ')}</span>
+                    ) : (
+                      <Badge bg="success">Valid Entry</Badge>
+                    )}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </Table>
+        </Modal.Body>
+        <Modal.Footer className="bg-light">
+          <Button variant="outline-secondary" onClick={() => setShowPreviewModal(false)}>Close Preview</Button>
+          <Button variant="success" onClick={executeBulkImport}>Confirm Import Success</Button>
+        </Modal.Footer>
+      </Modal>
+    </div>
   );
 };
+
+export default Admin;

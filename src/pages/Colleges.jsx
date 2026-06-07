@@ -10,12 +10,23 @@ import { aiSearchColleges } from '../utils/geminiApi';
 
 const Colleges = () => {
   const { colleges, loading } = React.useContext(CollegeContext);
+  const { trackStudentActivity, currentUser } = React.useContext(AuthContext);
   const location = useLocation();
   const [searchTerm, setSearchTerm] = useState("");
   const [saved, setSaved] = useState({});
   const [sortBy, setSortBy] = useState("rating");
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 12;
+
+  // Advanced Filters State
+  const [filterState, setFilterState] = useState("");
+  const [filterCity, setFilterCity] = useState("");
+  const [filterCourse, setFilterCourse] = useState("");
+  const [filterFeeRange, setFilterFeeRange] = useState("");
+  const [filterRating, setFilterRating] = useState("");
+  const [filterPlacement, setFilterPlacement] = useState("");
+  const [filterHostel, setFilterHostel] = useState("");
+  const [filterType, setFilterType] = useState("");
 
   // AI Fallback Search State
   const [aiColleges, setAiColleges] = useState([]);
@@ -26,157 +37,127 @@ const Colleges = () => {
     const query = params.get('q');
     if (query) {
       setSearchTerm(query);
+      if (currentUser && currentUser.role === 'student') {
+        trackStudentActivity('search', query);
+      }
     }
-  }, [location.search]);
+  }, [location.search, currentUser]);
 
   const toggleSave = (id) => {
     setSaved(prev => ({...prev, [id]: !prev[id]}));
   };
 
+  const uniqueStates = React.useMemo(() => {
+    return [...new Set((colleges || []).map(c => c.state).filter(Boolean))].sort();
+  }, [colleges]);
+
+  const uniqueCities = React.useMemo(() => {
+    const base = filterState 
+      ? (colleges || []).filter(c => String(c.state).toLowerCase() === filterState.toLowerCase())
+      : (colleges || []);
+    return [...new Set(base.map(c => c.location).filter(Boolean))].sort();
+  }, [colleges, filterState]);
+
+  const uniqueCourses = React.useMemo(() => {
+    const list = new Set();
+    (colleges || []).forEach(c => {
+      (c.courses || []).forEach(co => {
+        if (co.title) list.add(co.title);
+      });
+    });
+    return Array.from(list).sort();
+  }, [colleges]);
+
   // Semantic query parser for advanced searches
   const filteredColleges = React.useMemo(() => {
-    if (!searchTerm) {
-      let result = [...(colleges || [])];
-      if (sortBy === "rating") {
-        result.sort((a, b) => (b.rating || 0) - (a.rating || 0));
-      } else if (sortBy === "fees_low") {
-        result.sort((a, b) => parseInt((a.fees||'0').replace(/\D/g,'')||'0') - parseInt((b.fees||'0').replace(/\D/g,'')||'0'));
-      }
-      return result;
+    let results = [...(colleges || [])];
+
+    // 1. Text Search Filter (name, code, location, state)
+    if (searchTerm) {
+      const queryLower = searchTerm.toLowerCase();
+      results = results.filter(c => 
+        c.name.toLowerCase().includes(queryLower) ||
+        (c.shortName || '').toLowerCase().includes(queryLower) ||
+        (c.location || '').toLowerCase().includes(queryLower) ||
+        (c.state || '').toLowerCase().includes(queryLower)
+      );
     }
 
-    const queryLower = searchTerm.toLowerCase();
-
-    // 1. Extract modifiers
-    const isGovernment = queryLower.includes('govt') || queryLower.includes('government') || queryLower.includes('public') || queryLower.includes('sarkari');
-    const isPrivate = queryLower.includes('private');
-    const isTop = queryLower.includes('top') || queryLower.includes('best');
-
-    // 2. Extract location/state
-    let matchedLocation = null;
-    let matchedState = null;
-
-    // Look for matches in the dataset
-    for (const c of colleges) {
-      if (c.location && queryLower.includes(c.location.toLowerCase())) {
-        matchedLocation = c.location.toLowerCase();
-      }
-      if (c.state && queryLower.includes(c.state.toLowerCase())) {
-        matchedState = c.state.toLowerCase();
-      }
+    // 2. Dropdown Filters
+    if (filterState) {
+      results = results.filter(c => String(c.state || '').toLowerCase() === filterState.toLowerCase());
+    }
+    if (filterCity) {
+      results = results.filter(c => String(c.location || '').toLowerCase() === filterCity.toLowerCase());
+    }
+    if (filterType) {
+      results = results.filter(c => String(c.type || '').toLowerCase() === filterType.toLowerCase());
+    }
+    if (filterRating) {
+      results = results.filter(c => (c.rating || 0) >= parseFloat(filterRating));
+    }
+    
+    // 3. Course Filter
+    if (filterCourse) {
+      results = results.filter(c => 
+        (c.courses || []).some(co => String(co.title || '').toLowerCase().includes(filterCourse.toLowerCase()))
+      );
     }
 
-    // 3. Extract streams/courses
-    const isMba = queryLower.includes('mba') || queryLower.includes('pgdm') || queryLower.includes('management') || queryLower.includes('business') || queryLower.includes('iim');
-    const isEng = queryLower.includes('b.tech') || queryLower.includes('btech') || queryLower.includes('engineering') || queryLower.includes('technology') || queryLower.includes('polytechnic') || queryLower.includes('computer science') || queryLower.includes('iit') || queryLower.includes('nit');
-    const isMed = queryLower.includes('mbbs') || queryLower.includes('medical') || queryLower.includes('pharmacy') || queryLower.includes('dental') || queryLower.includes('nursing') || queryLower.includes('neet');
-    const isDes = queryLower.includes('design') || queryLower.includes('fashion') || queryLower.includes('animation') || queryLower.includes('nift');
-    const isLaw = queryLower.includes('law') || queryLower.includes('llb') || queryLower.includes('clat');
-
-    // 4. Perform filter
-    let results = (colleges || []).filter(c => {
-      if (c.name.toLowerCase().includes(queryLower)) return true;
-
-      let matchesFilters = true;
-
-      // Location match
-      if (matchedLocation && (c.location || '').toLowerCase() !== matchedLocation) {
-        matchesFilters = false;
-      }
-      // State match
-      if (matchedState && (c.state || '').toLowerCase() !== matchedState) {
-        matchesFilters = false;
-      }
-      // Type match
-      if (isGovernment && c.type.toLowerCase() !== 'government' && !c.name.toLowerCase().includes('government') && !c.name.toLowerCase().includes('govt') && !c.name.toLowerCase().includes('sarkari')) {
-        matchesFilters = false;
-      }
-      if (isPrivate && c.type.toLowerCase() !== 'private') {
-        matchesFilters = false;
-      }
-
-      // Stream match
-      if (isMba) {
-        const hasMbaCourse = (c.courses || []).some(co => 
-          co.type?.toUpperCase().includes('MANAGEMENT') || 
-          co.title?.toUpperCase().includes('MBA') || 
-          co.title?.toUpperCase().includes('PGDM')
-        );
-        const nameHasMba = c.name.toLowerCase().includes('management') || c.name.toLowerCase().includes('business') || c.name.toLowerCase().includes('iim');
-        if (!hasMbaCourse && !nameHasMba) matchesFilters = false;
-      }
-      if (isEng) {
-        const hasEngCourse = (c.courses || []).some(co => 
-          co.type?.toUpperCase().includes('ENGINEERING') || 
-          co.type?.toUpperCase().includes('TECHNOLOGY') || 
-          co.title?.toUpperCase().includes('B.TECH') || 
-          co.title?.toUpperCase().includes('BTECH') || 
-          co.title?.toUpperCase().includes('DIPLOMA')
-        );
-        const nameHasEng = c.name.toLowerCase().includes('technology') || c.name.toLowerCase().includes('polytechnic') || c.name.toLowerCase().includes('engineering') || c.name.toLowerCase().includes('iit') || c.name.toLowerCase().includes('nit');
-        if (!hasEngCourse && !nameHasEng) matchesFilters = false;
-      }
-      if (isMed) {
-        const hasMedCourse = (c.courses || []).some(co => 
-          co.type?.toUpperCase().includes('MEDICAL') || 
-          co.type?.toUpperCase().includes('PHARMACY') || 
-          co.title?.toUpperCase().includes('MBBS')
-        );
-        const nameHasMed = c.name.toLowerCase().includes('medical') || c.name.toLowerCase().includes('pharmacy') || c.name.toLowerCase().includes('dental') || c.name.toLowerCase().includes('nursing') || c.name.toLowerCase().includes('hospital');
-        if (!hasMedCourse && !nameHasMed) matchesFilters = false;
-      }
-      if (isDes) {
-        const hasDesCourse = (c.courses || []).some(co => 
-          co.type?.toUpperCase().includes('DESIGN') || 
-          co.type?.toUpperCase().includes('ARTS') || 
-          co.title?.toUpperCase().includes('DESIGN')
-        );
-        const nameHasDes = c.name.toLowerCase().includes('design') || c.name.toLowerCase().includes('fashion') || c.name.toLowerCase().includes('arts') || c.name.toLowerCase().includes('nift');
-        if (!hasDesCourse && !nameHasDes) matchesFilters = false;
-      }
-      if (isLaw) {
-        const hasLawCourse = (c.courses || []).some(co => 
-          co.type?.toUpperCase().includes('LAW') || 
-          co.title?.toUpperCase().includes('LLB') || 
-          co.title?.toUpperCase().includes('LAW')
-        );
-        const nameHasLaw = c.name.toLowerCase().includes('law') || c.name.toLowerCase().includes('legal');
-        if (!hasLawCourse && !nameHasLaw) matchesFilters = false;
-      }
-
-      // Fallback search if no explicit category filters matched
-      if (!matchedLocation && !matchedState && !isGovernment && !isPrivate && !isMba && !isEng && !isMed && !isDes && !isLaw) {
-        const words = queryLower.split(/\s+/).filter(w => w.length > 2);
-        if (words.length > 0) {
-          return words.every(w => 
-            c.name.toLowerCase().includes(w) || 
-            (c.location || '').toLowerCase().includes(w) || 
-            (c.state || '').toLowerCase().includes(w) ||
-            (c.type || '').toLowerCase().includes(w)
-          );
+    // 4. Fee Range Filter
+    if (filterFeeRange) {
+      results = results.filter(c => {
+        const feeStr = String(c.fees || '0');
+        const numericFee = parseFloat(feeStr.replace(/[^\d.]/g, '')) || 0; // Extracts numeric digits e.g. "2.5 Lakhs" -> 2.5
+        
+        if (filterFeeRange === 'under_1') {
+          return numericFee < 1;
+        } else if (filterFeeRange === '1_3') {
+          return numericFee >= 1 && numericFee <= 3;
+        } else if (filterFeeRange === '3_5') {
+          return numericFee > 3 && numericFee <= 5;
+        } else if (filterFeeRange === 'above_5') {
+          return numericFee > 5;
         }
-      }
-
-      return matchesFilters;
-    });
-
-    // 5. Apply ranking or sorting
-    if (isTop) {
-      results.sort((a, b) => {
-        const rankA = a.ranking || 9999;
-        const rankB = b.ranking || 9999;
-        return rankA - rankB;
+        return true;
       });
-    } else {
-      if (sortBy === "rating") {
-        results.sort((a, b) => (b.rating || 0) - (a.rating || 0));
-      } else if (sortBy === "fees_low") {
-        results.sort((a, b) => parseInt((a.fees||'0').replace(/\D/g,'')||'0') - parseInt((b.fees||'0').replace(/\D/g,'')||'0'));
-      }
+    }
+
+    // 5. Placement Filter (Average Package)
+    if (filterPlacement) {
+      results = results.filter(c => {
+        const pkgStr = String(c.averagePackage || c.average_package || '0');
+        const numericPkg = parseFloat(pkgStr.replace(/[^\d.]/g, '')) || 0; // e.g. "₹7.5 LPA" -> 7.5
+        
+        if (filterPlacement === 'above_15') return numericPkg >= 15;
+        if (filterPlacement === 'above_10') return numericPkg >= 10;
+        if (filterPlacement === 'above_5') return numericPkg >= 5;
+        return true;
+      });
+    }
+
+    // 6. Hostel Filter
+    if (filterHostel) {
+      results = results.filter(c => {
+        const cleanHostel = String(c.facilities || '').toLowerCase() + String(c.about || '').toLowerCase();
+        const hasHostel = cleanHostel.includes('hostel') || cleanHostel.includes('dorm');
+        return filterHostel === 'yes' ? hasHostel : !hasHostel;
+      });
+    }
+
+    // 7. Apply Sorting
+    if (sortBy === "rating") {
+      results.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+    } else if (sortBy === "fees_low") {
+      results.sort((a, b) => {
+        const feeA = parseFloat(String(a.fees || '0').replace(/[^\d.]/g, '')) || 0;
+        const feeB = parseFloat(String(b.fees || '0').replace(/[^\d.]/g, '')) || 0;
+        return feeA - feeB;
+      });
     }
 
     return results;
-  }, [colleges, searchTerm, sortBy]);
+  }, [colleges, searchTerm, filterState, filterCity, filterCourse, filterFeeRange, filterRating, filterPlacement, filterHostel, filterType, sortBy]);
 
 
   // Derived visible colleges per page
@@ -226,32 +207,157 @@ const Colleges = () => {
         </Row>
 
         <Row className="g-4">
-          {/* Sidebar Filter Placeholder */}
+          {/* Advanced Sidebar Filters */}
           <Col lg={3}>
-            <Card className="border-0 shadow-sm p-3">
+            <Card className="border-0 shadow-sm p-4 text-dark mb-4">
               <div className="d-flex align-items-center mb-3 text-primary fw-bold">
-                <FaFilter className="me-2" /> Filters
+                <FaFilter className="me-2" /> Advanced Filters
               </div>
               <Form>
+                {/* Search Text input */}
                 <Form.Group className="mb-3">
-                  <Form.Label className="fw-medium text-dark">Quick Filters</Form.Label>
-                  <div className="d-flex flex-wrap gap-2">
-                    {['India', 'Bangalore', 'Mumbai', 'Delhi', 'Pune', 'Government', 'Private'].map(tag => (
-                      <Badge 
-                        key={tag} 
-                        bg={searchTerm.toLowerCase() === tag.toLowerCase() ? 'primary' : 'light'} 
-                        text={searchTerm.toLowerCase() === tag.toLowerCase() ? 'white' : 'dark'}
-                        className="cursor-pointer py-2 px-3 border"
-                        style={{cursor: 'pointer'}}
-                        onClick={() => setSearchTerm(tag)}
-                      >
-                        {tag}
-                      </Badge>
-                    ))}
-                  </div>
+                  <Form.Label className="small fw-semibold text-muted">Keyword Search</Form.Label>
+                  <Form.Control 
+                    size="sm" 
+                    type="text" 
+                    placeholder="Search name, key..." 
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                  />
                 </Form.Group>
 
-                <Button variant="outline-primary" className="w-100 btn-sm rounded-pill mt-3" onClick={() => setSearchTerm("")}>Clear All</Button>
+                {/* State Filter */}
+                <Form.Group className="mb-3">
+                  <Form.Label className="small fw-semibold text-muted">Filter State</Form.Label>
+                  <Form.Select 
+                    size="sm" 
+                    value={filterState} 
+                    onChange={(e) => { setFilterState(e.target.value); setFilterCity(""); }}
+                  >
+                    <option value="">All States</option>
+                    {uniqueStates.map(st => <option key={st} value={st}>{st}</option>)}
+                  </Form.Select>
+                </Form.Group>
+
+                {/* City Filter */}
+                <Form.Group className="mb-3">
+                  <Form.Label className="small fw-semibold text-muted">Filter City/District</Form.Label>
+                  <Form.Select 
+                    size="sm" 
+                    value={filterCity} 
+                    disabled={!filterState}
+                    onChange={(e) => setFilterCity(e.target.value)}
+                  >
+                    <option value="">{filterState ? "All Cities" : "Select State First"}</option>
+                    {uniqueCities.map(ct => <option key={ct} value={ct}>{ct}</option>)}
+                  </Form.Select>
+                </Form.Group>
+
+                {/* Course Stream */}
+                <Form.Group className="mb-3">
+                  <Form.Label className="small fw-semibold text-muted">Course/Stream</Form.Label>
+                  <Form.Select 
+                    size="sm" 
+                    value={filterCourse} 
+                    onChange={(e) => setFilterCourse(e.target.value)}
+                  >
+                    <option value="">All Streams</option>
+                    {uniqueCourses.map(co => <option key={co} value={co}>{co}</option>)}
+                  </Form.Select>
+                </Form.Group>
+
+                {/* Fees range */}
+                <Form.Group className="mb-3">
+                  <Form.Label className="small fw-semibold text-muted">Annual Fees</Form.Label>
+                  <Form.Select 
+                    size="sm" 
+                    value={filterFeeRange} 
+                    onChange={(e) => setFilterFeeRange(e.target.value)}
+                  >
+                    <option value="">Any Fees</option>
+                    <option value="under_1">Under ₹1 Lakh/Year</option>
+                    <option value="1_3">₹1 Lakh - ₹3 Lakhs/Year</option>
+                    <option value="3_5">₹3 Lakhs - ₹5 Lakhs/Year</option>
+                    <option value="above_5">Above ₹5 Lakhs/Year</option>
+                  </Form.Select>
+                </Form.Group>
+
+                {/* Placements package */}
+                <Form.Group className="mb-3">
+                  <Form.Label className="small fw-semibold text-muted">Average Placement Package</Form.Label>
+                  <Form.Select 
+                    size="sm" 
+                    value={filterPlacement} 
+                    onChange={(e) => setFilterPlacement(e.target.value)}
+                  >
+                    <option value="">Any CTC Package</option>
+                    <option value="above_15">Above ₹15 LPA</option>
+                    <option value="above_10">Above ₹10 LPA</option>
+                    <option value="above_5">Above ₹5 LPA</option>
+                  </Form.Select>
+                </Form.Group>
+
+                {/* Hostel facilities */}
+                <Form.Group className="mb-3">
+                  <Form.Label className="small fw-semibold text-muted">Hostel Accommodation</Form.Label>
+                  <Form.Select 
+                    size="sm" 
+                    value={filterHostel} 
+                    onChange={(e) => setFilterHostel(e.target.value)}
+                  >
+                    <option value="">Hostel (Any)</option>
+                    <option value="yes">Available</option>
+                    <option value="no">Not Available</option>
+                  </Form.Select>
+                </Form.Group>
+
+                {/* Ownership Type */}
+                <Form.Group className="mb-3">
+                  <Form.Label className="small fw-semibold text-muted">Ownership Type</Form.Label>
+                  <Form.Select 
+                    size="sm" 
+                    value={filterType} 
+                    onChange={(e) => setFilterType(e.target.value)}
+                  >
+                    <option value="">Any Type</option>
+                    <option value="government">Government</option>
+                    <option value="private">Private</option>
+                    <option value="autonomous">Autonomous</option>
+                  </Form.Select>
+                </Form.Group>
+
+                {/* Rating score */}
+                <Form.Group className="mb-3">
+                  <Form.Label className="small fw-semibold text-muted">Minimum Rating Score</Form.Label>
+                  <Form.Select 
+                    size="sm" 
+                    value={filterRating} 
+                    onChange={(e) => setFilterRating(e.target.value)}
+                  >
+                    <option value="">Any Rating</option>
+                    <option value="4.5">★ 4.5 & Above</option>
+                    <option value="4.0">★ 4.0 & Above</option>
+                    <option value="3.5">★ 3.5 & Above</option>
+                  </Form.Select>
+                </Form.Group>
+
+                <Button 
+                  variant="outline-primary" 
+                  className="w-100 btn-sm rounded-pill mt-3" 
+                  onClick={() => {
+                    setSearchTerm("");
+                    setFilterState("");
+                    setFilterCity("");
+                    setFilterCourse("");
+                    setFilterFeeRange("");
+                    setFilterRating("");
+                    setFilterPlacement("");
+                    setFilterHostel("");
+                    setFilterType("");
+                  }}
+                >
+                  Clear All Filters
+                </Button>
               </Form>
             </Card>
           </Col>
