@@ -1,0 +1,110 @@
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id        Int        @id @default(autoincrement())
+  email     String     @unique
+  password  String
+  name      String
+  role      String     @default("USER") // USER, ADMIN, SUPERADMIN
+  bookmarks Bookmark[]
+  auditLogs AuditLog[]
+  createdAt DateTime   @default(now())
+}
+
+model College {
+  id             Int        @id @default(autoincrement())
+  name           String
+  shortName      String
+  location       String
+  state          String
+  address        String
+  phone          String     @default("0123-456789")
+  email          String?
+  website        String     @default("http://www.college.edu")
+  rating         Float      @default(4.5)
+  reviewsCount   Int        @default(0)
+  type           String     @default("Private")
+  about          String
+  ranking        Int        @default(100)
+  facebook       String     @default("#")
+  instagram      String     @default("#")
+  linkedin       String     @default("#")
+  mapUrl         String
+  fees           String     @default("Contact for details")
+  exams          String     @default("Direct Admission")
+  img            String
+  gallery        String     @default("[]") // JSON string list of images
+  affiliation    String     @default("")
+  highestPackage String     @default("Contact for details")
+  averagePackage String     @default("Contact for details")
+  placements     String     @default("N/A")
+  highlights     String     @default("") // Comma-separated list or JSON
+  facilities     String     @default("") // Comma-separated list or JSON
+  admissionProcess String   @default("")
+  topRecruiters  String     @default("") // Comma-separated list
+  brochureLink   String     @default("")
+  courses        Course[]
+  reviews        Review[]
+  bookmarks      Bookmark[]
+}
+
+model Course {
+  id          Int      @id @default(autoincrement())
+  collegeId   Int
+  college     College  @relation(fields: [collegeId], references: [id], onDelete: Cascade)
+  title       String
+  type        String   @default("Full Time")
+  division    String   @default("Degree")
+  duration    String   @default("4 Years")
+  fees        String   @default("Contact for details")
+  intake      String   @default("N/A")
+  eligibility String   @default("As per norms")
+}
+
+model Exam {
+  id    Int     @id @default(autoincrement())
+  name  String  @unique
+  date  String  @default("May 15, 2026")
+  level String  @default("National")
+  tag   String  @default("Engineering")
+  img   String  @default("https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=400")
+}
+
+model Review {
+  id        Int      @id @default(autoincrement())
+  collegeId Int
+  college   College  @relation(fields: [collegeId], references: [id], onDelete: Cascade)
+  authorName String
+  rating     Float    @default(5.0)
+  content    String
+  verified   Boolean  @default(false)
+  status     String   @default("PENDING") // PENDING, APPROVED, REJECTED
+  createdAt  DateTime @default(now())
+}
+
+model Bookmark {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  collegeId Int
+  college   College  @relation(fields: [collegeId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, collegeId])
+}
+
+model AuditLog {
+  id        Int      @id @default(autoincrement())
+  action    String
+  userId    Int?
+  user      User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  details   String
+  timestamp DateTime @default(now())
+}
