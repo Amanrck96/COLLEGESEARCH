@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-06-07T18:00:00.000Z",
+  "totalColleges": 105,
+  "incompleteCollegesCount": 12,
+  "fieldsVerificationStatus": {
+    "website": {
+      "missing": 4,
+      "verified": 101
+    },
+    "established": {
+      "missing": 3,
+      "verified": 102
+    },
+    "averagePackage": {
+      "missing": 6,
+      "verified": 99
+    },
+    "highestPackage": {
+      "missing": 8,
+      "verified": 97
+    },
+    "img": {
+      "missing": 2,
+      "verified": 103
+    }
+  },
+  "enrichedBatch": [
+    {
+      "collegeId": 3,
+      "collegeName": "BITS Pilani",
+      "enrichedFields": [
+        {
+          "field": "highestPackage",
+          "oldValue": "Contact for details",
+          "suggestedValue": "₹60.75 LPA (2025 Placement Drive)",
+          "sourceUrl": "https://www.bits-pilani.ac.in/placements",
+          "timestamp": "6/7/2026, 6:00:00 PM"
+        }
+      ]
+    },
+    {
+      "collegeId": 2,
+      "collegeName": "LPU Jalandhar",
+      "enrichedFields": [
+        {
+          "field": "website",
+          "oldValue": "https://www.lpu.in",
+          "suggestedValue": "https://www.lpu.in/official",
+          "sourceUrl": "https://www.lpu.in/about",
+          "timestamp": "6/7/2026, 6:01:00 PM"
+        }
+      ]
+    }
+  ]
+}
