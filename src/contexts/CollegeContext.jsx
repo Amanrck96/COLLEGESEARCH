@@ -55,6 +55,18 @@ export const CollegeProvider = ({ children }) => {
       .then(data => {
         setRawColleges(data.colleges || []);
         setRawExams(data.exams || []);
+        if (data.pendingUpdates && data.pendingUpdates.length > 0) {
+          setPendingUpdates(prev => {
+            const existingKeys = new Set(prev.map(u => `${u.collegeId}-${u.field}-${u.suggestedValue}`));
+            const newUpdates = data.pendingUpdates.filter(u => !existingKeys.has(`${u.collegeId}-${u.field}-${u.suggestedValue}`));
+            if (newUpdates.length > 0) {
+              const merged = [...prev, ...newUpdates];
+              localStorage.setItem('pendingUpdates', JSON.stringify(merged));
+              return merged;
+            }
+            return prev;
+          });
+        }
         setLoading(false);
       })
       .catch(err => {
