@@ -24,8 +24,8 @@ const CollegeDetail = () => {
 
   const [activeTab, setActiveTab] = useState('overview');
   const [enrichedData, setEnrichedData] = useState(null);
-  const [enriching, setEnriching] = useState(() => !!(college && !enrichedData));
-  const [prevCollegeId, setPrevCollegeId] = useState(college?.id || null);
+  // Initialize enriching as false (plain value, not a render-time expression)
+  const [enriching, setEnriching] = useState(false);
   const [mapsReady, setMapsReady] = useState(window.rgmkGoogleMapsCallback || false);
   
   // Review form states
@@ -58,21 +58,15 @@ const CollegeDetail = () => {
     return t(type.toLowerCase(), type);
   };
 
-  // Sync state if college changes
+  // Reset enrichment data and track view whenever the college changes.
+  // Keyed on college?.id — no intermediate prevCollegeId state needed.
   useEffect(() => {
-    if (college && college.id !== prevCollegeId) {
-      setPrevCollegeId(college.id);
-      setEnrichedData(null);
-      setEnriching(true);
-    }
-  }, [college, prevCollegeId]);
-
-  // Telemetry session tracking on college mount
-  useEffect(() => {
-    if (college) {
-      trackStudentActivity('view', college.id);
-    }
-  }, [college?.id]);
+    if (!college) return;
+    setEnrichedData(null);
+    setEnriching(true);
+    setAiDetails({ overview: '', placementsOverview: '', facilitiesList: '' });
+    trackStudentActivity('view', college.id);
+  }, [college?.id]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // AI Auto-Enrich logic on tab change
   useEffect(() => {
@@ -702,15 +696,15 @@ const CollegeDetail = () => {
                 
                 <h6 className="fw-bold mb-3 border-top pt-3">{t('locationMapApi')}</h6>
                 <div className="bg-light rounded overflow-hidden shadow-inner" style={{height: '250px', position: 'relative'}}>
-                   {!mapsReady || enriching ? (
+                   {enriching ? (
                       <div className="d-flex flex-column align-items-center justify-content-center h-100 bg-light">
                          <Spinner animation="border" variant="primary" className="mb-2"/>
-                         <span className="small text-muted fw-bold">{!mapsReady ? t('initializingMaps') : t('fetchingLiveMap')}</span>
+                         <span className="small text-muted fw-bold">{t('fetchingLiveMap')}</span>
                       </div>
                    ) : (
                       <iframe 
                         title="map"
-                        src={enrichedData?.mapUrl || `https://www.google.com/maps/embed/v1/place?key=${process.env.REACT_APP_GOOGLE_MAPS_KEY}&q=${encodeURIComponent(college.name + ' ' + college.location)}`}
+                        src={enrichedData?.mapUrl || `https://maps.google.com/maps?q=${encodeURIComponent(college.name + ' ' + college.location)}&output=embed`}
                         width="100%" 
                         height="100%" 
                         style={{border:0}} 
@@ -737,6 +731,8 @@ const CollegeDetail = () => {
                     alert("Please fill your name and phone number.");
                     return;
                   }
+                  // Track the inquiry as an apply activity so it appears in student profile
+                  trackStudentActivity('apply', college.id);
                   alert(`Thank you ${callbackName}! Our counselor will call you at ${callbackPhone} within 24 hours.`);
                   setCallbackPhone('');
                 }}>

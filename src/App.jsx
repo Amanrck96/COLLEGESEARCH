@@ -37,40 +37,42 @@ function App() {
       <SiteProvider>
         <CollegeProvider>
           <Router>
-        <Layout>
-          <Suspense fallback={
-            <div className="d-flex align-items-center justify-content-center min-vh-100 bg-light">
-              <div className="spinner-border text-primary" role="status">
-                <span className="visually-hidden">Loading page...</span>
-              </div>
-            </div>
-          }>
-            <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/colleges" element={<Colleges />} />
-              <Route path="/colleges/:id" element={<CollegeDetail />} />
-              <Route path="/courses" element={<Courses />} />
-              <Route path="/exams" element={<Exams />} />
-              <Route path="/reviews" element={<Reviews />} />
-              <Route path="/rankings" element={<Rankings />} />
-              <Route path="/admissions" element={<Admissions />} />
-              <Route path="/scholarships" element={<Scholarships />} />
-              <Route path="/career" element={<CareerGuidance />} />
-              <Route path="/news" element={<News />} />
-              <Route path="/compare" element={<CompareColleges />} />
-              <Route path="/contact" element={<Contact />} />
-              <Route path="/about" element={<About />} />
-              <Route path="/admin/student-profile" element={<StudentProfilePanel />} />
-              <Route path="/admin/*" element={<Admin />} />
-              <Route path="*" element={<NotFound />} />
-            </Routes>
-          </Suspense>
-        </Layout>
-      </Router>
-      </CollegeProvider>
+            <Layout>
+              <Suspense fallback={
+                <div className="d-flex align-items-center justify-content-center min-vh-100 bg-light">
+                  <div className="spinner-border text-primary" role="status">
+                    <span className="visually-hidden">Loading page...</span>
+                  </div>
+                </div>
+              }>
+                <Routes>
+                  <Route path="/" element={<Home />} />
+                  <Route path="/colleges" element={<Colleges />} />
+                  <Route path="/colleges/:id" element={<CollegeDetail />} />
+                  <Route path="/courses" element={<Courses />} />
+                  <Route path="/exams" element={<Exams />} />
+                  <Route path="/reviews" element={<Reviews />} />
+                  <Route path="/rankings" element={<Rankings />} />
+                  <Route path="/admissions" element={<Admissions />} />
+                  <Route path="/scholarships" element={<Scholarships />} />
+                  <Route path="/career" element={<CareerGuidance />} />
+                  <Route path="/news" element={<News />} />
+                  <Route path="/compare" element={<CompareColleges />} />
+                  <Route path="/contact" element={<Contact />} />
+                  <Route path="/about" element={<About />} />
+                  <Route path="/admin/student-profile" element={<StudentProfilePanel />} />
+                  <Route path="/admin/*" element={<Admin />} />
+                  {/* Catch-all wildcard: any unmatched URL renders the 404 page */}
+                  <Route path="*" element={<NotFound />} />
+                </Routes>
+              </Suspense>
+            </Layout>
+          </Router>
+        </CollegeProvider>
       </SiteProvider>
     </AuthProvider>
   );
 }
+
 
 export default App;
