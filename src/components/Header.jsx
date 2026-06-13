@@ -59,23 +59,15 @@ const Header = () => {
   const [activeCounselingTab, setActiveCounselingTab] = useState(counselingTabs[0] || '');
   const [activeOnlineTab, setActiveOnlineTab] = useState(onlineTabs[0] || '');
 
-  const [prevMbaTabs, setPrevMbaTabs] = useState(mbaTabs);
-  const [prevEngTabs, setPrevEngTabs] = useState(engTabs);
-  const [prevMedTabs, setPrevMedTabs] = useState(medTabs);
-  const [prevDesTabs, setPrevDesTabs] = useState(desTabs);
-  const [prevMoreTabs, setPrevMoreTabs] = useState(moreTabs);
-  const [prevStudyTabs, setPrevStudyTabs] = useState(studyTabs);
-  const [prevCounselingTabs, setPrevCounselingTabs] = useState(counselingTabs);
-  const [prevOnlineTabs, setPrevOnlineTabs] = useState(onlineTabs);
-
-  if (mbaTabs !== prevMbaTabs) { setPrevMbaTabs(mbaTabs); setActiveMbaTab(mbaTabs[0] || ''); }
-  if (engTabs !== prevEngTabs) { setPrevEngTabs(engTabs); setActiveEngTab(engTabs[0] || ''); }
-  if (medTabs !== prevMedTabs) { setPrevMedTabs(medTabs); setActiveMedTab(medTabs[0] || ''); }
-  if (desTabs !== prevDesTabs) { setPrevDesTabs(desTabs); setActiveDesTab(desTabs[0] || ''); }
-  if (moreTabs !== prevMoreTabs) { setPrevMoreTabs(moreTabs); setActiveMoreTab(moreTabs[0] || ''); }
-  if (studyTabs !== prevStudyTabs) { setPrevStudyTabs(studyTabs); setActiveStudyTab(studyTabs[0] || ''); }
-  if (counselingTabs !== prevCounselingTabs) { setPrevCounselingTabs(counselingTabs); setActiveCounselingTab(counselingTabs[0] || ''); }
-  if (onlineTabs !== prevOnlineTabs) { setPrevOnlineTabs(onlineTabs); setActiveOnlineTab(onlineTabs[0] || ''); }
+  // Fix #18: Use useEffect instead of calling setState directly in the render body
+  useEffect(() => { if (mbaTabs.length) setActiveMbaTab(mbaTabs[0]); }, [mbaTabs]);
+  useEffect(() => { if (engTabs.length) setActiveEngTab(engTabs[0]); }, [engTabs]);
+  useEffect(() => { if (medTabs.length) setActiveMedTab(medTabs[0]); }, [medTabs]);
+  useEffect(() => { if (desTabs.length) setActiveDesTab(desTabs[0]); }, [desTabs]);
+  useEffect(() => { if (moreTabs.length) setActiveMoreTab(moreTabs[0]); }, [moreTabs]);
+  useEffect(() => { if (studyTabs.length) setActiveStudyTab(studyTabs[0]); }, [studyTabs]);
+  useEffect(() => { if (counselingTabs.length) setActiveCounselingTab(counselingTabs[0]); }, [counselingTabs]);
+  useEffect(() => { if (onlineTabs.length) setActiveOnlineTab(onlineTabs[0]); }, [onlineTabs]);
 
   return (
     <div className="custom-header-wrapper">

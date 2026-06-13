@@ -40,6 +40,11 @@ const CollegeDetail = () => {
   // Report Inaccuracy Modal State
   const [showReportModal, setShowReportModal] = useState(false);
 
+  // Fix #16: Controlled state for the callback sidebar form
+  const [callbackName, setCallbackName] = useState(currentUser?.name || '');
+  const [callbackPhone, setCallbackPhone] = useState('');
+  const [callbackEmail, setCallbackEmail] = useState(currentUser?.email || '');
+
   // AI Dynamic Generated Fields Context
   const [aiDetails, setAiDetails] = useState({ 
     overview: '', placementsOverview: '', facilitiesList: ''
@@ -99,13 +104,18 @@ const CollegeDetail = () => {
     return () => document.removeEventListener('rgmkGoogleMapsLoad', handleMapsLoad);
   }, []);
 
-  // Simulating API enrichment (Google Maps, SearchAPI, SerpApi logic)
   useEffect(() => {
     if (!college || enrichedData) return;
 
     const timer = setTimeout(() => {
+      // Fix #3: Use env var for Google Maps key; fall back to free maps embed if not set
+      const mapsKey = import.meta.env.VITE_GOOGLE_MAPS_KEY;
+      const mapQuery = encodeURIComponent(college.name + ' ' + college.location);
+      const mapUrl = mapsKey && !mapsKey.includes('YOUR_KEY')
+        ? `https://www.google.com/maps/embed/v1/place?key=${mapsKey}&q=${mapQuery}`
+        : `https://maps.google.com/maps?q=${mapQuery}&output=embed`;
       setEnrichedData({
-        mapUrl: `https://www.google.com/maps/embed/v1/place?key=REPLACE_WITH_YOUR_KEY&q=${encodeURIComponent(college.name + ' ' + college.location)}`,
+        mapUrl,
         searchLink: `https://www.google.com/search?q=${encodeURIComponent(college.name + ' admission 2026')}`,
         images: college.gallery || []
       });
@@ -116,6 +126,11 @@ const CollegeDetail = () => {
   }, [college, enrichedData]);
 
   const handleApply = () => {
+    // Fix #7: Guard against unauthenticated apply attempts
+    if (!currentUser) {
+      alert("Please log in first to submit an admission inquiry. Click 'Login / Portal Access' in the top navigation.");
+      return;
+    }
     trackStudentActivity('apply', college.id);
     alert(`Your application inquiry for ${college.name} has been submitted successfully! One of our expert academic counselors will contact you at ${currentUser?.email || 'your registered address'} shortly.`);
   };
@@ -471,7 +486,9 @@ const CollegeDetail = () => {
                           <h1 className="display-4 fw-bold text-dark mb-0 me-3">{college.rating}</h1>
                           <div>
                             <div className="text-warning fs-5">
-                              <FaStar/><FaStar/><FaStar/><FaStar/><FaStar className="text-muted"/>
+                              {Array.from({ length: 5 }).map((_, i) => (
+                                <FaStar key={i} className={i < Math.round(college.rating) ? 'text-warning' : 'text-muted'} />
+                              ))}
                             </div>
                             <span className="text-muted small">{t('basedOnReviews', { count: collegeReviews.length + 1 })}</span>
                           </div>
@@ -693,7 +710,7 @@ const CollegeDetail = () => {
                    ) : (
                       <iframe 
                         title="map"
-                        src={enrichedData?.mapUrl || `https://www.google.com/maps/embed/v1/place?key=REPLACE_WITH_YOUR_KEY&q=${encodeURIComponent(college.name + ' ' + college.location)}`}
+                        src={enrichedData?.mapUrl || `https://www.google.com/maps/embed/v1/place?key=${process.env.REACT_APP_GOOGLE_MAPS_KEY}&q=${encodeURIComponent(college.name + ' ' + college.location)}`}
                         width="100%" 
                         height="100%" 
                         style={{border:0}} 
@@ -714,10 +731,20 @@ const CollegeDetail = () => {
               <Card.Body className="p-4 text-white">
                 <h5 className="fw-bold mb-1 text-warning">{t('needAdmissionHelp')}</h5>
                 <p className="small mb-4 opacity-75">{t('connectExpertCounselors')}</p>
-                <input type="text" className="form-control mb-3 rounded-pill" placeholder={t('yourNamePlaceholder')} />
-                <input type="tel" className="form-control mb-3 rounded-pill" placeholder={t('phoneNumberPlaceholder')} />
-                <input type="email" className="form-control mb-4 rounded-pill" placeholder={t('emailAddressPlaceholder')} />
-                <Button variant="warning" className="w-100 rounded-pill fw-bold shadow" onClick={handleApply}>{t('requestCallback')}</Button>
+                <Form onSubmit={(e) => {
+                  e.preventDefault();
+                  if (!callbackName || !callbackPhone) {
+                    alert("Please fill your name and phone number.");
+                    return;
+                  }
+                  alert(`Thank you ${callbackName}! Our counselor will call you at ${callbackPhone} within 24 hours.`);
+                  setCallbackPhone('');
+                }}>
+                  <input type="text" className="form-control mb-3 rounded-pill" placeholder={t('yourNamePlaceholder')} value={callbackName} onChange={e => setCallbackName(e.target.value)} required />
+                  <input type="tel" className="form-control mb-3 rounded-pill" placeholder={t('phoneNumberPlaceholder')} value={callbackPhone} onChange={e => setCallbackPhone(e.target.value)} required />
+                  <input type="email" className="form-control mb-4 rounded-pill" placeholder={t('emailAddressPlaceholder')} value={callbackEmail} onChange={e => setCallbackEmail(e.target.value)} />
+                  <Button type="submit" variant="warning" className="w-100 rounded-pill fw-bold shadow">{t('requestCallback')}</Button>
+                </Form>
               </Card.Body>
             </Card>
 

@@ -18,7 +18,8 @@ const CompareColleges = () => {
     if (!searchQuery.trim()) return [];
     const q = searchQuery.toLowerCase();
     return (colleges || [])
-      .filter(c => !selectedIds.includes(c.id) && (
+      // Fix #23: Normalize IDs to strings to prevent type mismatch
+      .filter(c => !selectedIds.includes(String(c.id)) && (
         c.name.toLowerCase().includes(q) || 
         (c.location && c.location.toLowerCase().includes(q))
       ))
@@ -27,14 +28,14 @@ const CompareColleges = () => {
 
   const handleSelect = (id) => {
     if (selectedIds.length < 3) {
-      setSelectedIds(prev => [...prev, id]);
+      setSelectedIds(prev => [...prev, String(id)]); // Normalize to string
     }
     setSearchQuery('');
     setShowSearch(false);
   };
 
   const handleRemove = (id) => {
-    setSelectedIds(prev => prev.filter(x => x !== id));
+    setSelectedIds(prev => prev.filter(x => x !== String(id))); // Normalize to string
   };
 
   return (

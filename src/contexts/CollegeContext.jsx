@@ -49,33 +49,8 @@ export const CollegeProvider = ({ children }) => {
     setReviews(prev => prev.map(r => r.id === id ? { ...r, status: "REJECTED" } : r));
   };
 
-  useEffect(() => {
-    fetch('/siteData.json')
-      .then(res => res.json())
-      .then(data => {
-        setRawColleges(data.colleges || []);
-        setRawExams(data.exams || []);
-        if (data.pendingUpdates && data.pendingUpdates.length > 0) {
-          setPendingUpdates(prev => {
-            const existingKeys = new Set(prev.map(u => `${u.collegeId}-${u.field}-${u.suggestedValue}`));
-            const newUpdates = data.pendingUpdates.filter(u => !existingKeys.has(`${u.collegeId}-${u.field}-${u.suggestedValue}`));
-            if (newUpdates.length > 0) {
-              const merged = [...prev, ...newUpdates];
-              localStorage.setItem('pendingUpdates', JSON.stringify(merged));
-              return merged;
-            }
-            return prev;
-          });
-        }
-        setLoading(false);
-      })
-      .catch(err => {
-        console.error("Failed to load colleges data:", err);
-        setLoading(false);
-      });
-  }, []);
-
-  // Global Crawler Pending updates queue
+  // Fix #1: pendingUpdates must be declared BEFORE the data-loading useEffect
+  // that calls setPendingUpdates, to avoid using it before initialization.
   const [pendingUpdates, setPendingUpdates] = useState(() => {
     const saved = localStorage.getItem('pendingUpdates');
     if (saved) return JSON.parse(saved);
@@ -113,6 +88,34 @@ export const CollegeProvider = ({ children }) => {
       }
     ];
   });
+
+  useEffect(() => {
+    fetch('/siteData.json')
+      .then(res => res.json())
+      .then(data => {
+        setRawColleges(data.colleges || []);
+        setRawExams(data.exams || []);
+        if (data.pendingUpdates && data.pendingUpdates.length > 0) {
+          setPendingUpdates(prev => {
+            const existingKeys = new Set(prev.map(u => `${u.collegeId}-${u.field}-${u.suggestedValue}`));
+            const newUpdates = data.pendingUpdates.filter(u => !existingKeys.has(`${u.collegeId}-${u.field}-${u.suggestedValue}`));
+            if (newUpdates.length > 0) {
+              const merged = [...prev, ...newUpdates];
+              localStorage.setItem('pendingUpdates', JSON.stringify(merged));
+              return merged;
+            }
+            return prev;
+          });
+        }
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error("Failed to load colleges data:", err);
+        setLoading(false);
+      });
+  }, []);
+
+  // NOTE: pendingUpdates state has been moved above the data-loading useEffect (Fix #1).
 
   // Global Inaccuracy reports queue
   const [inaccuracyReports, setInaccuracyReports] = useState(() => {
@@ -263,7 +266,8 @@ export const CollegeProvider = ({ children }) => {
       }
     ];
 
-    return [...mergedBase, ...defaultInternational];
+    // Fix #2: addedColleges must be spread in here, not just listed as a dependency
+    return [...mergedBase, ...addedColleges, ...defaultInternational];
   }, [rawColleges, editedColleges, addedColleges, deletedColleges]);
 
   // Dynamically aggregate and group unique courses from colleges

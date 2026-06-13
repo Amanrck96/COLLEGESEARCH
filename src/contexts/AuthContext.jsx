@@ -128,10 +128,12 @@ export const AuthProvider = ({ children }) => {
     if (selectedRole === 'student') {
       let student = students.find(s => s.email === email);
       if (!student) {
+        // New student — create their profile (password stored for future verification)
         student = {
           id: Date.now(),
           name: email.split('@')[0],
           email: email,
+          password: password || "",
           mobile: "+91 99999 99999",
           city: "New Delhi",
           state: "Delhi",
@@ -147,6 +149,12 @@ export const AuthProvider = ({ children }) => {
           adminNotes: ""
         };
         setStudents(prev => [...prev, student]);
+      } else {
+        // Fix #4: Validate password for returning students
+        // (skip check if student has no stored password — legacy accounts)
+        if (student.password && student.password !== password) {
+          return { success: false, message: "Incorrect password for this email address." };
+        }
       }
       const activeUser = {
         name: student.name,

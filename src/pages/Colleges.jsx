@@ -55,7 +55,11 @@ const Colleges = () => {
   }, [location.search, currentUser]);
 
   const toggleSave = (id) => {
+    // Fix #21: Also track the save activity so it persists in the student profile
     setSaved(prev => ({...prev, [id]: !prev[id]}));
+    if (currentUser?.role === 'student') {
+      trackStudentActivity('save', id);
+    }
   };
 
   const handleSearchSubmit = (e) => {
@@ -149,11 +153,13 @@ const Colleges = () => {
       );
     }
 
-    // 4. Fee Range Filter
+    // 4. Fee Range Filter (fees are stored as raw numbers like 250000 — compare in lakhs)
     if (filterFeeRange) {
       results = results.filter(c => {
         const feeStr = String(c.fees || '0');
-        const numericFee = parseFloat(feeStr.replace(/[^\d.]/g, '')) || 0;
+        const numericFeeRaw = parseFloat(feeStr.replace(/[^\d.]/g, '')) || 0;
+        // Convert to lakhs (divide by 100,000) for comparison
+        const numericFee = numericFeeRaw >= 100 ? numericFeeRaw / 100000 : numericFeeRaw;
         
         if (filterFeeRange === 'under_1') {
           return numericFee < 1;
@@ -227,17 +233,21 @@ const Colleges = () => {
   ]);
 
   // AI Fallback Search Effect
+  // Fix #9: Use a ref to track whether we've already searched to avoid infinite re-render
+  const aiSearchedRef = React.useRef('');
   useEffect(() => {
-    if (searchTerm && filteredColleges.length === 0 && !aiColleges.length) {
+    if (searchTerm && filteredColleges.length === 0 && aiSearchedRef.current !== searchTerm) {
+      aiSearchedRef.current = searchTerm;
       setAiLoading(true);
       aiSearchColleges(searchTerm).then(results => {
         setAiColleges(results || []);
         setAiLoading(false);
       });
-    } else if (filteredColleges.length > 0 && aiColleges.length > 0) {
-      setAiColleges([]); // Clear AI search if native data resolves
+    } else if (filteredColleges.length > 0) {
+      if (aiColleges.length > 0) setAiColleges([]); // Clear AI results if native data resolves
+      aiSearchedRef.current = ''; // Reset so next search can trigger AI again
     }
-  }, [searchTerm, filteredColleges.length, aiColleges.length]);
+  }, [searchTerm, filteredColleges.length]); // Removed aiColleges.length from deps to prevent loop
 
   return (
     <div className="pt-2 bg-light min-vh-100">

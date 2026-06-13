@@ -1,42 +1,9 @@
 import express from 'express';
-import jwt from 'jsonwebtoken';
 import { PrismaClient } from '@prisma/client';
+import { authorize } from '../middleware/authorize.js'; // Fix #13: Shared middleware
 
 const router = express.Router();
 const prisma = new PrismaClient();
-const JWT_SECRET = process.env.JWT_SECRET || "supersecretcollegesearchkey";
-
-// Role authorization middleware
-const authorize = (requiredRole) => {
-  return async (req, res, next) => {
-    const authHeader = req.headers.authorization;
-    if (!authHeader || !authHeader.startsWith('Bearer ')) {
-      return res.status(401).json({ error: "Access denied. Token missing." });
-    }
-    const token = authHeader.split(' ')[1];
-    try {
-      const decoded = jwt.verify(token, JWT_SECRET);
-      
-      const roleHierarchy = {
-        'student': 1,
-        'viewer': 2,
-        'operator': 3,
-        'admin': 4,
-        'superadmin': 5
-      };
-
-      const userRole = decoded.role.toLowerCase();
-      if (roleHierarchy[userRole] < roleHierarchy[requiredRole.toLowerCase()]) {
-        return res.status(403).json({ error: "Access forbidden. Insufficient permissions." });
-      }
-      req.userId = decoded.id;
-      req.userRole = decoded.role;
-      next();
-    } catch (err) {
-      return res.status(401).json({ error: "Invalid credentials token." });
-    }
-  };
-};
 
 // GET Dashboard aggregate stats
 router.get('/dashboard', authorize('viewer'), async (req, res) => {

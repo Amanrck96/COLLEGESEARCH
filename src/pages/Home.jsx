@@ -169,8 +169,16 @@ const Home = () => {
                       <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true }}>
                         <div className="d-flex align-items-center bg-light p-3 rounded-3 shadow-sm border-start border-4 border-primary">
                           <div className="bg-white rounded p-3 text-center shadow-sm me-4" style={{minWidth: '90px'}}>
-                            <div className="fs-6 fw-bold text-primary">{exam.date.split(' ')[0]}</div>
-                            <div className="fs-4 fw-bold">{exam.date.split(' ')[1].replace(',','')}</div>
+                            {/* Fix #20: Guard against non-standard date formats */}
+                            {(() => {
+                              const parts = (exam.date || '').split(' ');
+                              return (
+                                <>
+                                  <div className="fs-6 fw-bold text-primary">{parts[0] || '--'}</div>
+                                  <div className="fs-4 fw-bold">{(parts[1] || '').replace(',','')}</div>
+                                </>
+                              );
+                            })()}
                           </div>
                           <div className="flex-grow-1">
                             <h5 className="mb-1 fw-bold text-primary">{exam.name}</h5>
