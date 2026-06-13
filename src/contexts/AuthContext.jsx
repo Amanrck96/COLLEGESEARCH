@@ -196,6 +196,8 @@ export const AuthProvider = ({ children }) => {
           updated.viewedColleges = [...new Set([detailsText, ...s.viewedColleges])];
         } else if (actionType === 'save') {
           updated.savedColleges = [...new Set([detailsText, ...s.savedColleges])];
+        } else if (actionType === 'apply') {
+          updated.appliedColleges = [...new Set([detailsText, ...(s.appliedColleges || [])])];
         } else if (actionType === 'compare') {
           updated.compareHistory = [...s.compareHistory, detailsText];
         } else if (actionType === 'download') {

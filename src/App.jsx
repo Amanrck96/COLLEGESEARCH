@@ -10,6 +10,7 @@ import Layout from './components/Layout';
 import Home from './pages/Home';
 import Colleges from './pages/Colleges';
 import CollegeDetail from './pages/CollegeDetail';
+import NotFound from './pages/NotFound';
 
 // Secondary/Heavy Pages (Lazy loaded)
 const Courses = lazy(() => import('./pages/Courses'));
@@ -61,6 +62,7 @@ function App() {
               <Route path="/about" element={<About />} />
               <Route path="/admin/student-profile" element={<StudentProfilePanel />} />
               <Route path="/admin/*" element={<Admin />} />
+              <Route path="*" element={<NotFound />} />
             </Routes>
           </Suspense>
         </Layout>

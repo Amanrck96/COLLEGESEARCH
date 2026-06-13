@@ -17,6 +17,8 @@ const Colleges = () => {
   const [saved, setSaved] = useState({});
   const [sortBy, setSortBy] = useState("rating");
   const [currentPage, setCurrentPage] = useState(1);
+  const [aiColleges, setAiColleges] = useState([]);
+  const [aiLoading, setAiLoading] = useState(false);
   const itemsPerPage = 12;
 
   // Advanced Filters State
@@ -49,6 +51,20 @@ const Colleges = () => {
 
   const toggleSave = (id) => {
     setSaved(prev => ({...prev, [id]: !prev[id]}));
+  };
+
+  const handleSearchSubmit = (e) => {
+    e.preventDefault();
+    setCurrentPage(1);
+    if (currentUser?.role === 'student' && searchTerm.trim()) {
+      trackStudentActivity('search', searchTerm.trim());
+    }
+  };
+
+  const handleApplyFromList = (college) => {
+    if (currentUser?.role === 'student') {
+      trackStudentActivity('apply', college.id);
+    }
   };
 
   const uniqueCountries = React.useMemo(() => {
@@ -179,7 +195,21 @@ const Colleges = () => {
   const currentItems = filteredColleges.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
 
   // Auto-reset page when filter changes
-  useEffect(() => { setCurrentPage(1); }, [searchTerm, sortBy]);
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [
+    searchTerm,
+    sortBy,
+    filterCountry,
+    filterState,
+    filterCity,
+    filterCourse,
+    filterFeeRange,
+    filterRating,
+    filterPlacement,
+    filterHostel,
+    filterType,
+  ]);
 
   // AI Fallback Search Effect
   useEffect(() => {
@@ -203,7 +233,7 @@ const Colleges = () => {
             <p className="text-muted">Find the best institution matching your career goals, budget, and location.</p>
           </Col>
           <Col md={6}>
-            <Form className="d-flex w-100">
+            <Form className="d-flex w-100" onSubmit={handleSearchSubmit}>
               <InputGroup className="shadow-sm">
                 <InputGroup.Text className="bg-white border-end-0"><FaSearch color="var(--primary)"/></InputGroup.Text>
                 <Form.Control 
@@ -214,7 +244,7 @@ const Colleges = () => {
                   onChange={(e) => setSearchTerm(e.target.value)}
                   style={{boxShadow: 'none'}}
                 />
-                <Button variant="primary" className="btn-primary-custom rounded-start-0 px-4">Search</Button>
+                <Button type="submit" variant="primary" className="btn-primary-custom rounded-start-0 px-4">Search</Button>
               </InputGroup>
             </Form>
           </Col>
@@ -374,6 +404,7 @@ const Colleges = () => {
                   className="w-100 btn-sm rounded-pill mt-3" 
                   onClick={() => {
                     setSearchTerm("");
+                    setFilterCountry("");
                     setFilterState("");
                     setFilterCity("");
                     setFilterCourse("");
@@ -450,7 +481,17 @@ const Colleges = () => {
 
                         <div className="d-flex gap-2 mt-auto">
                           <Link to={`/colleges/${college.id}`} className="btn btn-outline-primary flex-grow-1 rounded-pill">View Info</Link>
-                          <Button variant="primary" className="btn-primary-custom flex-grow-1 rounded-pill shadow-none" style={{padding: '8px 15px'}}>Apply Now</Button>
+                          <Button
+                            as={Link}
+                            to={`/colleges/${college.id}`}
+                            state={{ fromApply: true }}
+                            variant="primary"
+                            className="btn-primary-custom flex-grow-1 rounded-pill shadow-none"
+                            style={{padding: '8px 15px'}}
+                            onClick={() => handleApplyFromList(college)}
+                          >
+                            Apply Now
+                          </Button>
                         </div>
                       </Card.Body>
                     </Card>

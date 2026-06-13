@@ -7,7 +7,7 @@ import {
   FaBed, FaCalendarAlt, FaAward, FaSearch 
 } from 'react-icons/fa';
 
-import { useParams } from 'react-router-dom';
+import { useParams, useLocation } from 'react-router-dom';
 import { CollegeContext } from '../contexts/CollegeContext';
 import { AuthContext } from '../contexts/AuthContext';
 import { generateMissingDetails } from '../utils/geminiApi';
@@ -16,6 +16,7 @@ import { useTranslation } from '../utils/i18n';
 
 const CollegeDetail = () => {
   const { id } = useParams();
+  const location = useLocation();
   const { colleges, loading, reviews, addReview, addInaccuracyReport } = useContext(CollegeContext);
   const { currentUser, trackStudentActivity } = useContext(AuthContext);
   const college = (colleges || []).find(c => String(c.id) === String(id));
@@ -39,6 +40,12 @@ const CollegeDetail = () => {
   // Report Inaccuracy Modal State
   const [showReportModal, setShowReportModal] = useState(false);
 
+  // AI Dynamic Generated Fields Context
+  const [aiDetails, setAiDetails] = useState({ 
+    overview: '', placementsOverview: '', facilitiesList: ''
+  });
+  const [aiLoading, setAiLoading] = useState({});
+
   const getTranslatedType = (type) => {
     if (!type) return '';
     if (type === 'Public-Private') return t('publicPrivate');
@@ -47,17 +54,13 @@ const CollegeDetail = () => {
   };
 
   // Sync state if college changes
-  if (college && college.id !== prevCollegeId) {
-    setPrevCollegeId(college.id);
-    setEnrichedData(null);
-    setEnriching(true);
-  }
-  
-  // AI Dynamic Generated Fields Context
-  const [aiDetails, setAiDetails] = useState({ 
-    overview: '', placementsOverview: '', facilitiesList: ''
-  });
-  const [aiLoading, setAiLoading] = useState({});
+  useEffect(() => {
+    if (college && college.id !== prevCollegeId) {
+      setPrevCollegeId(college.id);
+      setEnrichedData(null);
+      setEnriching(true);
+    }
+  }, [college, prevCollegeId]);
 
   // Telemetry session tracking on college mount
   useEffect(() => {
@@ -113,9 +116,16 @@ const CollegeDetail = () => {
   }, [college, enrichedData]);
 
   const handleApply = () => {
-    trackStudentActivity('save', college.id); // Bookmark & telemetry log
+    trackStudentActivity('apply', college.id);
     alert(`Your application inquiry for ${college.name} has been submitted successfully! One of our expert academic counselors will contact you at ${currentUser?.email || 'your registered address'} shortly.`);
   };
+
+  useEffect(() => {
+    if (location.state?.fromApply && college) {
+      setActiveTab('admissions');
+      window.history.replaceState({}, document.title);
+    }
+  }, [location.state, college]);
 
   const handleDownloadBrochure = () => {
     trackStudentActivity('download', `${college.shortName || 'College'}_Brochure.pdf`);
