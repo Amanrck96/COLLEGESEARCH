@@ -121,11 +121,12 @@ const CollegeDetail = () => {
   };
 
   useEffect(() => {
-    if (location.state?.fromApply && college) {
-      setActiveTab('admissions');
-      window.history.replaceState({}, document.title);
+    const tab = new URLSearchParams(location.search).get('tab');
+    const validTabs = ['overview', 'courses', 'admissions', 'cutoffs', 'placements', 'reviews', 'facilities', 'gallery'];
+    if (tab && validTabs.includes(tab)) {
+      setActiveTab(tab);
     }
-  }, [location.state, college]);
+  }, [location.search]);
 
   const handleDownloadBrochure = () => {
     trackStudentActivity('download', `${college.shortName || 'College'}_Brochure.pdf`);

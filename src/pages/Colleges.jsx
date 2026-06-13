@@ -1,7 +1,7 @@
-import React, { useState, useEffect, useContext } from 'react';
+import React, { useState, useEffect, useContext, useRef } from 'react';
 import { Container, Row, Col, Card, Form, Badge, Button, InputGroup, Spinner } from 'react-bootstrap';
 import { motion } from 'framer-motion';
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark } from 'react-icons/fa';
 
 import { CollegeContext } from '../contexts/CollegeContext';
@@ -13,6 +13,7 @@ const Colleges = () => {
   const { colleges, loading } = useContext(CollegeContext);
   const { trackStudentActivity, currentUser } = useContext(AuthContext);
   const location = useLocation();
+  const navigate = useNavigate();
   const [searchTerm, setSearchTerm] = useState("");
   const [saved, setSaved] = useState({});
   const [sortBy, setSortBy] = useState("rating");
@@ -32,6 +33,8 @@ const Colleges = () => {
   const [filterHostel, setFilterHostel] = useState("");
   const [filterType, setFilterType] = useState("");
 
+  const lastSyncedSearchRef = useRef(null);
+
   // Auto-reset lower scopes when country changes
   useEffect(() => {
     setFilterState("");
@@ -40,10 +43,12 @@ const Colleges = () => {
 
   useEffect(() => {
     const params = new URLSearchParams(location.search);
-    const query = params.get('q');
-    if (query) {
-      setSearchTerm(query);
-      if (currentUser && currentUser.role === 'student') {
+    const query = params.get('q') || '';
+    setSearchTerm(query);
+
+    if (location.search !== lastSyncedSearchRef.current) {
+      lastSyncedSearchRef.current = location.search;
+      if (query && currentUser?.role === 'student') {
         trackStudentActivity('search', query);
       }
     }
@@ -55,10 +60,20 @@ const Colleges = () => {
 
   const handleSearchSubmit = (e) => {
     e.preventDefault();
-    setCurrentPage(1);
-    if (currentUser?.role === 'student' && searchTerm.trim()) {
-      trackStudentActivity('search', searchTerm.trim());
+    const trimmed = searchTerm.trim();
+    const params = new URLSearchParams(location.search);
+
+    if (trimmed) {
+      params.set('q', trimmed);
+    } else {
+      params.delete('q');
     }
+
+    const nextSearch = params.toString();
+    navigate(
+      { pathname: '/colleges', search: nextSearch ? `?${nextSearch}` : '' },
+      { replace: location.pathname === '/colleges' && location.search === (nextSearch ? `?${nextSearch}` : '') }
+    );
   };
 
   const handleApplyFromList = (college) => {
@@ -483,8 +498,7 @@ const Colleges = () => {
                           <Link to={`/colleges/${college.id}`} className="btn btn-outline-primary flex-grow-1 rounded-pill">View Info</Link>
                           <Button
                             as={Link}
-                            to={`/colleges/${college.id}`}
-                            state={{ fromApply: true }}
+                            to={`/colleges/${college.id}?tab=admissions`}
                             variant="primary"
                             className="btn-primary-custom flex-grow-1 rounded-pill shadow-none"
                             style={{padding: '8px 15px'}}
