@@ -10,6 +10,7 @@ import authRoutes from './routes/auth.js';
 import collegeRoutes from './routes/colleges.js';
 import reviewRoutes from './routes/reviews.js';
 import analyticsRoutes from './routes/analytics.js';
+import webhookRoutes from './routes/webhooks.js';
 
 dotenv.config();
 
@@ -25,6 +26,7 @@ app.use(cors({
 }));
 
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 // Rate Limiting to prevent brute-force API requests
 const apiLimiter = rateLimit({
@@ -61,6 +63,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/colleges', collegeRoutes);
 app.use('/api/reviews', reviewRoutes);
 app.use('/api/analytics', analyticsRoutes);
+app.use('/api/webhooks', webhookRoutes);
 
 // Error Handling Middleware
 app.use((err, req, res, next) => {

@@ -17,11 +17,46 @@ const Admin = () => {
     reviews, approveReview, rejectReview, 
     pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate, inaccuracyReports 
   } = useContext(CollegeContext);
-  const { currentUser, students, activityLogs, deleteStudent, updateStudentNotes, logActivity } = useContext(AuthContext);
+  const { currentUser, students, activityLogs, deleteStudent, updateStudentNotes, logActivity, handleLogin } = useContext(AuthContext);
 
   const [activeTab, setActiveTab] = useState('dashboard');
   const [editingCollege, setEditingCollege] = useState(null);
   const [showCollegeForm, setShowCollegeForm] = useState(false);
+
+  // Staff login states
+  const [adminEmail, setAdminEmail] = useState('');
+  const [adminPassword, setAdminPassword] = useState('');
+  const [adminRole, setAdminRole] = useState('superadmin');
+  const [adminAuthError, setAdminAuthError] = useState('');
+
+  const autofillAdminUser = (role) => {
+    setAdminRole(role);
+    if (role === 'superadmin') {
+      setAdminEmail('admin@collegesearch.com');
+      setAdminPassword('admin');
+    } else if (role === 'admin') {
+      setAdminEmail('manager@collegesearch.com');
+      setAdminPassword('admin');
+    } else if (role === 'operator') {
+      setAdminEmail('operator@collegesearch.com');
+      setAdminPassword('admin');
+    } else if (role === 'viewer') {
+      setAdminEmail('viewer@collegesearch.com');
+      setAdminPassword('admin');
+    }
+  };
+
+  const onAdminLoginSubmit = (e) => {
+    e.preventDefault();
+    const res = handleLogin(adminEmail, adminPassword, adminRole);
+    if (res.success) {
+      setAdminEmail('');
+      setAdminPassword('');
+      setAdminAuthError('');
+    } else {
+      setAdminAuthError(res.message);
+    }
+  };
 
   // Sync & Crawler states
   const [crawling, setCrawling] = useState(false);
@@ -473,14 +508,81 @@ const Admin = () => {
   // Check locking
   if (!currentUser || currentUser.role === 'student') {
     return (
-      <Container className="py-5 text-center">
-        <Card className="p-5 mx-auto border-0 shadow-sm" style={{ maxWidth: '500px' }}>
-          <FaUserShield size={60} className="text-danger mb-4 mx-auto" />
-          <h4 className="fw-bold text-dark">Access Locked</h4>
-          <p className="text-secondary">
-            The Admin Panel is reserved for staff users (Super Admins, Managers, and Data Operators). 
-            Please select a staff role from the login dropdown in the header to log in.
-          </p>
+      <Container className="py-5">
+        <Card className="p-4 p-md-5 mx-auto border-0 shadow" style={{ maxWidth: '500px', borderRadius: '16px', backgroundColor: '#ffffff' }}>
+          <div className="text-center mb-4">
+            <div className="d-inline-flex p-3 rounded-circle bg-danger bg-opacity-10 mb-3">
+              <FaUserShield size={40} className="text-danger" />
+            </div>
+            <h3 className="fw-bold text-dark mb-1">Staff Console Login</h3>
+            <p className="text-secondary small">
+              This panel is restricted to administrative staff (Super Admins, Managers, and Data Operators).
+            </p>
+          </div>
+
+          {adminAuthError && (
+            <Alert variant="danger" className="py-2 small text-center">
+              {adminAuthError}
+            </Alert>
+          )}
+
+          <Form onSubmit={onAdminLoginSubmit}>
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold text-muted">Role Selection</Form.Label>
+              <Form.Select 
+                value={adminRole} 
+                onChange={(e) => autofillAdminUser(e.target.value)} 
+                required
+                style={{ borderRadius: '8px', padding: '10px' }}
+              >
+                <option value="superadmin">Super Admin</option>
+                <option value="admin">Admin Manager</option>
+                <option value="operator">Data Entry Operator</option>
+                <option value="viewer">Viewer</option>
+              </Form.Select>
+            </Form.Group>
+
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold text-muted">Email Address</Form.Label>
+              <Form.Control 
+                type="email" 
+                placeholder="name@collegesearch.com" 
+                value={adminEmail} 
+                onChange={(e) => setAdminEmail(e.target.value)} 
+                required 
+                style={{ borderRadius: '8px', padding: '10px' }}
+              />
+            </Form.Group>
+
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold text-muted">Password</Form.Label>
+              <Form.Control 
+                type="password" 
+                placeholder="Enter admin password" 
+                value={adminPassword} 
+                onChange={(e) => setAdminPassword(e.target.value)} 
+                required 
+                style={{ borderRadius: '8px', padding: '10px' }}
+              />
+              <Form.Text className="text-muted small">
+                Demo default password: <strong>admin</strong>
+              </Form.Text>
+            </Form.Group>
+
+            <div className="mb-4 p-3 bg-light rounded border" style={{ borderRadius: '10px' }}>
+              <span className="small text-muted d-block mb-2">💡 Quick Demo Staff Autofills:</span>
+              <div className="d-flex flex-wrap gap-2">
+                <Button size="sm" variant="outline-primary" onClick={() => autofillAdminUser('superadmin')} style={{ borderRadius: '6px' }}>Super Admin</Button>
+                <Button size="sm" variant="outline-secondary" onClick={() => autofillAdminUser('admin')} style={{ borderRadius: '6px' }}>Manager</Button>
+                <Button size="sm" variant="outline-dark" onClick={() => autofillAdminUser('operator')} style={{ borderRadius: '6px' }}>Operator</Button>
+                <Button size="sm" variant="outline-info" onClick={() => autofillAdminUser('viewer')} style={{ borderRadius: '6px' }}>Viewer</Button>
+              </div>
+            </div>
+
+            <Button type="submit" variant="primary" className="w-100 fw-bold py-2 shadow-sm" style={{ backgroundColor: '#1a43bf', border: 'none', borderRadius: '8px' }}>
+              Sign In to Console
+            </Button>
+          </Form>
         </Card>
       </Container>
     );

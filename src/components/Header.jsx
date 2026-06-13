@@ -441,17 +441,6 @@ const Header = () => {
           {authError && <div className="alert alert-danger py-2 small">{authError}</div>}
           <Form onSubmit={onLoginSubmit}>
             <Form.Group className="mb-3">
-              <Form.Label className="small fw-semibold">Role Selection</Form.Label>
-              <Form.Select value={selectedRole} onChange={(e) => autofillDemoUser(e.target.value)} required>
-                <option value="student">Student Profile</option>
-                <option value="superadmin">Super Admin</option>
-                <option value="admin">Admin Manager</option>
-                <option value="operator">Data Entry Operator</option>
-                <option value="viewer">Viewer</option>
-              </Form.Select>
-            </Form.Group>
-            
-            <Form.Group className="mb-3">
               <Form.Label className="small fw-semibold">Email address</Form.Label>
               <Form.Control 
                 type="email" 
@@ -472,17 +461,14 @@ const Header = () => {
                 required={selectedRole !== 'student'} 
               />
               <Form.Text className="text-muted small">
-                Demo default password: <strong>admin</strong> (Optional for student)
+                Demo default password: <strong>password123</strong> (Optional for student)
               </Form.Text>
             </Form.Group>
 
             <div className="mb-3 p-3 bg-light rounded border">
-              <span className="small text-muted d-block mb-1">💡 Quick Demo Autofills:</span>
+              <span className="small text-muted d-block mb-1">💡 Quick Demo Autofill:</span>
               <div className="d-flex flex-wrap gap-2">
                 <Button size="sm" variant="outline-info" onClick={() => autofillDemoUser('student')}>Student (Aarav)</Button>
-                <Button size="sm" variant="outline-primary" onClick={() => autofillDemoUser('superadmin')}>Super Admin</Button>
-                <Button size="sm" variant="outline-secondary" onClick={() => autofillDemoUser('admin')}>Admin Manager</Button>
-                <Button size="sm" variant="outline-dark" onClick={() => autofillDemoUser('operator')}>Operator</Button>
               </div>
             </div>
 
