@@ -446,21 +446,24 @@ const Header = () => {
             <Form.Group className="mb-4">
               <Form.Label className="small fw-semibold">Password</Form.Label>
               <Form.Control 
-                type="password" 
+                type="password"
                 placeholder="Enter password" 
                 value={password} 
                 onChange={(e) => setPassword(e.target.value)} 
-                required={selectedRole !== 'student'} 
+                required={selectedRole !== 'student'}
+                autoComplete="current-password"
               />
               <Form.Text className="text-muted small">
-                Demo default password: <strong>password123</strong> (Optional for student)
+                {selectedRole === 'student'
+                  ? 'Optional for student demo login.'
+                  : 'Use your staff credentials, or pick a demo role below to autofill.'}
               </Form.Text>
             </Form.Group>
 
             <div className="mb-3 p-3 bg-light rounded border">
               <span className="small text-muted d-block mb-1">💡 Quick Demo Autofill:</span>
               <div className="d-flex flex-wrap gap-2">
-                <Button size="sm" variant="outline-info" onClick={() => autofillDemoUser('student')}>Student (Aarav)</Button>
+                <Button type="button" size="sm" variant="outline-info" onClick={() => autofillDemoUser('student')}>Student (Aarav)</Button>
               </div>
             </div>
 

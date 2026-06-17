@@ -1,5 +1,5 @@
 import React, { useState, useContext, useEffect } from 'react';
-import { Container, Row, Col, Card, Form, Table, Button, Badge, Alert, Tab, Nav, ProgressBar, Modal, Spinner } from 'react-bootstrap';
+import { Container, Row, Col, Card, Form, Table, Button, Badge, Alert, Tab, Nav, ProgressBar, Modal, Spinner, InputGroup } from 'react-bootstrap';
 import { 
   FaUserShield, FaSchool, FaBookOpen, FaUserGraduate, FaHistory, FaFileExcel, 
   FaFilePdf, FaBan, FaCheck, FaTimes, FaPlus, FaTrash, FaEdit, FaDownload, 
@@ -557,25 +557,26 @@ const Admin = () => {
             <Form.Group className="mb-3">
               <Form.Label className="small fw-semibold text-muted">Password</Form.Label>
               <Form.Control 
-                type="password" 
+                type="password"
                 placeholder="Enter admin password" 
                 value={adminPassword} 
                 onChange={(e) => setAdminPassword(e.target.value)} 
                 required 
+                autoComplete="current-password"
                 style={{ borderRadius: '8px', padding: '10px' }}
               />
               <Form.Text className="text-muted small">
-                Demo default password: <strong>admin</strong>
+                Use your staff credentials, or pick a demo role below to autofill.
               </Form.Text>
             </Form.Group>
 
             <div className="mb-4 p-3 bg-light rounded border" style={{ borderRadius: '10px' }}>
               <span className="small text-muted d-block mb-2">💡 Quick Demo Staff Autofills:</span>
               <div className="d-flex flex-wrap gap-2">
-                <Button size="sm" variant="outline-primary" onClick={() => autofillAdminUser('superadmin')} style={{ borderRadius: '6px' }}>Super Admin</Button>
-                <Button size="sm" variant="outline-secondary" onClick={() => autofillAdminUser('admin')} style={{ borderRadius: '6px' }}>Manager</Button>
-                <Button size="sm" variant="outline-dark" onClick={() => autofillAdminUser('operator')} style={{ borderRadius: '6px' }}>Operator</Button>
-                <Button size="sm" variant="outline-info" onClick={() => autofillAdminUser('viewer')} style={{ borderRadius: '6px' }}>Viewer</Button>
+                <Button type="button" size="sm" variant="outline-primary" onClick={() => autofillAdminUser('superadmin')} style={{ borderRadius: '6px' }}>Super Admin</Button>
+                <Button type="button" size="sm" variant="outline-secondary" onClick={() => autofillAdminUser('admin')} style={{ borderRadius: '6px' }}>Manager</Button>
+                <Button type="button" size="sm" variant="outline-dark" onClick={() => autofillAdminUser('operator')} style={{ borderRadius: '6px' }}>Operator</Button>
+                <Button type="button" size="sm" variant="outline-info" onClick={() => autofillAdminUser('viewer')} style={{ borderRadius: '6px' }}>Viewer</Button>
               </div>
             </div>
 
