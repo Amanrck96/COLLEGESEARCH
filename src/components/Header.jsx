@@ -450,13 +450,12 @@ const Header = () => {
                 placeholder="Enter password" 
                 value={password} 
                 onChange={(e) => setPassword(e.target.value)} 
-                required={selectedRole !== 'student'}
+                required
+                minLength={4}
                 autoComplete="current-password"
               />
               <Form.Text className="text-muted small">
-                {selectedRole === 'student'
-                  ? 'Optional for student demo login.'
-                  : 'Use your staff credentials, or pick a demo role below to autofill.'}
+                New student? Enter email + password to create your account. Returning students use the same password.
               </Form.Text>
             </Form.Group>
 
