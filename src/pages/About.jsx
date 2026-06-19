@@ -33,7 +33,7 @@ const About = () => {
     <div className="pt-2 bg-light min-vh-100 pb-5">
       <section className="bg-white py-5 text-center">
         <Container>
-          <motion.h1 initial={{y:-20, opacity:0}} animate={{y:0, opacity:1}} className="fw-bold text-primary mb-4">About CollegeSearch</motion.h1>
+          <motion.h1 initial={{y:-20, opacity:0}} animate={{y:0, opacity:1}} className="fw-bold text-primary mb-4">About thecollegecompass</motion.h1>
           <motion.p initial={{opacity:0}} animate={{opacity:1}} transition={{delay:0.2}} className="fs-5 text-muted mx-auto" style={{maxWidth: '800px', lineHeight: '1.8'}}>
             Our mission is to empower students to make informed decisions about their education and career. We provide accurate, updated, and comprehensive information about colleges, courses, and exams across India.
           </motion.p>

@@ -14,8 +14,8 @@ const Footer = () => {
           <Col lg={4} md={6}>
             <div className="mb-4">
               <h3 className="fw-bold mb-3 d-flex align-items-center">
-                <span className="text-white">College</span>
-                <span style={{ color: 'var(--accent-light)' }}>Search</span>
+                <span className="text-white">thecollege</span>
+                <span style={{ color: 'var(--accent-light)' }}>compass</span>
               </h3>
               <p style={{ color: 'rgba(255,255,255,0.7)', lineHeight: '1.8' }}>
                 {description}
@@ -70,7 +70,7 @@ const Footer = () => {
         
         <div className="footer-bottom">
           <p className="mb-0">
-            &copy; {new Date().getFullYear()} CollegeSearch Platform. All Rights Reserved.
+            &copy; {new Date().getFullYear()} thecollegecompass Platform. All Rights Reserved.
             <br />
             Designed strictly for modern education branding.
           </p>

@@ -1,4 +1,4 @@
-# CollegeSearch — India & Global College Discovery Platform
+# thecollegecompass — India & Global College Discovery Platform
 
 A React + Vite web application for exploring colleges, comparing institutions, tracking exam dates, and managing admission inquiries. Built with a rich admin console for content moderation and data management.
 

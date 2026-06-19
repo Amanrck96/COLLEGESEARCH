@@ -34,16 +34,16 @@ const Admin = () => {
   const autofillAdminUser = (role) => {
     setAdminRole(role);
     if (role === 'superadmin') {
-      setAdminEmail('admin@collegesearch.com');
+      setAdminEmail('admin@thecollegecompass.com');
       setAdminPassword('admin');
     } else if (role === 'admin') {
-      setAdminEmail('manager@collegesearch.com');
+      setAdminEmail('manager@thecollegecompass.com');
       setAdminPassword('admin');
     } else if (role === 'operator') {
-      setAdminEmail('operator@collegesearch.com');
+      setAdminEmail('operator@thecollegecompass.com');
       setAdminPassword('admin');
     } else if (role === 'viewer') {
-      setAdminEmail('viewer@collegesearch.com');
+      setAdminEmail('viewer@thecollegecompass.com');
       setAdminPassword('admin');
     }
   };
@@ -574,7 +574,7 @@ const Admin = () => {
               <Form.Label className="small fw-semibold text-muted">Email Address</Form.Label>
               <Form.Control 
                 type="email" 
-                placeholder="name@collegesearch.com" 
+                placeholder="name@thecollegecompass.com" 
                 value={adminEmail} 
                 onChange={(e) => setAdminEmail(e.target.value)} 
                 required 
@@ -623,7 +623,7 @@ const Admin = () => {
       <div className="bg-white border-bottom px-4 py-3 d-flex flex-wrap align-items-center justify-content-between">
         <div>
           <h4 className="fw-bold mb-1 text-primary d-flex align-items-center">
-            <FaUserShield className="me-2 text-warning" /> COLLEGE_SEARCH Management Console
+            <FaUserShield className="me-2 text-warning" /> thecollegecompass Management Console
           </h4>
           <span className="text-muted small">Active User: <strong>{currentUser.name}</strong> ({currentUser.role.toUpperCase()})</span>
         </div>

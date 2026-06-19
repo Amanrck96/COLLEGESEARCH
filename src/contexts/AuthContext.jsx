@@ -3,10 +3,10 @@ import React, { createContext, useState, useEffect } from 'react';
 export const AuthContext = createContext();
 
 const DEFAULT_STAFF_USERS = [
-  { id: 1, email: "admin@collegesearch.com", name: "Super Admin", role: "SUPERADMIN", password: "admin" },
-  { id: 2, email: "manager@collegesearch.com", name: "Admin Manager", role: "ADMIN", password: "admin" },
-  { id: 3, email: "operator@collegesearch.com", name: "Data Operator", role: "OPERATOR", password: "admin" },
-  { id: 4, email: "viewer@collegesearch.com", name: "Report Observer", role: "VIEWER", password: "admin" },
+  { id: 1, email: "admin@thecollegecompass.com", name: "Super Admin", role: "SUPERADMIN", password: "admin" },
+  { id: 2, email: "manager@thecollegecompass.com", name: "Admin Manager", role: "ADMIN", password: "admin" },
+  { id: 3, email: "operator@thecollegecompass.com", name: "Data Operator", role: "OPERATOR", password: "admin" },
+  { id: 4, email: "viewer@thecollegecompass.com", name: "Report Observer", role: "VIEWER", password: "admin" },
 ];
 
 const STAFF_ROLE_MAP = {

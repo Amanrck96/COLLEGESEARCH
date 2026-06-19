@@ -26,16 +26,16 @@ async function main() {
   // 3. Create default staff accounts
   console.log("Seeding staff users...");
   const superadmin = await prisma.user.create({
-    data: { email: "admin@collegesearch.com", name: "Super Admin", role: "SUPERADMIN", password: hashedPassword }
+    data: { email: "admin@thecollegecompass.com", name: "Super Admin", role: "SUPERADMIN", password: hashedPassword }
   });
   const admin = await prisma.user.create({
-    data: { email: "manager@collegesearch.com", name: "Admin Manager", role: "ADMIN", password: hashedPassword }
+    data: { email: "manager@thecollegecompass.com", name: "Admin Manager", role: "ADMIN", password: hashedPassword }
   });
   const operator = await prisma.user.create({
-    data: { email: "operator@collegesearch.com", name: "Data Operator", role: "OPERATOR", password: hashedPassword }
+    data: { email: "operator@thecollegecompass.com", name: "Data Operator", role: "OPERATOR", password: hashedPassword }
   });
   const viewer = await prisma.user.create({
-    data: { email: "viewer@collegesearch.com", name: "Report Observer", role: "VIEWER", password: hashedPassword }
+    data: { email: "viewer@thecollegecompass.com", name: "Report Observer", role: "VIEWER", password: hashedPassword }
   });
 
   // Create mock student login user
