@@ -24,7 +24,7 @@ const Contact = () => {
               </div>
               <div className="d-flex align-items-center">
                 <div className="bg-white text-primary p-3 rounded-circle me-3"><FaEnvelope size={24}/></div>
-                <div><h6 className="fw-bold mb-1">Email Address</h6><span className="small opacity-75">support@collegesearch.edu</span></div>
+                <div><h6 className="fw-bold mb-1">Email Address</h6><span className="small opacity-75">support@thecollegecompass.com</span></div>
               </div>
             </Card>
           </Col>

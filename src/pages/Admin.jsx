@@ -17,7 +17,7 @@ const Admin = () => {
     reviews, approveReview, rejectReview, 
     pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate, inaccuracyReports 
   } = useContext(CollegeContext);
-  const { currentUser, students, activityLogs, deleteStudent, updateStudentNotes, logActivity, handleLogin } = useContext(AuthContext);
+  const { currentUser, students, activityLogs, deleteStudent, updateStudentNotes, logActivity, handleLogin, usersList, updateStaffPassword } = useContext(AuthContext);
 
   const [activeTab, setActiveTab] = useState('dashboard');
   const [editingCollege, setEditingCollege] = useState(null);
@@ -28,20 +28,22 @@ const Admin = () => {
   const [adminPassword, setAdminPassword] = useState('');
   const [adminRole, setAdminRole] = useState('superadmin');
   const [adminAuthError, setAdminAuthError] = useState('');
+  const [staffPasswordDrafts, setStaffPasswordDrafts] = useState({});
+  const [staffPasswordMsg, setStaffPasswordMsg] = useState('');
 
   const autofillAdminUser = (role) => {
     setAdminRole(role);
     if (role === 'superadmin') {
-      setAdminEmail('admin@collegesearch.com');
+      setAdminEmail('admin@thecollegecompass.com');
       setAdminPassword('admin');
     } else if (role === 'admin') {
-      setAdminEmail('manager@collegesearch.com');
+      setAdminEmail('manager@thecollegecompass.com');
       setAdminPassword('admin');
     } else if (role === 'operator') {
-      setAdminEmail('operator@collegesearch.com');
+      setAdminEmail('operator@thecollegecompass.com');
       setAdminPassword('admin');
     } else if (role === 'viewer') {
-      setAdminEmail('viewer@collegesearch.com');
+      setAdminEmail('viewer@thecollegecompass.com');
       setAdminPassword('admin');
     }
   };
@@ -55,6 +57,32 @@ const Admin = () => {
       setAdminAuthError('');
     } else {
       setAdminAuthError(res.message);
+    }
+  };
+
+  const getStaffRoleLabel = (role) => {
+    const labels = {
+      SUPERADMIN: 'Super Admin',
+      ADMIN: 'Admin Manager',
+      OPERATOR: 'Data Entry Operator',
+      VIEWER: 'Viewer',
+    };
+    return labels[role] || role;
+  };
+
+  const handleStaffPasswordSave = (staffId) => {
+    if (!hasAccess('superadmin')) {
+      alert('Only Super Admin can change staff passwords.');
+      return;
+    }
+    const draft = staffPasswordDrafts[staffId] || '';
+    const res = updateStaffPassword(staffId, draft);
+    if (res.success) {
+      setStaffPasswordDrafts((prev) => ({ ...prev, [staffId]: '' }));
+      setStaffPasswordMsg(res.message);
+      logActivity(currentUser.name, currentUser.role, 'Admin Action', `Updated password for staff ID ${staffId}`);
+    } else {
+      setStaffPasswordMsg(res.message);
     }
   };
 
@@ -531,7 +559,7 @@ const Admin = () => {
               <Form.Label className="small fw-semibold text-muted">Role Selection</Form.Label>
               <Form.Select 
                 value={adminRole} 
-                onChange={(e) => autofillAdminUser(e.target.value)} 
+                onChange={(e) => setAdminRole(e.target.value)} 
                 required
                 style={{ borderRadius: '8px', padding: '10px' }}
               >
@@ -546,7 +574,7 @@ const Admin = () => {
               <Form.Label className="small fw-semibold text-muted">Email Address</Form.Label>
               <Form.Control 
                 type="email" 
-                placeholder="name@collegesearch.com" 
+                placeholder="name@thecollegecompass.com" 
                 value={adminEmail} 
                 onChange={(e) => setAdminEmail(e.target.value)} 
                 required 
@@ -595,7 +623,7 @@ const Admin = () => {
       <div className="bg-white border-bottom px-4 py-3 d-flex flex-wrap align-items-center justify-content-between">
         <div>
           <h4 className="fw-bold mb-1 text-primary d-flex align-items-center">
-            <FaUserShield className="me-2 text-warning" /> COLLEGE_SEARCH Management Console
+            <FaUserShield className="me-2 text-warning" /> thecollegecompass Management Console
           </h4>
           <span className="text-muted small">Active User: <strong>{currentUser.name}</strong> ({currentUser.role.toUpperCase()})</span>
         </div>
@@ -638,6 +666,14 @@ const Admin = () => {
               >
                 🎓 Student Profiles
               </Nav.Link>
+              {hasAccess('superadmin') && (
+                <Nav.Link 
+                  className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'staff' ? 'active' : 'text-secondary'}`}
+                  onClick={() => setActiveTab('staff')}
+                >
+                  🔐 Staff Accounts
+                </Nav.Link>
+              )}
               <Nav.Link 
                 className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'reviews' ? 'active' : 'text-secondary'}`}
                 onClick={() => setActiveTab('reviews')}
@@ -1152,6 +1188,76 @@ const Admin = () => {
                   )}
                 </Col>
               </Row>
+            </div>
+          )}
+
+          {/* TAB: STAFF ACCOUNTS (Super Admin only) */}
+          {activeTab === 'staff' && hasAccess('superadmin') && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1">Staff Account Passwords</h4>
+                  <p className="text-secondary small mb-0">
+                    Set or reset passwords for Super Admin, Manager, Operator, and Viewer accounts.
+                  </p>
+                </div>
+              </div>
+
+              {staffPasswordMsg && (
+                <Alert variant="success" className="py-2 small" onClose={() => setStaffPasswordMsg('')} dismissible>
+                  {staffPasswordMsg}
+                </Alert>
+              )}
+
+              <Card className="border-0 shadow-sm">
+                <Table responsive hover className="mb-0 align-middle">
+                  <thead className="table-light">
+                    <tr>
+                      <th>Role</th>
+                      <th>Name</th>
+                      <th>Email</th>
+                      <th style={{ minWidth: '260px' }}>New Password</th>
+                      <th>Action</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {usersList.map((staff) => (
+                      <tr key={staff.id}>
+                        <td><Badge bg="primary">{getStaffRoleLabel(staff.role)}</Badge></td>
+                        <td className="fw-semibold">{staff.name}</td>
+                        <td className="text-muted small">{staff.email}</td>
+                        <td>
+                          <Form.Control
+                            type="password"
+                            size="sm"
+                            placeholder="Enter new password (min 4 chars)"
+                            value={staffPasswordDrafts[staff.id] || ''}
+                            onChange={(e) =>
+                              setStaffPasswordDrafts((prev) => ({ ...prev, [staff.id]: e.target.value }))
+                            }
+                            autoComplete="new-password"
+                          />
+                        </td>
+                        <td>
+                          <Button
+                            size="sm"
+                            variant="success"
+                            className="rounded-pill px-3"
+                            onClick={() => handleStaffPasswordSave(staff.id)}
+                          >
+                            Save Password
+                          </Button>
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </Table>
+              </Card>
+
+              <Alert variant="info" className="mt-4 small mb-0">
+                Default demo password for all staff is <strong>admin</strong> until you change it here.
+                Students create their own password when they sign up from the main site login.
+              </Alert>
             </div>
           )}
 

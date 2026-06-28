@@ -40,7 +40,7 @@ const initialSiteData = {
     contactInfo: {
       address: "123 Knowledge Tower, Edu City, Bengaluru 560001",
       phone: "+91 1800-456-7890",
-      email: "support@collegesearch.edu"
+      email: "support@thecollegecompass.com"
     }
   }
 };

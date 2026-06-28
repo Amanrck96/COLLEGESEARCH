@@ -2,6 +2,36 @@ import React, { createContext, useState, useEffect } from 'react';
 
 export const AuthContext = createContext();
 
+const DEFAULT_STAFF_USERS = [
+  { id: 1, email: "admin@thecollegecompass.com", name: "Super Admin", role: "SUPERADMIN", password: "admin" },
+  { id: 2, email: "manager@thecollegecompass.com", name: "Admin Manager", role: "ADMIN", password: "admin" },
+  { id: 3, email: "operator@thecollegecompass.com", name: "Data Operator", role: "OPERATOR", password: "admin" },
+  { id: 4, email: "viewer@thecollegecompass.com", name: "Report Observer", role: "VIEWER", password: "admin" },
+];
+
+const STAFF_ROLE_MAP = {
+  superadmin: 'SUPERADMIN',
+  admin: 'ADMIN',
+  operator: 'OPERATOR',
+  viewer: 'VIEWER',
+};
+
+const normalizeStaffRole = (role) => STAFF_ROLE_MAP[role?.toLowerCase()] || role?.toUpperCase();
+
+const mergeStaffUsers = (saved) => {
+  if (!Array.isArray(saved) || saved.length === 0) return DEFAULT_STAFF_USERS;
+  return DEFAULT_STAFF_USERS.map((defaultUser) => {
+    const match = saved.find((u) => u.email?.toLowerCase() === defaultUser.email.toLowerCase());
+    if (!match) return defaultUser;
+    return {
+      ...defaultUser,
+      ...match,
+      role: defaultUser.role,
+      password: match.password || defaultUser.password,
+    };
+  });
+};
+
 const defaultStudents = [
   {
     id: 1,
@@ -83,14 +113,8 @@ export const AuthProvider = ({ children }) => {
   });
 
   const [usersList, setUsersList] = useState(() => {
-    const defaultUsers = [
-      { id: 1, email: "admin@collegesearch.com", name: "Super Admin", role: "SUPERADMIN", password: "admin" },
-      { id: 2, email: "manager@collegesearch.com", name: "Admin Manager", role: "ADMIN", password: "admin" },
-      { id: 3, email: "operator@collegesearch.com", name: "Data Operator", role: "OPERATOR", password: "admin" },
-      { id: 4, email: "viewer@collegesearch.com", name: "Report Observer", role: "VIEWER", password: "admin" }
-    ];
     const saved = localStorage.getItem('usersList');
-    return saved ? JSON.parse(saved) : defaultUsers;
+    return saved ? mergeStaffUsers(JSON.parse(saved)) : DEFAULT_STAFF_USERS;
   });
 
   useEffect(() => {
@@ -124,16 +148,22 @@ export const AuthProvider = ({ children }) => {
 
   // Sign up/Login Handlers
   const handleLogin = (email, password, selectedRole) => {
-    // If it's a student login, search in students database or auto-create it
+    const trimmedEmail = email.trim().toLowerCase();
+    const trimmedPassword = password.trim();
+
+    // Student login / self-registration
     if (selectedRole === 'student') {
-      let student = students.find(s => s.email === email);
+      if (!trimmedPassword || trimmedPassword.length < 4) {
+        return { success: false, message: "Password must be at least 4 characters." };
+      }
+
+      let student = students.find((s) => s.email.toLowerCase() === trimmedEmail);
       if (!student) {
-        // New student — create their profile (password stored for future verification)
         student = {
           id: Date.now(),
-          name: email.split('@')[0],
-          email: email,
-          password: password || "",
+          name: trimmedEmail.split('@')[0],
+          email: trimmedEmail,
+          password: trimmedPassword,
           mobile: "+91 99999 99999",
           city: "New Delhi",
           state: "Delhi",
@@ -148,14 +178,20 @@ export const AuthProvider = ({ children }) => {
           downloadHistory: [],
           adminNotes: ""
         };
-        setStudents(prev => [...prev, student]);
+        setStudents((prev) => [...prev, student]);
+        logActivity(student.name, "Student", "Sign Up", `New student account created for ${trimmedEmail}`);
       } else {
-        // Fix #4: Validate password for returning students
-        // (skip check if student has no stored password — legacy accounts)
-        if (student.password && student.password !== password) {
-          return { success: false, message: "Incorrect password for this email address." };
+        if (student.password) {
+          if (student.password !== trimmedPassword) {
+            return { success: false, message: "Incorrect password for this email address." };
+          }
+        } else {
+          setStudents((prev) =>
+            prev.map((s) => (s.id === student.id ? { ...s, password: trimmedPassword } : s))
+          );
         }
       }
+
       const activeUser = {
         name: student.name,
         email: student.email,
@@ -167,13 +203,20 @@ export const AuthProvider = ({ children }) => {
       return { success: true, user: activeUser };
     }
 
-    // Standard Staff Roles Lookup
-    const matchedUser = usersList.find(u => u.email === email && u.role === selectedRole.toUpperCase() && password === u.password);
+    // Staff roles lookup
+    const normalizedRole = normalizeStaffRole(selectedRole);
+    const matchedUser = usersList.find(
+      (u) =>
+        u.email.toLowerCase() === trimmedEmail &&
+        u.role.toUpperCase() === normalizedRole &&
+        u.password === trimmedPassword
+    );
+
     if (matchedUser) {
       const activeUser = {
         name: matchedUser.name,
         email: matchedUser.email,
-        role: selectedRole
+        role: selectedRole.toLowerCase()
       };
       setCurrentUser(activeUser);
       logActivity(matchedUser.name, selectedRole, "Login", `Staff user authenticated. Session assigned.`);
@@ -181,6 +224,17 @@ export const AuthProvider = ({ children }) => {
     }
 
     return { success: false, message: "Invalid email, password, or role choice." };
+  };
+
+  const updateStaffPassword = (staffId, newPassword) => {
+    const trimmed = newPassword.trim();
+    if (!trimmed || trimmed.length < 4) {
+      return { success: false, message: "Password must be at least 4 characters." };
+    }
+    setUsersList((prev) =>
+      prev.map((u) => (u.id === staffId ? { ...u, password: trimmed } : u))
+    );
+    return { success: true, message: "Staff password updated successfully." };
   };
 
   const handleLogout = () => {
@@ -241,7 +295,8 @@ export const AuthProvider = ({ children }) => {
       logActivity,
       trackStudentActivity,
       updateStudentNotes,
-      deleteStudent
+      deleteStudent,
+      updateStaffPassword
     }}>
       {children}
     </AuthContext.Provider>

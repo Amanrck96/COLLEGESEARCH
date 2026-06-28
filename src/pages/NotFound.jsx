@@ -75,7 +75,7 @@ const NotFound = () => {
         </h1>
 
         <p className="mb-2" style={{ color: 'rgba(255,255,255,0.65)', fontSize: '1rem' }}>
-          The URL you visited doesn&apos;t match any page in CollegeSearch.
+          The URL you visited doesn&apos;t match any page in thecollegecompass.
         </p>
 
         {/* Show the attempted path */}
