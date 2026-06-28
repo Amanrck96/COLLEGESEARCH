@@ -36,16 +36,16 @@ const Header = () => {
       setEmail('aarav.sharma@gmail.com');
       setPassword('password123');
     } else if (role === 'superadmin') {
-      setEmail('admin@collegesearch.com');
+      setEmail('admin@thecollegecompass.com');
       setPassword('admin');
     } else if (role === 'admin') {
-      setEmail('manager@collegesearch.com');
+      setEmail('manager@thecollegecompass.com');
       setPassword('admin');
     } else if (role === 'operator') {
-      setEmail('operator@collegesearch.com');
+      setEmail('operator@thecollegecompass.com');
       setPassword('admin');
     } else if (role === 'viewer') {
-      setEmail('viewer@collegesearch.com');
+      setEmail('viewer@thecollegecompass.com');
       setPassword('admin');
     }
   };
@@ -75,8 +75,8 @@ const Header = () => {
       <div className="search-tier d-none d-lg-block">
         <Container fluid className="px-5 d-flex align-items-center">
           <Link to="/" className="text-white text-decoration-none fw-bold fs-4 me-5" style={{letterSpacing: '1px'}}>
-            <span style={{color: 'var(--white)'}}>COLLEGE</span>
-            <span style={{color: '#f26822'}}>SEARCH</span>
+            <span style={{color: 'var(--white)'}}>thecollege</span>
+            <span style={{color: '#f26822'}}>compass</span>
           </Link>
 
           <div className="flex-grow-1 ms-5 me-5">
@@ -101,7 +101,7 @@ const Header = () => {
       {/* Bottom Nav Tier with Mega Menus */}
       <Navbar expand="lg" variant="dark" className="custom-navbar position-relative">
         <Container fluid className="px-5 position-relative">
-          <Navbar.Brand as={Link} to="/" className="d-lg-none fw-bold text-white">COLLEGE<span style={{color: '#f26822'}}>SEARCH</span></Navbar.Brand>
+          <Navbar.Brand as={Link} to="/" className="d-lg-none fw-bold text-white">thecollege<span style={{color: '#f26822'}}>compass</span></Navbar.Brand>
           <Navbar.Toggle aria-controls="main-navbar" className="border-0 shadow-none"/>
           <Navbar.Collapse id="main-navbar">
             <Nav className="me-auto align-items-lg-center">
@@ -362,9 +362,9 @@ const Header = () => {
                 </div>
               </div>
 
-              {/* COLLEGESEARCH ONLINE MEGA MENU */}
+              {/* thecollegecompass MEGA MENU */}
               <div className="nav-item">
-                <Nav.Link as={Link} to="/news" className="fw-semibold">COLLEGESEARCH ONLINE <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
+                <Nav.Link as={Link} to="/news" className="fw-semibold">thecollegecompass <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
                   <div className="mega-sidebar">
                     {onlineTabs.map(tab => (
@@ -427,7 +427,7 @@ const Header = () => {
       {/* Auth & Portal Access Modal */}
       <Modal show={showAuthModal} onHide={() => setShowAuthModal(false)} centered contentClassName="border-0 shadow text-dark" style={{ color: '#333' }}>
         <Modal.Header closeButton className="bg-light">
-          <Modal.Title className="fw-bold text-primary">COLLEGESEARCH Portal Login</Modal.Title>
+          <Modal.Title className="fw-bold text-primary">thecollegecompass Portal Login</Modal.Title>
         </Modal.Header>
         <Modal.Body className="p-4">
           {authError && <div className="alert alert-danger py-2 small">{authError}</div>}
