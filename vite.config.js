@@ -15,6 +15,9 @@ export default defineConfig({
     watch: {
       ignored: ['**/public/siteData.json']
     }
+  },
+  build: {
+    chunkSizeWarningLimit: 1600,
   }
 })
 
