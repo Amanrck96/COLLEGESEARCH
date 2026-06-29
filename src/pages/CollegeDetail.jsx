@@ -10,6 +10,7 @@ import {
 import { useParams, useLocation } from 'react-router-dom';
 import { CollegeContext } from '../contexts/CollegeContext';
 import { AuthContext } from '../contexts/AuthContext';
+import { useToast } from '../contexts/ToastContext';
 import { generateMissingDetails } from '../utils/geminiApi';
 import CollegeImg from '../components/CollegeImg';
 import { useTranslation } from '../utils/i18n';
@@ -19,7 +20,34 @@ const CollegeDetail = () => {
   const location = useLocation();
   const { colleges, loading, reviews, addReview, addInaccuracyReport } = useContext(CollegeContext);
   const { currentUser, trackStudentActivity } = useContext(AuthContext);
-  const college = (colleges || []).find(c => String(c.id) === String(id));
+  const { showToast } = useToast();
+
+  const [college, setCollege] = useState(null);
+  const [detailLoading, setDetailLoading] = useState(true);
+
+  useEffect(() => {
+    const found = (colleges || []).find(c => String(c.id) === String(id));
+    if (found) {
+      setCollege(found);
+      setDetailLoading(false);
+    } else {
+      setDetailLoading(true);
+      fetch(`http://localhost:5000/api/colleges/${id}`)
+        .then(res => {
+          if (!res.ok) throw new Error("College not found");
+          return res.json();
+        })
+        .then(data => {
+          setCollege(data);
+          setDetailLoading(false);
+        })
+        .catch(err => {
+          console.error(err);
+          setDetailLoading(false);
+        });
+    }
+  }, [id, colleges]);
+
   const { t } = useTranslation();
 
   const [activeTab, setActiveTab] = useState('overview');
@@ -122,11 +150,11 @@ const CollegeDetail = () => {
   const handleApply = () => {
     // Fix #7: Guard against unauthenticated apply attempts
     if (!currentUser) {
-      alert("Please log in first to submit an admission inquiry. Click 'Login / Portal Access' in the top navigation.");
+      showToast("Please log in first to submit an admission inquiry.", "warning");
       return;
     }
     trackStudentActivity('apply', college.id);
-    alert(`Your application inquiry for ${college.name} has been submitted successfully! One of our expert academic counselors will contact you at ${currentUser?.email || 'your registered address'} shortly.`);
+    showToast(`Application inquiry for ${college.name} submitted successfully!`, "success");
   };
 
   useEffect(() => {
@@ -139,13 +167,13 @@ const CollegeDetail = () => {
 
   const handleDownloadBrochure = () => {
     trackStudentActivity('download', `${college.shortName || 'College'}_Brochure.pdf`);
-    alert(`Downloading ${college.name} official brochure PDF file. It has been logged in your profile activity tab!`);
+    showToast(`Brochure download started and logged in profile activity.`, "success");
   };
 
   const handleReviewSubmit = (e) => {
     e.preventDefault();
     if (!reviewName.trim() || !reviewContent.trim()) {
-      alert("Please fill in both name and review comment text.");
+      showToast("Please fill in both name and review comment text.", "warning");
       return;
     }
     addReview({
@@ -155,11 +183,10 @@ const CollegeDetail = () => {
       content: reviewContent
     });
     setReviewContent('');
-    setReviewSubmitted(true);
-    setTimeout(() => setReviewSubmitted(false), 5000);
+    showToast("Review submitted successfully! Pending admin approval.", "success");
   };
 
-  if (loading) {
+  if (loading || detailLoading) {
     return (
       <Container className="my-5 text-center">
         <Spinner animation="border" variant="primary" style={{ width: '3rem', height: '3rem' }} />
@@ -177,10 +204,36 @@ const CollegeDetail = () => {
     c.title.toLowerCase().includes(courseSearch.toLowerCase())
   );
 
-  // Filter approved reviews for this college
-  const collegeReviews = (reviews || []).filter(r => 
-    Number(r.collegeId) === Number(college.id) && r.status === 'APPROVED'
-  );
+  // Filter approved reviews for this college and deduplicate by content
+  const collegeReviews = [];
+  const seenContent = new Set();
+  (reviews || []).forEach(r => {
+    if (Number(r.collegeId) === Number(college.id) && r.status === 'APPROVED') {
+      const cleanContent = r.content.trim().toLowerCase();
+      if (!seenContent.has(cleanContent)) {
+        seenContent.add(cleanContent);
+        collegeReviews.push(r);
+      }
+    }
+  });
+
+  const getRealisticCutoff = (examName, ratingVal, is2025 = true) => {
+    const baseRating = parseFloat(ratingVal) || 4.0;
+    const examLower = examName.toLowerCase();
+    if (examLower.includes('cat') || examLower.includes('mat')) {
+      const percentile = Math.min(99.8, Math.max(70.0, baseRating * 20 + (is2025 ? 2.5 : 1.2)));
+      return `${percentile.toFixed(1)} Percentile`;
+    } else if (examLower.includes('neet')) {
+      const marks = Math.min(715, Math.max(350, Math.floor(baseRating * 130 + (is2025 ? 12 : 0))));
+      return `${marks} Marks`;
+    } else if (examLower.includes('clat')) {
+      const rank = Math.max(10, Math.floor(10000 / (baseRating * baseRating)));
+      return `AIR ${rank}`;
+    } else {
+      const percentile = Math.min(99.9, Math.max(80.0, baseRating * 21 + (is2025 ? 1.8 : 0.5)));
+      return `${percentile.toFixed(1)} Percentile`;
+    }
+  };
 
   return (
     <div className="pt-2">
@@ -365,12 +418,10 @@ const CollegeDetail = () => {
                                   <td><Badge bg="warning" text="dark">{examLabel}</Badge></td>
                                   <td>All India (Open)</td>
                                   <td className="fw-bold text-success">
-                                    {examLabel.toLowerCase().includes('cat') ? "95.5 Percentile" : 
-                                     examLabel.toLowerCase().includes('neet') ? "612 Marks" : "98.2 Percentile"}
+                                    {getRealisticCutoff(examLabel, college.rating, true)}
                                   </td>
                                   <td className="text-muted">
-                                    {examLabel.toLowerCase().includes('cat') ? "94.8 Percentile" : 
-                                     examLabel.toLowerCase().includes('neet') ? "600 Marks" : "97.5 Percentile"}
+                                    {getRealisticCutoff(examLabel, college.rating, false)}
                                   </td>
                                 </tr>
                               );

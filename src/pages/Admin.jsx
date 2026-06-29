@@ -7,11 +7,13 @@ import {
 } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
 import { AuthContext } from '../contexts/AuthContext';
+import { useToast } from '../contexts/ToastContext';
 import * as XLSX from 'xlsx';
 import { useTranslation } from '../utils/i18n';
 
 const Admin = () => {
   const { t } = useTranslation();
+  const { showToast } = useToast();
   const { 
     colleges, addCollege, updateCollege, deleteCollege, loading: collegeLoading, 
     reviews, approveReview, rejectReview, 
@@ -304,7 +306,6 @@ const Admin = () => {
   const handleMappingChange = (field, excelHeader) => {
     setColumnMapping(prev => ({ ...prev, [field]: excelHeader }));
   };
-
   const proceedToImportPreview = () => {
     // Compile preview data based on mapping
     const parsedData = excelRows.map((row, index) => {
@@ -314,9 +315,30 @@ const Admin = () => {
       
       // Validation checks
       const errors = [];
-      if (!nameVal) errors.push("Missing College Name");
-      if (!locationVal) errors.push("Missing Location");
-      if (!stateVal) errors.push("Missing State");
+      if (!nameVal || String(nameVal).trim() === '') errors.push("Missing College Name");
+      if (!locationVal || String(locationVal).trim() === '') errors.push("Missing Location");
+      if (!stateVal || String(stateVal).trim() === '') errors.push("Missing State");
+
+      // Validate fees format
+      const feesVal = row[columnMapping['Fees']];
+      if (feesVal !== undefined && feesVal !== null) {
+        const feeStr = String(feesVal).trim();
+        if (feeStr && feeStr.toLowerCase() !== 'contact for details' && isNaN(parseFloat(feeStr.replace(/[^\d.]/g, '')))) {
+          errors.push("Invalid Fees format");
+        }
+      }
+
+      // Validate established year
+      const establishedVal = row[columnMapping['Established']];
+      if (establishedVal !== undefined && establishedVal !== null) {
+        const estStr = String(establishedVal).trim();
+        if (estStr && estStr !== 'Unknown' && estStr !== 'N/A') {
+          const year = parseInt(estStr);
+          if (isNaN(year) || year < 1000 || year > new Date().getFullYear()) {
+            errors.push("Invalid Established Year");
+          }
+        }
+      }
 
       // Check duplicates
       const isDuplicate = colleges.some(c => c.name.toLowerCase().trim() === String(nameVal).toLowerCase().trim());
@@ -478,16 +500,23 @@ const Admin = () => {
   };
 
   const triggerDelete = (id, name) => {
-    if (!hasAccess('admin')) return alert("Permission Denied: Only Admins/Super Admins can delete entries.");
+    if (!hasAccess('admin')) {
+      showToast("Permission Denied: Only Admins/Super Admins can delete entries.", "error");
+      return;
+    }
     if (window.confirm(`Are you sure you want to delete ${name}?`)) {
       deleteCollege(id);
       logActivity(currentUser.name, currentUser.role, "Admin Action", `Deleted college profile manually: ${name}`);
+      showToast(`Successfully deleted ${name} from directory.`, "success");
     }
   };
 
   // Remove duplicates utility
   const removeDuplicatesManually = () => {
-    if (!hasAccess('admin')) return alert("Permission Denied.");
+    if (!hasAccess('admin')) {
+      showToast("Permission Denied.", "error");
+      return;
+    }
     const names = new Set();
     const duplicates = [];
     colleges.forEach(c => {
@@ -500,14 +529,14 @@ const Admin = () => {
     });
 
     if (duplicates.length === 0) {
-      alert("No duplicate college records found!");
+      showToast("No duplicate college records found!", "info");
       return;
     }
 
     if (window.confirm(`Found ${duplicates.length} duplicate entries based on names. Delete duplicates automatically?`)) {
       duplicates.forEach(d => deleteCollege(d.id));
       logActivity(currentUser.name, currentUser.role, "Admin Action", `De-duplicated college dataset. Removed ${duplicates.length} entries.`);
-      alert(`Successfully cleaned database. Removed ${duplicates.length} duplicate items.`);
+      showToast(`Successfully cleaned database. Removed ${duplicates.length} duplicate items.`, "success");
     }
   };
 
@@ -527,10 +556,13 @@ const Admin = () => {
   };
 
   const saveStudentNotes = () => {
-    if (!hasAccess('operator')) return alert("Permission Denied.");
+    if (!hasAccess('operator')) {
+      showToast("Permission Denied.", "error");
+      return;
+    }
     updateStudentNotes(selectedStudent.id, studentNotesInput);
     setSelectedStudent(prev => ({ ...prev, adminNotes: studentNotesInput }));
-    alert("Admin notes saved successfully!");
+    showToast("Admin notes saved successfully!", "success");
   };
 
   // Check locking
@@ -710,47 +742,51 @@ const Admin = () => {
             <div>
               <Row className="g-3 mb-4">
                 <Col md={3}>
-                  <Card className="border-0 shadow-sm p-4 bg-primary text-white">
+                  <Card className="dashboard-stat-card stat-card-students">
                     <div className="d-flex justify-content-between align-items-center">
                       <div>
-                        <div className="small opacity-75">TOTAL STUDENTS</div>
-                        <h2 className="fw-bold mt-1">{students.length}</h2>
+                        <div className="stat-card-label">TOTAL STUDENTS</div>
+                        <h2 className="stat-card-value">{students.length}</h2>
                       </div>
-                      <FaUserGraduate size={32} className="opacity-50" />
+                      <FaUserGraduate size={32} className="opacity-75" />
                     </div>
+                    <div className="stat-icon-bg"><FaUserGraduate /></div>
                   </Card>
                 </Col>
                 <Col md={3}>
-                  <Card className="border-0 shadow-sm p-4 bg-success text-white">
+                  <Card className="dashboard-stat-card stat-card-colleges">
                     <div className="d-flex justify-content-between align-items-center">
                       <div>
-                        <div className="small opacity-75">TOTAL COLLEGES</div>
-                        <h2 className="fw-bold mt-1">{colleges.length}</h2>
+                        <div className="stat-card-label">TOTAL COLLEGES</div>
+                        <h2 className="stat-card-value">{colleges.length}</h2>
                       </div>
-                      <FaSchool size={32} className="opacity-50" />
+                      <FaSchool size={32} className="opacity-75" />
                     </div>
+                    <div className="stat-icon-bg"><FaSchool /></div>
                   </Card>
                 </Col>
                 <Col md={3}>
-                  <Card className="border-0 shadow-sm p-4 bg-warning text-dark">
+                  <Card className="dashboard-stat-card stat-card-reviews">
                     <div className="d-flex justify-content-between align-items-center">
                       <div>
-                        <div className="small opacity-75">PENDING REVIEWS</div>
-                        <h2 className="fw-bold mt-1">{reviews.filter(r => r.status === 'PENDING').length}</h2>
+                        <div className="stat-card-label">PENDING REVIEWS</div>
+                        <h2 className="stat-card-value">{reviews.filter(r => r.status === 'PENDING').length}</h2>
                       </div>
-                      <FaExclamationTriangle size={32} className="opacity-50" />
+                      <FaExclamationTriangle size={32} className="opacity-75" />
                     </div>
+                    <div className="stat-icon-bg"><FaExclamationTriangle /></div>
                   </Card>
                 </Col>
                 <Col md={3}>
-                  <Card className="border-0 shadow-sm p-4 bg-info text-white">
+                  <Card className="dashboard-stat-card stat-card-logs">
                     <div className="d-flex justify-content-between align-items-center">
                       <div>
-                        <div className="small opacity-75">TOTAL SYSTEM LOGS</div>
-                        <h2 className="fw-bold mt-1">{activityLogs.length}</h2>
+                        <div className="stat-card-label">TOTAL SYSTEM LOGS</div>
+                        <h2 className="stat-card-value">{activityLogs.length}</h2>
                       </div>
-                      <FaHistory size={32} className="opacity-50" />
+                      <FaHistory size={32} className="opacity-75" />
                     </div>
+                    <div className="stat-icon-bg"><FaHistory /></div>
                   </Card>
                 </Col>
               </Row>

@@ -1,83 +1,244 @@
 import React, { useState, useEffect, useContext, useRef } from 'react';
 import { Container, Row, Col, Card, Form, Badge, Button, InputGroup, Spinner } from 'react-bootstrap';
 import { motion } from 'framer-motion';
-import { Link, useLocation, useNavigate } from 'react-router-dom';
+import { Link, useLocation, useNavigate, useSearchParams } from 'react-router-dom';
 import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark } from 'react-icons/fa';
 
 import { CollegeContext } from '../contexts/CollegeContext';
 import { AuthContext } from '../contexts/AuthContext';
+import { useToast } from '../contexts/ToastContext';
 import CollegeImg from '../components/CollegeImg';
 import { aiSearchColleges } from '../utils/geminiApi';
 
 const Colleges = () => {
-  const { colleges, loading } = useContext(CollegeContext);
+  const { fetchColleges } = useContext(CollegeContext);
   const { trackStudentActivity, currentUser } = useContext(AuthContext);
+  const { showToast } = useToast();
   const location = useLocation();
   const navigate = useNavigate();
-  const [searchTerm, setSearchTerm] = useState("");
+  const [searchParams, setSearchParams] = useSearchParams();
+  const [collegesList, setCollegesList] = useState([]);
+  const [totalColleges, setTotalColleges] = useState(0);
+  const [collegesLoading, setCollegesLoading] = useState(false);
   const [saved, setSaved] = useState({});
-  const [sortBy, setSortBy] = useState("rating");
-  const [currentPage, setCurrentPage] = useState(1);
   const [aiColleges, setAiColleges] = useState([]);
   const [aiLoading, setAiLoading] = useState(false);
   const itemsPerPage = 12;
 
-  // Advanced Filters State
-  const [filterCountry, setFilterCountry] = useState("");
-  const [filterState, setFilterState] = useState("");
-  const [filterCity, setFilterCity] = useState("");
-  const [filterCourse, setFilterCourse] = useState("");
-  const [filterFeeRange, setFilterFeeRange] = useState("");
-  const [filterRating, setFilterRating] = useState("");
-  const [filterPlacement, setFilterPlacement] = useState("");
-  const [filterHostel, setFilterHostel] = useState("");
-  const [filterType, setFilterType] = useState("");
+  // Deriving filter state from searchParams
+  const searchTerm = searchParams.get('q') || '';
+  const filterCountry = searchParams.get('country') || '';
+  const filterState = searchParams.get('state') || '';
+  const filterCity = searchParams.get('city') || '';
+  const filterCourse = searchParams.get('course') || '';
+  const filterFeeRange = searchParams.get('feeRange') || '';
+  const filterRating = searchParams.get('rating') || '';
+  const filterPlacement = searchParams.get('placement') || '';
+  const filterHostel = searchParams.get('hostel') || '';
+  const filterType = searchParams.get('type') || '';
+  const sortBy = searchParams.get('sortBy') || 'rating';
+  const currentPage = parseInt(searchParams.get('page') || '1');
 
-  const lastSyncedSearchRef = useRef(null);
+  // Setter helpers that modify searchParams
+  const setSearchTerm = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('q', val);
+      else prev.delete('q');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
 
-  // Auto-reset lower scopes when country changes
+  const setFilterCountry = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('country', val);
+      else prev.delete('country');
+      prev.delete('state');
+      prev.delete('city');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setFilterState = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('state', val);
+      else prev.delete('state');
+      prev.delete('city');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setFilterCity = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('city', val);
+      else prev.delete('city');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setFilterCourse = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('course', val);
+      else prev.delete('course');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setFilterFeeRange = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('feeRange', val);
+      else prev.delete('feeRange');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setFilterRating = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('rating', val);
+      else prev.delete('rating');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setFilterPlacement = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('placement', val);
+      else prev.delete('placement');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setFilterHostel = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('hostel', val);
+      else prev.delete('hostel');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setFilterType = (val) => {
+    setSearchParams(prev => {
+      if (val) prev.set('type', val);
+      else prev.delete('type');
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setSortBy = (val) => {
+    setSearchParams(prev => {
+      prev.set('sortBy', val);
+      prev.set('page', '1');
+      return prev;
+    });
+  };
+
+  const setCurrentPage = (val) => {
+    setSearchParams(prev => {
+      prev.set('page', String(val));
+      return prev;
+    });
+  };
+
+  // 1. Fetch filtered/paginated colleges from backend
   useEffect(() => {
-    setFilterState("");
-    setFilterCity("");
-  }, [filterCountry]);
+    const loadColleges = async () => {
+      setCollegesLoading(true);
+      const params = {
+        q: searchTerm,
+        country: filterCountry,
+        state: filterState,
+        city: filterCity,
+        course: filterCourse,
+        rating: filterRating,
+        placement: filterPlacement,
+        hostel: filterHostel,
+        type: filterType,
+        sortBy,
+        page: currentPage,
+        limit: itemsPerPage
+      };
+      
+      const data = await fetchColleges(params);
+      setCollegesList(data.colleges || []);
+      setTotalColleges(data.totalCount || 0);
+      setCollegesLoading(false);
+    };
 
+    loadColleges();
+  }, [
+    searchTerm,
+    filterCountry,
+    filterState,
+    filterCity,
+    filterCourse,
+    filterRating,
+    filterPlacement,
+    filterHostel,
+    filterType,
+    sortBy,
+    currentPage
+  ]);
+
+  // 2. Fetch distinct dropdown lists in background from siteData.json
+  const [dropdownData, setDropdownData] = useState({ countries: ['India'], states: [], cities: [], courses: [] });
   useEffect(() => {
-    const params = new URLSearchParams(location.search);
-    const query = params.get('q') || '';
-    setSearchTerm(query);
+    fetch('/siteData.json')
+      .then(res => res.json())
+      .then(data => {
+        const list = data.colleges || [];
+        const countries = [...new Set(list.map(c => c.country || 'India').filter(Boolean))].sort();
+        const states = [...new Set(list.map(c => c.state).filter(Boolean))].sort();
+        const cities = [...new Set(list.map(c => c.location).filter(Boolean))].sort();
+        const coursesSet = new Set();
+        list.forEach(c => {
+          (c.courses || []).forEach(co => {
+            if (co.title) coursesSet.add(co.title);
+          });
+        });
+        setDropdownData({
+          countries,
+          states,
+          cities,
+          courses: Array.from(coursesSet).sort()
+        });
+      })
+      .catch(err => console.warn("Could not load distinct dropdown lists:", err));
+  }, []);
 
-    if (location.search !== lastSyncedSearchRef.current) {
-      lastSyncedSearchRef.current = location.search;
-      if (query && currentUser?.role === 'student') {
-        trackStudentActivity('search', query);
-      }
-    }
-  }, [location.search, currentUser]);
+  // Filter lists based on selected country/state
+  const uniqueCountries = dropdownData.countries;
+  const uniqueStates = dropdownData.states;
+  const uniqueCities = dropdownData.cities;
+  const uniqueCourses = dropdownData.courses;
+
+  const currentItems = collegesList;
+  const totalPages = Math.ceil(totalColleges / itemsPerPage);
+
+  // Scroll to top on page or filter change
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, [currentPage, filterCountry, filterState, filterCity, filterCourse, filterFeeRange, filterRating, filterPlacement, filterHostel, filterType, sortBy]);
 
   const toggleSave = (id) => {
-    // Fix #21: Also track the save activity so it persists in the student profile
-    setSaved(prev => ({...prev, [id]: !prev[id]}));
+    const isSaved = !saved[id];
+    setSaved(prev => ({...prev, [id]: isSaved}));
     if (currentUser?.role === 'student') {
       trackStudentActivity('save', id);
     }
+    showToast(isSaved ? '✨ Added college to bookmarks!' : 'Removed college from bookmarks.', 'success');
   };
 
   const handleSearchSubmit = (e) => {
     e.preventDefault();
-    const trimmed = searchTerm.trim();
-    const params = new URLSearchParams(location.search);
-
-    if (trimmed) {
-      params.set('q', trimmed);
-    } else {
-      params.delete('q');
-    }
-
-    const nextSearch = params.toString();
-    navigate(
-      { pathname: '/colleges', search: nextSearch ? `?${nextSearch}` : '' },
-      { replace: location.pathname === '/colleges' && location.search === (nextSearch ? `?${nextSearch}` : '') }
-    );
   };
 
   const handleApplyFromList = (college) => {
@@ -86,168 +247,22 @@ const Colleges = () => {
     }
   };
 
-  const uniqueCountries = React.useMemo(() => {
-    return [...new Set((colleges || []).map(c => c.country || 'India').filter(Boolean))].sort();
-  }, [colleges]);
-
-  const uniqueStates = React.useMemo(() => {
-    const base = filterCountry 
-      ? (colleges || []).filter(c => String(c.country || 'India').toLowerCase() === filterCountry.toLowerCase())
-      : (colleges || []);
-    return [...new Set(base.map(c => c.state).filter(Boolean))].sort();
-  }, [colleges, filterCountry]);
-
-  const uniqueCities = React.useMemo(() => {
-    const base = filterState 
-      ? (colleges || []).filter(c => String(c.state).toLowerCase() === filterState.toLowerCase())
-      : (colleges || []);
-    return [...new Set(base.map(c => c.location).filter(Boolean))].sort();
-  }, [colleges, filterState]);
-
-  const uniqueCourses = React.useMemo(() => {
-    const list = new Set();
-    (colleges || []).forEach(c => {
-      (c.courses || []).forEach(co => {
-        if (co.title) list.add(co.title);
-      });
-    });
-    return Array.from(list).sort();
-  }, [colleges]);
-
-  // Semantic query parser for advanced searches
-  const filteredColleges = React.useMemo(() => {
-    let results = [...(colleges || [])];
-
-    // 1. Text Search Filter (name, code, location, state)
-    if (searchTerm) {
-      const queryLower = searchTerm.toLowerCase();
-      results = results.filter(c => 
-        c.name.toLowerCase().includes(queryLower) ||
-        (c.shortName || '').toLowerCase().includes(queryLower) ||
-        (c.location || '').toLowerCase().includes(queryLower) ||
-        (c.state || '').toLowerCase().includes(queryLower)
-      );
-    }
-
-    // 2. Dropdown Filters
-    if (filterCountry) {
-      results = results.filter(c => String(c.country || 'India').toLowerCase() === filterCountry.toLowerCase());
-    }
-    if (filterState) {
-      results = results.filter(c => String(c.state || '').toLowerCase() === filterState.toLowerCase());
-    }
-    if (filterCity) {
-      results = results.filter(c => String(c.location || '').toLowerCase() === filterCity.toLowerCase());
-    }
-    if (filterType) {
-      results = results.filter(c => String(c.type || '').toLowerCase() === filterType.toLowerCase());
-    }
-    if (filterRating) {
-      results = results.filter(c => (c.rating || 0) >= parseFloat(filterRating));
-    }
-    
-    // 3. Course Filter
-    if (filterCourse) {
-      results = results.filter(c => 
-        (c.courses || []).some(co => String(co.title || '').toLowerCase().includes(filterCourse.toLowerCase()))
-      );
-    }
-
-    // 4. Fee Range Filter (fees are stored as raw numbers like 250000 — compare in lakhs)
-    if (filterFeeRange) {
-      results = results.filter(c => {
-        const feeStr = String(c.fees || '0');
-        const numericFeeRaw = parseFloat(feeStr.replace(/[^\d.]/g, '')) || 0;
-        // Convert to lakhs (divide by 100,000) for comparison
-        const numericFee = numericFeeRaw >= 100 ? numericFeeRaw / 100000 : numericFeeRaw;
-        
-        if (filterFeeRange === 'under_1') {
-          return numericFee < 1;
-        } else if (filterFeeRange === '1_3') {
-          return numericFee >= 1 && numericFee <= 3;
-        } else if (filterFeeRange === '3_5') {
-          return numericFee > 3 && numericFee <= 5;
-        } else if (filterFeeRange === 'above_5') {
-          return numericFee > 5;
-        }
-        return true;
-      });
-    }
-
-    // 5. Placement Filter (Average Package)
-    if (filterPlacement) {
-      results = results.filter(c => {
-        const pkgStr = String(c.averagePackage || c.average_package || '0');
-        const numericPkg = parseFloat(pkgStr.replace(/[^\d.]/g, '')) || 0;
-        
-        if (filterPlacement === 'above_15') return numericPkg >= 15;
-        if (filterPlacement === 'above_10') return numericPkg >= 10;
-        if (filterPlacement === 'above_5') return numericPkg >= 5;
-        return true;
-      });
-    }
-
-    // 6. Hostel Filter
-    if (filterHostel) {
-      results = results.filter(c => {
-        const cleanHostel = String(c.facilities || '').toLowerCase() + String(c.about || '').toLowerCase();
-        const hasHostel = cleanHostel.includes('hostel') || cleanHostel.includes('dorm');
-        return filterHostel === 'yes' ? hasHostel : !hasHostel;
-      });
-    }
-
-    // 7. Apply Sorting
-    if (sortBy === "rating") {
-      results.sort((a, b) => (b.rating || 0) - (a.rating || 0));
-    } else if (sortBy === "fees_low") {
-      results.sort((a, b) => {
-        const feeA = parseFloat(String(a.fees || '0').replace(/[^\d.]/g, '')) || 0;
-        const feeB = parseFloat(String(b.fees || '0').replace(/[^\d.]/g, '')) || 0;
-        return feeA - feeB;
-      });
-    }
-
-    return results;
-  }, [colleges, searchTerm, filterCountry, filterState, filterCity, filterCourse, filterFeeRange, filterRating, filterPlacement, filterHostel, filterType, sortBy]);
-
-
-  // Derived visible colleges per page
-  const totalPages = Math.ceil(filteredColleges.length / itemsPerPage);
-  const currentItems = filteredColleges.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
-
-  // Auto-reset page when filter changes
-  useEffect(() => {
-    setCurrentPage(1);
-  }, [
-    searchTerm,
-    sortBy,
-    filterCountry,
-    filterState,
-    filterCity,
-    filterCourse,
-    filterFeeRange,
-    filterRating,
-    filterPlacement,
-    filterHostel,
-    filterType,
-  ]);
-
   // AI Fallback Search Effect
   // Fix #9: Use a ref to track whether we've already searched to avoid infinite re-render
   const aiSearchedRef = React.useRef('');
   useEffect(() => {
-    if (searchTerm && filteredColleges.length === 0 && aiSearchedRef.current !== searchTerm) {
+    if (searchTerm && totalColleges === 0 && !collegesLoading && aiSearchedRef.current !== searchTerm) {
       aiSearchedRef.current = searchTerm;
       setAiLoading(true);
       aiSearchColleges(searchTerm).then(results => {
         setAiColleges(results || []);
         setAiLoading(false);
       });
-    } else if (filteredColleges.length > 0) {
+    } else if (totalColleges > 0) {
       if (aiColleges.length > 0) setAiColleges([]); // Clear AI results if native data resolves
       aiSearchedRef.current = ''; // Reset so next search can trigger AI again
     }
-  }, [searchTerm, filteredColleges.length]); // Removed aiColleges.length from deps to prevent loop
+  }, [searchTerm, totalColleges, collegesLoading]);
 
   return (
     <div className="pt-2 bg-light min-vh-100">
@@ -449,7 +464,7 @@ const Colleges = () => {
           {/* College List */}
           <Col lg={9}>
             <div className="d-flex justify-content-between align-items-center mb-3">
-              <span className="text-muted">{filteredColleges.length} Colleges Found {searchTerm && `for "${searchTerm}"`}</span>
+              <span className="text-muted">{totalColleges} Colleges Found {searchTerm && `for "${searchTerm}"`}</span>
               <div className="d-flex align-items-center">
                 <span className="me-2 text-muted small">Sort By:</span>
                 <Form.Select size="sm" value={sortBy} onChange={(e) => setSortBy(e.target.value)} style={{width: 'auto'}}>
@@ -458,11 +473,84 @@ const Colleges = () => {
                 </Form.Select>
               </div>
             </div>
+
+            {/* Active Filters Badges Summary */}
+            {(filterCountry || filterState || filterCity || filterCourse || filterFeeRange || filterRating || filterPlacement || filterHostel || filterType) && (
+              <div className="d-flex flex-wrap gap-2 mb-3 bg-white p-3 rounded shadow-sm border align-items-center">
+                <span className="small text-muted fw-bold">Active Filters:</span>
+                {filterCountry && (
+                  <Badge bg="light" text="dark" className="border d-flex align-items-center gap-2 py-2 px-3 rounded-pill">
+                    Country: {filterCountry}
+                    <span style={{ cursor: 'pointer' }} className="text-danger fw-bold fs-6" onClick={() => setFilterCountry("")}>&times;</span>
+                  </Badge>
+                )}
+                {filterState && (
+                  <Badge bg="light" text="dark" className="border d-flex align-items-center gap-2 py-2 px-3 rounded-pill">
+                    State: {filterState}
+                    <span style={{ cursor: 'pointer' }} className="text-danger fw-bold fs-6" onClick={() => setFilterState("")}>&times;</span>
+                  </Badge>
+                )}
+                {filterCity && (
+                  <Badge bg="light" text="dark" className="border d-flex align-items-center gap-2 py-2 px-3 rounded-pill">
+                    City: {filterCity}
+                    <span style={{ cursor: 'pointer' }} className="text-danger fw-bold fs-6" onClick={() => setFilterCity("")}>&times;</span>
+                  </Badge>
+                )}
+                {filterCourse && (
+                  <Badge bg="light" text="dark" className="border d-flex align-items-center gap-2 py-2 px-3 rounded-pill">
+                    Stream: {filterCourse}
+                    <span style={{ cursor: 'pointer' }} className="text-danger fw-bold fs-6" onClick={() => setFilterCourse("")}>&times;</span>
+                  </Badge>
+                )}
+                {filterFeeRange && (
+                  <Badge bg="light" text="dark" className="border d-flex align-items-center gap-2 py-2 px-3 rounded-pill">
+                    Fees: {filterFeeRange}
+                    <span style={{ cursor: 'pointer' }} className="text-danger fw-bold fs-6" onClick={() => setFilterFeeRange("")}>&times;</span>
+                  </Badge>
+                )}
+                {filterRating && (
+                  <Badge bg="light" text="dark" className="border d-flex align-items-center gap-2 py-2 px-3 rounded-pill">
+                    Rating: {filterRating}+
+                    <span style={{ cursor: 'pointer' }} className="text-danger fw-bold fs-6" onClick={() => setFilterRating("")}>&times;</span>
+                  </Badge>
+                )}
+                {filterPlacement && (
+                  <Badge bg="light" text="dark" className="border d-flex align-items-center gap-2 py-2 px-3 rounded-pill">
+                    Placement: {filterPlacement}
+                    <span style={{ cursor: 'pointer' }} className="text-danger fw-bold fs-6" onClick={() => setFilterPlacement("")}>&times;</span>
+                  </Badge>
+                )}
+                {filterHostel && (
+                  <Badge bg="light" text="dark" className="border d-flex align-items-center gap-2 py-2 px-3 rounded-pill">
+                    Hostel: {filterHostel === 'yes' ? 'Available' : 'Not Available'}
+                    <span style={{ cursor: 'pointer' }} className="text-danger fw-bold fs-6" onClick={() => setFilterHostel("")}>&times;</span>
+                  </Badge>
+                )}
+                {filterType && (
+                  <Badge bg="light" text="dark" className="border d-flex align-items-center gap-2 py-2 px-3 rounded-pill">
+                    Type: {filterType}
+                    <span style={{ cursor: 'pointer' }} className="text-danger fw-bold fs-6" onClick={() => setFilterType("")}>&times;</span>
+                  </Badge>
+                )}
+                <Button size="sm" variant="link" className="text-danger p-0 ms-auto small text-decoration-none fw-bold" onClick={() => {
+                  setFilterCountry("");
+                  setFilterState("");
+                  setFilterCity("");
+                  setFilterCourse("");
+                  setFilterFeeRange("");
+                  setFilterRating("");
+                  setFilterPlacement("");
+                  setFilterHostel("");
+                  setFilterType("");
+                }}>Clear All</Button>
+              </div>
+            )}
+
             <Row className="g-4">
-              {loading ? (
+              {collegesLoading ? (
                 <Col md={12} className="text-center py-5">
                   <Spinner animation="border" variant="primary" style={{ width: '3rem', height: '3rem' }} />
-                  <h5 className="text-primary mt-3 fw-bold">Loading colleges database...</h5>
+                  <h5 className="text-primary mt-3 fw-bold">Querying colleges database...</h5>
                 </Col>
               ) : currentItems.map((college, idx) => (
                 <Col md={6} key={college.id}>

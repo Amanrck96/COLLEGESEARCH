@@ -5,9 +5,9 @@ import { authorize } from '../middleware/authorize.js'; // Fix #13: Shared middl
 const router = express.Router();
 const prisma = new PrismaClient();
 
-// GET colleges with advanced query filters
+// GET colleges with advanced query filters & pagination
 router.get('/', async (req, res) => {
-  const { q, state, city, type, course, maxFees, rating, placement, exam } = req.query;
+  const { q, state, city, type, course, maxFees, rating, placement, exam, page = 1, limit = 12, sortBy = 'rating' } = req.query;
 
   try {
     const filters = {};
@@ -26,12 +26,35 @@ router.get('/', async (req, res) => {
     if (state) filters.state = state;
     if (city) filters.location = city;
     if (type) filters.type = type;
-    if (rating) filters.rating = { gte: parseFloat(rating) };
-    if (exam) filters.exams = { contains: exam };
+    
+    if (rating) {
+      filters.rating = { gte: parseFloat(rating) };
+    }
+    
+    if (exam) {
+      filters.exams = { contains: exam };
+    }
+
+    const { country, hostel } = req.query;
+    if (country) {
+      if (country.toLowerCase() !== 'india') {
+        filters.affiliation = { contains: country };
+      } else {
+        // Default to India, exclude international
+        filters.affiliation = { not: { contains: 'USA' } };
+      }
+    }
+
+    if (hostel) {
+      if (hostel === 'yes') {
+        filters.facilities = { contains: 'Hostel' };
+      } else if (hostel === 'no') {
+        filters.facilities = { not: { contains: 'Hostel' } };
+      }
+    }
 
     // 3. Placement packages threshold
     if (placement) {
-      // E.g. placement = "10LPA"
       const numericVal = parseInt(placement.replace(/\D/g, ''));
       if (numericVal) {
         filters.averagePackage = { contains: String(numericVal) };
@@ -48,14 +71,42 @@ router.get('/', async (req, res) => {
       }
     }
 
+    // Pagination calculations
+    const pageNum = parseInt(page) || 1;
+    const limitNum = parseInt(limit) || 12;
+    const skip = (pageNum - 1) * limitNum;
+    const take = limitNum;
+
+    // Sorting order
+    let orderBy = {};
+    if (sortBy === 'rating') {
+      orderBy = { rating: 'desc' };
+    } else if (sortBy === 'ranking') {
+      orderBy = { ranking: 'asc' };
+    } else if (sortBy === 'reviews') {
+      orderBy = { reviewsCount: 'desc' };
+    } else {
+      orderBy = { name: 'asc' };
+    }
+
+    const totalCount = await prisma.college.count({ where: filters });
+    
     const collegesList = await prisma.college.findMany({
       where: filters,
       include: {
         courses: true
-      }
+      },
+      orderBy,
+      skip,
+      take
     });
 
-    res.status(200).json(collegesList);
+    res.status(200).json({
+      colleges: collegesList,
+      totalCount,
+      page: pageNum,
+      limit: limitNum
+    });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

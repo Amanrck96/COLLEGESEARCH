@@ -1,4 +1,5 @@
 import React, { createContext, useState, useEffect } from 'react';
+import { sanitizeText, getCSRFToken } from '../utils/security';
 
 export const CollegeContext = createContext();
 
@@ -28,25 +29,79 @@ export const CollegeProvider = ({ children }) => {
     localStorage.setItem('collegeReviews', JSON.stringify(reviews));
   }, [reviews]);
 
-  const addReview = (review) => {
-    const newReview = {
-      id: Date.now(),
-      collegeId: Number(review.collegeId),
-      authorName: review.authorName,
-      rating: parseFloat(review.rating || '5.0'),
-      content: review.content,
-      status: "PENDING",
-      timestamp: new Date().toLocaleDateString()
+  const addReview = async (review) => {
+    const cleanContent = sanitizeText(review.content);
+    const cleanAuthor = sanitizeText(review.authorName);
+    const sanitizedReview = {
+      ...review,
+      content: cleanContent,
+      authorName: cleanAuthor
     };
-    setReviews(prev => [newReview, ...prev]);
+    try {
+      const response = await fetch('http://localhost:5000/api/reviews', {
+        method: 'POST',
+        headers: { 
+          'Content-Type': 'application/json',
+          'X-CSRF-Token': getCSRFToken()
+        },
+        body: JSON.stringify(sanitizedReview)
+      });
+      if (!response.ok) throw new Error("Review submission failed");
+      const data = await response.json();
+      setReviews(prev => [data.review, ...prev]);
+    } catch (err) {
+      console.warn("Could not submit review to server, adding locally:", err);
+      const newReview = {
+        id: Date.now(),
+        collegeId: Number(review.collegeId),
+        authorName: cleanAuthor,
+        rating: parseFloat(review.rating || '5.0'),
+        content: cleanContent,
+        status: "PENDING",
+        timestamp: new Date().toLocaleDateString()
+      };
+      setReviews(prev => [newReview, ...prev]);
+    }
   };
 
-  const approveReview = (id) => {
-    setReviews(prev => prev.map(r => r.id === id ? { ...r, status: "APPROVED" } : r));
+  const approveReview = async (id) => {
+    const token = localStorage.getItem('token');
+    try {
+      const response = await fetch(`http://localhost:5000/api/reviews/${id}/status`, {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`,
+          'X-CSRF-Token': getCSRFToken()
+        },
+        body: JSON.stringify({ status: 'APPROVED' })
+      });
+      if (!response.ok) throw new Error("Moderation failed");
+      setReviews(prev => prev.map(r => r.id === id ? { ...r, status: "APPROVED" } : r));
+    } catch (err) {
+      console.warn("Could not sync review approval, moderate locally:", err);
+      setReviews(prev => prev.map(r => r.id === id ? { ...r, status: "APPROVED" } : r));
+    }
   };
 
-  const rejectReview = (id) => {
-    setReviews(prev => prev.map(r => r.id === id ? { ...r, status: "REJECTED" } : r));
+  const rejectReview = async (id) => {
+    const token = localStorage.getItem('token');
+    try {
+      const response = await fetch(`http://localhost:5000/api/reviews/${id}/status`, {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`,
+          'X-CSRF-Token': getCSRFToken()
+        },
+        body: JSON.stringify({ status: 'REJECTED' })
+      });
+      if (!response.ok) throw new Error("Moderation failed");
+      setReviews(prev => prev.map(r => r.id === id ? { ...r, status: "REJECTED" } : r));
+    } catch (err) {
+      console.warn("Could not sync review rejection, moderate locally:", err);
+      setReviews(prev => prev.map(r => r.id === id ? { ...r, status: "REJECTED" } : r));
+    }
   };
 
   // Fix #1: pendingUpdates must be declared BEFORE the data-loading useEffect
@@ -90,28 +145,40 @@ export const CollegeProvider = ({ children }) => {
   });
 
   useEffect(() => {
-    fetch('/siteData.json')
-      .then(res => res.json())
+    fetch('http://localhost:5000/api/colleges?limit=30')
+      .then(res => {
+        if (!res.ok) throw new Error("Backend not initialized or offline");
+        return res.json();
+      })
       .then(data => {
         setRawColleges(data.colleges || []);
-        setRawExams(data.exams || []);
-        if (data.pendingUpdates && data.pendingUpdates.length > 0) {
-          setPendingUpdates(prev => {
-            const existingKeys = new Set(prev.map(u => `${u.collegeId}-${u.field}-${u.suggestedValue}`));
-            const newUpdates = data.pendingUpdates.filter(u => !existingKeys.has(`${u.collegeId}-${u.field}-${u.suggestedValue}`));
-            if (newUpdates.length > 0) {
-              const merged = [...prev, ...newUpdates];
-              localStorage.setItem('pendingUpdates', JSON.stringify(merged));
-              return merged;
-            }
-            return prev;
-          });
-        }
         setLoading(false);
       })
       .catch(err => {
-        console.error("Failed to load colleges data:", err);
-        setLoading(false);
+        console.warn("Failed to load colleges from backend, falling back to local slice:", err);
+        fetch('/siteData.json')
+          .then(res => res.json())
+          .then(localData => {
+            setRawColleges((localData.colleges || []).slice(0, 50));
+            setRawExams(localData.exams || []);
+            if (localData.pendingUpdates && localData.pendingUpdates.length > 0) {
+              setPendingUpdates(prev => {
+                const existingKeys = new Set(prev.map(u => `${u.collegeId}-${u.field}-${u.suggestedValue}`));
+                const newUpdates = localData.pendingUpdates.filter(u => !existingKeys.has(`${u.collegeId}-${u.field}-${u.suggestedValue}`));
+                if (newUpdates.length > 0) {
+                  const merged = [...prev, ...newUpdates];
+                  localStorage.setItem('pendingUpdates', JSON.stringify(merged));
+                  return merged;
+                }
+                return prev;
+              });
+            }
+            setLoading(false);
+          })
+          .catch(e => {
+            console.error("Failed to load local fallback data:", e);
+            setLoading(false);
+          });
       });
   }, []);
 
@@ -356,35 +423,111 @@ export const CollegeProvider = ({ children }) => {
   useEffect(() => { localStorage.setItem('deletedColleges', JSON.stringify(deletedColleges)); }, [deletedColleges]);
   useEffect(() => { localStorage.setItem('examsData', JSON.stringify(exams)); }, [exams]);
 
-  const addCollege = (college) => {
-    setAddedColleges(prev => [...prev, { ...college, id: Date.now() }]);
-  };
-
-  const updateCollege = (id, updatedCollege) => {
-    const isAdded = addedColleges.some(c => String(c.id) === String(id));
-    if (isAdded) {
-      setAddedColleges(prev => prev.map(c => String(c.id) === String(id) ? { ...c, ...updatedCollege } : c));
-    } else {
-      setEditedColleges(prev => ({ ...prev, [String(id)]: { ...(prev[String(id)] || {}), ...updatedCollege } }));
+  const addCollege = async (college) => {
+    const token = localStorage.getItem('token');
+    try {
+      const response = await fetch('http://localhost:5000/api/colleges', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`,
+          'X-CSRF-Token': getCSRFToken()
+        },
+        body: JSON.stringify(college)
+      });
+      if (!response.ok) throw new Error("Failed to add college on backend");
+      const newCollege = await response.json();
+      setRawColleges(prev => [newCollege, ...prev]);
+    } catch (err) {
+      console.warn("Could not sync added college to server, adding locally:", err);
+      setAddedColleges(prev => [...prev, { ...college, id: Date.now() }]);
     }
   };
 
-  const deleteCollege = (id) => {
-    const isAdded = addedColleges.some(c => String(c.id) === String(id));
-    if (isAdded) {
-      setAddedColleges(prev => prev.filter(c => String(c.id) !== String(id)));
-    } else {
-      setDeletedColleges(prev => [...prev, String(id)]);
+  const updateCollege = async (id, updatedCollege) => {
+    const token = localStorage.getItem('token');
+    try {
+      const response = await fetch(`http://localhost:5000/api/colleges/${id}`, {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`,
+          'X-CSRF-Token': getCSRFToken()
+        },
+        body: JSON.stringify(updatedCollege)
+      });
+      if (!response.ok) throw new Error("Failed to update college on backend");
+      const updated = await response.json();
+      setRawColleges(prev => prev.map(c => c.id === Number(id) ? updated : c));
+    } catch (err) {
+      console.warn("Could not sync update to server, updating locally:", err);
+      const isAdded = addedColleges.some(c => String(c.id) === String(id));
+      if (isAdded) {
+        setAddedColleges(prev => prev.map(c => String(c.id) === String(id) ? { ...c, ...updatedCollege } : c));
+      } else {
+        setEditedColleges(prev => ({ ...prev, [String(id)]: { ...(prev[String(id)] || {}), ...updatedCollege } }));
+      }
     }
   };
 
+  const deleteCollege = async (id) => {
+    const token = localStorage.getItem('token');
+    try {
+      const response = await fetch(`http://localhost:5000/api/colleges/${id}`, {
+        method: 'DELETE',
+        headers: {
+          'Authorization': `Bearer ${token}`
+        }
+      });
+      if (!response.ok) throw new Error("Failed to delete college on backend");
+      setRawColleges(prev => prev.filter(c => c.id !== Number(id)));
+    } catch (err) {
+      console.warn("Could not sync delete to server, deleting locally:", err);
+      const isAdded = addedColleges.some(c => String(c.id) === String(id));
+      if (isAdded) {
+        setAddedColleges(prev => prev.filter(c => String(c.id) !== String(id)));
+      } else {
+        setDeletedColleges(prev => [...prev, String(id)]);
+      }
+    }
+  };
+
+
+  const fetchColleges = async (params = {}) => {
+    try {
+      const query = new URLSearchParams(params).toString();
+      const res = await fetch(`http://localhost:5000/api/colleges?${query}`);
+      if (!res.ok) throw new Error("Backend query failed");
+      const data = await res.json();
+      return data;
+    } catch (err) {
+      console.warn("fetchColleges error, performing local filtering fallback:", err);
+      let results = [...colleges];
+      if (params.q) {
+        const qStr = params.q.toLowerCase();
+        results = results.filter(c => c.name.toLowerCase().includes(qStr) || c.location.toLowerCase().includes(qStr));
+      }
+      if (params.state) results = results.filter(c => c.state === params.state);
+      if (params.city) results = results.filter(c => c.location === params.city);
+      if (params.type) results = results.filter(c => c.type === params.type);
+      
+      const limit = parseInt(params.limit || '12');
+      const page = parseInt(params.page || '1');
+      const start = (page - 1) * limit;
+      const paginated = results.slice(start, start + limit);
+      return {
+        colleges: paginated,
+        totalCount: results.length
+      };
+    }
+  };
 
   return (
     <CollegeContext.Provider value={{ 
       colleges, courses, exams, addCollege, updateCollege, deleteCollege, loading, 
       reviews, addReview, approveReview, rejectReview,
       pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate,
-      inaccuracyReports, addInaccuracyReport
+      inaccuracyReports, addInaccuracyReport, fetchColleges
     }}>
       {children}
     </CollegeContext.Provider>

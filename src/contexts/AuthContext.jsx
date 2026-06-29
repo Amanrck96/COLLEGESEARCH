@@ -1,4 +1,5 @@
 import React, { createContext, useState, useEffect } from 'react';
+import { encryptState, decryptState } from '../utils/security';
 
 export const AuthContext = createContext();
 
@@ -99,38 +100,66 @@ const defaultActivityLogs = [
 
 export const AuthProvider = ({ children }) => {
   const [currentUser, setCurrentUser] = useState(() => {
-    return JSON.parse(localStorage.getItem('currentUser') || 'null');
+    const saved = localStorage.getItem('currentUser_secure');
+    return saved ? decryptState(saved) : null;
   });
 
   const [students, setStudents] = useState(() => {
-    const saved = localStorage.getItem('studentsData');
-    return saved ? JSON.parse(saved) : defaultStudents;
+    const saved = localStorage.getItem('studentsData_secure');
+    return saved ? decryptState(saved) : defaultStudents;
   });
 
   const [activityLogs, setActivityLogs] = useState(() => {
-    const saved = localStorage.getItem('activityLogs');
-    return saved ? JSON.parse(saved) : defaultActivityLogs;
+    const saved = localStorage.getItem('activityLogs_secure');
+    return saved ? decryptState(saved) : defaultActivityLogs;
   });
 
   const [usersList, setUsersList] = useState(() => {
-    const saved = localStorage.getItem('usersList');
-    return saved ? mergeStaffUsers(JSON.parse(saved)) : DEFAULT_STAFF_USERS;
+    const saved = localStorage.getItem('usersList_secure');
+    return saved ? mergeStaffUsers(decryptState(saved)) : DEFAULT_STAFF_USERS;
   });
 
   useEffect(() => {
-    localStorage.setItem('currentUser', JSON.stringify(currentUser));
+    const token = localStorage.getItem('token');
+    if (token) {
+      fetch('http://localhost:5000/api/auth/profile', {
+        headers: { 'Authorization': `Bearer ${token}` }
+      })
+      .then(res => {
+        if (!res.ok) throw new Error("Invalid session");
+        return res.json();
+      })
+      .then(data => {
+        const activeUser = {
+          id: data.user.id,
+          name: data.user.name,
+          email: data.user.email,
+          role: data.user.role.toLowerCase(),
+          studentId: data.user.role.toLowerCase() === 'student' ? data.user.id : undefined
+        };
+        setCurrentUser(activeUser);
+      })
+      .catch(() => {
+        localStorage.removeItem('token');
+        setCurrentUser(null);
+      });
+    }
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem('currentUser_secure', encryptState(currentUser));
   }, [currentUser]);
 
   useEffect(() => {
-    localStorage.setItem('studentsData', JSON.stringify(students));
+    localStorage.setItem('studentsData_secure', encryptState(students));
   }, [students]);
 
   useEffect(() => {
-    localStorage.setItem('activityLogs', JSON.stringify(activityLogs));
+    localStorage.setItem('activityLogs_secure', encryptState(activityLogs));
   }, [activityLogs]);
 
   useEffect(() => {
-    localStorage.setItem('usersList', JSON.stringify(usersList));
+    localStorage.setItem('usersList_secure', encryptState(usersList));
   }, [usersList]);
 
   // Log user activity Helper
@@ -147,83 +176,60 @@ export const AuthProvider = ({ children }) => {
   };
 
   // Sign up/Login Handlers
-  const handleLogin = (email, password, selectedRole) => {
+  const handleLogin = async (email, password, selectedRole) => {
     const trimmedEmail = email.trim().toLowerCase();
     const trimmedPassword = password.trim();
 
-    // Student login / self-registration
-    if (selectedRole === 'student') {
-      if (!trimmedPassword || trimmedPassword.length < 4) {
-        return { success: false, message: "Password must be at least 4 characters." };
-      }
-
-      let student = students.find((s) => s.email.toLowerCase() === trimmedEmail);
-      if (!student) {
-        student = {
-          id: Date.now(),
-          name: trimmedEmail.split('@')[0],
-          email: trimmedEmail,
-          password: trimmedPassword,
-          mobile: "+91 99999 99999",
-          city: "New Delhi",
-          state: "Delhi",
-          courseInterest: "MBA",
-          examInterest: "CAT",
-          loginTime: new Date().toLocaleString(),
-          lastActiveTime: new Date().toLocaleString(),
-          searchHistory: [],
-          viewedColleges: [],
-          savedColleges: [],
-          compareHistory: [],
-          downloadHistory: [],
-          adminNotes: ""
-        };
-        setStudents((prev) => [...prev, student]);
-        logActivity(student.name, "Student", "Sign Up", `New student account created for ${trimmedEmail}`);
-      } else {
-        if (student.password) {
-          if (student.password !== trimmedPassword) {
-            return { success: false, message: "Incorrect password for this email address." };
-          }
-        } else {
-          setStudents((prev) =>
-            prev.map((s) => (s.id === student.id ? { ...s, password: trimmedPassword } : s))
-          );
+    try {
+      const response = await fetch('http://localhost:5000/api/auth/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: trimmedEmail, password: trimmedPassword, role: selectedRole })
+      });
+      const data = await response.json();
+      
+      if (!response.ok) {
+        // Self-registration for students
+        if (selectedRole === 'student') {
+          const signupRes = await fetch('http://localhost:5000/api/auth/signup', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email: trimmedEmail, password: trimmedPassword, name: trimmedEmail.split('@')[0] })
+          });
+          const signupData = await signupRes.json();
+          if (!signupRes.ok) return { success: false, message: signupData.error || "Signup failed." };
+          
+          const activeUser = {
+            id: signupData.user.id,
+            name: signupData.user.name,
+            email: signupData.user.email,
+            role: 'student',
+            studentId: signupData.user.id
+          };
+          setCurrentUser(activeUser);
+          localStorage.setItem('token', signupData.token);
+          logActivity(activeUser.name, "Student", "Sign Up", `New student account created for ${trimmedEmail}`);
+          return { success: true, user: activeUser };
         }
+        return { success: false, message: data.error || "Invalid credentials." };
       }
 
       const activeUser = {
-        name: student.name,
-        email: student.email,
-        role: "student",
-        studentId: student.id
+        id: data.user.id,
+        name: data.user.name,
+        email: data.user.email,
+        role: selectedRole.toLowerCase(),
+        studentId: selectedRole.toLowerCase() === 'student' ? data.user.id : undefined
       };
+      
       setCurrentUser(activeUser);
-      logActivity(student.name, "Student", "Login", `Student logged in. Current session verified.`);
+      localStorage.setItem('token', data.token);
+      logActivity(activeUser.name, selectedRole, "Login", `User authenticated. Session assigned.`);
       return { success: true, user: activeUser };
+    } catch (err) {
+      console.error("Login connection error:", err);
+      return { success: false, message: "Could not connect to authentication server." };
     }
-
-    // Staff roles lookup
-    const normalizedRole = normalizeStaffRole(selectedRole);
-    const matchedUser = usersList.find(
-      (u) =>
-        u.email.toLowerCase() === trimmedEmail &&
-        u.role.toUpperCase() === normalizedRole &&
-        u.password === trimmedPassword
-    );
-
-    if (matchedUser) {
-      const activeUser = {
-        name: matchedUser.name,
-        email: matchedUser.email,
-        role: selectedRole.toLowerCase()
-      };
-      setCurrentUser(activeUser);
-      logActivity(matchedUser.name, selectedRole, "Login", `Staff user authenticated. Session assigned.`);
-      return { success: true, user: activeUser };
-    }
-
-    return { success: false, message: "Invalid email, password, or role choice." };
   };
 
   const updateStaffPassword = (staffId, newPassword) => {
@@ -241,6 +247,7 @@ export const AuthProvider = ({ children }) => {
     if (currentUser) {
       logActivity(currentUser.name, currentUser.role, "Logout", `User logged out. Session destroyed.`);
     }
+    localStorage.removeItem('token');
     setCurrentUser(null);
   };
 

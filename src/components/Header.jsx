@@ -10,45 +10,7 @@ const Header = () => {
   const { siteData } = useContext(SiteContext);
   const { mbaTabs, engTabs, medTabs, desTabs, moreTabs, studyTabs, counselingTabs, onlineTabs } = siteData.header;
 
-  const { currentUser, handleLogin, handleLogout } = useContext(AuthContext);
-  const [showAuthModal, setShowAuthModal] = useState(false);
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [selectedRole, setSelectedRole] = useState('student');
-  const [authError, setAuthError] = useState('');
-
-  const onLoginSubmit = (e) => {
-    e.preventDefault();
-    const res = handleLogin(email, password, selectedRole);
-    if (res.success) {
-      setShowAuthModal(false);
-      setEmail('');
-      setPassword('');
-      setAuthError('');
-    } else {
-      setAuthError(res.message);
-    }
-  };
-
-  const autofillDemoUser = (role) => {
-    setSelectedRole(role);
-    if (role === 'student') {
-      setEmail('aarav.sharma@gmail.com');
-      setPassword('password123');
-    } else if (role === 'superadmin') {
-      setEmail('admin@thecollegecompass.com');
-      setPassword('admin');
-    } else if (role === 'admin') {
-      setEmail('manager@thecollegecompass.com');
-      setPassword('admin');
-    } else if (role === 'operator') {
-      setEmail('operator@thecollegecompass.com');
-      setPassword('admin');
-    } else if (role === 'viewer') {
-      setEmail('viewer@thecollegecompass.com');
-      setPassword('admin');
-    }
-  };
+  const { currentUser, handleLogout } = useContext(AuthContext);
 
   const [activeMbaTab, setActiveMbaTab] = useState(mbaTabs[0] || '');
   const [activeEngTab, setActiveEngTab] = useState(engTabs[0] || '');
@@ -110,12 +72,17 @@ const Header = () => {
               <div className="nav-item">
                 <Nav.Link as={Link} to="/colleges" className="fw-semibold">MBA <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
-                  <div className="mega-sidebar">
+                  <div className="mega-sidebar" role="tablist" aria-label="MBA streams">
                     {mbaTabs.map(tab => (
                       <div 
                         key={tab}
+                        role="tab"
+                        aria-selected={activeMbaTab === tab}
+                        tabIndex={0}
                         className={`mega-sidebar-item ${activeMbaTab === tab ? 'active' : ''}`}
                         onMouseEnter={() => setActiveMbaTab(tab)}
+                        onFocus={() => setActiveMbaTab(tab)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setActiveMbaTab(tab); }}
                       >
                         {tab} <FaAngleRight className={activeMbaTab === tab ? 'text-primary' : 'text-muted opacity-50'}/>
                       </div>
@@ -146,12 +113,17 @@ const Header = () => {
               <div className="nav-item">
                 <Nav.Link as={Link} to="/colleges" className="fw-semibold">ENGINEERING <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
-                  <div className="mega-sidebar">
+                  <div className="mega-sidebar" role="tablist" aria-label="Engineering streams">
                     {engTabs.map(tab => (
                       <div 
                         key={tab}
+                        role="tab"
+                        aria-selected={activeEngTab === tab}
+                        tabIndex={0}
                         className={`mega-sidebar-item ${activeEngTab === tab ? 'active' : ''}`}
                         onMouseEnter={() => setActiveEngTab(tab)}
+                        onFocus={() => setActiveEngTab(tab)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setActiveEngTab(tab); }}
                       >
                         {tab} <FaAngleRight className={activeEngTab === tab ? 'text-primary' : 'text-muted opacity-50'}/>
                       </div>
@@ -182,12 +154,17 @@ const Header = () => {
               <div className="nav-item">
                 <Nav.Link as={Link} to="/colleges" className="fw-semibold">MEDICAL <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
-                  <div className="mega-sidebar">
+                  <div className="mega-sidebar" role="tablist" aria-label="Medical streams">
                     {medTabs.map(tab => (
                       <div 
                         key={tab}
+                        role="tab"
+                        aria-selected={activeMedTab === tab}
+                        tabIndex={0}
                         className={`mega-sidebar-item ${activeMedTab === tab ? 'active' : ''}`}
                         onMouseEnter={() => setActiveMedTab(tab)}
+                        onFocus={() => setActiveMedTab(tab)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setActiveMedTab(tab); }}
                       >
                         {tab} <FaAngleRight className={activeMedTab === tab ? 'text-primary' : 'text-muted opacity-50'}/>
                       </div>
@@ -218,12 +195,17 @@ const Header = () => {
               <div className="nav-item">
                 <Nav.Link as={Link} to="/colleges" className="fw-semibold">DESIGN <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
-                  <div className="mega-sidebar">
+                  <div className="mega-sidebar" role="tablist" aria-label="Design streams">
                     {desTabs.map(tab => (
                       <div 
                         key={tab}
+                        role="tab"
+                        aria-selected={activeDesTab === tab}
+                        tabIndex={0}
                         className={`mega-sidebar-item ${activeDesTab === tab ? 'active' : ''}`}
                         onMouseEnter={() => setActiveDesTab(tab)}
+                        onFocus={() => setActiveDesTab(tab)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setActiveDesTab(tab); }}
                       >
                         {tab} <FaAngleRight className={activeDesTab === tab ? 'text-primary' : 'text-muted opacity-50'}/>
                       </div>
@@ -254,12 +236,17 @@ const Header = () => {
               <div className="nav-item">
                 <Nav.Link as={Link} to="/rankings" className="fw-semibold">MORE <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
-                  <div className="mega-sidebar">
+                  <div className="mega-sidebar" role="tablist" aria-label="More streams">
                     {moreTabs.map(tab => (
                       <div 
                         key={tab}
+                        role="tab"
+                        aria-selected={activeMoreTab === tab}
+                        tabIndex={0}
                         className={`mega-sidebar-item ${activeMoreTab === tab ? 'active' : ''}`}
                         onMouseEnter={() => setActiveMoreTab(tab)}
+                        onFocus={() => setActiveMoreTab(tab)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setActiveMoreTab(tab); }}
                       >
                         {tab} <FaAngleRight className={activeMoreTab === tab ? 'text-primary' : 'text-muted opacity-50'}/>
                       </div>
@@ -290,12 +277,17 @@ const Header = () => {
               <div className="nav-item">
                 <Nav.Link as={Link} to="/study-abroad" className="fw-semibold">STUDY ABROAD <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
-                  <div className="mega-sidebar">
+                  <div className="mega-sidebar" role="tablist" aria-label="Study Abroad streams">
                     {studyTabs.map(tab => (
                       <div 
                         key={tab}
+                        role="tab"
+                        aria-selected={activeStudyTab === tab}
+                        tabIndex={0}
                         className={`mega-sidebar-item ${activeStudyTab === tab ? 'active' : ''}`}
                         onMouseEnter={() => setActiveStudyTab(tab)}
+                        onFocus={() => setActiveStudyTab(tab)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setActiveStudyTab(tab); }}
                       >
                         {tab} <FaAngleRight className={activeStudyTab === tab ? 'text-primary' : 'text-muted opacity-50'}/>
                       </div>
@@ -326,12 +318,17 @@ const Header = () => {
               <div className="nav-item">
                 <Nav.Link as={Link} to="/career" className="fw-semibold">COUNSELING <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
-                  <div className="mega-sidebar">
+                  <div className="mega-sidebar" role="tablist" aria-label="Counseling services">
                     {counselingTabs.map(tab => (
                       <div 
                         key={tab}
+                        role="tab"
+                        aria-selected={activeCounselingTab === tab}
+                        tabIndex={0}
                         className={`mega-sidebar-item ${activeCounselingTab === tab ? 'active' : ''}`}
                         onMouseEnter={() => setActiveCounselingTab(tab)}
+                        onFocus={() => setActiveCounselingTab(tab)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setActiveCounselingTab(tab); }}
                       >
                         <div>
                           {tab} 
@@ -366,12 +363,17 @@ const Header = () => {
               <div className="nav-item">
                 <Nav.Link as={Link} to="/news" className="fw-semibold">thecollegecompass <span style={{fontSize: '10px'}}>▼</span></Nav.Link>
                 <div className="mega-menu-wrapper text-start">
-                  <div className="mega-sidebar">
+                  <div className="mega-sidebar" role="tablist" aria-label="Online Courses categories">
                     {onlineTabs.map(tab => (
                       <div 
                         key={tab}
+                        role="tab"
+                        aria-selected={activeOnlineTab === tab}
+                        tabIndex={0}
                         className={`mega-sidebar-item ${activeOnlineTab === tab ? 'active' : ''}`}
                         onMouseEnter={() => setActiveOnlineTab(tab)}
+                        onFocus={() => setActiveOnlineTab(tab)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') setActiveOnlineTab(tab); }}
                       >
                         {tab} <FaAngleRight className={activeOnlineTab === tab ? 'text-primary' : 'text-muted opacity-50'}/>
                       </div>
@@ -416,62 +418,13 @@ const Header = () => {
                 </>
               ) : (
                 <>
-                  <Button variant="link" className="text-white fw-bold me-3 text-capitalize text-decoration-none" style={{fontSize:'14px'}} onClick={() => { setAuthError(''); setShowAuthModal(true); }}>Login / Portal Access</Button>
+                  <Button variant="link" as={Link} to="/login" className="text-white fw-bold me-3 text-capitalize text-decoration-none" style={{fontSize:'14px'}}>Login / Portal Access</Button>
                 </>
               )}
             </Nav>
           </Navbar.Collapse>
         </Container>
       </Navbar>
-
-      {/* Auth & Portal Access Modal */}
-      <Modal show={showAuthModal} onHide={() => setShowAuthModal(false)} centered contentClassName="border-0 shadow text-dark" style={{ color: '#333' }}>
-        <Modal.Header closeButton className="bg-light">
-          <Modal.Title className="fw-bold text-primary">thecollegecompass Portal Login</Modal.Title>
-        </Modal.Header>
-        <Modal.Body className="p-4">
-          {authError && <div className="alert alert-danger py-2 small">{authError}</div>}
-          <Form onSubmit={onLoginSubmit}>
-            <Form.Group className="mb-3">
-              <Form.Label className="small fw-semibold">Email address</Form.Label>
-              <Form.Control 
-                type="email" 
-                placeholder="name@example.com" 
-                value={email} 
-                onChange={(e) => setEmail(e.target.value)} 
-                required 
-              />
-            </Form.Group>
-            
-            <Form.Group className="mb-4">
-              <Form.Label className="small fw-semibold">Password</Form.Label>
-              <Form.Control 
-                type="password"
-                placeholder="Enter password" 
-                value={password} 
-                onChange={(e) => setPassword(e.target.value)} 
-                required
-                minLength={4}
-                autoComplete="current-password"
-              />
-              <Form.Text className="text-muted small">
-                New student? Enter email + password to create your account. Returning students use the same password.
-              </Form.Text>
-            </Form.Group>
-
-            <div className="mb-3 p-3 bg-light rounded border">
-              <span className="small text-muted d-block mb-1">💡 Quick Demo Autofill:</span>
-              <div className="d-flex flex-wrap gap-2">
-                <Button type="button" size="sm" variant="outline-info" onClick={() => autofillDemoUser('student')}>Student (Aarav)</Button>
-              </div>
-            </div>
-
-            <Button type="submit" variant="primary" className="w-100 fw-bold py-2 mt-2" style={{ backgroundColor: '#1a43bf', border: 'none' }}>
-              Sign In
-            </Button>
-          </Form>
-        </Modal.Body>
-      </Modal>
     </div>
   );
 };

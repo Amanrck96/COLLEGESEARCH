@@ -12,6 +12,8 @@ import reviewRoutes from './routes/reviews.js';
 import analyticsRoutes from './routes/analytics.js';
 import webhookRoutes from './routes/webhooks.js';
 
+import verifyCSRF from './middleware/csrf.js';
+
 dotenv.config();
 
 const app = express();
@@ -23,11 +25,12 @@ app.use(cors({
   // Fix #5: Restrict CORS to the configured frontend URL only (not a wildcard)
   origin: process.env.FRONTEND_URL || 'http://localhost:5173',
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization']
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-CSRF-Token']
 }));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use('/api/', verifyCSRF);
 
 // Rate Limiting to prevent brute-force API requests
 const apiLimiter = rateLimit({

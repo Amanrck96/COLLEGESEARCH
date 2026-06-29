@@ -62,6 +62,15 @@ const CollegeImg = ({ college, className, style, alt, ...props }) => {
   }, [imgSrc, college, attempt, fetchRealImage]);
 
   const handleError = () => {
+    const campusFallback = 'https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=800';
+    if (imgSrc === campusFallback) {
+      setImgSrc("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23ccc'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='sans-serif' font-size='10' fill='%23666'>No Image</text></svg>");
+      return;
+    }
+    if (imgSrc.startsWith("data:image/svg+xml")) {
+      return; // Stop here
+    }
+
     // If the direct URL failed and we have search results, try the Google CDN thumbnail (preview) which always works
     if (searchResults.length > 0 && attempt === 1) {
       const fallbackUrl = searchResults[0].preview?.url || searchResults[0].url;
@@ -81,8 +90,6 @@ const CollegeImg = ({ college, className, style, alt, ...props }) => {
     if (attempt < 2) {
       fetchRealImage();
     } else {
-      // Ultimate fallback: high-quality campus building stock image
-      const campusFallback = 'https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=800';
       setImgSrc(campusFallback);
     }
   };
