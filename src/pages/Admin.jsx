@@ -33,22 +33,6 @@ const Admin = () => {
   const [staffPasswordDrafts, setStaffPasswordDrafts] = useState({});
   const [staffPasswordMsg, setStaffPasswordMsg] = useState('');
 
-  const autofillAdminUser = (role) => {
-    setAdminRole(role);
-    if (role === 'superadmin') {
-      setAdminEmail('admin@thecollegecompass.com');
-      setAdminPassword('admin');
-    } else if (role === 'admin') {
-      setAdminEmail('manager@thecollegecompass.com');
-      setAdminPassword('admin');
-    } else if (role === 'operator') {
-      setAdminEmail('operator@thecollegecompass.com');
-      setAdminPassword('admin');
-    } else if (role === 'viewer') {
-      setAdminEmail('viewer@thecollegecompass.com');
-      setAdminPassword('admin');
-    }
-  };
 
   const onAdminLoginSubmit = (e) => {
     e.preventDefault();
@@ -630,15 +614,6 @@ const Admin = () => {
               </Form.Text>
             </Form.Group>
 
-            <div className="mb-4 p-3 bg-light rounded border" style={{ borderRadius: '10px' }}>
-              <span className="small text-muted d-block mb-2">💡 Quick Demo Staff Autofills:</span>
-              <div className="d-flex flex-wrap gap-2">
-                <Button type="button" size="sm" variant="outline-primary" onClick={() => autofillAdminUser('superadmin')} style={{ borderRadius: '6px' }}>Super Admin</Button>
-                <Button type="button" size="sm" variant="outline-secondary" onClick={() => autofillAdminUser('admin')} style={{ borderRadius: '6px' }}>Manager</Button>
-                <Button type="button" size="sm" variant="outline-dark" onClick={() => autofillAdminUser('operator')} style={{ borderRadius: '6px' }}>Operator</Button>
-                <Button type="button" size="sm" variant="outline-info" onClick={() => autofillAdminUser('viewer')} style={{ borderRadius: '6px' }}>Viewer</Button>
-              </div>
-            </div>
 
             <Button type="submit" variant="primary" className="w-100 fw-bold py-2 shadow-sm" style={{ backgroundColor: '#1a43bf', border: 'none', borderRadius: '8px' }}>
               Sign In to Console
