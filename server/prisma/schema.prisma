@@ -50,6 +50,16 @@ model College {
   admissionProcess String   @default("")
   topRecruiters  String     @default("") // Comma-separated list
   brochureLink   String     @default("")
+  pinCode        String     @default("")
+  country        String     @default("India")
+  establishmentYear String  @default("")
+  ownership      String     @default("")
+  approval       String     @default("")
+  accreditation  String     @default("")
+  universityType String     @default("")
+  cutoffScores   String     @default("")
+  hostelInfo     String     @default("")
+  scholarships   String     @default("")
   courses        Course[]
   reviews        Review[]
   bookmarks      Bookmark[]
