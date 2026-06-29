@@ -611,7 +611,7 @@ const Colleges = () => {
                 </Col>
               ))}
 
-              {filteredColleges.length === 0 && !aiLoading && aiColleges.length > 0 && (
+              {currentItems.length === 0 && !aiLoading && aiColleges.length > 0 && (
                 <Col md={12}>
                   <div className="p-3 mb-2 bg-info bg-opacity-10 text-info fw-bold rounded border border-info border-opacity-50">
                     ✨ AI Recommendations based on "{searchTerm}"
@@ -637,13 +637,13 @@ const Colleges = () => {
                 </Col>
               )}
 
-              {filteredColleges.length === 0 && !aiLoading && aiColleges.length === 0 && (
+              {currentItems.length === 0 && !aiLoading && aiColleges.length === 0 && (
                 <Col className="text-center py-5">
                   <h4 className="text-muted">No exact match locally.</h4>
                 </Col>
               )}
 
-              {filteredColleges.length === 0 && aiLoading && (
+              {currentItems.length === 0 && aiLoading && (
                 <Col className="text-center py-5">
                   <Spinner animation="border" variant="info" style={{width: '3rem', height: '3rem'}} />
                   <h5 className="text-info mt-3 fw-bold">✨ Gemini AI compiling list for "{searchTerm}" in 0.3s...</h5>
