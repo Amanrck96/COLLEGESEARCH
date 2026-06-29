@@ -20,7 +20,7 @@
     "react-intersection-observer": "^10.0.3",
     "react-router-dom": "^7.13.1",
     "xlsx": "^0.18.5",
-    "jimp": "^0.22.14"
+    "jimp": "^0.22.12"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
