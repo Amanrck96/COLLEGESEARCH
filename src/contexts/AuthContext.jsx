@@ -228,7 +228,7 @@ export const AuthProvider = ({ children }) => {
       return { success: true, user: activeUser };
     } catch (err) {
       console.error("Login connection error:", err);
-      return { success: false, message: "Could not connect to authentication server." };
+      return { success: false, message: "Could not connect to the authentication server. Please check your internet connection or try again later. If you are running locally, make sure the backend server is running. You can also select a demo role to autofill credentials." };
     }
   };
 
@@ -263,7 +263,7 @@ export const AuthProvider = ({ children }) => {
       return { success: true, user: activeUser };
     } catch (err) {
       console.error("Signup connection error:", err);
-      return { success: false, message: "Could not connect to authentication server." };
+      return { success: false, message: "Could not connect to the authentication server. Please check your internet connection or try again later." };
     }
   };
 
