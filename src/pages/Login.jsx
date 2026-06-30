@@ -1,12 +1,12 @@
 import React, { useState, useContext, useEffect } from 'react';
 import { Container, Row, Col, Card, Form, Button, Nav, InputGroup } from 'react-bootstrap';
 import { useNavigate, Link } from 'react-router-dom';
-import { FaUserGraduate, FaBuilding, FaLock, FaEnvelope, FaEye, FaEyeSlash, FaArrowLeft } from 'react-icons/fa';
+import { FaUserGraduate, FaBuilding, FaLock, FaEnvelope, FaEye, FaEyeSlash, FaArrowLeft, FaUser } from 'react-icons/fa';
 import { AuthContext } from '../contexts/AuthContext';
 import { useToast } from '../contexts/ToastContext';
 
 const Login = () => {
-  const { currentUser, handleLogin } = useContext(AuthContext);
+  const { currentUser, handleLogin, handleSignup } = useContext(AuthContext);
   const { showToast } = useToast();
   const navigate = useNavigate();
 
@@ -15,6 +15,8 @@ const Login = () => {
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   const [rememberMe, setRememberMe] = useState(false);
+  const [isSignUp, setIsSignUp] = useState(false);
+  const [fullName, setFullName] = useState('');
 
   // If already logged in, redirect to appropriate console
   useEffect(() => {
@@ -29,25 +31,40 @@ const Login = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    if (!email || !password) {
-      showToast('Please fill in all email and password fields.', 'warning');
-      return;
-    }
-
-    const res = await handleLogin(email, password, activeTab === 'student' ? 'student' : 'superadmin'); // superadmin or select role inside backend logic
-    if (res.success) {
-      showToast(`Welcome back, ${res.user.name}! Successful login.`, 'success');
-      if (res.user.role === 'student') {
+    if (isSignUp && activeTab === 'student') {
+      if (!fullName || !email || !password) {
+        showToast('Please fill in all name, email and password fields.', 'warning');
+        return;
+      }
+      const res = await handleSignup(fullName, email, password);
+      if (res.success) {
+        showToast(`Account created successfully! Welcome, ${res.user.name}.`, 'success');
         navigate('/admin/student-profile');
       } else {
-        navigate('/admin');
+        showToast(res.message || 'Signup failed. Please verify fields.', 'error');
       }
     } else {
-      showToast(res.message || 'Login failed. Please verify credentials.', 'error');
+      if (!email || !password) {
+        showToast('Please fill in all email and password fields.', 'warning');
+        return;
+      }
+
+      const res = await handleLogin(email, password, activeTab === 'student' ? 'student' : 'superadmin'); // superadmin or select role inside backend logic
+      if (res.success) {
+        showToast(`Welcome back, ${res.user.name}! Successful login.`, 'success');
+        if (res.user.role === 'student') {
+          navigate('/admin/student-profile');
+        } else {
+          navigate('/admin');
+        }
+      } else {
+        showToast(res.message || 'Login failed. Please verify credentials.', 'error');
+      }
     }
   };
 
   const autofillUser = (role) => {
+    setIsSignUp(false);
     if (role === 'student') {
       setEmail('aarav.sharma@gmail.com');
       setPassword('password123');
@@ -116,8 +133,12 @@ const Login = () => {
           <Col lg={6} className="p-4 p-md-5 d-flex flex-column justify-content-center">
             <div className="mx-auto w-100" style={{ maxWidth: '420px' }}>
               <div className="text-center mb-4">
-                <h3 className="fw-bold text-primary mb-1">Welcome Back</h3>
-                <p className="text-muted small">Sign in to access your dashboard</p>
+                <h3 className="fw-bold text-primary mb-1">
+                  {isSignUp ? "Create Student Account" : "Welcome Back"}
+                </h3>
+                <p className="text-muted small">
+                  {isSignUp ? "Register to get started on your journey" : "Sign in to access your dashboard"}
+                </p>
               </div>
 
               {/* Custom Tabs */}
@@ -136,7 +157,10 @@ const Login = () => {
                   <Nav.Link 
                     eventKey="staff" 
                     className="rounded-pill fw-bold py-2 border-0"
-                    onClick={() => setActiveTab('staff')}
+                    onClick={() => {
+                      setActiveTab('staff');
+                      setIsSignUp(false);
+                    }}
                     style={{ cursor: 'pointer' }}
                   >
                     👨💼 Staff Console
@@ -145,6 +169,25 @@ const Login = () => {
               </Nav>
 
               <Form onSubmit={handleSubmit}>
+                {isSignUp && activeTab === 'student' && (
+                  <Form.Group className="mb-3">
+                    <Form.Label className="small fw-semibold text-muted">Full Name</Form.Label>
+                    <InputGroup>
+                      <InputGroup.Text className="bg-light border-end-0 text-muted">
+                        <FaUser size={14} />
+                      </InputGroup.Text>
+                      <Form.Control
+                        type="text"
+                        placeholder="John Doe"
+                        className="border-start-0"
+                        value={fullName}
+                        onChange={(e) => setFullName(e.target.value)}
+                        required
+                      />
+                    </InputGroup>
+                  </Form.Group>
+                )}
+
                 <Form.Group className="mb-3">
                   <Form.Label className="small fw-semibold text-muted">Email Address</Form.Label>
                   <InputGroup>
@@ -187,20 +230,50 @@ const Login = () => {
                   </InputGroup>
                 </Form.Group>
 
-                <div className="d-flex justify-content-between align-items-center mb-4 small">
-                  <Form.Check 
-                    type="checkbox" 
-                    label="Remember me" 
-                    checked={rememberMe}
-                    onChange={(e) => setRememberMe(e.target.checked)}
-                    className="text-muted"
-                  />
-                  <Link to="/contact" className="text-primary text-decoration-none fw-semibold">Forgot Password?</Link>
-                </div>
+                {!isSignUp && (
+                  <div className="d-flex justify-content-between align-items-center mb-4 small">
+                    <Form.Check 
+                      type="checkbox" 
+                      label="Remember me" 
+                      checked={rememberMe}
+                      onChange={(e) => setRememberMe(e.target.checked)}
+                      className="text-muted"
+                    />
+                    <Link to="/contact" className="text-primary text-decoration-none fw-semibold">Forgot Password?</Link>
+                  </div>
+                )}
 
-                <Button type="submit" className="w-100 py-2.5 fw-bold btn-primary border-0 rounded-3 shadow-sm mb-3">
-                  Sign In
+                <Button type="submit" className="w-100 py-2.5 fw-bold btn-primary border-0 rounded-3 shadow-sm mb-3 mt-2">
+                  {isSignUp ? "Sign Up" : "Sign In"}
                 </Button>
+
+                {activeTab === 'student' && (
+                  <div className="text-center mt-3 small">
+                    {isSignUp ? (
+                      <span className="text-muted">
+                        Already have an account?{' '}
+                        <span 
+                          className="text-primary fw-bold text-decoration-underline"
+                          style={{ cursor: 'pointer' }}
+                          onClick={() => setIsSignUp(false)}
+                        >
+                          Sign In
+                        </span>
+                      </span>
+                    ) : (
+                      <span className="text-muted">
+                        Don't have an account?{' '}
+                        <span 
+                          className="text-primary fw-bold text-decoration-underline"
+                          style={{ cursor: 'pointer' }}
+                          onClick={() => setIsSignUp(true)}
+                        >
+                          Sign Up
+                        </span>
+                      </span>
+                    )}
+                  </div>
+                )}
               </Form>
             </div>
           </Col>

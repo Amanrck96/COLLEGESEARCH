@@ -232,6 +232,41 @@ export const AuthProvider = ({ children }) => {
     }
   };
 
+  const handleSignup = async (name, email, password) => {
+    const trimmedName = name.trim();
+    const trimmedEmail = email.trim().toLowerCase();
+    const trimmedPassword = password.trim();
+
+    try {
+      const response = await fetch('http://localhost:5000/api/auth/signup', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: trimmedName, email: trimmedEmail, password: trimmedPassword })
+      });
+      const data = await response.json();
+
+      if (!response.ok) {
+        return { success: false, message: data.error || "Signup failed." };
+      }
+
+      const activeUser = {
+        id: data.user.id,
+        name: data.user.name,
+        email: data.user.email,
+        role: 'student',
+        studentId: data.user.id
+      };
+      
+      setCurrentUser(activeUser);
+      localStorage.setItem('token', data.token);
+      logActivity(activeUser.name, "Student", "Sign Up", `New student account created for ${trimmedEmail}`);
+      return { success: true, user: activeUser };
+    } catch (err) {
+      console.error("Signup connection error:", err);
+      return { success: false, message: "Could not connect to authentication server." };
+    }
+  };
+
   const updateStaffPassword = (staffId, newPassword) => {
     const trimmed = newPassword.trim();
     if (!trimmed || trimmed.length < 4) {
@@ -299,6 +334,7 @@ export const AuthProvider = ({ children }) => {
       setStudents,
       handleLogin,
       handleLogout,
+      handleSignup,
       logActivity,
       trackStudentActivity,
       updateStudentNotes,
