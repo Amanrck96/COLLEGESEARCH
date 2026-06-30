@@ -1,5 +1,5 @@
 import React, { createContext, useState, useEffect } from 'react';
-import { encryptState, decryptState } from '../utils/security';
+import { encryptState, decryptState, getCSRFToken } from '../utils/security';
 
 export const AuthContext = createContext();
 
@@ -183,7 +183,10 @@ export const AuthProvider = ({ children }) => {
     try {
       const response = await fetch('http://localhost:5000/api/auth/login', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'X-CSRF-Token': getCSRFToken()
+        },
         body: JSON.stringify({ email: trimmedEmail, password: trimmedPassword, role: selectedRole })
       });
       const data = await response.json();
@@ -193,7 +196,10 @@ export const AuthProvider = ({ children }) => {
         if (selectedRole === 'student') {
           const signupRes = await fetch('http://localhost:5000/api/auth/signup', {
             method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
+            headers: { 
+              'Content-Type': 'application/json',
+              'X-CSRF-Token': getCSRFToken()
+            },
             body: JSON.stringify({ email: trimmedEmail, password: trimmedPassword, name: trimmedEmail.split('@')[0] })
           });
           const signupData = await signupRes.json();
@@ -240,7 +246,10 @@ export const AuthProvider = ({ children }) => {
     try {
       const response = await fetch('http://localhost:5000/api/auth/signup', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'X-CSRF-Token': getCSRFToken()
+        },
         body: JSON.stringify({ name: trimmedName, email: trimmedEmail, password: trimmedPassword })
       });
       const data = await response.json();

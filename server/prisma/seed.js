@@ -70,37 +70,43 @@ async function main() {
   console.log("Seeding colleges and course structures...");
   if (siteData.colleges && siteData.colleges.length > 0) {
     for (const c of siteData.colleges) {
+      // Skip invalid records
+      if (!c.name || typeof c.name !== 'string' || c.name.trim() === '' || /^\d+$/.test(c.name)) {
+        console.log(`Skipping invalid college record: ${JSON.stringify(c).substring(0, 100)}...`);
+        continue;
+      }
+      
       const createdCollege = await prisma.college.create({
         data: {
           name: c.name,
-          shortName: c.shortName || c.name.substring(0, 5).toUpperCase(),
-          location: c.location || "India",
-          state: c.state || "Unknown",
-          address: c.address || c.location || "Unknown",
-          phone: c.phone || "0123-456789",
+          shortName: String(c.shortName || c.name.substring(0, 5).toUpperCase()),
+          location: String(c.location || "India"),
+          state: String(c.state || "Unknown"),
+          address: String(c.address || c.location || "Unknown"),
+          phone: String(c.phone || "0123-456789"),
           email: c.email || null,
-          website: c.website || "http://www.college.edu",
+          website: String(c.website || "http://www.college.edu"),
           rating: parseFloat(c.rating || "4.5"),
           reviewsCount: parseInt(c.reviews || "25"),
-          type: c.type || "Private",
-          about: c.about || `Welcome to ${c.name}, a premier institute.`,
+          type: String(c.type || "Private"),
+          about: String(c.about || `Welcome to ${c.name}, a premier institute.`),
           ranking: parseInt(c.ranking || "100"),
-          facebook: c.facebook || "#",
-          instagram: c.instagram || "#",
-          linkedin: c.linkedin || "#",
-          mapUrl: c.map_url || c.mapUrl || "",
-          fees: c.fees || "Contact for details",
-          exams: c.exams || "Direct Admission",
-          img: c.img || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
+          facebook: String(c.facebook || "#"),
+          instagram: String(c.instagram || "#"),
+          linkedin: String(c.linkedin || "#"),
+          mapUrl: String(c.map_url || c.mapUrl || ""),
+          fees: String(c.fees || "Contact for details"),
+          exams: String(c.exams || "Direct Admission"),
+          img: String(c.img || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400"),
           gallery: JSON.stringify(c.gallery || []),
-          affiliation: c.affiliation || "",
-          highestPackage: c.highestPackage || "Contact for details",
-          averagePackage: c.averagePackage || "Contact for details",
-          placements: c.placements || "N/A",
-          highlights: c.highlights || "",
-          topRecruiters: c.topRecruiters || "",
-          brochureLink: c.brochureLink || "",
-          admissionProcess: c.admissionProcess || ""
+          affiliation: String(c.affiliation || ""),
+          highestPackage: String(c.highestPackage || "Contact for details"),
+          averagePackage: String(c.averagePackage || "Contact for details"),
+          placements: String(c.placements || "N/A"),
+          highlights: String(c.highlights || ""),
+          topRecruiters: String(c.topRecruiters || ""),
+          brochureLink: String(c.brochureLink || ""),
+          admissionProcess: String(c.admissionProcess || "")
         }
       });
 
@@ -110,13 +116,13 @@ async function main() {
           await prisma.course.create({
             data: {
               collegeId: createdCollege.id,
-              title: co.title,
-              type: co.type || "Full Time",
-              division: co.division || "Degree",
-              duration: co.duration || "4 Years",
-              fees: co.fees || "Contact for details",
-              intake: co.intake || "N/A",
-              eligibility: co.eligibility || "As per norms"
+              title: String(co.title),
+              type: String(co.type || "Full Time"),
+              division: String(co.division || "Degree"),
+              duration: String(co.duration || "4 Years"),
+              fees: String(co.fees || "Contact for details"),
+              intake: String(co.intake || "N/A"),
+              eligibility: String(co.eligibility || "As per norms")
             }
           });
         }
