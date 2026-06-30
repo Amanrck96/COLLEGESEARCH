@@ -34,9 +34,9 @@ const Admin = () => {
   const [staffPasswordMsg, setStaffPasswordMsg] = useState('');
 
 
-  const onAdminLoginSubmit = (e) => {
+  const onAdminLoginSubmit = async (e) => {
     e.preventDefault();
-    const res = handleLogin(adminEmail, adminPassword, adminRole);
+    const res = await handleLogin(adminEmail, adminPassword, adminRole);
     if (res.success) {
       setAdminEmail('');
       setAdminPassword('');

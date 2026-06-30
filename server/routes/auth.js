@@ -44,20 +44,19 @@ router.post('/signup', async (req, res) => {
 // Login
 router.post('/login', async (req, res) => {
   const { email, password, role } = req.body;
-  if (!email || !password || !role) {
-    return res.status(400).json({ error: "Missing required fields: email, password, role" });
+  if (!email || !password) {
+    return res.status(400).json({ error: "Missing required fields: email, password" });
   }
 
   try {
-    const user = await prisma.user.findFirst({
+    const user = await prisma.user.findUnique({
       where: {
-        email,
-        role: role.toUpperCase()
+        email
       }
     });
 
     if (!user) {
-      return res.status(401).json({ error: "Invalid email, role selection or password" });
+      return res.status(401).json({ error: "Invalid credentials" });
     }
 
     const isMatch = await bcrypt.compare(password, user.password);
@@ -66,7 +65,7 @@ router.post('/login', async (req, res) => {
     }
 
     await prisma.auditLog.create({
-      data: { action: "Login", userId: user.id, details: `User logged in successfully: ${email} (${role})` }
+      data: { action: "Login", userId: user.id, details: `User logged in successfully: ${email} (${user.role})` }
     });
 
     const token = jwt.sign({ id: user.id, role: user.role, name: user.name }, JWT_SECRET, { expiresIn: '7d' });

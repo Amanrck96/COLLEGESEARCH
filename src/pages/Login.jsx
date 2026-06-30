@@ -27,14 +27,14 @@ const Login = () => {
     }
   }, [currentUser, navigate]);
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     if (!email || !password) {
       showToast('Please fill in all email and password fields.', 'warning');
       return;
     }
 
-    const res = handleLogin(email, password, activeTab === 'student' ? 'student' : 'superadmin'); // superadmin or select role inside backend logic
+    const res = await handleLogin(email, password, activeTab === 'student' ? 'student' : 'superadmin'); // superadmin or select role inside backend logic
     if (res.success) {
       showToast(`Welcome back, ${res.user.name}! Successful login.`, 'success');
       if (res.user.role === 'student') {

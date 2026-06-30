@@ -218,13 +218,13 @@ export const AuthProvider = ({ children }) => {
         id: data.user.id,
         name: data.user.name,
         email: data.user.email,
-        role: selectedRole.toLowerCase(),
-        studentId: selectedRole.toLowerCase() === 'student' ? data.user.id : undefined
+        role: data.user.role.toLowerCase(),
+        studentId: data.user.role.toLowerCase() === 'student' ? data.user.id : undefined
       };
       
       setCurrentUser(activeUser);
       localStorage.setItem('token', data.token);
-      logActivity(activeUser.name, selectedRole, "Login", `User authenticated. Session assigned.`);
+      logActivity(activeUser.name, data.user.role, "Login", `User authenticated. Session assigned.`);
       return { success: true, user: activeUser };
     } catch (err) {
       console.error("Login connection error:", err);

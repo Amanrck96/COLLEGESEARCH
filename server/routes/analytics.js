@@ -1,6 +1,9 @@
 import express from 'express';
+import jwt from 'jsonwebtoken';
 import { PrismaClient } from '@prisma/client';
 import { authorize } from '../middleware/authorize.js'; // Fix #13: Shared middleware
+
+const JWT_SECRET = process.env.JWT_SECRET || "supersecretcollegesearchkey";
 
 const router = express.Router();
 const prisma = new PrismaClient();
