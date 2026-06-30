@@ -186,6 +186,22 @@ export const navData = {
           { title: 'Top Medical Colleges in Delhi', url: '/colleges?q=Top Medical Colleges in Delhi' },
           { title: 'Top Pharmacy Colleges in Maharashtra', url: '/colleges?q=Top Pharmacy Colleges in Maharashtra' },
         ]
+      },
+      {
+        colClass: 'col-md-6',
+        title: 'NIRF 2025 Top 10',
+        links: [
+          { title: 'AIIMS Delhi', url: '/colleges?q=AIIMS Delhi' },
+          { title: 'PGIMER Chandigarh', url: '/colleges?q=PGIMER Chandigarh' },
+          { title: 'CMC Vellore', url: '/colleges?q=CMC Vellore' },
+          { title: 'JIPMER Puducherry', url: '/colleges?q=JIPMER Puducherry' },
+          { title: 'SGPGIMS Lucknow', url: '/colleges?q=SGPGIMS Lucknow' },
+          { title: 'BHU Varanasi', url: '/colleges?q=BHU Varanasi' },
+          { title: 'NIMHANS Bangalore', url: '/colleges?q=NIMHANS Bangalore' },
+          { title: 'KGMU Lucknow', url: '/colleges?q=KGMU Lucknow' },
+          { title: 'Amrita Kochi', url: '/colleges?q=Amrita Kochi' },
+          { title: 'KMC Manipal', url: '/colleges?q=KMC Manipal' },
+        ]
       }
     ],
     'Popular Courses': [
@@ -197,6 +213,79 @@ export const navData = {
           { title: 'BAMS', url: '/courses?q=BAMS' },
           { title: 'BHMS', url: '/courses?q=BHMS' },
           { title: 'B.Sc Nursing', url: '/courses?q=B.Sc Nursing' },
+          { title: 'MD/MS', url: '/courses?q=MD/MS' },
+          { title: 'MDS', url: '/courses?q=MDS' },
+        ]
+      }
+    ],
+    'Top Government Colleges': [
+      {
+        colClass: 'col-md-6',
+        links: [
+          { title: 'AIIMS Delhi', url: '/colleges?q=AIIMS Delhi' },
+          { title: 'AIIMS Bhopal', url: '/colleges?q=AIIMS Bhopal' },
+          { title: 'AIIMS Bhubaneswar', url: '/colleges?q=AIIMS Bhubaneswar' },
+          { title: 'AIIMS Jodhpur', url: '/colleges?q=AIIMS Jodhpur' },
+          { title: 'AIIMS Patna', url: '/colleges?q=AIIMS Patna' },
+          { title: 'AIIMS Raipur', url: '/colleges?q=AIIMS Raipur' },
+          { title: 'AIIMS Rishikesh', url: '/colleges?q=AIIMS Rishikesh' },
+          { title: 'Maulana Azad Medical College', url: '/colleges?q=Maulana Azad Medical College' },
+          { title: 'Lady Hardinge Medical College', url: '/colleges?q=Lady Hardinge Medical College' },
+        ]
+      }
+    ],
+    'Top Private Colleges': [
+      {
+        colClass: 'col-md-6',
+        links: [
+          { title: 'CMC Vellore', url: '/colleges?q=CMC Vellore' },
+          { title: 'KMC Manipal', url: '/colleges?q=KMC Manipal' },
+          { title: 'KMC Mangalore', url: '/colleges?q=KMC Mangalore' },
+          { title: 'SRM Medical College Chennai', url: '/colleges?q=SRM Medical College Chennai' },
+          { title: 'St. John\'s Medical College', url: '/colleges?q=St. John\'s Medical College' },
+          { title: 'JSS Medical College Mysore', url: '/colleges?q=JSS Medical College Mysore' },
+          { title: 'Amrita Medical College Kochi', url: '/colleges?q=Amrita Medical College Kochi' },
+          { title: 'Kalinga Institute Bhubaneswar', url: '/colleges?q=Kalinga Institute Bhubaneswar' },
+        ]
+      }
+    ],
+    'Colleges by Zone': [
+      {
+        colClass: 'col-md-3',
+        title: 'North India',
+        links: [
+          { title: 'AIIMS Delhi', url: '/colleges?q=AIIMS Delhi' },
+          { title: 'PGIMER Chandigarh', url: '/colleges?q=PGIMER Chandigarh' },
+          { title: 'MAMC Delhi', url: '/colleges?q=MAMC Delhi' },
+          { title: 'KGMU Lucknow', url: '/colleges?q=KGMU Lucknow' },
+        ]
+      },
+      {
+        colClass: 'col-md-3',
+        title: 'South India',
+        links: [
+          { title: 'CMC Vellore', url: '/colleges?q=CMC Vellore' },
+          { title: 'JIPMER Puducherry', url: '/colleges?q=JIPMER Puducherry' },
+          { title: 'NIMHANS Bangalore', url: '/colleges?q=NIMHANS Bangalore' },
+          { title: 'KMC Manipal', url: '/colleges?q=KMC Manipal' },
+        ]
+      },
+      {
+        colClass: 'col-md-3',
+        title: 'East India',
+        links: [
+          { title: 'AIIMS Bhubaneswar', url: '/colleges?q=AIIMS Bhubaneswar' },
+          { title: 'Medical College Kolkata', url: '/colleges?q=Medical College Kolkata' },
+          { title: 'IPGME&R Kolkata', url: '/colleges?q=IPGME&R Kolkata' },
+        ]
+      },
+      {
+        colClass: 'col-md-3',
+        title: 'West India',
+        links: [
+          { title: 'BJ Medical College Pune', url: '/colleges?q=BJ Medical College Pune' },
+          { title: 'Seth GS Medical College Mumbai', url: '/colleges?q=Seth GS Medical College Mumbai' },
+          { title: 'GMCH Chandigarh', url: '/colleges?q=GMCH Chandigarh' },
         ]
       }
     ],
@@ -204,9 +293,11 @@ export const navData = {
       {
         colClass: 'col-md-6',
         links: [
-          { title: 'NEET', url: '/exams?q=NEET' },
+          { title: 'NEET UG', url: '/exams?q=NEET UG' },
           { title: 'NEET PG', url: '/exams?q=NEET PG' },
-          { title: 'AIIMS INI CET', url: '/exams?q=INI CET' },
+          { title: 'NEET MDS', url: '/exams?q=NEET MDS' },
+          { title: 'INI CET', url: '/exams?q=INI CET' },
+          { title: 'AIIMS Paramedical', url: '/exams?q=AIIMS Paramedical' },
         ]
       }
     ]
