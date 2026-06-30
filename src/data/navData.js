@@ -231,6 +231,12 @@ export const navData = {
           { title: 'AIIMS Rishikesh', url: '/colleges?q=AIIMS Rishikesh' },
           { title: 'Maulana Azad Medical College', url: '/colleges?q=Maulana Azad Medical College' },
           { title: 'Lady Hardinge Medical College', url: '/colleges?q=Lady Hardinge Medical College' },
+          { title: 'Medical College Kolkata', url: '/colleges?q=Medical College Kolkata' },
+          { title: 'B. J. Medical College Ahmedabad', url: '/colleges?q=B. J. Medical College Ahmedabad' },
+          { title: 'Osmania Medical College', url: '/colleges?q=Osmania Medical College' },
+          { title: 'GMCH Chandigarh', url: '/colleges?q=GMCH Chandigarh' },
+          { title: 'University College of Medical Sciences Delhi', url: '/colleges?q=University College of Medical Sciences Delhi' },
+          { title: 'S. M. S. Medical College Jaipur', url: '/colleges?q=S. M. S. Medical College Jaipur' },
         ]
       }
     ],
@@ -246,6 +252,13 @@ export const navData = {
           { title: 'JSS Medical College Mysore', url: '/colleges?q=JSS Medical College Mysore' },
           { title: 'Amrita Medical College Kochi', url: '/colleges?q=Amrita Medical College Kochi' },
           { title: 'Kalinga Institute Bhubaneswar', url: '/colleges?q=Kalinga Institute Bhubaneswar' },
+          { title: 'Mahatma Gandhi Medical College', url: '/colleges?q=Mahatma Gandhi Medical College' },
+          { title: 'PSG Institute of Medical Sciences', url: '/colleges?q=PSG Institute of Medical Sciences' },
+          { title: 'M S Ramaiah Medical College', url: '/colleges?q=M S Ramaiah Medical College' },
+          { title: 'Saveetha Institute of Medical Sciences', url: '/colleges?q=Saveetha Institute of Medical Sciences' },
+          { title: 'Sri Ramachandra Institute', url: '/colleges?q=Sri Ramachandra Institute' },
+          { title: 'Datta Meghe Institute', url: '/colleges?q=Datta Meghe Institute' },
+          { title: 'Sree Chitra Tirunal Institute', url: '/colleges?q=Sree Chitra Tirunal Institute' },
         ]
       }
     ],
@@ -258,6 +271,7 @@ export const navData = {
           { title: 'PGIMER Chandigarh', url: '/colleges?q=PGIMER Chandigarh' },
           { title: 'MAMC Delhi', url: '/colleges?q=MAMC Delhi' },
           { title: 'KGMU Lucknow', url: '/colleges?q=KGMU Lucknow' },
+          { title: 'Lady Hardinge Medical College', url: '/colleges?q=Lady Hardinge Medical College' },
         ]
       },
       {
@@ -268,6 +282,7 @@ export const navData = {
           { title: 'JIPMER Puducherry', url: '/colleges?q=JIPMER Puducherry' },
           { title: 'NIMHANS Bangalore', url: '/colleges?q=NIMHANS Bangalore' },
           { title: 'KMC Manipal', url: '/colleges?q=KMC Manipal' },
+          { title: 'St. John\'s Medical College', url: '/colleges?q=St. John\'s Medical College' },
         ]
       },
       {
@@ -283,7 +298,7 @@ export const navData = {
         colClass: 'col-md-3',
         title: 'West India',
         links: [
-          { title: 'BJ Medical College Pune', url: '/colleges?q=BJ Medical College Pune' },
+          { title: 'B. J. Medical College Ahmedabad', url: '/colleges?q=B. J. Medical College Ahmedabad' },
           { title: 'Seth GS Medical College Mumbai', url: '/colleges?q=Seth GS Medical College Mumbai' },
           { title: 'GMCH Chandigarh', url: '/colleges?q=GMCH Chandigarh' },
         ]
