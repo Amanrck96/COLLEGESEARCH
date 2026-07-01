@@ -1,80 +1,55 @@
 import express from 'express';
 import cors from 'cors';
-import helmet from 'helmet';
-import rateLimit from 'express-rate-limit';
-import google from 'googlethis';
 import dotenv from 'dotenv';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import uploadRoutes from './routes/uploads.js';
 
-// Routes
-import authRoutes from './routes/auth.js';
-import collegeRoutes from './routes/colleges.js';
-import reviewRoutes from './routes/reviews.js';
-import analyticsRoutes from './routes/analytics.js';
-import webhookRoutes from './routes/webhooks.js';
+dotenv.config({ path: '../.env' });
 
-import verifyCSRF from './middleware/csrf.js';
-
-dotenv.config();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 5000;
+const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:5173';
 
-// Security Middlewares
-app.use(helmet());
+// Security + CORS
 app.use(cors({
-  // Fix #5: Restrict CORS to the configured frontend URL only (not a wildcard)
-  origin: process.env.FRONTEND_URL || 'http://localhost:5173',
+  origin: [FRONTEND_URL, 'http://localhost:5173', 'http://localhost:4173'],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization', 'X-CSRF-Token']
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  credentials: true
 }));
 
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-app.use('/api/', verifyCSRF);
+app.use(express.json({ limit: '10mb' }));
+app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 
-// Rate Limiting to prevent brute-force API requests
-const apiLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 200, // Limit each IP to 200 requests per windowMs
-  standardHeaders: true,
-  legacyHeaders: false,
-  message: { error: "Too many requests. Please try again after 15 minutes." }
-});
-app.use('/api/', apiLimiter);
+// Serve uploaded images as static files
+const uploadsDir = path.join(__dirname, '../public/uploads');
+app.use('/uploads', express.static(uploadsDir));
 
-// Endpoint Health Check
+// Health check
 app.get('/api/health', (req, res) => {
-  res.status(200).json({ status: "OK", timestamp: new Date().toISOString() });
+  res.status(200).json({ status: 'OK', timestamp: new Date().toISOString() });
 });
 
-// Image Search Proxy Route
-app.get('/api/search-image', async (req, res) => {
-  const { q } = req.query;
-  if (!q) {
-    return res.status(400).json({ error: "Query parameter q is required" });
-  }
-  try {
-    const searchStr = `${q} campus building exterior facade`;
-    const images = await google.image(searchStr, { safe: false });
-    return res.status(200).json(images);
-  } catch (err) {
-    return res.status(500).json({ error: err.message });
-  }
+// Image upload routes
+app.use('/api/uploads', uploadRoutes);
+
+// 404 handler
+app.use((req, res) => {
+  res.status(404).json({ error: 'Endpoint not found' });
 });
 
-// Mount Routes
-app.use('/api/auth', authRoutes);
-app.use('/api/colleges', collegeRoutes);
-app.use('/api/reviews', reviewRoutes);
-app.use('/api/analytics', analyticsRoutes);
-app.use('/api/webhooks', webhookRoutes);
-
-// Error Handling Middleware
+// Error handler
 app.use((err, req, res, next) => {
-  console.error("Express Server Error:", err);
-  res.status(500).json({ error: "Internal Server Error" });
+  console.error('Server Error:', err.message);
+  res.status(500).json({ error: 'Internal server error' });
 });
 
 app.listen(PORT, () => {
-  console.log(`Express API Server listening on port ${PORT}`);
+  console.log(`\n✅ Image Upload Server running on http://localhost:${PORT}`);
+  console.log(`   Upload endpoint: POST http://localhost:${PORT}/api/uploads/image`);
+  console.log(`   Health check:    GET  http://localhost:${PORT}/api/health\n`);
 });
