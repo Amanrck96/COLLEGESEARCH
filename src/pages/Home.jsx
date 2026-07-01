@@ -1,10 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Card, Button, Badge, Spinner } from 'react-bootstrap';
 import { motion } from 'framer-motion';
 import { Link, useNavigate } from 'react-router-dom';
 import { FaGraduationCap, FaUniversity, FaBookOpen, FaStar, FaChevronRight } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
 import CollegeImg from '../components/CollegeImg';
+import { aiSearchColleges } from '../utils/geminiApi';
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 50 },
@@ -15,6 +16,33 @@ const Home = () => {
   const { colleges, exams, loading } = React.useContext(CollegeContext);
   const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState('');
+  
+  const [dynamicColleges, setDynamicColleges] = useState([]);
+  const [apiLoading, setApiLoading] = useState(false);
+  const [apiError, setApiError] = useState(null);
+
+  useEffect(() => {
+    const fetchDynamicColleges = async () => {
+      setApiLoading(true);
+      setApiError(null);
+      try {
+        console.log("Calling Gemini API to fetch dynamic colleges...");
+        const result = await aiSearchColleges("Top Engineering Colleges in India");
+        if (result && Array.isArray(result) && result.length > 0) {
+          console.log("Gemini API fetched popular colleges successfully:", result);
+          setDynamicColleges(result);
+        } else {
+          throw new Error("No data returned or invalid JSON format from Gemini API");
+        }
+      } catch (err) {
+        console.error("Gemini API call failed on homepage:", err);
+        setApiError(err.message || "Failed to fetch from Gemini API");
+      } finally {
+        setApiLoading(false);
+      }
+    };
+    fetchDynamicColleges();
+  }, []);
   
   const handleSearch = (e) => {
     e.preventDefault();
@@ -78,13 +106,13 @@ const Home = () => {
             <p>Explore the top-ranked institutions based on placement, faculty, and student reviews.</p>
           </div>
           <Row className="g-4">
-            {loading ? (
+            {apiLoading || loading ? (
               <Col xs={12} className="text-center py-5">
                 <Spinner animation="border" variant="primary" />
                 <p className="mt-2 text-muted">Loading top colleges...</p>
               </Col>
             ) : (
-              (colleges || []).slice(0, 4).map((college, idx) => (
+              (dynamicColleges.length > 0 ? dynamicColleges : (colleges || []).slice(0, 4)).map((college, idx) => (
                 <Col md={6} lg={3} key={idx}>
                   <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
                     <Card className="custom-card h-100 border-0">
@@ -95,8 +123,8 @@ const Home = () => {
                           <Badge bg="warning" text="dark"><FaStar className="mb-1 me-1"/>{college.rating}</Badge>
                         </div>
                         <Card.Title className="fw-bold text-primary flex-grow-1" style={{fontSize: '1.1rem'}}>{college.name}</Card.Title>
-                        <Card.Text className="text-muted mb-3 small"><FaUniversity className="me-2"/>{college.location}</Card.Text>
-                        <Link to={`/colleges/${college.id}`} className="btn btn-outline-primary rounded-pill w-100">View Details</Link>
+                        <Card.Text className="text-muted mb-3 small"><FaUniversity className="me-2"/>{college.location || college.state}</Card.Text>
+                        <Link to={`/colleges/${college.id}`} state={{ college }} className="btn btn-outline-primary rounded-pill w-100">View Details</Link>
                       </Card.Body>
                     </Card>
                   </motion.div>

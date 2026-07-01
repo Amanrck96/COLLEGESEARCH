@@ -3,7 +3,8 @@ import { Container, Row, Col, Card, Form, Table, Button, Badge, Alert, Tab, Nav,
 import { 
   FaUserShield, FaSchool, FaBookOpen, FaUserGraduate, FaHistory, FaFileExcel, 
   FaFilePdf, FaBan, FaCheck, FaTimes, FaPlus, FaTrash, FaEdit, FaDownload, 
-  FaExclamationTriangle, FaSearch, FaRegStickyNote, FaFilter, FaExchangeAlt, FaCog
+  FaExclamationTriangle, FaSearch, FaRegStickyNote, FaFilter, FaExchangeAlt, FaCog,
+  FaExternalLinkAlt
 } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
 import { AuthContext } from '../contexts/AuthContext';
@@ -1556,9 +1557,13 @@ const Admin = () => {
                             )}
                           </td>
                           <td>
-                            <a href={u.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-                              {u.sourceUrl.split('/')[2]} <FaExternalLinkAlt size={10} />
-                            </a>
+                            {u.sourceUrl ? (
+                              <a href={u.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-decoration-none">
+                                {u.sourceUrl.includes('/') ? u.sourceUrl.split('/')[2] : u.sourceUrl} <FaExternalLinkAlt size={10} />
+                              </a>
+                            ) : (
+                              <span className="text-muted">No Source</span>
+                            )}
                           </td>
                           <td className="text-end">
                             <Button size="sm" variant="success" className="me-2" onClick={() => approveUpdate(u.id)}>Approve</Button>

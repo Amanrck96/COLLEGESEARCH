@@ -26,6 +26,11 @@ const CollegeDetail = () => {
   const [detailLoading, setDetailLoading] = useState(true);
 
   useEffect(() => {
+    if (location.state?.college) {
+      setCollege(location.state.college);
+      setDetailLoading(false);
+      return;
+    }
     const found = (colleges || []).find(c => String(c.id) === String(id));
     if (found) {
       setCollege(found);
@@ -46,7 +51,7 @@ const CollegeDetail = () => {
           setDetailLoading(false);
         });
     }
-  }, [id, colleges]);
+  }, [id, colleges, location.state]);
 
   const { t } = useTranslation();
 
