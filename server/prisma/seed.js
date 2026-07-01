@@ -44,10 +44,6 @@ async function main() {
     data: { email: "aarav.sharma@gmail.com", name: "Aarav Sharma", role: "STUDENT", password: studentPassword }
   });
 
-  // 4. Seed sample REAL colleges with accurate data
-  console.log("Seeding sample real colleges with accurate data...");
-  
-  const sampleColleges = [
     {
       name: "Indian Institute of Technology Bombay",
       shortName: "IITB",
@@ -68,8 +64,12 @@ async function main() {
       mapUrl: "https://www.google.com/maps/place/IIT+Bombay",
       fees: "₹2.5 Lakhs/Year (approx)",
       exams: "JEE Advanced",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Logo.svg/1200px-IIT_Bombay_Logo.svg.png",
-      gallery: JSON.stringify([]),
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Logo.svg/1200px-IIT_Bombay_Logo.svg.png",
+      img: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=800",
+      gallery: JSON.stringify([
+        "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=800"
+      ]),
       affiliation: "Autonomous",
       highestPackage: "₹1.5 Crore",
       averagePackage: "₹18 LPA",
@@ -77,7 +77,9 @@ async function main() {
       highlights: "Top engineering institute, excellent research facilities, strong alumni network",
       topRecruiters: "Google, Microsoft, Amazon, Goldman Sachs, McKinsey",
       brochureLink: "",
-      admissionProcess: "JEE Advanced rank based admission"
+      admissionProcess: "JEE Advanced rank based admission",
+      featured: true,
+      published: true
     },
     {
       name: "Indian Institute of Technology Delhi",
@@ -99,8 +101,12 @@ async function main() {
       mapUrl: "https://www.google.com/maps/place/IIT+Delhi",
       fees: "₹2.5 Lakhs/Year (approx)",
       exams: "JEE Advanced",
-      img: "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/IIT_Delhi_Logo.svg/1200px-IIT_Delhi_Logo.svg.png",
-      gallery: JSON.stringify([]),
+      logo: "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/IIT_Delhi_Logo.svg/1200px-IIT_Delhi_Logo.svg.png",
+      img: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=800",
+      gallery: JSON.stringify([
+        "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?auto=format&fit=crop&q=80&w=800"
+      ]),
       affiliation: "Autonomous",
       highestPackage: "₹1.2 Crore",
       averagePackage: "₹16 LPA",
@@ -108,7 +114,9 @@ async function main() {
       highlights: "Excellent faculty, state-of-the-art infrastructure, strong industry connections",
       topRecruiters: "Microsoft, Google, Adobe, Flipkart, Bain",
       brochureLink: "",
-      admissionProcess: "JEE Advanced rank based admission"
+      admissionProcess: "JEE Advanced rank based admission",
+      featured: true,
+      published: true
     },
     {
       name: "Indian Institute of Technology Madras",
@@ -130,8 +138,12 @@ async function main() {
       mapUrl: "https://www.google.com/maps/place/IIT+Madras",
       fees: "₹2.5 Lakhs/Year (approx)",
       exams: "JEE Advanced",
-      img: "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png",
-      gallery: JSON.stringify([]),
+      logo: "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png",
+      img: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?auto=format&fit=crop&q=80&w=800",
+      gallery: JSON.stringify([
+        "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1590408546194-e3fb4b917531?auto=format&fit=crop&q=80&w=800"
+      ]),
       affiliation: "Autonomous",
       highestPackage: "₹1.3 Crore",
       averagePackage: "₹17 LPA",
@@ -139,7 +151,9 @@ async function main() {
       highlights: "Beautiful campus, strong research culture, excellent placements",
       topRecruiters: "Amazon, Intel, Qualcomm, Texas Instruments, Zoho",
       brochureLink: "",
-      admissionProcess: "JEE Advanced rank based admission"
+      admissionProcess: "JEE Advanced rank based admission",
+      featured: false,
+      published: true
     },
     {
       name: "Indian Institute of Management Ahmedabad",
@@ -161,8 +175,12 @@ async function main() {
       mapUrl: "https://www.google.com/maps/place/IIM+Ahmedabad",
       fees: "₹23 Lakhs (2-year PGP)",
       exams: "CAT",
-      img: "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/IIM_Ahmedabad_Logo.svg/1200px-IIM_Ahmedabad_Logo.svg.png",
-      gallery: JSON.stringify([]),
+      logo: "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/IIM_Ahmedabad_Logo.svg/1200px-IIM_Ahmedabad_Logo.svg.png",
+      img: "https://images.unsplash.com/photo-1590408546194-e3fb4b917531?auto=format&fit=crop&q=80&w=800",
+      gallery: JSON.stringify([
+        "https://images.unsplash.com/photo-1590408546194-e3fb4b917531?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=800"
+      ]),
       affiliation: "Autonomous",
       highestPackage: "₹75 LPA",
       averagePackage: "₹25 LPA",
@@ -170,7 +188,9 @@ async function main() {
       highlights: "Top business school, case-based learning, strong alumni network",
       topRecruiters: "McKinsey, BCG, Bain, Goldman Sachs, HUL",
       brochureLink: "",
-      admissionProcess: "CAT score + GD/PI"
+      admissionProcess: "CAT score + GD/PI",
+      featured: true,
+      published: true
     },
     {
       name: "Indian Institute of Management Bangalore",
@@ -192,8 +212,12 @@ async function main() {
       mapUrl: "https://www.google.com/maps/place/IIM+Bangalore",
       fees: "₹23 Lakhs (2-year PGP)",
       exams: "CAT",
-      img: "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/IIM_Bangalore_Logo.svg/1200px-IIM_Bangalore_Logo.svg.png",
-      gallery: JSON.stringify([]),
+      logo: "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/IIM_Bangalore_Logo.svg/1200px-IIM_Bangalore_Logo.svg.png",
+      img: "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=800",
+      gallery: JSON.stringify([
+        "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80&w=800"
+      ]),
       affiliation: "Autonomous",
       highestPackage: "₹70 LPA",
       averagePackage: "₹24 LPA",
@@ -201,7 +225,9 @@ async function main() {
       highlights: "Excellent faculty, beautiful campus, strong placements",
       topRecruiters: "McKinsey, BCG, Amazon, Microsoft, Flipkart",
       brochureLink: "",
-      admissionProcess: "CAT score + GD/PI"
+      admissionProcess: "CAT score + GD/PI",
+      featured: true,
+      published: true
     }
   ];
 

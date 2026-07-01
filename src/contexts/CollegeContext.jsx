@@ -503,13 +503,107 @@ export const CollegeProvider = ({ children }) => {
     } catch (err) {
       console.warn("fetchColleges error, performing local filtering fallback:", err);
       let results = [...colleges];
+      
+      // 1. Text Search (Name, shortName, location, state, exams, courses)
       if (params.q) {
-        const qStr = params.q.toLowerCase();
-        results = results.filter(c => c.name.toLowerCase().includes(qStr) || c.location.toLowerCase().includes(qStr));
+        const qStr = params.q.toLowerCase().trim();
+        results = results.filter(c => 
+          (c.name || '').toLowerCase().includes(qStr) || 
+          (c.shortName || '').toLowerCase().includes(qStr) ||
+          (c.location || '').toLowerCase().includes(qStr) ||
+          (c.state || '').toLowerCase().includes(qStr) ||
+          (c.exams || '').toLowerCase().includes(qStr) ||
+          (c.courses || []).some(co => (co.title || '').toLowerCase().includes(qStr))
+        );
       }
-      if (params.state) results = results.filter(c => c.state === params.state);
-      if (params.city) results = results.filter(c => c.location === params.city);
-      if (params.type) results = results.filter(c => c.type === params.type);
+      
+      // 2. Dropdowns & Toggles
+      if (params.country) {
+        results = results.filter(c => (c.country || 'India').toLowerCase() === params.country.toLowerCase());
+      }
+      if (params.state) {
+        results = results.filter(c => (c.state || '').toLowerCase() === params.state.toLowerCase());
+      }
+      if (params.city) {
+        results = results.filter(c => (c.location || '').toLowerCase() === params.city.toLowerCase());
+      }
+      if (params.type) {
+        results = results.filter(c => (c.type || '').toLowerCase() === params.type.toLowerCase());
+      }
+      if (params.rating) {
+        results = results.filter(c => (c.rating || 0) >= parseFloat(params.rating));
+      }
+      if (params.exam) {
+        const eStr = params.exam.toLowerCase();
+        results = results.filter(c => (c.exams || '').toLowerCase().includes(eStr));
+      }
+      
+      // 3. Course Filter
+      if (params.course) {
+        const cStr = params.course.toLowerCase();
+        results = results.filter(c => 
+          (c.courses || []).some(co => (co.title || '').toLowerCase().includes(cStr))
+        );
+      }
+      
+      // 4. Hostel Filter
+      if (params.hostel) {
+        if (params.hostel === 'yes') {
+          results = results.filter(c => (c.facilities || '').toLowerCase().includes('hostel'));
+        } else if (params.hostel === 'no') {
+          results = results.filter(c => !(c.facilities || '').toLowerCase().includes('hostel'));
+        }
+      }
+      
+      // 5. Placements (Average Package >= X LPA)
+      if (params.placement) {
+        const threshold = params.placement === 'above_15' ? 15 : params.placement === 'above_10' ? 10 : params.placement === 'above_5' ? 5 : 0;
+        results = results.filter(c => {
+          const pkgStr = c.averagePackage || c.average_package || '';
+          const match = pkgStr.match(/(\d+(\.\d+)?)/);
+          if (match) {
+            const val = parseFloat(match[1]);
+            return val >= threshold;
+          }
+          return false;
+        });
+      }
+      
+      // 6. Annual Fees Range
+      if (params.feeRange) {
+        results = results.filter(c => {
+          const feeStr = c.courses?.[0]?.fees || c.fees || '';
+          const match = feeStr.match(/(\d+(\.\d+)?)/);
+          if (match) {
+            const val = parseFloat(match[1]);
+            const isLakh = feeStr.includes('Lakh') || val < 100;
+            const annualFee = isLakh ? val * 100000 : val;
+            
+            if (params.feeRange === 'under_1') return annualFee < 100000;
+            if (params.feeRange === '1_3') return annualFee >= 100000 && annualFee <= 300000;
+            if (params.feeRange === '3_5') return annualFee > 300000 && annualFee <= 500000;
+            if (params.feeRange === 'above_5') return annualFee > 500000;
+          }
+          return true;
+        });
+      }
+
+      // Filter out unpublished for public queries
+      if (params.admin !== 'true') {
+        results = results.filter(c => c.published !== false);
+      }
+      
+      // 7. Sorting
+      const sort = params.sortBy || 'rating';
+      if (sort === 'rating') {
+        results.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+      } else if (sort === 'ranking') {
+        results.sort((a, b) => (a.ranking || 999) - (b.ranking || 999));
+      } else if (sort === 'reviews') {
+        results.sort((a, b) => (b.reviewsCount || b.reviews || 0) - (a.reviewsCount || a.reviews || 0));
+      } else {
+        results.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
+      }
       
       const limit = parseInt(params.limit || '12');
       const page = parseInt(params.page || '1');

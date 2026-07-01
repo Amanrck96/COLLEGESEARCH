@@ -1,0 +1,340 @@
+import express from 'express';
+import { PrismaClient } from '@prisma/client';
+import { authorize } from '../middleware/authorize.js';
+
+const router = express.Router();
+const prisma = new PrismaClient();
+
+// GET colleges with advanced query filters & pagination
+router.get('/', async (req, res) => {
+  const { q, state, city, type, course, maxFees, rating, placement, exam, page = 1, limit = 12, sortBy = 'rating', admin } = req.query;
+
+  try {
+    const filters = {};
+
+    // 1. Text Search matching name, code, state, or location
+    if (q) {
+      filters.OR = [
+        { name: { contains: q } },
+        { shortName: { contains: q } },
+        { location: { contains: q } },
+        { state: { contains: q } }
+      ];
+    }
+
+    // 2. Specific dropdown filters
+    if (state) filters.state = state;
+    if (city) filters.location = city;
+    if (type) filters.type = type;
+    
+    if (rating) {
+      filters.rating = { gte: parseFloat(rating) };
+    }
+    
+    if (exam) {
+      filters.exams = { contains: exam };
+    }
+
+    const { country, hostel } = req.query;
+    if (country) {
+      if (country.toLowerCase() !== 'india') {
+        filters.affiliation = { contains: country };
+      } else {
+        filters.affiliation = { not: { contains: 'USA' } };
+      }
+    }
+
+    if (hostel) {
+      if (hostel === 'yes') {
+        filters.facilities = { contains: 'Hostel' };
+      } else if (hostel === 'no') {
+        filters.facilities = { not: { contains: 'Hostel' } };
+      }
+    }
+
+    // Filter out unpublished unless requested by admin console
+    if (admin !== 'true') {
+      filters.published = { not: false };
+    }
+
+    // 3. Placement packages threshold
+    if (placement) {
+      const numericVal = parseInt(placement.replace(/\D/g, ''));
+      if (numericVal) {
+        filters.averagePackage = { contains: String(numericVal) };
+      }
+    }
+
+    // 4. Nested courses filter
+    if (course || maxFees) {
+      filters.courses = {
+        some: {}
+      };
+      if (course) {
+        filters.courses.some.title = { contains: course };
+      }
+    }
+
+    // Pagination calculations
+    const pageNum = parseInt(page) || 1;
+    const limitNum = parseInt(limit) || 12;
+    const skip = (pageNum - 1) * limitNum;
+    const take = limitNum;
+
+    // Sorting order
+    let orderBy = {};
+    if (sortBy === 'rating') {
+      orderBy = { rating: 'desc' };
+    } else if (sortBy === 'ranking') {
+      orderBy = { ranking: 'asc' };
+    } else if (sortBy === 'reviews') {
+      orderBy = { reviewsCount: 'desc' };
+    } else {
+      orderBy = { name: 'asc' };
+    }
+
+    const totalCount = await prisma.college.count({ where: filters });
+    
+    const collegesList = await prisma.college.findMany({
+      where: filters,
+      include: {
+        courses: true
+      },
+      orderBy,
+      skip,
+      take
+    });
+
+    res.status(200).json({
+      colleges: collegesList,
+      totalCount,
+      page: pageNum,
+      limit: limitNum
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// GET Single College Details
+router.get('/:id', async (req, res) => {
+  const { id } = req.params;
+  try {
+    const college = await prisma.college.findUnique({
+      where: { id: parseInt(id) },
+      include: {
+        courses: true,
+        reviews: {
+          where: { status: "APPROVED" }
+        }
+      }
+    });
+
+    if (!college) {
+      return res.status(404).json({ error: "College not found" });
+    }
+
+    res.status(200).json(college);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// POST Create College Entry
+router.post('/', authorize('operator'), async (req, res) => {
+  const c = req.body;
+  if (!c.name || !c.location || !c.state) {
+    return res.status(400).json({ error: "Missing required fields: name, location, state" });
+  }
+
+  try {
+    const newCollege = await prisma.college.create({
+      data: {
+        name: c.name,
+        shortName: c.shortName || c.name.substring(0, 5).toUpperCase(),
+        location: c.location,
+        state: c.state,
+        address: c.address || c.location,
+        phone: c.phone || "0123-456789",
+        email: c.email || null,
+        website: c.website || "http://www.college.edu",
+        rating: parseFloat(c.rating || "4.5"),
+        type: c.type || "Private",
+        about: c.about || `Welcome to ${c.name}, a premier institute.`,
+        ranking: parseInt(c.ranking || "100"),
+        facebook: c.facebook || "#",
+        instagram: c.instagram || "#",
+        linkedin: c.linkedin || "#",
+        mapUrl: c.mapUrl || "",
+        fees: c.fees || "Contact for details",
+        exams: c.exams || "Direct Admission",
+        img: c.img || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
+        affiliation: c.affiliation || "",
+        highestPackage: c.highestPackage || "Contact for details",
+        averagePackage: c.averagePackage || "Contact for details",
+        placements: c.placements || "N/A",
+        highlights: c.highlights || "",
+        topRecruiters: c.topRecruiters || "",
+        brochureLink: c.brochureLink || "",
+        admissionProcess: c.admissionProcess || "",
+        logo: c.logo || "",
+        published: c.published !== false,
+        featured: c.featured === true,
+        courses: c.courses && Array.isArray(c.courses) ? {
+          create: c.courses.map(co => ({
+            title: co.title,
+            type: co.type || "Full Time",
+            division: co.division || "Degree",
+            duration: co.duration || "4 Years",
+            fees: co.fees || "Contact for details",
+            intake: String(co.intake || "N/A"),
+            eligibility: co.eligibility || "As per norms"
+          }))
+        } : undefined
+      },
+      include: {
+        courses: true
+      }
+    });
+
+    await prisma.auditLog.create({
+      data: { action: "Create College", userId: req.userId, details: `Created college entry manually: ${newCollege.name} (ID: ${newCollege.id})` }
+    });
+
+    res.status(201).json(newCollege);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// PUT Update College
+router.put('/:id', authorize('operator'), async (req, res) => {
+  const { id } = req.params;
+  const c = req.body;
+
+  try {
+    const updated = await prisma.college.update({
+      where: { id: parseInt(id) },
+      data: {
+        name: c.name,
+        shortName: c.shortName,
+        location: c.location,
+        state: c.state,
+        address: c.address,
+        phone: c.phone,
+        email: c.email,
+        website: c.website,
+        rating: parseFloat(c.rating || "4.5"),
+        type: c.type,
+        about: c.about,
+        ranking: parseInt(c.ranking || "100"),
+        mapUrl: c.mapUrl,
+        fees: c.fees,
+        exams: c.exams,
+        highestPackage: c.highestPackage,
+        averagePackage: c.averagePackage,
+        placements: c.placements,
+        img: c.img,
+        highlights: c.highlights,
+        topRecruiters: c.topRecruiters,
+        brochureLink: c.brochureLink,
+        admissionProcess: c.admissionProcess,
+        logo: c.logo,
+        published: c.published !== false,
+        featured: c.featured === true
+      }
+    });
+
+    // Sync courses if provided in array
+    if (c.courses && Array.isArray(c.courses)) {
+      // Delete existing courses
+      await prisma.course.deleteMany({ where: { collegeId: parseInt(id) } });
+      // Create new courses
+      if (c.courses.length > 0) {
+        await prisma.course.createMany({
+          data: c.courses.map(co => ({
+            collegeId: parseInt(id),
+            title: co.title,
+            type: co.type || "Full Time",
+            division: co.division || "Degree",
+            duration: co.duration || "4 Years",
+            fees: co.fees || "Contact for details",
+            intake: String(co.intake || "N/A"),
+            eligibility: co.eligibility || "As per norms"
+          }))
+        });
+      }
+    }
+
+    await prisma.auditLog.create({
+      data: { action: "Update College", userId: req.userId, details: `Updated college entry: ${updated.name} (ID: ${updated.id})` }
+    });
+
+    // Fetch the updated college with its courses to return it
+    const finalUpdated = await prisma.college.findUnique({
+      where: { id: parseInt(id) },
+      include: { courses: true }
+    });
+
+    res.status(200).json(finalUpdated);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// DELETE College Entry
+router.delete('/:id', authorize('admin'), async (req, res) => {
+  const { id } = req.params;
+  try {
+    const deleted = await prisma.college.delete({
+      where: { id: parseInt(id) }
+    });
+
+    await prisma.auditLog.create({
+      data: { action: "Delete College", userId: req.userId, details: `Deleted college entry: ${deleted.name} (ID: ${id})` }
+    });
+
+    res.status(200).json({ success: true, message: `College ID ${id} deleted.` });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// POST Add course to college
+router.post('/:id/courses', authorize('operator'), async (req, res) => {
+  const { id } = req.params;
+  const co = req.body;
+
+  try {
+    const course = await prisma.course.create({
+      data: {
+        collegeId: parseInt(id),
+        title: co.title,
+        type: co.type || "Full Time",
+        division: co.division || "Degree",
+        duration: co.duration || "4 Years",
+        fees: co.fees || "Contact for details",
+        eligibility: co.eligibility || "As per norms"
+      }
+    });
+
+    res.status(201).json(course);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// GET aggregated unique courses list
+router.get('/data/courses', async (req, res) => {
+  try {
+    const courses = await prisma.course.findMany({
+      select: { title: true }
+    });
+    const titles = [...new Set(courses.map(c => c.title))];
+    res.status(200).json(titles);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+export default router;

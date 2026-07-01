@@ -9,6 +9,7 @@ import {
 import { CollegeContext } from '../contexts/CollegeContext';
 import { AuthContext } from '../contexts/AuthContext';
 import { useToast } from '../contexts/ToastContext';
+import { SiteContext } from '../contexts/SiteContext';
 import * as XLSX from 'xlsx';
 import { useTranslation } from '../utils/i18n';
 
@@ -21,6 +22,7 @@ const Admin = () => {
     pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate, inaccuracyReports 
   } = useContext(CollegeContext);
   const { currentUser, students, activityLogs, deleteStudent, updateStudentNotes, logActivity, handleLogin, usersList, updateStaffPassword } = useContext(AuthContext);
+  const { siteData, updateSiteData } = useContext(SiteContext);
 
   const [activeTab, setActiveTab] = useState('dashboard');
   const [editingCollege, setEditingCollege] = useState(null);
@@ -34,6 +36,139 @@ const Admin = () => {
   const [staffPasswordDrafts, setStaffPasswordDrafts] = useState({});
   const [staffPasswordMsg, setStaffPasswordMsg] = useState('');
 
+  // Asset, Branding and Course States inside College Form
+  const [logoState, setLogoState] = useState('');
+  const [imgState, setImgState] = useState('');
+  const [galleryState, setGalleryState] = useState([]);
+  const [coursesState, setCoursesState] = useState([]);
+  const [publishedState, setPublishedState] = useState(true);
+  const [featuredState, setFeaturedState] = useState(false);
+
+  // Website Settings States
+  const [heroTitleState, setHeroTitleState] = useState('');
+  const [heroSubtitleState, setHeroSubtitleState] = useState('');
+  const [footerDescState, setFooterDescState] = useState('');
+  const [footerAddressState, setFooterAddressState] = useState('');
+  const [footerPhoneState, setFooterPhoneState] = useState('');
+  const [footerEmailState, setFooterEmailState] = useState('');
+
+  useEffect(() => {
+    if (siteData) {
+      setHeroTitleState(siteData.hero?.title || '');
+      setHeroSubtitleState(siteData.hero?.subtitle || '');
+      setFooterDescState(siteData.footer?.description || '');
+      setFooterAddressState(siteData.footer?.contactInfo?.address || '');
+      setFooterPhoneState(siteData.footer?.contactInfo?.phone || '');
+      setFooterEmailState(siteData.footer?.contactInfo?.email || '');
+    }
+  }, [siteData]);
+
+  useEffect(() => {
+    if (editingCollege) {
+      setLogoState(editingCollege.logo || '');
+      setImgState(editingCollege.img || '');
+      
+      let parsedGallery = [];
+      if (editingCollege.gallery) {
+        try {
+          parsedGallery = typeof editingCollege.gallery === 'string'
+            ? JSON.parse(editingCollege.gallery)
+            : editingCollege.gallery;
+        } catch {
+          parsedGallery = [];
+        }
+      }
+      setGalleryState(parsedGallery);
+      setCoursesState(editingCollege.courses || []);
+      setPublishedState(editingCollege.published !== false);
+      setFeaturedState(editingCollege.featured === true);
+    } else {
+      setLogoState('');
+      setImgState('');
+      setGalleryState([]);
+      setCoursesState([]);
+      setPublishedState(true);
+      setFeaturedState(false);
+    }
+  }, [editingCollege, showCollegeForm]);
+
+  // Asset Upload Handlers
+  const handleLogoUpload = (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onloadend = () => {
+      setLogoState(reader.result);
+    };
+    reader.readAsDataURL(file);
+  };
+
+  const handleImgUpload = (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onloadend = () => {
+      setImgState(reader.result);
+    };
+    reader.readAsDataURL(file);
+  };
+
+  const handleGalleryUpload = (e) => {
+    const files = Array.from(e.target.files);
+    if (files.length === 0) return;
+    
+    files.forEach(file => {
+      const reader = new FileReader();
+      reader.onloadend = () => {
+        setGalleryState(prev => [...prev, reader.result]);
+      };
+      reader.readAsDataURL(file);
+    });
+  };
+
+  // Course handlers
+  const handleAddCourseRow = () => {
+    setCoursesState(prev => [
+      ...prev,
+      { title: '', type: 'Full Time', division: 'Degree', duration: '4 Years', fees: '₹2.5 Lakhs/Year', intake: '60', eligibility: '12th Pass' }
+    ]);
+  };
+
+  const handleRemoveCourseRow = (idx) => {
+    setCoursesState(prev => prev.filter((_, i) => i !== idx));
+  };
+
+  const handleCourseRowChange = (idx, field, value) => {
+    setCoursesState(prev => prev.map((co, i) => i === idx ? { ...co, [field]: value } : co));
+  };
+
+  // Save Settings Handler
+  const handleSaveSettings = (e) => {
+    e.preventDefault();
+    if (!hasAccess('admin')) {
+      alert("Permission Denied: Admin role or higher required.");
+      return;
+    }
+    const updatedData = {
+      ...siteData,
+      hero: {
+        title: heroTitleState,
+        subtitle: heroSubtitleState
+      },
+      footer: {
+        ...siteData.footer,
+        description: footerDescState,
+        contactInfo: {
+          address: footerAddressState,
+          phone: footerPhoneState,
+          email: footerEmailState
+        }
+      }
+    };
+    updateSiteData(updatedData);
+    logActivity(currentUser.name, currentUser.role, "Admin Action", "Updated homepage and footer settings.");
+    showToast("Website settings updated successfully!", "success");
+  };
 
   const onAdminLoginSubmit = async (e) => {
     e.preventDefault();
@@ -446,9 +581,9 @@ const Admin = () => {
       shortName: fd.get('shortName'),
       location: fd.get('location'),
       state: fd.get('state'),
-      address: fd.get('address'),
-      phone: fd.get('phone'),
-      website: fd.get('website'),
+      address: fd.get('address') || fd.get('location'),
+      phone: fd.get('phone') || "0123-456789",
+      website: fd.get('website') || "http://www.college.edu",
       rating: parseFloat(fd.get('rating') || '4.5'),
       type: fd.get('type'),
       about: fd.get('about'),
@@ -458,12 +593,17 @@ const Admin = () => {
       highestPackage: fd.get('highestPackage'),
       averagePackage: fd.get('averagePackage'),
       placements: fd.get('placements'),
-      img: fd.get('img') || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
+      img: imgState || "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=400",
       topRecruiters: fd.get('topRecruiters'),
       highlights: fd.get('highlights'),
       facilities: fd.get('facilities'),
       admissionProcess: fd.get('admissionProcess'),
-      brochureLink: fd.get('brochureLink')
+      brochureLink: fd.get('brochureLink'),
+      logo: logoState,
+      gallery: galleryState,
+      courses: coursesState,
+      published: publishedState,
+      featured: featuredState
     };
 
     if (editingCollege) {
@@ -615,10 +755,52 @@ const Admin = () => {
               </Form.Text>
             </Form.Group>
 
-
-            <Button type="submit" variant="primary" className="w-100 fw-bold py-2 shadow-sm" style={{ backgroundColor: '#1a43bf', border: 'none', borderRadius: '8px' }}>
+            <Button type="submit" variant="primary" className="w-100 fw-bold py-2 shadow-sm mb-4" style={{ backgroundColor: '#1a43bf', border: 'none', borderRadius: '8px' }}>
               Sign In to Console
             </Button>
+
+            <hr className="my-4 text-muted" />
+            <div className="text-center">
+              <span className="small text-muted fw-bold">Demo Console Quick-Login</span>
+              <Row className="g-2 mt-2">
+                <Col xs={6}>
+                  <Button variant="outline-primary" size="sm" className="w-100 py-2 small fw-semibold" onClick={() => {
+                    setAdminRole('superadmin');
+                    setAdminEmail('admin@thecollegecompass.com');
+                    setAdminPassword('admin');
+                  }}>
+                    🔑 Super Admin
+                  </Button>
+                </Col>
+                <Col xs={6}>
+                  <Button variant="outline-primary" size="sm" className="w-100 py-2 small fw-semibold" onClick={() => {
+                    setAdminRole('admin');
+                    setAdminEmail('manager@thecollegecompass.com');
+                    setAdminPassword('admin');
+                  }}>
+                    💼 Manager
+                  </Button>
+                </Col>
+                <Col xs={6}>
+                  <Button variant="outline-primary" size="sm" className="w-100 py-2 small fw-semibold" onClick={() => {
+                    setAdminRole('operator');
+                    setAdminEmail('operator@thecollegecompass.com');
+                    setAdminPassword('admin');
+                  }}>
+                    ✏️ Operator
+                  </Button>
+                </Col>
+                <Col xs={6}>
+                  <Button variant="outline-primary" size="sm" className="w-100 py-2 small fw-semibold" onClick={() => {
+                    setAdminRole('viewer');
+                    setAdminEmail('viewer@thecollegecompass.com');
+                    setAdminPassword('admin');
+                  }}>
+                    👁️ Observer
+                  </Button>
+                </Col>
+              </Row>
+            </div>
           </Form>
         </Card>
       </Container>
@@ -705,6 +887,12 @@ const Admin = () => {
                 onClick={() => setActiveTab('sync')}
               >
                 🔄 Sync & Data Health
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'settings' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('settings')}
+              >
+                ⚙️ Website Settings
               </Nav.Link>
             </Nav>
           </div>
@@ -935,9 +1123,148 @@ const Admin = () => {
                       <Form.Label className="small fw-semibold">About College Description</Form.Label>
                       <Form.Control as="textarea" rows={3} name="about" defaultValue={editingCollege?.about || ''} />
                     </Form.Group>
-                    <div className="d-flex gap-2">
-                      <Button type="submit" variant="success" className="px-4">Save Entry</Button>
-                      <Button variant="outline-secondary" onClick={() => { setShowCollegeForm(false); setEditingCollege(null); }}>Cancel</Button>
+
+                    <h6 className="fw-bold mb-3 text-secondary border-top pt-4">Branding & Image Attachments</h6>
+                    <Row className="g-3 mb-4">
+                      <Col md={6}>
+                        <Card className="p-3 border shadow-sm">
+                          <Form.Label className="small fw-bold">Official Logo</Form.Label>
+                          <div className="d-flex align-items-center gap-3">
+                            {logoState ? (
+                              <img src={logoState} alt="Logo" style={{ width: '50px', height: '50px', objectFit: 'contain', border: '1px solid #ddd', borderRadius: '4px', padding: '2px', backgroundColor: '#fff' }} />
+                            ) : (
+                              <div className="bg-light d-flex align-items-center justify-content-center text-muted small" style={{ width: '50px', height: '50px', border: '1px dashed #ccc', borderRadius: '4px' }}>No Logo</div>
+                            )}
+                            <div className="flex-grow-1">
+                              <Form.Control type="file" accept="image/*" size="sm" onChange={handleLogoUpload} className="mb-2" />
+                              <Form.Control type="text" size="sm" placeholder="Or enter Logo URL" value={logoState} onChange={(e) => setLogoState(e.target.value)} />
+                            </div>
+                          </div>
+                        </Card>
+                      </Col>
+                      <Col md={6}>
+                        <Card className="p-3 border shadow-sm">
+                          <Form.Label className="small fw-bold">Campus Banner Image</Form.Label>
+                          <div className="d-flex align-items-center gap-3">
+                            {imgState ? (
+                              <img src={imgState} alt="Campus" style={{ width: '70px', height: '50px', objectFit: 'cover', border: '1px solid #ddd', borderRadius: '4px' }} />
+                            ) : (
+                              <div className="bg-light d-flex align-items-center justify-content-center text-muted small" style={{ width: '70px', height: '50px', border: '1px dashed #ccc', borderRadius: '4px' }}>No Image</div>
+                            )}
+                            <div className="flex-grow-1">
+                              <Form.Control type="file" accept="image/*" size="sm" onChange={handleImgUpload} className="mb-2" />
+                              <Form.Control type="text" size="sm" placeholder="Or enter Image URL" value={imgState} onChange={(e) => setImgState(e.target.value)} />
+                            </div>
+                          </div>
+                        </Card>
+                      </Col>
+                      <Col md={12}>
+                        <Card className="p-3 border shadow-sm">
+                          <Form.Label className="small fw-bold">Multiple Gallery Portfolio Images</Form.Label>
+                          <Form.Control type="file" accept="image/*" multiple size="sm" onChange={handleGalleryUpload} className="mb-3" />
+                          <div className="d-flex flex-wrap gap-2">
+                            {galleryState.map((galImg, idx) => (
+                              <div key={idx} className="position-relative" style={{ width: '80px', height: '60px' }}>
+                                <img src={galImg} alt={`Gallery ${idx}`} style={{ width: '80px', height: '60px', objectFit: 'cover', borderRadius: '4px', border: '1px solid #ddd' }} />
+                                <div className="position-absolute top-0 end-0 bg-dark bg-opacity-75 d-flex gap-1 p-1 rounded-bl" style={{ borderBottomLeftRadius: '6px' }}>
+                                  <Button size="sm" variant="link" className="text-warning p-0 me-1 line-height-1" title="Set as main image" onClick={() => setImgState(galImg)}>⭐</Button>
+                                  <Button size="sm" variant="link" className="text-danger p-0 line-height-1" title="Delete" onClick={() => setGalleryState(prev => prev.filter((_, i) => i !== idx))}>❌</Button>
+                                </div>
+                              </div>
+                            ))}
+                            {galleryState.length === 0 && (
+                              <div className="text-muted small py-2">No portfolio images uploaded. Select file(s) above to add.</div>
+                            )}
+                          </div>
+                        </Card>
+                      </Col>
+                    </Row>
+
+                    <h6 className="fw-bold mb-3 text-secondary border-top pt-4">Course Listings & Intake Slots</h6>
+                    <div className="table-responsive mb-3">
+                      <Table bordered hover size="sm" className="align-middle">
+                        <thead className="table-light small">
+                          <tr>
+                            <th>Course Name*</th>
+                            <th>Type</th>
+                            <th>Division</th>
+                            <th>Duration</th>
+                            <th>Annual Fee</th>
+                            <th>Intake</th>
+                            <th>Eligibility Criteria</th>
+                            <th className="text-center">Remove</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {coursesState.map((co, idx) => (
+                            <tr key={idx}>
+                              <td>
+                                <Form.Control size="sm" value={co.title || ''} onChange={(e) => handleCourseRowChange(idx, 'title', e.target.value)} required placeholder="e.g. B.Tech CSE" style={{ minWidth: '150px' }} />
+                              </td>
+                              <td>
+                                <Form.Control size="sm" value={co.type || ''} onChange={(e) => handleCourseRowChange(idx, 'type', e.target.value)} placeholder="Full Time" style={{ width: '90px' }} />
+                              </td>
+                              <td>
+                                <Form.Control size="sm" value={co.division || ''} onChange={(e) => handleCourseRowChange(idx, 'division', e.target.value)} placeholder="Degree" style={{ width: '90px' }} />
+                              </td>
+                              <td>
+                                <Form.Control size="sm" value={co.duration || ''} onChange={(e) => handleCourseRowChange(idx, 'duration', e.target.value)} placeholder="4 Years" style={{ width: '80px' }} />
+                              </td>
+                              <td>
+                                <Form.Control size="sm" value={co.fees || ''} onChange={(e) => handleCourseRowChange(idx, 'fees', e.target.value)} placeholder="₹2.5 L/Yr" style={{ width: '100px' }} />
+                              </td>
+                              <td>
+                                <Form.Control size="sm" value={co.intake || ''} onChange={(e) => handleCourseRowChange(idx, 'intake', e.target.value)} placeholder="60" style={{ width: '60px' }} />
+                              </td>
+                              <td>
+                                <Form.Control size="sm" value={co.eligibility || ''} onChange={(e) => handleCourseRowChange(idx, 'eligibility', e.target.value)} placeholder="10+2 with 60%" style={{ minWidth: '130px' }} />
+                              </td>
+                              <td className="text-center">
+                                <Button size="sm" variant="link" className="text-danger p-0" onClick={() => handleRemoveCourseRow(idx)}>
+                                  <FaTrash />
+                                </Button>
+                              </td>
+                            </tr>
+                          ))}
+                          {coursesState.length === 0 && (
+                            <tr>
+                              <td colSpan="8" className="text-center text-muted small py-3">No courses registered. Add a course row below.</td>
+                            </tr>
+                          )}
+                        </tbody>
+                      </Table>
+                    </div>
+                    <Button size="sm" variant="outline-primary" className="mb-4 rounded-pill" onClick={handleAddCourseRow}>
+                      <FaPlus className="me-1" /> Add Course Listing
+                    </Button>
+
+                    <h6 className="fw-bold mb-3 text-secondary border-top pt-4">Visibility & Listing Promotion</h6>
+                    <Row className="g-3 mb-4">
+                      <Col md={6}>
+                        <Form.Check 
+                          type="switch"
+                          id="published-switch"
+                          label="Published Status (Make visible on search pages)"
+                          checked={publishedState}
+                          onChange={(e) => setPublishedState(e.target.checked)}
+                          className="fw-semibold text-success fs-6"
+                        />
+                      </Col>
+                      <Col md={6}>
+                        <Form.Check 
+                          type="switch"
+                          id="featured-switch"
+                          label="Featured Badge (Show highlighted on homepage)"
+                          checked={featuredState}
+                          onChange={(e) => setFeaturedState(e.target.checked)}
+                          className="fw-semibold text-warning fs-6"
+                        />
+                      </Col>
+                    </Row>
+
+                    <div className="d-flex gap-2 border-top pt-4">
+                      <Button type="submit" variant="success" className="px-4 py-2 fw-semibold rounded-pill">Save Profile Entry</Button>
+                      <Button variant="outline-secondary" className="px-4 py-2 rounded-pill" onClick={() => { setShowCollegeForm(false); setEditingCollege(null); }}>Cancel</Button>
                     </div>
                   </Form>
                 </Card>
@@ -953,18 +1280,53 @@ const Admin = () => {
                           <th>Fees</th>
                           <th>Average CTC</th>
                           <th>Type</th>
+                          <th>Published</th>
+                          <th>Featured</th>
                           <th className="text-end">Actions</th>
                         </tr>
                       </thead>
                       <tbody>
                         {colleges.map(c => (
                           <tr key={c.id}>
-                            <td className="fw-semibold text-primary">{c.name} ({c.shortName})</td>
+                            <td className="fw-semibold text-primary d-flex align-items-center gap-2">
+                              {c.logo && (
+                                <img src={c.logo} alt="" style={{ width: '28px', height: '28px', objectFit: 'contain', border: '1px solid #ddd', borderRadius: '4px', padding: '1px', backgroundColor: '#fff' }} />
+                              )}
+                              <span>{c.name} ({c.shortName})</span>
+                            </td>
                             <td>{c.location}, {c.state}</td>
                             <td><Badge bg="warning" text="dark">★ {c.rating}</Badge></td>
                             <td>{c.fees}</td>
                             <td>{c.averagePackage || c.average_package || "N/A"}</td>
                             <td><Badge bg="light" text="dark" className="border">{c.type}</Badge></td>
+                            <td>
+                              <Button
+                                size="sm"
+                                variant={c.published !== false ? "success" : "secondary"}
+                                className="py-1 px-2 rounded-pill small fw-bold"
+                                style={{ fontSize: '0.75rem' }}
+                                onClick={() => {
+                                  updateCollege(c.id, { ...c, published: c.published === false });
+                                  logActivity(currentUser.name, currentUser.role, "Admin Action", `${c.published === false ? 'Published' : 'Unpublished'} college profile: ${c.name}`);
+                                }}
+                              >
+                                {c.published !== false ? "Active" : "Draft"}
+                              </Button>
+                            </td>
+                            <td>
+                              <Button
+                                size="sm"
+                                variant={c.featured === true ? "warning" : "light"}
+                                className="py-1 px-2 rounded-pill small border fw-bold text-dark"
+                                style={{ fontSize: '0.75rem' }}
+                                onClick={() => {
+                                  updateCollege(c.id, { ...c, featured: c.featured !== true });
+                                  logActivity(currentUser.name, currentUser.role, "Admin Action", `${c.featured !== true ? 'Featured' : 'Unfeatured'} college profile: ${c.name}`);
+                                }}
+                              >
+                                {c.featured === true ? "⭐ Yes" : "No"}
+                              </Button>
+                            </td>
                             <td className="text-end">
                               <Button variant="link" size="sm" className="me-2 p-0 text-info" onClick={() => triggerEdit(c)}><FaEdit size={16}/></Button>
                               <Button variant="link" size="sm" className="p-0 text-danger" onClick={() => triggerDelete(c.id, c.name)}><FaTrash size={16}/></Button>
@@ -1619,6 +1981,84 @@ const Admin = () => {
                     </tbody>
                   </Table>
                 )}
+              </Card>
+            </div>
+          )}
+
+          {/* TAB 9: WEBSITE SETTINGS */}
+          {activeTab === 'settings' && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1">Website Settings</h4>
+                  <p className="text-secondary small">Modify the homepage Hero title, subtitle, and Footer configuration details.</p>
+                </div>
+              </div>
+
+              <Card className="border-0 shadow-sm p-4">
+                <Form onSubmit={handleSaveSettings}>
+                  <h5 className="fw-bold mb-3 text-primary">Homepage Hero Banner Settings</h5>
+                  <Form.Group className="mb-3">
+                    <Form.Label className="small fw-semibold">Hero Title Text</Form.Label>
+                    <Form.Control 
+                      value={heroTitleState} 
+                      onChange={(e) => setHeroTitleState(e.target.value)} 
+                      required 
+                    />
+                  </Form.Group>
+                  <Form.Group className="mb-4">
+                    <Form.Label className="small fw-semibold">Hero Subtitle/Description Text</Form.Label>
+                    <Form.Control 
+                      as="textarea"
+                      rows={2}
+                      value={heroSubtitleState} 
+                      onChange={(e) => setHeroSubtitleState(e.target.value)} 
+                      required 
+                    />
+                  </Form.Group>
+
+                  <h5 className="fw-bold mb-3 text-primary border-top pt-4">Footer Contact & Branding Info</h5>
+                  <Form.Group className="mb-3">
+                    <Form.Label className="small fw-semibold">Footer Description</Form.Label>
+                    <Form.Control 
+                      as="textarea"
+                      rows={2}
+                      value={footerDescState} 
+                      onChange={(e) => setFooterDescState(e.target.value)} 
+                      required 
+                    />
+                  </Form.Group>
+
+                  <Row className="g-3 mb-4">
+                    <Col md={4}>
+                      <Form.Label className="small fw-semibold">Contact Email</Form.Label>
+                      <Form.Control 
+                        type="email"
+                        value={footerEmailState} 
+                        onChange={(e) => setFooterEmailState(e.target.value)} 
+                        required 
+                      />
+                    </Col>
+                    <Col md={4}>
+                      <Form.Label className="small fw-semibold">Contact Toll-Free Phone</Form.Label>
+                      <Form.Control 
+                        value={footerPhoneState} 
+                        onChange={(e) => setFooterPhoneState(e.target.value)} 
+                        required 
+                      />
+                    </Col>
+                    <Col md={4}>
+                      <Form.Label className="small fw-semibold">Contact Address</Form.Label>
+                      <Form.Control 
+                        value={footerAddressState} 
+                        onChange={(e) => setFooterAddressState(e.target.value)} 
+                        required 
+                      />
+                    </Col>
+                  </Row>
+
+                  <Button type="submit" variant="success" className="px-4 py-2 rounded-pill fw-semibold">Save System Settings</Button>
+                </Form>
               </Card>
             </div>
           )}

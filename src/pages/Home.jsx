@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { Link, useNavigate } from 'react-router-dom';
 import { FaGraduationCap, FaUniversity, FaBookOpen, FaStar, FaChevronRight } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
+import { SiteContext } from '../contexts/SiteContext';
 import CollegeImg from '../components/CollegeImg';
 import { aiSearchColleges } from '../utils/geminiApi';
 
@@ -14,6 +15,7 @@ const fadeInUp = {
 
 const Home = () => {
   const { colleges, exams, loading } = React.useContext(CollegeContext);
+  const { siteData } = React.useContext(SiteContext);
   const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState('');
   
@@ -51,6 +53,13 @@ const Home = () => {
     }
   };
 
+  // Filter out unpublished and prioritize featured colleges
+  const featuredColleges = React.useMemo(() => {
+    const list = (colleges || []).filter(c => c.featured === true && c.published !== false);
+    if (list.length > 0) return list.slice(0, 4);
+    return (colleges || []).filter(c => c.published !== false).slice(0, 4);
+  }, [colleges]);
+
   // Extract unique courses across all colleges dynamically - Memoized
   const trendingCourses = React.useMemo(() => {
     const uniqueCoursesMap = new Map();
@@ -77,8 +86,12 @@ const Home = () => {
       <section className="hero-section text-center d-flex align-items-center justify-content-center">
         <Container style={{ zIndex: 1, position: 'relative' }}>
           <motion.h1 initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }} className="mb-2">
-            Find Colleges, Courses & Exams that are Best for You
+            {siteData?.hero?.title || "Find Colleges, Courses & Exams that are Best for You"}
           </motion.h1>
+          
+          <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2, duration: 0.8 }} className="fs-5 mb-4 text-white opacity-90 mx-auto" style={{ maxWidth: '800px', fontWeight: 400 }}>
+            {siteData?.hero?.subtitle || "Explore 5000+ real college rankings, authentic student reviews, structured courses, and reliable fee information all in one place."}
+          </motion.p>
           
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3, duration: 0.8 }} className="fs-6 mb-4 fw-medium" style={{color: '#f8f9fa'}}>
             {loading ? "Many" : colleges.length}+ Colleges <span className="mx-2 text-warning">•</span> 4,80,000+ Courses <span className="mx-2 text-warning">•</span> 6,85,000+ Reviews <span className="mx-2 text-warning">•</span> {loading ? "Several" : exams.length}+ Exams
@@ -106,25 +119,34 @@ const Home = () => {
             <p>Explore the top-ranked institutions based on placement, faculty, and student reviews.</p>
           </div>
           <Row className="g-4">
-            {apiLoading || loading ? (
+            {loading ? (
               <Col xs={12} className="text-center py-5">
                 <Spinner animation="border" variant="primary" />
                 <p className="mt-2 text-muted">Loading top colleges...</p>
               </Col>
             ) : (
-              (dynamicColleges.length > 0 ? dynamicColleges : (colleges || []).slice(0, 4)).map((college, idx) => (
+              featuredColleges.map((college, idx) => (
                 <Col md={6} lg={3} key={idx}>
                   <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
                     <Card className="custom-card h-100 border-0">
                       <CollegeImg college={college} className="card-img-top-custom" style={{height: '200px'}} />
                       <Card.Body className="d-flex flex-column">
-                        <div className="mb-2">
-                          <span className="badge bg-light text-primary me-2">{college.type}</span>
+                        <div className="mb-2 d-flex justify-content-between align-items-center">
+                          <span className="badge bg-light text-primary">{college.type}</span>
                           <Badge bg="warning" text="dark"><FaStar className="mb-1 me-1"/>{college.rating}</Badge>
                         </div>
-                        <Card.Title className="fw-bold text-primary flex-grow-1" style={{fontSize: '1.1rem'}}>{college.name}</Card.Title>
+                        <div className="d-flex align-items-center mb-2 gap-2">
+                          {college.logo && (
+                            <img
+                              src={college.logo}
+                              alt=""
+                              style={{ width: '28px', height: '28px', objectFit: 'contain', borderRadius: '4px', border: '1px solid #eee', padding: '1px', backgroundColor: 'white', flexShrink: 0 }}
+                            />
+                          )}
+                          <Card.Title className="fw-bold text-primary mb-0 flex-grow-1 text-truncate" style={{fontSize: '1rem', lineHeight: '1.25'}} title={college.name}>{college.name}</Card.Title>
+                        </div>
                         <Card.Text className="text-muted mb-3 small"><FaUniversity className="me-2"/>{college.location || college.state}</Card.Text>
-                        <Link to={`/colleges/${college.id}`} state={{ college }} className="btn btn-outline-primary rounded-pill w-100">View Details</Link>
+                        <Link to={`/colleges/${college.id}`} state={{ college }} className="btn btn-outline-primary rounded-pill w-100 mt-auto">View Details</Link>
                       </Card.Body>
                     </Card>
                   </motion.div>

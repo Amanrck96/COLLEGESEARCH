@@ -578,7 +578,16 @@ const Colleges = () => {
                           {college.ranking <= 50 && <Badge bg="primary" className="shadow-sm">Top 50 Ranked</Badge>}
                           {college.rating >= 4.5 && <Badge bg="secondary" className="shadow-sm">Premium Institute</Badge>}
                         </div>
-                        <Card.Title className="fw-bold text-primary mb-1">{college.name}</Card.Title>
+                        <div className="d-flex align-items-center mb-1 gap-2">
+                          {college.logo && (
+                            <img
+                              src={college.logo}
+                              alt=""
+                              style={{ width: '36px', height: '36px', objectFit: 'contain', borderRadius: '4px', border: '1px solid #eee', padding: '2px', backgroundColor: 'white', flexShrink: 0 }}
+                            />
+                          )}
+                          <Card.Title className="fw-bold text-primary mb-0" style={{ fontSize: '1.05rem', lineHeight: '1.25' }}>{college.name}</Card.Title>
+                        </div>
                         <Card.Text className="text-muted small mb-3"><FaMapMarkerAlt className="me-1 text-danger"/>{college.address || college.location}</Card.Text>
                         
                         <div className="bg-light p-3 rounded-3 mb-3 d-flex justify-content-between text-center flex-grow-1 align-items-center">

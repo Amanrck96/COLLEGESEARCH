@@ -256,7 +256,16 @@ const CollegeDetail = () => {
                   <Badge bg="info" className="fs-6">Source: {college._source || 'Public DB'}</Badge>
                   <Badge bg="light" text="dark" className="fs-6 border">Last Sync: {college._lastSync || '2026-06-06'}</Badge>
                 </div>
-                <h1 className="fw-bold display-5 mb-2 text-white">{college.name}</h1>
+                <div className="d-flex align-items-center mb-2 gap-3 flex-wrap flex-md-nowrap">
+                  {college.logo && (
+                    <img
+                      src={college.logo}
+                      alt={`${college.name} logo`}
+                      style={{ width: '64px', height: '64px', objectFit: 'contain', backgroundColor: 'white', borderRadius: '8px', padding: '4px', border: '1px solid rgba(255,255,255,0.2)' }}
+                    />
+                  )}
+                  <h1 className="fw-bold display-5 mb-0 text-white" style={{ lineHeight: '1.2' }}>{college.name}</h1>
+                </div>
                 <p className="fs-5 mb-0"><FaMapMarkerAlt className="me-2 text-danger"/>{college.address || college.location}</p>
               </Col>
               <Col md={4} className="text-md-end mt-4 mt-md-0">

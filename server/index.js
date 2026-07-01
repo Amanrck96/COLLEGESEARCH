@@ -34,6 +34,40 @@ app.get('/api/health', (req, res) => {
   res.status(200).json({ status: 'OK', timestamp: new Date().toISOString() });
 });
 
+// Image Search Proxy Route
+app.get('/api/search-image', async (req, res) => {
+  const { q } = req.query;
+  if (!q) {
+    return res.status(400).json({ error: "Query parameter q is required" });
+  }
+  try {
+    const searchStr = `${q} campus building exterior facade`;
+    const images = await google.image(searchStr, { safe: false });
+    return res.status(200).json(images);
+  } catch (err) {
+    return res.status(500).json({ error: err.message });
+  }
+});
+
+// Image Save Route (Updates main image for a college in SQLite)
+app.post('/api/save-image', async (req, res) => {
+  const { id, img } = req.body;
+  if (!id || !img) {
+    return res.status(400).json({ error: "Missing required fields: id, img" });
+  }
+  try {
+    const { PrismaClient } = await import('@prisma/client');
+    const prisma = new PrismaClient();
+    await prisma.college.update({
+      where: { id: parseInt(id) },
+      data: { img }
+    });
+    return res.status(200).json({ success: true, message: `Image updated for College ID ${id}` });
+  } catch (err) {
+    return res.status(500).json({ error: err.message });
+  }
+});
+
 // Image upload routes
 app.use('/api/uploads', uploadRoutes);
 

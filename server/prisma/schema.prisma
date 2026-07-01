@@ -50,6 +50,9 @@ model College {
   admissionProcess String   @default("")
   topRecruiters  String     @default("") // Comma-separated list
   brochureLink   String     @default("")
+  logo           String     @default("")
+  published      Boolean    @default(true)
+  featured       Boolean    @default(false)
   pinCode        String     @default("")
   country        String     @default("India")
   establishmentYear String  @default("")

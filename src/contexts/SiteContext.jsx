@@ -13,6 +13,10 @@ const initialSiteData = {
     counselingTabs: ['Get Expert Guidance', 'Careers After 12th', 'Courses After 12th', 'Free Prep Material', 'National Boards', 'State Boards', 'Abroad Counseling Service', 'My Recommendations', 'Get Free Counselling'],
     onlineTabs: ['Technology', 'Data Science', 'Management', 'Finance', 'Creativity & Design', 'Emerging Technologies', 'Engineering-Non CS', 'Healthcare', 'Energy And Environment', 'Social Sciences', 'Personal Development', 'Degree Programs']
   },
+  hero: {
+    title: "Navigate Your Future, Discover Your Dream College",
+    subtitle: "Explore 5000+ real college rankings, authentic student reviews, structured courses, and reliable fee information all in one place."
+  },
   footer: {
     description: "Your ultimate student-friendly platform for exploring top colleges, trending courses, exams info, real student reviews, and shaping an incredible career path.",
     social: {
