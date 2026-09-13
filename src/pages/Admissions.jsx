@@ -56,7 +56,7 @@ const Admissions = () => {
                       <Button 
                         variant="outline-primary" 
                         className="rounded-pill px-4 py-2 w-100"
-                        onClick={() => navigate(`/college/${college.id}`)}
+                        onClick={() => navigate(`/colleges/${college.id}`)}
                       >
                         View Details
                       </Button>

@@ -13,6 +13,7 @@ import { AuthContext } from '../contexts/AuthContext';
 import { useToast } from '../contexts/ToastContext';
 import { generateMissingDetails } from '../utils/geminiApi';
 import CollegeImg from '../components/CollegeImg';
+import DataShield from '../components/DataShield';
 import { useTranslation } from '../utils/i18n';
 
 const CollegeDetail = () => {
@@ -55,7 +56,15 @@ const CollegeDetail = () => {
 
   const { t } = useTranslation();
 
-  const [activeTab, setActiveTab] = useState('overview');
+  const searchParams = new URLSearchParams(location.search);
+  const initialTab = searchParams.get('tab') || 'overview';
+  const [activeTab, setActiveTab] = useState(initialTab);
+
+  useEffect(() => {
+    const tab = new URLSearchParams(location.search).get('tab');
+    if (tab) setActiveTab(tab);
+  }, [location.search]);
+
   const [enrichedData, setEnrichedData] = useState(null);
   // Initialize enriching as false (plain value, not a render-time expression)
   const [enriching, setEnriching] = useState(false);
@@ -454,7 +463,8 @@ const CollegeDetail = () => {
 
                 <Tab.Pane eventKey="placements">
                   <motion.div initial={{opacity:0}} animate={{opacity:1}} transition={{duration:0.4}}>
-                    <Row className="g-4 mb-4">
+                    <DataShield>
+                      <Row className="g-4 mb-4">
                       <Col md={4}>
                         <Card className="border-0 shadow-sm h-100 bg-primary text-white text-center p-4">
                           <Card.Title className="fs-6 fw-bold mb-1">{t('highestPackage')}</Card.Title>
@@ -473,12 +483,24 @@ const CollegeDetail = () => {
                         <Card className="border-0 shadow-sm h-100 bg-success text-white text-center p-4">
                           <Card.Title className="fs-6 fw-bold mb-1">Median Package</Card.Title>
                           <h2 className="display-6 fw-bold mb-0">
-                            {college.averagePackage ? `₹ ${parseFloat(college.averagePackage.replace(/[^0-9.]/g, '')) - 0.8} LPA` : "₹ 5.2 LPA"}
+                            {(() => {
+                              const avg = college.averagePackage;
+                              if (!avg) return "₹ 5.2 LPA";
+                              const avgStr = String(avg);
+                              if (avgStr.toLowerCase().includes('cr')) {
+                                const num = parseFloat(avgStr.replace(/[^0-9.]/g, '')) || 1.0;
+                                return `₹ ${(Math.max(0.5, num * 0.85)).toFixed(2)} Cr`;
+                              }
+                              const val = parseFloat(avgStr.replace(/[^0-9.]/g, ''));
+                              if (isNaN(val) || val <= 0) return "₹ 5.2 LPA";
+                              return `₹ ${(Math.max(3.0, val * 0.88)).toFixed(1)} LPA`;
+                            })()}
                           </h2>
                           <div className="mt-2 text-white-50 small">Top 80% Batch Median</div>
                         </Card>
                       </Col>
                     </Row>
+                    </DataShield>
                     
                     {!college.placements && (
                        <div className="p-3 bg-light rounded-2 border border-info border-opacity-50 mb-4" style={{lineHeight: '1.8'}}>

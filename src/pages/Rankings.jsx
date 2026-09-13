@@ -110,7 +110,7 @@ const Rankings = () => {
                   <tr 
                     key={r.id} 
                     style={{ cursor: 'pointer' }}
-                    onClick={() => navigate(`/college/${r.id}`)}
+                    onClick={() => navigate(`/colleges/${r.id}`)}
                   >
                     <td className="px-4 fw-bold fs-5 text-primary">#{index + 1}</td>
                     <td>

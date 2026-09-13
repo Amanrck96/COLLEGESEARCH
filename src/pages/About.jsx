@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
+import { Link } from 'react-router-dom';
 
 const CountUp = ({ end, duration=2, suffix="" }) => {
   const [count, setCount] = useState(0);
@@ -79,7 +80,7 @@ const About = () => {
         >
           <h3 className="fw-bold mb-3">Ready to Start Your Journey?</h3>
           <p className="mb-4 opacity-75">Join thousands of students who have found their dream college through our platform.</p>
-          <button className="btn btn-warning btn-lg rounded-pill fw-bold shadow-sm" style={{backgroundColor: 'var(--accent-gold)'}}>Explore Colleges</button>
+          <Link to="/colleges" className="btn btn-warning btn-lg rounded-pill fw-bold shadow-sm" style={{backgroundColor: 'var(--accent-gold)'}}>Explore Colleges</Link>
         </motion.div>
       </Container>
     </div>

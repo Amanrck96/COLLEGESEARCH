@@ -39,113 +39,100 @@ const Colleges = () => {
   const sortBy = searchParams.get('sortBy') || 'rating';
   const currentPage = parseInt(searchParams.get('page') || '1');
 
-  // Setter helpers that modify searchParams
+  // Setter helpers that modify searchParams cleanly with new immutable instances
   const setSearchTerm = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('q', val);
-      else prev.delete('q');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('q', val);
+    else next.delete('q');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setFilterCountry = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('country', val);
-      else prev.delete('country');
-      prev.delete('state');
-      prev.delete('city');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('country', val);
+    else next.delete('country');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setFilterState = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('state', val);
-      else prev.delete('state');
-      prev.delete('city');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('state', val);
+    else next.delete('state');
+    next.delete('city');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setFilterCity = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('city', val);
-      else prev.delete('city');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('city', val);
+    else next.delete('city');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setFilterCourse = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('course', val);
-      else prev.delete('course');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('course', val);
+    else next.delete('course');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setFilterFeeRange = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('feeRange', val);
-      else prev.delete('feeRange');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('feeRange', val);
+    else next.delete('feeRange');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setFilterRating = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('rating', val);
-      else prev.delete('rating');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('rating', val);
+    else next.delete('rating');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setFilterPlacement = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('placement', val);
-      else prev.delete('placement');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('placement', val);
+    else next.delete('placement');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setFilterHostel = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('hostel', val);
-      else prev.delete('hostel');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('hostel', val);
+    else next.delete('hostel');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setFilterType = (val) => {
-    setSearchParams(prev => {
-      if (val) prev.set('type', val);
-      else prev.delete('type');
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    if (val) next.set('type', val);
+    else next.delete('type');
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
   const setSortBy = (val) => {
-    setSearchParams(prev => {
-      prev.set('sortBy', val);
-      prev.set('page', '1');
-      return prev;
-    });
+    const next = new URLSearchParams(searchParams);
+    next.set('sortBy', val);
+    next.set('page', '1');
+    setSearchParams(next);
   };
 
-  const setCurrentPage = (val) => {
-    setSearchParams(prev => {
-      prev.set('page', String(val));
-      return prev;
-    });
+  const setCurrentPage = (updaterOrVal) => {
+    const next = new URLSearchParams(searchParams);
+    const resolvedVal = typeof updaterOrVal === 'function' ? updaterOrVal(currentPage) : updaterOrVal;
+    next.set('page', String(resolvedVal));
+    setSearchParams(next);
   };
 
   // 1. Fetch filtered/paginated colleges from backend
@@ -158,6 +145,7 @@ const Colleges = () => {
         state: filterState,
         city: filterCity,
         course: filterCourse,
+        feeRange: filterFeeRange,
         rating: filterRating,
         placement: filterPlacement,
         hostel: filterHostel,
@@ -180,6 +168,7 @@ const Colleges = () => {
     filterState,
     filterCity,
     filterCourse,
+    filterFeeRange,
     filterRating,
     filterPlacement,
     filterHostel,
@@ -188,36 +177,89 @@ const Colleges = () => {
     currentPage
   ]);
 
-  // 2. Fetch distinct dropdown lists in background from siteData.json
-  const [dropdownData, setDropdownData] = useState({ countries: ['India'], states: [], cities: [], courses: [] });
+  // Standard Indian States Fallback
+  const DEFAULT_STATES = [
+    'Andaman & Nicobar', 'Andhra Pradesh', 'Arunachal Pradesh', 'Assam', 'Bihar', 'Chandigarh', 'Chhattisgarh',
+    'Dadra & Nagar Haveli', 'Delhi', 'Delhi NCR', 'Goa', 'Gujarat', 'Haryana', 'Himachal Pradesh', 'Jammu & Kashmir',
+    'Jharkhand', 'Karnataka', 'Kerala', 'Ladakh', 'Lakshadweep', 'Madhya Pradesh', 'Maharashtra', 'Manipur',
+    'Meghalaya', 'Mizoram', 'Nagaland', 'Odisha', 'Puducherry', 'Punjab', 'Rajasthan',
+    'Sikkim', 'Tamil Nadu', 'Telangana', 'Tripura', 'Uttar Pradesh', 'Uttarakhand', 'West Bengal'
+  ];
+
+  const DEFAULT_COURSES = [
+    'Engineering (B.Tech / B.E. / M.Tech)',
+    'Management (MBA / PGDM / BBA)',
+    'Medical (MBBS / MD / MS)',
+    'Pharmacy (B.Pharm / D.Pharm)',
+    'Computer Applications (BCA / MCA)',
+    'Law (LLB / BA LLB / LLM)',
+    'Design & Fashion (B.Des / M.Des)',
+    'Science (B.Sc / M.Sc)',
+    'Commerce & Banking (B.Com / M.Com)',
+    'Arts & Humanities (BA / MA)',
+    'Hotel Management & Aviation'
+  ];
+
+  // 2. Fetch distinct dropdown lists in background from API or siteData fallback
+  const [dropdownData, setDropdownData] = useState({ 
+    countries: ['India', 'USA', 'UK', 'Canada', 'Australia', 'Germany'], 
+    states: DEFAULT_STATES, 
+    citiesByState: {}, 
+    courses: DEFAULT_COURSES 
+  });
+
   useEffect(() => {
-    fetch('/siteData.json')
+    fetch('http://localhost:5000/api/colleges/filters')
       .then(res => res.json())
       .then(data => {
-        const list = data.colleges || [];
-        const countries = [...new Set(list.map(c => c.country || 'India').filter(Boolean))].sort();
-        const states = [...new Set(list.map(c => c.state).filter(Boolean))].sort();
-        const cities = [...new Set(list.map(c => c.location).filter(Boolean))].sort();
-        const coursesSet = new Set();
-        list.forEach(c => {
-          (c.courses || []).forEach(co => {
-            if (co.title) coursesSet.add(co.title);
+        if (data && data.states) {
+          setDropdownData({
+            countries: data.countries || ['India'],
+            states: data.states || DEFAULT_STATES,
+            citiesByState: data.citiesByState || {},
+            courses: data.courses || DEFAULT_COURSES
           });
-        });
-        setDropdownData({
-          countries,
-          states,
-          cities,
-          courses: Array.from(coursesSet).sort()
-        });
+        }
       })
-      .catch(err => console.warn("Could not load distinct dropdown lists:", err));
+      .catch(() => {
+        // Fallback: extract distinct states and cities from siteData.json
+        fetch('/siteData.json')
+          .then(res => res.json())
+          .then(data => {
+            if (data && Array.isArray(data.colleges)) {
+              const stateSet = new Set(DEFAULT_STATES);
+              const citiesByState = {};
+              data.colleges.forEach(c => {
+                const st = c.state || '';
+                const loc = c.location || '';
+                if (st) stateSet.add(st);
+                if (st && loc) {
+                  if (!citiesByState[st]) citiesByState[st] = new Set();
+                  citiesByState[st].add(loc);
+                }
+              });
+              const formattedCities = {};
+              for (const [st, cSet] of Object.entries(citiesByState)) {
+                formattedCities[st] = Array.from(cSet).sort();
+              }
+              setDropdownData({
+                countries: ['India', 'USA', 'UK', 'Canada', 'Australia', 'Germany'],
+                states: Array.from(stateSet).sort(),
+                citiesByState: formattedCities,
+                courses: DEFAULT_COURSES
+              });
+            }
+          })
+          .catch(e => console.warn("Could not load fallback filter data:", e));
+      });
   }, []);
 
   // Filter lists based on selected country/state
   const uniqueCountries = dropdownData.countries;
   const uniqueStates = dropdownData.states;
-  const uniqueCities = dropdownData.cities;
+  const uniqueCities = filterState && dropdownData.citiesByState[filterState] 
+    ? dropdownData.citiesByState[filterState] 
+    : [];
   const uniqueCourses = dropdownData.courses;
 
   const currentItems = collegesList;
@@ -329,10 +371,9 @@ const Colleges = () => {
                   <Form.Select 
                     size="sm" 
                     value={filterState} 
-                    disabled={!filterCountry}
-                    onChange={(e) => { setFilterState(e.target.value); setFilterCity(""); }}
+                    onChange={(e) => setFilterState(e.target.value)}
                   >
-                    <option value="">{filterCountry ? "All States/Provinces" : "Select Country First"}</option>
+                    <option value="">All States/Provinces</option>
                     {uniqueStates.map(st => <option key={st} value={st}>{st}</option>)}
                   </Form.Select>
                 </Form.Group>
@@ -343,10 +384,9 @@ const Colleges = () => {
                   <Form.Select 
                     size="sm" 
                     value={filterCity} 
-                    disabled={!filterState}
                     onChange={(e) => setFilterCity(e.target.value)}
                   >
-                    <option value="">{filterState ? "All Cities" : "Select State First"}</option>
+                    <option value="">{filterState && uniqueCities.length > 0 ? `All Cities in ${filterState}` : "All Cities"}</option>
                     {uniqueCities.map(ct => <option key={ct} value={ct}>{ct}</option>)}
                   </Form.Select>
                 </Form.Group>
@@ -443,16 +483,7 @@ const Colleges = () => {
                   variant="outline-primary" 
                   className="w-100 btn-sm rounded-pill mt-3" 
                   onClick={() => {
-                    setSearchTerm("");
-                    setFilterCountry("");
-                    setFilterState("");
-                    setFilterCity("");
-                    setFilterCourse("");
-                    setFilterFeeRange("");
-                    setFilterRating("");
-                    setFilterPlacement("");
-                    setFilterHostel("");
-                    setFilterType("");
+                    setSearchParams(new URLSearchParams());
                   }}
                 >
                   Clear All Filters

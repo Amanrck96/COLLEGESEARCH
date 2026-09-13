@@ -1,5 +1,6 @@
 import React, { createContext, useState, useEffect } from 'react';
 import { sanitizeText, getCSRFToken } from '../utils/security';
+import { getArmorHandshakeHeader, decryptArmoredPayload } from '../utils/wireArmor';
 
 export const CollegeContext = createContext();
 
@@ -159,7 +160,7 @@ export const CollegeProvider = ({ children }) => {
         fetch('/siteData.json')
           .then(res => res.json())
           .then(localData => {
-            setRawColleges((localData.colleges || []).slice(0, 50));
+            setRawColleges(localData.colleges || []);
             setRawExams(localData.exams || []);
             if (localData.pendingUpdates && localData.pendingUpdates.length > 0) {
               setPendingUpdates(prev => {
@@ -493,50 +494,122 @@ export const CollegeProvider = ({ children }) => {
   };
 
 
+let cachedMasterColleges = null;
+let masterDataPromise = null;
+
+async function getMasterColleges() {
+  if (cachedMasterColleges && cachedMasterColleges.length > 0) {
+    return cachedMasterColleges;
+  }
+  if (!masterDataPromise) {
+    masterDataPromise = fetch(`/siteData.json?v=${Date.now()}`, { cache: 'no-cache' })
+      .then(res => res.json())
+      .then(data => {
+        cachedMasterColleges = data.colleges || [];
+        return cachedMasterColleges;
+      })
+      .catch(e => {
+        console.error("Failed to load siteData.json:", e);
+        return [];
+      });
+  }
+  return masterDataPromise;
+}
+
   const fetchColleges = async (params = {}) => {
-    try {
-      const query = new URLSearchParams(params).toString();
-      const res = await fetch(`http://localhost:5000/api/colleges?${query}`);
-      if (!res.ok) throw new Error("Backend query failed");
-      const data = await res.json();
-      return data;
-    } catch (err) {
-      console.warn("fetchColleges error, performing local filtering fallback:", err);
-      let results = [...colleges];
-      
-      // 1. Text Search (Name, shortName, location, state, exams, courses)
-      if (params.q) {
-        const qStr = params.q.toLowerCase().trim();
-        results = results.filter(c => 
-          (c.name || '').toLowerCase().includes(qStr) || 
-          (c.shortName || '').toLowerCase().includes(qStr) ||
-          (c.location || '').toLowerCase().includes(qStr) ||
-          (c.state || '').toLowerCase().includes(qStr) ||
-          (c.exams || '').toLowerCase().includes(qStr) ||
-          (c.courses || []).some(co => (co.title || '').toLowerCase().includes(qStr))
-        );
+    // 1. Try backend server if on localhost
+    if (typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')) {
+      try {
+        const query = new URLSearchParams(params).toString();
+        const res = await fetch(`http://localhost:5000/api/colleges?${query}`, {
+          headers: {
+            ...getArmorHandshakeHeader()
+          }
+        });
+        if (res.ok) {
+          const rawData = await res.json();
+          return decryptArmoredPayload(rawData);
+        }
+      } catch (err) {
+        console.warn("Local backend unreachable, using static data engine:", err);
       }
-      
-      // 2. Dropdowns & Toggles
-      if (params.country) {
-        results = results.filter(c => (c.country || 'India').toLowerCase() === params.country.toLowerCase());
+    }
+
+    // 2. Client-side / Vercel Serverless Filtering on Full siteData
+    const masterList = await getMasterColleges();
+    let results = masterList.length > 0 ? [...masterList] : [...colleges];
+    
+    const safeStr = (v) => Array.isArray(v) ? v.join(' ') : String(v || '');
+
+    // 1. Text Search
+    if (params.q) {
+      const rawQ = params.q.toLowerCase().trim();
+      const stopWords = new Set(['top', 'best', 'in', 'of', 'for', 'the', 'and', 'colleges', 'college', 'institutes', 'institute', 'universities', 'university', 'list']);
+      const rawTokens = rawQ.replace(/[^\w\s\.]/g, ' ').split(/\s+/).filter(t => t.length > 1 && !stopWords.has(t));
+
+      const tokenGroups = rawTokens.map(tok => {
+        const tClean = tok.replace(/\./g, '');
+        if (tClean === 'btech' || tClean === 'be' || tClean === 'engineering') return ['b.tech', 'btech', 'b.e.', 'engineering'];
+        if (tClean === 'mba' || tClean === 'pgdm' || tClean === 'management') return ['mba', 'pgdm', 'management'];
+        if (tClean === 'medical' || tClean === 'mbbs' || tClean === 'neet') return ['medical', 'mbbs', 'neet', 'medicine', 'hospital'];
+        if (tClean === 'bangalore' || tClean === 'bengaluru') return ['bangalore', 'bengaluru'];
+        if (tClean === 'bombay' || tClean === 'mumbai') return ['bombay', 'mumbai'];
+        return [tok, tClean];
+      });
+
+      if (tokenGroups.length > 0) {
+        results = results.filter(c => {
+          const searchTarget = [
+            safeStr(c.name),
+            safeStr(c.shortName),
+            safeStr(c.location),
+            safeStr(c.state),
+            safeStr(c.country),
+            safeStr(c.type),
+            safeStr(c.ownership),
+            safeStr(c.about),
+            safeStr(c.exams),
+            safeStr(c.facilities),
+            ...(c.courses || []).map(co => `${safeStr(co.title)} ${safeStr(co.type)} ${safeStr(co.division)}`)
+          ].join(' ').toLowerCase();
+
+          return tokenGroups.every(synonyms => synonyms.some(syn => searchTarget.includes(syn)));
+        });
+      } else {
+        results = results.filter(c => {
+          const target = [safeStr(c.name), safeStr(c.shortName), safeStr(c.location), safeStr(c.state)].join(' ').toLowerCase();
+          return target.includes(rawQ);
+        });
       }
-      if (params.state) {
-        results = results.filter(c => (c.state || '').toLowerCase() === params.state.toLowerCase());
+
+      if (rawQ.includes('top') || rawQ.includes('best')) {
+        results.sort((a, b) => (a.ranking || 999) - (b.ranking || 999) || (b.rating || 0) - (a.rating || 0));
       }
-      if (params.city) {
-        results = results.filter(c => (c.location || '').toLowerCase() === params.city.toLowerCase());
-      }
-      if (params.type) {
-        results = results.filter(c => (c.type || '').toLowerCase() === params.type.toLowerCase());
-      }
-      if (params.rating) {
-        results = results.filter(c => (c.rating || 0) >= parseFloat(params.rating));
-      }
-      if (params.exam) {
-        const eStr = params.exam.toLowerCase();
-        results = results.filter(c => (c.exams || '').toLowerCase().includes(eStr));
-      }
+    }
+    
+    // 2. Dropdowns & Toggles
+    if (params.country && params.country.toLowerCase() !== 'all') {
+      results = results.filter(c => safeStr(c.country || 'India').toLowerCase() === params.country.toLowerCase());
+    }
+    if (params.state && params.state.toLowerCase() !== 'all') {
+      const sLower = params.state.toLowerCase().trim();
+      results = results.filter(c => safeStr(c.state).toLowerCase().includes(sLower) || safeStr(c.location).toLowerCase().includes(sLower));
+    }
+    if (params.city && params.city.toLowerCase() !== 'all') {
+      const cLower = params.city.toLowerCase().trim();
+      results = results.filter(c => safeStr(c.location).toLowerCase().includes(cLower) || safeStr(c.address).toLowerCase().includes(cLower) || safeStr(c.name).toLowerCase().includes(cLower));
+    }
+    if (params.type && params.type.toLowerCase() !== 'all') {
+      const tLower = params.type.toLowerCase().trim();
+      results = results.filter(c => safeStr(c.type).toLowerCase().includes(tLower) || safeStr(c.ownership).toLowerCase().includes(tLower));
+    }
+    if (params.rating) {
+      results = results.filter(c => (parseFloat(c.rating) || 0) >= parseFloat(params.rating));
+    }
+    if (params.exam) {
+      const eStr = params.exam.toLowerCase();
+      results = results.filter(c => safeStr(c.exams).toLowerCase().includes(eStr));
+    }
       
       // 3. Course Filter
       if (params.course) {
@@ -594,11 +667,11 @@ export const CollegeProvider = ({ children }) => {
       }
       
       // 7. Sorting
-      const sort = params.sortBy || 'rating';
-      if (sort === 'rating') {
-        results.sort((a, b) => (b.rating || 0) - (a.rating || 0));
-      } else if (sort === 'ranking') {
-        results.sort((a, b) => (a.ranking || 999) - (b.ranking || 999));
+      const sort = params.sortBy || (params.q?.toLowerCase().includes('top') ? 'ranking' : 'rating');
+      if (sort === 'ranking') {
+        results.sort((a, b) => (a.ranking || 999) - (b.ranking || 999) || (b.rating || 0) - (a.rating || 0));
+      } else if (sort === 'rating') {
+        results.sort((a, b) => (b.rating || 0) - (a.rating || 0) || (a.ranking || 999) - (b.ranking || 999));
       } else if (sort === 'reviews') {
         results.sort((a, b) => (b.reviewsCount || b.reviews || 0) - (a.reviewsCount || a.reviews || 0));
       } else {
@@ -613,7 +686,6 @@ export const CollegeProvider = ({ children }) => {
         colleges: paginated,
         totalCount: results.length
       };
-    }
   };
 
   return (
