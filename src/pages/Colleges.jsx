@@ -619,7 +619,20 @@ const Colleges = () => {
                           )}
                           <Card.Title className="fw-bold text-primary mb-0" style={{ fontSize: '1.05rem', lineHeight: '1.25' }}>{college.name}</Card.Title>
                         </div>
-                        <Card.Text className="text-muted small mb-3"><FaMapMarkerAlt className="me-1 text-danger"/>{college.address || college.location}</Card.Text>
+                        <Card.Text className="text-muted small mb-3">
+                          <a 
+                            href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + (college.address || college.location || '') + ' ' + (college.state || ''))}`}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-muted text-decoration-none d-inline-flex align-items-center"
+                            style={{ cursor: 'pointer' }}
+                            title="Click to view directions in Google Maps"
+                            onClick={(e) => e.stopPropagation()}
+                          >
+                            <FaMapMarkerAlt className="me-1 text-danger" />
+                            <span>{college.address || college.location}</span>
+                          </a>
+                        </Card.Text>
                         
                         <div className="bg-light p-3 rounded-3 mb-3 d-flex justify-content-between text-center flex-grow-1 align-items-center">
                           <div>

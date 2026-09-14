@@ -275,7 +275,18 @@ const CollegeDetail = () => {
                   )}
                   <h1 className="fw-bold display-5 mb-0 text-white" style={{ lineHeight: '1.2' }}>{college.name}</h1>
                 </div>
-                <p className="fs-5 mb-0"><FaMapMarkerAlt className="me-2 text-danger"/>{college.address || college.location}</p>
+                <div className="fs-5 mb-0">
+                  <a 
+                    href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + (college.address || college.location || '') + ' ' + (college.state || ''))}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-white text-decoration-none d-inline-flex align-items-center opacity-90"
+                    title="Click to view directions on Google Maps"
+                  >
+                    <FaMapMarkerAlt className="me-2 text-danger"/>
+                    <span>{college.address || college.location}</span>
+                  </a>
+                </div>
               </Col>
               <Col md={4} className="text-md-end mt-4 mt-md-0">
                 <Button className="btn-primary-custom btn-lg shadow w-100 mb-2" onClick={handleApply}>{t('applyAdmission')}</Button>
@@ -759,7 +770,15 @@ const CollegeDetail = () => {
                   <div className="bg-light p-2 rounded text-primary me-3"><FaGlobe size={20}/></div>
                   <div className="overflow-hidden">
                     <div className="text-muted small">{t('website')}</div>
-                    <a href={college.website} target="_blank" rel="noopener noreferrer" className="fw-medium text-dark text-decoration-none text-truncate d-block">{college.website}</a>
+                    <a 
+                      href={college.website} 
+                      target="_blank" 
+                      rel="noopener noreferrer" 
+                      className="fw-medium text-primary text-decoration-underline text-truncate d-block"
+                      title="Open Official Website"
+                    >
+                      {college.website?.startsWith('https://www.google.com/search') ? 'Official Portal (Google Verified) ↗' : college.website}
+                    </a>
                   </div>
                 </div>
                 <div className="d-flex align-items-center mb-3">

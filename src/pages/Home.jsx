@@ -145,7 +145,19 @@ const Home = () => {
                           )}
                           <Card.Title className="fw-bold text-primary mb-0 flex-grow-1 text-truncate" style={{fontSize: '1rem', lineHeight: '1.25'}} title={college.name}>{college.name}</Card.Title>
                         </div>
-                        <Card.Text className="text-muted mb-3 small"><FaUniversity className="me-2"/>{college.location || college.state}</Card.Text>
+                        <Card.Text className="text-muted mb-3 small">
+                          <a
+                            href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + (college.location || college.state || ''))}`}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-muted text-decoration-none d-inline-flex align-items-center"
+                            title="Click to view on Google Maps"
+                            onClick={(e) => e.stopPropagation()}
+                          >
+                            <FaUniversity className="me-2 text-primary" />
+                            <span>{college.location || college.state}</span>
+                          </a>
+                        </Card.Text>
                         <Link to={`/colleges/${college.id}`} state={{ college }} className="btn btn-outline-primary rounded-pill w-100 mt-auto">View Details</Link>
                       </Card.Body>
                     </Card>
