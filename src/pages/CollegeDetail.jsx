@@ -13,6 +13,7 @@ import { AuthContext } from '../contexts/AuthContext';
 import { useToast } from '../contexts/ToastContext';
 import { generateMissingDetails } from '../utils/geminiApi';
 import CollegeImg from '../components/CollegeImg';
+import CollegeMapView from '../components/CollegeMapView';
 import DataShield from '../components/DataShield';
 import { useTranslation } from '../utils/i18n';
 
@@ -142,23 +143,11 @@ const CollegeDetail = () => {
 
   useEffect(() => {
     if (!college || enrichedData) return;
-
-    const timer = setTimeout(() => {
-      // Fix #3: Use env var for Google Maps key; fall back to free maps embed if not set
-      const mapsKey = import.meta.env.VITE_GOOGLE_MAPS_KEY;
-      const mapQuery = encodeURIComponent(college.name + ' ' + college.location);
-      const mapUrl = mapsKey && !mapsKey.includes('YOUR_KEY')
-        ? `https://www.google.com/maps/embed/v1/place?key=${mapsKey}&q=${mapQuery}`
-        : `https://maps.google.com/maps?q=${mapQuery}&output=embed`;
-      setEnrichedData({
-        mapUrl,
-        searchLink: `https://www.google.com/search?q=${encodeURIComponent(college.name + ' admission 2026')}`,
-        images: college.gallery || []
-      });
-      setEnriching(false);
-    }, 1000);
-
-    return () => clearTimeout(timer);
+    setEnrichedData({
+      searchLink: `https://www.google.com/search?q=${encodeURIComponent(college.name + ' admission 2026')}`,
+      images: college.gallery || []
+    });
+    setEnriching(false);
   }, [college, enrichedData]);
 
   const handleApply = () => {
@@ -801,26 +790,14 @@ const CollegeDetail = () => {
                 </div>
                 
                 <h6 className="fw-bold mb-3 border-top pt-3">{t('locationMapApi')}</h6>
-                <div className="bg-light rounded overflow-hidden shadow-inner" style={{height: '250px', position: 'relative'}}>
-                   {enriching ? (
-                      <div className="d-flex flex-column align-items-center justify-content-center h-100 bg-light">
-                         <Spinner animation="border" variant="primary" className="mb-2"/>
-                         <span className="small text-muted fw-bold">{t('fetchingLiveMap')}</span>
-                      </div>
-                   ) : (
-                      <iframe 
-                        title="map"
-                        src={enrichedData?.mapUrl || `https://maps.google.com/maps?q=${encodeURIComponent(college.name + ' ' + college.location)}&output=embed`}
-                        width="100%" 
-                        height="100%" 
-                        style={{border:0}} 
-                        allowFullScreen="" 
-                        loading="lazy"
-                    ></iframe>
-                   )}
-                </div>
-                <div className="p-3 text-center">
-                    <Button variant="primary" size="sm" className="rounded-pill w-100" onClick={() => window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + college.location)}`, '_blank')}>
+                <CollegeMapView college={college} height="220px" />
+                <div className="pt-3 text-center">
+                    <Button 
+                      variant="primary" 
+                      size="sm" 
+                      className="rounded-pill w-100" 
+                      onClick={() => window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + (college.address || college.location || '') + ' ' + (college.state || ''))}`, '_blank')}
+                    >
                         <FaMapMarkerAlt className="me-2"/> {t('openInGoogleMaps')}
                     </Button>
                 </div>
