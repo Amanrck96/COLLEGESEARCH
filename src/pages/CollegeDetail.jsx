@@ -307,11 +307,14 @@ const CollegeDetail = () => {
               <Col md={4} className="text-md-end mt-4 mt-md-0">
                 <Button className="btn-primary-custom btn-lg shadow w-100 mb-2" onClick={handleApply}>{t('applyAdmission')}</Button>
                 <Button variant="success" className="w-100 mb-2 rounded-pill fw-bold" onClick={handleDownloadBrochure}>Download Brochure</Button>
-                {enriching ? (
-                    <Button variant="light" disabled className="w-100 rounded-pill"><Spinner size="sm" className="me-2"/>{t('syncingApiData')}</Button>
-                ) : (
-                    <Button variant="outline-light" className="w-100 rounded-pill" onClick={() => window.open(enrichedData?.searchLink, '_blank')}><FaExternalLinkAlt className="me-2"/>{t('searchMoreDetails')}</Button>
-                )}
+                <Button 
+                  variant="outline-light" 
+                  className="w-100 rounded-pill fw-semibold shadow-sm" 
+                  onClick={() => window.open(getSafeWebsiteUrl(college), '_blank', 'noopener,noreferrer')}
+                  title="Visit Official Institute Website"
+                >
+                  <FaGlobe className="me-2"/> Visit Official Website ↗
+                </Button>
               </Col>
             </Row>
           </Container>
