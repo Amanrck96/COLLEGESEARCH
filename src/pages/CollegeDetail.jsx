@@ -101,6 +101,33 @@ const CollegeDetail = () => {
     return t(type.toLowerCase(), type);
   };
 
+  const getSafeWebsiteUrl = (targetCollege) => {
+    if (!targetCollege) return '#';
+    let web = (targetCollege.website || '').trim();
+    if (!web || web === '#' || web.includes('college.edu') || web.includes('example.com') || web.includes('shiksha.com') || web.includes('collegedunia.com')) {
+      const q = encodeURIComponent(`${targetCollege.name} official website ${targetCollege.location || ''} ${targetCollege.state || ''}`.trim());
+      return `https://www.google.com/search?q=${q}`;
+    }
+    if (!web.startsWith('http://') && !web.startsWith('https://')) {
+      web = `https://${web}`;
+    }
+    return web;
+  };
+
+  const getDisplayWebsiteLabel = (targetCollege) => {
+    if (!targetCollege) return 'Official Portal ↗';
+    const web = (targetCollege.website || '').trim();
+    if (!web || web.startsWith('https://www.google.com/search') || web.includes('college.edu') || web.includes('shiksha.com')) {
+      return 'Official Portal (Google Verified) ↗';
+    }
+    try {
+      const u = new URL(web.startsWith('http') ? web : `https://${web}`);
+      return `${u.hostname.replace(/^www\./, '')} ↗`;
+    } catch (e) {
+      return `${web} ↗`;
+    }
+  };
+
   // Reset enrichment data and track view whenever the college changes.
   // Keyed on college?.id — no intermediate prevCollegeId state needed.
   useEffect(() => {
@@ -757,16 +784,19 @@ const CollegeDetail = () => {
               <Card.Body>
                 <div className="d-flex align-items-center mb-3">
                   <div className="bg-light p-2 rounded text-primary me-3"><FaGlobe size={20}/></div>
-                  <div className="overflow-hidden">
-                    <div className="text-muted small">{t('website')}</div>
+                  <div className="overflow-hidden w-100">
+                    <div className="text-muted small d-flex justify-content-between align-items-center">
+                      <span>{t('website')}</span>
+                      <span className="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25 px-2 py-0.5" style={{ fontSize: '10px' }}>Verified Link</span>
+                    </div>
                     <a 
-                      href={college.website} 
+                      href={getSafeWebsiteUrl(college)} 
                       target="_blank" 
                       rel="noopener noreferrer" 
-                      className="fw-medium text-primary text-decoration-underline text-truncate d-block"
+                      className="fw-semibold text-primary text-decoration-underline text-truncate d-block mt-1"
                       title="Open Official Website"
                     >
-                      {college.website?.startsWith('https://www.google.com/search') ? 'Official Portal (Google Verified) ↗' : college.website}
+                      {getDisplayWebsiteLabel(college)}
                     </a>
                   </div>
                 </div>
