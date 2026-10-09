@@ -1,44 +1,63 @@
 const fs = require('fs');
 const path = require('path');
-const siteData = JSON.parse(fs.readFileSync(path.resolve('public/siteData.json'), 'utf8'));
-const colleges = siteData.colleges;
 
-function getCampusRootKey(college) {
-  const name = String(college && college.name || '').toLowerCase()
-    .replace(/\b(of engineering|of technology|of management|of science|of arts|of commerce|of pharmacy|of law|of dental sciences|of nursing|of education|of business administration|of computer science|of computer application|of polytechnic|of architecture|studies and research|and research|and technology|and management|college of|institute of|degree college|polytechnic|first grade college|shiksha mahavidyalaya|for women|autonomous|pg|ug|affiliated|centre)\b/g, ' ')
-    .replace(/[^a-z0-9]/g, ' ')
+const siteDataPath = path.join(__dirname, '..', 'public', 'siteData.json');
+const rawData = JSON.parse(fs.readFileSync(siteDataPath, 'utf8'));
+const colleges = Array.isArray(rawData) ? rawData : rawData.colleges;
+
+function getCampusRootKey(name = '', location = '', state = '') {
+  let clean = name.toLowerCase()
+    .replace(/\(.*?\)/g, ' ')
+    .replace(/\[.*?\]/g, ' ')
+    .replace(/\b(college of engineering and technology|college of engineering|institute of technology|institute of engineering|institute of management studies|institute of management|business school|polytechnic college|polytechnic|college of pharmacy|institute of pharmacy|college of nursing|medical college|degree college|arts and science college|first grade college|autonomous|admissions|course 2027|course 2026|campus)\b/gi, ' ')
+    .replace(/[^\w\s]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 
-  const loc = String(college && college.location || '').toLowerCase().replace(/[^a-z0-9]/g, '');
-  const state = String(college && college.state || '').toLowerCase().replace(/[^a-z0-9]/g, '');
-  return `${name}___${loc || state}`;
+  const loc = (location || '').toLowerCase().replace(/[^\w\s]/g, '').trim();
+  const st = (state || '').toLowerCase().replace(/[^\w\s]/g, '').trim();
+
+  const tokens = clean.split(' ').filter(t => t.length > 2 && !['and', 'the', 'for', 'all', 'india', 'govt', 'government', 'shri', 'sri'].includes(t));
+  const rootName = tokens.slice(0, 3).join(' ') || clean;
+
+  return `${rootName}___${loc || st}`;
 }
 
-const groups = new Map();
-colleges.forEach((c, idx) => {
-  const k = getCampusRootKey(c);
-  if (k.length < 5) return;
-  if (!groups.has(k)) groups.set(k, []);
-  groups.get(k).push({ id: c.id, name: c.name, img: c.img, idx });
-});
+const clusters = new Map();
+for (const c of colleges) {
+  const rootKey = getCampusRootKey(c.name, c.location, c.state);
+  if (!clusters.has(rootKey)) {
+    clusters.set(rootKey, []);
+  }
+  clusters.get(rootKey).push(c);
+}
 
-let newRangeMismatches = [];
+let multiCollegesClusters = 0;
+let mismatchedClusters = 0;
+const mismatchedSamples = [];
 
-for (const [key, list] of groups.entries()) {
+for (const [key, list] of clusters.entries()) {
   if (list.length > 1) {
-    const hasNewRange = list.some(item => item.idx >= 3671);
-    if (hasNewRange) {
-      const firstImg = list[0].img;
-      const hasDiff = list.some(item => item.img !== firstImg);
-      if (hasDiff) {
-        newRangeMismatches.push({ key, members: list });
-      }
+    multiCollegesClusters++;
+    const firstImg = list[0].img || list[0].image;
+    const hasMismatch = list.some(c => (c.img || c.image) !== firstImg);
+    if (hasMismatch) {
+      mismatchedClusters++;
+      mismatchedSamples.push({
+        clusterKey: key,
+        colleges: list.map(c => ({ id: c.id, name: c.name, img: c.img || c.image }))
+      });
     }
   }
 }
 
-console.log('Mismatches involving new range additions:', newRangeMismatches.length);
-if (newRangeMismatches.length > 0) {
-  console.log(JSON.stringify(newRangeMismatches, null, 2));
+console.log('\n================ SIBLING CLUSTER VERIFICATION ================');
+console.log(`Total Sibling Clusters with 2+ Colleges: ${multiCollegesClusters}`);
+console.log(`Mismatched Sibling Clusters: ${mismatchedClusters}`);
+console.log('===============================================================\n');
+
+if (mismatchedClusters === 0) {
+  console.log('✅ ALL SIBLING CLUSTERS ARE 100% SYNCHRONIZED AND COHESIVE!');
+} else {
+  console.log('❌ Sample mismatched clusters:', JSON.stringify(mismatchedSamples.slice(0, 3), null, 2));
 }
