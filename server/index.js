@@ -42,9 +42,11 @@ app.get('/api/colleges/all-dump', honeypotTrap);
 app.get('/api/export-all-database', honeypotTrap);
 app.get('/api/v1/scraper-feed', honeypotTrap);
 
-// Serve uploaded images as static files
+// Serve uploaded images and campus images as static files
 const uploadsDir = path.join(__dirname, '../public/uploads');
 app.use('/uploads', express.static(uploadsDir));
+const imagesDir = path.join(__dirname, '../public/images');
+app.use('/images', express.static(imagesDir));
 
 // Health check
 app.get('/api/health', (req, res) => {

@@ -1,13 +1,35 @@
 import React, { useState, useEffect } from 'react';
 
-// Curated high-resolution genuine architectural university campus photos for graceful fallback
+// Curated high-resolution genuine Indian architectural university campus photos for graceful fallback
 const CAMPUS_BUILDING_FALLBACKS = [
-  'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&auto=format&fit=crop&q=80',
-  'https://images.unsplash.com/photo-1562774053-701939374585?w=800&auto=format&fit=crop&q=80',
-  'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&auto=format&fit=crop&q=80',
-  'https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=800&auto=format&fit=crop&q=80',
-  'https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&auto=format&fit=crop&q=80',
-  'https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=800&auto=format&fit=crop&q=80'
+  '/images/campuses/iim_bangalore.jpg',
+  '/images/campuses/iiit_bangalore_campus.jpg',
+  '/images/campuses/bangalore_university.jpg',
+  '/images/campuses/bms_bangalore.jpg',
+  '/images/campuses/pes_bangalore.jpg',
+  '/images/campuses/ramaiah_bangalore.jpg',
+  '/images/campuses/weschool_matunga_mumbai.jpeg',
+  '/images/campuses/pibm_pune.webp',
+  '/images/campuses/campus_coep_pune.png',
+  '/images/campuses/vjti_mumbai.jpg',
+  '/images/campuses/iit_bombay_powai.jpg',
+  '/images/campuses/svims_wadala_mumbai.jpeg',
+  '/images/campuses/bharati_vidyapeeth_navimumbai.jpg',
+  '/images/campuses/atharva_complex_malad.jpg',
+  '/images/campuses/thakur_complex_kandivali.webp',
+  '/images/campuses/bunts_sangha_mumbai.jpeg',
+  '/images/campuses/chetana_bandra.jpg',
+  '/images/campuses/kes_shroff_kandivali.jpg',
+  '/images/campuses/sailee_college_borivali.jpg',
+  '/images/campuses/sheila_raheja_bandra.webp',
+  '/images/campuses/maniben_mp_shah_matunga.jpg',
+  '/images/campuses/riim_pune.jpeg',
+  '/images/campuses/campus_vnit_nagpur.jpeg',
+  '/images/campuses/srinivasan_perambalur.jpg',
+  '/images/campuses/kv_imis_coimbatore.jpg',
+  '/images/campuses/rathinam_campus.jpg',
+  '/images/campuses/campus_iit_delhi.jpg',
+  '/images/campuses/campus_iit_patna.png'
 ];
 
 const getCampusFallback = (name = '') => {
@@ -19,23 +41,26 @@ const getCampusFallback = (name = '') => {
 };
 
 const CollegeImg = ({ college, className, style, alt, ...props }) => {
-  const [currentSrc, setCurrentSrc] = useState(college?.img || '');
-  const [retryStage, setRetryStage] = useState(0); // 0 = direct, 1 = weserv proxy, 2 = campus building fallback
+  const [currentSrc, setCurrentSrc] = useState(college?.img || college?.image || '');
+  const [retryStage, setRetryStage] = useState(0);
 
   useEffect(() => {
-    setCurrentSrc(college?.img || getCampusFallback(college?.name));
+    const src = college?.img || college?.image || getCampusFallback(college?.name);
+    setCurrentSrc(src);
     setRetryStage(0);
-  }, [college?.img, college?.name]);
+  }, [college?.img, college?.image, college?.name]);
 
   const handleError = () => {
-    if (retryStage === 0 && college?.img) {
-      // Stage 1: Try bypassing CDN hotlink blocking via high-speed image proxy
-      const cleanUrl = college.img.replace(/^https?:\/\//, '');
+    const origSrc = college?.img || college?.image || '';
+    
+    // If it's an external URL (http) and failed on direct load, try image proxy
+    if (retryStage === 0 && origSrc.startsWith('http')) {
+      const cleanUrl = origSrc.replace(/^https?:\/\//, '');
       const proxyUrl = `https://images.weserv.nl/?url=${encodeURIComponent(cleanUrl)}&w=900&q=80&output=jpg`;
       setRetryStage(1);
       setCurrentSrc(proxyUrl);
-    } else if (retryStage === 1 || !college?.img) {
-      // Stage 2: Fall back to high-res real architectural campus photo
+    } else {
+      // Fall back to verified local Indian campus building
       setRetryStage(2);
       setCurrentSrc(getCampusFallback(college?.name));
     }
