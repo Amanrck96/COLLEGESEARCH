@@ -10,6 +10,8 @@ import collegeRoutes from './routes/colleges.js';
 import reviewRoutes from './routes/reviews.js';
 import analyticsRoutes from './routes/analytics.js';
 import webhookRoutes from './routes/webhooks.js';
+import { antiScrapeLimiter, honeypotTrap } from './middleware/honeypot.js';
+import { verifyArmorHandshake } from './middleware/wireArmor.js';
 
 dotenv.config({ path: '../.env' });
 
@@ -22,18 +24,30 @@ const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:5173';
 
 // Security + CORS
 app.use(cors({
-  origin: [FRONTEND_URL, 'http://localhost:5173', 'http://localhost:4173'],
+  origin: [FRONTEND_URL, 'http://localhost:5173', 'http://localhost:4173', 'http://127.0.0.1:5173'],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-CSRF-Token', 'X-Armor-Token', 'x-armor-token', 'X-Dev-Bypass'],
   credentials: true
 }));
 
-app.use(express.json({ limit: '10mb' }));
-app.use(express.urlencoded({ extended: true, limit: '10mb' }));
+app.use(express.json({ limit: '50mb' }));
+app.use(express.urlencoded({ extended: true, limit: '50mb' }));
 
-// Serve uploaded images as static files
+// Anti-Scraping Rate Limiter & Handshake Middleware
+app.use(antiScrapeLimiter);
+app.use(verifyArmorHandshake);
+
+// Honeypot Trap Routes (Catch crawlers & bots)
+app.get('/api/honeypot', honeypotTrap);
+app.get('/api/colleges/all-dump', honeypotTrap);
+app.get('/api/export-all-database', honeypotTrap);
+app.get('/api/v1/scraper-feed', honeypotTrap);
+
+// Serve uploaded images and campus images as static files
 const uploadsDir = path.join(__dirname, '../public/uploads');
 app.use('/uploads', express.static(uploadsDir));
+const imagesDir = path.join(__dirname, '../public/images');
+app.use('/images', express.static(imagesDir));
 
 // Health check
 app.get('/api/health', (req, res) => {
@@ -94,7 +108,7 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`\n✅ Image Upload Server running on http://localhost:${PORT}`);
-  console.log(`   Upload endpoint: POST http://localhost:${PORT}/api/uploads/image`);
-  console.log(`   Health check:    GET  http://localhost:${PORT}/api/health\n`);
+  console.log(`\n🚀 Backend API Server actively running on http://localhost:${PORT}`);
+  console.log(`   Colleges API:   GET  http://localhost:${PORT}/api/colleges`);
+  console.log(`   Health check:   GET  http://localhost:${PORT}/api/health\n`);
 });

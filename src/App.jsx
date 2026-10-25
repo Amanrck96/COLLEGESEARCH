@@ -32,6 +32,7 @@ import { SiteProvider } from './contexts/SiteContext';
 import { AuthProvider } from './contexts/AuthContext';
 import { ToastProvider } from './contexts/ToastContext';
 import Login from './pages/Login';
+import BotShield from './components/BotShield';
 
 function App() {
   return (
@@ -41,6 +42,7 @@ function App() {
           <CollegeProvider>
             <Router>
               <Layout>
+                <BotShield />
                 <Suspense fallback={
                   <div className="d-flex align-items-center justify-content-center min-vh-100 bg-light">
                     <div className="spinner-border text-primary" role="status">
@@ -52,6 +54,7 @@ function App() {
                     <Route path="/" element={<Home />} />
                     <Route path="/colleges" element={<Colleges />} />
                     <Route path="/colleges/:id" element={<CollegeDetail />} />
+                    <Route path="/college/:id" element={<CollegeDetail />} />
                     <Route path="/login" element={<Login />} />
                     <Route path="/courses" element={<Courses />} />
                     <Route path="/exams" element={<Exams />} />
@@ -60,6 +63,7 @@ function App() {
                     <Route path="/admissions" element={<Admissions />} />
                     <Route path="/scholarships" element={<Scholarships />} />
                     <Route path="/career" element={<CareerGuidance />} />
+                    <Route path="/career-guidance" element={<CareerGuidance />} />
                     <Route path="/news" element={<News />} />
                     <Route path="/compare" element={<CompareColleges />} />
                     <Route path="/contact" element={<Contact />} />

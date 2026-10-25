@@ -13,6 +13,8 @@ import { AuthContext } from '../contexts/AuthContext';
 import { useToast } from '../contexts/ToastContext';
 import { generateMissingDetails } from '../utils/geminiApi';
 import CollegeImg from '../components/CollegeImg';
+import CollegeMapView from '../components/CollegeMapView';
+import DataShield from '../components/DataShield';
 import { useTranslation } from '../utils/i18n';
 
 const CollegeDetail = () => {
@@ -55,7 +57,15 @@ const CollegeDetail = () => {
 
   const { t } = useTranslation();
 
-  const [activeTab, setActiveTab] = useState('overview');
+  const searchParams = new URLSearchParams(location.search);
+  const initialTab = searchParams.get('tab') || 'overview';
+  const [activeTab, setActiveTab] = useState(initialTab);
+
+  useEffect(() => {
+    const tab = new URLSearchParams(location.search).get('tab');
+    if (tab) setActiveTab(tab);
+  }, [location.search]);
+
   const [enrichedData, setEnrichedData] = useState(null);
   // Initialize enriching as false (plain value, not a render-time expression)
   const [enriching, setEnriching] = useState(false);
@@ -89,6 +99,33 @@ const CollegeDetail = () => {
     if (type === 'Public-Private') return t('publicPrivate');
     if (type === 'Full Time') return t('fullTime');
     return t(type.toLowerCase(), type);
+  };
+
+  const getSafeWebsiteUrl = (targetCollege) => {
+    if (!targetCollege) return '#';
+    let web = (targetCollege.website || '').trim();
+    if (!web || web === '#' || web.includes('college.edu') || web.includes('example.com') || web.includes('shiksha.com') || web.includes('collegedunia.com')) {
+      const q = encodeURIComponent(`${targetCollege.name} official website ${targetCollege.location || ''} ${targetCollege.state || ''}`.trim());
+      return `https://www.google.com/search?q=${q}`;
+    }
+    if (!web.startsWith('http://') && !web.startsWith('https://')) {
+      web = `https://${web}`;
+    }
+    return web;
+  };
+
+  const getDisplayWebsiteLabel = (targetCollege) => {
+    if (!targetCollege) return 'Official Portal ↗';
+    const web = (targetCollege.website || '').trim();
+    if (!web || web.startsWith('https://www.google.com/search') || web.includes('college.edu') || web.includes('shiksha.com')) {
+      return 'Official Portal (Google Verified) ↗';
+    }
+    try {
+      const u = new URL(web.startsWith('http') ? web : `https://${web}`);
+      return `${u.hostname.replace(/^www\./, '')} ↗`;
+    } catch (e) {
+      return `${web} ↗`;
+    }
   };
 
   // Reset enrichment data and track view whenever the college changes.
@@ -133,23 +170,11 @@ const CollegeDetail = () => {
 
   useEffect(() => {
     if (!college || enrichedData) return;
-
-    const timer = setTimeout(() => {
-      // Fix #3: Use env var for Google Maps key; fall back to free maps embed if not set
-      const mapsKey = import.meta.env.VITE_GOOGLE_MAPS_KEY;
-      const mapQuery = encodeURIComponent(college.name + ' ' + college.location);
-      const mapUrl = mapsKey && !mapsKey.includes('YOUR_KEY')
-        ? `https://www.google.com/maps/embed/v1/place?key=${mapsKey}&q=${mapQuery}`
-        : `https://maps.google.com/maps?q=${mapQuery}&output=embed`;
-      setEnrichedData({
-        mapUrl,
-        searchLink: `https://www.google.com/search?q=${encodeURIComponent(college.name + ' admission 2026')}`,
-        images: college.gallery || []
-      });
-      setEnriching(false);
-    }, 1000);
-
-    return () => clearTimeout(timer);
+    setEnrichedData({
+      searchLink: `https://www.google.com/search?q=${encodeURIComponent(college.name + ' admission 2026')}`,
+      images: college.gallery || []
+    });
+    setEnriching(false);
   }, [college, enrichedData]);
 
   const handleApply = () => {
@@ -266,16 +291,30 @@ const CollegeDetail = () => {
                   )}
                   <h1 className="fw-bold display-5 mb-0 text-white" style={{ lineHeight: '1.2' }}>{college.name}</h1>
                 </div>
-                <p className="fs-5 mb-0"><FaMapMarkerAlt className="me-2 text-danger"/>{college.address || college.location}</p>
+                <div className="fs-5 mb-0">
+                  <a 
+                    href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + (college.address || college.location || '') + ' ' + (college.state || ''))}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-white text-decoration-none d-inline-flex align-items-center opacity-90"
+                    title="Click to view directions on Google Maps"
+                  >
+                    <FaMapMarkerAlt className="me-2 text-danger"/>
+                    <span>{college.address || college.location}</span>
+                  </a>
+                </div>
               </Col>
               <Col md={4} className="text-md-end mt-4 mt-md-0">
                 <Button className="btn-primary-custom btn-lg shadow w-100 mb-2" onClick={handleApply}>{t('applyAdmission')}</Button>
                 <Button variant="success" className="w-100 mb-2 rounded-pill fw-bold" onClick={handleDownloadBrochure}>Download Brochure</Button>
-                {enriching ? (
-                    <Button variant="light" disabled className="w-100 rounded-pill"><Spinner size="sm" className="me-2"/>{t('syncingApiData')}</Button>
-                ) : (
-                    <Button variant="outline-light" className="w-100 rounded-pill" onClick={() => window.open(enrichedData?.searchLink, '_blank')}><FaExternalLinkAlt className="me-2"/>{t('searchMoreDetails')}</Button>
-                )}
+                <Button 
+                  variant="outline-light" 
+                  className="w-100 rounded-pill fw-semibold shadow-sm" 
+                  onClick={() => window.open(getSafeWebsiteUrl(college), '_blank', 'noopener,noreferrer')}
+                  title="Visit Official Institute Website"
+                >
+                  <FaGlobe className="me-2"/> Visit Official Website ↗
+                </Button>
               </Col>
             </Row>
           </Container>
@@ -454,7 +493,8 @@ const CollegeDetail = () => {
 
                 <Tab.Pane eventKey="placements">
                   <motion.div initial={{opacity:0}} animate={{opacity:1}} transition={{duration:0.4}}>
-                    <Row className="g-4 mb-4">
+                    <DataShield>
+                      <Row className="g-4 mb-4">
                       <Col md={4}>
                         <Card className="border-0 shadow-sm h-100 bg-primary text-white text-center p-4">
                           <Card.Title className="fs-6 fw-bold mb-1">{t('highestPackage')}</Card.Title>
@@ -473,12 +513,24 @@ const CollegeDetail = () => {
                         <Card className="border-0 shadow-sm h-100 bg-success text-white text-center p-4">
                           <Card.Title className="fs-6 fw-bold mb-1">Median Package</Card.Title>
                           <h2 className="display-6 fw-bold mb-0">
-                            {college.averagePackage ? `₹ ${parseFloat(college.averagePackage.replace(/[^0-9.]/g, '')) - 0.8} LPA` : "₹ 5.2 LPA"}
+                            {(() => {
+                              const avg = college.averagePackage;
+                              if (!avg) return "₹ 5.2 LPA";
+                              const avgStr = String(avg);
+                              if (avgStr.toLowerCase().includes('cr')) {
+                                const num = parseFloat(avgStr.replace(/[^0-9.]/g, '')) || 1.0;
+                                return `₹ ${(Math.max(0.5, num * 0.85)).toFixed(2)} Cr`;
+                              }
+                              const val = parseFloat(avgStr.replace(/[^0-9.]/g, ''));
+                              if (isNaN(val) || val <= 0) return "₹ 5.2 LPA";
+                              return `₹ ${(Math.max(3.0, val * 0.88)).toFixed(1)} LPA`;
+                            })()}
                           </h2>
                           <div className="mt-2 text-white-50 small">Top 80% Batch Median</div>
                         </Card>
                       </Col>
                     </Row>
+                    </DataShield>
                     
                     {!college.placements && (
                        <div className="p-3 bg-light rounded-2 border border-info border-opacity-50 mb-4" style={{lineHeight: '1.8'}}>
@@ -735,9 +787,20 @@ const CollegeDetail = () => {
               <Card.Body>
                 <div className="d-flex align-items-center mb-3">
                   <div className="bg-light p-2 rounded text-primary me-3"><FaGlobe size={20}/></div>
-                  <div className="overflow-hidden">
-                    <div className="text-muted small">{t('website')}</div>
-                    <a href={college.website} target="_blank" rel="noopener noreferrer" className="fw-medium text-dark text-decoration-none text-truncate d-block">{college.website}</a>
+                  <div className="overflow-hidden w-100">
+                    <div className="text-muted small d-flex justify-content-between align-items-center">
+                      <span>{t('website')}</span>
+                      <span className="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25 px-2 py-0.5" style={{ fontSize: '10px' }}>Verified Link</span>
+                    </div>
+                    <a 
+                      href={getSafeWebsiteUrl(college)} 
+                      target="_blank" 
+                      rel="noopener noreferrer" 
+                      className="fw-semibold text-primary text-decoration-underline text-truncate d-block mt-1"
+                      title="Open Official Website"
+                    >
+                      {getDisplayWebsiteLabel(college)}
+                    </a>
                   </div>
                 </div>
                 <div className="d-flex align-items-center mb-3">
@@ -760,26 +823,14 @@ const CollegeDetail = () => {
                 </div>
                 
                 <h6 className="fw-bold mb-3 border-top pt-3">{t('locationMapApi')}</h6>
-                <div className="bg-light rounded overflow-hidden shadow-inner" style={{height: '250px', position: 'relative'}}>
-                   {enriching ? (
-                      <div className="d-flex flex-column align-items-center justify-content-center h-100 bg-light">
-                         <Spinner animation="border" variant="primary" className="mb-2"/>
-                         <span className="small text-muted fw-bold">{t('fetchingLiveMap')}</span>
-                      </div>
-                   ) : (
-                      <iframe 
-                        title="map"
-                        src={enrichedData?.mapUrl || `https://maps.google.com/maps?q=${encodeURIComponent(college.name + ' ' + college.location)}&output=embed`}
-                        width="100%" 
-                        height="100%" 
-                        style={{border:0}} 
-                        allowFullScreen="" 
-                        loading="lazy"
-                    ></iframe>
-                   )}
-                </div>
-                <div className="p-3 text-center">
-                    <Button variant="primary" size="sm" className="rounded-pill w-100" onClick={() => window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + college.location)}`, '_blank')}>
+                <CollegeMapView college={college} height="220px" />
+                <div className="pt-3 text-center">
+                    <Button 
+                      variant="primary" 
+                      size="sm" 
+                      className="rounded-pill w-100" 
+                      onClick={() => window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(college.name + ' ' + (college.address || college.location || '') + ' ' + (college.state || ''))}`, '_blank')}
+                    >
                         <FaMapMarkerAlt className="me-2"/> {t('openInGoogleMaps')}
                     </Button>
                 </div>

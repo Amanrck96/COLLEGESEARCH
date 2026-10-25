@@ -69,7 +69,7 @@ const Reviews = () => {
               <Col md={6} lg={4} key={college.id}>
                 <Card 
                   className="border-0 shadow-sm h-100 custom-card cursor-pointer"
-                  onClick={() => navigate(`/college/${college.id}`)}
+                  onClick={() => navigate(`/colleges/${college.id}`)}
                 >
                   <Card.Body className="p-4 d-flex flex-column">
                     <div className="d-flex justify-content-between align-items-center mb-3">

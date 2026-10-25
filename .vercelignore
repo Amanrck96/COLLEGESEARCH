@@ -1,0 +1,8 @@
+node_modules
+scripts
+server
+.git
+.gemini
+*.backup.json
+public/siteData.backup.json
+scripts/categorized_scraped_colleges.backup.json

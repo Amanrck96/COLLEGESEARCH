@@ -1,14 +1,36 @@
-import React, { useState, useContext } from 'react';
+import React, { useState, useContext, useEffect } from 'react';
 import { Container, Row, Col, Card, Form, Badge, Button, ListGroup, Spinner } from 'react-bootstrap';
 import { FaExchangeAlt, FaTimes } from 'react-icons/fa';
+import { useSearchParams } from 'react-router-dom';
 import { CollegeContext } from '../contexts/CollegeContext';
 import CollegeImg from '../components/CollegeImg';
 
 const CompareColleges = () => {
   const { colleges, loading } = useContext(CollegeContext);
+  const [searchParams] = useSearchParams();
   const [selectedIds, setSelectedIds] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
   const [showSearch, setShowSearch] = useState(false);
+
+  useEffect(() => {
+    const idsParam = searchParams.get('ids');
+    const c1 = searchParams.get('c1') || searchParams.get('c');
+    const c2 = searchParams.get('c2');
+    const c3 = searchParams.get('c3');
+
+    let initial = [];
+    if (idsParam) {
+      initial = idsParam.split(',').map(s => s.trim()).filter(Boolean);
+    } else {
+      if (c1) initial.push(c1);
+      if (c2) initial.push(c2);
+      if (c3) initial.push(c3);
+    }
+
+    if (initial.length > 0) {
+      setSelectedIds(initial.slice(0, 3).map(String));
+    }
+  }, [searchParams]);
 
   const selectedColleges = selectedIds
     .map(id => colleges.find(c => String(c.id) === String(id)))

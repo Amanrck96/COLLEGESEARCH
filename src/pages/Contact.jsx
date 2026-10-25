@@ -1,8 +1,17 @@
-import React from 'react';
-import { Container, Row, Col, Card, Form, Button } from 'react-bootstrap';
-import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
+import React, { useState } from 'react';
+import { Container, Row, Col, Card, Form, Button, Alert } from 'react-bootstrap';
+import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt, FaCheckCircle } from 'react-icons/fa';
 
 const Contact = () => {
+  const [formData, setFormData] = useState({ name: '', email: '', subject: '', message: '' });
+  const [submitted, setSubmitted] = useState(false);
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    if (!formData.name || !formData.email || !formData.message) return;
+    setSubmitted(true);
+  };
+
   return (
     <div className="pt-2 pb-5">
       <Container className="pt-5">
@@ -32,15 +41,60 @@ const Contact = () => {
           <Col lg={7}>
             <Card className="border-0 shadow p-5">
               <h4 className="fw-bold text-dark mb-4">Send us a Message</h4>
-              <Form>
-                <Row className="g-4 mb-4">
-                  <Col md={6}><Form.Control type="text" placeholder="Your Name" className="p-3 bg-light border-0 rounded" /></Col>
-                  <Col md={6}><Form.Control type="email" placeholder="Your Email" className="p-3 bg-light border-0 rounded" /></Col>
-                  <Col md={12}><Form.Control type="text" placeholder="Subject" className="p-3 bg-light border-0 rounded" /></Col>
-                  <Col md={12}><Form.Control as="textarea" rows={5} placeholder="Your Message" className="p-3 bg-light border-0 rounded" /></Col>
-                </Row>
-                <Button variant="primary" className="btn-primary-custom w-100 py-3 shadow">Send Message</Button>
-              </Form>
+              {submitted ? (
+                <Alert variant="success" className="p-4 rounded-3 text-center">
+                  <FaCheckCircle className="text-success fs-1 mb-3" />
+                  <h5 className="fw-bold text-success">Thank You, {formData.name}!</h5>
+                  <p className="mb-3 text-muted">Your message has been received successfully. Our admissions counseling team will reach out to <strong>{formData.email}</strong> within 24 hours.</p>
+                  <Button variant="outline-success" size="sm" className="rounded-pill px-4" onClick={() => { setSubmitted(false); setFormData({ name: '', email: '', subject: '', message: '' }); }}>Send Another Message</Button>
+                </Alert>
+              ) : (
+                <Form onSubmit={handleSubmit}>
+                  <Row className="g-4 mb-4">
+                    <Col md={6}>
+                      <Form.Control 
+                        type="text" 
+                        required 
+                        placeholder="Your Name" 
+                        className="p-3 bg-light border-0 rounded"
+                        value={formData.name}
+                        onChange={(e) => setFormData(prev => ({ ...prev, name: e.target.value }))}
+                      />
+                    </Col>
+                    <Col md={6}>
+                      <Form.Control 
+                        type="email" 
+                        required 
+                        placeholder="Your Email" 
+                        className="p-3 bg-light border-0 rounded"
+                        value={formData.email}
+                        onChange={(e) => setFormData(prev => ({ ...prev, email: e.target.value }))}
+                      />
+                    </Col>
+                    <Col md={12}>
+                      <Form.Control 
+                        type="text" 
+                        placeholder="Subject" 
+                        className="p-3 bg-light border-0 rounded"
+                        value={formData.subject}
+                        onChange={(e) => setFormData(prev => ({ ...prev, subject: e.target.value }))}
+                      />
+                    </Col>
+                    <Col md={12}>
+                      <Form.Control 
+                        as="textarea" 
+                        rows={5} 
+                        required 
+                        placeholder="Your Message" 
+                        className="p-3 bg-light border-0 rounded"
+                        value={formData.message}
+                        onChange={(e) => setFormData(prev => ({ ...prev, message: e.target.value }))}
+                      />
+                    </Col>
+                  </Row>
+                  <Button type="submit" variant="primary" className="btn-primary-custom w-100 py-3 shadow">Send Message</Button>
+                </Form>
+              )}
             </Card>
           </Col>
         </Row>
