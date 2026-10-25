@@ -69,6 +69,8 @@ function App() {
                     <Route path="/contact" element={<Contact />} />
                     <Route path="/about" element={<About />} />
                     <Route path="/admin/student-profile" element={<StudentProfilePanel />} />
+                    <Route path="/student-portal" element={<StudentProfilePanel />} />
+                    <Route path="/profile" element={<StudentProfilePanel />} />
                     <Route path="/admin/*" element={<Admin />} />
                     {/* Catch-all wildcard: any unmatched URL renders the 404 page */}
                     <Route path="*" element={<NotFound />} />

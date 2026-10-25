@@ -22,7 +22,7 @@ const Login = () => {
   useEffect(() => {
     if (currentUser) {
       if (currentUser.role === 'student') {
-        navigate('/admin/student-profile');
+        navigate('/student-portal');
       } else {
         navigate('/admin');
       }
@@ -39,7 +39,7 @@ const Login = () => {
       const res = await handleSignup(fullName, email, password);
       if (res.success) {
         showToast(`Account created successfully! Welcome, ${res.user.name}.`, 'success');
-        navigate('/admin/student-profile');
+        navigate('/student-portal');
       } else {
         showToast(res.message || 'Signup failed. Please verify fields.', 'error');
       }
@@ -53,7 +53,7 @@ const Login = () => {
       if (res.success) {
         showToast(`Welcome back, ${res.user.name}! Successful login.`, 'success');
         if (res.user.role === 'student') {
-          navigate('/admin/student-profile');
+          navigate('/student-portal');
         } else {
           navigate('/admin');
         }

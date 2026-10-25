@@ -409,9 +409,9 @@ const Header = () => {
                   </span>
                   
                   {currentUser.role === 'student' ? (
-                    <Nav.Link as={Link} to="/admin/student-profile" className="btn btn-sm btn-info text-dark fw-bold me-3 px-3 py-1 rounded-pill" style={{fontSize:'13px'}}>My Profile Panel</Nav.Link>
+                    <Nav.Link as={Link} to="/student-portal" className="btn btn-sm btn-info text-dark fw-bold me-3 px-3 py-1 rounded-pill" style={{fontSize:'13px'}}>🎓 My Student Portal</Nav.Link>
                   ) : (
-                    <Nav.Link as={Link} to="/admin" className="btn btn-sm btn-warning text-dark fw-bold me-3 px-3 py-1 rounded-pill" style={{fontSize:'13px'}}>Admin Console</Nav.Link>
+                    <Nav.Link as={Link} to="/admin" className="btn btn-sm btn-warning text-dark fw-bold me-3 px-3 py-1 rounded-pill" style={{fontSize:'13px'}}>⚙️ Admin Console</Nav.Link>
                   )}
                   
                   <Button variant="danger" size="sm" className="rounded-pill px-3 py-1 fw-bold" style={{fontSize:'13px', border: 'none'}} onClick={handleLogout}>Logout</Button>

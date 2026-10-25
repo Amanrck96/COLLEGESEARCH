@@ -1,6 +1,192 @@
 {
   "colleges": [
     {
+      "id": 12660,
+      "name": "Delhi Technological University (DTU Delhi)",
+      "shortName": "DTU",
+      "location": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "Shahbad Daulatpur, Main Bawana Road, Delhi 110042",
+      "phone": "+91-11-2787 1018",
+      "email": "vcdtu@dtu.ac.in",
+      "website": "https://www.dtu.ac.in",
+      "shikshaUrl": "https://www.shiksha.com/university/dtu-delhi-technological-university-23920",
+      "type": "State Government University",
+      "established": "1941",
+      "ranking": 29,
+      "rating": 4.6,
+      "reviewsCount": 680,
+      "fees": "₹2.1 Lakhs/Year",
+      "highestPackage": "₹1.80 Crore PA",
+      "averagePackage": "₹16.8 LPA",
+      "exams": "JEE Main (JAC Delhi Counseling), GATE",
+      "placements": "95% Placed, Top recruiters: Apple, Microsoft, Amazon, Adobe, Atlassian, Texas Instruments, Goldman Sachs",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DTU_Admin_Building.jpg/1200px-DTU_Admin_Building.jpg",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DTU_Admin_Building.jpg/1200px-DTU_Admin_Building.jpg"
+      ],
+      "about": "Delhi Technological University (formerly Delhi College of Engineering - DCE), established in 1941, is one of India's most prestigious engineering universities with a sprawling 164-acre lush green campus in North Delhi.",
+      "facilities": "164-Acre Modern Campus, Open Air Theatre, High Speed Optical Fiber Wi-Fi, 14 Hostels, Sports Complex with Floodlights",
+      "courses": [
+        {
+          "title": "B.Tech Computer Science and Engineering",
+          "duration": "4 Years",
+          "fees": "₹2,20,000/Year",
+          "eligibility": "10+2 with PCM + JAC Delhi (JEE Main Rank)"
+        },
+        {
+          "title": "B.Tech Mathematics and Computing",
+          "duration": "4 Years",
+          "fees": "₹2,20,000/Year",
+          "eligibility": "10+2 with PCM + JAC Delhi"
+        },
+        {
+          "title": "B.Tech Mechanical Engineering",
+          "duration": "4 Years",
+          "fees": "₹2,20,000/Year",
+          "eligibility": "10+2 with PCM + JAC Delhi"
+        }
+      ],
+      "published": true,
+      "featured": true
+    },
+    {
+      "id": 12659,
+      "name": "XLRI – Xavier School of Management (XLRI Jamshedpur)",
+      "shortName": "XLRI",
+      "location": "Jamshedpur",
+      "state": "Jharkhand",
+      "country": "India",
+      "address": "Riverside Road, Circuit House Area, Northern Town, Jamshedpur, Jharkhand 831001",
+      "phone": "+91-657-665 3203",
+      "email": "admissions@xlri.ac.in",
+      "website": "https://www.xlri.ac.in",
+      "shikshaUrl": "https://www.shiksha.com/college/xlri-xavier-school-of-management-jamshedpur-3432",
+      "type": "Private (Autonomous Jesuit School)",
+      "established": "1949",
+      "ranking": 9,
+      "rating": 4.8,
+      "reviewsCount": 360,
+      "fees": "₹14.0 Lakhs/Year",
+      "highestPackage": "₹75 LPA",
+      "averagePackage": "₹32.7 LPA",
+      "exams": "XAT, GMAT",
+      "placements": "100% Placed, undisputed leader in Human Resource Management (HRM) and Business Management in South Asia.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/XLRI_Jamshedpur_campus.jpg/1200px-XLRI_Jamshedpur_campus.jpg",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/XLRI_Jamshedpur_campus.jpg/1200px-XLRI_Jamshedpur_campus.jpg"
+      ],
+      "about": "XLRI Jamshedpur is the oldest business school in India, founded in 1949 by Father Quinn Enright. Globally acclaimed for its flagship Postgraduate Diploma in Human Resource Management (BM & HRM).",
+      "facilities": "Sir Jehangir Ghandy Library, Behavioral Science Lab, International Sports Complex, Platinum Jubilee Auditorium",
+      "courses": [
+        {
+          "title": "PGDM Business Management (BM)",
+          "duration": "2 Years",
+          "fees": "₹28 Lakhs Total",
+          "eligibility": "Graduation + XAT 95+ Percentile"
+        },
+        {
+          "title": "PGDM Human Resource Management (HRM)",
+          "duration": "2 Years",
+          "fees": "₹28 Lakhs Total",
+          "eligibility": "Graduation + XAT 93+ Percentile"
+        }
+      ],
+      "published": true,
+      "featured": true
+    },
+    {
+      "id": 12658,
+      "name": "Faculty of Management Studies, University of Delhi (FMS Delhi)",
+      "shortName": "FMS Delhi",
+      "location": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "Prof ND Kapoor Marg, Opp. Kirori Mal College, University Enclave, Delhi 110007",
+      "phone": "+91-11-2766 6382",
+      "email": "admissions@fms.edu",
+      "website": "https://www.fms.edu",
+      "shikshaUrl": "https://www.shiksha.com/college/faculty-of-management-studies-university-of-delhi-malka-ganj-3101",
+      "type": "Government (University Faculty)",
+      "established": "1954",
+      "ranking": 8,
+      "rating": 4.8,
+      "reviewsCount": 310,
+      "fees": "₹1.0 Lakh/Year",
+      "highestPackage": "₹1.23 Crore PA",
+      "averagePackage": "₹34.1 LPA",
+      "exams": "CAT",
+      "placements": "100% Placed with highest ROI in Asia. Top recruiters: Amazon, Google, HUL, ITC, Morgan Stanley, Bain & Co.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Faculty_of_Management_Studies%2C_Delhi.jpg/1200px-Faculty_of_Management_Studies%2C_Delhi.jpg",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Faculty_of_Management_Studies%2C_Delhi.jpg/1200px-Faculty_of_Management_Studies%2C_Delhi.jpg"
+      ],
+      "about": "FMS Delhi is celebrated as the Red Building of Dreams and the highest Return on Investment (ROI) business school in India. Offers top tier MBA program at a nominal fee structure of approximately ₹2 Lakhs total.",
+      "facilities": "Centrally Air-conditioned Audio-Visual Classrooms, Management Library, Computer Center, Delhi University North Campus Access",
+      "courses": [
+        {
+          "title": "Master of Business Administration (MBA)",
+          "duration": "2 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "Graduation with 50% + CAT 99.5+ Percentile"
+        },
+        {
+          "title": "Executive MBA",
+          "duration": "2 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "Graduation + 5 Years Corporate Experience"
+        }
+      ],
+      "published": true,
+      "featured": true
+    },
+    {
+      "id": 12657,
+      "name": "National Law School of India University (NLSIU Bangalore)",
+      "shortName": "NLSIU",
+      "location": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Gnana Bharathi Main Rd, Chandra Layout, Bengaluru, Karnataka 560072",
+      "phone": "+91-80-2321 3160",
+      "email": "registrar@nls.ac.in",
+      "website": "https://www.nls.ac.in",
+      "shikshaUrl": "https://www.shiksha.com/university/nlsiu-national-law-school-of-india-university-bangalore-24658",
+      "type": "Government (National Law University)",
+      "established": "1987",
+      "ranking": 1,
+      "rating": 4.9,
+      "reviewsCount": 230,
+      "fees": "₹4.0 Lakhs/Year",
+      "highestPackage": "₹22 LPA",
+      "averagePackage": "₹16.5 LPA",
+      "exams": "CLAT UG, CLAT PG",
+      "placements": "100% Placed, Top recruiters: Cyril Amarchand Mangaldas, Shardul Amarchand, Trilegal, AZB & Partners, Linklaters",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NLSIU_Academic_Block.jpg/1200px-NLSIU_Academic_Block.jpg",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NLSIU_Academic_Block.jpg/1200px-NLSIU_Academic_Block.jpg"
+      ],
+      "about": "NLSIU Bangalore is the premier institution for legal education in India, pioneered the integrated 5-year B.A. LL.B. (Hons.) curriculum. Ranked #1 in NIRF Law rankings for 6 consecutive years.",
+      "facilities": "Sri Narayana Rao Memorial Library, Moot Court Halls, Legal Services Clinic, Wi-Fi Green Campus, Hostels",
+      "courses": [
+        {
+          "title": "B.A. LL.B. (Hons.) Integrated Law",
+          "duration": "5 Years",
+          "fees": "₹4,15,000/Year",
+          "eligibility": "10+2 with 45% + CLAT Rank in Top 100"
+        },
+        {
+          "title": "LL.M. Master of Laws",
+          "duration": "1 Year",
+          "fees": "₹3,20,000/Year",
+          "eligibility": "LL.B. + CLAT PG Qualified"
+        }
+      ],
+      "published": true,
+      "featured": true
+    },
+    {
       "id": 1,
       "name": "Andaman College (ANCOL)",
       "shortName": "ANCOL",
@@ -906,23 +1092,23 @@
     },
     {
       "id": 17,
-      "shikshaUrl": "https://www.shiksha.com/college/aiims-delhi-all-india-institute-of-medical-sciences-ansari-nagar-24411",
-      "name": "AIIMS New Delhi - All India Institute of Medical Sciences",
+      "shikshaUrl": "https://www.shiksha.com/college/aiims-delhi-all-india-institute-of-medical-sciences-ansari-nagar-24410",
+      "name": "All India Institute of Medical Sciences (AIIMS New Delhi)",
       "shortName": "AIIMS Delhi",
       "location": "New Delhi",
-      "state": "Delhi NCR",
+      "state": "Delhi",
       "country": "India",
-      "rating": 4.8,
+      "rating": 4.9,
       "reviews": 350,
-      "type": "Public/Government",
+      "type": "Government (Autonomous Institute of National Importance)",
       "ownership": "Government",
-      "ranking": 3,
-      "about": "AIIMS New Delhi - All India Institute of Medical Sciences is one of India's foremost apex premier institutions in New Delhi, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
-      "fees": "₹1.5 Lakhs - ₹8.0 Lakhs",
+      "ranking": 1,
+      "about": "AIIMS New Delhi is India's apex medical college and hospital, consistently ranked #1 in NIRF Medical rankings since inception. Offers subsidized top-tier medical education with extensive patient exposure and premier biomedical research.",
+      "fees": "₹1,628/Year",
       "exams": "NEET UG, INI CET",
-      "highestPackage": "₹28 LPA",
-      "averagePackage": "₹14.0 LPA",
-      "placements": "98%",
+      "highestPackage": "₹45 LPA",
+      "averagePackage": "₹18 LPA",
+      "placements": "100% Medical Residency & Fellowships in Top Global Hospitals (NHS UK, Mayo Clinic USA, Harvard)",
       "topRecruiters": [
         "Google",
         "Microsoft",
@@ -934,35 +1120,37 @@
         "Deloitte",
         "Tata"
       ],
-      "facilities": [
-        "Central AC Library",
-        "High-Speed Wi-Fi Campus",
-        "Olympic Sports Complex",
-        "AC Hostels",
-        "Medical Center",
-        "Advanced Research Labs"
-      ],
+      "facilities": "2,500+ Bed Super-Specialty Hospital, Cadaveric Surgical Skills Lab, Advanced Robotic Surgery Suite, Central Medical Library",
       "courses": [
         {
-          "title": "MBBS",
-          "division": "Undergraduate",
+          "title": "MBBS Bachelor of Medicine and Bachelor of Surgery",
           "duration": "5.5 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹5,856 Total",
+          "eligibility": "10+2 with PCB + Top NEET UG Rank (AIR 1 - 50)"
+        },
+        {
+          "title": "MD / MS Post Graduate Medical Degree",
+          "duration": "3 Years",
+          "fees": "₹2,500 Total",
+          "eligibility": "MBBS + INI CET Qualified"
         }
       ],
-      "reviewsCount": 350,
-      "img": "/images/campuses/campus_iit_delhi.jpg",
+      "reviewsCount": 510,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AIIMS_New_Delhi.jpg/1200px-AIIMS_New_Delhi.jpg",
       "gallery": [
-        "https://ik.imagekit.io/syustaging/SYU_PREPROD/Cover_lfvZuNQNK.webp?tr=w-3840",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AIIMS_New_Delhi.jpg/1200px-AIIMS_New_Delhi.jpg"
       ],
       "website": "https://www.aiims.edu",
       "image": "/images/campuses/campus_iit_delhi.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AIIMS%20New%20Delhi%20-%20All%20India%20Institute%20of%20Medical%20Sciences%20New%20Delhi%20Delhi%20NCR",
       "map_url": "https://www.google.com/maps/search/?api=1&query=AIIMS%20New%20Delhi%20-%20All%20India%20Institute%20of%20Medical%20Sciences%20New%20Delhi%20Delhi%20NCR",
-      "address": "New Delhi, Delhi NCR, India",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi 110029",
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "phone": "+91-11-2658 8500",
+      "email": "director@aiims.edu",
+      "established": "1956",
+      "published": true,
+      "featured": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/nlu-delhi-nlud-national-law-university-29811/ranking",
@@ -3158,89 +3346,72 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Technology%2C%20BHU%2C%20Varanasi%20Uttar%20Uttar%20Pradesh"
     },
     {
-      "shikshaUrl": "https://www.shiksha.com/college/iit-kanpur-indian-institute-of-technology-25116/compare",
+      "shikshaUrl": "https://www.shiksha.com/university/iit-kanpur-indian-institute-of-technology-24444",
       "name": "Indian Institute of Technology Kanpur (IIT Kanpur)",
-      "shortName": "IK",
+      "shortName": "IITK",
       "location": "Kanpur",
       "state": "Uttar Pradesh",
       "country": "India",
-      "address": "Indian Institute of Technology, Kalyanpur",
-      "phone": "05122590151",
-      "email": "registrar@iitk.ac.in",
+      "address": "Kalyanpur, Kanpur, Uttar Pradesh 208016",
+      "phone": "+91-512-259 0151",
+      "email": "admissions@iitk.ac.in",
       "website": "https://www.iitk.ac.in",
       "rating": 4.8,
       "reviews": 407,
-      "type": "Institute of National Importance",
+      "type": "Government (Autonomous)",
       "ownership": "Government",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
-      "ranking": 8,
-      "about": "IIT Kanpur is one of the premier institutions in Uttar Pradesh, offering excellence in education, faculty expertise, advanced infrastructure, and industry-oriented programs.",
+      "ranking": 4,
+      "about": "Indian Institute of Technology Kanpur is an Institute of National Importance established in 1959. Renowned globally for Computer Science, Aerospace Engineering, and cutting-edge quantum computing research.",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Technology%20Kanpur%20(IIT%20Kanpur)%20Kanpur%20Uttar%20Pradesh",
-      "fees": "₹8.5 Lakhs - ₹10.5 Lakhs",
-      "exams": "JEE Advanced, GATE",
-      "img": "/images/campuses/campus_iit_delhi.jpg",
+      "fees": "₹2.2 Lakhs/Year",
+      "exams": "JEE Advanced, GATE, JAM",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/IIT_Kanpur_Airstrip.jpg/1200px-IIT_Kanpur_Airstrip.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1570693266php1HVCm6.jpg",
       "gallery": [
-        "https://images.news18.com/ibnlive/uploads/2025/09/Indian-Institute-Of-Technology-IIT-Kanpur-4-2025-09-96ddd99a3e423ab134c7a7eadb6b3f8c.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/IIT_Kanpur_Airstrip.jpg/1200px-IIT_Kanpur_Airstrip.jpg"
       ],
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
+          "title": "B.Tech Computer Science and Engineering",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹2.29 Lakhs/Year",
+          "eligibility": "10+2 with PCM + JEE Advanced Rank"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
+          "title": "B.Tech Aerospace Engineering",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹2.29 Lakhs/Year",
+          "eligibility": "10+2 with PCM + JEE Advanced Rank"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
+          "title": "M.Tech Data Science & Artificial Intelligence",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹65,000/Year",
+          "eligibility": "B.Tech + GATE Qualified"
         }
       ],
-      "highestPackage": "₹1.9 CPA",
-      "averagePackage": "₹20.2 LPA",
-      "placements": "92%",
+      "highestPackage": "₹1.90 Crore PA",
+      "averagePackage": "₹28.7 LPA",
+      "placements": "100% Placed, Top recruiters: Apple, Google, Microsoft, Qualcomm, Texas Instruments",
       "topRecruiters": [
         "Microsoft"
       ],
-      "facilities": [
-        "Hostel",
-        "Central Library",
-        "Wi-Fi Campus",
-        "Sports Complex",
-        "Modern Cafeteria",
-        "Healthcare Center",
-        "Auditorium",
-        "Labs"
-      ],
+      "facilities": "Supercomputing Facility, Flight Laboratory & Airstrip, Glider Club, Central Library, AC Hostels, Olympic Swimming Pool",
       "hostelInfo": "Separate residential hostel accommodation for boys and girls with 24/7 security, Wi-Fi, and mess facility.",
       "scholarships": "State government post-matric scholarships, merit-cum-means assistance, and institute fee concessions for eligible students.",
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 43,
-      "reviewsCount": 407,
+      "reviewsCount": 420,
       "image": "/images/campuses/campus_iit_delhi.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Technology%20Kanpur%20(IIT%20Kanpur)%20Kanpur%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "established": "1959",
+      "published": true,
+      "featured": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/nit-trichy-national-institute-of-technology-tiruchirappalli-2996",
@@ -4253,59 +4424,51 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIM%20Trichy%20Tamil%20Tamil%20Nadu"
     },
     {
-      "shikshaUrl": "https://www.shiksha.com/college/iim-calcutta-indian-institute-of-management-joka-kolkata-20190/admission",
+      "shikshaUrl": "https://www.shiksha.com/college/iim-calcutta-indian-institute-of-management-joka-kolkata-3408",
       "name": "Indian Institute of Management Calcutta (IIM Calcutta)",
-      "shortName": "ICCA2",
-      "location": "Joka, Kolkata",
+      "shortName": "IIMC",
+      "location": "Kolkata",
       "state": "West Bengal",
       "country": "India",
-      "address": "West, West Bengal, India",
-      "phone": "080-26597135",
-      "email": "admissions@icca2.edu.in",
+      "address": "Diamond Harbour Road, Joka, Kolkata, West Bengal 700104",
+      "phone": "+91-33-2467 8300",
+      "email": "admissions@iimcal.ac.in",
       "website": "https://www.iimcal.ac.in",
       "rating": 4.9,
       "reviews": 408,
-      "type": "Institute of National Importance",
+      "type": "Government (Autonomous)",
       "ownership": "Government",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
-      "ranking": 14,
-      "about": "IIM Calcutta Course Admission 2027 is one of the premier institutions in West Bengal, offering excellence in education, faculty expertise, advanced infrastructure, and industry-oriented programs.",
+      "ranking": 3,
+      "about": "IIM Calcutta was the first Indian Institute of Management established in 1961 in collaboration with MIT Sloan School of Management. Triple crown accredited (AACSB, AMBA, EQUIS), widely hailed as the Finance Capital of India.",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Management%20Calcutta%20(IIM%20Calcutta)%20Joka%2C%20Kolkata%20West%20Bengal",
-      "fees": "₹27 Lakhs - ₹31 Lakhs",
+      "fees": "₹15.5 Lakhs/Year",
       "exams": "CAT, GMAT",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1488955607d17.png",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/IIM_Calcutta_Campus.jpg/1200px-IIM_Calcutta_Campus.jpg",
       "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&q=80&w=200",
       "gallery": [
-        "https://image-static.collegedunia.com/public/college_data/images/appImage/1488955607d17.png",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/IIM_Calcutta_Campus.jpg/1200px-IIM_Calcutta_Campus.jpg"
       ],
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
+          "title": "MBA Post Graduate Programme in Management (PGP)",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹31 Lakhs Total",
+          "eligibility": "Graduation + CAT 99+ Percentile"
         },
         {
-          "title": "Executive MBA",
-          "division": "Postgraduate",
+          "title": "MBAEx Executive MBA",
           "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "fees": "₹31 Lakhs Total",
+          "eligibility": "Graduation + 5 Years Work Exp + GMAT"
         }
       ],
-      "highestPackage": "₹1.2 CPA",
-      "averagePackage": "₹35.0 LPA",
-      "placements": "92%",
+      "highestPackage": "₹1.15 Crore PA",
+      "averagePackage": "₹35.07 LPA",
+      "placements": "100% Placed, Top recruiters: McKinsey, BCG, Bain, Goldman Sachs, Morgan Stanley, Avendus",
       "topRecruiters": [
         "Google",
         "Microsoft",
@@ -4320,23 +4483,17 @@
         "McKinsey",
         "BCG"
       ],
-      "facilities": [
-        "Hostel",
-        "Central Library",
-        "Wi-Fi Campus",
-        "Sports Complex",
-        "Modern Cafeteria",
-        "Healthcare Center",
-        "Auditorium",
-        "Labs"
-      ],
+      "facilities": "Scenic 135-Acre 7-Lakes Campus, 24/7 Financial Research Trading Lab, Executive Classrooms, International Guest House",
       "hostelInfo": "Separate residential hostel accommodation for boys and girls with 24/7 security, Wi-Fi, and mess facility.",
       "scholarships": "State government post-matric scholarships, merit-cum-means assistance, and institute fee concessions for eligible students.",
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 56,
-      "reviewsCount": 408,
+      "reviewsCount": 380,
       "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1488955607d17.png",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Management%20Calcutta%20(IIM%20Calcutta)%20Joka%2C%20Kolkata%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Management%20Calcutta%20(IIM%20Calcutta)%20Joka%2C%20Kolkata%20West%20Bengal",
+      "established": "1961",
+      "published": true,
+      "featured": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/iit-madras-indian-institute-of-technology-adyar-chennai-3031",
@@ -1229422,101 +1229579,57 @@
     {
       "id": 12656,
       "name": "Indian Institute of Technology Roorkee (IIT Roorkee)",
-      "shortName": "IIT Roorkee",
+      "shortName": "IITR",
       "location": "Roorkee",
       "state": "Uttarakhand",
       "country": "India",
-      "address": "James Thomason Building, IIT Roorkee Campus, Roorkee, Uttarakhand 247667",
-      "phone": "01332284289",
-      "email": "academics@iitr.ac.in",
-      "website": "https://www.iitr.ac.in/",
+      "address": "Roorkee, Haridwar District, Uttarakhand 247667",
+      "phone": "+91-1332-285 311",
+      "email": "registrar@iitr.ac.in",
+      "website": "https://www.iitr.ac.in",
       "rating": 4.8,
-      "reviewsCount": 650,
-      "type": "Government",
+      "reviewsCount": 395,
+      "type": "Government (Autonomous)",
       "ownership": "Government",
-      "ranking": "NIRF Ranked #5 (Engineering)",
-      "about": "Indian Institute of Technology Roorkee (IIT Roorkee), established in 1847 as Thomason College of Civil Engineering, is Asia's oldest technical institution. It offers world-class academic programmes in engineering, science, architecture, and management with global research facilities and premier placements.",
+      "ranking": 5,
+      "about": "IIT Roorkee is the oldest technical institution in Asia, founded in 1847 as the Thomason College of Civil Engineering. Spread across an iconic 365-acre heritage campus nestled in the Himalayan foothills.",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIT%20Roorkee%20Uttarakhand",
       "map_url": "https://www.google.com/maps/search/?api=1&query=IIT%20Roorkee%20Uttarakhand",
-      "fees": "₹2,20,000 / yr",
-      "averagePackage": "₹18.5 LPA",
-      "highestPackage": "₹1.3 CPA",
-      "exams": "JEE Advanced, GATE, JAM, CAT",
-      "img": "/images/campuses/campus_iit_delhi.jpg",
+      "fees": "₹2.1 Lakhs/Year",
+      "averagePackage": "₹26.5 LPA",
+      "highestPackage": "₹1.30 Crore PA",
+      "exams": "JEE Advanced, GATE, CEED",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Main_Building_IIT_Roorkee.jpg/1200px-Main_Building_IIT_Roorkee.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Thomason_College_Roorkee.jpg/1200px-Thomason_College_Roorkee.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Main_Building_IIT_Roorkee.jpg/1200px-Main_Building_IIT_Roorkee.jpg"
       ],
-      "facilities": [
-        "Hostel",
-        "Central Library",
-        "Wi-Fi Campus",
-        "Sports Complex",
-        "Modern Cafeteria",
-        "Healthcare & Medical Center",
-        "Auditorium",
-        "Advanced Research Labs"
-      ],
+      "facilities": "Historic Main Building, High Performance Computing, Earth Sciences Museum, Olympic Sports Complex, 12 Hostels",
       "courses": [
         {
-          "id": 1,
-          "title": "B.Tech in Computer Science and Engineering",
-          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech Civil Engineering",
           "duration": "4 Years",
-          "fees": "₹2,20,000 / yr",
+          "fees": "₹2.18 Lakhs/Year",
           "eligibility": "10+2 with PCM + JEE Advanced"
         },
         {
-          "id": 2,
-          "title": "B.Tech in Electronics and Communication Engineering",
-          "name": "B.Tech in Electronics and Communication Engineering",
+          "title": "B.Tech Computer Science & Engineering",
           "duration": "4 Years",
-          "fees": "₹2,20,000 / yr",
+          "fees": "₹2.18 Lakhs/Year",
           "eligibility": "10+2 with PCM + JEE Advanced"
         },
         {
-          "id": 3,
-          "title": "B.Tech in Electrical Engineering",
-          "name": "B.Tech in Electrical Engineering",
-          "duration": "4 Years",
-          "fees": "₹2,20,000 / yr",
-          "eligibility": "10+2 with PCM + JEE Advanced"
-        },
-        {
-          "id": 4,
-          "title": "B.Tech in Mechanical Engineering",
-          "name": "B.Tech in Mechanical Engineering",
-          "duration": "4 Years",
-          "fees": "₹2,20,000 / yr",
-          "eligibility": "10+2 with PCM + JEE Advanced"
-        },
-        {
-          "id": 5,
-          "title": "B.Tech in Civil Engineering",
-          "name": "B.Tech in Civil Engineering",
-          "duration": "4 Years",
-          "fees": "₹2,20,000 / yr",
-          "eligibility": "10+2 with PCM + JEE Advanced"
-        },
-        {
-          "id": 6,
-          "title": "M.Tech in Artificial Intelligence & Data Science",
-          "name": "M.Tech in Artificial Intelligence & Data Science",
-          "duration": "2 Years",
-          "fees": "₹65,000 / yr",
-          "eligibility": "B.Tech / B.E. + GATE"
-        },
-        {
-          "id": 7,
-          "title": "Master of Business Administration (MBA)",
-          "name": "Master of Business Administration (MBA)",
-          "duration": "2 Years",
-          "fees": "₹4,00,000 / yr",
-          "eligibility": "Graduation + CAT"
+          "title": "B.Arch Architecture",
+          "duration": "5 Years",
+          "fees": "₹2.18 Lakhs/Year",
+          "eligibility": "10+2 + JEE Advanced AAT"
         }
       ],
-      "image": "/images/campuses/campus_iit_delhi.jpg"
+      "image": "/images/campuses/campus_iit_delhi.jpg",
+      "shikshaUrl": "https://www.shiksha.com/university/iit-roorkee-indian-institute-of-technology-24467",
+      "established": "1847",
+      "placements": "98% Placed, Top recruiters: Microsoft, Oracle, Uber, Goldman Sachs, BCG",
+      "published": true,
+      "featured": true
     }
   ],
   "exams": [

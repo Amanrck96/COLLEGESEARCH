@@ -9,7 +9,7 @@ const JWT_SECRET = process.env.JWT_SECRET || "supersecretcollegesearchkey";
 
 // Signup
 router.post('/signup', async (req, res) => {
-  const { email, password, name } = req.body;
+  const { email, password, name, phone, city, state, courseInterest, examInterest } = req.body;
   if (!email || !password || !name) {
     return res.status(400).json({ error: "Missing required fields: email, password, name" });
   }
@@ -26,7 +26,13 @@ router.post('/signup', async (req, res) => {
         email,
         password: hashedPassword,
         name,
-        role: "STUDENT" // default signup role
+        role: "STUDENT",
+        phone: phone || "",
+        city: city || "",
+        state: state || "",
+        courseInterest: courseInterest || "Engineering / Management",
+        examInterest: examInterest || "JEE Main / CAT",
+        leadStatus: "New Lead"
       }
     });
 
@@ -35,7 +41,22 @@ router.post('/signup', async (req, res) => {
     });
 
     const token = jwt.sign({ id: user.id, role: user.role, name: user.name }, JWT_SECRET, { expiresIn: '7d' });
-    res.status(201).json({ success: true, token, user: { id: user.id, name: user.name, email: user.email, role: user.role } });
+    res.status(201).json({ 
+      success: true, 
+      token, 
+      user: { 
+        id: user.id, 
+        name: user.name, 
+        email: user.email, 
+        role: user.role,
+        phone: user.phone,
+        city: user.city,
+        state: user.state,
+        courseInterest: user.courseInterest,
+        examInterest: user.examInterest,
+        leadStatus: user.leadStatus
+      } 
+    });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
@@ -73,7 +94,18 @@ router.post('/login', async (req, res) => {
     res.status(200).json({
       success: true,
       token,
-      user: { id: user.id, name: user.name, email: user.email, role: user.role }
+      user: { 
+        id: user.id, 
+        name: user.name, 
+        email: user.email, 
+        role: user.role,
+        phone: user.phone,
+        city: user.city,
+        state: user.state,
+        courseInterest: user.courseInterest,
+        examInterest: user.examInterest,
+        leadStatus: user.leadStatus
+      }
     });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -92,13 +124,72 @@ router.get('/profile', async (req, res) => {
     const decoded = jwt.verify(token, JWT_SECRET);
     const user = await prisma.user.findUnique({
       where: { id: decoded.id },
-      select: { id: true, name: true, email: true, role: true }
+      select: { 
+        id: true, 
+        name: true, 
+        email: true, 
+        role: true,
+        phone: true,
+        city: true,
+        state: true,
+        courseInterest: true,
+        examInterest: true,
+        leadStatus: true,
+        adminNotes: true,
+        bookmarks: {
+          include: {
+            college: true
+          }
+        }
+      }
     });
 
     if (!user) return res.status(404).json({ error: "User profile not found" });
     res.status(200).json({ success: true, user });
   } catch (err) {
     res.status(401).json({ error: "Invalid session token" });
+  }
+});
+
+// PUT /api/auth/profile - Update student profile
+router.put('/profile', async (req, res) => {
+  const authHeader = req.headers.authorization;
+  if (!authHeader || !authHeader.startsWith('Bearer ')) {
+    return res.status(401).json({ error: "Authorization header token missing" });
+  }
+
+  const token = authHeader.split(' ')[1];
+  try {
+    const decoded = jwt.verify(token, JWT_SECRET);
+    const { name, phone, city, state, courseInterest, examInterest } = req.body;
+    
+    const updated = await prisma.user.update({
+      where: { id: decoded.id },
+      data: {
+        ...(name && { name }),
+        ...(phone !== undefined && { phone }),
+        ...(city !== undefined && { city }),
+        ...(state !== undefined && { state }),
+        ...(courseInterest !== undefined && { courseInterest }),
+        ...(examInterest !== undefined && { examInterest })
+      },
+      select: {
+        id: true, 
+        name: true, 
+        email: true, 
+        role: true, 
+        phone: true, 
+        city: true, 
+        state: true, 
+        courseInterest: true, 
+        examInterest: true, 
+        leadStatus: true
+      }
+    });
+
+    res.status(200).json({ success: true, user: updated, message: "Profile updated successfully" });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
   }
 });
 
