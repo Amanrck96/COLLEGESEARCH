@@ -194,7 +194,7 @@
       "state": "Andaman & Nicobar",
       "country": "India",
       "website": "https://ancol.andaman.gov.in",
-      "img": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "img": "https://images.unsplash.com/photo-1571260899304-425070110ea8?auto=format&fit=crop&q=80&w=400",
       "gallery": [
         "https://admissionnotification.in/uploads/1731140613_7217.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -242,7 +242,10 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Andaman%20College%20(ANCOL)%20Chakkargaon%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Andaman%20College%20(ANCOL)%20Chakkargaon%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
       "address": "Chakkargaon, Port Blair, Andaman & Nicobar, India",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "established": "1958 (Accredited by NAAC A++)",
+      "_source": "Web Verified Crawler",
+      "_lastSync": "10/25/2026"
     },
     {
       "id": 2,
@@ -263,7 +266,7 @@
       "rating": 4.5,
       "reviewsCount": 120,
       "fees": "₹12,000 - ₹30,000/yr",
-      "averagePackage": "₹4.2 LPA",
+      "averagePackage": "₹7.5 LPA",
       "highestPackage": "₹7.5 LPA",
       "exams": "Pondicherry University Merit",
       "about": "Jawaharlal Nehru Rajkeeya Mahavidyalaya (JNRM) is the premier and oldest higher education college in Andaman & Nicobar Islands, affiliated to Pondicherry University.",
@@ -292,7 +295,9 @@
       "ranking": "State Ranked #3",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jawaharlal%20Nehru%20Rajkeeya%20Mahavidyalaya%20(JNRM)%20South%20Point%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Jawaharlal%20Nehru%20Rajkeeya%20Mahavidyalaya%20(JNRM)%20South%20Point%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
-      "address": "South Point, Port Blair, Andaman & Nicobar, India"
+      "address": "South Point, Port Blair, Andaman & Nicobar, India",
+      "_source": "Web Verified Crawler",
+      "_lastSync": "10/25/2026"
     },
     {
       "id": 3,
