@@ -538,7 +538,7 @@
         }
       ],
       "reviewsCount": 350,
-      "img": "/images/campuses/iiit_bangalore_campus.jpg",
+      "img": "/images/campuses/campus_nit_surathkal.jpg",
       "gallery": [
         "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/6f2968f50e1bf2c8c8153d39774f94c31.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -656,7 +656,7 @@
         }
       ],
       "reviewsCount": 350,
-      "img": "https://home.iitd.ac.in/images/gallery/gallery-lg7.jpg",
+      "img": "/images/campuses/campus_iit_delhi.jpg",
       "gallery": [
         "https://home.iitd.ac.in/images/gallery/gallery-lg7.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -833,7 +833,7 @@
         }
       ],
       "reviewsCount": 350,
-      "img": "https://www.iimb.ac.in/archives/images/photo/new-campus–2000-9.jpg",
+      "img": "/images/campuses/iim_bangalore.jpg",
       "gallery": [
         "https://www.iimb.ac.in/archives/images/photo/new-campus–2000-9.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -3003,7 +3003,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=Birla%20Institute%20of%20Technology%20and%20Science%20(BITS%20Pilani)%20Pilani%2C%20Vidya%20Vihar%20Rajasthan",
       "fees": "₹19.5 Lakhs - ₹22.5 Lakhs",
       "exams": "BITSAT, BITS HD",
-      "img": "/images/campuses/campus_iit_delhi.jpg",
+      "img": "/images/campuses/campus_bits_pilani.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1651202150phpkFIRsH.jpeg",
       "gallery": [
         "https://gsgs.network/app/uploads/2025/08/bits-pilani-pilani-800x533.jpg",
@@ -3443,7 +3443,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NIT%20Surathkal%20Karnataka%20Karnataka",
       "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
       "exams": "JEE Main, State CET",
-      "img": "/images/campuses/ramaiah_bangalore.jpg",
+      "img": "/images/campuses/campus_nit_surathkal.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1571907236phpTCgKIg.jpg",
       "gallery": [
         "https://cdn.iris.nitk.ac.in/placement/images/fulls/02.jpg",
@@ -10344,7 +10344,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=BMS%20College%20of%20Engineering%2C%20Bangalore%20Karnataka%20Karnataka",
       "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
       "exams": "JEE Main, State CET",
-      "img": "https://img.jagranjosh.com/images/2022/December/1122022/BMS-College-of-Engineering-Bangalore-Campus-View-3.jpg",
+      "img": "/images/campuses/bms_bangalore.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1642143598php2LaYDV.jpeg",
       "gallery": [
         "https://img.jagranjosh.com/images/2022/December/1122022/BMS-College-of-Engineering-Bangalore-Campus-View-3.jpg",
@@ -10603,7 +10603,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=Ramaiah%20Institute%20of%20Technology%2C%20Bangalore%20Karnataka%20Karnataka",
       "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
       "exams": "JEE Main, State CET",
-      "img": "/images/campuses/campus_nit_surathkal.jpg",
+      "img": "/images/campuses/ramaiah_bangalore.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1570093449phpaGO0At.jpg",
       "gallery": [
         "https://mdmsenquiry.com/wp-content/uploads/2019/05/Ramaiah-Medical-College-md-radiology-admission-1024x683.jpg",
@@ -32015,7 +32015,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ST.%20XAVIER'S%20UNIVERSITY%20NORTH%2024%20PARGANAS%20West%20Bengal",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_iit_delhi.jpg",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://www.yayskool.com/images/school/stxaviers-institution-north-24-parganas-179917250.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -38000,7 +38000,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=University%20College%20of%20Commerce%20and%20Business%20Management%2C%20Osmania%20University%2C%20Hyderabad%20Telangana%20Telangana",
       "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
       "exams": "CAT, MAT, XAT, CMAT",
-      "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-24-5-11-58-57_OU.jpg",
+      "img": "/images/campuses/campus_osmania_university.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1646907650phpX6FExz.jpeg",
       "gallery": [
         "https://www.vidyavision.com/CollegeUploads/Photos/2019-24-5-11-58-57_OU.jpg",
@@ -51703,7 +51703,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=Aligarh%20Muslim%20University%20Uttar%20Uttar%20Pradesh",
       "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
       "exams": "NEET UG",
-      "img": "/images/campuses/campus_iit_delhi.jpg",
+      "img": "/images/campuses/campus_aligarh_muslim_university.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1569392346php2iuhv6.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -102537,7 +102537,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ST.%20XAVIER'S%20COLLEGE%20MAHARO%20DUMKA%20DUMKA%20Jharkhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://sxcd.edu.in/assets/images/sliders/0338.jpg",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://sxcd.edu.in/assets/images/sliders/0338.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -102591,7 +102591,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ST.%20XAVIERS%20COLLEGE%20RANCHI%20RANCHI%20Jharkhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://sxcran.ac.in/images/main/SXCBuilding1.jpg",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://sxcran.ac.in/images/main/SXCBuilding1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -125225,7 +125225,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ST.%20XAVIER'S%20COLLEGE%20NORTH%20GOA%20Goa",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://xavierscollegegoa.ac.in/wp-content/uploads/2025/03/abt-banner-sxc-003.jpg",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://xavierscollegegoa.ac.in/wp-content/uploads/2025/03/abt-banner-sxc-003.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -189269,7 +189269,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ST.%20XAVIER'S%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://sxcpatna.edu.in/wp-content/uploads/2022/10/COLLEGE-BUILDING-1024x454.png",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://sxcpatna.edu.in/wp-content/uploads/2022/10/COLLEGE-BUILDING-1024x454.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -216056,7 +216056,7 @@
       "phone": "+91-11-23456789",
       "email": "admissions@iitdelhiin.ac.in",
       "website": "https://www.google.com/search?q=IIT%20Delhi%20-%20Indian%20Institute%20of%20Technology%20official%20website%20New%20Delhi%20Delhi",
-      "img": "/images/campuses/campus_bits_pilani.jpg",
+      "img": "/images/campuses/campus_iit_delhi.jpg",
       "gallery": [
         "https://digitallearning.eletsonline.com/wp-content/uploads/2019/07/IIT-Delhi.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -216410,7 +216410,7 @@
       "phone": "+91-11-23456789",
       "email": "admissions@iimbangalo.ac.in",
       "website": "https://www.google.com/search?q=IIM%20Bangalore%20-%20Indian%20Institute%20of%20Management%20official%20website%20Bangalore%20Karnataka",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/iim_bangalore.jpg",
       "gallery": [
         "https://www.iimb.ac.in/sites/default/files/inline-images/IIMB-Campus-Aerial-View_0.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -217522,7 +217522,7 @@
       "phone": "01126597135",
       "email": "info@iitd.ac.in",
       "website": "https://home.iitd.ac.in/",
-      "img": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "img": "/images/campuses/campus_iit_delhi.jpg",
       "gallery": [
         "https://digitallearning.eletsonline.com/wp-content/uploads/2019/07/IIT-Delhi.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -217783,7 +217783,7 @@
       "phone": "08026993013",
       "email": "intadm@iimb.ac.in",
       "website": "https://www.iimb.ac.in/",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/iim_bangalore.jpg",
       "gallery": [
         "https://www.iimb.ac.in/sites/default/files/inline-images/IIMB-Campus-Aerial-View_0.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -219419,7 +219419,7 @@
       "phone": "1126907404",
       "email": "info@iiitd.ac.in",
       "website": "https://www.google.com/search?q=IIIT%20Delhi%20official%20website%20Delhi%20Delhi%20NCR",
-      "img": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "img": "/images/campuses/campus_iit_delhi.jpg",
       "gallery": [
         "https://digitallearning.eletsonline.com/wp-content/uploads/2019/07/IIT-Delhi.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -221729,7 +221729,7 @@
       "phone": "01596255294",
       "email": "bitsat@pilani.bits-pilani.ac.in",
       "website": "https://www.bits-pilani.ac.in/",
-      "img": "/images/campuses/campus_iit_patna.png",
+      "img": "/images/campuses/campus_bits_pilani.jpg",
       "gallery": [
         "https://images.squarespace-cdn.com/content/v1/5abcf408f407b426a2ae5f5d/1539378180430-L3N3OX1T2OWIXNSFZ46Y/vibrantcommunity.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -239157,7 +239157,7 @@
       "phone": "+91-11-23456789",
       "email": "admissions@divyacheta.ac.in",
       "website": "https://www.google.com/search?q=DIVYACHETANA%20COLLEGE%20OF%20BCA%20official%20website%20SABARKANTHA%20GUJARAT",
-      "img": "/images/campuses/campus_bits_pilani.jpg",
+      "img": "/images/campuses/chetana_bandra.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Aligarh_Muslim_University_Strachey_Hall.jpg/1200px-Aligarh_Muslim_University_Strachey_Hall.jpg?sig=3862",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
@@ -324302,7 +324302,7 @@
       "phone": "+91-11-23456789",
       "email": "admissions@stxaviersc.ac.in",
       "website": "https://www.google.com/search?q=ST.%20XAVIER'S%20COLLEGE%20BURDWAN%20official%20website%20BARDHAMAN%20WEST%20BENGAL",
-      "img": "/images/campuses/campus_iit_patna.png",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/IIMC_Auditorium_Building.jpg/1200px-IIMC_Auditorium_Building.jpg?sig=4562",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -334659,7 +334659,7 @@
       "phone": "+91-11-23456789",
       "email": "admissions@rathinamsc.ac.in",
       "website": "https://www.google.com/search?q=RATHINAM%20SCHOOL%20OF%20BUSINESS%20official%20website%20BANGALORE%20URBAN%20KARNATAKA",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/rathinam_campus.jpg",
       "gallery": [
         "https://i1.sndcdn.com/artworks-njdNVe1v8KRIc7Kt-tu8NLA-t500x500.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -356502,7 +356502,7 @@
       "phone": "+91-11-23456789",
       "email": "admissions@msramaiahi.ac.in",
       "website": "https://www.google.com/search?q=M.%20S.%20RAMAIAH%20INSTITUTE%20OF%20TECHNOLOGY-MCA%20official%20website%20BANGALORE%20URBAN%20KARNATAKA",
-      "img": "/images/campuses/iiit_bangalore_campus.jpg",
+      "img": "/images/campuses/ramaiah_bangalore.jpg",
       "gallery": [
         "https://www.edudunia.com/newtemplate/images/img6.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -376388,7 +376388,7 @@
       "phone": "+91-11-23456789",
       "email": "admissions@msramaiahi.ac.in",
       "website": "https://www.google.com/search?q=M.%20S.%20RAMAIAH%20INSTITUTE%20OF%20TECHNOLOGY-MBA%20PROGRAMME%20official%20website%20BANGALORE%20URBAN%20KARNATAKA",
-      "img": "/images/campuses/iim_bangalore.jpg",
+      "img": "/images/campuses/ramaiah_bangalore.jpg",
       "gallery": [
         "https://images.shiksha.com/mediadata/images/1699507880phpW3wWSz.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -395990,7 +395990,7 @@
       "phone": "+91-11-23456789",
       "email": "admissions@prinlnweli.ac.in",
       "website": "https://www.google.com/search?q=PRIN%20L%20N%20WELINGKAR%20INSTITUTE%20OF%20MANAGEMENT%20DEVELOPMENT%20%26%20RESEARCH%20official%20website%20BANGALORE%20URBAN%20KARNATAKA",
-      "img": "/images/campuses/primus_bangalore.jpg",
+      "img": "/images/campuses/weschool_matunga_mumbai.jpeg",
       "gallery": [
         "https://www.topbschooladmission.in/wp-content/uploads/2021/01/Direct-Admission-In-Welingkar-Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -448751,7 +448751,7 @@
       "phone": "+91-11-23456789",
       "email": "admissions@chetanacom.ac.in",
       "website": "https://www.google.com/search?q=CHETANA%20COMMERCE%20COLLEGE%20official%20website%20DHARWAD%20KARNATAKA",
-      "img": "/images/campuses/iim_bangalore.jpg",
+      "img": "/images/campuses/chetana_bandra.jpg",
       "gallery": [
         "http://www.chetancollege.co.in/CheaanPUCollege/home Pic/principalMam.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -463368,7 +463368,7 @@
       "phone": "+91-11-23456789",
       "email": "info@chetanabcaco.edu.in",
       "website": "https://www.google.com/search?q=CHETANA%20BCA%20COLLEGE%20official%20website%20BIJAPUR%20KARNATAKA",
-      "img": "/images/campuses/iim_bangalore.jpg",
+      "img": "/images/campuses/chetana_bandra.jpg",
       "gallery": [
         "https://www.bldeacet.ac.in/images/bldea-engg-mba.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
@@ -463484,7 +463484,7 @@
       "phone": "+91-11-23456789",
       "email": "info@chetanabbaco.edu.in",
       "website": "https://www.google.com/search?q=CHETANA%20BBA%20COLLEGE%20official%20website%20BIJAPUR%20KARNATAKA",
-      "img": "/images/campuses/iim_bangalore.jpg",
+      "img": "/images/campuses/chetana_bandra.jpg",
       "gallery": [
         "https://media.licdn.com/dms/image/v2/D5622AQHVKAa7w9Nuew/feedshare-shrink_800/B56ZyfbjqHIwAg-/0/1772201327481?e=2147483647&v=beta&t=EY20CsH5JJrHFi-hvA4G7E9xGoBTXHNaNiHWRPsrjY8",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
@@ -487895,7 +487895,7 @@
       "phone": "+91-11-23456789",
       "email": "info@rathinaminst.edu.in",
       "website": "https://www.google.com/search?q=RATHINAM%20INSTITUTE%20OF%20TECHNOLOGY%20official%20website%20BANGALORE%20URBAN%20KARNATAKA",
-      "img": "/images/campuses/pes_bangalore.jpg",
+      "img": "/images/campuses/rathinam_campus.jpg",
       "gallery": [
         "https://application.rathinamcollege.edu.in/img/AIC.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -521244,7 +521244,7 @@
       "phone": "+91-11-23456789",
       "email": "info@stxaviersart.edu.in",
       "website": "https://www.google.com/search?q=ST%20XAVIERS%20ARTS%20AND%20SCIENCE%20COLLEGE%20official%20website%20KOZHIKODE%20KERALA",
-      "img": "/images/campuses/campus_bits_pilani.jpg",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/reviewPhotos/452969/Screenshot_2023-08-24-07-28-01-11.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
@@ -617963,7 +617963,7 @@
       "phone": "+91-11-23456789",
       "email": "info@navachetanad.edu.in",
       "website": "https://www.google.com/search?q=NAVACHETANA%20DEGREE%20COLLEGE%20official%20website%20KOLAR%20KARNATAKA",
-      "img": "/images/campuses/primus_bangalore.jpg",
+      "img": "/images/campuses/chetana_bandra.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Banaras_Hindu_University_Main_Gate.jpg/1200px-Banaras_Hindu_University_Main_Gate.jpg?inst_id=7042",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
@@ -688472,7 +688472,7 @@
       "phone": "+91-11-23456789",
       "email": "info@nitsurathk.edu.in",
       "website": "https://www.google.com/search?q=NIT%20Surathkal%20-%20National%20Institute%20of%20Technology%20Karnataka%20official%20website%20Surathkal%20Karnataka",
-      "img": "/images/campuses/iiit_bangalore_campus2.jpg",
+      "img": "/images/campuses/campus_nit_surathkal.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Presidency_University_Kolkata_Baker_Building.jpg/1200px-Presidency_University_Kolkata_Baker_Building.jpg?inst_id=7636",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -761572,7 +761572,7 @@
       "phone": "+91-11-23456789",
       "email": "info@stxaviersc.edu.in",
       "website": "https://www.google.com/search?q=ST.%20Xavier's%20College%20Jaipur%20official%20website%20JAIPUR%20RAJASTHAN",
-      "img": "/images/campuses/campus_bits_pilani.jpg",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c13615/aslam-played-with-a-calm-head-on-his-shoulders-to-remain-unbeaten-on-75-at-tea-on-day-5.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -941405,7 +941405,7 @@
       "phone": "+91-11-23456789",
       "email": "info@rathinamte.edu.in",
       "website": "https://www.google.com/search?q=Rathinam%20Technical%20Campus%20official%20website%20COIMBATORE%20TAMIL%20NADU",
-      "img": "https://img.studyclap.com/img/institute/college/original/3937/rtc-coimbatore-auditorium-d267f0.jpg",
+      "img": "/images/campuses/rathinam_campus.jpg",
       "gallery": [
         "https://img.studyclap.com/img/institute/college/original/3937/rtc-coimbatore-auditorium-d267f0.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -950924,7 +950924,7 @@
       "phone": "+91-11-23456789",
       "email": "info@rathinambu.edu.in",
       "website": "https://www.google.com/search?q=Rathinam%20Business%20School%20at%20Wisdom%20Campus%20official%20website%20COIMBATORE%20TAMIL%20NADU",
-      "img": "https://media.getmyuni.com/azure/college-images-test/rathinam-college-of-arts-and-science-rcas-coimbatore/a51120f090f24c2f9ebfc91c2bcd3e48.jpeg",
+      "img": "/images/campuses/rathinam_campus.jpg",
       "gallery": [
         "https://media.getmyuni.com/azure/college-images-test/rathinam-college-of-arts-and-science-rcas-coimbatore/a51120f090f24c2f9ebfc91c2bcd3e48.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
@@ -981735,7 +981735,7 @@
       "phone": "+91-11-23456789",
       "email": "info@stxaviersc.edu.in",
       "website": "https://www.google.com/search?q=ST.%20Xavier's%20Catholic%20College%20of%20Engineering%20official%20website%20KANYAKUMARI%20TAMIL%20NADU",
-      "img": "/images/campuses/rathinam_campus.jpg",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://as2.ftcdn.net/jpg/05/97/97/71/1000_F_597977102_YAAlLVGHP6saRKU8VwsHiAmqRWcrwiuJ.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -1061047,7 +1061047,7 @@
       "name": "RATHINAM COLLEGE OF LIBERAL ARTS AND SCIENCE AT TIPS GLOBAL",
       "location": "COIMBATORE",
       "state": "TAMIL NADU",
-      "img": "/images/campuses/srinivasan_perambalur.jpg",
+      "img": "/images/campuses/rathinam_campus.jpg",
       "gallery": [
         "https://hsicrane.com/wp-content/uploads/2023/07/unnamed-e1694620369358.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -1116527,7 +1116527,7 @@
       "name": "ST. XAVIER'S TECHNICAL INSTITUTE",
       "location": "MUMBAI CITY",
       "state": "MAHARASHTRA",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg?inst_id=11563",
+      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg?inst_id=11563",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -1182674,7 +1182674,7 @@
       "name": "MALAD KANDIVLI EDUCATION SOCIETYS NAGINDAS KHANDWALA COLLEGE OF COMMERCE ARTS AND MANAGEMENT STUDIES AND SHANTABEN NAGINDAS KHANDWALA COLLEGE OF SCIENCE",
       "location": "MUMBAI SUBURBAN",
       "state": "MAHARASHTRA",
-      "img": "/images/campuses/kes_shroff_kandivali.jpg",
+      "img": "/images/campuses/nagindas_khandwala_malad.jpg",
       "gallery": [
         "https://hts-alu.com/wp-content/uploads/2024/05/未命名的设计-47-jpg.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
