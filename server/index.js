@@ -10,6 +10,7 @@ import collegeRoutes from './routes/colleges.js';
 import reviewRoutes from './routes/reviews.js';
 import analyticsRoutes from './routes/analytics.js';
 import webhookRoutes from './routes/webhooks.js';
+import systemRoutes from './routes/system.js';
 import { antiScrapeLimiter, honeypotTrap } from './middleware/honeypot.js';
 import { verifyArmorHandshake } from './middleware/wireArmor.js';
 
@@ -95,6 +96,7 @@ app.use('/api/colleges', collegeRoutes);
 app.use('/api/reviews', reviewRoutes);
 app.use('/api/analytics', analyticsRoutes);
 app.use('/api/webhooks', webhookRoutes);
+app.use('/api/system', systemRoutes);
 
 // 404 handler
 app.use((req, res) => {
