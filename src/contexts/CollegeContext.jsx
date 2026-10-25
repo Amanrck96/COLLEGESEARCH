@@ -622,9 +622,15 @@ async function getMasterColleges() {
       // 4. Hostel Filter
       if (params.hostel) {
         if (params.hostel === 'yes') {
-          results = results.filter(c => (c.facilities || '').toLowerCase().includes('hostel'));
+          results = results.filter(c => {
+            const fac = Array.isArray(c.facilities) ? c.facilities.join(' ') : (c.facilities || '');
+            return fac.toLowerCase().includes('hostel');
+          });
         } else if (params.hostel === 'no') {
-          results = results.filter(c => !(c.facilities || '').toLowerCase().includes('hostel'));
+          results = results.filter(c => {
+            const fac = Array.isArray(c.facilities) ? c.facilities.join(' ') : (c.facilities || '');
+            return !fac.toLowerCase().includes('hostel');
+          });
         }
       }
       
