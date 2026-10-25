@@ -8,14 +8,21 @@ generator client {
 }
 
 model User {
-  id        Int        @id @default(autoincrement())
-  email     String     @unique
-  password  String
-  name      String
-  role      String     @default("USER") // USER, ADMIN, SUPERADMIN
-  bookmarks Bookmark[]
-  auditLogs AuditLog[]
-  createdAt DateTime   @default(now())
+  id             Int        @id @default(autoincrement())
+  email          String     @unique
+  password       String
+  name           String
+  role           String     @default("USER") // USER, ADMIN, SUPERADMIN, STUDENT, OPERATOR, VIEWER
+  phone          String     @default("")
+  city           String     @default("")
+  state          String     @default("")
+  courseInterest String     @default("")
+  examInterest   String     @default("")
+  leadStatus     String     @default("New Lead") // New Lead, Contacted, In Discussion, Enrolled, Closed
+  adminNotes     String     @default("")
+  bookmarks      Bookmark[]
+  auditLogs      AuditLog[]
+  createdAt      DateTime   @default(now())
 }
 
 model College {

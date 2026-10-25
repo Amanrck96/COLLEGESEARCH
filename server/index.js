@@ -3,7 +3,13 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import google from 'googlethis';
 import uploadRoutes from './routes/uploads.js';
+import authRoutes from './routes/auth.js';
+import collegeRoutes from './routes/colleges.js';
+import reviewRoutes from './routes/reviews.js';
+import analyticsRoutes from './routes/analytics.js';
+import webhookRoutes from './routes/webhooks.js';
 
 dotenv.config({ path: '../.env' });
 
@@ -68,8 +74,13 @@ app.post('/api/save-image', async (req, res) => {
   }
 });
 
-// Image upload routes
+// Mount All API Routes
 app.use('/api/uploads', uploadRoutes);
+app.use('/api/auth', authRoutes);
+app.use('/api/colleges', collegeRoutes);
+app.use('/api/reviews', reviewRoutes);
+app.use('/api/analytics', analyticsRoutes);
+app.use('/api/webhooks', webhookRoutes);
 
 // 404 handler
 app.use((req, res) => {

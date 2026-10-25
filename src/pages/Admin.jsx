@@ -4,7 +4,7 @@ import {
   FaUserShield, FaSchool, FaBookOpen, FaUserGraduate, FaHistory, FaFileExcel, 
   FaFilePdf, FaBan, FaCheck, FaTimes, FaPlus, FaTrash, FaEdit, FaDownload, 
   FaExclamationTriangle, FaSearch, FaRegStickyNote, FaFilter, FaExchangeAlt, FaCog,
-  FaExternalLinkAlt
+  FaExternalLinkAlt, FaSpider, FaGlobe, FaImage, FaSyncAlt
 } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
 import { AuthContext } from '../contexts/AuthContext';
@@ -21,12 +21,34 @@ const Admin = () => {
     reviews, approveReview, rejectReview, 
     pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate, inaccuracyReports 
   } = useContext(CollegeContext);
-  const { currentUser, students, activityLogs, deleteStudent, updateStudentNotes, logActivity, handleLogin, usersList, updateStaffPassword } = useContext(AuthContext);
+  const { 
+    currentUser, students, activityLogs, deleteStudent, updateStudentNotes, 
+    addStudentLead, fetchStudents, logActivity, handleLogin, usersList, updateStaffPassword 
+  } = useContext(AuthContext);
   const { siteData, updateSiteData } = useContext(SiteContext);
 
   const [activeTab, setActiveTab] = useState('dashboard');
   const [editingCollege, setEditingCollege] = useState(null);
   const [showCollegeForm, setShowCollegeForm] = useState(false);
+
+  // Shiksha Live Extractor States
+  const [shikshaUrlInput, setShikshaUrlInput] = useState('');
+  const [shikshaLoading, setShikshaLoading] = useState(false);
+  const [shikshaExtracted, setShikshaExtracted] = useState(null);
+  const [shikshaAutoSave, setShikshaAutoSave] = useState(true);
+  const [shikshaError, setShikshaError] = useState('');
+
+  // Student CRM States
+  const [leadStatusFilter, setLeadStatusFilter] = useState('');
+  const [leadStatusDraft, setLeadStatusDraft] = useState('New Lead');
+  const [showAddLeadModal, setShowAddLeadModal] = useState(false);
+  const [newLeadName, setNewLeadName] = useState('');
+  const [newLeadEmail, setNewLeadEmail] = useState('');
+  const [newLeadPhone, setNewLeadPhone] = useState('');
+  const [newLeadCity, setNewLeadCity] = useState('');
+  const [newLeadState, setNewLeadState] = useState('');
+  const [newLeadCourse, setNewLeadCourse] = useState('');
+  const [newLeadNotes, setNewLeadNotes] = useState('');
 
   // Staff login states
   const [adminEmail, setAdminEmail] = useState('');
@@ -665,19 +687,21 @@ const Admin = () => {
     }
   };
 
-  // Student list logic
+  // Student list logic & CRM filters
   const filteredStudents = students.filter(s => {
     const matchesSearch = s.name.toLowerCase().includes(studentSearch.toLowerCase()) || 
                           s.email.toLowerCase().includes(studentSearch.toLowerCase()) ||
-                          s.mobile.includes(studentSearch);
+                          (s.mobile && s.mobile.includes(studentSearch));
     const matchesState = studentFilterState ? s.state === studentFilterState : true;
     const matchesCourse = studentFilterCourse ? s.courseInterest === studentFilterCourse : true;
-    return matchesSearch && matchesState && matchesCourse;
+    const matchesStatus = leadStatusFilter ? (s.leadStatus || 'New Lead') === leadStatusFilter : true;
+    return matchesSearch && matchesState && matchesCourse && matchesStatus;
   });
 
   const selectStudentForDetail = (s) => {
     setSelectedStudent(s);
     setStudentNotesInput(s.adminNotes || '');
+    setLeadStatusDraft(s.leadStatus || 'New Lead');
   };
 
   const saveStudentNotes = () => {
@@ -685,9 +709,133 @@ const Admin = () => {
       showToast("Permission Denied.", "error");
       return;
     }
-    updateStudentNotes(selectedStudent.id, studentNotesInput);
-    setSelectedStudent(prev => ({ ...prev, adminNotes: studentNotesInput }));
-    showToast("Admin notes saved successfully!", "success");
+    updateStudentNotes(selectedStudent.id, studentNotesInput, leadStatusDraft);
+    setSelectedStudent(prev => ({ ...prev, adminNotes: studentNotesInput, leadStatus: leadStatusDraft }));
+    showToast("Admin notes and lead status saved successfully!", "success");
+  };
+
+  // Student CRM Export
+  const handleExportStudentsToExcel = () => {
+    const data = filteredStudents.map(s => ({
+      ID: s.id,
+      Name: s.name,
+      Email: s.email,
+      Phone: s.mobile || '',
+      City: s.city || '',
+      State: s.state || '',
+      'Course Interest': s.courseInterest || '',
+      'Exam Interest': s.examInterest || '',
+      'Lead Status': s.leadStatus || 'New Lead',
+      'Admin Notes': s.adminNotes || '',
+      'Active Time': s.lastActiveTime || '',
+      'Viewed Colleges Count': s.viewedColleges?.length || 0,
+      'Saved Colleges Count': s.savedColleges?.length || 0
+    }));
+    const ws = XLSX.utils.json_to_sheet(data);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Student CRM Leads");
+    XLSX.writeFile(wb, "Student_CRM_Leads.xlsx");
+    logActivity(currentUser.name, currentUser.role, "Excel Export", "Downloaded Student CRM leads spreadsheet.");
+    showToast("Downloaded Student CRM leads spreadsheet!", "success");
+  };
+
+  // Create Student Lead
+  const handleCreateLead = async (e) => {
+    e.preventDefault();
+    if (!newLeadName || !newLeadEmail) {
+      showToast("Name and email are required", "warning");
+      return;
+    }
+    const res = await addStudentLead({
+      name: newLeadName,
+      email: newLeadEmail,
+      phone: newLeadPhone,
+      city: newLeadCity,
+      state: newLeadState,
+      courseInterest: newLeadCourse,
+      adminNotes: newLeadNotes,
+      leadStatus: 'New Lead'
+    });
+    if (res.success) {
+      showToast(`Student lead "${newLeadName}" added successfully!`, "success");
+      setShowAddLeadModal(false);
+      setNewLeadName('');
+      setNewLeadEmail('');
+      setNewLeadPhone('');
+      setNewLeadCity('');
+      setNewLeadState('');
+      setNewLeadCourse('');
+      setNewLeadNotes('');
+    }
+  };
+
+  // Shiksha Live Extractor Trigger
+  const handleTriggerShikshaScrape = async (e) => {
+    e.preventDefault();
+    if (!shikshaUrlInput.trim()) {
+      showToast("Please enter a valid Shiksha URL", "warning");
+      return;
+    }
+    setShikshaLoading(true);
+    setShikshaError('');
+    setShikshaExtracted(null);
+
+    try {
+      const res = await fetch('http://localhost:5000/api/colleges/scrape-shiksha', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ url: shikshaUrlInput.trim(), saveToDb: shikshaAutoSave })
+      });
+      const data = await res.json();
+      if (!res.ok) {
+        throw new Error(data.error || "Failed to extract Shiksha data");
+      }
+      setShikshaExtracted(data.college);
+      showToast(data.message || "Successfully extracted college details & images from Shiksha!", "success");
+      logActivity(currentUser.name, currentUser.role, "Web Scrape", `Extracted details for ${data.college.name} from Shiksha`);
+    } catch (err) {
+      setShikshaError(err.message);
+      showToast(err.message, "error");
+    } finally {
+      setShikshaLoading(false);
+    }
+  };
+
+  // Download Extracted Shiksha College as Excel
+  const handleDownloadShikshaExcel = () => {
+    if (!shikshaExtracted) return;
+    const col = shikshaExtracted;
+    const row = {
+      'College Name': col.name,
+      'Shiksha URL': col.collegeUrl,
+      'Official Website': col.officialWebsite,
+      'Logo URL': col.logoUrl,
+      'Banner Image URL': col.bannerUrl,
+      'Gallery Image 1': col.galleryUrls?.[0] || '',
+      'Gallery Image 2': col.galleryUrls?.[1] || '',
+      'Gallery Image 3': col.galleryUrls?.[2] || '',
+      'City': col.city,
+      'State': col.state,
+      'Address': col.address,
+      'Establishment Year': col.establishmentYear,
+      'Ownership': col.ownership,
+      'Approval Status': col.approvalStatus,
+      'Accreditation Details': col.accreditationDetails,
+      'Admission Process': col.admissionProcess,
+      'Entrance Exams': col.entranceExams,
+      'Highest Package': col.highestPackage,
+      'Average Package': col.averagePackage,
+      'Top Recruiters': (col.topRecruiters || []).join(', '),
+      'Facilities': (col.facilities || []).join(', '),
+      'Rankings': col.rankings,
+      'Phone': col.phone,
+      'Email': col.email
+    };
+    const ws = XLSX.utils.json_to_sheet([row]);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Shiksha Extracted College");
+    XLSX.writeFile(wb, `${(col.name || 'College').replace(/[^a-z0-9]/gi, '_')}_Shiksha.xlsx`);
+    showToast("Downloaded extracted college Excel report!", "success");
   };
 
   // Check locking
@@ -854,7 +1002,13 @@ const Admin = () => {
                 className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'students' ? 'active' : 'text-secondary'}`}
                 onClick={() => setActiveTab('students')}
               >
-                🎓 Student Profiles
+                🎓 Student CRM & Leads
+              </Nav.Link>
+              <Nav.Link 
+                className={`py-2 px-3 rounded-pill fw-semibold ${activeTab === 'shiksha' ? 'active' : 'text-secondary'}`}
+                onClick={() => setActiveTab('shiksha')}
+              >
+                🕷️ Shiksha Extractor
               </Nav.Link>
               {hasAccess('superadmin') && (
                 <Nav.Link 
@@ -1408,13 +1562,26 @@ const Admin = () => {
             </div>
           )}
 
-          {/* TAB 4: STUDENT PROFILES */}
+          {/* TAB 4: STUDENT CRM & LEADS */}
           {activeTab === 'students' && (
             <div>
-              <div className="d-flex justify-content-between align-items-center mb-4">
+              <div className="d-flex flex-wrap justify-content-between align-items-center mb-4 gap-2">
                 <div>
-                  <h4 className="fw-bold mb-1">Captured Student Profile Panel</h4>
-                  <p className="text-secondary small">Review student detail view cards, search logs, saved colleges telemetry, and write follow-up notes.</p>
+                  <h4 className="fw-bold mb-1 text-primary d-flex align-items-center">
+                    <FaUserGraduate className="me-2 text-primary" /> Student CRM & Lead Follow-ups
+                  </h4>
+                  <p className="text-secondary small mb-0">Manage registered student leads, track session telemetry, update sales pipeline status, and log counselor notes.</p>
+                </div>
+                <div className="d-flex gap-2">
+                  <Button variant="primary" size="sm" className="fw-bold rounded-pill" onClick={() => setShowAddLeadModal(true)}>
+                    <FaPlus className="me-1" /> Add Student Lead
+                  </Button>
+                  <Button variant="success" size="sm" className="fw-bold rounded-pill" onClick={handleExportStudentsToExcel}>
+                    <FaFileExcel className="me-1" /> Export Leads (Excel)
+                  </Button>
+                  <Button variant="outline-secondary" size="sm" className="rounded-pill" onClick={() => fetchStudents && fetchStudents()}>
+                    <FaSyncAlt />
+                  </Button>
                 </div>
               </div>
 
@@ -1422,34 +1589,65 @@ const Admin = () => {
                 {/* Left Side: Students List */}
                 <Col md={4}>
                   <Card className="border-0 shadow-sm p-3 mb-4">
-                    <Form.Group className="mb-3">
+                    <Form.Group className="mb-2">
                       <InputGroup size="sm">
-                        <InputGroup.Text><FaSearch/></InputGroup.Text>
+                        <InputGroup.Text><FaSearch /></InputGroup.Text>
                         <Form.Control 
-                          placeholder="Search by name, email..." 
+                          placeholder="Search name, email, phone..." 
                           value={studentSearch}
                           onChange={(e) => setStudentSearch(e.target.value)}
                         />
                       </InputGroup>
                     </Form.Group>
-                    
-                    <div className="list-group list-group-flush" style={{ maxHeight: '450px', overflowY: 'auto' }}>
-                      {filteredStudents.map(s => (
-                        <button 
-                          key={s.id} 
-                          onClick={() => selectStudentForDetail(s)}
-                          className={`list-group-item list-group-item-action border-0 px-2 py-3 rounded mb-2 text-start ${selectedStudent?.id === s.id ? 'bg-primary text-white' : ''}`}
+
+                    {/* Status filter pills */}
+                    <div className="mb-3 d-flex flex-wrap gap-1">
+                      {['', 'New Lead', 'Contacted', 'In Discussion', 'Enrolled'].map((st) => (
+                        <Badge 
+                          key={st}
+                          bg={leadStatusFilter === st ? 'primary' : 'light'} 
+                          text={leadStatusFilter === st ? 'white' : 'dark'}
+                          className="border cursor-pointer px-2 py-1"
+                          style={{ cursor: 'pointer', fontSize: '11px' }}
+                          onClick={() => setLeadStatusFilter(st)}
                         >
-                          <div className="fw-bold">{s.name}</div>
-                          <div className={`small ${selectedStudent?.id === s.id ? 'text-white-50' : 'text-muted'}`}>{s.email}</div>
-                          <div className="mt-1 d-flex justify-content-between">
-                            <Badge bg={selectedStudent?.id === s.id ? 'light' : 'primary'} text={selectedStudent?.id === s.id ? 'dark' : 'white'}>
-                              {s.courseInterest}
-                            </Badge>
-                            <span className="small" style={{ fontSize: '10px' }}>Active: {s.lastActiveTime.split(',')[0]}</span>
-                          </div>
-                        </button>
+                          {st || 'All Leads'}
+                        </Badge>
                       ))}
+                    </div>
+                    
+                    <div className="list-group list-group-flush" style={{ maxHeight: '500px', overflowY: 'auto' }}>
+                      {filteredStudents.length === 0 ? (
+                        <div className="text-center text-muted p-4 small">No matching student leads found.</div>
+                      ) : (
+                        filteredStudents.map(s => {
+                          const statusColor = s.leadStatus === 'Enrolled' ? 'success' : s.leadStatus === 'Contacted' ? 'warning' : s.leadStatus === 'In Discussion' ? 'primary' : 'info';
+                          return (
+                            <button 
+                              key={s.id} 
+                              onClick={() => selectStudentForDetail(s)}
+                              className={`list-group-item list-group-item-action border-0 px-3 py-3 rounded mb-2 text-start ${selectedStudent?.id === s.id ? 'bg-primary text-white' : 'bg-light'}`}
+                            >
+                              <div className="d-flex justify-content-between align-items-center mb-1">
+                                <div className="fw-bold">{s.name}</div>
+                                <Badge bg={selectedStudent?.id === s.id ? 'light' : statusColor} text={selectedStudent?.id === s.id ? 'dark' : 'white'}>
+                                  {s.leadStatus || 'New Lead'}
+                                </Badge>
+                              </div>
+                              <div className={`small ${selectedStudent?.id === s.id ? 'text-white-50' : 'text-muted'}`}>{s.email}</div>
+                              {s.mobile && (
+                                <div className={`small ${selectedStudent?.id === s.id ? 'text-white-50' : 'text-muted'}`}>📞 {s.mobile}</div>
+                              )}
+                              <div className="mt-2 d-flex justify-content-between align-items-center">
+                                <span className="small badge bg-white text-dark border">
+                                  {s.courseInterest || 'General'}
+                                </span>
+                                <span className="small" style={{ fontSize: '10px' }}>Active: {s.lastActiveTime?.split(' ')[0] || 'Today'}</span>
+                              </div>
+                            </button>
+                          );
+                        })
+                      )}
                     </div>
                   </Card>
                 </Col>
@@ -1460,10 +1658,35 @@ const Admin = () => {
                     <Card className="border-0 shadow-sm p-4">
                       <div className="d-flex justify-content-between align-items-start border-bottom pb-3 mb-4">
                         <div>
-                          <h4 className="fw-bold text-primary">{selectedStudent.name}</h4>
-                          <span className="text-muted small">Student ID: {selectedStudent.id}</span>
+                          <h4 className="fw-bold text-primary mb-1">{selectedStudent.name}</h4>
+                          <span className="text-muted small">Lead ID #{selectedStudent.id} • Registered {selectedStudent.loginTime}</span>
                         </div>
-                        <Badge bg="success" className="py-2 px-3">ACTIVE SESSION</Badge>
+                        <div className="d-flex gap-2 align-items-center">
+                          <Form.Select 
+                            size="sm" 
+                            value={leadStatusDraft}
+                            onChange={(e) => setLeadStatusDraft(e.target.value)}
+                            className="fw-bold border-primary"
+                            style={{ width: '150px' }}
+                          >
+                            <option value="New Lead">🔵 New Lead</option>
+                            <option value="Contacted">🟡 Contacted</option>
+                            <option value="In Discussion">🟣 In Discussion</option>
+                            <option value="Enrolled">🟢 Enrolled</option>
+                            <option value="Closed">⚪ Closed</option>
+                          </Form.Select>
+                          {hasAccess('admin') && (
+                            <Button variant="outline-danger" size="sm" onClick={() => {
+                              if (window.confirm(`Delete lead record for ${selectedStudent.name}?`)) {
+                                deleteStudent(selectedStudent.id);
+                                setSelectedStudent(null);
+                                showToast("Student lead deleted.", "info");
+                              }
+                            }}>
+                              <FaTrash />
+                            </Button>
+                          )}
+                        </div>
                       </div>
 
                       <Row className="mb-4">
@@ -1471,37 +1694,61 @@ const Admin = () => {
                           <div className="small text-muted">EMAIL</div>
                           <div className="fw-bold mb-3">{selectedStudent.email}</div>
                           
-                          <div className="small text-muted">PHONE</div>
-                          <div className="fw-bold mb-3">{selectedStudent.mobile}</div>
+                          <div className="small text-muted">PHONE NUMBER</div>
+                          <div className="fw-bold mb-3">{selectedStudent.mobile || 'N/A'}</div>
                           
                           <div className="small text-muted">LOCATION</div>
-                          <div className="fw-bold mb-3">{selectedStudent.city}, {selectedStudent.state}</div>
+                          <div className="fw-bold mb-3">{selectedStudent.city || 'India'}, {selectedStudent.state || ''}</div>
                         </Col>
                         <Col sm={6}>
                           <div className="small text-muted">COURSE INTEREST</div>
-                          <div className="fw-bold mb-3 text-indigo-400">{selectedStudent.courseInterest}</div>
+                          <div className="fw-bold mb-3 text-primary">{selectedStudent.courseInterest || 'Any Course'}</div>
                           
                           <div className="small text-muted">EXAM INTEREST</div>
-                          <div className="fw-bold mb-3 text-info">{selectedStudent.examInterest}</div>
+                          <div className="fw-bold mb-3 text-info">{selectedStudent.examInterest || 'Direct / Merit'}</div>
                           
-                          <div className="small text-muted">LAST LOGIN</div>
-                          <div className="fw-bold mb-3">{selectedStudent.loginTime}</div>
+                          <div className="small text-muted">PIPELINE STATUS</div>
+                          <div className="fw-bold mb-3">
+                            <Badge bg={leadStatusDraft === 'Enrolled' ? 'success' : leadStatusDraft === 'Contacted' ? 'warning' : 'primary'}>
+                              {leadStatusDraft}
+                            </Badge>
+                          </div>
                         </Col>
                       </Row>
 
                       {/* Telemetry tabs */}
-                      <Tab.Container defaultActiveKey="search">
+                      <Tab.Container defaultActiveKey="notes">
                         <Nav variant="tabs" className="mb-3">
-                          <Nav.Item><Nav.Link eventKey="search" className="small">Search History</Nav.Link></Nav.Item>
-                          <Nav.Item><Nav.Link eventKey="viewed" className="small">Viewed ({selectedStudent.viewedColleges?.length || 0})</Nav.Link></Nav.Item>
-                          <Nav.Item><Nav.Link eventKey="saved" className="small">Saved Colleges</Nav.Link></Nav.Item>
-                          <Nav.Item><Nav.Link eventKey="downloads" className="small">Downloads</Nav.Link></Nav.Item>
-                          <Nav.Item><Nav.Link eventKey="notes" className="small">Admin Notes</Nav.Link></Nav.Item>
+                          <Nav.Item><Nav.Link eventKey="notes" className="small fw-semibold">📝 Counselor Notes</Nav.Link></Nav.Item>
+                          <Nav.Item><Nav.Link eventKey="search" className="small">Search History ({selectedStudent.searchHistory?.length || 0})</Nav.Link></Nav.Item>
+                          <Nav.Item><Nav.Link eventKey="viewed" className="small">Viewed Colleges ({selectedStudent.viewedColleges?.length || 0})</Nav.Link></Nav.Item>
+                          <Nav.Item><Nav.Link eventKey="saved" className="small">Bookmarks ({selectedStudent.savedColleges?.length || 0})</Nav.Link></Nav.Item>
                         </Nav>
 
-                        <Tab.Content className="p-2 border rounded bg-light min-height-150 mb-3" style={{ minHeight: '150px' }}>
+                        <Tab.Content className="p-3 border rounded bg-light mb-3" style={{ minHeight: '180px' }}>
+                          <Tab.Pane eventKey="notes">
+                            <Form.Group className="mb-3">
+                              <Form.Label className="small fw-bold text-muted">Admin & Counselor CRM Notes</Form.Label>
+                              <Form.Control 
+                                as="textarea" 
+                                rows={4} 
+                                value={studentNotesInput} 
+                                onChange={(e) => setStudentNotesInput(e.target.value)}
+                                placeholder="Record call discussions, student requirements, follow-up callbacks, or application documents received..."
+                              />
+                            </Form.Group>
+                            <div className="d-flex justify-content-between align-items-center">
+                              <span className="small text-muted">Status: <strong>{leadStatusDraft}</strong></span>
+                              <Button size="sm" variant="success" className="px-4 fw-bold" onClick={saveStudentNotes}>
+                                Save Notes & Pipeline Status
+                              </Button>
+                            </div>
+                          </Tab.Pane>
+
                           <Tab.Pane eventKey="search">
-                            {selectedStudent.searchHistory?.length === 0 ? <span className="small text-muted p-3">No search history recorded.</span> : (
+                            {!selectedStudent.searchHistory || selectedStudent.searchHistory.length === 0 ? (
+                              <span className="small text-muted p-2 d-block">No search telemetry recorded yet.</span>
+                            ) : (
                               <ul className="mb-0">
                                 {selectedStudent.searchHistory.map((sh, idx) => <li key={idx} className="small py-1">{sh}</li>)}
                               </ul>
@@ -1509,59 +1756,258 @@ const Admin = () => {
                           </Tab.Pane>
                           
                           <Tab.Pane eventKey="viewed">
-                            {selectedStudent.viewedColleges?.length === 0 ? <span className="small text-muted p-3">No page views recorded.</span> : (
+                            {!selectedStudent.viewedColleges || selectedStudent.viewedColleges.length === 0 ? (
+                              <span className="small text-muted p-2 d-block">No page views recorded yet.</span>
+                            ) : (
                               <ul className="mb-0">
                                 {selectedStudent.viewedColleges.map((colId, idx) => {
-                                  const name = colleges.find(c => String(c.id) === String(colId))?.name || `College ID ${colId}`;
-                                  return <li key={idx} className="small py-1">{name}</li>;
+                                  const match = colleges.find(c => String(c.id) === String(colId));
+                                  return <li key={idx} className="small py-1">{match ? match.name : `College ID ${colId}`}</li>;
                                 })}
                               </ul>
                             )}
                           </Tab.Pane>
 
                           <Tab.Pane eventKey="saved">
-                            {selectedStudent.savedColleges?.length === 0 ? <span className="small text-muted p-3">No saved colleges.</span> : (
-                              <div className="d-flex flex-wrap gap-2 p-2">
+                            {!selectedStudent.savedColleges || selectedStudent.savedColleges.length === 0 ? (
+                              <span className="small text-muted p-2 d-block">No saved college bookmarks.</span>
+                            ) : (
+                              <div className="d-flex flex-wrap gap-2 p-1">
                                 {selectedStudent.savedColleges.map((colId, idx) => {
-                                  const name = colleges.find(c => String(c.id) === String(colId))?.name || `College ID ${colId}`;
-                                  return <Badge key={idx} bg="primary" className="py-2 px-3">{name}</Badge>;
+                                  const match = colleges.find(c => String(c.id) === String(colId));
+                                  return <Badge key={idx} bg="primary" className="py-2 px-3">{match ? match.name : `College ID ${colId}`}</Badge>;
                                 })}
                               </div>
                             )}
-                          </Tab.Pane>
-
-                          <Tab.Pane eventKey="downloads">
-                            {selectedStudent.downloadHistory?.length === 0 ? <span className="small text-muted p-3">No downloaded brochures.</span> : (
-                              <ul className="mb-0">
-                                {selectedStudent.downloadHistory.map((dl, idx) => <li key={idx} className="small py-1">Downloaded {dl}</li>)}
-                              </ul>
-                            )}
-                          </Tab.Pane>
-
-                          <Tab.Pane eventKey="notes">
-                            <Form.Group className="mb-3">
-                              <Form.Control 
-                                as="textarea" 
-                                rows={3} 
-                                value={studentNotesInput} 
-                                onChange={(e) => setStudentNotesInput(e.target.value)}
-                                placeholder="Write follow-up notes, exam predictions, or phone logs..."
-                              />
-                            </Form.Group>
-                            <Button size="sm" variant="success" onClick={saveStudentNotes}>
-                              Save Notes
-                            </Button>
                           </Tab.Pane>
                         </Tab.Content>
                       </Tab.Container>
                     </Card>
                   ) : (
                     <Card className="border-0 shadow-sm p-5 text-center text-secondary">
-                      Select a student profile from the list to display captured session records, bookmark details, and notes.
+                      Select a student lead from the list to display contact details, telemetry, and CRM follow-up records.
                     </Card>
                   )}
                 </Col>
               </Row>
+            </div>
+          )}
+
+          {/* TAB: SHIKSHA EXTRACTOR */}
+          {activeTab === 'shiksha' && (
+            <div>
+              <div className="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                  <h4 className="fw-bold mb-1 d-flex align-items-center text-primary">
+                    <FaSpider className="me-2 text-danger" /> Shiksha.com Comprehensive Extractor
+                  </h4>
+                  <p className="text-secondary small mb-0">
+                    Extract each and every detail, campus images, official URLs, courses, fees, placements, and ratings directly from Shiksha.com.
+                  </p>
+                </div>
+                {shikshaExtracted && (
+                  <Button variant="success" size="sm" className="fw-bold rounded-pill" onClick={handleDownloadShikshaExcel}>
+                    <FaFileExcel className="me-1" /> Download Scraped Excel (.xlsx)
+                  </Button>
+                )}
+              </div>
+
+              <Card className="border-0 shadow-sm p-4 mb-4">
+                <Form onSubmit={handleTriggerShikshaScrape}>
+                  <Form.Group className="mb-3">
+                    <Form.Label className="fw-semibold">Shiksha College Overview URL</Form.Label>
+                    <InputGroup>
+                      <InputGroup.Text><FaGlobe className="text-primary" /></InputGroup.Text>
+                      <Form.Control
+                        type="url"
+                        placeholder="e.g. https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938"
+                        value={shikshaUrlInput}
+                        onChange={(e) => setShikshaUrlInput(e.target.value)}
+                        required
+                        disabled={shikshaLoading}
+                      />
+                      <Button variant="primary" type="submit" disabled={shikshaLoading} className="fw-bold px-4">
+                        {shikshaLoading ? (
+                          <>
+                            <Spinner size="sm" animation="border" className="me-2" />
+                            Extracting Live Data...
+                          </>
+                        ) : (
+                          <>
+                            <FaSpider className="me-2" /> Extract All Details & Images
+                          </>
+                        )}
+                      </Button>
+                    </InputGroup>
+                    <Form.Text className="text-muted">
+                      Paste any college or university overview link from Shiksha.com to capture all courses, tuition fees, placements, contacts, and images.
+                    </Form.Text>
+                  </Form.Group>
+
+                  <div className="d-flex align-items-center justify-content-between pt-2">
+                    <Form.Check 
+                      type="switch"
+                      id="shiksha-autosave-switch"
+                      label="Automatically sync & save into Website Directory (siteData.json & SQLite DB)"
+                      checked={shikshaAutoSave}
+                      onChange={(e) => setShikshaAutoSave(e.target.checked)}
+                      className="fw-semibold text-dark"
+                    />
+                    <div className="d-flex gap-2">
+                      <Button 
+                        variant="outline-secondary" 
+                        size="sm" 
+                        onClick={() => setShikshaUrlInput('https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938')}
+                      >
+                        Sample: IIT Delhi
+                      </Button>
+                      <Button 
+                        variant="outline-secondary" 
+                        size="sm" 
+                        onClick={() => setShikshaUrlInput('https://www.shiksha.com/college/indian-institute-of-management-ahmedabad-vastrapur-2917')}
+                      >
+                        Sample: IIM Ahmedabad
+                      </Button>
+                    </div>
+                  </div>
+                </Form>
+              </Card>
+
+              {shikshaError && (
+                <Alert variant="danger" dismissible onClose={() => setShikshaError('')}>
+                  <FaExclamationTriangle className="me-2" />
+                  <strong>Extraction Warning:</strong> {shikshaError}
+                </Alert>
+              )}
+
+              {shikshaLoading && (
+                <Card className="border-0 shadow-sm p-5 text-center my-4">
+                  <div className="py-4">
+                    <Spinner animation="border" variant="primary" style={{ width: '3rem', height: '3rem' }} />
+                    <h5 className="fw-bold mt-3 mb-1 text-dark">Crawling Shiksha.com Multi-Page Profile...</h5>
+                    <p className="text-muted small">
+                      Scraping Overview, Gallery Images, Courses & Tuition Fees, Placements, Admissions, and Cutoffs with stealth browser...
+                    </p>
+                  </div>
+                </Card>
+              )}
+
+              {shikshaExtracted && (
+                <Card className="border-0 shadow-sm p-4 mb-4">
+                  <div className="d-flex justify-content-between align-items-start border-bottom pb-3 mb-4">
+                    <div className="d-flex gap-3 align-items-center">
+                      {shikshaExtracted.logoUrl && shikshaExtracted.logoUrl !== 'N/A' && (
+                        <img 
+                          src={shikshaExtracted.logoUrl} 
+                          alt="Logo" 
+                          style={{ width: '60px', height: '60px', objectFit: 'contain', borderRadius: '8px', border: '1px solid #dee2e6', padding: '2px', background: '#fff' }} 
+                        />
+                      )}
+                      <div>
+                        <h4 className="fw-bold text-dark mb-1">{shikshaExtracted.name}</h4>
+                        <div className="d-flex flex-wrap gap-2 align-items-center small text-muted">
+                          <span className="badge bg-primary">{shikshaExtracted.universityType || shikshaExtracted.ownership || 'Institute'}</span>
+                          <span>📍 {shikshaExtracted.city}, {shikshaExtracted.state}</span>
+                          {shikshaExtracted.establishmentYear && <span>🏛️ Estd. {shikshaExtracted.establishmentYear}</span>}
+                          {shikshaExtracted.officialWebsite && (
+                            <a href={shikshaExtracted.officialWebsite} target="_blank" rel="noreferrer" className="text-decoration-none">
+                              🌐 Official Website <FaExternalLinkAlt size={10} />
+                            </a>
+                          )}
+                        </div>
+                      </div>
+                    </div>
+                    <Button variant="success" size="sm" onClick={handleDownloadShikshaExcel}>
+                      <FaDownload className="me-1" /> Export Excel
+                    </Button>
+                  </div>
+
+                  {/* Banner & Gallery */}
+                  <Row className="g-3 mb-4">
+                    <Col md={6}>
+                      <div className="small fw-semibold text-muted mb-2">CAMPUS BANNER IMAGE</div>
+                      {shikshaExtracted.bannerUrl && shikshaExtracted.bannerUrl !== 'N/A' ? (
+                        <img 
+                          src={shikshaExtracted.bannerUrl} 
+                          alt="Campus Banner" 
+                          className="w-100 rounded shadow-sm" 
+                          style={{ maxHeight: '220px', objectFit: 'cover' }} 
+                        />
+                      ) : (
+                        <div className="p-4 bg-light text-center text-muted rounded">No exterior banner found</div>
+                      )}
+                    </Col>
+                    <Col md={6}>
+                      <div className="small fw-semibold text-muted mb-2">GALLERY IMAGES ({shikshaExtracted.galleryUrls?.length || 0})</div>
+                      <div className="d-flex flex-wrap gap-2">
+                        {(shikshaExtracted.galleryUrls || []).slice(0, 4).map((g, idx) => (
+                          <img 
+                            key={idx} 
+                            src={g} 
+                            alt={`Gallery ${idx + 1}`} 
+                            style={{ width: '100px', height: '70px', objectFit: 'cover', borderRadius: '6px' }} 
+                          />
+                        ))}
+                      </div>
+                    </Col>
+                  </Row>
+
+                  {/* Metrics Row */}
+                  <Row className="g-3 mb-4 text-center">
+                    <Col sm={3}>
+                      <Card className="p-3 bg-light border-0">
+                        <small className="text-muted fw-bold">HIGHEST CTC</small>
+                        <h6 className="fw-bold text-success mb-0">{shikshaExtracted.highestPackage || 'N/A'}</h6>
+                      </Card>
+                    </Col>
+                    <Col sm={3}>
+                      <Card className="p-3 bg-light border-0">
+                        <small className="text-muted fw-bold">AVERAGE CTC</small>
+                        <h6 className="fw-bold text-primary mb-0">{shikshaExtracted.averagePackage || 'N/A'}</h6>
+                      </Card>
+                    </Col>
+                    <Col sm={3}>
+                      <Card className="p-3 bg-light border-0">
+                        <small className="text-muted fw-bold">ENTRANCE EXAMS</small>
+                        <h6 className="fw-bold text-dark mb-0">{shikshaExtracted.entranceExams || 'Merit / Direct'}</h6>
+                      </Card>
+                    </Col>
+                    <Col sm={3}>
+                      <Card className="p-3 bg-light border-0">
+                        <small className="text-muted fw-bold">RANKINGS</small>
+                        <h6 className="fw-bold text-warning mb-0">{shikshaExtracted.rankings || 'Top Tier'}</h6>
+                      </Card>
+                    </Col>
+                  </Row>
+
+                  {/* Courses Extracted */}
+                  <h6 className="fw-bold text-dark mb-3">Courses & Fee Structure Captured ({shikshaExtracted.coursesOffered?.length || 0})</h6>
+                  <div className="table-responsive">
+                    <Table size="sm" hover className="align-middle">
+                      <thead className="table-light">
+                        <tr>
+                          <th>Course Name</th>
+                          <th>Duration</th>
+                          <th>Total Tuition Fees</th>
+                          <th>Eligibility</th>
+                          <th>Accepted Exams</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {(shikshaExtracted.coursesOffered || []).map((co, idx) => (
+                          <tr key={idx}>
+                            <td className="fw-semibold text-primary">{co.title}</td>
+                            <td>{co.duration}</td>
+                            <td className="fw-bold text-dark">{co.fees}</td>
+                            <td className="small">{co.eligibility}</td>
+                            <td><Badge bg="light" text="dark" className="border">{co.exams}</Badge></td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </Table>
+                  </div>
+                </Card>
+              )}
             </div>
           )}
 
@@ -2109,6 +2555,92 @@ const Admin = () => {
           <Button variant="outline-secondary" onClick={() => setShowPreviewModal(false)}>Close Preview</Button>
           <Button variant="success" onClick={executeBulkImport}>Confirm Import Success</Button>
         </Modal.Footer>
+      </Modal>
+
+      {/* ADD STUDENT LEAD MODAL */}
+      <Modal show={showAddLeadModal} onHide={() => setShowAddLeadModal(false)} centered style={{ color: '#333' }}>
+        <Modal.Header closeButton className="bg-light">
+          <Modal.Title className="fw-bold text-primary">
+            <FaUserGraduate className="me-2" /> Add New Student Lead
+          </Modal.Title>
+        </Modal.Header>
+        <Form onSubmit={handleCreateLead}>
+          <Modal.Body className="p-4">
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold">Student Full Name *</Form.Label>
+              <Form.Control 
+                placeholder="e.g. Rahul Verma"
+                value={newLeadName}
+                onChange={(e) => setNewLeadName(e.target.value)}
+                required
+              />
+            </Form.Group>
+
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold">Email Address *</Form.Label>
+              <Form.Control 
+                type="email"
+                placeholder="rahul.verma@gmail.com"
+                value={newLeadEmail}
+                onChange={(e) => setNewLeadEmail(e.target.value)}
+                required
+              />
+            </Form.Group>
+
+            <Row className="g-3 mb-3">
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Phone / Mobile</Form.Label>
+                <Form.Control 
+                  placeholder="+91 98765 43210"
+                  value={newLeadPhone}
+                  onChange={(e) => setNewLeadPhone(e.target.value)}
+                />
+              </Col>
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Course Interest</Form.Label>
+                <Form.Control 
+                  placeholder="e.g. MBA, B.Tech CSE"
+                  value={newLeadCourse}
+                  onChange={(e) => setNewLeadCourse(e.target.value)}
+                />
+              </Col>
+            </Row>
+
+            <Row className="g-3 mb-3">
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">City</Form.Label>
+                <Form.Control 
+                  placeholder="e.g. Mumbai"
+                  value={newLeadCity}
+                  onChange={(e) => setNewLeadCity(e.target.value)}
+                />
+              </Col>
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">State</Form.Label>
+                <Form.Control 
+                  placeholder="e.g. Maharashtra"
+                  value={newLeadState}
+                  onChange={(e) => setNewLeadState(e.target.value)}
+                />
+              </Col>
+            </Row>
+
+            <Form.Group className="mb-2">
+              <Form.Label className="small fw-semibold">Initial Counselor Notes</Form.Label>
+              <Form.Control 
+                as="textarea"
+                rows={2}
+                placeholder="Details of student interest, budget, or preferred entrance exams..."
+                value={newLeadNotes}
+                onChange={(e) => setNewLeadNotes(e.target.value)}
+              />
+            </Form.Group>
+          </Modal.Body>
+          <Modal.Footer className="bg-light">
+            <Button variant="outline-secondary" onClick={() => setShowAddLeadModal(false)}>Cancel</Button>
+            <Button variant="primary" type="submit" className="fw-bold px-4">Create Lead</Button>
+          </Modal.Footer>
+        </Form>
       </Modal>
     </div>
   );

@@ -44,6 +44,7 @@ async function main() {
     data: { email: "aarav.sharma@gmail.com", name: "Aarav Sharma", role: "STUDENT", password: studentPassword }
   });
 
+  const sampleColleges = [
     {
       name: "Indian Institute of Technology Bombay",
       shortName: "IITB",

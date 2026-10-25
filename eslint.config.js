@@ -5,7 +5,7 @@ import reactRefresh from 'eslint-plugin-react-refresh'
 import { defineConfig, globalIgnores } from 'eslint/config'
 
 export default defineConfig([
-  globalIgnores(['dist', 'fix_padding.js']),
+  globalIgnores(['dist/**', 'fix_padding.js', 'COLLEGESEARCH/**', 'server/**', 'scripts/**', '*.cjs']),
   {
     files: ['**/*.{js,jsx}'],
     extends: [

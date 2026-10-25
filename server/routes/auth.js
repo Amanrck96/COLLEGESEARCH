@@ -102,4 +102,154 @@ router.get('/profile', async (req, res) => {
   }
 });
 
+// GET /api/auth/students - Admin CRM Student Listing
+router.get('/students', async (req, res) => {
+  try {
+    const students = await prisma.user.findMany({
+      where: { role: "STUDENT" },
+      orderBy: { createdAt: 'desc' },
+      select: {
+        id: true,
+        name: true,
+        email: true,
+        phone: true,
+        city: true,
+        state: true,
+        courseInterest: true,
+        examInterest: true,
+        leadStatus: true,
+        adminNotes: true,
+        createdAt: true,
+        bookmarks: {
+          include: {
+            college: {
+              select: { id: true, name: true, location: true, state: true }
+            }
+          }
+        },
+        auditLogs: {
+          orderBy: { timestamp: 'desc' },
+          take: 10,
+          select: { id: true, action: true, details: true, timestamp: true }
+        }
+      }
+    });
+
+    const formatted = students.map(s => ({
+      id: s.id,
+      name: s.name,
+      email: s.email,
+      mobile: s.phone || "+91 98765 00000",
+      city: s.city || "Mumbai",
+      state: s.state || "Maharashtra",
+      courseInterest: s.courseInterest || "B.Tech Computer Science",
+      examInterest: s.examInterest || "JEE Main",
+      leadStatus: s.leadStatus || "New Lead",
+      loginTime: s.createdAt.toISOString().replace('T', ' ').substring(0, 19),
+      lastActiveTime: s.auditLogs[0] ? s.auditLogs[0].timestamp.toISOString().replace('T', ' ').substring(0, 19) : s.createdAt.toISOString().replace('T', ' ').substring(0, 19),
+      searchHistory: s.auditLogs.filter(l => l.action.toLowerCase().includes('search')).map(l => l.details),
+      viewedColleges: s.bookmarks.map(b => b.college.id),
+      savedColleges: s.bookmarks.map(b => b.college.id),
+      savedCollegesList: s.bookmarks.map(b => b.college),
+      adminNotes: s.adminNotes || "",
+      compareHistory: [],
+      downloadHistory: []
+    }));
+
+    res.status(200).json(formatted);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// POST /api/auth/students - Create a new student lead manually
+router.post('/students', async (req, res) => {
+  const { name, email, phone, city, state, courseInterest, examInterest, adminNotes, leadStatus } = req.body;
+  if (!name || !email) {
+    return res.status(400).json({ error: "Name and email are required" });
+  }
+
+  try {
+    const existing = await prisma.user.findUnique({ where: { email } });
+    if (existing) {
+      return res.status(400).json({ error: "Student with this email already exists" });
+    }
+
+    const defaultPassword = await bcrypt.hash("student123", 10);
+    const newStudent = await prisma.user.create({
+      data: {
+        name,
+        email,
+        password: defaultPassword,
+        role: "STUDENT",
+        phone: phone || "",
+        city: city || "",
+        state: state || "",
+        courseInterest: courseInterest || "",
+        examInterest: examInterest || "",
+        adminNotes: adminNotes || "",
+        leadStatus: leadStatus || "New Lead"
+      }
+    });
+
+    await prisma.auditLog.create({
+      data: {
+        action: "Admin Created Student",
+        userId: newStudent.id,
+        details: `Manual student lead added by Admin CRM: ${name} (${email})`
+      }
+    });
+
+    res.status(201).json({ success: true, student: newStudent });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// PUT /api/auth/students/:id/notes - Save Admin Notes and Lead Status
+router.put('/students/:id/notes', async (req, res) => {
+  const { id } = req.params;
+  const { adminNotes, leadStatus, phone, city, state, courseInterest } = req.body;
+
+  try {
+    const updated = await prisma.user.update({
+      where: { id: parseInt(id) },
+      data: {
+        ...(adminNotes !== undefined && { adminNotes }),
+        ...(leadStatus !== undefined && { leadStatus }),
+        ...(phone !== undefined && { phone }),
+        ...(city !== undefined && { city }),
+        ...(state !== undefined && { state }),
+        ...(courseInterest !== undefined && { courseInterest })
+      }
+    });
+
+    await prisma.auditLog.create({
+      data: {
+        action: "Admin Notes Updated",
+        userId: parseInt(id),
+        details: `Admin CRM notes updated: ${leadStatus || 'Status Updated'}`
+      }
+    });
+
+    res.status(200).json({ success: true, student: updated });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// DELETE /api/auth/students/:id - Delete Student record
+router.delete('/students/:id', async (req, res) => {
+  const { id } = req.params;
+  try {
+    await prisma.user.delete({
+      where: { id: parseInt(id) }
+    });
+    res.status(200).json({ success: true, message: `Student ID ${id} deleted` });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 export default router;
+

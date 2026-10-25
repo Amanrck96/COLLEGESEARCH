@@ -119,7 +119,23 @@ export const AuthProvider = ({ children }) => {
     return saved ? mergeStaffUsers(decryptState(saved)) : DEFAULT_STAFF_USERS;
   });
 
+  const fetchStudents = async () => {
+    try {
+      const res = await fetch('http://localhost:5000/api/auth/students');
+      if (res.ok) {
+        const data = await res.json();
+        if (Array.isArray(data) && data.length > 0) {
+          setStudents(data);
+          return data;
+        }
+      }
+    } catch (e) {
+      console.warn("Could not fetch remote students from backend:", e.message);
+    }
+  };
+
   useEffect(() => {
+    fetchStudents();
     const token = localStorage.getItem('token');
     if (token) {
       fetch('http://localhost:5000/api/auth/profile', {
@@ -358,13 +374,74 @@ export const AuthProvider = ({ children }) => {
     logActivity(currentUser.name, "Student", actionType, detailsText);
   };
 
-  const updateStudentNotes = (id, notes) => {
-    setStudents(prev => prev.map(s => s.id === id ? { ...s, adminNotes: notes } : s));
+  const updateStudentNotes = async (id, notes, status) => {
+    setStudents(prev => prev.map(s => s.id === id ? { 
+      ...s, 
+      adminNotes: notes !== undefined ? notes : s.adminNotes,
+      leadStatus: status !== undefined ? status : (s.leadStatus || "New Lead")
+    } : s));
+
+    try {
+      await fetch(`http://localhost:5000/api/auth/students/${id}/notes`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ adminNotes: notes, leadStatus: status })
+      });
+    } catch (e) {
+      console.warn("Could not sync student notes to backend:", e.message);
+    }
+
     logActivity(currentUser?.name || "System", currentUser?.role || "Admin", "Admin Action", `Updated notes for student ID: ${id}`);
   };
 
-  const deleteStudent = (id) => {
+  const addStudentLead = async (leadData) => {
+    try {
+      const res = await fetch('http://localhost:5000/api/auth/students', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(leadData)
+      });
+      if (res.ok) {
+        await fetchStudents();
+        return { success: true };
+      }
+    } catch (e) {
+      console.warn("Could not add lead to backend:", e.message);
+    }
+
+    // Local fallback
+    const newLead = {
+      id: Date.now(),
+      name: leadData.name,
+      email: leadData.email,
+      mobile: leadData.phone || "+91 98765 00000",
+      city: leadData.city || "Mumbai",
+      state: leadData.state || "Maharashtra",
+      courseInterest: leadData.courseInterest || "General",
+      examInterest: leadData.examInterest || "Entrance",
+      leadStatus: leadData.leadStatus || "New Lead",
+      adminNotes: leadData.adminNotes || "",
+      loginTime: new Date().toISOString().replace('T', ' ').substring(0, 19),
+      lastActiveTime: new Date().toISOString().replace('T', ' ').substring(0, 19),
+      searchHistory: [],
+      viewedColleges: [],
+      savedColleges: [],
+      compareHistory: [],
+      downloadHistory: []
+    };
+    setStudents(prev => [newLead, ...prev]);
+    return { success: true };
+  };
+
+  const deleteStudent = async (id) => {
     setStudents(prev => prev.filter(s => s.id !== id));
+    try {
+      await fetch(`http://localhost:5000/api/auth/students/${id}`, {
+        method: 'DELETE'
+      });
+    } catch (e) {
+      console.warn("Could not delete student from backend:", e.message);
+    }
     logActivity(currentUser?.name || "System", currentUser?.role || "Admin", "Admin Action", `Deleted student profile ID: ${id}`);
   };
 
@@ -375,12 +452,14 @@ export const AuthProvider = ({ children }) => {
       activityLogs,
       usersList,
       setStudents,
+      fetchStudents,
       handleLogin,
       handleLogout,
       handleSignup,
       logActivity,
       trackStudentActivity,
       updateStudentNotes,
+      addStudentLead,
       deleteStudent,
       updateStaffPassword
     }}>
