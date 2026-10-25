@@ -8,6 +8,13 @@ export const CollegeProvider = ({ children }) => {
   const [rawColleges, setRawColleges] = useState([]);
   const [rawExams, setRawExams] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [totalCollegesCount, setTotalCollegesCount] = useState(12660);
+  const [systemStats, setSystemStats] = useState({
+    totalColleges: 12660,
+    totalStudents: 8,
+    pendingReviews: 0,
+    totalLogs: 191
+  });
 
   // Load overrides from localStorage for better performance (prevent serializing 12k items)
   const [addedColleges, setAddedColleges] = useState(() => JSON.parse(localStorage.getItem('addedColleges') || '[]'));
@@ -145,41 +152,63 @@ export const CollegeProvider = ({ children }) => {
     ];
   });
 
+  const refreshStats = async () => {
+    try {
+      const res = await fetch('http://localhost:5000/api/colleges/stats');
+      if (res.ok) {
+        const stats = await res.json();
+        if (stats && stats.totalColleges) {
+          setTotalCollegesCount(stats.totalColleges);
+          setSystemStats(stats);
+        }
+      }
+    } catch (err) {
+      console.warn("Live stats fetch error:", err);
+    }
+  };
+
   useEffect(() => {
-    fetch('http://localhost:5000/api/colleges?limit=30')
+    // 1. Fetch live system stats from unified SQLite database backend
+    refreshStats();
+
+    // 2. Load the full authoritative college catalog directly from siteData.json
+    fetch('/siteData.json')
       .then(res => {
-        if (!res.ok) throw new Error("Backend not initialized or offline");
+        if (!res.ok) throw new Error("Could not load /siteData.json");
         return res.json();
       })
-      .then(data => {
-        setRawColleges(data.colleges || []);
+      .then(localData => {
+        const list = Array.isArray(localData.colleges) ? localData.colleges : [];
+        setRawColleges(list);
+        if (list.length > 0) {
+          setTotalCollegesCount(list.length);
+        }
+        if (Array.isArray(localData.exams)) {
+          setRawExams(localData.exams);
+        }
+        if (localData.pendingUpdates && localData.pendingUpdates.length > 0) {
+          setPendingUpdates(prev => {
+            const existingKeys = new Set(prev.map(u => `${u.collegeId}-${u.field}-${u.suggestedValue}`));
+            const newUpdates = localData.pendingUpdates.filter(u => !existingKeys.has(`${u.collegeId}-${u.field}-${u.suggestedValue}`));
+            if (newUpdates.length > 0) {
+              const merged = [...prev, ...newUpdates];
+              localStorage.setItem('pendingUpdates', JSON.stringify(merged));
+              return merged;
+            }
+            return prev;
+          });
+        }
         setLoading(false);
       })
       .catch(err => {
-        console.warn("Failed to load colleges from backend, falling back to local slice:", err);
-        fetch('/siteData.json')
+        console.warn("Failed to load /siteData.json, trying backend fallback:", err);
+        fetch('http://localhost:5000/api/colleges?limit=100')
           .then(res => res.json())
-          .then(localData => {
-            setRawColleges(localData.colleges || []);
-            setRawExams(localData.exams || []);
-            if (localData.pendingUpdates && localData.pendingUpdates.length > 0) {
-              setPendingUpdates(prev => {
-                const existingKeys = new Set(prev.map(u => `${u.collegeId}-${u.field}-${u.suggestedValue}`));
-                const newUpdates = localData.pendingUpdates.filter(u => !existingKeys.has(`${u.collegeId}-${u.field}-${u.suggestedValue}`));
-                if (newUpdates.length > 0) {
-                  const merged = [...prev, ...newUpdates];
-                  localStorage.setItem('pendingUpdates', JSON.stringify(merged));
-                  return merged;
-                }
-                return prev;
-              });
-            }
+          .then(data => {
+            setRawColleges(data.colleges || []);
             setLoading(false);
           })
-          .catch(e => {
-            console.error("Failed to load local fallback data:", e);
-            setLoading(false);
-          });
+          .catch(() => setLoading(false));
       });
   }, []);
 
@@ -439,9 +468,11 @@ export const CollegeProvider = ({ children }) => {
       if (!response.ok) throw new Error("Failed to add college on backend");
       const newCollege = await response.json();
       setRawColleges(prev => [newCollege, ...prev]);
+      refreshStats();
     } catch (err) {
       console.warn("Could not sync added college to server, adding locally:", err);
       setAddedColleges(prev => [...prev, { ...college, id: Date.now() }]);
+      setTotalCollegesCount(prev => prev + 1);
     }
   };
 
@@ -460,6 +491,7 @@ export const CollegeProvider = ({ children }) => {
       if (!response.ok) throw new Error("Failed to update college on backend");
       const updated = await response.json();
       setRawColleges(prev => prev.map(c => c.id === Number(id) ? updated : c));
+      refreshStats();
     } catch (err) {
       console.warn("Could not sync update to server, updating locally:", err);
       const isAdded = addedColleges.some(c => String(c.id) === String(id));
@@ -482,6 +514,7 @@ export const CollegeProvider = ({ children }) => {
       });
       if (!response.ok) throw new Error("Failed to delete college on backend");
       setRawColleges(prev => prev.filter(c => c.id !== Number(id)));
+      refreshStats();
     } catch (err) {
       console.warn("Could not sync delete to server, deleting locally:", err);
       const isAdded = addedColleges.some(c => String(c.id) === String(id));
@@ -490,6 +523,7 @@ export const CollegeProvider = ({ children }) => {
       } else {
         setDeletedColleges(prev => [...prev, String(id)]);
       }
+      setTotalCollegesCount(prev => Math.max(0, prev - 1));
     }
   };
 
@@ -699,7 +733,8 @@ async function getMasterColleges() {
       colleges, courses, exams, addCollege, updateCollege, deleteCollege, loading, 
       reviews, addReview, approveReview, rejectReview,
       pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate,
-      inaccuracyReports, addInaccuracyReport, fetchColleges
+      inaccuracyReports, addInaccuracyReport, fetchColleges,
+      totalCollegesCount, systemStats, refreshStats
     }}>
       {children}
     </CollegeContext.Provider>

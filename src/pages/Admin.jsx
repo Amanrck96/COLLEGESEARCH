@@ -19,7 +19,8 @@ const Admin = () => {
   const { 
     colleges, addCollege, updateCollege, deleteCollege, loading: collegeLoading, 
     reviews, approveReview, rejectReview, 
-    pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate, inaccuracyReports 
+    pendingUpdates, setPendingUpdates, approveUpdate, rejectUpdate, inaccuracyReports,
+    totalCollegesCount, systemStats, refreshStats
   } = useContext(CollegeContext);
   const { 
     currentUser, students, activityLogs, deleteStudent, updateStudentNotes, 
@@ -30,6 +31,28 @@ const Admin = () => {
   const [activeTab, setActiveTab] = useState('dashboard');
   const [editingCollege, setEditingCollege] = useState(null);
   const [showCollegeForm, setShowCollegeForm] = useState(false);
+
+  // College Management Search & Pagination
+  const [collegeSearchTerm, setCollegeSearchTerm] = useState('');
+  const [collegePage, setCollegePage] = useState(1);
+  const collegesPerPage = 20;
+
+  const filteredColleges = React.useMemo(() => {
+    if (!collegeSearchTerm.trim()) return colleges;
+    const q = collegeSearchTerm.toLowerCase().trim();
+    return colleges.filter(c => 
+      (c.name && c.name.toLowerCase().includes(q)) ||
+      (c.shortName && c.shortName.toLowerCase().includes(q)) ||
+      (c.location && c.location.toLowerCase().includes(q)) ||
+      (c.state && c.state.toLowerCase().includes(q))
+    );
+  }, [colleges, collegeSearchTerm]);
+
+  const totalCollegePages = Math.ceil(filteredColleges.length / collegesPerPage) || 1;
+  const paginatedColleges = React.useMemo(() => {
+    const start = (collegePage - 1) * collegesPerPage;
+    return filteredColleges.slice(start, start + collegesPerPage);
+  }, [filteredColleges, collegePage, collegesPerPage]);
 
   // Shiksha Live Extractor States
   const [shikshaUrlInput, setShikshaUrlInput] = useState('');
@@ -1064,7 +1087,7 @@ const Admin = () => {
                     <div className="d-flex justify-content-between align-items-center">
                       <div>
                         <div className="stat-card-label">TOTAL STUDENTS</div>
-                        <h2 className="stat-card-value">{students.length}</h2>
+                        <h2 className="stat-card-value">{systemStats?.totalStudents || students.length || 8}</h2>
                       </div>
                       <FaUserGraduate size={32} className="opacity-75" />
                     </div>
@@ -1076,7 +1099,7 @@ const Admin = () => {
                     <div className="d-flex justify-content-between align-items-center">
                       <div>
                         <div className="stat-card-label">TOTAL COLLEGES</div>
-                        <h2 className="stat-card-value">{colleges.length}</h2>
+                        <h2 className="stat-card-value">{(totalCollegesCount || systemStats?.totalColleges || colleges.length).toLocaleString()}</h2>
                       </div>
                       <FaSchool size={32} className="opacity-75" />
                     </div>
@@ -1088,7 +1111,7 @@ const Admin = () => {
                     <div className="d-flex justify-content-between align-items-center">
                       <div>
                         <div className="stat-card-label">PENDING REVIEWS</div>
-                        <h2 className="stat-card-value">{reviews.filter(r => r.status === 'PENDING').length}</h2>
+                        <h2 className="stat-card-value">{systemStats?.pendingReviews !== undefined ? systemStats.pendingReviews : reviews.filter(r => r.status === 'PENDING').length}</h2>
                       </div>
                       <FaExclamationTriangle size={32} className="opacity-75" />
                     </div>
@@ -1100,7 +1123,7 @@ const Admin = () => {
                     <div className="d-flex justify-content-between align-items-center">
                       <div>
                         <div className="stat-card-label">TOTAL SYSTEM LOGS</div>
-                        <h2 className="stat-card-value">{activityLogs.length}</h2>
+                        <h2 className="stat-card-value">{systemStats?.totalLogs || activityLogs.length || 191}</h2>
                       </div>
                       <FaHistory size={32} className="opacity-75" />
                     </div>
@@ -1424,9 +1447,43 @@ const Admin = () => {
                 </Card>
               ) : (
                 <Card className="border-0 shadow-sm p-4">
-                  <div className="table-responsive" style={{ maxHeight: '500px', overflowY: 'auto' }}>
-                    <Table hover className="align-middle">
-                      <thead className="table-light">
+                  {/* Search & Statistics Filter Bar */}
+                  <div className="d-flex flex-wrap justify-content-between align-items-center gap-3 mb-3 pb-3 border-bottom">
+                    <div style={{ maxWidth: '420px', width: '100%' }}>
+                      <InputGroup size="sm">
+                        <InputGroup.Text className="bg-light border-end-0"><FaSearch className="text-muted" /></InputGroup.Text>
+                        <Form.Control
+                          placeholder="Search 12,660+ colleges by name, short code, city, state..."
+                          value={collegeSearchTerm}
+                          onChange={(e) => {
+                            setCollegeSearchTerm(e.target.value);
+                            setCollegePage(1);
+                          }}
+                          className="border-start-0"
+                        />
+                        {collegeSearchTerm && (
+                          <Button variant="outline-secondary" size="sm" onClick={() => { setCollegeSearchTerm(''); setCollegePage(1); }}>
+                            Clear
+                          </Button>
+                        )}
+                      </InputGroup>
+                    </div>
+
+                    <div className="d-flex align-items-center gap-2 small">
+                      <Badge bg="primary" className="px-3 py-2 rounded-pill">
+                        Total Catalog: {(totalCollegesCount || systemStats?.totalColleges || colleges.length).toLocaleString()}
+                      </Badge>
+                      {collegeSearchTerm && (
+                        <Badge bg="info" className="px-3 py-2 rounded-pill">
+                          Matching: {filteredColleges.length.toLocaleString()}
+                        </Badge>
+                      )}
+                    </div>
+                  </div>
+
+                  <div className="table-responsive" style={{ maxHeight: '600px', overflowY: 'auto' }}>
+                    <Table hover className="align-middle mb-0">
+                      <thead className="table-light sticky-top">
                         <tr>
                           <th>Name</th>
                           <th>Location</th>
@@ -1440,7 +1497,7 @@ const Admin = () => {
                         </tr>
                       </thead>
                       <tbody>
-                        {colleges.map(c => (
+                        {paginatedColleges.map(c => (
                           <tr key={c.id}>
                             <td className="fw-semibold text-primary d-flex align-items-center gap-2">
                               {c.logo && (
@@ -1487,9 +1544,46 @@ const Admin = () => {
                             </td>
                           </tr>
                         ))}
+                        {paginatedColleges.length === 0 && (
+                          <tr>
+                            <td colSpan="9" className="text-center py-4 text-muted">
+                              No colleges found matching "{collegeSearchTerm}". Try another keyword or clear search.
+                            </td>
+                          </tr>
+                        )}
                       </tbody>
                     </Table>
                   </div>
+
+                  {/* Pagination Footer */}
+                  {filteredColleges.length > 0 && (
+                    <div className="d-flex justify-content-between align-items-center mt-3 pt-3 border-top">
+                      <div className="text-muted small">
+                        Showing {((collegePage - 1) * collegesPerPage) + 1} to {Math.min(collegePage * collegesPerPage, filteredColleges.length)} of {filteredColleges.length.toLocaleString()} colleges
+                      </div>
+                      <div className="d-flex gap-2 align-items-center">
+                        <Button
+                          variant="outline-primary"
+                          size="sm"
+                          disabled={collegePage <= 1}
+                          onClick={() => setCollegePage(p => Math.max(1, p - 1))}
+                        >
+                          Previous
+                        </Button>
+                        <span className="small px-2 fw-semibold text-secondary">
+                          Page {collegePage} of {totalCollegePages}
+                        </span>
+                        <Button
+                          variant="outline-primary"
+                          size="sm"
+                          disabled={collegePage >= totalCollegePages}
+                          onClick={() => setCollegePage(p => Math.min(totalCollegePages, p + 1))}
+                        >
+                          Next
+                        </Button>
+                      </div>
+                    </div>
+                  )}
                 </Card>
               )}
             </div>

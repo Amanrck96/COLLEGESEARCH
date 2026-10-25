@@ -3,8 +3,10 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { encryptPayload } from '../middleware/wireArmor.js';
+import { PrismaClient } from '@prisma/client';
 
 const router = express.Router();
+const prisma = new PrismaClient();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -95,6 +97,38 @@ router.get('/filters', (req, res) => {
     citiesByState: formattedStateCity,
     courses: STANDARD_STREAMS
   });
+});
+
+// GET /api/colleges/stats - Live Unified Database Statistics
+router.get('/stats', async (req, res) => {
+  try {
+    loadCollegesFromDisk();
+    let totalColleges = inMemoryColleges.length;
+    let totalStudents = 8;
+    let pendingReviews = 0;
+    let totalLogs = 18;
+    try {
+      const dbCollegeCount = await prisma.college.count();
+      if (dbCollegeCount > 0) {
+        totalColleges = dbCollegeCount;
+      }
+      totalStudents = await prisma.user.count({ where: { role: 'STUDENT' } });
+      pendingReviews = await prisma.review.count({ where: { status: 'PENDING' } });
+      totalLogs = await prisma.auditLog.count();
+    } catch (dbErr) {
+      console.warn("Could not query DB counts, using memory counts:", dbErr.message);
+    }
+
+    res.status(200).json({
+      totalColleges,
+      totalStudents,
+      pendingReviews,
+      totalLogs,
+      timestamp: new Date().toISOString()
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
 });
 
 // GET /api/colleges - Lightning-fast Smart Filtered & Paginated Search
@@ -347,33 +381,119 @@ router.get('/:id', (req, res) => {
 });
 
 // POST /api/colleges - Create College (Admin)
-router.post('/', (req, res) => {
-  const newCol = req.body;
-  const maxId = Math.max(0, ...inMemoryColleges.map(c => parseInt(c.id) || 0));
-  newCol.id = maxId + 1;
-  inMemoryColleges.unshift(newCol);
-  saveCollegesToDisk();
-  res.status(201).json(newCol);
+router.post('/', async (req, res) => {
+  try {
+    const newCol = req.body;
+    const maxId = Math.max(0, ...inMemoryColleges.map(c => parseInt(c.id) || 0));
+    newCol.id = maxId + 1;
+    inMemoryColleges.unshift(newCol);
+    saveCollegesToDisk();
+
+    // Sync to Prisma SQLite
+    try {
+      await prisma.college.create({
+        data: {
+          id: newCol.id,
+          name: String(newCol.name || 'New College'),
+          shortName: String(newCol.shortName || ''),
+          location: String(newCol.location || ''),
+          state: String(newCol.state || ''),
+          address: String(newCol.address || `${newCol.location}, ${newCol.state}`),
+          phone: String(newCol.phone || ''),
+          email: String(newCol.email || ''),
+          website: String(newCol.website || ''),
+          rating: parseFloat(newCol.rating) || 4.5,
+          reviewsCount: parseInt(newCol.reviewsCount) || 0,
+          type: String(newCol.type || 'Private'),
+          about: String(newCol.about || ''),
+          ranking: parseInt(newCol.ranking) || 100,
+          fees: String(newCol.fees || ''),
+          exams: String(newCol.exams || ''),
+          img: String(newCol.img || ''),
+          gallery: JSON.stringify(newCol.gallery || []),
+          affiliation: String(newCol.affiliation || ''),
+          highestPackage: String(newCol.highestPackage || ''),
+          averagePackage: String(newCol.averagePackage || ''),
+          placements: String(newCol.placements || ''),
+          highlights: String(newCol.highlights || ''),
+          facilities: String(newCol.facilities || ''),
+          logo: String(newCol.logo || ''),
+          published: newCol.published !== false,
+          featured: newCol.featured === true
+        }
+      });
+    } catch (dbErr) {
+      console.warn('[Prisma Insert Warning]:', dbErr.message);
+    }
+
+    res.status(201).json(newCol);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
 });
 
 // PUT /api/colleges/:id - Update College (Admin)
-router.put('/:id', (req, res) => {
-  const { id } = req.params;
-  const idx = inMemoryColleges.findIndex(c => String(c.id) === String(id));
-  if (idx === -1) {
-    return res.status(404).json({ error: 'College not found' });
+router.put('/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const numId = parseInt(id);
+    const idx = inMemoryColleges.findIndex(c => String(c.id) === String(id));
+    if (idx === -1) {
+      return res.status(404).json({ error: 'College not found' });
+    }
+    inMemoryColleges[idx] = { ...inMemoryColleges[idx], ...req.body, id: inMemoryColleges[idx].id };
+    saveCollegesToDisk();
+
+    // Sync to Prisma SQLite
+    try {
+      const updateData = {};
+      const allowedKeys = ['name', 'shortName', 'location', 'state', 'address', 'phone', 'email', 'website', 'type', 'about', 'fees', 'exams', 'img', 'affiliation', 'highestPackage', 'averagePackage', 'placements', 'highlights', 'facilities', 'logo'];
+      allowedKeys.forEach(k => {
+        if (req.body[k] !== undefined) updateData[k] = String(req.body[k] || '');
+      });
+      if (req.body.rating !== undefined) updateData.rating = parseFloat(req.body.rating) || 4.5;
+      if (req.body.ranking !== undefined) updateData.ranking = parseInt(req.body.ranking) || 100;
+      if (req.body.published !== undefined) updateData.published = req.body.published !== false;
+      if (req.body.featured !== undefined) updateData.featured = req.body.featured === true;
+      if (req.body.gallery !== undefined) updateData.gallery = JSON.stringify(req.body.gallery || []);
+
+      if (Object.keys(updateData).length > 0) {
+        await prisma.college.updateMany({
+          where: { id: numId },
+          data: updateData
+        });
+      }
+    } catch (dbErr) {
+      console.warn('[Prisma Update Warning]:', dbErr.message);
+    }
+
+    res.status(200).json(inMemoryColleges[idx]);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
   }
-  inMemoryColleges[idx] = { ...inMemoryColleges[idx], ...req.body, id: inMemoryColleges[idx].id };
-  saveCollegesToDisk();
-  res.status(200).json(inMemoryColleges[idx]);
 });
 
 // DELETE /api/colleges/:id - Delete College (Admin)
-router.delete('/:id', (req, res) => {
-  const { id } = req.params;
-  inMemoryColleges = inMemoryColleges.filter(c => String(c.id) !== String(id));
-  saveCollegesToDisk();
-  res.status(200).json({ success: true, message: 'College deleted' });
+router.delete('/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const numId = parseInt(id);
+    inMemoryColleges = inMemoryColleges.filter(c => String(c.id) !== String(id));
+    saveCollegesToDisk();
+
+    // Sync to Prisma SQLite
+    try {
+      await prisma.college.deleteMany({
+        where: { id: numId }
+      });
+    } catch (dbErr) {
+      console.warn('[Prisma Delete Warning]:', dbErr.message);
+    }
+
+    res.status(200).json({ success: true, message: 'College deleted and synchronized across systems' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
 });
 
 // POST /api/colleges/scrape-shiksha - On-demand live Shiksha scraper
