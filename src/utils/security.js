@@ -19,7 +19,7 @@ const SECRET_KEY = "compass_secret_token";
 export const encryptState = (data) => {
   if (!data) return '';
   try {
-    const jsonString = JSON.stringify(data);
+    const jsonString = unescape(encodeURIComponent(JSON.stringify(data)));
     let result = '';
     for (let i = 0; i < jsonString.length; i++) {
       result += String.fromCharCode(jsonString.charCodeAt(i) ^ SECRET_KEY.charCodeAt(i % SECRET_KEY.length));
@@ -39,10 +39,19 @@ export const decryptState = (cipher) => {
     for (let i = 0; i < raw.length; i++) {
       result += String.fromCharCode(raw.charCodeAt(i) ^ SECRET_KEY.charCodeAt(i % SECRET_KEY.length));
     }
-    return JSON.parse(result);
+    return JSON.parse(decodeURIComponent(escape(result)));
   } catch (err) {
-    console.error("Decryption error:", err);
-    return null;
+    try {
+      const raw = atob(cipher);
+      let result = '';
+      for (let i = 0; i < raw.length; i++) {
+        result += String.fromCharCode(raw.charCodeAt(i) ^ SECRET_KEY.charCodeAt(i % SECRET_KEY.length));
+      }
+      return JSON.parse(result);
+    } catch {
+      console.error("Decryption error:", err);
+      return null;
+    }
   }
 };
 
