@@ -297,6 +297,31 @@ router.post('/students', async (req, res) => {
   }
 });
 
+// PUT /api/auth/students/:id - Update Student Lead (Admin CRM)
+router.put('/students/:id', async (req, res) => {
+  const { id } = req.params;
+  const { name, email, phone, city, state, courseInterest, examInterest, adminNotes, leadStatus } = req.body;
+  try {
+    const updated = await prisma.user.update({
+      where: { id: parseInt(id) },
+      data: {
+        ...(name && { name }),
+        ...(email && { email }),
+        ...(phone !== undefined && { phone }),
+        ...(city !== undefined && { city }),
+        ...(state !== undefined && { state }),
+        ...(courseInterest !== undefined && { courseInterest }),
+        ...(examInterest !== undefined && { examInterest }),
+        ...(adminNotes !== undefined && { adminNotes }),
+        ...(leadStatus !== undefined && { leadStatus })
+      }
+    });
+    res.status(200).json({ success: true, student: updated });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // PUT /api/auth/students/:id/notes - Save Admin Notes and Lead Status
 router.put('/students/:id/notes', async (req, res) => {
   const { id } = req.params;

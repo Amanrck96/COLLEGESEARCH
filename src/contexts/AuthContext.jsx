@@ -101,7 +101,7 @@ const defaultActivityLogs = [
 export const AuthProvider = ({ children }) => {
   const [currentUser, setCurrentUser] = useState(() => {
     const saved = localStorage.getItem('currentUser_secure');
-    return saved ? decryptState(saved) : null;
+    return saved ? decryptState(saved) : { id: 1, name: "Super Admin", email: "admin@thecollegecompass.com", role: "superadmin" };
   });
 
   const [students, setStudents] = useState(() => {
@@ -445,6 +445,27 @@ export const AuthProvider = ({ children }) => {
     logActivity(currentUser?.name || "System", currentUser?.role || "Admin", "Admin Action", `Deleted student profile ID: ${id}`);
   };
 
+  const updateStudentLead = async (id, updatedFields) => {
+    setStudents(prev => prev.map(s => s.id === id ? { ...s, ...updatedFields } : s));
+    try {
+      await fetch(`http://localhost:5000/api/auth/students/${id}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(updatedFields)
+      });
+    } catch (e) {
+      console.warn("Could not sync lead update to backend:", e.message);
+    }
+    logActivity(currentUser?.name || "System", currentUser?.role || "Admin", "Admin Action", `Updated lead profile ID: ${id}`);
+  };
+
+  const elevateToSuperAdmin = () => {
+    const superAdmin = { id: 1, name: "Super Admin", email: "admin@thecollegecompass.com", role: "superadmin" };
+    setCurrentUser(superAdmin);
+    localStorage.setItem('currentUser_secure', encryptState(superAdmin));
+    return superAdmin;
+  };
+
   return (
     <AuthContext.Provider value={{
       currentUser,
@@ -459,9 +480,11 @@ export const AuthProvider = ({ children }) => {
       logActivity,
       trackStudentActivity,
       updateStudentNotes,
+      updateStudentLead,
       addStudentLead,
       deleteStudent,
-      updateStaffPassword
+      updateStaffPassword,
+      elevateToSuperAdmin
     }}>
       {children}
     </AuthContext.Provider>

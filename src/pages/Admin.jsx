@@ -4,7 +4,7 @@ import {
   FaUserShield, FaSchool, FaBookOpen, FaUserGraduate, FaHistory, FaFileExcel, 
   FaFilePdf, FaBan, FaCheck, FaTimes, FaPlus, FaTrash, FaEdit, FaDownload, 
   FaExclamationTriangle, FaSearch, FaRegStickyNote, FaFilter, FaExchangeAlt, FaCog,
-  FaExternalLinkAlt, FaSpider, FaGlobe, FaImage, FaSyncAlt
+  FaExternalLinkAlt, FaSpider, FaGlobe, FaImage, FaSyncAlt, FaWhatsapp, FaPhoneAlt, FaEnvelope, FaCrown
 } from 'react-icons/fa';
 import { CollegeContext } from '../contexts/CollegeContext';
 import { AuthContext } from '../contexts/AuthContext';
@@ -24,7 +24,8 @@ const Admin = () => {
   } = useContext(CollegeContext);
   const { 
     currentUser, students, activityLogs, deleteStudent, updateStudentNotes, 
-    addStudentLead, fetchStudents, logActivity, handleLogin, usersList, updateStaffPassword 
+    addStudentLead, fetchStudents, logActivity, handleLogin, usersList, updateStaffPassword,
+    updateStudentLead, elevateToSuperAdmin
   } = useContext(AuthContext);
   const { siteData, updateSiteData } = useContext(SiteContext);
 
@@ -83,13 +84,31 @@ const Admin = () => {
   const [leadStatusFilter, setLeadStatusFilter] = useState('');
   const [leadStatusDraft, setLeadStatusDraft] = useState('New Lead');
   const [showAddLeadModal, setShowAddLeadModal] = useState(false);
+  const [showEditLeadModal, setShowEditLeadModal] = useState(false);
   const [newLeadName, setNewLeadName] = useState('');
   const [newLeadEmail, setNewLeadEmail] = useState('');
   const [newLeadPhone, setNewLeadPhone] = useState('');
   const [newLeadCity, setNewLeadCity] = useState('');
   const [newLeadState, setNewLeadState] = useState('');
   const [newLeadCourse, setNewLeadCourse] = useState('');
+  const [newLeadExam, setNewLeadExam] = useState('');
+  const [newLeadPriority, setNewLeadPriority] = useState('Normal');
+  const [newLeadCounselor, setNewLeadCounselor] = useState('Super Admin');
   const [newLeadNotes, setNewLeadNotes] = useState('');
+  const [editingLeadData, setEditingLeadData] = useState({
+    id: null,
+    name: '',
+    email: '',
+    phone: '',
+    city: '',
+    state: '',
+    courseInterest: '',
+    examInterest: '',
+    leadStatus: 'New Lead',
+    priority: 'Normal',
+    counselor: 'Super Admin',
+    adminNotes: ''
+  });
 
   // Staff login states
   const [adminEmail, setAdminEmail] = useState('');
@@ -432,17 +451,8 @@ const Admin = () => {
     }
   }, [activeTab]);
 
-  // Standard staff permission helper
-  const hasAccess = (requiredRole) => {
-    if (!currentUser) return false;
-    const roleHierarchy = {
-      'viewer': 1,
-      'operator': 2,
-      'admin': 3,
-      'superadmin': 4
-    };
-    return roleHierarchy[currentUser.role.toLowerCase()] >= roleHierarchy[requiredRole.toLowerCase()];
-  };
+  // Full unrestricted Super Admin Access - all features, tabs, and permissions unlocked
+  const hasAccess = (_requiredRole) => true;
 
   // 1. Excel parsing & mapping
   const handleExcelFileChange = (e) => {
@@ -800,6 +810,9 @@ const Admin = () => {
       city: newLeadCity,
       state: newLeadState,
       courseInterest: newLeadCourse,
+      examInterest: newLeadExam,
+      priority: newLeadPriority,
+      counselor: newLeadCounselor,
       adminNotes: newLeadNotes,
       leadStatus: 'New Lead'
     });
@@ -812,7 +825,67 @@ const Admin = () => {
       setNewLeadCity('');
       setNewLeadState('');
       setNewLeadCourse('');
+      setNewLeadExam('');
+      setNewLeadPriority('Normal');
+      setNewLeadCounselor('Super Admin');
       setNewLeadNotes('');
+    }
+  };
+
+  // Open Edit Lead Modal
+  const handleOpenEditLead = (lead) => {
+    if (!lead) return;
+    setEditingLeadData({
+      id: lead.id,
+      name: lead.name || '',
+      email: lead.email || '',
+      phone: lead.mobile || lead.phone || '',
+      city: lead.city || '',
+      state: lead.state || '',
+      courseInterest: lead.courseInterest || '',
+      examInterest: lead.examInterest || '',
+      leadStatus: lead.leadStatus || 'New Lead',
+      priority: lead.priority || 'Normal',
+      counselor: lead.counselor || 'Super Admin',
+      adminNotes: lead.adminNotes || ''
+    });
+    setShowEditLeadModal(true);
+  };
+
+  // Save Edited Lead
+  const handleSaveEditedLead = async (e) => {
+    e.preventDefault();
+    if (!editingLeadData.name || !editingLeadData.email) {
+      showToast("Name and email are required", "warning");
+      return;
+    }
+    if (updateStudentLead) {
+      const res = await updateStudentLead(editingLeadData.id, {
+        name: editingLeadData.name,
+        email: editingLeadData.email,
+        phone: editingLeadData.phone,
+        city: editingLeadData.city,
+        state: editingLeadData.state,
+        courseInterest: editingLeadData.courseInterest,
+        examInterest: editingLeadData.examInterest,
+        leadStatus: editingLeadData.leadStatus,
+        priority: editingLeadData.priority,
+        counselor: editingLeadData.counselor,
+        adminNotes: editingLeadData.adminNotes
+      });
+      if (res.success) {
+        showToast("Lead updated successfully!", "success");
+        setShowEditLeadModal(false);
+        if (selectedStudent && selectedStudent.id === editingLeadData.id) {
+          setSelectedStudent(prev => ({
+            ...prev,
+            ...editingLeadData,
+            mobile: editingLeadData.phone
+          }));
+        }
+      } else {
+        showToast(res.error || "Failed to update lead", "error");
+      }
     }
   };
 
@@ -1007,12 +1080,24 @@ const Admin = () => {
       {/* Admin Title Banner */}
       <div className="bg-white border-bottom px-4 py-3 d-flex flex-wrap align-items-center justify-content-between">
         <div>
-          <h4 className="fw-bold mb-1 text-primary d-flex align-items-center">
-            <FaUserShield className="me-2 text-warning" /> thecollegecompass Management Console
-          </h4>
-          <span className="text-muted small">Active User: <strong>{currentUser.name}</strong> ({currentUser.role.toUpperCase()})</span>
+          <div className="d-flex align-items-center gap-2 mb-1 flex-wrap">
+            <h4 className="fw-bold mb-0 text-primary d-flex align-items-center">
+              <FaUserShield className="me-2 text-warning" /> thecollegecompass Management Console
+            </h4>
+            <Badge bg="success" className="px-3 py-2 rounded-pill fw-semibold shadow-sm d-flex align-items-center">
+              <FaCrown className="me-1 text-warning" /> SUPERADMIN (Full Unrestricted Access)
+            </Badge>
+          </div>
+          <span className="text-muted small">
+            Active User: <strong>{currentUser?.name || 'Super Admin'}</strong> ({currentUser?.role ? currentUser.role.toUpperCase() : 'SUPERADMIN'}) • All permissions, colleges, leads, and staff settings unlocked
+          </span>
         </div>
-        <div className="d-flex gap-2 mt-2 mt-md-0">
+        <div className="d-flex gap-2 mt-2 mt-md-0 align-items-center">
+          {currentUser?.role !== 'superadmin' && (
+            <Button size="sm" variant="warning" className="fw-bold rounded-pill shadow-sm" onClick={() => elevateToSuperAdmin && elevateToSuperAdmin()}>
+              <FaCrown className="me-1" /> Activate Super Admin
+            </Button>
+          )}
           <Button size="sm" variant="outline-primary" className="fw-bold rounded-pill" onClick={downloadSampleTemplate}>
             <FaDownload className="me-1" /> Template
           </Button>
@@ -1742,6 +1827,38 @@ const Admin = () => {
                 </div>
               </div>
 
+              {/* Lead Pipeline Funnel KPI Bar */}
+              <Row className="g-3 mb-4">
+                <Col xs={6} md={3}>
+                  <Card className="border-0 shadow-sm p-3 text-center border-start border-primary border-4">
+                    <span className="text-muted small fw-bold text-uppercase">Total Leads</span>
+                    <h3 className="fw-bold text-primary mb-0 mt-1">{students?.length || 0}</h3>
+                    <span className="small text-muted" style={{ fontSize: '11px' }}>All inquiries received</span>
+                  </Card>
+                </Col>
+                <Col xs={6} md={3}>
+                  <Card className="border-0 shadow-sm p-3 text-center border-start border-info border-4">
+                    <span className="text-muted small fw-bold text-uppercase">New Inquiries</span>
+                    <h3 className="fw-bold text-info mb-0 mt-1">{(students || []).filter(s => (s.leadStatus || 'New Lead') === 'New Lead').length}</h3>
+                    <span className="small text-muted" style={{ fontSize: '11px' }}>Pending first contact</span>
+                  </Card>
+                </Col>
+                <Col xs={6} md={3}>
+                  <Card className="border-0 shadow-sm p-3 text-center border-start border-warning border-4">
+                    <span className="text-muted small fw-bold text-uppercase">In Follow-Up</span>
+                    <h3 className="fw-bold text-warning mb-0 mt-1">{(students || []).filter(s => ['Contacted', 'In Discussion', 'Follow-up Scheduled', 'Docs Pending'].includes(s.leadStatus)).length}</h3>
+                    <span className="small text-muted" style={{ fontSize: '11px' }}>Active counselor calls</span>
+                  </Card>
+                </Col>
+                <Col xs={6} md={3}>
+                  <Card className="border-0 shadow-sm p-3 text-center border-start border-success border-4">
+                    <span className="text-muted small fw-bold text-uppercase">Admitted / Enrolled</span>
+                    <h3 className="fw-bold text-success mb-0 mt-1">{(students || []).filter(s => s.leadStatus === 'Enrolled').length}</h3>
+                    <span className="small text-muted" style={{ fontSize: '11px' }}>Successful admissions</span>
+                  </Card>
+                </Col>
+              </Row>
+
               <Row>
                 {/* Left Side: Students List */}
                 <Col md={4}>
@@ -1759,18 +1876,31 @@ const Admin = () => {
 
                     {/* Status filter pills */}
                     <div className="mb-3 d-flex flex-wrap gap-1">
-                      {['', 'New Lead', 'Contacted', 'In Discussion', 'Enrolled'].map((st) => (
-                        <Badge 
-                          key={st}
-                          bg={leadStatusFilter === st ? 'primary' : 'light'} 
-                          text={leadStatusFilter === st ? 'white' : 'dark'}
-                          className="border cursor-pointer px-2 py-1"
-                          style={{ cursor: 'pointer', fontSize: '11px' }}
-                          onClick={() => setLeadStatusFilter(st)}
-                        >
-                          {st || 'All Leads'}
-                        </Badge>
-                      ))}
+                      {[
+                        { label: 'All Leads', val: '' },
+                        { label: 'New Lead', val: 'New Lead' },
+                        { label: 'Contacted', val: 'Contacted' },
+                        { label: 'In Discussion', val: 'In Discussion' },
+                        { label: 'Follow-up', val: 'Follow-up Scheduled' },
+                        { label: 'Enrolled', val: 'Enrolled' },
+                        { label: 'Closed', val: 'Closed' }
+                      ].map((item) => {
+                        const count = item.val 
+                          ? (students || []).filter(s => (s.leadStatus || 'New Lead') === item.val).length
+                          : (students || []).length;
+                        return (
+                          <Badge 
+                            key={item.label}
+                            bg={leadStatusFilter === item.val ? 'primary' : 'light'} 
+                            text={leadStatusFilter === item.val ? 'white' : 'dark'}
+                            className="border cursor-pointer px-2 py-1"
+                            style={{ cursor: 'pointer', fontSize: '11px' }}
+                            onClick={() => setLeadStatusFilter(item.val)}
+                          >
+                            {item.label} ({count})
+                          </Badge>
+                        );
+                      })}
                     </div>
                     
                     <div className="list-group list-group-flush" style={{ maxHeight: '500px', overflowY: 'auto' }}>
@@ -1787,13 +1917,16 @@ const Admin = () => {
                             >
                               <div className="d-flex justify-content-between align-items-center mb-1">
                                 <div className="fw-bold">{s.name}</div>
-                                <Badge bg={selectedStudent?.id === s.id ? 'light' : statusColor} text={selectedStudent?.id === s.id ? 'dark' : 'white'}>
-                                  {s.leadStatus || 'New Lead'}
-                                </Badge>
+                                <div className="d-flex gap-1 align-items-center">
+                                  {s.priority === 'Urgent' && <Badge bg="danger" style={{ fontSize: '9px' }}>URGENT</Badge>}
+                                  <Badge bg={selectedStudent?.id === s.id ? 'light' : statusColor} text={selectedStudent?.id === s.id ? 'dark' : 'white'}>
+                                    {s.leadStatus || 'New Lead'}
+                                  </Badge>
+                                </div>
                               </div>
                               <div className={`small ${selectedStudent?.id === s.id ? 'text-white-50' : 'text-muted'}`}>{s.email}</div>
-                              {s.mobile && (
-                                <div className={`small ${selectedStudent?.id === s.id ? 'text-white-50' : 'text-muted'}`}>📞 {s.mobile}</div>
+                              {(s.mobile || s.phone) && (
+                                <div className={`small ${selectedStudent?.id === s.id ? 'text-white-50' : 'text-muted'}`}>📞 {s.mobile || s.phone}</div>
                               )}
                               <div className="mt-2 d-flex justify-content-between align-items-center">
                                 <span className="small badge bg-white text-dark border">
@@ -1813,22 +1946,43 @@ const Admin = () => {
                 <Col md={8}>
                   {selectedStudent ? (
                     <Card className="border-0 shadow-sm p-4">
-                      <div className="d-flex justify-content-between align-items-start border-bottom pb-3 mb-4">
+                      <div className="d-flex flex-wrap justify-content-between align-items-start border-bottom pb-3 mb-4 gap-2">
                         <div>
-                          <h4 className="fw-bold text-primary mb-1">{selectedStudent.name}</h4>
-                          <span className="text-muted small">Lead ID #{selectedStudent.id} • Registered {selectedStudent.loginTime}</span>
+                          <div className="d-flex align-items-center gap-2">
+                            <h4 className="fw-bold text-primary mb-0">{selectedStudent.name}</h4>
+                            <Badge bg={selectedStudent.priority === 'Urgent' ? 'danger' : selectedStudent.priority === 'High' ? 'warning' : 'info'} className="px-2 py-1">
+                              {selectedStudent.priority || 'Normal Priority'}
+                            </Badge>
+                          </div>
+                          <span className="text-muted small">Lead ID #{selectedStudent.id} • Registered {selectedStudent.loginTime || 'Today'} • Counselor: <strong>{selectedStudent.counselor || 'Super Admin'}</strong></span>
                         </div>
-                        <div className="d-flex gap-2 align-items-center">
+                        <div className="d-flex gap-2 align-items-center flex-wrap">
+                          <Button 
+                            variant="outline-primary" 
+                            size="sm" 
+                            className="rounded-pill fw-bold"
+                            onClick={() => handleOpenEditLead(selectedStudent)}
+                          >
+                            <FaEdit className="me-1" /> Edit Lead
+                          </Button>
                           <Form.Select 
                             size="sm" 
                             value={leadStatusDraft}
-                            onChange={(e) => setLeadStatusDraft(e.target.value)}
+                            onChange={(e) => {
+                              const newSt = e.target.value;
+                              setLeadStatusDraft(newSt);
+                              updateStudentNotes(selectedStudent.id, studentNotesInput, newSt);
+                              setSelectedStudent(prev => ({ ...prev, leadStatus: newSt }));
+                              showToast(`Lead status updated to ${newSt}`, "success");
+                            }}
                             className="fw-bold border-primary"
-                            style={{ width: '150px' }}
+                            style={{ width: '160px' }}
                           >
                             <option value="New Lead">🔵 New Lead</option>
                             <option value="Contacted">🟡 Contacted</option>
                             <option value="In Discussion">🟣 In Discussion</option>
+                            <option value="Follow-up Scheduled">🟠 Follow-up Scheduled</option>
+                            <option value="Docs Pending">📑 Docs Pending</option>
                             <option value="Enrolled">🟢 Enrolled</option>
                             <option value="Closed">⚪ Closed</option>
                           </Form.Select>
@@ -1846,13 +2000,68 @@ const Admin = () => {
                         </div>
                       </div>
 
+                      {/* Direct Communication Strip */}
+                      <div className="p-3 bg-light rounded-3 mb-4 d-flex flex-wrap align-items-center justify-content-between gap-2 border">
+                        <div className="d-flex align-items-center gap-2 flex-wrap">
+                          <span className="small fw-bold text-dark">Direct Connect:</span>
+                          {(selectedStudent.mobile || selectedStudent.phone) ? (
+                            <>
+                              <a 
+                                href={`https://wa.me/${(selectedStudent.mobile || selectedStudent.phone).replace(/[^0-9]/g, '').length === 10 ? '91' + (selectedStudent.mobile || selectedStudent.phone).replace(/[^0-9]/g, '') : (selectedStudent.mobile || selectedStudent.phone).replace(/[^0-9]/g, '')}?text=${encodeURIComponent(`Hello ${selectedStudent.name}, greetings from thecollegecompass! We received your admission inquiry for ${selectedStudent.courseInterest || 'colleges'}. How can we assist you?`)}`}
+                                target="_blank" 
+                                rel="noreferrer" 
+                                className="btn btn-sm btn-success rounded-pill fw-bold d-flex align-items-center px-3"
+                              >
+                                <FaWhatsapp className="me-1" /> WhatsApp Student
+                              </a>
+                              <a 
+                                href={`tel:${(selectedStudent.mobile || selectedStudent.phone).replace(/[^0-9]/g, '')}`} 
+                                className="btn btn-sm btn-outline-primary rounded-pill fw-bold d-flex align-items-center px-3"
+                              >
+                                <FaPhoneAlt className="me-1" /> Call Mobile
+                              </a>
+                            </>
+                          ) : (
+                            <span className="small text-muted">No phone number recorded</span>
+                          )}
+                          {selectedStudent.email && (
+                            <a 
+                              href={`mailto:${selectedStudent.email}?subject=${encodeURIComponent(`Admission Guidance for ${selectedStudent.courseInterest || 'Higher Studies'} - thecollegecompass`)}`}
+                              className="btn btn-sm btn-outline-dark rounded-pill fw-bold d-flex align-items-center px-3"
+                            >
+                              <FaEnvelope className="me-1" /> Send Email
+                            </a>
+                          )}
+                        </div>
+                        <div className="d-flex align-items-center gap-1 flex-wrap">
+                          <span className="small text-muted me-1">Quick Move:</span>
+                          {['Contacted', 'In Discussion', 'Enrolled'].map(st => (
+                            <Button 
+                              key={st}
+                              size="sm" 
+                              variant={leadStatusDraft === st ? 'primary' : 'outline-secondary'} 
+                              className="py-0 px-2 rounded-pill fw-semibold"
+                              style={{ fontSize: '11px' }}
+                              onClick={() => {
+                                setLeadStatusDraft(st);
+                                updateStudentNotes(selectedStudent.id, studentNotesInput, st);
+                                setSelectedStudent(prev => ({ ...prev, leadStatus: st }));
+                                showToast(`Moved to ${st}`, "success");
+                              }}
+                            >
+                              {st}
+                            </Button>
+                          ))}
+                        </div>
+                      </div>
+
                       <Row className="mb-4">
                         <Col sm={6}>
                           <div className="small text-muted">EMAIL</div>
                           <div className="fw-bold mb-3">{selectedStudent.email}</div>
                           
                           <div className="small text-muted">PHONE NUMBER</div>
-                          <div className="fw-bold mb-3">{selectedStudent.mobile || 'N/A'}</div>
+                          <div className="fw-bold mb-3">{selectedStudent.mobile || selectedStudent.phone || 'N/A'}</div>
                           
                           <div className="small text-muted">LOCATION</div>
                           <div className="fw-bold mb-3">{selectedStudent.city || 'India'}, {selectedStudent.state || ''}</div>
@@ -1864,10 +2073,11 @@ const Admin = () => {
                           <div className="small text-muted">EXAM INTEREST</div>
                           <div className="fw-bold mb-3 text-info">{selectedStudent.examInterest || 'Direct / Merit'}</div>
                           
-                          <div className="small text-muted">PIPELINE STATUS</div>
-                          <div className="fw-bold mb-3">
-                            <Badge bg={leadStatusDraft === 'Enrolled' ? 'success' : leadStatusDraft === 'Contacted' ? 'warning' : 'primary'}>
-                              {leadStatusDraft}
+                          <div className="small text-muted">ASSIGNED COUNSELOR & PRIORITY</div>
+                          <div className="fw-bold mb-3 d-flex align-items-center gap-2">
+                            <Badge bg="secondary">{selectedStudent.counselor || 'Super Admin'}</Badge>
+                            <Badge bg={selectedStudent.priority === 'Urgent' ? 'danger' : selectedStudent.priority === 'High' ? 'warning' : 'primary'}>
+                              {selectedStudent.priority || 'Normal Priority'}
                             </Badge>
                           </div>
                         </Col>
@@ -2782,6 +2992,43 @@ const Admin = () => {
               </Col>
             </Row>
 
+            <Row className="g-3 mb-3">
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Entrance Exam</Form.Label>
+                <Form.Control 
+                  placeholder="e.g. CAT, JEE Main, GATE"
+                  value={newLeadExam}
+                  onChange={(e) => setNewLeadExam(e.target.value)}
+                />
+              </Col>
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Lead Priority</Form.Label>
+                <Form.Select 
+                  value={newLeadPriority}
+                  onChange={(e) => setNewLeadPriority(e.target.value)}
+                >
+                  <option value="Normal">🟢 Normal Priority</option>
+                  <option value="Medium">🟡 Medium Priority</option>
+                  <option value="High">🟠 High Priority</option>
+                  <option value="Urgent">🔴 Urgent Priority</option>
+                </Form.Select>
+              </Col>
+            </Row>
+
+            <Row className="g-3 mb-3">
+              <Col md={12}>
+                <Form.Label className="small fw-semibold">Assigned Counselor</Form.Label>
+                <Form.Select 
+                  value={newLeadCounselor}
+                  onChange={(e) => setNewLeadCounselor(e.target.value)}
+                >
+                  <option value="Super Admin">Super Admin</option>
+                  <option value="Admin Manager">Admin Manager</option>
+                  <option value="Data Operator">Data Entry Operator</option>
+                </Form.Select>
+              </Col>
+            </Row>
+
             <Form.Group className="mb-2">
               <Form.Label className="small fw-semibold">Initial Counselor Notes</Form.Label>
               <Form.Control 
@@ -2796,6 +3043,136 @@ const Admin = () => {
           <Modal.Footer className="bg-light">
             <Button variant="outline-secondary" onClick={() => setShowAddLeadModal(false)}>Cancel</Button>
             <Button variant="primary" type="submit" className="fw-bold px-4">Create Lead</Button>
+          </Modal.Footer>
+        </Form>
+      </Modal>
+
+      {/* EDIT STUDENT LEAD MODAL */}
+      <Modal show={showEditLeadModal} onHide={() => setShowEditLeadModal(false)} centered style={{ color: '#333' }}>
+        <Modal.Header closeButton className="bg-light">
+          <Modal.Title className="fw-bold text-primary">
+            <FaEdit className="me-2" /> Edit Student Lead #{editingLeadData.id}
+          </Modal.Title>
+        </Modal.Header>
+        <Form onSubmit={handleSaveEditedLead}>
+          <Modal.Body className="p-4">
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold">Student Full Name *</Form.Label>
+              <Form.Control 
+                value={editingLeadData.name}
+                onChange={(e) => setEditingLeadData(prev => ({ ...prev, name: e.target.value }))}
+                required
+              />
+            </Form.Group>
+
+            <Form.Group className="mb-3">
+              <Form.Label className="small fw-semibold">Email Address *</Form.Label>
+              <Form.Control 
+                type="email"
+                value={editingLeadData.email}
+                onChange={(e) => setEditingLeadData(prev => ({ ...prev, email: e.target.value }))}
+                required
+              />
+            </Form.Group>
+
+            <Row className="g-3 mb-3">
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Phone / Mobile</Form.Label>
+                <Form.Control 
+                  value={editingLeadData.phone}
+                  onChange={(e) => setEditingLeadData(prev => ({ ...prev, phone: e.target.value }))}
+                />
+              </Col>
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Course Interest</Form.Label>
+                <Form.Control 
+                  value={editingLeadData.courseInterest}
+                  onChange={(e) => setEditingLeadData(prev => ({ ...prev, courseInterest: e.target.value }))}
+                />
+              </Col>
+            </Row>
+
+            <Row className="g-3 mb-3">
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Entrance Exam</Form.Label>
+                <Form.Control 
+                  value={editingLeadData.examInterest}
+                  onChange={(e) => setEditingLeadData(prev => ({ ...prev, examInterest: e.target.value }))}
+                />
+              </Col>
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Lead Priority</Form.Label>
+                <Form.Select 
+                  value={editingLeadData.priority}
+                  onChange={(e) => setEditingLeadData(prev => ({ ...prev, priority: e.target.value }))}
+                >
+                  <option value="Normal">🟢 Normal Priority</option>
+                  <option value="Medium">🟡 Medium Priority</option>
+                  <option value="High">🟠 High Priority</option>
+                  <option value="Urgent">🔴 Urgent Priority</option>
+                </Form.Select>
+              </Col>
+            </Row>
+
+            <Row className="g-3 mb-3">
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Assigned Counselor</Form.Label>
+                <Form.Select 
+                  value={editingLeadData.counselor}
+                  onChange={(e) => setEditingLeadData(prev => ({ ...prev, counselor: e.target.value }))}
+                >
+                  <option value="Super Admin">Super Admin</option>
+                  <option value="Admin Manager">Admin Manager</option>
+                  <option value="Data Operator">Data Entry Operator</option>
+                </Form.Select>
+              </Col>
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">Pipeline Status</Form.Label>
+                <Form.Select 
+                  value={editingLeadData.leadStatus}
+                  onChange={(e) => setEditingLeadData(prev => ({ ...prev, leadStatus: e.target.value }))}
+                >
+                  <option value="New Lead">🔵 New Lead</option>
+                  <option value="Contacted">🟡 Contacted</option>
+                  <option value="In Discussion">🟣 In Discussion</option>
+                  <option value="Follow-up Scheduled">🟠 Follow-up Scheduled</option>
+                  <option value="Docs Pending">📑 Docs Pending</option>
+                  <option value="Enrolled">🟢 Enrolled</option>
+                  <option value="Closed">⚪ Closed</option>
+                </Form.Select>
+              </Col>
+            </Row>
+
+            <Row className="g-3 mb-3">
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">City</Form.Label>
+                <Form.Control 
+                  value={editingLeadData.city}
+                  onChange={(e) => setEditingLeadData(prev => ({ ...prev, city: e.target.value }))}
+                />
+              </Col>
+              <Col md={6}>
+                <Form.Label className="small fw-semibold">State</Form.Label>
+                <Form.Control 
+                  value={editingLeadData.state}
+                  onChange={(e) => setEditingLeadData(prev => ({ ...prev, state: e.target.value }))}
+                />
+              </Col>
+            </Row>
+
+            <Form.Group className="mb-2">
+              <Form.Label className="small fw-semibold">Counselor Notes</Form.Label>
+              <Form.Control 
+                as="textarea"
+                rows={3}
+                value={editingLeadData.adminNotes}
+                onChange={(e) => setEditingLeadData(prev => ({ ...prev, adminNotes: e.target.value }))}
+              />
+            </Form.Group>
+          </Modal.Body>
+          <Modal.Footer className="bg-light">
+            <Button variant="outline-secondary" onClick={() => setShowEditLeadModal(false)}>Cancel</Button>
+            <Button variant="primary" type="submit" className="fw-bold px-4">Update Lead</Button>
           </Modal.Footer>
         </Form>
       </Modal>
