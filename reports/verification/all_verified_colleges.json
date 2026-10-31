@@ -1798,5 +1798,80 @@
         "website": "https://rcm.ac.in"
       }
     ]
+  },
+  {
+    "batch": 25,
+    "items": [
+      {
+        "id": 2221,
+        "name": "Swami Vivekananda Institute of Management",
+        "type": "Private",
+        "location": "Bhubaneswar, Odisha - 752060",
+        "website": "https://www.svim.org.in"
+      },
+      {
+        "id": 2226,
+        "name": "Vamsi Institute of Management Studies",
+        "type": "Private",
+        "location": "Rayagada, Odisha - 765002",
+        "website": "https://vamsi.edu.in"
+      },
+      {
+        "id": 2227,
+        "name": "Bharat Institute of Management and Technology",
+        "type": "Private",
+        "location": "Balasore, Odisha - 756003",
+        "website": "http://bharatinstitute.org"
+      },
+      {
+        "id": 2232,
+        "name": "Saraswat Institute of Management",
+        "type": "Private",
+        "location": "Khordha, Odisha - 752060",
+        "website": "http://saraswatgroup.org"
+      },
+      {
+        "id": 2233,
+        "name": "Koustuv Business School (KBS)",
+        "type": "Private",
+        "location": "Bhubaneswar, Odisha - 751024",
+        "website": "https://kbsbbsr.ac.in"
+      },
+      {
+        "id": 2234,
+        "name": "Asian School of Management",
+        "type": "Private",
+        "location": "Khordha / Bhubaneswar, Odisha - 752055",
+        "website": "https://www.asbm.ac.in"
+      },
+      {
+        "id": 2235,
+        "name": "Disha College of Management and Technology",
+        "type": "Private",
+        "location": "Berhampur, Odisha - 761008",
+        "website": "https://dishacollege.in"
+      },
+      {
+        "id": 2238,
+        "name": "Gurukrupa College of Management",
+        "type": "Private",
+        "location": "Khordha, Odisha - 751024",
+        "website": "https://gurukrupacollege.org"
+      },
+      {
+        "id": 2242,
+        "name": "Sophitorium Management College",
+        "type": "Private",
+        "location": "Bhubaneswar, Odisha - 752060",
+        "website": "https://sophitoriumsmc.net"
+      },
+      {
+        "id": 2245,
+        "name": "Bhubaneswar Institute of Management Studies",
+        "type": "Private",
+        "location": "Bhubaneswar, Odisha - 752054",
+        "website": "https://bimsbbsr.in"
+      }
+    ]
   }
 ]

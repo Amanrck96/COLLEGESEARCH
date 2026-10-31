@@ -1,0 +1,172 @@
+[
+  {
+    "id": 2221,
+    "name": "SWMI VIVEKANANDA INSTITUTE OF MANAGEMENT",
+    "address": "AT BANIATAANGI , POST:BAZAPUR,, BHUBANESWAR-752055, KHORDA",
+    "state": "Odisha",
+    "img": "https://media.getmyuni.com/azure/college-images-test/swami-vivekananda-institute-of-management-and-computer-science-kolkata/c573843cd89744b3af2022db8ae19e50.png",
+    "website": "https://www.swmivivekananda.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA(GENERAL MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2226,
+    "name": "VAMSI INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "AT-JAGANNATHPUR,PO-PITAMAHAL",
+    "state": "Odisha",
+    "img": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.vamsiinstituteo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2227,
+    "name": "BHARAT INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "DAHAPADA, FULADI , BALASORE",
+    "state": "Odisha",
+    "img": "https://bits.edu.in/assets/images/building.jpg",
+    "website": "https://www.bharatinstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2232,
+    "name": "SARASWAT INSTITUTE OF MANAGEMENT",
+    "address": "KERANDA, BAJPUR, BHUBANESWAR - 752060",
+    "state": "Odisha",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.saraswatinstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2233,
+    "name": "KOUSTUV BUSINESS SCHOOL PGDM",
+    "address": "PLOT NO-2,INFOCITY ROAD,CHANDAKA IE,CHANDRASEKHARPUR",
+    "state": "Odisha",
+    "img": "https://assets.kollegeapply.com/images/1750771019958-1691642925phpjjj30j.jpeg",
+    "website": "https://www.koustuvbusiness.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2234,
+    "name": "ASIAN SCHOOL OF MANAGEMENT",
+    "address": "AT- BANTALA, PO - MUKTAPUR",
+    "state": "Odisha",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/None/BUILDING_7rVLY4C.jpeg?width=640",
+    "website": "https://www.asianschoolofma.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2235,
+    "name": "DISHA COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "BISWANATHPUR ROAD, NEAR BHAIRABI TEMPLE,PO-MANTRIDI, VIA GOLANTHARA,",
+    "state": "Odisha",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/ribtgt.png?width=640",
+    "website": "https://www.dishacollegeofm.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2238,
+    "name": "GURUKRUPA COLLEGE OF MANAGEMENT",
+    "address": "PLOT NO-1742, SUB PLOT- 03, AT- KALARAHANGA, PO-KIIT SQUARE, PS-INFOCITY, PATIA, BHUBANESWAR, KHORDHA ,ODISHA ,PIN- 751024.",
+    "state": "Odisha",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.gurukrupacolleg.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2242,
+    "name": "SOPHITORIUM MANAGEMENT COLLEGE",
+    "address": "AT: BANIATANGI, PO: BAJAPUR, DIST: KHORDHA, ODISHA-752060",
+    "state": "Odisha",
+    "img": "/images/campuses/primus_bangalore.jpg",
+    "website": "https://www.sophitoriummana.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2245,
+    "name": "BHUBANESWAR INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "INFO VALLEY, HARAPUR, KHORDHA 752054",
+    "state": "Odisha",
+    "img": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.bhu.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM (BUSINESS ADMINISTRATION)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

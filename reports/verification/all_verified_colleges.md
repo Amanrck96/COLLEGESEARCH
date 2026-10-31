@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **240 / 12,660**  
-**Roadmap Progress**: **24.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **250 / 12,660**  
+**Roadmap Progress**: **25.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -369,4 +369,19 @@
 | **2216** | Zenith School of Management | Private | Khordha / Bhubaneswar, Odisha - 752057 | [zenithodisha.com](http://zenithodisha.com) |
 | **2219** | Capital Institute of Management and Science | Private | Khordha, Odisha - 752050 | [cimsbbsr.org](https://cimsbbsr.org) |
 | **2220** | Regional College of Management (RCM) | Private | Bhubaneswar, Odisha - 751023 | [rcm.ac.in](https://rcm.ac.in) |
+
+### Batch 25 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2221** | Swami Vivekananda Institute of Management | Private | Bhubaneswar, Odisha - 752060 | [www.svim.org.in](https://www.svim.org.in) |
+| **2226** | Vamsi Institute of Management Studies | Private | Rayagada, Odisha - 765002 | [vamsi.edu.in](https://vamsi.edu.in) |
+| **2227** | Bharat Institute of Management and Technology | Private | Balasore, Odisha - 756003 | [bharatinstitute.org](http://bharatinstitute.org) |
+| **2232** | Saraswat Institute of Management | Private | Khordha, Odisha - 752060 | [saraswatgroup.org](http://saraswatgroup.org) |
+| **2233** | Koustuv Business School (KBS) | Private | Bhubaneswar, Odisha - 751024 | [kbsbbsr.ac.in](https://kbsbbsr.ac.in) |
+| **2234** | Asian School of Management | Private | Khordha / Bhubaneswar, Odisha - 752055 | [www.asbm.ac.in](https://www.asbm.ac.in) |
+| **2235** | Disha College of Management and Technology | Private | Berhampur, Odisha - 761008 | [dishacollege.in](https://dishacollege.in) |
+| **2238** | Gurukrupa College of Management | Private | Khordha, Odisha - 751024 | [gurukrupacollege.org](https://gurukrupacollege.org) |
+| **2242** | Sophitorium Management College | Private | Bhubaneswar, Odisha - 752060 | [sophitoriumsmc.net](https://sophitoriumsmc.net) |
+| **2245** | Bhubaneswar Institute of Management Studies | Private | Bhubaneswar, Odisha - 752054 | [bimsbbsr.in](https://bimsbbsr.in) |
 
