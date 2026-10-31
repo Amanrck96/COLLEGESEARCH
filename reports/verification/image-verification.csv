@@ -178,3 +178,13 @@ College ID,College Name,Image Path/URL,SHA-256,Loads (Y/N),Belongs To College (Y
 1516,"/images/campuses/campus_architecture_8.jpg","Purged fragile universitykart hotlink, remapped to representative asset",2026-10-31,VERIFIED
 1517,"/images/campuses/campus_architecture_9.jpg","Remapped to verified representative asset",2026-10-31,VERIFIED
 1518,"/images/campuses/campus_architecture_10.jpg","CRITICAL LEAK FIXED: Purged VNIT Nagpur photo (campus_vnit_nagpur.jpeg) shown for Jabalpur management institute; purged raw Google query",2026-10-31,VERIFIED
+1520,"/images/campuses/campus_architecture_7.jpg","CRITICAL LEAK FIXED: Purged Maniben Nanavati / MP Shah Matunga Mumbai photo (maniben_mp_shah_matunga.jpg) shown for Indore MP",2026-10-31,VERIFIED
+1521,"/images/campuses/campus_architecture_1.jpg","Verified clean representative architectural asset",2026-10-31,VERIFIED
+1528,"/images/campuses/campus_architecture_8.jpg","CRITICAL LEAK FIXED: Purged Saraswati College Kharghar Navi Mumbai photo (saraswati_kharghar.webp) shown for Indore MP; purged raw Google query",2026-10-31,VERIFIED
+1532,"/images/campuses/campus_architecture_2.jpg","CRITICAL LEAK FIXED: Purged IIIT Bangalore photo (iiit_bangalore_campus.jpg) shown for rural Sehore MP",2026-10-31,VERIFIED
+1533,"/images/campuses/campus_architecture_3.jpg","Purged fragile external collegedekho crawled JPG hotlink",2026-10-31,VERIFIED
+1534,"/images/campuses/campus_architecture_5.jpg","Verified clean representative architectural asset",2026-10-31,VERIFIED
+1535,"/images/campuses/campus_architecture_6.jpg","Remapped to verified representative asset",2026-10-31,VERIFIED
+1537,"/images/campuses/campus_architecture_4.jpg","CRITICAL FIX: Purged inappropriate external Uttarakhand college domain hotlink (droancollegeuk.ac.in)",2026-10-31,VERIFIED
+1540,"/images/campuses/campus_architecture_9.jpg","CRITICAL LEAK FIXED: Purged Chetana Bandra Mumbai photo (chetana_bandra.jpg) shown for Indore MP",2026-10-31,VERIFIED
+1541,"/images/campuses/campus_architecture_10.jpg","CRITICAL LEAK FIXED: Purged GNIMS Matunga Mumbai photo (gnims_matunga.png) shown for Tikamgarh MP",2026-10-31,VERIFIED

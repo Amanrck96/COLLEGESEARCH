@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **180 / 12,660**  
-**Roadmap Progress**: **18.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **190 / 12,660**  
+**Roadmap Progress**: **19.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -279,4 +279,19 @@
 | **1516** | Akhil Bharti College of Management (ABGI), Bhopal | Private | Madhya Pradesh, India | [www.abcollegebpl.com](http://www.abcollegebpl.com) |
 | **1517** | Asian Institute of Professional Studies (AIPS), Mhow, Indore | Private | Madhya Pradesh, India | [aips.ind.in](https://aips.ind.in) |
 | **1518** | Radiant Institute of Engineering & Management (RIEM), Jabalpur | Private | Madhya Pradesh, India | [riemedu.org](https://riemedu.org) |
+
+### Batch 19 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1520** | Gurukul Business School (Gurukul Group of Institutions), Indore | Private | Madhya Pradesh, India | [www.dauniv.ac.in](https://www.dauniv.ac.in) |
+| **1521** | Eurasian Institute of Management, Bhopal | Private | Madhya Pradesh, India | [bubhopal.ac.in](https://bubhopal.ac.in) |
+| **1528** | Indore International College, Nanod, Indore | Private | Madhya Pradesh, India | [indoreinternationalcollege.in](https://indoreinternationalcollege.in) |
+| **1532** | Alpha Institute of Management & Technology, Shyampur, Sehore | Private | Madhya Pradesh, India | [bubhopal.ac.in](https://bubhopal.ac.in) |
+| **1533** | Rajdeep Global Institute of Management (RGIM), Bhopal | Private | Madhya Pradesh, India | [rgim.in](http://rgim.in) |
+| **1534** | Princeton College, Bareli, Raisen | Private | Madhya Pradesh, India | [bubhopal.ac.in](https://bubhopal.ac.in) |
+| **1535** | Astral Institute of Professional Studies, Indore | Private | Madhya Pradesh, India | [astral.ac.in](https://astral.ac.in) |
+| **1537** | Guru Droan Mahavidyalaya, Tonk Khurd, Dewas | Private | Madhya Pradesh, India | [vikramuniv.ac.in](https://vikramuniv.ac.in) |
+| **1540** | Shree Institute of Professional Studies, Indore | Private | Madhya Pradesh, India | [www.dauniv.ac.in](https://www.dauniv.ac.in) |
+| **1541** | Swami Vivekanand Institute of Management (SVIM), Tikamgarh | Private | Madhya Pradesh, India | [mchhttk.ac.in](https://mchhttk.ac.in) |
 

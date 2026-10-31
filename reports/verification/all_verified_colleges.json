@@ -1348,5 +1348,80 @@
         "website": "https://riemedu.org"
       }
     ]
+  },
+  {
+    "batch": 19,
+    "items": [
+      {
+        "id": 1520,
+        "name": "Gurukul Business School (Gurukul Group of Institutions), Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://www.dauniv.ac.in"
+      },
+      {
+        "id": 1521,
+        "name": "Eurasian Institute of Management, Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://bubhopal.ac.in"
+      },
+      {
+        "id": 1528,
+        "name": "Indore International College, Nanod, Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://indoreinternationalcollege.in"
+      },
+      {
+        "id": 1532,
+        "name": "Alpha Institute of Management & Technology, Shyampur, Sehore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://bubhopal.ac.in"
+      },
+      {
+        "id": 1533,
+        "name": "Rajdeep Global Institute of Management (RGIM), Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://rgim.in"
+      },
+      {
+        "id": 1534,
+        "name": "Princeton College, Bareli, Raisen",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://bubhopal.ac.in"
+      },
+      {
+        "id": 1535,
+        "name": "Astral Institute of Professional Studies, Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://astral.ac.in"
+      },
+      {
+        "id": 1537,
+        "name": "Guru Droan Mahavidyalaya, Tonk Khurd, Dewas",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://vikramuniv.ac.in"
+      },
+      {
+        "id": 1540,
+        "name": "Shree Institute of Professional Studies, Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://www.dauniv.ac.in"
+      },
+      {
+        "id": 1541,
+        "name": "Swami Vivekanand Institute of Management (SVIM), Tikamgarh",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://mchhttk.ac.in"
+      }
+    ]
   }
 ]
