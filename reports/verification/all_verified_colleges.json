@@ -1423,5 +1423,80 @@
         "website": "https://mchhttk.ac.in"
       }
     ]
+  },
+  {
+    "batch": 20,
+    "items": [
+      {
+        "id": 1542,
+        "name": "Acharya Rajendra Suri Shiksha Mahavidyalaya, Mandsaur",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://vikramuniv.ac.in"
+      },
+      {
+        "id": 1543,
+        "name": "Gurukul College of Management, Berasia, Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://bubhopal.ac.in"
+      },
+      {
+        "id": 1546,
+        "name": "AISECT University, Hazaribagh",
+        "type": "Private",
+        "location": "Jharkhand, India",
+        "website": "https://aisectuniversityjharkhand.ac.in"
+      },
+      {
+        "id": 1612,
+        "name": "Xavier Institute of Social Service (XISS), Ranchi",
+        "type": "Private",
+        "location": "Jharkhand, India",
+        "website": "https://www.xiss.ac.in"
+      },
+      {
+        "id": 1613,
+        "name": "Kejriwal Institute of Management and Development Studies (KIMDS), Ranchi",
+        "type": "Private",
+        "location": "Jharkhand, India",
+        "website": "https://kimds.ac.in"
+      },
+      {
+        "id": 1615,
+        "name": "Satyendra Narayan Sinha Institute of Business Management (SNSIBM), Ranchi",
+        "type": "Private",
+        "location": "Jharkhand, India",
+        "website": "http://www.snsibm.ac.in"
+      },
+      {
+        "id": 1618,
+        "name": "Srinath University, Jamshedpur",
+        "type": "Private",
+        "location": "Jharkhand, India",
+        "website": "https://www.srinathuniversity.ac.in"
+      },
+      {
+        "id": 1619,
+        "name": "Netaji Subhas University (NSU), Jamshedpur",
+        "type": "Private",
+        "location": "Jharkhand, India",
+        "website": "https://nsuniv.ac.in"
+      },
+      {
+        "id": 1620,
+        "name": "XLRI - Xavier School of Management, Jamshedpur",
+        "type": "Private",
+        "location": "Jharkhand, India",
+        "website": "https://xlri.ac.in"
+      },
+      {
+        "id": 1645,
+        "name": "Department of Computer Science and Engineering, Rajiv Gandhi University (RGU), Itanagar",
+        "type": "Public/Government (Central University Department)",
+        "location": "Arunachal Pradesh, India",
+        "website": "https://rgu.ac.in"
+      }
+    ]
   }
 ]

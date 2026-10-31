@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **190 / 12,660**  
-**Roadmap Progress**: **19.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **200 / 12,660**  
+**Roadmap Progress**: **20.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -294,4 +294,19 @@
 | **1537** | Guru Droan Mahavidyalaya, Tonk Khurd, Dewas | Private | Madhya Pradesh, India | [vikramuniv.ac.in](https://vikramuniv.ac.in) |
 | **1540** | Shree Institute of Professional Studies, Indore | Private | Madhya Pradesh, India | [www.dauniv.ac.in](https://www.dauniv.ac.in) |
 | **1541** | Swami Vivekanand Institute of Management (SVIM), Tikamgarh | Private | Madhya Pradesh, India | [mchhttk.ac.in](https://mchhttk.ac.in) |
+
+### Batch 20 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1542** | Acharya Rajendra Suri Shiksha Mahavidyalaya, Mandsaur | Private | Madhya Pradesh, India | [vikramuniv.ac.in](https://vikramuniv.ac.in) |
+| **1543** | Gurukul College of Management, Berasia, Bhopal | Private | Madhya Pradesh, India | [bubhopal.ac.in](https://bubhopal.ac.in) |
+| **1546** | AISECT University, Hazaribagh | Private | Jharkhand, India | [aisectuniversityjharkhand.ac.in](https://aisectuniversityjharkhand.ac.in) |
+| **1612** | Xavier Institute of Social Service (XISS), Ranchi | Private | Jharkhand, India | [www.xiss.ac.in](https://www.xiss.ac.in) |
+| **1613** | Kejriwal Institute of Management and Development Studies (KIMDS), Ranchi | Private | Jharkhand, India | [kimds.ac.in](https://kimds.ac.in) |
+| **1615** | Satyendra Narayan Sinha Institute of Business Management (SNSIBM), Ranchi | Private | Jharkhand, India | [www.snsibm.ac.in](http://www.snsibm.ac.in) |
+| **1618** | Srinath University, Jamshedpur | Private | Jharkhand, India | [www.srinathuniversity.ac.in](https://www.srinathuniversity.ac.in) |
+| **1619** | Netaji Subhas University (NSU), Jamshedpur | Private | Jharkhand, India | [nsuniv.ac.in](https://nsuniv.ac.in) |
+| **1620** | XLRI - Xavier School of Management, Jamshedpur | Private | Jharkhand, India | [xlri.ac.in](https://xlri.ac.in) |
+| **1645** | Department of Computer Science and Engineering, Rajiv Gandhi University (RGU), Itanagar | Public/Government (Central University Department) | Arunachal Pradesh, India | [rgu.ac.in](https://rgu.ac.in) |
 

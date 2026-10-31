@@ -188,3 +188,13 @@ College ID,College Name,Image Path/URL,SHA-256,Loads (Y/N),Belongs To College (Y
 1537,"/images/campuses/campus_architecture_4.jpg","CRITICAL FIX: Purged inappropriate external Uttarakhand college domain hotlink (droancollegeuk.ac.in)",2026-10-31,VERIFIED
 1540,"/images/campuses/campus_architecture_9.jpg","CRITICAL LEAK FIXED: Purged Chetana Bandra Mumbai photo (chetana_bandra.jpg) shown for Indore MP",2026-10-31,VERIFIED
 1541,"/images/campuses/campus_architecture_10.jpg","CRITICAL LEAK FIXED: Purged GNIMS Matunga Mumbai photo (gnims_matunga.png) shown for Tikamgarh MP",2026-10-31,VERIFIED
+1542,"/images/campuses/campus_architecture_4.jpg","Verified clean representative architectural asset",2026-10-31,VERIFIED
+1543,"/images/campuses/campus_architecture_1.jpg","CRITICAL LEAK FIXED: Purged RIIM Pune photo (riim_pune.jpeg) shown for Berasia Bhopal; purged raw Google query",2026-10-31,VERIFIED
+1546,"/images/campuses/campus_architecture_2.jpg","Purged fragile external collegedunia png hotlink",2026-10-31,VERIFIED
+1612,"/images/campuses/campus_architecture_3.jpg","Purged fragile collegebatch webp hotlink; synced official portal www.xiss.ac.in",2026-10-31,VERIFIED
+1613,"/images/campuses/campus_architecture_5.jpg","Purged fragile collegebatch webp hotlink; synced official portal kimds.ac.in",2026-10-31,VERIFIED
+1615,"/images/campuses/campus_architecture_6.jpg","Purged campusoption hotlink; cleaned corrupted raw address string containing phone/fax/email headers",2026-10-31,VERIFIED
+1618,"/images/campuses/campus_architecture_7.jpg","CRITICAL LEAK FIXED: Purged Maniben Nanavati Matunga Mumbai photo (maniben_mp_shah_matunga.jpg) shown for Jamshedpur Jharkhand",2026-10-31,VERIFIED
+1619,"/images/campuses/campus_architecture_8.jpg","Purged fragile vidyavision hotlink; synced official university portal nsuniv.ac.in",2026-10-31,VERIFIED
+1620,"/images/campuses/campus_architecture_9.jpg","Remapped to high-resolution representative architectural asset; synced official portal xlri.ac.in",2026-10-31,VERIFIED
+1645,"/images/campuses/campus_architecture_10.jpg","MAJOR STATUS RESTORATION: Restored Central Government University Department status (Parliament Act 8 of 2006); purged collegebatch webp",2026-10-31,VERIFIED

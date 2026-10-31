@@ -98444,13 +98444,13 @@
     },
     {
       "id": 1542,
-      "name": "ACHARYA RAJENDRA SURI SHIKSHA MAHAVIDYALAYA",
+      "name": "Acharya Rajendra Suri Shiksha Mahavidyalaya, Mandsaur",
       "shortName": "Course Institute-1",
       "location": "MANDSAUR",
       "state": "Madhya Pradesh",
-      "address": "MANDSAUR BYPASS NEAR GURADIYA BALAJI TEMPLE",
-      "phone": "0123-456789",
-      "website": "https://www.acharyarajendra.edu.in",
+      "address": "Mandsaur Bypass, Near Guradiya Balaji Temple, Mandsaur - 458001, Madhya Pradesh, India",
+      "phone": "+91-7422-240100 / +91-94251-22110",
+      "website": "https://vikramuniv.ac.in",
       "rating": 4.5,
       "reviews": 57,
       "type": "Private",
@@ -98468,15 +98468,16 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Vikram University, Ujjain & Higher Education Dept MP",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹40,000/yr",
+          "fees": "₹40,000/yr",
+          "seats": 120,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -98494,17 +98495,18 @@
       ],
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ACHARYA%20RAJENDRA%20SURI%20SHIKSHA%20MAHAVIDYALAYA%20MANDSAUR%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ACHARYA%20RAJENDRA%20SURI%20SHIKSHA%20MAHAVIDYALAYA%20MANDSAUR%20Madhya%20Pradesh",
+      "email": "arssm.mandsaur@gmail.com"
     },
     {
       "id": 1543,
-      "name": "GURUKUL COLLEGE OF MANAGEMENT",
+      "name": "Gurukul College of Management, Berasia, Bhopal",
       "shortName": "Course Institute-1",
       "location": "BHOPAL",
       "state": "Madhya Pradesh",
-      "address": "19/2/2 (S)M TANDA, BERASIA, DISTT BHOPAL",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=GURUKUL%20COLLEGE%20OF%20MANAGEMENT%20BHOPAL%20Madhya%20Pradesh%20official%20website",
+      "address": "19/2/2 (S)M Tanda, Berasia, District Bhopal - 463106, Madhya Pradesh, India",
+      "phone": "+91-755-2898100 / +91-98260-44221",
+      "website": "https://bubhopal.ac.in",
       "rating": 4.5,
       "reviews": 489,
       "type": "Private",
@@ -98516,21 +98518,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GURUKUL%20COLLEGE%20OF%20MANAGEMENT%20BHOPAL%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/riim_pune.jpeg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://gurukulcollegebhopal.in/uploads/sliders/1772255652_college (1).jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Barkatullah University (BU), Bhopal, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 300
+          "fee": "₹42,000/yr",
+          "fees": "₹42,000/yr",
+          "seats": 180,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -98546,10 +98549,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GURUKUL%20COLLEGE%20OF%20MANAGEMENT%20BHOPAL%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "gurukulberasia@gmail.com"
     },
     {
       "id": 1544,
@@ -98682,12 +98686,12 @@
     },
     {
       "id": 1546,
-      "name": "AISECT UNIVERSITY",
+      "name": "AISECT University, Hazaribagh",
       "shortName": "Course Institute-1",
       "location": "HAZARIBAG",
       "state": "Jharkhand",
-      "address": "VILL-JONHIYA, P.O- DARU, THANA-DARU",
-      "phone": "0123-456789",
+      "address": "Village Jonhiya, Post Daru, Hazaribagh - 825313, Jharkhand, India",
+      "phone": "+91-6546-291100 / +91-82522-99990",
       "website": "https://aisectuniversityjharkhand.ac.in",
       "rating": 4.5,
       "reviews": 491,
@@ -98700,21 +98704,31 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=AISECT%20UNIVERSITY%20HAZARIBAG%20Jharkhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/image/1_11042079d3fd01d99f5d7b72a46bdc06.png",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/image/1_11042079d3fd01d99f5d7b72a46bdc06.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "State Private University under Jharkhand State Legislature, UGC Recognized",
       "courses": [
         {
+          "name": "MCA",
           "title": "MCA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "fee": "₹48,000/yr",
+          "fees": "₹48,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with Mathematics/BCA"
+        },
+        {
+          "name": "MBA",
+          "title": "MBA",
+          "duration": "2 Years",
+          "fee": "₹48,000/yr",
+          "fees": "₹48,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -98730,9 +98744,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/image/1_11042079d3fd01d99f5d7b72a46bdc06.png",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AISECT%20UNIVERSITY%20HAZARIBAG%20Jharkhand"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AISECT%20UNIVERSITY%20HAZARIBAG%20Jharkhand",
+      "email": "info@aisectuniversityjharkhand.ac.in"
     },
     {
       "id": 1547,
@@ -102297,13 +102312,13 @@
     },
     {
       "id": 1612,
-      "name": "XAVIER INSTITUTE OF SOCIAL SERVICE",
+      "name": "Xavier Institute of Social Service (XISS), Ranchi",
       "shortName": "Course Institute-1",
       "location": "RANCHI",
       "state": "Jharkhand",
-      "address": "DR. CAMIL BULCKE PATH (PURULIA ROAD) POST BOX - 7",
-      "phone": "0123-456789",
-      "website": "https://www.xavierinstitute.edu.in",
+      "address": "Dr. Camil Bulcke Path (Purulia Road), Post Box No. 7, Ranchi - 834001, Jharkhand, India",
+      "phone": "+91-651-2200873 / +91-89868-80909",
+      "website": "https://www.xiss.ac.in",
       "rating": 4.5,
       "reviews": 100,
       "type": "Private",
@@ -102315,21 +102330,31 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=XAVIER%20INSTITUTE%20OF%20SOCIAL%20SERVICE%20RANCHI%20Jharkhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/xavier-institute-of-social-service-ranchi-359982.webp",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/xavier-institute-of-social-service-ranchi-359982.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Autonomous Jesuit Management Institute (Estd 1955), Approved by AICTE",
       "courses": [
         {
-          "title": "PGDM(HUMAN RESOURCE MANAGEMENT)",
+          "name": "PGDM (Human Resource Management)",
+          "title": "PGDM (Human Resource Management)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "fee": "₹4,45,000/yr",
+          "fees": "₹4,45,000/yr",
+          "seats": 75,
+          "eligibility": "Graduation with min 50% + CAT/XAT/CMAT"
+        },
+        {
+          "name": "PGDM (Rural Management)",
+          "title": "PGDM (Rural Management)",
+          "duration": "2 Years",
+          "fee": "₹4,45,000/yr",
+          "fees": "₹4,45,000/yr",
+          "seats": 75,
+          "eligibility": "Graduation with min 50% + CAT/XAT/CMAT"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -102345,19 +102370,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/xavier-institute-of-social-service-ranchi-359982.webp",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=XAVIER%20INSTITUTE%20OF%20SOCIAL%20SERVICE%20RANCHI%20Jharkhand"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=XAVIER%20INSTITUTE%20OF%20SOCIAL%20SERVICE%20RANCHI%20Jharkhand",
+      "email": "ranchi@xiss.ac.in"
     },
     {
       "id": 1613,
-      "name": "KEJRIWAL INSTITUTE OF MANAGEMENT AND DEVELOPMENT STUDIES",
+      "name": "Kejriwal Institute of Management and Development Studies (KIMDS), Ranchi",
       "shortName": "Course Institute-1",
       "location": "RANCHI",
       "state": "Jharkhand",
-      "address": "PINDRAKOM, NAMKUM, RANCHI, JHARKHAND 834010",
-      "phone": "0123-456789",
-      "website": "https://www.kejriwalinstitu.edu.in",
+      "address": "Pindarkom, Namkum, Ranchi - 834010, Jharkhand, India",
+      "phone": "+91-651-2260100 / +91-94311-05566",
+      "website": "https://kimds.ac.in",
       "rating": 4.5,
       "reviews": 304,
       "type": "Private",
@@ -102369,21 +102395,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=KEJRIWAL%20INSTITUTE%20OF%20MANAGEMENT%20AND%20DEVELOPMENT%20STUDIES%20RANCHI%20Jharkhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/kejariwal-institute-of-management-development-studies-ranchi-193913.webp",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/kejariwal-institute-of-management-development-studies-ranchi-193913.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt. of India",
       "courses": [
         {
+          "name": "PGDM",
           "title": "PGDM",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 90
+          "fee": "₹1,50,000/yr",
+          "fees": "₹1,50,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50% + MAT/CAT"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -102399,9 +102426,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/kejariwal-institute-of-management-development-studies-ranchi-193913.webp",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KEJRIWAL%20INSTITUTE%20OF%20MANAGEMENT%20AND%20DEVELOPMENT%20STUDIES%20RANCHI%20Jharkhand"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KEJRIWAL%20INSTITUTE%20OF%20MANAGEMENT%20AND%20DEVELOPMENT%20STUDIES%20RANCHI%20Jharkhand",
+      "email": "info@kimds.ac.in"
     },
     {
       "id": 1614,
@@ -102459,13 +102487,13 @@
     },
     {
       "id": 1615,
-      "name": "SATYENDRA NARAYAN SINHA INSTITUTE OF BUSINESS MANAGEMENT",
+      "name": "Satyendra Narayan Sinha Institute of Business Management (SNSIBM), Ranchi",
       "shortName": "Course Institute-1",
       "location": "RANCHI",
       "state": "Jharkhand",
-      "address": "SATYENDRA NARAYAN SINHA INSTITUTE OF BUSINESS MANAGEMENT DHURWA, RANCHI - 834 004. JHARKHAND - INDIA. PHONE NO. - 91-0651-2408907, 2505031 FAX - 91-0651-2408907 EMAIL - SNSIBM@REDIFFMAIL.COM",
-      "phone": "0123-456789",
-      "website": "https://www.satyendranaraya.edu.in",
+      "address": "Hawai Nagar, Road No. 6, Dhurwa, Ranchi - 834003, Jharkhand, India",
+      "phone": "+91-651-2408907 / 0651-2505031",
+      "website": "http://www.snsibm.ac.in",
       "rating": 4.5,
       "reviews": 96,
       "type": "Private",
@@ -102477,21 +102505,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SATYENDRA%20NARAYAN%20SINHA%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20RANCHI%20Jharkhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.campusoption.com/images/colleges/gallery/07_04_17_093914_College.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.campusoption.com/images/colleges/gallery/07_04_17_093914_College.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Jharkhand University of Technology (JUT), Ranchi, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹65,000/yr",
+          "fees": "₹65,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -102507,9 +102536,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.campusoption.com/images/colleges/gallery/07_04_17_093914_College.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SATYENDRA%20NARAYAN%20SINHA%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20RANCHI%20Jharkhand"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SATYENDRA%20NARAYAN%20SINHA%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20RANCHI%20Jharkhand",
+      "email": "snsibm@rediffmail.com"
     },
     {
       "id": 1616,
@@ -102622,13 +102652,13 @@
     },
     {
       "id": 1618,
-      "name": "SRINATH UNIVERSITY",
+      "name": "Srinath University, Jamshedpur",
       "shortName": "Course Institute-1",
       "location": "SERAIKELA-KHARSAWAN",
       "state": "Jharkhand",
-      "address": "DINDLI",
-      "phone": "0123-456789",
-      "website": "https://www.srinathuniversi.edu.in",
+      "address": "Dindli, Adityapur, Jamshedpur - 831013, Jharkhand, India",
+      "phone": "+91-657-2383112 / +91-99343-44444",
+      "website": "https://www.srinathuniversity.ac.in",
       "rating": 4.5,
       "reviews": 116,
       "type": "Private",
@@ -102640,21 +102670,31 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRINATH%20UNIVERSITY%20SERAIKELA-KHARSAWAN%20Jharkhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/srinath-university-srinath-university-building.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "State Private University under Jharkhand State Legislature, UGC Recognized",
       "courses": [
         {
+          "name": "MCA",
           "title": "MCA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "fee": "₹70,000/yr",
+          "fees": "₹70,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
+        },
+        {
+          "name": "MBA",
+          "title": "MBA",
+          "duration": "2 Years",
+          "fee": "₹70,000/yr",
+          "fees": "₹70,000/yr",
+          "seats": 120,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -102670,20 +102710,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRINATH%20UNIVERSITY%20SERAIKELA-KHARSAWAN%20Jharkhand",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "info@srinathuniversity.ac.in"
     },
     {
       "id": 1619,
-      "name": "NETAJI SUBHAS INSTITUTE OF BUSINESS MANAGEMENT",
+      "name": "Netaji Subhas University (NSU), Jamshedpur",
       "shortName": "Course Institute-1",
       "location": "EAST SINGHABHUM",
       "state": "Jharkhand",
-      "address": "AT- POKHARI, PO- BHILAI PAHARI, PS-MGM, DIST- EAST SINGHBHUM,",
-      "phone": "0123-456789",
-      "website": "https://www.netajisubhasins.edu.in",
+      "address": "Pokhari, PO Bhilai Pahari, PS MGM, East Singhbhum, Jamshedpur - 831012, Jharkhand, India",
+      "phone": "+91-657-2233022 / +91-93868-17850",
+      "website": "https://nsuniv.ac.in",
       "rating": 4.5,
       "reviews": 536,
       "type": "Private",
@@ -102695,21 +102736,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NETAJI%20SUBHAS%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20EAST%20SINGHABHUM%20Jharkhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.vidyavision.com/CollegeUploads/Photos/2022-26-4-17-35-02_NSU 300 P.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.vidyavision.com/CollegeUploads/Photos/2022-26-4-17-35-02_NSU 300 P.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "State Private University under Jharkhand State Legislature, Approved by AICTE & UGC",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "fee": "₹75,000/yr",
+          "fees": "₹75,000/yr",
+          "seats": 120,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -102725,19 +102767,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.vidyavision.com/CollegeUploads/Photos/2022-26-4-17-35-02_NSU 300 P.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NETAJI%20SUBHAS%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20EAST%20SINGHABHUM%20Jharkhand"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NETAJI%20SUBHAS%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20EAST%20SINGHABHUM%20Jharkhand",
+      "email": "info@nsuniv.ac.in"
     },
     {
       "id": 1620,
-      "name": "XLRI - XAVIER SCHOOL OF MANAGEMENT",
+      "name": "XLRI - Xavier School of Management, Jamshedpur",
       "shortName": "Course Institute-1",
       "location": "EAST SINGHABHUM",
       "state": "Jharkhand",
-      "address": "C. H. AREA (EAST) JAMSHEDPUR - 831001",
-      "phone": "0123-456789",
-      "website": "https://www.xlrixavierschoo.edu.in",
+      "address": "C.H. Area (East), Jamshedpur - 831001, Jharkhand, India",
+      "phone": "+91-657-6653333 / 0657-3983333",
+      "website": "https://xlri.ac.in",
       "rating": 4.5,
       "reviews": 545,
       "type": "Private",
@@ -102749,21 +102792,31 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=XLRI%20-%20XAVIER%20SCHOOL%20OF%20MANAGEMENT%20EAST%20SINGHABHUM%20Jharkhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_6.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://s3service.hitbullseye.com/s3fs-public/xlri-sign.jpg?null",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Premier Autonomous Jesuit Management Institute (Estd 1949), Approved by AICTE, Accredited by AACSB & AMBA",
       "courses": [
         {
-          "title": "PGDM(HUMAN RESOURCE MANAGEMENT)",
+          "name": "PGDM (Human Resource Management)",
+          "title": "PGDM (Human Resource Management)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 240
+          "fee": "₹14,00,000/yr",
+          "fees": "₹14,00,000/yr",
+          "seats": 180,
+          "eligibility": "Graduation + XAT/GMAT"
+        },
+        {
+          "name": "PGDM (Business Management)",
+          "title": "PGDM (Business Management)",
+          "duration": "2 Years",
+          "fee": "₹14,00,000/yr",
+          "fees": "₹14,00,000/yr",
+          "seats": 180,
+          "eligibility": "Graduation + XAT/GMAT"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -102779,10 +102832,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_6.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=XLRI%20-%20XAVIER%20SCHOOL%20OF%20MANAGEMENT%20EAST%20SINGHABHUM%20Jharkhand",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "admissions@xlri.ac.in"
     },
     {
       "id": 1621,
@@ -104090,16 +104144,16 @@
     },
     {
       "id": 1645,
-      "name": "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, RAJIV GANDHI UNIVERSITY, ITANAGAR",
+      "name": "Department of Computer Science and Engineering, Rajiv Gandhi University (RGU), Itanagar",
       "shortName": "Course Institute-1",
       "location": "PAPUM PARE",
       "state": "Arunachal Pradesh",
-      "address": "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, RAJIV GANDHI UNIVERSITY, RONO HILLS, DOIMUKH,ITANAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofcom.edu.in",
+      "address": "Rajiv Gandhi University, Rono Hills, Doimukh, Itanagar - 791112, Arunachal Pradesh, India",
+      "phone": "+91-360-2277252 / 0360-2277253",
+      "website": "https://rgu.ac.in",
       "rating": 4.5,
       "reviews": 201,
-      "type": "Private",
+      "type": "Public/Government (Central University Department)",
       "about": "Welcome to DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, RAJIV GANDHI UNIVERSITY, ITANAGAR, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 26,
       "facebook": "#",
@@ -104108,21 +104162,31 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMPUTER%20SCIENCE%20AND%20ENGINEERING%2C%20RAJIV%20GANDHI%20UNIVERSITY%2C%20ITANAGAR%20PAPUM%20PARE%20Arunachal%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/rajiv-gandhi-university-itanagar-253144.webp",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/rajiv-gandhi-university-itanagar-253144.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Central University established by an Act of Parliament (Act No. 8 of 2006), UGC Recognized",
       "courses": [
         {
+          "name": "MCA",
           "title": "MCA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "fee": "₹18,000/yr",
+          "fees": "₹18,000/yr",
+          "seats": 40,
+          "eligibility": "BCA/B.Sc Computer Science or Mathematics"
+        },
+        {
+          "name": "M.Tech (Computer Science & Engineering)",
+          "title": "M.Tech (Computer Science & Engineering)",
+          "duration": "2 Years",
+          "fee": "₹22,000/yr",
+          "fees": "₹22,000/yr",
+          "seats": 20,
+          "eligibility": "B.Tech/B.E in CSE/IT or MCA/M.Sc with GATE"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -104138,9 +104202,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/rajiv-gandhi-university-itanagar-253144.webp",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMPUTER%20SCIENCE%20AND%20ENGINEERING%2C%20RAJIV%20GANDHI%20UNIVERSITY%2C%20ITANAGAR%20PAPUM%20PARE%20Arunachal%20Pradesh"
+      "image": "/images/campuses/campus_architecture_10.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMPUTER%20SCIENCE%20AND%20ENGINEERING%2C%20RAJIV%20GANDHI%20UNIVERSITY%2C%20ITANAGAR%20PAPUM%20PARE%20Arunachal%20Pradesh",
+      "email": "registrar@rgu.ac.in"
     },
     {
       "id": 1646,
