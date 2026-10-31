@@ -328,3 +328,67 @@ College ID,College Name,Field,Existing Value,Verified Value,Status,Source URL,Da
 578,SCHOOL OF COMMERCE AND BUSINESS MANAGEMENT MAULANA AZAD NATIONAL URDU UNIVERSITY,phone,0123-456789,040-23120600 (Extn: 3410 / 3401),VERIFIED,https://manuu.edu.in,2026-10-31,Official university lines
 578,SCHOOL OF COMMERCE AND BUSINESS MANAGEMENT MAULANA AZAD NATIONAL URDU UNIVERSITY,email,N/A,dean.bmc@manuu.edu.in / hod.bmc@manuu.edu.in,VERIFIED,https://manuu.edu.in,2026-10-31,Official departmental inboxes
 578,SCHOOL OF COMMERCE AND BUSINESS MANAGEMENT MAULANA AZAD NATIONAL URDU UNIVERSITY,affiliation,N/A,"Maulana Azad National Urdu University & Approved by UGC / AICTE, NAAC A+ Grade",VERIFIED,https://manuu.edu.in,2026-10-31,Central University
+579,NALSAR UNIVERSITY OF LAW,name,NALSAR UNIVERSITY OF LAW,"Department of Management Studies (DoMS), NALSAR University of Law",VERIFIED,https://doms.nalsar.ac.in,2026-10-31,Full university department name
+579,NALSAR UNIVERSITY OF LAW,type,Private,Public/Government (State University / National Law University),VERIFIED,https://doms.nalsar.ac.in,2026-10-31,RESOLVED CRITICAL DEFECT: NALSAR is an apex National Law University established by the Andhra Pradesh State Legislature (Act 34 of 1998).
+579,NALSAR UNIVERSITY OF LAW,ownership,Private,Government,VERIFIED,https://doms.nalsar.ac.in,2026-10-31,State Statutory University
+579,NALSAR UNIVERSITY OF LAW,website,https://www.nalsar.ac.in,https://doms.nalsar.ac.in,VERIFIED,https://doms.nalsar.ac.in,2026-10-31,Official NALSAR DoMS portal
+579,NALSAR UNIVERSITY OF LAW,address,"HYDERABAD, TELANGANA","Justice City, Shameerpet, Medchal-Malkajgiri District, Hyderabad - 500101, Telangana, India",VERIFIED,https://doms.nalsar.ac.in,2026-10-31,Full Justice City campus address
+579,NALSAR UNIVERSITY OF LAW,phone,0123-456789,040-2349 8409 / 040-2349 8100,VERIFIED,https://doms.nalsar.ac.in,2026-10-31,Official admissions telephone lines
+579,NALSAR UNIVERSITY OF LAW,email,N/A,mbaadmissions@nalsar.ac.in / doms@nalsar.ac.in,VERIFIED,https://doms.nalsar.ac.in,2026-10-31,Official departmental inboxes
+579,NALSAR UNIVERSITY OF LAW,affiliation,N/A,"Statutory National Law University, Approved by UGC & BCI, NAAC A++ Grade",VERIFIED,https://doms.nalsar.ac.in,2026-10-31,Premier National Law University
+582,FORTUNE SCHOOL OF BUSINESS,name,FORTUNE SCHOOL OF BUSINESS,"Fortune School of Business (FSB), Hyderabad",VERIFIED,https://www.fsb.org.in,2026-10-31,Full institutional name
+582,FORTUNE SCHOOL OF BUSINESS,website,https://www.fortuneschoolof.edu.in,https://www.fsb.org.in,VERIFIED,https://www.fsb.org.in,2026-10-31,Official FSB portal
+582,FORTUNE SCHOOL OF BUSINESS,address,"HYDERABAD, TELANGANA","Kothari Solitaire, 1st Floor, Beside Govt Degree College, NH-65, Kukatpally, Hyderabad - 500072, Telangana, India",VERIFIED,https://www.fsb.org.in,2026-10-31,Full Kukatpally campus address
+582,FORTUNE SCHOOL OF BUSINESS,phone,0123-456789,+91 9246582901 / +91 7661804099,VERIFIED,https://www.fsb.org.in,2026-10-31,Official campus telephone lines
+582,FORTUNE SCHOOL OF BUSINESS,email,N/A,fsb.org.in@gmail.com,VERIFIED,https://www.fsb.org.in,2026-10-31,Official contact email
+582,FORTUNE SCHOOL OF BUSINESS,affiliation,N/A,Osmania University & Approved by AICTE,VERIFIED,https://www.fsb.org.in,2026-10-31,Osmania University affiliated
+583,PANNALA RAM REDDY COLLEGE OF BUSSINESS MANAGEMENT,name,PANNALA RAM REDDY COLLEGE OF BUSSINESS MANAGEMENT,Pannala Ram Reddy College of Business Management (PRRCBM),VERIFIED,https://www.prrcbm.com,2026-10-31,"Corrected typography (""BUSSINESS"" to Business)"
+583,PANNALA RAM REDDY COLLEGE OF BUSSINESS MANAGEMENT,website,https://www.pannalaramreddy.edu.in,https://www.prrcbm.com,VERIFIED,https://www.prrcbm.com,2026-10-31,Official PRRCBM portal
+583,PANNALA RAM REDDY COLLEGE OF BUSSINESS MANAGEMENT,address,"HYDERABAD, TELANGANA","Ram Reddy Nagar Colony, Beside Pallavi Model School, Boduppal (Near Uppal Bus Depot), Hyderabad - 500092, Telangana, India",VERIFIED,https://www.prrcbm.com,2026-10-31,Full Boduppal campus address
+583,PANNALA RAM REDDY COLLEGE OF BUSSINESS MANAGEMENT,phone,0123-456789,+91 9000200222 / 040-64643900,VERIFIED,https://www.prrcbm.com,2026-10-31,Official campus telephone lines
+583,PANNALA RAM REDDY COLLEGE OF BUSSINESS MANAGEMENT,email,N/A,prcb.boduppal@gmail.com,VERIFIED,https://www.prrcbm.com,2026-10-31,Official administrative email
+583,PANNALA RAM REDDY COLLEGE OF BUSSINESS MANAGEMENT,affiliation,N/A,"Osmania University & Approved by AICTE, ICET Code: PRRB",VERIFIED,https://www.prrcbm.com,2026-10-31,Osmania University affiliated
+584,SCHOOL OF INNOVATION AND MANAGEMENT,name,SCHOOL OF INNOVATION AND MANAGEMENT,"School of Innovation and Management (SOIM), Hyderabad",VERIFIED,https://soim.edu.in,2026-10-31,Full institutional name
+584,SCHOOL OF INNOVATION AND MANAGEMENT,website,https://www.schoolofinnovat.edu.in,https://soim.edu.in,VERIFIED,https://soim.edu.in,2026-10-31,Official SOIM portal
+584,SCHOOL OF INNOVATION AND MANAGEMENT,address,"HYDERABAD, TELANGANA","GNITS Campus, Shaikpet, Hyderabad - 500008, Telangana, India",VERIFIED,https://soim.edu.in,2026-10-31,Full Shaikpet campus address
+584,SCHOOL OF INNOVATION AND MANAGEMENT,phone,0123-456789,+91 91549 84801 / +91 91549 84802,VERIFIED,https://soim.edu.in,2026-10-31,Official admissions telephone lines
+584,SCHOOL OF INNOVATION AND MANAGEMENT,email,N/A,admissions@soim.edu.in / info@soim.edu.in,VERIFIED,https://soim.edu.in,2026-10-31,Official admissions office
+584,SCHOOL OF INNOVATION AND MANAGEMENT,affiliation,N/A,"Approved by AICTE, New Delhi",VERIFIED,https://soim.edu.in,2026-10-31,Autonomous business school
+586,OMEGA BUSINESS SCHOOL,name,OMEGA BUSINESS SCHOOL,"Omega Business School, Hyderabad",VERIFIED,https://omegabusinessschool.ac.in,2026-10-31,Full institutional name
+586,OMEGA BUSINESS SCHOOL,website,https://www.omegabusinesssc.edu.in,https://omegabusinessschool.ac.in,VERIFIED,https://omegabusinessschool.ac.in,2026-10-31,Official Omega portal
+586,OMEGA BUSINESS SCHOOL,address,"HYDERABAD, TELANGANA","Sy. No. 15, Edulabad (V), Ghatkesar (M), Medchal-Malkajgiri District, Hyderabad - 501301, Telangana, India",VERIFIED,https://omegabusinessschool.ac.in,2026-10-31,Full Ghatkesar campus address
+586,OMEGA BUSINESS SCHOOL,phone,0123-456789,+91 9246805933 / +91 9912988863,VERIFIED,https://omegabusinessschool.ac.in,2026-10-31,Official institute telephone lines
+586,OMEGA BUSINESS SCHOOL,email,N/A,obs.pgdm@omegacolleges.com,VERIFIED,https://omegabusinessschool.ac.in,2026-10-31,Official departmental inbox
+586,OMEGA BUSINESS SCHOOL,affiliation,N/A,"Osmania University & Approved by AICTE, New Delhi",VERIFIED,https://omegabusinessschool.ac.in,2026-10-31,Osmania University affiliated
+587,"AURORA'S BUSINESS SCHOOL, ABIDS, HYDERABAD",name,"AURORA'S BUSINESS SCHOOL, ABIDS, HYDERABAD","Aurora's Business School, Hyderabad",VERIFIED,https://www.absi.edu.in,2026-10-31,Full institutional name
+587,"AURORA'S BUSINESS SCHOOL, ABIDS, HYDERABAD",website,https://www.aurorasbusiness.edu.in,https://www.absi.edu.in,VERIFIED,https://www.absi.edu.in,2026-10-31,Official Aurora portal
+587,"AURORA'S BUSINESS SCHOOL, ABIDS, HYDERABAD",address,"ABIDS, HYDERABAD","6-3-456/18 & 19, Dwarakapuri Colony, Punjagutta, Hyderabad - 500082, Telangana, India",VERIFIED,https://www.absi.edu.in,2026-10-31,Full business school campus address
+587,"AURORA'S BUSINESS SCHOOL, ABIDS, HYDERABAD",phone,0123-456789,040-2335 0062 / +91-9100222222,VERIFIED,https://www.absi.edu.in,2026-10-31,Official admissions telephone lines
+587,"AURORA'S BUSINESS SCHOOL, ABIDS, HYDERABAD",email,N/A,info@absi.edu.in / admissions@aurora.edu.in,VERIFIED,https://www.absi.edu.in,2026-10-31,Official admissions email
+587,"AURORA'S BUSINESS SCHOOL, ABIDS, HYDERABAD",affiliation,N/A,"Approved by AICTE, Ministry of Education, Govt. of India",VERIFIED,https://www.absi.edu.in,2026-10-31,AICTE approved
+590,ARADHANA SCHOOL OF BUSINESS MANAGEMENT,name,ARADHANA SCHOOL OF BUSINESS MANAGEMENT,"Aradhana School of Business Management (ASBM), Hyderabad",VERIFIED,http://www.asbm.in,2026-10-31,Full institutional name
+590,ARADHANA SCHOOL OF BUSINESS MANAGEMENT,website,https://www.aradhanaschoolo.edu.in,http://www.asbm.in,VERIFIED,http://www.asbm.in,2026-10-31,Official ASBM portal
+590,ARADHANA SCHOOL OF BUSINESS MANAGEMENT,address,"HYDERABAD, TELANGANA","Near Pillar No. 216, Mehdipatnam Expressway, Kismatpur, Rajendranagar, Hyderabad - 500086, Telangana, India",VERIFIED,http://www.asbm.in,2026-10-31,Full Kismatpur campus address
+590,ARADHANA SCHOOL OF BUSINESS MANAGEMENT,phone,0123-456789,040-2970 3251 / +91-8008557312,VERIFIED,http://www.asbm.in,2026-10-31,Official campus telephone lines
+590,ARADHANA SCHOOL OF BUSINESS MANAGEMENT,email,N/A,Principal.ASBM@gmail.com / info@asbm.in,VERIFIED,http://www.asbm.in,2026-10-31,Official institute emails
+590,ARADHANA SCHOOL OF BUSINESS MANAGEMENT,affiliation,N/A,"Osmania University & Approved by AICTE, ICET Code: ARDH",VERIFIED,http://www.asbm.in,2026-10-31,Osmania University affiliated
+592,BHARATHI INSTITUTE OF BUSINESS MANAGEMENT,name,BHARATHI INSTITUTE OF BUSINESS MANAGEMENT,"Bharathi Institute of Business Management (BIBM), Warangal",VERIFIED,https://kakatiya.ac.in,2026-10-31,Full institutional name
+592,BHARATHI INSTITUTE OF BUSINESS MANAGEMENT,website,https://www.bharathiinstitu.edu.in,https://kakatiya.ac.in,VERIFIED,https://kakatiya.ac.in,2026-10-31,Official Kakatiya University affiliate listing
+592,BHARATHI INSTITUTE OF BUSINESS MANAGEMENT,address,"WARANGAL, TELANGANA","Survey No. 437, Gangadevipally Village, Geesugonda Mandal, Warangal District - 506370, Telangana, India",VERIFIED,https://kakatiya.ac.in,2026-10-31,Full rural campus address
+592,BHARATHI INSTITUTE OF BUSINESS MANAGEMENT,phone,0123-456789,0870-2425212 / +91-7702089255,VERIFIED,https://kakatiya.ac.in,2026-10-31,Official administrative lines
+592,BHARATHI INSTITUTE OF BUSINESS MANAGEMENT,email,N/A,bibmwarangal@gmail.com,VERIFIED,https://kakatiya.ac.in,2026-10-31,Official college email
+592,BHARATHI INSTITUTE OF BUSINESS MANAGEMENT,affiliation,N/A,"Kakatiya University (KU, Warangal) & Approved by AICTE, ICET Code: BIBM",VERIFIED,https://kakatiya.ac.in,2026-10-31,Kakatiya University affiliated
+595,ST MARYS CENTENARY COLLEGE OF MANAGEMENT,name,ST MARYS CENTENARY COLLEGE OF MANAGEMENT,"St. Mary's Centenary College of Management, Secunderabad",VERIFIED,https://smccom.ac.in,2026-10-31,Full institutional name
+595,ST MARYS CENTENARY COLLEGE OF MANAGEMENT,website,https://www.stmaryscentenar.edu.in,https://smccom.ac.in,VERIFIED,https://smccom.ac.in,2026-10-31,Official SMCCOM portal
+595,ST MARYS CENTENARY COLLEGE OF MANAGEMENT,address,"SECUNDERABAD, TELANGANA","P.R. No. 9-1-257/1, St. Francis Street, Secunderabad - 500003, Telangana, India",VERIFIED,https://smccom.ac.in,2026-10-31,Full St. Francis Street campus address
+595,ST MARYS CENTENARY COLLEGE OF MANAGEMENT,phone,0123-456789,+91-7989856725 / 040-3516 4325,VERIFIED,https://smccom.ac.in,2026-10-31,Official college telephone lines
+595,ST MARYS CENTENARY COLLEGE OF MANAGEMENT,email,N/A,stmarysccom@gmail.com,VERIFIED,https://smccom.ac.in,2026-10-31,Official institutional inbox
+595,ST MARYS CENTENARY COLLEGE OF MANAGEMENT,affiliation,N/A,"Osmania University & Approved by AICTE, ICET Code: SMBA",VERIFIED,https://smccom.ac.in,2026-10-31,Osmania University affiliated
+599,INSTITUTE OF INSURANCE AND RISK MANAGEMENT,name,INSTITUTE OF INSURANCE AND RISK MANAGEMENT,"Institute of Insurance and Risk Management (IIRM), Hyderabad",VERIFIED,https://theiirm.ac.in,2026-10-31,Full statutory institute name
+599,INSTITUTE OF INSURANCE AND RISK MANAGEMENT,type,Private,Autonomous Statutory Institution (IRDAI & Govt of Telangana),VERIFIED,https://theiirm.ac.in,2026-10-31,RESOLVED CRITICAL DEFECT: Jointly established by the Insurance Regulatory and Development Authority of India (IRDAI) and Government of Telangana.
+599,INSTITUTE OF INSURANCE AND RISK MANAGEMENT,ownership,Private,Government / Statutory Regulatory Body,VERIFIED,https://theiirm.ac.in,2026-10-31,Statutory Body (IRDAI)
+599,INSTITUTE OF INSURANCE AND RISK MANAGEMENT,website,https://www.instituteofinsu.edu.in,https://theiirm.ac.in,VERIFIED,https://theiirm.ac.in,2026-10-31,Official IIRM portal
+599,INSTITUTE OF INSURANCE AND RISK MANAGEMENT,address,"HYDERABAD, TELANGANA","Financial District, Survey No. 111/1 & 115/1, Road No. 2, Nanakramguda, Gachibowli, Hyderabad - 500032, Telangana, India",VERIFIED,https://theiirm.ac.in,2026-10-31,Full Financial District campus address
+599,INSTITUTE OF INSURANCE AND RISK MANAGEMENT,phone,0123-456789,040-2300 0005 / +91-96527 40909 / 1800 425 2041,VERIFIED,https://theiirm.ac.in,2026-10-31,Official admissions & office lines
+599,INSTITUTE OF INSURANCE AND RISK MANAGEMENT,email,N/A,admissions@theiirm.ac.in / administration@theiirm.ac.in,VERIFIED,https://theiirm.ac.in,2026-10-31,Official institutional inboxes
+599,INSTITUTE OF INSURANCE AND RISK MANAGEMENT,affiliation,N/A,"Approved by AICTE, Accredited by NBA",VERIFIED,https://theiirm.ac.in,2026-10-31,Autonomous Statutory Institute

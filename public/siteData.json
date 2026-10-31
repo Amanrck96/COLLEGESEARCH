@@ -31793,13 +31793,13 @@
     },
     {
       "id": 457,
-      "name": "NSHM KNOWLEDGE CAMPUS, KOLKATA - GROUP OF INSTITUIONS",
+      "name": "NSHM Knowledge Campus, Kolkata - Group of Institutions",
       "shortName": "Course Institute-1",
       "location": "SOUTH 24 PARGANAS",
       "state": "West Bengal",
-      "address": "124 (60) B L SAHA ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.nshmknowledgeca.edu.in",
+      "address": "Kolkata Knowledge Campus, 124 B. L. Saha Road, Tollygunge, Kolkata - 700053, West Bengal, India",
+      "phone": "033-2403 2300 / 033-2403 2301",
+      "website": "https://www.nshm.com",
       "rating": 4.5,
       "reviews": 386,
       "type": "Private",
@@ -31811,13 +31811,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NSHM%20KNOWLEDGE%20CAMPUS%2C%20KOLKATA%20-%20GROUP%20OF%20INSTITUIONS%20SOUTH%2024%20PARGANAS%20West%20Bengal",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/riim_pune.jpeg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://static.careers360.mobi/media/presets/500X333/colleges/social-media/media-gallery/5469/2018/7/20/NSHM-Knowledge-Campus-Kolkata01.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Maulana Abul Kalam Azad University of Technology (MAKAUT) & Approved by AICTE",
       "courses": [
         {
           "title": "MCA",
@@ -31841,20 +31841,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NSHM%20KNOWLEDGE%20CAMPUS%2C%20KOLKATA%20-%20GROUP%20OF%20INSTITUIONS%20SOUTH%2024%20PARGANAS%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "contactus@nshm.com"
     },
     {
       "id": 458,
-      "name": "PRAXIS BUSINESS SCHOOL",
+      "name": "Praxis Business School, Kolkata",
       "shortName": "Course Institute-1",
       "location": "SOUTH 24 PARGANAS",
       "state": "West Bengal",
-      "address": "BAKRAHAT ROAD RASPAUNJA",
-      "phone": "0123-456789",
-      "website": "https://www.praxisbusinesss.edu.in",
+      "address": "Bakrahat Road, Rasapunja, 24 Parganas South, Kolkata - 700104, West Bengal, India",
+      "phone": "+91-7676160161 / 033-24980553",
+      "website": "https://praxis.ac.in",
       "rating": 4.5,
       "reviews": 478,
       "type": "Private",
@@ -31866,13 +31867,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PRAXIS%20BUSINESS%20SCHOOL%20SOUTH%2024%20PARGANAS%20West%20Bengal",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/praxis-business-school-campus-view.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Accredited by NBA & Recognized by AIU",
       "courses": [
         {
           "title": "PGDM",
@@ -31896,10 +31897,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bangalore_university.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRAXIS%20BUSINESS%20SCHOOL%20SOUTH%2024%20PARGANAS%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "pgdm.admissions@praxis.ac.in"
     },
     {
       "id": 459,
@@ -32230,16 +32232,16 @@
     },
     {
       "id": 465,
-      "name": "ST. XAVIER'S UNIVERSITY",
+      "name": "St. Xavier's University, Kolkata",
       "shortName": "Course Institute-1",
       "location": "NORTH 24 PARGANAS",
       "state": "West Bengal",
-      "address": "ST XAVIER'S UNIVERSITY ACTION AREA III B, NEW TOWN KOLKATA 700160",
-      "phone": "0123-456789",
-      "website": "https://www.stxaviersuniver.edu.in",
+      "address": "Plot No. III - B/1, Action Area III B, Newtown, Kolkata - 700160, West Bengal, India",
+      "phone": "033-66249881 / +91 70443 45040",
+      "website": "https://www.sxuk.edu.in",
       "rating": 4.5,
       "reviews": 196,
-      "type": "Private",
+      "type": "Private University (State Act)",
       "about": "Welcome to ST. XAVIER'S UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 86,
       "facebook": "#",
@@ -32248,13 +32250,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ST.%20XAVIER'S%20UNIVERSITY%20NORTH%2024%20PARGANAS%20West%20Bengal",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.yayskool.com/images/school/stxaviers-institution-north-24-parganas-179917250.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by UGC & AICTE (Xavier Business School)",
       "courses": [
         {
           "title": "MBA",
@@ -32278,10 +32280,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20XAVIER'S%20UNIVERSITY%20NORTH%2024%20PARGANAS%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "enquiry@sxuk.edu.in"
     },
     {
       "id": 466,
@@ -32665,16 +32668,16 @@
     },
     {
       "id": 473,
-      "name": "DEPARTMENT OF MANAGEMENT STUDIES JIS UNIVERSITY",
+      "name": "Department of Management Studies, JIS University",
       "shortName": "Course Institute-1",
       "location": "NORTH 24 PARGANAS",
       "state": "West Bengal",
-      "address": "81, NILGUNJ ROAD, AGARPARA",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofman.edu.in",
+      "address": "JIS University, 81, Nilgunj Road, Agarpara, Kolkata - 700109, West Bengal, India",
+      "phone": "033-2563 6677 / +91 86977 43361",
+      "website": "https://www.jisuniversity.ac.in",
       "rating": 4.5,
       "reviews": 423,
-      "type": "Private",
+      "type": "Private University Department",
       "about": "Welcome to DEPARTMENT OF MANAGEMENT STUDIES JIS UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 92,
       "facebook": "#",
@@ -32689,7 +32692,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "JIS University, Approved by UGC & AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -32716,7 +32719,8 @@
       "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20MANAGEMENT%20STUDIES%20JIS%20UNIVERSITY%20NORTH%2024%20PARGANAS%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "email": "admissions@jisuniversity.ac.in"
     },
     {
       "id": 474,
@@ -33210,16 +33214,16 @@
     },
     {
       "id": 483,
-      "name": "KAZI NAZRUL UNIVERSITY",
+      "name": "Kazi Nazrul University, Asansol",
       "shortName": "Course Institute-1",
       "location": "BARDHAMAN",
       "state": "West Bengal",
-      "address": "NAZRUL ROAD, KALLA BYPASS MORE, P.O.KALLA C.H., P.S.ASANSOL, BURDWAN, WEST BENGAL 713340",
-      "phone": "0123-456789",
-      "website": "https://www.kazinazrulunive.edu.in",
+      "address": "Plot No. 3172, Administrative Building, Nazrul Road, P.O. Kalla C.H., Asansol (North), Dist. Paschim Bardhaman - 713340, West Bengal, India",
+      "phone": "+91-8116428990 / 0341-2270456",
+      "website": "https://www.knu.ac.in",
       "rating": 4.5,
       "reviews": 228,
-      "type": "Private",
+      "type": "Public/Government (State University)",
       "about": "Welcome to KAZI NAZRUL UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 21,
       "facebook": "#",
@@ -33234,7 +33238,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "State University of West Bengal, Recognized by UGC under Section 2(f) & 12(B)",
       "courses": [
         {
           "title": "MCA",
@@ -33259,9 +33263,10 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_7.jpg",
-      "ownership": "Private",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=KAZI%20NAZRUL%20UNIVERSITY%20BARDHAMAN%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "email": "contact@knu.ac.in"
     },
     {
       "id": 484,
@@ -33755,13 +33760,13 @@
     },
     {
       "id": 493,
-      "name": "NSHM KNOWLEDGE CAMPUS, DURGAPUR - GROUP OF INSTITUTIONS",
+      "name": "NSHM Knowledge Campus, Durgapur - Group of Institutions",
       "shortName": "Course Institute-1",
       "location": "BARDHAMAN",
       "state": "West Bengal",
-      "address": "ARRAH",
-      "phone": "0123-456789",
-      "website": "https://www.nshmknowledgeca.edu.in",
+      "address": "Arrah, Shibtala, Via Muchipara, Durgapur - 713212, West Bengal, India",
+      "phone": "0343-2533813 / +91 99330 49448",
+      "website": "https://www.nshm.com",
       "rating": 4.5,
       "reviews": 228,
       "type": "Private",
@@ -33779,7 +33784,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Maulana Abul Kalam Azad University of Technology (MAKAUT) & Approved by AICTE",
       "courses": [
         {
           "title": "MCA",
@@ -33806,7 +33811,8 @@
       "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NSHM%20KNOWLEDGE%20CAMPUS%2C%20DURGAPUR%20-%20GROUP%20OF%20INSTITUTIONS%20BARDHAMAN%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "email": "contactus@nshm.com"
     },
     {
       "id": 494,
@@ -34080,13 +34086,13 @@
     },
     {
       "id": 499,
-      "name": "GLOBSYN BUSINESS SCHOOL",
+      "name": "Globsyn Business School (GBS), Kolkata",
       "shortName": "Course Institute-1",
       "location": "SOUTH 24 PARGANAS",
       "state": "West Bengal",
-      "address": "NATIONAL CAMPUS, MOUZA-CHANDI, P.S.- BISHNUPUR, J.L. NO 101, ADSR-BISHNUPUR, DIST-24 PARGANAS (S), WEST BENGAL",
-      "phone": "0123-456789",
-      "website": "https://www.globsynbusiness.edu.in",
+      "address": "Globsyn Knowledge Campus, Mouza Chandi, PS Bishnupur, JL No. 101, Dist. 24 Parganas (South), Kolkata - 743503, West Bengal, India",
+      "phone": "+91 62937 58660",
+      "website": "https://www.globsyn.edu.in",
       "rating": 4.5,
       "reviews": 202,
       "type": "Private",
@@ -34104,7 +34110,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Accredited by NBA",
       "courses": [
         {
           "title": "PGDM",
@@ -34131,7 +34137,8 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GLOBSYN%20BUSINESS%20SCHOOL%20SOUTH%2024%20PARGANAS%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "gbsdirect@globsyn.edu.in"
     },
     {
       "id": 500,
@@ -34190,13 +34197,13 @@
     },
     {
       "id": 501,
-      "name": "INTERNATIONAL SCHOOL OF BUSINESS & MEDIA KOLKATA",
+      "name": "International School of Business & Media (ISB&M), Kolkata",
       "shortName": "Course Institute-1",
       "location": "SOUTH 24 PARGANAS",
       "state": "West Bengal",
-      "address": "PREMISES NO. 330/2 , WARD NO - 9 ,PUJALI TRUNK ROAD, MOUZA - RAJIBPUR, JL NO. 43, POLICE STATION - BUDGE BUDGE , KOLKATA - 700138",
-      "phone": "0123-456789",
-      "website": "https://www.internationalsc.edu.in",
+      "address": "330/2 Pujali Trunk Road, P.S. Budge Budge, Kolkata - 700138, West Bengal, India",
+      "phone": "+91 9804866596 / +91 7605007185",
+      "website": "https://isbmk.ac.in",
       "rating": 4.5,
       "reviews": 171,
       "type": "Private",
@@ -34208,13 +34215,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INTERNATIONAL%20SCHOOL%20OF%20BUSINESS%20%26%20MEDIA%20KOLKATA%20SOUTH%2024%20PARGANAS%20West%20Bengal",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1543575765coverIM.png",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/appImage/1543575765coverIM.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt. of India",
       "courses": [
         {
           "title": "PGDM",
@@ -34238,9 +34245,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1543575765coverIM.png",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INTERNATIONAL%20SCHOOL%20OF%20BUSINESS%20%26%20MEDIA%20KOLKATA%20SOUTH%2024%20PARGANAS%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INTERNATIONAL%20SCHOOL%20OF%20BUSINESS%20%26%20MEDIA%20KOLKATA%20SOUTH%2024%20PARGANAS%20West%20Bengal",
+      "email": "admissions.kolkata@isbm.ac.in"
     },
     {
       "id": 502,
@@ -36311,16 +36319,16 @@
     },
     {
       "id": 540,
-      "name": "DEPARTMENT OF BUSINESS MANAGEMENT",
+      "name": "Department of Business Management, Satavahana University",
       "shortName": "Course Institute-1",
       "location": "KARIMNAGAR",
       "state": "Telangana",
-      "address": "SATAVAHANA UNIVERSITY,KARIMNAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofbus.edu.in",
+      "address": "Satavahana University Campus, Malkapur Road, Chinta Kunta, Karimnagar - 505001, Telangana, India",
+      "phone": "+91 9491804500 / 0878-2255811",
+      "website": "https://satavahana.ac.in",
       "rating": 4.9,
       "reviews": 926,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to DEPARTMENT OF BUSINESS MANAGEMENT, a premier institute located in KARIMNAGAR. We offer world-class education and facilities for our students.",
       "ranking": 8,
       "facebook": "#",
@@ -36329,7 +36337,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20BUSINESS%20MANAGEMENT%20KARIMNAGAR%20Telangana",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/chetana_bandra.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://d2e1hu1ktur9ur.cloudfront.net/wp-content/uploads/2024/01/Karimnagar-Municipal-Corpor.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -36363,10 +36371,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 926,
-      "image": "/images/campuses/chetana_bandra.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20BUSINESS%20MANAGEMENT%20KARIMNAGAR%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "email": "registrarsatavahana@gmail.com",
+      "affiliation": "Satavahana University & Approved by UGC / AICTE"
     },
     {
       "id": 541,
@@ -39082,16 +39092,16 @@
     },
     {
       "id": 578,
-      "name": "SCHOOL OF COMMERCE AND BUSINESS MANAGEMENT MAULANA AZAD NATIONAL URDU UNIVERSITY",
+      "name": "School of Commerce and Business Management, Maulana Azad National Urdu University (MANUU)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
-      "address": "MAULANA AZAD NATIONAL URDU UNIVERSITY, GACHIBOWLI, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.schoolofcommerc.edu.in",
+      "address": "School of Commerce and Business Management, Maulana Azad National Urdu University, Gachibowli, Hyderabad - 500032, Telangana, India",
+      "phone": "040-23120600 (Extn: 3410 / 3401)",
+      "website": "https://manuu.edu.in",
       "rating": 4.5,
       "reviews": 382,
-      "type": "Private",
+      "type": "Public/Government (Central University Department)",
       "about": "Welcome to SCHOOL OF COMMERCE AND BUSINESS MANAGEMENT MAULANA AZAD NATIONAL URDU UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 3,
       "facebook": "#",
@@ -39100,13 +39110,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20COMMERCE%20AND%20BUSINESS%20MANAGEMENT%20MAULANA%20AZAD%20NATIONAL%20URDU%20UNIVERSITY%20RANGAREDDI%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://manuu.edu.in/sites/default/files/2022-06/SCBM-MainGate.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://manuu.edu.in/sites/default/files/2022-06/SCBM-MainGate.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Maulana Azad National Urdu University & Approved by UGC / AICTE, NAAC A+ Grade",
       "courses": [
         {
           "title": "MBA(GENERAL MANAGEMENT)",
@@ -39130,9 +39140,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://manuu.edu.in/sites/default/files/2022-06/SCBM-MainGate.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20COMMERCE%20AND%20BUSINESS%20MANAGEMENT%20MAULANA%20AZAD%20NATIONAL%20URDU%20UNIVERSITY%20RANGAREDDI%20Telangana"
+      "image": "/images/campuses/campus_architecture_9.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20COMMERCE%20AND%20BUSINESS%20MANAGEMENT%20MAULANA%20AZAD%20NATIONAL%20URDU%20UNIVERSITY%20RANGAREDDI%20Telangana",
+      "email": "dean.bmc@manuu.edu.in / hod.bmc@manuu.edu.in"
     },
     {
       "id": 579,
