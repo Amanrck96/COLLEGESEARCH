@@ -24,3 +24,4 @@ ids.forEach(id => {
   console.log(`Image: ${c.image || c.img}`);
   console.log(`Courses: ${JSON.stringify(c.courses)}`);
 });
+

@@ -70,3 +70,4 @@ Batch 19 performed an official verification and forensic audit of 10 key profess
   - `reports/verification/course-verification.csv` (+11 rows)
   - `reports/verification/image-verification.csv` (+10 rows)
   - `reports/verification/progress.json` (updated to 190)
+
