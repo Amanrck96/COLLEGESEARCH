@@ -1,0 +1,172 @@
+[
+  {
+    "id": 2771,
+    "name": "RAJIV GANDHI INSTITUTE OF MANAGEMENT & SCIENCE",
+    "address": "124, THIMMAPURAM VILLAGE, ACTHMPETA, KAKINADA - 533 005.",
+    "state": "Andhra Pradesh",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1487062716B2.jpg?h=240&w=1000&mode=crop",
+    "website": "https://www.rajivgandhiinst.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2774,
+    "name": "SRINIVASA INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "address": "CHENNAI- HYDERABAD BYPASS ROAD , UKKAYAPALLI (V) KADAPA",
+    "state": "Andhra Pradesh",
+    "img": "https://sitskadapa.ac.in/admin/uploads/slides/2512DSC08230.JPG",
+    "website": "https://www.srinivasainstit.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2777,
+    "name": "SRI SAI RAM INSTITUTE OF PG STUDIES",
+    "address": "SRI SAI RAM INSTITUTE OF PG STUDIES TAPA TOPU, NORTH RAJU PALEM VILLAGE KODAVALUR MANDAL NELLORE DISTRICT ANDHRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-13-8-15-51-59_Sri Sai.jpg",
+    "website": "https://www.srisairaminstit.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2780,
+    "name": "ANANTHA LAKSHMI INSTITUTE OF TECHNOLOGY & SCIENCES",
+    "address": "ITIKAKAPALLI NEAR SK UNIVERSITY ITIKALAPALLI, ANANTAPUR",
+    "state": "Andhra Pradesh",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/147981092204.png",
+    "website": "https://www.ananthalakshmii.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2782,
+    "name": "KITS AKSHAR INSTITUTE OF TECHNOLOGY",
+    "address": "OPP. KATURI MEDICAL COLLEGE, NH - 5, YANAMADALA, GUNTUR - 522019",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/guntur-engineering-college-guntur-260756.webp",
+    "website": "https://www.kitsaksharinsti.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2784,
+    "name": "INTERNATIONAL SCHOOL OF TECHNOLOGY AND SCIENCES FOR WOMEN",
+    "address": "EAST GONA GUDEM (VIL), RAJA NAGARAM(MAN), EAST GODAVARI (DIST).",
+    "state": "Andhra Pradesh",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1699697324DroneISTSPic1.jpeg",
+    "website": "https://www.internationalsc.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2785,
+    "name": "SANTHIRAM ENGINEERING COLLEGE",
+    "address": "NH-18, NANDYAL, KURNOOL DIST, A.P",
+    "state": "Andhra Pradesh",
+    "img": "https://image-static.collegedunia.com/public/image/1_dc8069a9bb12b0560b9c47e701e17e6b.png",
+    "website": "https://www.santhiramengine.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2789,
+    "name": "POTTI SRIRAMULU CHALAVADI MALLIKARJUNA RAO COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "D.NO: 7-3-6/1, RAGHAVA REDDY STREET, KOTHAPETA, VIJAYAWADA - 520 001. ANDHRA PRADESH.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.amu.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2790,
+    "name": "MVR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "BESIDE HANUMAN STATUE, NH-9, PARITALA, KANCHIKACHERLA MANDALAM, KRISHNA DT, ANDHRA PRADESH 521180",
+    "state": "Andhra Pradesh",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-25-3-17-57-00_mvrits.jpg",
+    "website": "https://www.mvrcollegeofeng.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2791,
+    "name": "TRIPURA VIDYA MANDIRAM",
+    "address": "TADEPALLI VILLAGE, TADEPALLIGUDEM, WEST GODAVARI DT - 534101. ANDHRA PRADESH.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.tripuravidyaman.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

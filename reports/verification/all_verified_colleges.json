@@ -2698,5 +2698,80 @@
         "website": "http://www.abhinavinstitutions.com"
       }
     ]
+  },
+  {
+    "batch": 37,
+    "items": [
+      {
+        "id": 2771,
+        "name": "Rajiv Gandhi Institute of Management & Science (RIMS)",
+        "type": "Private",
+        "location": "Kakinada, Andhra Pradesh - 533005",
+        "website": "https://rimsmba.org"
+      },
+      {
+        "id": 2774,
+        "name": "Srinivasa Institute of Technology & Science (SITS)",
+        "type": "Private",
+        "location": "Kadapa, Andhra Pradesh - 516002",
+        "website": "https://www.sitskadapa.ac.in"
+      },
+      {
+        "id": 2777,
+        "name": "Sri Sai Ram Institute of PG Studies",
+        "type": "Private",
+        "location": "Nellore District, Andhra Pradesh - 524316",
+        "website": "https://ssrips.com"
+      },
+      {
+        "id": 2780,
+        "name": "Anantha Lakshmi Institute of Technology & Sciences (ALITS)",
+        "type": "Private",
+        "location": "Anantapuramu, Andhra Pradesh - 515721",
+        "website": "http://alits.ac.in"
+      },
+      {
+        "id": 2782,
+        "name": "KITS Akshar Institute of Technology",
+        "type": "Private",
+        "location": "Guntur, Andhra Pradesh - 522019",
+        "website": "https://kitsakshar.ac.in"
+      },
+      {
+        "id": 2784,
+        "name": "International School of Technology and Sciences for Women (ISTS)",
+        "type": "Private",
+        "location": "East Godavari District, Andhra Pradesh - 533294",
+        "website": "https://www.ists.ac.in"
+      },
+      {
+        "id": 2785,
+        "name": "Santhiram Engineering College (SREC)",
+        "type": "Autonomous Private",
+        "location": "Nandyal District, Andhra Pradesh - 518501",
+        "website": "https://www.srecnandyal.edu.in"
+      },
+      {
+        "id": 2789,
+        "name": "Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology (PSCMRCET)",
+        "type": "Private",
+        "location": "Vijayawada, Andhra Pradesh - 520001",
+        "website": "https://pscmr.ac.in"
+      },
+      {
+        "id": 2790,
+        "name": "MVR College of Engineering and Technology",
+        "type": "Private",
+        "location": "NTR District, Andhra Pradesh - 521180",
+        "website": "http://www.mvrcoe.ac.in"
+      },
+      {
+        "id": 2791,
+        "name": "Tripura Vidya Mandiram",
+        "type": "Private",
+        "location": "West Godavari District, Andhra Pradesh - 534101",
+        "website": "http://www.tvmtpg.org"
+      }
+    ]
   }
 ]

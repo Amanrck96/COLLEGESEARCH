@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **360 / 12,660**  
-**Roadmap Progress**: **36.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **370 / 12,660**  
+**Roadmap Progress**: **37.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -549,4 +549,19 @@
 | **2765** | Viswam Engineering College | Private | Annamayya District, Andhra Pradesh - 517325 | [viswam.ac.in](https://viswam.ac.in) |
 | **2767** | Sanjeev Institute of Planning and Management | Private | Kakinada District, Andhra Pradesh - 533003 | [sim.edu.in](https://sim.edu.in) |
 | **2768** | Abhinav Institute of Management & Technology | Private | Prakasam District, Andhra Pradesh - 523101 | [www.abhinavinstitutions.com](http://www.abhinavinstitutions.com) |
+
+### Batch 37 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2771** | Rajiv Gandhi Institute of Management & Science (RIMS) | Private | Kakinada, Andhra Pradesh - 533005 | [rimsmba.org](https://rimsmba.org) |
+| **2774** | Srinivasa Institute of Technology & Science (SITS) | Private | Kadapa, Andhra Pradesh - 516002 | [www.sitskadapa.ac.in](https://www.sitskadapa.ac.in) |
+| **2777** | Sri Sai Ram Institute of PG Studies | Private | Nellore District, Andhra Pradesh - 524316 | [ssrips.com](https://ssrips.com) |
+| **2780** | Anantha Lakshmi Institute of Technology & Sciences (ALITS) | Private | Anantapuramu, Andhra Pradesh - 515721 | [alits.ac.in](http://alits.ac.in) |
+| **2782** | KITS Akshar Institute of Technology | Private | Guntur, Andhra Pradesh - 522019 | [kitsakshar.ac.in](https://kitsakshar.ac.in) |
+| **2784** | International School of Technology and Sciences for Women (ISTS) | Private | East Godavari District, Andhra Pradesh - 533294 | [www.ists.ac.in](https://www.ists.ac.in) |
+| **2785** | Santhiram Engineering College (SREC) | Autonomous Private | Nandyal District, Andhra Pradesh - 518501 | [www.srecnandyal.edu.in](https://www.srecnandyal.edu.in) |
+| **2789** | Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology (PSCMRCET) | Private | Vijayawada, Andhra Pradesh - 520001 | [pscmr.ac.in](https://pscmr.ac.in) |
+| **2790** | MVR College of Engineering and Technology | Private | NTR District, Andhra Pradesh - 521180 | [www.mvrcoe.ac.in](http://www.mvrcoe.ac.in) |
+| **2791** | Tripura Vidya Mandiram | Private | West Godavari District, Andhra Pradesh - 534101 | [www.tvmtpg.org](http://www.tvmtpg.org) |
 
