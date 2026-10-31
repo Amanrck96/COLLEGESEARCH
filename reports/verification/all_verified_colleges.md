@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **410 / 12,660**  
-**Roadmap Progress**: **41.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **420 / 12,660**  
+**Roadmap Progress**: **42.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -624,4 +624,19 @@
 | **3505** | Apeejay School of Management (ASM Dwarka) | Private | Dwarka, New Delhi - 110077 | [www.apeejay.edu](https://www.apeejay.edu/asm/) |
 | **3506** | Rukmini Devi Institute of Advanced Studies (RDIAS Rohini) | Private | Rohini, Delhi - 110085 | [rdias.ac.in](https://rdias.ac.in) |
 | **3507** | Asia-Pacific Institute of Management (AIM Jasola) | Private | Jasola Vihar, New Delhi - 110025 | [www.asiapacific.edu](https://www.asiapacific.edu) |
+
+### Batch 42 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **3509** | Lal Bahadur Shastri Institute of Management (LBSIM Delhi) | Private | Dwarka, New Delhi - 110075 | [www.lbsim.ac.in](https://www.lbsim.ac.in) |
+| **3510** | Sri Sharada Institute of Indian Management Research (SRISIIM) | Private | Vasant Kunj, New Delhi - 110070 | [srisiim.ac.in](https://srisiim.ac.in) |
+| **3512** | Fortune Institute of International Business (FIIB Delhi) | Private | Vasant Vihar, New Delhi - 110057 | [www.fiib.edu.in](https://www.fiib.edu.in) |
+| **3519** | New Delhi Institute of Management (NDIM Delhi) | Private | Tughlakabad Institutional Area, New Delhi - 110062 | [www.ndimdelhi.org](https://www.ndimdelhi.org) |
+| **3520** | Institute of Marketing and Management - Business School (IMM Business School) | Private | Qutab Institutional Area, New Delhi - 110016 | [www.immindia.edu.in](https://www.immindia.edu.in) |
+| **3521** | Banarsidas Chandiwala Institute of Professional Studies (BCIPS Dwarka) | Private | Dwarka, New Delhi - 110075 | [www.bcips.ac.in](https://www.bcips.ac.in) |
+| **3543** | International Management Centre (IMC New Delhi) | Private | South Extension Part-I, New Delhi - 110049 | [www.imc.edu.in](https://www.imc.edu.in) |
+| **3562** | Adani Institute of Digital Technology Management (AIDTM Gandhinagar) | Private | Gandhinagar - 382423, Gujarat | [www.aidtm.ac.in](https://www.aidtm.ac.in) |
+| **3563** | M.S. Patel Institute of Management Studies (FMS Baroda, MSU Baroda) | Public/Government | Vadodara, Gujarat - 390002 | [www.msubaroda.ac.in](https://www.msubaroda.ac.in) |
+| **3566** | Institute of Rural Management Anand (IRMA Anand) | Public/Government (Autonomous) | Anand, Gujarat - 388001 | [www.irma.ac.in](https://www.irma.ac.in) |
 

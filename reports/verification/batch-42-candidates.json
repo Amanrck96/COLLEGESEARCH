@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3509,
+    "name": "LAL BAHADUR SHASTRI INSTITUTE OF MANAGEMENET, DELHI",
+    "address": "PLOT NO. 7, SECTOR-11 DWARKA, NEW DELHI",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/primus_bangalore.jpg",
+    "website": "https://www.lalbahadurshast.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM(GENERAL)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3510,
+    "name": "SRI SHARADA INSTITUTE OF INDIAN MANAGEMENT RESEARCH",
+    "address": "SRI SHARADA INSTITUTE OF INDIAN MANAGEMENT RESEARCH, 7 - INSTITUTIONAL AREA, VASANT KUNJ, PHASE II - 110070",
+    "state": "Delhi NCR",
+    "img": "https://www.studyplaces.co.in/wp-content/uploads/2021/05/sri-sharada-institute-of-indian-management-research.jpg",
+    "website": "https://www.srisharadainsti.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3512,
+    "name": "FORTUNE INSTITUTE OF INTERNATIONAL BUSINESS",
+    "address": "PLOT NO 5, BASANT GAON, OPP ARMY (R&R) HOSPITAL RAO TULA RAM MARG",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://www.google.com/search?q=FORTUNE%20INSTITUTE%20OF%20INTERNATIONAL%20BUSINESS%20SOUTH%20WEST%20DELHI%20Delhi%20NCR%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3519,
+    "name": "NEW DELHI INSTITUTE OF MANAGEMENT",
+    "address": "60,50 (B & C), TUGHLAKABAD INSTITUTIONAL AREA PINCODE -110062",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.newdelhiinstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3520,
+    "name": "INSTITUTE OF MARKETING AND MANAGEMENT - BUSINESS SCHOOL",
+    "address": "MARKETING TOWER, B-11 QUTAB INSTITUTIONAL AREA, NEW DELHI - 110 016",
+    "state": "Delhi NCR",
+    "img": "https://www.collegebatch.com/static/clg-gallery/institute-of-marketing-management-new-delhi-213449.webp",
+    "website": "https://www.instituteofmark.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3521,
+    "name": "BANARSIDAS CHANDIWALA INSTITUTE OF PROFESSIONAL STUDIES",
+    "address": "Plot No 9, Sector 11, Dwarka, New Delhi 110075",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.banarsidaschand.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3543,
+    "name": "INTERNATIONAL MANAGEMENT CENTRE",
+    "address": "D-30,SOUTH EXTENSION PART-I NEW DELHI-110049",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.internationalma.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3562,
+    "name": "ADANI INSTITUTE OF DIGITAL TECHNOLOGY MANAGEMENT",
+    "address": "PLOT NO 225, TALUKA : GANDHINAGAR",
+    "state": "Gujarat",
+    "img": "https://media.getmyuni.com/azure/college-images-test/adani-institute-of-digital-technology-management-aidtm-gujarat/exterior-images-9dd0384d9a334b06496d42477cb76631.png",
+    "website": "https://www.adaniinstituteo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3563,
+    "name": "M.S. PATEL INSTITUTE OF MANAGEMENT STUDIES (FACULTY OF MANAGEMENT STUDIES)",
+    "address": "OPP. UNIVERSITY MAIN OFFICE, FATEHGUNJ",
+    "state": "Gujarat",
+    "img": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.google.com/search?q=M.S.%20PATEL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20(FACULTY%20OF%20MANAGEMENT%20STUDIES)%20VADODARA%20Gujarat%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3566,
+    "name": "INSTITUTE OF RURAL MANAGEMENT ANAND",
+    "address": "POST BOX NO. 60",
+    "state": "Gujarat",
+    "img": "https://www.collegebatch.com/static/clg-gallery/institute-of-rural-management-anand-214703.webp",
+    "website": "https://www.instituteofrura.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM(RURAL MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

@@ -209983,13 +209983,13 @@
     },
     {
       "id": 3509,
-      "name": "LAL BAHADUR SHASTRI INSTITUTE OF MANAGEMENET, DELHI",
+      "name": "Lal Bahadur Shastri Institute of Management (LBSIM Delhi)",
       "shortName": "Course Institute-1",
       "location": "SOUTH WEST DELHI",
       "state": "Delhi NCR",
-      "address": "PLOT NO. 7, SECTOR-11 DWARKA, NEW DELHI",
-      "phone": "0123-456789",
-      "website": "https://www.lalbahadurshast.edu.in",
+      "address": "Plot No. 11/07, Sector-11, Dwarka, New Delhi - 110075",
+      "phone": "011-25307700",
+      "website": "https://www.lbsim.ac.in",
       "rating": 4.5,
       "reviews": 314,
       "type": "Private",
@@ -210001,7 +210001,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=LAL%20BAHADUR%20SHASTRI%20INSTITUTE%20OF%20MANAGEMENET%2C%20DELHI%20SOUTH%20WEST%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/primus_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://coachingdaddy.com/wp-content/uploads/2024/08/Lal-Bahadur-Shastri-Institute-of-Management-LBSIM-New-Delhi.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -210010,12 +210010,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM(GENERAL)",
+          "name": "PGDM (General)",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹15,50,000",
+          "fee": "₹15,50,000",
+          "eligibility": "Graduation (50%) + CAT/XAT/GMAT",
           "type": "MANAGEMENT",
-          "intake": 210
+          "intake": 180
+        },
+        {
+          "name": "PGDM (FM)",
+          "title": "Post Graduate Diploma in Management (Financial Management)",
+          "duration": "2 Years",
+          "fees": "₹15,50,000",
+          "fee": "₹15,50,000",
+          "eligibility": "Graduation (50%) + CAT/XAT/GMAT",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "PGDM (R&BA)",
+          "title": "Post Graduate Diploma in Management (Research & Business Analytics)",
+          "duration": "2 Years",
+          "fees": "₹15,50,000",
+          "fee": "₹15,50,000",
+          "eligibility": "Graduation (50%) + CAT/XAT/GMAT",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -210031,19 +210053,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/primus_bangalore.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LAL%20BAHADUR%20SHASTRI%20INSTITUTE%20OF%20MANAGEMENET%2C%20DELHI%20SOUTH%20WEST%20DELHI%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_6.jpg",
+      "ownership": "Private (Lal Bahadur Shastri Educational Society)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LAL%20BAHADUR%20SHASTRI%20INSTITUTE%20OF%20MANAGEMENET%2C%20DELHI%20SOUTH%20WEST%20DELHI%20Delhi%20NCR",
+      "city": "New Delhi",
+      "email": "admission@lbsim.ac.in",
+      "verified": true
     },
     {
       "id": 3510,
-      "name": "SRI SHARADA INSTITUTE OF INDIAN MANAGEMENT RESEARCH",
+      "name": "Sri Sharada Institute of Indian Management Research (SRISIIM)",
       "shortName": "Course Institute-1",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
-      "address": "SRI SHARADA INSTITUTE OF INDIAN MANAGEMENT RESEARCH, 7 - INSTITUTIONAL AREA, VASANT KUNJ, PHASE II - 110070",
-      "phone": "0123-456789",
-      "website": "https://www.srisharadainsti.edu.in",
+      "address": "7, Institutional Area, Phase II, Vasant Kunj, New Delhi - 110070",
+      "phone": "011-26124090",
+      "website": "https://srisiim.ac.in",
       "rating": 4.5,
       "reviews": 420,
       "type": "Private",
@@ -210055,7 +210080,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRI%20SHARADA%20INSTITUTE%20OF%20INDIAN%20MANAGEMENT%20RESEARCH%20SOUTH%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.studyplaces.co.in/wp-content/uploads/2021/05/sri-sharada-institute-of-indian-management-research.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.studyplaces.co.in/wp-content/uploads/2021/05/sri-sharada-institute-of-indian-management-research.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -210064,12 +210089,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹6,50,000",
+          "fee": "₹6,50,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT",
           "type": "MANAGEMENT",
-          "intake": 30
+          "intake": 120
+        },
+        {
+          "name": "PGDM (IB)",
+          "title": "Post Graduate Diploma in Management (International Business)",
+          "duration": "2 Years",
+          "fees": "₹6,50,000",
+          "fee": "₹6,50,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -210085,9 +210122,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/05/sri-sharada-institute-of-indian-management-research.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20SHARADA%20INSTITUTE%20OF%20INDIAN%20MANAGEMENT%20RESEARCH%20SOUTH%20DELHI%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20SHARADA%20INSTITUTE%20OF%20INDIAN%20MANAGEMENT%20RESEARCH%20SOUTH%20DELHI%20Delhi%20NCR",
+      "city": "New Delhi",
+      "email": "info@srisiim.ac.in",
+      "verified": true
     },
     {
       "id": 3511,
@@ -210146,13 +210186,13 @@
     },
     {
       "id": 3512,
-      "name": "FORTUNE INSTITUTE OF INTERNATIONAL BUSINESS",
+      "name": "Fortune Institute of International Business (FIIB Delhi)",
       "shortName": "Course Institute-1",
       "location": "SOUTH WEST DELHI",
       "state": "Delhi NCR",
-      "address": "PLOT NO 5, BASANT GAON, OPP ARMY (R&R) HOSPITAL RAO TULA RAM MARG",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=FORTUNE%20INSTITUTE%20OF%20INTERNATIONAL%20BUSINESS%20SOUTH%20WEST%20DELHI%20Delhi%20NCR%20official%20website",
+      "address": "Plot No. 5, Basant Gaon, Opp. Army (R&R) Hospital, Rao Tula Ram Marg, Vasant Vihar, New Delhi - 110057",
+      "phone": "011-47285000",
+      "website": "https://www.fiib.edu.in",
       "rating": 4.5,
       "reviews": 186,
       "type": "Private",
@@ -210164,7 +210204,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=FORTUNE%20INSTITUTE%20OF%20INTERNATIONAL%20BUSINESS%20SOUTH%20WEST%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/atharva_complex_malad.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.mbacollegesdelhi.co.in/wp-content/uploads/2020/01/FIIB-Delhi-Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -210173,12 +210213,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹10,10,000",
+          "fee": "₹10,10,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT/GMAT",
           "type": "MANAGEMENT",
-          "intake": 240
+          "intake": 210
+        },
+        {
+          "name": "PGDM (FM)",
+          "title": "Post Graduate Diploma in Management (Financial Management)",
+          "duration": "2 Years",
+          "fees": "₹10,10,000",
+          "fee": "₹10,10,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT/GMAT",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -210194,10 +210246,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/atharva_complex_malad.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=FORTUNE%20INSTITUTE%20OF%20INTERNATIONAL%20BUSINESS%20SOUTH%20WEST%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "New Delhi",
+      "email": "admissions@fiib.edu.in",
+      "verified": true
     },
     {
       "id": 3513,
@@ -210530,13 +210585,13 @@
     },
     {
       "id": 3519,
-      "name": "NEW DELHI INSTITUTE OF MANAGEMENT",
+      "name": "New Delhi Institute of Management (NDIM Delhi)",
       "shortName": "Course Institute-1",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
-      "address": "60,50 (B & C), TUGHLAKABAD INSTITUTIONAL AREA PINCODE -110062",
-      "phone": "0123-456789",
-      "website": "https://www.newdelhiinstitu.edu.in",
+      "address": "60 & 50 (B & C), Tughlakabad Institutional Area, New Delhi - 110062",
+      "phone": "011-40111000",
+      "website": "https://www.ndimdelhi.org",
       "rating": 4.5,
       "reviews": 263,
       "type": "Private",
@@ -210548,7 +210603,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NEW%20DELHI%20INSTITUTE%20OF%20MANAGEMENT%20SOUTH%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/chetana_bandra.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://cracku.in/media/images/images/new-delhi-institute-of-management-new-delhi-213003.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
@@ -210557,12 +210612,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹11,50,000",
+          "fee": "₹11,50,000",
+          "eligibility": "Graduation (50%) + CAT/XAT/CMAT/MAT/GMAT",
           "type": "MANAGEMENT",
           "intake": 240
+        },
+        {
+          "name": "PGDM (Marketing)",
+          "title": "Post Graduate Diploma in Management (Marketing)",
+          "duration": "2 Years",
+          "fees": "₹11,50,000",
+          "fee": "₹11,50,000",
+          "eligibility": "Graduation (50%) + CAT/XAT/CMAT/MAT/GMAT",
+          "type": "MANAGEMENT",
+          "intake": 120
+        },
+        {
+          "name": "PGDM (Finance)",
+          "title": "Post Graduate Diploma in Management (Finance)",
+          "duration": "2 Years",
+          "fees": "₹11,50,000",
+          "fee": "₹11,50,000",
+          "eligibility": "Graduation (50%) + CAT/XAT/CMAT/MAT/GMAT",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -210578,20 +210655,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEW%20DELHI%20INSTITUTE%20OF%20MANAGEMENT%20SOUTH%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "New Delhi",
+      "email": "info@ndimdelhi.org",
+      "verified": true
     },
     {
       "id": 3520,
-      "name": "INSTITUTE OF MARKETING AND MANAGEMENT - BUSINESS SCHOOL",
+      "name": "Institute of Marketing and Management - Business School (IMM Business School)",
       "shortName": "Course Institute-1",
       "location": "NEW DELHI",
       "state": "Delhi NCR",
-      "address": "MARKETING TOWER, B-11 QUTAB INSTITUTIONAL AREA, NEW DELHI - 110 016",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofmark.edu.in",
+      "address": "Marketing Tower, B-11, Qutab Institutional Area, New Delhi - 110016",
+      "phone": "011-26520894",
+      "website": "https://www.immindia.edu.in",
       "rating": 4.5,
       "reviews": 51,
       "type": "Private",
@@ -210603,7 +210683,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MARKETING%20AND%20MANAGEMENT%20-%20BUSINESS%20SCHOOL%20NEW%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/institute-of-marketing-management-new-delhi-213449.webp",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/institute-of-marketing-management-new-delhi-213449.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -210612,12 +210692,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹8,90,000",
+          "fee": "₹8,90,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT/ATMA",
           "type": "MANAGEMENT",
-          "intake": 300
+          "intake": 120
+        },
+        {
+          "name": "PGDM (Event & Retail)",
+          "title": "Post Graduate Diploma in Management (Event & Retail Management)",
+          "duration": "2 Years",
+          "fees": "₹8,90,000",
+          "fee": "₹8,90,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT/ATMA",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -210633,19 +210725,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/institute-of-marketing-management-new-delhi-213449.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MARKETING%20AND%20MANAGEMENT%20-%20BUSINESS%20SCHOOL%20NEW%20DELHI%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MARKETING%20AND%20MANAGEMENT%20-%20BUSINESS%20SCHOOL%20NEW%20DELHI%20Delhi%20NCR",
+      "city": "New Delhi",
+      "email": "info@immindia.edu.in",
+      "verified": true
     },
     {
       "id": 3521,
-      "name": "BANARSIDAS CHANDIWALA INSTITUTE OF PROFESSIONAL STUDIES",
+      "name": "Banarsidas Chandiwala Institute of Professional Studies (BCIPS Dwarka)",
       "shortName": "Course Institute-1",
       "location": "South West Delhi",
       "state": "Delhi NCR",
-      "address": "Plot No 9, Sector 11, Dwarka, New Delhi 110075",
-      "phone": "0123-456789",
-      "website": "https://www.banarsidaschand.edu.in",
+      "address": "Plot No. 9, Sector 11, Dwarka, New Delhi - 110075",
+      "phone": "011-49020100",
+      "website": "https://www.bcips.ac.in",
       "rating": 4.5,
       "reviews": 302,
       "type": "Private",
@@ -210666,10 +210761,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹2,80,000",
+          "fee": "₹2,80,000",
+          "eligibility": "Graduation (50%) + CAT/CMAT/IPU CET",
+          "type": "MANAGEMENT",
+          "intake": 120
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹2,20,000",
+          "fee": "₹2,20,000",
+          "eligibility": "10+2 with English (50%) + IPU CET/CUET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -210688,9 +210795,12 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_3.jpg",
-      "ownership": "Private",
+      "ownership": "Private (Shri Banarsidas Chandiwala Sewa Smarak Trust Society)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BANARSIDAS%20CHANDIWALA%20INSTITUTE%20OF%20PROFESSIONAL%20STUDIES%20South%20West%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "New Delhi",
+      "email": "director@bcips.ac.in",
+      "verified": true
     },
     {
       "id": 3522,
@@ -211836,13 +211946,13 @@
     },
     {
       "id": 3543,
-      "name": "INTERNATIONAL MANAGEMENT CENTRE",
+      "name": "International Management Centre (IMC New Delhi)",
       "shortName": "Course Institute-1",
       "location": "NEW DELHI",
       "state": "Delhi NCR",
-      "address": "D-30,SOUTH EXTENSION PART-I NEW DELHI-110049",
-      "phone": "0123-456789",
-      "website": "https://www.internationalma.edu.in",
+      "address": "D-30, South Extension Part-I, New Delhi - 110049",
+      "phone": "011-24622156",
+      "website": "https://www.imc.edu.in",
       "rating": 4.5,
       "reviews": 512,
       "type": "Private",
@@ -211854,7 +211964,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INTERNATIONAL%20MANAGEMENT%20CENTRE%20NEW%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/svkm_upg_vileparle.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://www.admissionmba.in/wp-content/uploads/2019/08/IMC-New-Delhi-Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -211863,12 +211973,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹5,50,000",
+          "fee": "₹5,50,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT",
           "type": "MANAGEMENT",
-          "intake": 31
+          "intake": 60
+        },
+        {
+          "name": "PGDM (IB)",
+          "title": "Post Graduate Diploma in Management (International Business)",
+          "duration": "2 Years",
+          "fees": "₹5,50,000",
+          "fee": "₹5,50,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -211884,10 +212006,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INTERNATIONAL%20MANAGEMENT%20CENTRE%20NEW%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "New Delhi",
+      "email": "info@imc.edu.in",
+      "verified": true
     },
     {
       "id": 3544,
@@ -212870,13 +212995,13 @@
     },
     {
       "id": 3562,
-      "name": "ADANI INSTITUTE OF DIGITAL TECHNOLOGY MANAGEMENT",
+      "name": "Adani Institute of Digital Technology Management (AIDTM Gandhinagar)",
       "shortName": "Course Institute-1",
       "location": "GANDHINAGAR",
       "state": "Gujarat",
-      "address": "PLOT NO 225, TALUKA : GANDHINAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.adaniinstituteo.edu.in",
+      "address": "Opp. Maharaj Hotel Lane, Sarkhej - Gandhinagar Highway, PO: Jamiyatpura, Gandhinagar - 382423, Gujarat",
+      "phone": "+91-6358975222",
+      "website": "https://www.aidtm.ac.in",
       "rating": 4.5,
       "reviews": 66,
       "type": "Private",
@@ -212888,7 +213013,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ADANI%20INSTITUTE%20OF%20DIGITAL%20TECHNOLOGY%20MANAGEMENT%20GANDHINAGAR%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.getmyuni.com/azure/college-images-test/adani-institute-of-digital-technology-management-aidtm-gujarat/exterior-images-9dd0384d9a334b06496d42477cb76631.png",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://media.getmyuni.com/azure/college-images-test/adani-institute-of-digital-technology-management-aidtm-gujarat/exterior-images-9dd0384d9a334b06496d42477cb76631.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
@@ -212897,10 +213022,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)",
+          "name": "PGDM (BDA)",
+          "title": "Post Graduate Diploma in Management (Big Data Analytics)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹10,00,000",
+          "fee": "₹10,00,000",
+          "eligibility": "Graduation (50%) with Mathematics/Statistics + CAT/XAT/CMAT/GMAT/MAT",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "PGDM (AI&DS)",
+          "title": "Post Graduate Diploma in Management (Artificial Intelligence and Data Science)",
+          "duration": "2 Years",
+          "fees": "₹10,00,000",
+          "fee": "₹10,00,000",
+          "eligibility": "Graduation (50%) with Mathematics/Statistics + CAT/XAT/CMAT/GMAT/MAT",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -212918,22 +213055,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.getmyuni.com/azure/college-images-test/adani-institute-of-digital-technology-management-aidtm-gujarat/exterior-images-9dd0384d9a334b06496d42477cb76631.png",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADANI%20INSTITUTE%20OF%20DIGITAL%20TECHNOLOGY%20MANAGEMENT%20GANDHINAGAR%20Gujarat"
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "ownership": "Private (Adani Institute of Education and Research)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADANI%20INSTITUTE%20OF%20DIGITAL%20TECHNOLOGY%20MANAGEMENT%20GANDHINAGAR%20Gujarat",
+      "city": "Gandhinagar",
+      "email": "admissions@aidtm.ac.in",
+      "verified": true
     },
     {
       "id": 3563,
-      "name": "M.S. PATEL INSTITUTE OF MANAGEMENT STUDIES (FACULTY OF MANAGEMENT STUDIES)",
+      "name": "M.S. Patel Institute of Management Studies (FMS Baroda, MSU Baroda)",
       "shortName": "Course Institute-1",
       "location": "VADODARA",
       "state": "Gujarat",
-      "address": "OPP. UNIVERSITY MAIN OFFICE, FATEHGUNJ",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=M.S.%20PATEL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20(FACULTY%20OF%20MANAGEMENT%20STUDIES)%20VADODARA%20Gujarat%20official%20website",
+      "address": "University Road, Opposite The M.S. University Head Office, Pratapgunj / Fatehgunj, Vadodara, Gujarat - 390002",
+      "phone": "0265-2789485",
+      "website": "https://www.msubaroda.ac.in",
       "rating": 4.5,
       "reviews": 147,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to M.S. PATEL INSTITUTE OF MANAGEMENT STUDIES (FACULTY OF MANAGEMENT STUDIES), a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 73,
       "facebook": "#",
@@ -212942,7 +213082,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=M.S.%20PATEL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20(FACULTY%20OF%20MANAGEMENT%20STUDIES)%20VADODARA%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/saraswati_kharghar.webp",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/395675/arts4.jpg?width=640",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
@@ -212951,12 +213091,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,40,000",
+          "fee": "₹1,40,000",
+          "eligibility": "Graduation (50%) + Gujarat ACPC / CMAT",
           "type": "MANAGEMENT",
-          "intake": 160
+          "intake": 120
+        },
+        {
+          "name": "MBA (Evening)",
+          "title": "Master of Business Administration (Executive Evening)",
+          "duration": "3 Years",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "Graduation + 2 Years Work Experience",
+          "type": "MANAGEMENT",
+          "intake": 40
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -212972,10 +213124,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/saraswati_kharghar.webp",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_5.jpg",
+      "ownership": "Government of Gujarat / Conducted State University Department",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=M.S.%20PATEL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20(FACULTY%20OF%20MANAGEMENT%20STUDIES)%20VADODARA%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Vadodara",
+      "email": "dean-ms@msubaroda.ac.in",
+      "verified": true
     },
     {
       "id": 3564,
@@ -213088,16 +213243,16 @@
     },
     {
       "id": 3566,
-      "name": "INSTITUTE OF RURAL MANAGEMENT ANAND",
+      "name": "Institute of Rural Management Anand (IRMA Anand)",
       "shortName": "Course Institute-1",
       "location": "ANAND",
       "state": "Gujarat",
-      "address": "POST BOX NO. 60",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofrura.edu.in",
+      "address": "Post Box No. 60, Near NDDB, Anand, Gujarat - 388001",
+      "phone": "+91-02692-260391",
+      "website": "https://www.irma.ac.in",
       "rating": 4.5,
       "reviews": 442,
-      "type": "Private",
+      "type": "Public/Government (Autonomous)",
       "about": "Welcome to INSTITUTE OF RURAL MANAGEMENT ANAND, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 12,
       "facebook": "#",
@@ -213106,7 +213261,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20RURAL%20MANAGEMENT%20ANAND%20ANAND%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/institute-of-rural-management-anand-214703.webp",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/institute-of-rural-management-anand-214703.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -213115,12 +213270,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM(RURAL MANAGEMENT)",
+          "name": "PGDM (RM)",
+          "title": "Post Graduate Diploma in Management (Rural Management)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹16,80,000",
+          "fee": "₹16,80,000",
+          "eligibility": "Graduation (50%) + CAT/XAT/CMAT",
           "type": "MANAGEMENT",
           "intake": 240
+        },
+        {
+          "name": "PGDM (RM-X)",
+          "title": "Post Graduate Diploma in Management (Rural Management - Executive)",
+          "duration": "15 Months",
+          "fees": "₹11,00,000",
+          "fee": "₹11,00,000",
+          "eligibility": "Graduation + Minimum 5 Years Work Experience",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -213136,9 +213303,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/institute-of-rural-management-anand-214703.webp",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20RURAL%20MANAGEMENT%20ANAND%20ANAND%20Gujarat"
+      "image": "/images/campuses/campus_architecture_10.jpg",
+      "ownership": "Autonomous Premier Institute (Supported by NDDB / Govt. of India)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20RURAL%20MANAGEMENT%20ANAND%20ANAND%20Gujarat",
+      "city": "Anand",
+      "email": "admissions@irma.ac.in",
+      "verified": true
     },
     {
       "id": 3567,

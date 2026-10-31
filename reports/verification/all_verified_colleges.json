@@ -3073,5 +3073,80 @@
         "website": "https://www.asiapacific.edu"
       }
     ]
+  },
+  {
+    "batch": 42,
+    "items": [
+      {
+        "id": 3509,
+        "name": "Lal Bahadur Shastri Institute of Management (LBSIM Delhi)",
+        "type": "Private",
+        "location": "Dwarka, New Delhi - 110075",
+        "website": "https://www.lbsim.ac.in"
+      },
+      {
+        "id": 3510,
+        "name": "Sri Sharada Institute of Indian Management Research (SRISIIM)",
+        "type": "Private",
+        "location": "Vasant Kunj, New Delhi - 110070",
+        "website": "https://srisiim.ac.in"
+      },
+      {
+        "id": 3512,
+        "name": "Fortune Institute of International Business (FIIB Delhi)",
+        "type": "Private",
+        "location": "Vasant Vihar, New Delhi - 110057",
+        "website": "https://www.fiib.edu.in"
+      },
+      {
+        "id": 3519,
+        "name": "New Delhi Institute of Management (NDIM Delhi)",
+        "type": "Private",
+        "location": "Tughlakabad Institutional Area, New Delhi - 110062",
+        "website": "https://www.ndimdelhi.org"
+      },
+      {
+        "id": 3520,
+        "name": "Institute of Marketing and Management - Business School (IMM Business School)",
+        "type": "Private",
+        "location": "Qutab Institutional Area, New Delhi - 110016",
+        "website": "https://www.immindia.edu.in"
+      },
+      {
+        "id": 3521,
+        "name": "Banarsidas Chandiwala Institute of Professional Studies (BCIPS Dwarka)",
+        "type": "Private",
+        "location": "Dwarka, New Delhi - 110075",
+        "website": "https://www.bcips.ac.in"
+      },
+      {
+        "id": 3543,
+        "name": "International Management Centre (IMC New Delhi)",
+        "type": "Private",
+        "location": "South Extension Part-I, New Delhi - 110049",
+        "website": "https://www.imc.edu.in"
+      },
+      {
+        "id": 3562,
+        "name": "Adani Institute of Digital Technology Management (AIDTM Gandhinagar)",
+        "type": "Private",
+        "location": "Gandhinagar - 382423, Gujarat",
+        "website": "https://www.aidtm.ac.in"
+      },
+      {
+        "id": 3563,
+        "name": "M.S. Patel Institute of Management Studies (FMS Baroda, MSU Baroda)",
+        "type": "Public/Government",
+        "location": "Vadodara, Gujarat - 390002",
+        "website": "https://www.msubaroda.ac.in"
+      },
+      {
+        "id": 3566,
+        "name": "Institute of Rural Management Anand (IRMA Anand)",
+        "type": "Public/Government (Autonomous)",
+        "location": "Anand, Gujarat - 388001",
+        "website": "https://www.irma.ac.in"
+      }
+    ]
   }
 ]
