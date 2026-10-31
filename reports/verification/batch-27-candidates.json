@@ -1,0 +1,197 @@
+[
+  {
+    "id": 2344,
+    "name": "TELLAKULA JALAYYA POLISETTY SOMASUNDARAM COLLEGE",
+    "address": "OPP. JUITE MILL RING ROAD GUNTUR-522006 AP-INDIA",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.tellakulajalayy.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 2358,
+    "name": "GOVERNMENT ARTS COLLEGE",
+    "address": "MADURAI RAMESHWARAM ROAD, PARAMAKUDI.",
+    "state": "Tamil Nadu",
+    "img": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.governmentartsc.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 2359,
+    "name": "NARAYANA INSTITUTE OF MANAGEMENT",
+    "address": "RAVIVENKATAMPALLI (VILLAGE)",
+    "state": "Andhra Pradesh",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-20-8-13-12-34_Narayana Institute.jpg",
+    "website": "https://www.narayanainstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2360,
+    "name": "YOGI VEMANA UNIVERSITY",
+    "address": "VEMANAPURAM, KADAPA",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.yogivemanaunive.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2363,
+    "name": "HINDU COLLEGE OF MANAGEMENT",
+    "address": "AMARAVATHI ROAD",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.hinducollegeofm.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MBA (HOSPITAL MANAGEMENT )",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2365,
+    "name": "S.S.K INSTITUTE OF BUSSINESS MANAGEMENT",
+    "address": "VONTIMITTA(V)",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.sskinstituteofb.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2366,
+    "name": "VIGNANASUDHA INSTITUTE OF MANAGEMENT AND TECHNOLOGY[VIMAT]",
+    "address": "DOOR NO.22-977/3, KATTAMANCHI, CHITTOOR, CHITTOOR DISTRICT. PIN NO.517001",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.vignanasudhains.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2371,
+    "name": "SANSKRITHI SCHOOL OF BUSINESS",
+    "address": "BEHIND SUPER SPECIALITY HOSPILITY, BEEDIPALLI ROAD, PRASHANTHI GRAM, PUTTAPARTHI",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.sanskrithischoo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "BBA",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2373,
+    "name": "SHREE VIVEKANANDA INSTITUTE OF SCIENCE",
+    "address": "SHREE VIVEKANANDA INSTITUTE OF SCIENCE, URAVAKONDA ROAD,NEAR RTC BUS DEPOT",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.shreevivekanand.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2380,
+    "name": "KALLAM HARANADHAREDDY INSTITUTE OF TECHNOLOGY",
+    "address": "BEHIND KALLAM SPINNING MILLS LIMITED N.H.5,CHOWDAVARAM",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/pibm_pune.webp",
+    "website": "https://www.kallamharanadha.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "STRUCTURAL ENGINEERING",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

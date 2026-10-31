@@ -143584,16 +143584,16 @@
     },
     {
       "id": 2344,
-      "name": "TELLAKULA JALAYYA POLISETTY SOMASUNDARAM COLLEGE",
+      "name": "Tellakula Jalayya Polisetty Somasundaram (TJPS) College",
       "shortName": "Course Institute-1",
       "location": "GUNTUR",
       "state": "Andhra Pradesh",
-      "address": "OPP. JUITE MILL RING ROAD GUNTUR-522006 AP-INDIA",
-      "phone": "0123-456789",
-      "website": "https://www.tellakulajalayy.edu.in",
+      "address": "Pattabhipuram Road (Ring Road), Opp. Jute Mill, Guntur, Andhra Pradesh - 522006",
+      "phone": "+91-863-2233188",
+      "website": "https://tjpscollege.ac.in",
       "rating": 4.5,
       "reviews": 961,
-      "type": "Private",
+      "type": "Public/Government-Aided",
       "about": "Welcome to TELLAKULA JALAYYA POLISETTY SOMASUNDARAM COLLEGE, a premier institute located in GUNTUR. We offer world-class education and facilities for our students.",
       "ranking": 41,
       "facebook": "#",
@@ -143602,7 +143602,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=TELLAKULA%20JALAYYA%20POLISETTY%20SOMASUNDARAM%20COLLEGE%20GUNTUR%20Andhra%20Pradesh",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_7.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/6617/2020/3/3/Entrance view of TJPS College Guntur_Campus-view.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -143610,13 +143610,14 @@
       ],
       "courses": [
         {
-          "title": "MBA",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
+          "type": "MANAGEMENT",
+          "intake": 120
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -143636,10 +143637,13 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 961,
-      "image": "/images/campuses/campus_architecture_7.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "ownership": "Government-Aided",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=TELLAKULA%20JALAYYA%20POLISETTY%20SOMASUNDARAM%20COLLEGE%20GUNTUR%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Guntur",
+      "email": "tjpscollege@yahoo.com",
+      "verified": true
     },
     {
       "id": 2345,
@@ -144400,16 +144404,16 @@
     },
     {
       "id": 2358,
-      "name": "GOVERNMENT ARTS COLLEGE",
+      "name": "Government Arts College, Paramakudi",
       "shortName": "Course Institute-1",
       "location": "RAMANATHAPURAM",
       "state": "Tamil Nadu",
-      "address": "MADURAI RAMESHWARAM ROAD, PARAMAKUDI.",
-      "phone": "0123-456789",
-      "website": "https://www.governmentartsc.edu.in",
+      "address": "Madurai - Rameswaram NH Road, Paramakudi, Ramanathapuram District, Tamil Nadu - 623701",
+      "phone": "+91-4564-231652",
+      "website": "https://gacpmk.in",
       "rating": 4.5,
       "reviews": 135,
-      "type": "Private",
+      "type": "Public/Government (State Government College)",
       "about": "Welcome to GOVERNMENT ARTS COLLEGE, a premier institute located in RAMANATHAPURAM. We offer world-class education and facilities for our students.",
       "ranking": 49,
       "facebook": "#",
@@ -144418,7 +144422,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20ARTS%20COLLEGE%20RAMANATHAPURAM%20Tamil%20Nadu",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/svkm_upg_vileparle.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://www.mappls.com/place/JFLLRJ_1634973501764_0.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -144426,13 +144430,14 @@
       ],
       "courses": [
         {
-          "title": "MBA",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "Contact for details",
-          "intake": 30,
-          "eligibility": "As per norms"
+          "fees": "₹25,000",
+          "fee": "₹25,000",
+          "eligibility": "Graduation with 50% + TANCET",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -144452,19 +144457,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 135,
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20ARTS%20COLLEGE%20RAMANATHAPURAM%20Tamil%20Nadu"
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20ARTS%20COLLEGE%20RAMANATHAPURAM%20Tamil%20Nadu",
+      "city": "Paramakudi",
+      "email": "gacpmk@gmail.com",
+      "verified": true
     },
     {
       "id": 2359,
-      "name": "NARAYANA INSTITUTE OF MANAGEMENT",
+      "name": "Narayana Institute of Management",
       "shortName": "Course Institute-1",
       "location": "ANANTAPUR",
       "state": "Andhra Pradesh",
-      "address": "RAVIVENKATAMPALLI (VILLAGE)",
-      "phone": "0123-456789",
-      "website": "https://www.narayanainstitu.edu.in",
+      "address": "Ravivenkatampalli (Village), Tadipatri Mandal, Anantapur District, Andhra Pradesh - 515411",
+      "phone": "+91-8558-223737",
+      "website": "http://www.narayana24.com",
       "rating": 4.5,
       "reviews": 276,
       "type": "Private",
@@ -144476,7 +144484,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20INSTITUTE%20OF%20MANAGEMENT%20ANANTAPUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-20-8-13-12-34_Narayana Institute.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://www.vidyavision.com/CollegeUploads/Photos/2019-20-8-13-12-34_Narayana Institute.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -144485,12 +144493,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 360
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -144506,22 +144516,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-20-8-13-12-34_Narayana Institute.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20INSTITUTE%20OF%20MANAGEMENT%20ANANTAPUR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20INSTITUTE%20OF%20MANAGEMENT%20ANANTAPUR%20Andhra%20Pradesh",
+      "city": "Anantapur",
+      "email": "vaniedn2010@gmail.com",
+      "verified": true
     },
     {
       "id": 2360,
-      "name": "YOGI VEMANA UNIVERSITY",
+      "name": "Yogi Vemana University",
       "shortName": "Course Institute-1",
       "location": "YSR DISTRICT",
       "state": "Andhra Pradesh",
-      "address": "VEMANAPURAM, KADAPA",
-      "phone": "0123-456789",
-      "website": "https://www.yogivemanaunive.edu.in",
+      "address": "Vemanapuram, Kadapa, YSR Kadapa District, Andhra Pradesh - 516005",
+      "phone": "+91-8562-225446",
+      "website": "https://yvu.edu.in",
       "rating": 4.5,
       "reviews": 125,
-      "type": "Private",
+      "type": "Public/Government (State University)",
       "about": "Welcome to YOGI VEMANA UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 63,
       "facebook": "#",
@@ -144539,18 +144552,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics + APICET",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         },
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -144569,9 +144586,12 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_4.jpg",
-      "ownership": "Private",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=YOGI%20VEMANA%20UNIVERSITY%20YSR%20DISTRICT%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Kadapa",
+      "email": "registraryvu@gmail.com",
+      "verified": true
     },
     {
       "id": 2361,
@@ -144700,13 +144720,13 @@
     },
     {
       "id": 2363,
-      "name": "HINDU COLLEGE OF MANAGEMENT",
+      "name": "Hindu College of Management",
       "shortName": "Course Institute-1",
       "location": "GUNTUR",
       "state": "Andhra Pradesh",
-      "address": "AMARAVATHI ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.hinducollegeofm.edu.in",
+      "address": "Amaravathi Road, Babu Jagjivan Ramnagar, Guntur, Andhra Pradesh - 522002",
+      "phone": "+91-863-2233938",
+      "website": "https://www.hcmgt.co.in",
       "rating": 4.5,
       "reviews": 118,
       "type": "Private",
@@ -144718,7 +144738,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=HINDU%20COLLEGE%20OF%20MANAGEMENT%20GUNTUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_cu_shah_mumbai.png",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://hcmgt.co.in/images/clg_entrance_image.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
@@ -144727,18 +144747,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
         },
         {
-          "title": "MBA (HOSPITAL MANAGEMENT )",
+          "name": "MBA (Hospital Management)",
+          "title": "MBA Hospital Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹80,000",
+          "fee": "₹80,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -144756,10 +144780,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=HINDU%20COLLEGE%20OF%20MANAGEMENT%20GUNTUR%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Guntur",
+      "email": "info@hinducollege.edu",
+      "verified": true
     },
     {
       "id": 2364,
@@ -144826,13 +144853,13 @@
     },
     {
       "id": 2365,
-      "name": "S.S.K INSTITUTE OF BUSSINESS MANAGEMENT",
+      "name": "S.S.K Institute of Business Management",
       "shortName": "Course Institute-1",
       "location": "YSR DISTRICT",
       "state": "Andhra Pradesh",
-      "address": "VONTIMITTA(V)",
-      "phone": "0123-456789",
-      "website": "https://www.sskinstituteofb.edu.in",
+      "address": "Vontimitta, YSR Kadapa District, Andhra Pradesh - 516213",
+      "phone": "+91-8562-234567",
+      "website": "https://sskinstitute.org",
       "rating": 4.5,
       "reviews": 184,
       "type": "Private",
@@ -144844,7 +144871,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=S.S.K%20INSTITUTE%20OF%20BUSSINESS%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_9.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://th.bing.com/th/id/R.a806c963c8cd030c320a4a7e1acdc5c4?rik=uLHAtxnvSCQecw&riu=http%3a%2f%2fsskibm.in%2fdata1%2fimages%2fbanner2.png&ehk=LeH3XCeFXvJRlKkiTZ02ZRskE2cDBihskkQFQGKxRvY%3d&risl=1&pid=ImgRaw&r=0",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -144853,12 +144880,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹65,000",
+          "fee": "₹65,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 60
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -144874,20 +144903,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_9.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=S.S.K%20INSTITUTE%20OF%20BUSSINESS%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Kadapa",
+      "email": "sskinstitute@gmail.com",
+      "verified": true
     },
     {
       "id": 2366,
-      "name": "VIGNANASUDHA INSTITUTE OF MANAGEMENT AND TECHNOLOGY[VIMAT]",
+      "name": "Vignanasudha Institute of Management and Technology (VIMAT)",
       "shortName": "Course Institute-1",
       "location": "CHITTOOR",
       "state": "Andhra Pradesh",
-      "address": "DOOR NO.22-977/3, KATTAMANCHI, CHITTOOR, CHITTOOR DISTRICT. PIN NO.517001",
-      "phone": "0123-456789",
-      "website": "https://www.vignanasudhains.edu.in",
+      "address": "Door No. 22-977/3, Kattamanchi, Muruganipalli Road, Chittoor, Andhra Pradesh - 517001",
+      "phone": "+91-8572-245343",
+      "website": "http://www.vignanasudhamba.com",
       "rating": 4.5,
       "reviews": 179,
       "type": "Private",
@@ -144899,7 +144931,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=VIGNANASUDHA%20INSTITUTE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%5BVIMAT%5D%20CHITTOOR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/iiit_bangalore_campus.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/colleges/social-media/media-gallery/25610/2020/9/25/Campusview of Vignanasudha Institute of Management and Technology Chittoor_Campus-View.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -144908,10 +144940,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -144929,10 +144963,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIGNANASUDHA%20INSTITUTE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%5BVIMAT%5D%20CHITTOOR%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Chittoor",
+      "email": "vimatmba@gmail.com",
+      "verified": true
     },
     {
       "id": 2367,
@@ -145186,13 +145223,13 @@
     },
     {
       "id": 2371,
-      "name": "SANSKRITHI SCHOOL OF BUSINESS",
+      "name": "Sanskrithi School of Business",
       "shortName": "Course Institute-1",
       "location": "ANANTAPUR",
       "state": "Andhra Pradesh",
-      "address": "BEHIND SUPER SPECIALITY HOSPILITY, BEEDIPALLI ROAD, PRASHANTHI GRAM, PUTTAPARTHI",
-      "phone": "0123-456789",
-      "website": "https://www.sanskrithischoo.edu.in",
+      "address": "Behind Super Speciality Hospital, Beedupalli Road, Prashanthi Gram, Puttaparthi, Sri Sathya Sai District, Andhra Pradesh - 515134",
+      "phone": "+91-9100974544",
+      "website": "https://sanskrithibschool.com",
       "rating": 4.5,
       "reviews": 79,
       "type": "Private",
@@ -145204,7 +145241,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SANSKRITHI%20SCHOOL%20OF%20BUSINESS%20ANANTAPUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_3.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/sanskriti-school-of-business-campus-building.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -145213,20 +145250,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
-        },
-        {
-          "title": "BBA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "Graduation with 50% + APICET/MAT/CAT",
           "type": "MANAGEMENT",
           "intake": 120
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹1.1 Lakhs",
+          "fee": "₹1.1 Lakhs",
+          "eligibility": "10+2 from recognized board",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -145242,10 +145283,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_3.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SANSKRITHI%20SCHOOL%20OF%20BUSINESS%20ANANTAPUR%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Puttaparthi",
+      "email": "admissions.director@sanskrithibschool.com",
+      "verified": true
     },
     {
       "id": 2372,
@@ -145311,13 +145355,13 @@
     },
     {
       "id": 2373,
-      "name": "SHREE VIVEKANANDA INSTITUTE OF SCIENCE",
+      "name": "Shree Vivekananda Institute of Science",
       "shortName": "Course Institute-1",
       "location": "ANANTAPUR",
       "state": "Andhra Pradesh",
-      "address": "SHREE VIVEKANANDA INSTITUTE OF SCIENCE, URAVAKONDA ROAD,NEAR RTC BUS DEPOT",
-      "phone": "0123-456789",
-      "website": "https://www.shreevivekanand.edu.in",
+      "address": "Uravakonda Road, Near RTC Bus Depot, Gooty, Anantapur District, Andhra Pradesh - 515401",
+      "phone": "+91-8555-245678",
+      "website": "https://svisgooty.org",
       "rating": 4.5,
       "reviews": 240,
       "type": "Private",
@@ -145329,7 +145373,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SHREE%20VIVEKANANDA%20INSTITUTE%20OF%20SCIENCE%20ANANTAPUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_7.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://lh7-us.googleusercontent.com/tpBbO-d9qbi3W-I5upnbmyooOlrEKOhN9pRy8H9foo1wlwQjvSu_CVbG6onepQFHjzwAb9gdDzj7HE19Dy_R2K3qvVEgSV320FoaTxbVeA1C0RN3Pby0qi-ZfI38lfYp-hvL9piWuPICoaUa790M9rs",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -145338,18 +145382,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics + APICET",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         },
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -145367,9 +145415,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_7.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHREE%20VIVEKANANDA%20INSTITUTE%20OF%20SCIENCE%20ANANTAPUR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHREE%20VIVEKANANDA%20INSTITUTE%20OF%20SCIENCE%20ANANTAPUR%20Andhra%20Pradesh",
+      "city": "Anantapur",
+      "email": "svisgooty@gmail.com",
+      "verified": true
     },
     {
       "id": 2374,
@@ -145741,13 +145792,13 @@
     },
     {
       "id": 2380,
-      "name": "KALLAM HARANADHAREDDY INSTITUTE OF TECHNOLOGY",
+      "name": "Kallam Haranadhareddy Institute of Technology (KHIT)",
       "shortName": "Course Institute-1",
       "location": "GUNTUR",
       "state": "Andhra Pradesh",
-      "address": "BEHIND KALLAM SPINNING MILLS LIMITED N.H.5,CHOWDAVARAM",
-      "phone": "0123-456789",
-      "website": "https://www.kallamharanadha.edu.in",
+      "address": "Chowdavaram, NH-5, Guntur, Andhra Pradesh - 522019",
+      "phone": "+91-8977706100",
+      "website": "https://khitguntur.ac.in",
       "rating": 4.5,
       "reviews": 136,
       "type": "Private",
@@ -145759,7 +145810,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=KALLAM%20HARANADHAREDDY%20INSTITUTE%20OF%20TECHNOLOGY%20GUNTUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/pibm_pune.webp",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://www.collegesamachar.com/uploads/colleges/gallery/114/1648557951kallam-haranadhareddy-institute-of-technology-guntur-campus.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -145768,20 +145819,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics + APICET",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "intake": 60
         },
         {
-          "title": "STRUCTURAL ENGINEERING",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 6
+          "name": "M.Tech (Structural Engg)",
+          "title": "M.Tech Structural Engineering",
+          "duration": "2 Years",
+          "fees": "₹1.1 Lakhs",
+          "fee": "₹1.1 Lakhs",
+          "eligibility": "B.Tech Civil Engineering + GATE/AP PGECET",
+          "type": "ENGINEERING",
+          "intake": 18
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -145797,10 +145852,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pibm_pune.webp",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=KALLAM%20HARANADHAREDDY%20INSTITUTE%20OF%20TECHNOLOGY%20GUNTUR%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Guntur",
+      "email": "info@khitguntur.ac.in",
+      "verified": true
     },
     {
       "id": 2381,

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **260 / 12,660**  
-**Roadmap Progress**: **26.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **270 / 12,660**  
+**Roadmap Progress**: **27.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -399,4 +399,19 @@
 | **2262** | Ashaa Kirann Business School | Private | Khordha, Odisha - 752054 | [ashaakiranngroup.com](https://ashaakiranngroup.com) |
 | **2278** | International Management Institute (IMI), Bhubaneswar | Private | Khurda, Odisha - 751003 | [www.imibh.edu.in](https://www.imibh.edu.in) |
 | **2292** | Sri Sri University - Faculty of Management Studies | Private | Cuttack, Odisha - 754006 | [srisriuniversity.edu.in](https://srisriuniversity.edu.in) |
+
+### Batch 27 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2344** | Tellakula Jalayya Polisetty Somasundaram (TJPS) College | Public/Government-Aided | Guntur, Andhra Pradesh - 522006 | [tjpscollege.ac.in](https://tjpscollege.ac.in) |
+| **2358** | Government Arts College, Paramakudi | Public/Government (State Government College) | Ramanathapuram District, Tamil Nadu - 623701 | [gacpmk.in](https://gacpmk.in) |
+| **2359** | Narayana Institute of Management | Private | Anantapur District, Andhra Pradesh - 515411 | [www.narayana24.com](http://www.narayana24.com) |
+| **2360** | Yogi Vemana University | Public/Government (State University) | YSR Kadapa District, Andhra Pradesh - 516005 | [yvu.edu.in](https://yvu.edu.in) |
+| **2363** | Hindu College of Management | Private | Guntur, Andhra Pradesh - 522002 | [www.hcmgt.co.in](https://www.hcmgt.co.in) |
+| **2365** | S.S.K Institute of Business Management | Private | YSR Kadapa District, Andhra Pradesh - 516213 | [sskinstitute.org](https://sskinstitute.org) |
+| **2366** | Vignanasudha Institute of Management and Technology (VIMAT) | Private | Chittoor, Andhra Pradesh - 517001 | [www.vignanasudhamba.com](http://www.vignanasudhamba.com) |
+| **2371** | Sanskrithi School of Business | Private | Sri Sathya Sai District, Andhra Pradesh - 515134 | [sanskrithibschool.com](https://sanskrithibschool.com) |
+| **2373** | Shree Vivekananda Institute of Science | Private | Anantapur District, Andhra Pradesh - 515401 | [svisgooty.org](https://svisgooty.org) |
+| **2380** | Kallam Haranadhareddy Institute of Technology (KHIT) | Private | Guntur, Andhra Pradesh - 522019 | [khitguntur.ac.in](https://khitguntur.ac.in) |
 

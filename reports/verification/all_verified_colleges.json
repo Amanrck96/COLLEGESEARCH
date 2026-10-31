@@ -1948,5 +1948,80 @@
         "website": "https://srisriuniversity.edu.in"
       }
     ]
+  },
+  {
+    "batch": 27,
+    "items": [
+      {
+        "id": 2344,
+        "name": "Tellakula Jalayya Polisetty Somasundaram (TJPS) College",
+        "type": "Public/Government-Aided",
+        "location": "Guntur, Andhra Pradesh - 522006",
+        "website": "https://tjpscollege.ac.in"
+      },
+      {
+        "id": 2358,
+        "name": "Government Arts College, Paramakudi",
+        "type": "Public/Government (State Government College)",
+        "location": "Ramanathapuram District, Tamil Nadu - 623701",
+        "website": "https://gacpmk.in"
+      },
+      {
+        "id": 2359,
+        "name": "Narayana Institute of Management",
+        "type": "Private",
+        "location": "Anantapur District, Andhra Pradesh - 515411",
+        "website": "http://www.narayana24.com"
+      },
+      {
+        "id": 2360,
+        "name": "Yogi Vemana University",
+        "type": "Public/Government (State University)",
+        "location": "YSR Kadapa District, Andhra Pradesh - 516005",
+        "website": "https://yvu.edu.in"
+      },
+      {
+        "id": 2363,
+        "name": "Hindu College of Management",
+        "type": "Private",
+        "location": "Guntur, Andhra Pradesh - 522002",
+        "website": "https://www.hcmgt.co.in"
+      },
+      {
+        "id": 2365,
+        "name": "S.S.K Institute of Business Management",
+        "type": "Private",
+        "location": "YSR Kadapa District, Andhra Pradesh - 516213",
+        "website": "https://sskinstitute.org"
+      },
+      {
+        "id": 2366,
+        "name": "Vignanasudha Institute of Management and Technology (VIMAT)",
+        "type": "Private",
+        "location": "Chittoor, Andhra Pradesh - 517001",
+        "website": "http://www.vignanasudhamba.com"
+      },
+      {
+        "id": 2371,
+        "name": "Sanskrithi School of Business",
+        "type": "Private",
+        "location": "Sri Sathya Sai District, Andhra Pradesh - 515134",
+        "website": "https://sanskrithibschool.com"
+      },
+      {
+        "id": 2373,
+        "name": "Shree Vivekananda Institute of Science",
+        "type": "Private",
+        "location": "Anantapur District, Andhra Pradesh - 515401",
+        "website": "https://svisgooty.org"
+      },
+      {
+        "id": 2380,
+        "name": "Kallam Haranadhareddy Institute of Technology (KHIT)",
+        "type": "Private",
+        "location": "Guntur, Andhra Pradesh - 522019",
+        "website": "https://khitguntur.ac.in"
+      }
+    ]
   }
 ]
