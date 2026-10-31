@@ -2848,5 +2848,80 @@
         "website": "https://www.clritm.com"
       }
     ]
+  },
+  {
+    "batch": 39,
+    "items": [
+      {
+        "id": 3074,
+        "name": "Sri Harshini College of Engineering and Technology for Women (SHEC)",
+        "type": "Private",
+        "location": "Prakasam District, Andhra Pradesh - 523262",
+        "website": "https://shec.ac.in"
+      },
+      {
+        "id": 3075,
+        "name": "Indira Institute of Management",
+        "type": "Private",
+        "location": "Annamayya District, Andhra Pradesh - 516214",
+        "website": "https://iimap.in"
+      },
+      {
+        "id": 3076,
+        "name": "Akshay Institute of Management",
+        "type": "Private",
+        "location": "YSR Kadapa District, Andhra Pradesh - 516001",
+        "website": "http://www.aimkadapa.in"
+      },
+      {
+        "id": 3087,
+        "name": "Development Management Institute (DMI)",
+        "type": "Public/Government (Autonomous)",
+        "location": "Patna, Bihar - 800004",
+        "website": "https://www.dmi.ac.in"
+      },
+      {
+        "id": 3094,
+        "name": "University Department of Computer Applications, Tilka Manjhi Bhagalpur University",
+        "type": "Public/Government (State University Department)",
+        "location": "Bhagalpur, Bihar - 812007",
+        "website": "https://udcatmbu.org"
+      },
+      {
+        "id": 3099,
+        "name": "International School of Management (ISM) Patna",
+        "type": "Private",
+        "location": "Patna, Bihar - 801105",
+        "website": "https://www.ismpatna.ac.in"
+      },
+      {
+        "id": 3104,
+        "name": "Institute of Business Management (IBM), Bela, Darbhanga",
+        "type": "Private",
+        "location": "Darbhanga, Bihar - 846004",
+        "website": "https://www.ibmdarbhanga.ac.in"
+      },
+      {
+        "id": 3116,
+        "name": "Bindeshwar Singh (B.S.) College, Danapur",
+        "type": "Public/Government (Constituent College)",
+        "location": "Patna, Bihar - 801503",
+        "website": "https://bscollegedanapur.ac.in"
+      },
+      {
+        "id": 3117,
+        "name": "Department of Business Administration, Sachchidanand Sinha College",
+        "type": "Public/Government (Constituent College)",
+        "location": "Aurangabad, Bihar - 824102",
+        "website": "https://ssinhacollege.co.in"
+      },
+      {
+        "id": 3129,
+        "name": "College of Commerce, Arts & Science, Patna",
+        "type": "Public/Government (Constituent College)",
+        "location": "Patna, Bihar - 800020",
+        "website": "https://cocaspatna.ac.in"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **380 / 12,660**  
-**Roadmap Progress**: **38.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **390 / 12,660**  
+**Roadmap Progress**: **39.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -579,4 +579,19 @@
 | **2810** | International School of Technology and Sciences (ISTS) | Private | Rajanagaram / Jangareddygudem Off-Campus, Andhra Pradesh - 533294 | [www.ists.ac.in](https://www.ists.ac.in) |
 | **2825** | Aditya Degree College for Women, Kakinada | Private | Kakinada, Andhra Pradesh - 533003 | [aditya.ac.in](https://aditya.ac.in/degree) |
 | **3070** | Chegireddy Linga Reddy Institute of Management (CLRIM) | Private | Prakasam District, Andhra Pradesh - 523333 | [www.clritm.com](https://www.clritm.com) |
+
+### Batch 39 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **3074** | Sri Harshini College of Engineering and Technology for Women (SHEC) | Private | Prakasam District, Andhra Pradesh - 523262 | [shec.ac.in](https://shec.ac.in) |
+| **3075** | Indira Institute of Management | Private | Annamayya District, Andhra Pradesh - 516214 | [iimap.in](https://iimap.in) |
+| **3076** | Akshay Institute of Management | Private | YSR Kadapa District, Andhra Pradesh - 516001 | [www.aimkadapa.in](http://www.aimkadapa.in) |
+| **3087** | Development Management Institute (DMI) | Public/Government (Autonomous) | Patna, Bihar - 800004 | [www.dmi.ac.in](https://www.dmi.ac.in) |
+| **3094** | University Department of Computer Applications, Tilka Manjhi Bhagalpur University | Public/Government (State University Department) | Bhagalpur, Bihar - 812007 | [udcatmbu.org](https://udcatmbu.org) |
+| **3099** | International School of Management (ISM) Patna | Private | Patna, Bihar - 801105 | [www.ismpatna.ac.in](https://www.ismpatna.ac.in) |
+| **3104** | Institute of Business Management (IBM), Bela, Darbhanga | Private | Darbhanga, Bihar - 846004 | [www.ibmdarbhanga.ac.in](https://www.ibmdarbhanga.ac.in) |
+| **3116** | Bindeshwar Singh (B.S.) College, Danapur | Public/Government (Constituent College) | Patna, Bihar - 801503 | [bscollegedanapur.ac.in](https://bscollegedanapur.ac.in) |
+| **3117** | Department of Business Administration, Sachchidanand Sinha College | Public/Government (Constituent College) | Aurangabad, Bihar - 824102 | [ssinhacollege.co.in](https://ssinhacollege.co.in) |
+| **3129** | College of Commerce, Arts & Science, Patna | Public/Government (Constituent College) | Patna, Bihar - 800020 | [cocaspatna.ac.in](https://cocaspatna.ac.in) |
 

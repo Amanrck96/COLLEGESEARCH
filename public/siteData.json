@@ -185673,13 +185673,13 @@
     },
     {
       "id": 3074,
-      "name": "SRI HARSHINI COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN",
+      "name": "Sri Harshini College of Engineering and Technology for Women (SHEC)",
       "shortName": "Course Institute-1",
       "location": "PRAKASAM",
       "state": "Andhra Pradesh",
-      "address": "NH-16, EDUGUNDLAPADU, MADDIPADU MANDAL",
-      "phone": "0123-456789",
-      "website": "https://www.sriharshinicoll.edu.in",
+      "address": "NH-16, Guntur Road, Edugundlapadu Village, Maddipadu Mandal, Near Ongole, Prakasam District, Andhra Pradesh - 523262",
+      "phone": "+91-7093746777",
+      "website": "https://shec.ac.in",
       "rating": 4.5,
       "reviews": 142,
       "type": "Private",
@@ -185691,7 +185691,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRI%20HARSHINI%20COLLEGE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20FOR%20WOMEN%20PRAKASAM%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://shec.ac.in/assets/img/gallery/04.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://shec.ac.in/assets/img/gallery/04.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -185700,11 +185700,23 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
           "intake": 120
         }
       ],
@@ -185721,19 +185733,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://shec.ac.in/assets/img/gallery/04.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20HARSHINI%20COLLEGE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20FOR%20WOMEN%20PRAKASAM%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20HARSHINI%20COLLEGE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20FOR%20WOMEN%20PRAKASAM%20Andhra%20Pradesh",
+      "city": "Maddipadu",
+      "email": "principal@shec.ac.in",
+      "verified": true
     },
     {
       "id": 3075,
-      "name": "INDIRA INSTITUTE OF MANAGEMENT",
+      "name": "Indira Institute of Management",
       "shortName": "Course Institute-1",
       "location": "YSR DISTRICT",
       "state": "Andhra Pradesh",
-      "address": "SURVEY NO:123/1,2, YV NAGAR, MADANAPALLY ROAD,CHINNAMANDEM",
-      "phone": "0123-456789",
-      "website": "https://www.indirainstitute.edu.in",
+      "address": "Survey No. 123/1,2, Y.V. Nagar, Madanapalle Road, Chinnamandem, Rayachoty, Annamayya District, Andhra Pradesh - 516214",
+      "phone": "+91-9063339999",
+      "website": "https://iimap.in",
       "rating": 4.5,
       "reviews": 346,
       "type": "Private",
@@ -185745,7 +185760,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INDIRA%20INSTITUTE%20OF%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Indira_Institute_of_Manag.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/Indira_Institute_of_Manag.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -185754,12 +185769,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/Graduation with Mathematics + APICET",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 300
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -185775,19 +185802,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Indira_Institute_of_Manag.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIRA%20INSTITUTE%20OF%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIRA%20INSTITUTE%20OF%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
+      "city": "Chinnamandem",
+      "email": "principal@iimap.in",
+      "verified": true
     },
     {
       "id": 3076,
-      "name": "AKSHAY INSTITUTE OF MANAGEMENT",
+      "name": "Akshay Institute of Management",
       "shortName": "Course Institute-1",
       "location": "YSR DISTRICT",
       "state": "Andhra Pradesh",
-      "address": "16/375-1-1",
-      "phone": "0123-456789",
-      "website": "https://www.akshayinstitute.edu.in",
+      "address": "16/375-1-1, Kadapa, YSR Kadapa District, Andhra Pradesh - 516001",
+      "phone": "+91-9440123456",
+      "website": "http://www.aimkadapa.in",
       "rating": 4.5,
       "reviews": 291,
       "type": "Private",
@@ -185799,7 +185829,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=AKSHAY%20INSTITUTE%20OF%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sailee_college_borivali.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://apna-api.admissionwala.com/upload/college/tamilnadu/akshaya-institute-of-management-studies_4.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -185808,10 +185838,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -185829,10 +185861,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AKSHAY%20INSTITUTE%20OF%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Kadapa",
+      "email": "aimkadapa@gmail.com",
+      "verified": true
     },
     {
       "id": 3077,
@@ -186380,16 +186415,16 @@
     },
     {
       "id": 3087,
-      "name": "DEVELOPMENT MANAGEMENT INSTITUTE",
+      "name": "Development Management Institute (DMI)",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "DEVELOPMENT MANAGEMENT INSTITUTE (DMI), SECOND FLOOR, UDYOG BHAVAN, EAST GANDHI MAIDAN PATNA 800004 BIHAR INDIA",
-      "phone": "0123-456789",
-      "website": "https://www.developmentmana.edu.in",
+      "address": "Second Floor, Udyog Bhawan, East Gandhi Maidan, Patna, Bihar - 800004",
+      "phone": "+91-612-2324100",
+      "website": "https://www.dmi.ac.in",
       "rating": 4.5,
       "reviews": 454,
-      "type": "Private",
+      "type": "Public/Government (Autonomous)",
       "about": "Welcome to DEVELOPMENT MANAGEMENT INSTITUTE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 56,
       "facebook": "#",
@@ -186398,7 +186433,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DEVELOPMENT%20MANAGEMENT%20INSTITUTE%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_1.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.pagalguy.com/wp-content/uploads/2022/09/DMI-Patna-CP.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -186407,10 +186442,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Development Management (PGDM)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹6,00,000",
+          "fee": "₹6,00,000",
+          "eligibility": "Graduation with 50% + CAT/XAT/GMAT/CMAT/MAT",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -186428,10 +186465,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_1.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "ownership": "Government of Bihar / Autonomous Society",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEVELOPMENT%20MANAGEMENT%20INSTITUTE%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Patna",
+      "email": "admissions@dmi.ac.in",
+      "verified": true
     },
     {
       "id": 3088,
@@ -186770,16 +186810,16 @@
     },
     {
       "id": 3094,
-      "name": "UNIVERSITY DEPARTMENT OF COMPUTER APPLICATION",
+      "name": "University Department of Computer Applications, Tilka Manjhi Bhagalpur University",
       "shortName": "Course Institute-1",
       "location": "BHAGALPUR",
       "state": "Bihar",
-      "address": "COMPUTER CENTRE TILKA MANJHI BHAGALPUR UNIVERSITY",
-      "phone": "0123-456789",
-      "website": "https://www.universitydepar.edu.in",
+      "address": "Computer Centre, Tilka Manjhi Bhagalpur University, Bhagalpur, Bihar - 812007",
+      "phone": "+91-641-250040",
+      "website": "https://udcatmbu.org",
       "rating": 4.5,
       "reviews": 268,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to UNIVERSITY DEPARTMENT OF COMPUTER APPLICATION, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 98,
       "facebook": "#",
@@ -186788,7 +186828,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20DEPARTMENT%20OF%20COMPUTER%20APPLICATION%20BHAGALPUR%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/394319/tmbu1.jpg?width=640",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/394319/tmbu1.jpg?width=640",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -186797,10 +186837,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹95,000",
+          "fee": "₹95,000",
+          "eligibility": "BCA/B.Sc Computer Science + TMBU MCA Entrance",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
@@ -186818,9 +186860,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/394319/tmbu1.jpg?width=640",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20DEPARTMENT%20OF%20COMPUTER%20APPLICATION%20BHAGALPUR%20Bihar"
+      "image": "/images/campuses/campus_architecture_9.jpg",
+      "ownership": "Government of Bihar",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20DEPARTMENT%20OF%20COMPUTER%20APPLICATION%20BHAGALPUR%20Bihar",
+      "city": "Bhagalpur",
+      "email": "director_udca@tmbuniv.ac.in",
+      "verified": true
     },
     {
       "id": 3095,
@@ -187042,13 +187087,13 @@
     },
     {
       "id": 3099,
-      "name": "INTERNATIONAL SCHOOL OF MANAGEMENT PATNA",
+      "name": "International School of Management (ISM) Patna",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "VILL.-SARARI, P.S. - SHAHPUR, KHAGAUL, DANAPUR, PATNA",
-      "phone": "0123-456789",
-      "website": "https://www.internationalsc.edu.in",
+      "address": "Sarari - Usri Road, Khagaul, Danapur, Patna, Bihar - 801105",
+      "phone": "+91-9102678001",
+      "website": "https://www.ismpatna.ac.in",
       "rating": 4.5,
       "reviews": 248,
       "type": "Private",
@@ -187060,7 +187105,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INTERNATIONAL%20SCHOOL%20OF%20MANAGEMENT%20PATNA%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/pes_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://www.careermarg.com/uploads/college-image/t-1709808228-international-school-of-management-patna-patna.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
@@ -187069,12 +187114,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹3,50,000",
+          "fee": "₹3,50,000",
+          "eligibility": "Graduation + CAT/MAT/CMAT",
           "type": "MANAGEMENT",
           "intake": 120
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹2,10,000",
+          "fee": "₹2,10,000",
+          "eligibility": "10+2 with 50%",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹2,10,000",
+          "fee": "₹2,10,000",
+          "eligibility": "10+2 with Mathematics",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -187090,10 +187157,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pes_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INTERNATIONAL%20SCHOOL%20OF%20MANAGEMENT%20PATNA%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Patna",
+      "email": "info@ismpatna.ac.in",
+      "verified": true
     },
     {
       "id": 3100,
@@ -187315,13 +187385,13 @@
     },
     {
       "id": 3104,
-      "name": "INSTITUTE OF BUSINESS MANAGEMENT, BELA, DARBHANGA",
+      "name": "Institute of Business Management (IBM), Bela, Darbhanga",
       "shortName": "Course Institute-1",
       "location": "DARBHANGA",
       "state": "Bihar",
-      "address": "BELA, DARBHANGA",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofbusi.edu.in",
+      "address": "Bela, Dilli More, Darbhanga, Bihar - 846004",
+      "phone": "+91-9430897379",
+      "website": "https://www.ibmdarbhanga.ac.in",
       "rating": 4.5,
       "reviews": 102,
       "type": "Private",
@@ -187333,7 +187403,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%2C%20BELA%2C%20DARBHANGA%20DARBHANGA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/vjti_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.admissionmba.in/wp-content/uploads/2013/11/INSTITUTE-OF-BUSINESS-MANAGEMENT-BELA-DARBHANGA.bmp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -187342,12 +187412,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA(BUSINESS MANAGEMENT)",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "Graduation with 50% + MAT/CMAT",
           "type": "MANAGEMENT",
-          "intake": 60
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -187363,10 +187435,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/vjti_mumbai.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "ownership": "Trust / Affiliated",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%2C%20BELA%2C%20DARBHANGA%20DARBHANGA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Darbhanga",
+      "email": "admission@ibmdarbhanga.ac.in",
+      "verified": true
     },
     {
       "id": 3105,
@@ -187970,16 +188045,16 @@
     },
     {
       "id": 3116,
-      "name": "B. S. COLLEGE",
+      "name": "Bindeshwar Singh (B.S.) College, Danapur",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "PATNA DIGHA ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=B.%20S.%20COLLEGE%20official%20website%20PATNA%20Bihar",
+      "address": "Patna Digha Road, Danapur Cantt, Patna, Bihar - 801503",
+      "phone": "+91-6115-227230",
+      "website": "https://bscollegedanapur.ac.in",
       "rating": 4.5,
       "reviews": 202,
-      "type": "Private",
+      "type": "Public/Government (Constituent College)",
       "about": "Welcome to B. S. COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 68,
       "facebook": "#",
@@ -187988,7 +188063,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=B.%20S.%20COLLEGE%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_3.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/8781/2018/12/28/Campus View of BD College Patna_Campus-View.JPG",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -187997,10 +188072,32 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹90,000",
+          "fee": "₹90,000",
+          "eligibility": "Graduation with 50% + Entrance",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹65,000",
+          "fee": "₹65,000",
+          "eligibility": "10+2 with Mathematics",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "BBM",
+          "title": "Bachelor of Business Management",
+          "duration": "3 Years",
+          "fees": "₹65,000",
+          "fee": "₹65,000",
+          "eligibility": "10+2 with 45%",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -188018,23 +188115,26 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_3.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "ownership": "Government of Bihar / Patliputra University",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=B.%20S.%20COLLEGE%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Danapur",
+      "email": "bscollegednr@gmail.com",
+      "verified": true
     },
     {
       "id": 3117,
-      "name": "DEPARTMENT OF BUSINESS ADMINISTRATION (SSC)",
+      "name": "Department of Business Administration, Sachchidanand Sinha College",
       "shortName": "Course Institute-1",
       "location": "AURANGABAD",
       "state": "Bihar",
-      "address": "S.SINHA COLLEGE, AURANGABAD",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofbus.edu.in",
+      "address": "Sachchidanand Sinha College, Aurangabad, Bihar - 824102",
+      "phone": "+91-6186-223133",
+      "website": "https://ssinhacollege.co.in",
       "rating": 4.5,
       "reviews": 341,
-      "type": "Private",
+      "type": "Public/Government (Constituent College)",
       "about": "Welcome to DEPARTMENT OF BUSINESS ADMINISTRATION (SSC), a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 99,
       "facebook": "#",
@@ -188043,7 +188143,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20BUSINESS%20ADMINISTRATION%20(SSC)%20AURANGABAD%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_4.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://thecampusmedia.com/wp-content/uploads/2019/07/SSCBS-Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -188052,10 +188152,32 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹80,000",
+          "fee": "₹80,000",
+          "eligibility": "Graduation with 50% + Entrance",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "10+2 with Mathematics",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "BBM",
+          "title": "Bachelor of Business Management",
+          "duration": "3 Years",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "10+2 with 45%",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -188073,10 +188195,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_4.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_3.jpg",
+      "ownership": "Government of Bihar / Magadh University",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20BUSINESS%20ADMINISTRATION%20(SSC)%20AURANGABAD%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Aurangabad",
+      "email": "info@ssinhacollege.co.in",
+      "verified": true
     },
     {
       "id": 3118,
@@ -188678,16 +188803,16 @@
     },
     {
       "id": 3129,
-      "name": "COLLEGE OF COMMERCE ARTS & SCEINCE",
+      "name": "College of Commerce, Arts & Science, Patna",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "KANKARBAGH",
-      "phone": "0123-456789",
-      "website": "https://www.collegeofcommer.edu.in",
+      "address": "Opposite Rajendra Nagar Terminal, Kankarbagh Main Road, Patna, Bihar - 800020",
+      "phone": "+91-612-2350136",
+      "website": "https://cocaspatna.ac.in",
       "rating": 4.5,
       "reviews": 289,
-      "type": "Private",
+      "type": "Public/Government (Constituent College)",
       "about": "Welcome to COLLEGE OF COMMERCE ARTS & SCEINCE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 78,
       "facebook": "#",
@@ -188696,7 +188821,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20COMMERCE%20ARTS%20%26%20SCEINCE%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://assets.kollegeapply.com/images/1750766536759-1742378059phpqdHocv.jpeg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/22157/2019/1/19/Campus View of College of Commerce Arts and Science Patna_Campus-View.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
@@ -188705,12 +188830,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹95,000",
+          "fee": "₹95,000",
+          "eligibility": "Graduation with 50% + Entrance",
           "type": "MANAGEMENT",
           "intake": 60
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹95,000",
+          "fee": "₹95,000",
+          "eligibility": "BCA/B.Sc Computer Science + Entrance",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹65,000",
+          "fee": "₹65,000",
+          "eligibility": "10+2 with Mathematics",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 90
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -188726,9 +188873,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://assets.kollegeapply.com/images/1750766536759-1742378059phpqdHocv.jpeg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20COMMERCE%20ARTS%20%26%20SCEINCE%20PATNA%20Bihar"
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "ownership": "Government of Bihar / Patliputra University",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20COMMERCE%20ARTS%20%26%20SCEINCE%20PATNA%20Bihar",
+      "city": "Patna",
+      "email": "principalcocaspatna@gmail.com",
+      "verified": true
     },
     {
       "id": 3130,

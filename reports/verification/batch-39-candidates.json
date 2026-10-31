@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3074,
+    "name": "SRI HARSHINI COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN",
+    "address": "NH-16, EDUGUNDLAPADU, MADDIPADU MANDAL",
+    "state": "Andhra Pradesh",
+    "img": "https://shec.ac.in/assets/img/gallery/04.jpg",
+    "website": "https://www.sriharshinicoll.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3075,
+    "name": "INDIRA INSTITUTE OF MANAGEMENT",
+    "address": "SURVEY NO:123/1,2, YV NAGAR, MADANAPALLY ROAD,CHINNAMANDEM",
+    "state": "Andhra Pradesh",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Indira_Institute_of_Manag.jpg",
+    "website": "https://www.indirainstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3076,
+    "name": "AKSHAY INSTITUTE OF MANAGEMENT",
+    "address": "16/375-1-1",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://www.akshayinstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3087,
+    "name": "DEVELOPMENT MANAGEMENT INSTITUTE",
+    "address": "DEVELOPMENT MANAGEMENT INSTITUTE (DMI), SECOND FLOOR, UDYOG BHAVAN, EAST GANDHI MAIDAN PATNA 800004 BIHAR INDIA",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.developmentmana.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3094,
+    "name": "UNIVERSITY DEPARTMENT OF COMPUTER APPLICATION",
+    "address": "COMPUTER CENTRE TILKA MANJHI BHAGALPUR UNIVERSITY",
+    "state": "Bihar",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/394319/tmbu1.jpg?width=640",
+    "website": "https://www.universitydepar.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3099,
+    "name": "INTERNATIONAL SCHOOL OF MANAGEMENT PATNA",
+    "address": "VILL.-SARARI, P.S. - SHAHPUR, KHAGAUL, DANAPUR, PATNA",
+    "state": "Bihar",
+    "img": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.internationalsc.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3104,
+    "name": "INSTITUTE OF BUSINESS MANAGEMENT, BELA, DARBHANGA",
+    "address": "BELA, DARBHANGA",
+    "state": "Bihar",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.instituteofbusi.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA(BUSINESS MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3116,
+    "name": "B. S. COLLEGE",
+    "address": "PATNA DIGHA ROAD",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.google.com/search?q=B.%20S.%20COLLEGE%20official%20website%20PATNA%20Bihar",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3117,
+    "name": "DEPARTMENT OF BUSINESS ADMINISTRATION (SSC)",
+    "address": "S.SINHA COLLEGE, AURANGABAD",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.departmentofbus.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3129,
+    "name": "COLLEGE OF COMMERCE ARTS & SCEINCE",
+    "address": "KANKARBAGH",
+    "state": "Bihar",
+    "img": "https://assets.kollegeapply.com/images/1750766536759-1742378059phpqdHocv.jpeg",
+    "website": "https://www.collegeofcommer.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]
