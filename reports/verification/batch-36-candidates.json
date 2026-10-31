@@ -1,0 +1,172 @@
+[
+  {
+    "id": 2744,
+    "name": "RV INSTITUTE OF TECHNOLOGY",
+    "address": "CHEBROLU ENGINEERING COLLEGE NEAR POWER STATION CHEBROLU(P.O & MANDEL) GUNTUR(DT)",
+    "state": "Andhra Pradesh",
+    "img": "https://rvit.edu.in/img/RVIT building4.jpeg",
+    "website": "https://www.rvinstituteofte.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2746,
+    "name": "V.S.LAKSHMI INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "VIDYAVAN CAMPUS, R.T.O.OFFICE ROAD, EAST GODAVARI DISTRICT",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/v-s-lakshmi-engineering-college-for-women-east-godavari-282494.webp",
+    "website": "https://www.vslakshmiinstit.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2750,
+    "name": "AMBEDKAR INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "SANDIPANI NAGAR YENDADA VISAKHAPATNAM-530045",
+    "state": "Andhra Pradesh",
+    "img": "https://image-upload.getmycollege.com/new-uploads/college/gallery/dr-ambedkar-institute-of-management-studies-gallery-image-915.jpg",
+    "website": "https://www.ambedkarinstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2754,
+    "name": "VISAKHA INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "57TH DIVISION, NARAVA, VISAKHAPATNAM",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/visakha-institute-of-engineering-technology-visakhapatnam-203997.webp",
+    "website": "https://www.google.com/search?q=VISAKHA%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20VISHAKHAPATNAM%20Andhra%20Pradesh%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2759,
+    "name": "HAINDAVI PG COLLEGE (MBA)",
+    "address": "PUTTAPARTHY ROAD, DHARMAVARAM - 515671, ANANTAPUR DISTRICT, A.P.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/sheila_raheja_bandra.webp",
+    "website": "https://www.haindavipgcolle.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2761,
+    "name": "CSI RAYALASEEMA DIOCESE INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "NH-63, GUNTAKAL ROAD, GOOTY, PIN : 515401 ANANTAPUR DISTICT ANDHRA PRADESH.",
+    "state": "Andhra Pradesh",
+    "img": "https://csiit-sap.ac.in/wp-content/uploads/2024/02/csiit-img1-1-1024x425-1.png",
+    "website": "https://www.csirayalaseemad.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2764,
+    "name": "GATE INSTITUTE OF TECHNOLOGY AND MANAGEMENT SCIENCES",
+    "address": "CHIGURAVADA NORTH KANDRIGA (V), RAYALACHERUVU ROAD TIRUPATI RURAL",
+    "state": "Andhra Pradesh",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1660797561GateInstituteoftechnologyandScience.jpg",
+    "website": "https://www.gateinstituteof.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2765,
+    "name": "VISWAM ENGINEERING COLLEGE",
+    "address": "ANGALLU, MADANAPALLE, CHITTOOR DIST. ANDHRAPRADESH.",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/viswam-engineering-college-chittoor-234328.webp",
+    "website": "https://www.google.com/search?q=VISWAM%20ENGINEERING%20COLLEGE%20CHITTOOR%20Andhra%20Pradesh%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2767,
+    "name": "SANJEEV INSTITUTE OF PLANNING AND MANAGEMENT",
+    "address": "SANJEEV INSTITUTE OF PLANNING AND MANAGEMENT KAKINADA-GOLLAPALEM ROAD TURANGI ROAD KAKINADA EAST GODAVARI DISTRICT ANDHRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "https://ggu.edu.in/wp-content/uploads/2024/09/History_of_the_Institution-1024x683.jpg",
+    "website": "https://www.google.com/search?q=SANJEEV%20INSTITUTE%20OF%20PLANNING%20AND%20MANAGEMENT%20EAST%20GODAVARI%20Andhra%20Pradesh%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2768,
+    "name": "ABHINAV INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "SOMARAJUPALLI, SINGARAYAKONDA PRAKASAM DISTRICT A.P. - 523 101",
+    "state": "Andhra Pradesh",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/pnca.jpg?width=1080",
+    "website": "https://www.google.com/search?q=ABHINAV%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20PRAKASAM%20Andhra%20Pradesh%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

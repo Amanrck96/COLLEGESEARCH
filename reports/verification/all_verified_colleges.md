@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **350 / 12,660**  
-**Roadmap Progress**: **35.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **360 / 12,660**  
+**Roadmap Progress**: **36.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -534,4 +534,19 @@
 | **2714** | Dr. K.V. Subba Reddy School of Business Management | Private | Kurnool, Andhra Pradesh - 518218 | [www.drkvsbschool.in](https://www.drkvsbschool.in) |
 | **2725** | Chaitanya Engineering College | Private | Visakhapatnam, Andhra Pradesh - 530048 | [cec.ac.in](https://cec.ac.in) |
 | **2727** | GATES Institute of Technology | Autonomous Private | Anantapuramu District, Andhra Pradesh - 515401 | [gatesit.ac.in](https://gatesit.ac.in) |
+
+### Batch 36 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2744** | RV Institute of Technology (RVIT) | Private | Guntur District, Andhra Pradesh - 522212 | [www.rvit.edu.in](https://www.rvit.edu.in) |
+| **2746** | V.S. Lakshmi Institute of Management Studies | Private | Kakinada, Andhra Pradesh - 533005 | [vslakshmiwomenscollege.in](https://vslakshmiwomenscollege.in) |
+| **2750** | Ambedkar Institute of Management Studies (AIMS) | Private | Visakhapatnam, Andhra Pradesh - 530045 | [aimsbschool.org](http://aimsbschool.org) |
+| **2754** | Visakha Institute of Engineering & Technology (VIET) | Private | Visakhapatnam, Andhra Pradesh - 530027 | [www.viet.edu.in](https://www.viet.edu.in) |
+| **2759** | Haindavi PG College (MBA) | Private | Anantapur District, Andhra Pradesh - 515671 | [www.haindavipgcollege.org](http://www.haindavipgcollege.org) |
+| **2761** | CSI Rayalaseema Diocese Institute of Management & Technology | Private | Anantapuramu District, Andhra Pradesh - 515401 | [www.csirdimt.org](http://www.csirdimt.org) |
+| **2764** | Gate Institute of Technology and Management Sciences | Private | Tirupati, Andhra Pradesh - 517502 | [www.gatetirupati.com](http://www.gatetirupati.com) |
+| **2765** | Viswam Engineering College | Private | Annamayya District, Andhra Pradesh - 517325 | [viswam.ac.in](https://viswam.ac.in) |
+| **2767** | Sanjeev Institute of Planning and Management | Private | Kakinada District, Andhra Pradesh - 533003 | [sim.edu.in](https://sim.edu.in) |
+| **2768** | Abhinav Institute of Management & Technology | Private | Prakasam District, Andhra Pradesh - 523101 | [www.abhinavinstitutions.com](http://www.abhinavinstitutions.com) |
 

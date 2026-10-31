@@ -2623,5 +2623,80 @@
         "website": "https://gatesit.ac.in"
       }
     ]
+  },
+  {
+    "batch": 36,
+    "items": [
+      {
+        "id": 2744,
+        "name": "RV Institute of Technology (RVIT)",
+        "type": "Private",
+        "location": "Guntur District, Andhra Pradesh - 522212",
+        "website": "https://www.rvit.edu.in"
+      },
+      {
+        "id": 2746,
+        "name": "V.S. Lakshmi Institute of Management Studies",
+        "type": "Private",
+        "location": "Kakinada, Andhra Pradesh - 533005",
+        "website": "https://vslakshmiwomenscollege.in"
+      },
+      {
+        "id": 2750,
+        "name": "Ambedkar Institute of Management Studies (AIMS)",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 530045",
+        "website": "http://aimsbschool.org"
+      },
+      {
+        "id": 2754,
+        "name": "Visakha Institute of Engineering & Technology (VIET)",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 530027",
+        "website": "https://www.viet.edu.in"
+      },
+      {
+        "id": 2759,
+        "name": "Haindavi PG College (MBA)",
+        "type": "Private",
+        "location": "Anantapur District, Andhra Pradesh - 515671",
+        "website": "http://www.haindavipgcollege.org"
+      },
+      {
+        "id": 2761,
+        "name": "CSI Rayalaseema Diocese Institute of Management & Technology",
+        "type": "Private",
+        "location": "Anantapuramu District, Andhra Pradesh - 515401",
+        "website": "http://www.csirdimt.org"
+      },
+      {
+        "id": 2764,
+        "name": "Gate Institute of Technology and Management Sciences",
+        "type": "Private",
+        "location": "Tirupati, Andhra Pradesh - 517502",
+        "website": "http://www.gatetirupati.com"
+      },
+      {
+        "id": 2765,
+        "name": "Viswam Engineering College",
+        "type": "Private",
+        "location": "Annamayya District, Andhra Pradesh - 517325",
+        "website": "https://viswam.ac.in"
+      },
+      {
+        "id": 2767,
+        "name": "Sanjeev Institute of Planning and Management",
+        "type": "Private",
+        "location": "Kakinada District, Andhra Pradesh - 533003",
+        "website": "https://sim.edu.in"
+      },
+      {
+        "id": 2768,
+        "name": "Abhinav Institute of Management & Technology",
+        "type": "Private",
+        "location": "Prakasam District, Andhra Pradesh - 523101",
+        "website": "http://www.abhinavinstitutions.com"
+      }
+    ]
   }
 ]
