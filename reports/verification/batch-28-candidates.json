@@ -1,0 +1,207 @@
+[
+  {
+    "id": 2381,
+    "name": "SAPTHAGIRI INSTITUTE OF MANAGEMENT",
+    "address": "D.NO: 20-9-1/7, NIMKAMPALLI ROAD, HINDUPUR - 515201, ANANTAPUR(DIST), A.P",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.sapthagiriinsti.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2382,
+    "name": "BHEEMIREDDY INSTITUTE OF MANAGEMENT SCIENCE",
+    "address": "ALLUR ROAD,MANDIGIRI(VIL),SADAPURAM(G.P)",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/bheema-institute-of-technology-science-kurnool-305903.webp",
+    "website": "https://www.bheemireddyinst.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2383,
+    "name": "VISAKHA INSTITUTE OF MANAGEMENT SCIENCE",
+    "address": "BODAMETTAPALEM, DAKAMARRI",
+    "state": "Andhra Pradesh",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2016-10-6-06-24-32_VITS.jpg",
+    "website": "https://vims.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2386,
+    "name": "GLOBAL INSTITUTE OF BUSINESS MANAGEMENT",
+    "address": "MARKAPUR",
+    "state": "Andhra Pradesh",
+    "img": "https://giom.edu.in/assets/uploads/services/about_2.jpg",
+    "website": "https://www.globalinstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "BBA",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2388,
+    "name": "NADIMPALLI SATYANARAYANA RAJU INSTITUTE OF TECHNOLOGY",
+    "address": "SONTYAM (VILLAGE) ANANDAPURAM (MANDAL)",
+    "state": "Andhra Pradesh",
+    "img": "https://cache.careers360.mobi/media/colleges/reviews/IMG_20150908_145436.jpg",
+    "website": "https://www.nadimpallisatya.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2390,
+    "name": "KRISHNA UNIVERSITY",
+    "address": "RUDRAVARAM",
+    "state": "Andhra Pradesh",
+    "img": "https://kru.ac.in/wp-content/uploads/2021/06/admin-block-min.jpeg",
+    "website": "https://www.krishnauniversi.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2395,
+    "name": "SUMOURYA INSTITUTE OF MANAGEMENT",
+    "address": "# 87/435,SRI NAGAR COLONY,KURNOOL-518002, AP",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.sumouryainstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2397,
+    "name": "SATYA INSTITUTE OF TECHNOLOGY AND MANAGEMNET",
+    "address": "GAJULAREGA, VIZIANAGARAM",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/satya-institute-of-technology-management-vizianagaram-306819.webp",
+    "website": "https://www.satyainstituteo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2407,
+    "name": "D.L.R COLLEGE PG COURSES (MBA PROGRAME)",
+    "address": "MAIN ROAD, G.MAMIDADA, PEDAPUDI MANDAL, EAST GODAVARI DISTRICT",
+    "state": "Andhra Pradesh",
+    "img": "https://images.careerindia.com/college-photos/78/college-building_1474018671.JPG",
+    "website": "https://www.dlrcollegepgcou.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2411,
+    "name": "PNC&KR COLLEGE OF PG COURSES",
+    "address": "PALNAD ROAD NARASARAOPET GUNTUR DIST ANDHRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/pnckr-college-of-pg-courses-guntur-101479.webp",
+    "website": "https://www.pnckrcollegeofp.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

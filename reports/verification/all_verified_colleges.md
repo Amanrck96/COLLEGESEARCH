@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **270 / 12,660**  
-**Roadmap Progress**: **27.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **280 / 12,660**  
+**Roadmap Progress**: **28.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -414,4 +414,19 @@
 | **2371** | Sanskrithi School of Business | Private | Sri Sathya Sai District, Andhra Pradesh - 515134 | [sanskrithibschool.com](https://sanskrithibschool.com) |
 | **2373** | Shree Vivekananda Institute of Science | Private | Anantapur District, Andhra Pradesh - 515401 | [svisgooty.org](https://svisgooty.org) |
 | **2380** | Kallam Haranadhareddy Institute of Technology (KHIT) | Private | Guntur, Andhra Pradesh - 522019 | [khitguntur.ac.in](https://khitguntur.ac.in) |
+
+### Batch 28 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2381** | Sapthagiri Institute of Management | Private | Sri Sathya Sai (Anantapur) District, Andhra Pradesh - 515201 | [simmba.in](https://simmba.in) |
+| **2382** | Bheemi Reddy Institute of Management Science (BIMS) | Private | Kurnool District, Andhra Pradesh - 518301 | [www.bimsadoni.com](http://www.bimsadoni.com) |
+| **2383** | Visakha Institute of Management Science (VIMS) | Private | Visakhapatnam, Andhra Pradesh - 531162 | [www.vimsvizag.com](http://www.vimsvizag.com) |
+| **2386** | Global Institute of Business Management | Private | Prakasam District, Andhra Pradesh - 523316 | [gibmmarkapur.org](https://gibmmarkapur.org) |
+| **2388** | Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT) | Private (Autonomous) | Visakhapatnam, Andhra Pradesh - 531173 | [www.nsrit.edu.in](https://www.nsrit.edu.in) |
+| **2390** | Krishna University (KRU) | Public/Government (State University) | Krishna District, Andhra Pradesh - 521004 | [kru.ac.in](https://kru.ac.in) |
+| **2395** | Sumourya Institute of Management | Private | Kurnool, Andhra Pradesh - 518007 | [sumourya.org.in](http://sumourya.org.in) |
+| **2397** | Satya Institute of Technology and Management (SITAM) | Private | Vizianagaram, Andhra Pradesh - 535002 | [sitam.co.in](https://sitam.co.in) |
+| **2407** | D.L.R. College PG Courses | Private | Kakinada District, Andhra Pradesh - 533344 | [www.dlrcollege.org](http://www.dlrcollege.org) |
+| **2411** | P.N.C. & K.R. College of PG Courses | Private | Palnadu District, Andhra Pradesh - 522601 | [www.pnckr.com](http://www.pnckr.com) |
 

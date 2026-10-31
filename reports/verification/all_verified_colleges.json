@@ -2023,5 +2023,80 @@
         "website": "https://khitguntur.ac.in"
       }
     ]
+  },
+  {
+    "batch": 28,
+    "items": [
+      {
+        "id": 2381,
+        "name": "Sapthagiri Institute of Management",
+        "type": "Private",
+        "location": "Sri Sathya Sai (Anantapur) District, Andhra Pradesh - 515201",
+        "website": "https://simmba.in"
+      },
+      {
+        "id": 2382,
+        "name": "Bheemi Reddy Institute of Management Science (BIMS)",
+        "type": "Private",
+        "location": "Kurnool District, Andhra Pradesh - 518301",
+        "website": "http://www.bimsadoni.com"
+      },
+      {
+        "id": 2383,
+        "name": "Visakha Institute of Management Science (VIMS)",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 531162",
+        "website": "http://www.vimsvizag.com"
+      },
+      {
+        "id": 2386,
+        "name": "Global Institute of Business Management",
+        "type": "Private",
+        "location": "Prakasam District, Andhra Pradesh - 523316",
+        "website": "https://gibmmarkapur.org"
+      },
+      {
+        "id": 2388,
+        "name": "Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT)",
+        "type": "Private (Autonomous)",
+        "location": "Visakhapatnam, Andhra Pradesh - 531173",
+        "website": "https://www.nsrit.edu.in"
+      },
+      {
+        "id": 2390,
+        "name": "Krishna University (KRU)",
+        "type": "Public/Government (State University)",
+        "location": "Krishna District, Andhra Pradesh - 521004",
+        "website": "https://kru.ac.in"
+      },
+      {
+        "id": 2395,
+        "name": "Sumourya Institute of Management",
+        "type": "Private",
+        "location": "Kurnool, Andhra Pradesh - 518007",
+        "website": "http://sumourya.org.in"
+      },
+      {
+        "id": 2397,
+        "name": "Satya Institute of Technology and Management (SITAM)",
+        "type": "Private",
+        "location": "Vizianagaram, Andhra Pradesh - 535002",
+        "website": "https://sitam.co.in"
+      },
+      {
+        "id": 2407,
+        "name": "D.L.R. College PG Courses",
+        "type": "Private",
+        "location": "Kakinada District, Andhra Pradesh - 533344",
+        "website": "http://www.dlrcollege.org"
+      },
+      {
+        "id": 2411,
+        "name": "P.N.C. & K.R. College of PG Courses",
+        "type": "Private",
+        "location": "Palnadu District, Andhra Pradesh - 522601",
+        "website": "http://www.pnckr.com"
+      }
+    ]
   }
 ]
