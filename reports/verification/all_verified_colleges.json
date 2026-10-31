@@ -2998,5 +2998,80 @@
         "website": "https://management.sityog.edu.in"
       }
     ]
+  },
+  {
+    "batch": 41,
+    "items": [
+      {
+        "id": 3344,
+        "name": "Buddha Institute of Hotel Management & Multiplex (BIHM Gaya)",
+        "type": "Private",
+        "location": "Gaya - 824231, Bihar",
+        "website": "http://bmhmbodhgaya.in"
+      },
+      {
+        "id": 3347,
+        "name": "Maulana Mazharul Haque Arabic and Persian University (MMHAPU)",
+        "type": "Public/Government",
+        "location": "Patna - 800001, Bihar",
+        "website": "https://mmhapu.ac.in"
+      },
+      {
+        "id": 3348,
+        "name": "Oxford College of Research and Management (OCRM)",
+        "type": "Private",
+        "location": "Patna - 803201, Bihar",
+        "website": "https://oxfordedugroup.org"
+      },
+      {
+        "id": 3367,
+        "name": "Maa Kanti College of Higher Education",
+        "type": "Private",
+        "location": "Patna - 803201, Bihar",
+        "website": "http://mkcohe.com"
+      },
+      {
+        "id": 3494,
+        "name": "Delhi Institute of Advanced Studies (DIAS)",
+        "type": "Private",
+        "location": "Rohini, New Delhi - 110085",
+        "website": "https://dias.ac.in"
+      },
+      {
+        "id": 3495,
+        "name": "Gitarattan International Business School (GIBS Rohini)",
+        "type": "Private",
+        "location": "Rohini, Delhi - 110085",
+        "website": "https://gitarattan.edu.in"
+      },
+      {
+        "id": 3502,
+        "name": "Entrepreneurship & Management Processes International (EMPI Business School)",
+        "type": "Private",
+        "location": "Chattarpur, New Delhi - 110074",
+        "website": "https://empi.ac.in"
+      },
+      {
+        "id": 3505,
+        "name": "Apeejay School of Management (ASM Dwarka)",
+        "type": "Private",
+        "location": "Dwarka, New Delhi - 110077",
+        "website": "https://www.apeejay.edu/asm/"
+      },
+      {
+        "id": 3506,
+        "name": "Rukmini Devi Institute of Advanced Studies (RDIAS Rohini)",
+        "type": "Private",
+        "location": "Rohini, Delhi - 110085",
+        "website": "https://rdias.ac.in"
+      },
+      {
+        "id": 3507,
+        "name": "Asia-Pacific Institute of Management (AIM Jasola)",
+        "type": "Private",
+        "location": "Jasola Vihar, New Delhi - 110025",
+        "website": "https://www.asiapacific.edu"
+      }
+    ]
   }
 ]

@@ -200771,13 +200771,13 @@
     },
     {
       "id": 3344,
-      "name": "BUDDHA MULTIPLEX HOTEL AND MANAGEMENT",
+      "name": "Buddha Institute of Hotel Management & Multiplex (BIHM Gaya)",
       "shortName": "Course Institute-1",
       "location": "GAYA",
       "state": "Bihar",
-      "address": "INDUSTRIAL AREA, INDUSTRIAL PLOT NO.-B-1, NH-22, ON GAYA-DOBHI ROAD, GAYA",
-      "phone": "0123-456789",
-      "website": "https://www.buddhamultiplex.edu.in",
+      "address": "Industrial Area, Plot No. B-1, NH-22, Gaya-Dobhi Road, Bodh Gaya, Gaya - 824231, Bihar",
+      "phone": "+91-9431221144",
+      "website": "http://bmhmbodhgaya.in",
       "rating": 4.5,
       "reviews": 227,
       "type": "Private",
@@ -200798,12 +200798,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,60,000",
+          "fee": "₹1,60,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/AKU Entrance",
           "type": "MANAGEMENT",
-          "intake": 120
+          "intake": 60
+        },
+        {
+          "name": "BHM",
+          "title": "Bachelor of Hotel Management",
+          "duration": "4 Years",
+          "fees": "₹2,00,000",
+          "fee": "₹2,00,000",
+          "eligibility": "10+2 in any stream",
+          "type": "HOTEL MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -200820,9 +200832,12 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_6.jpg",
-      "ownership": "Private",
+      "ownership": "Private (Buddha Group of Institutions)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BUDDHA%20MULTIPLEX%20HOTEL%20AND%20MANAGEMENT%20GAYA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Gaya",
+      "email": "bihmgaya@gmail.com",
+      "verified": true
     },
     {
       "id": 3345,
@@ -200936,16 +200951,16 @@
     },
     {
       "id": 3347,
-      "name": "MAULANA MAZHARUL HAQUE ARABIC AND PERSIAN UNIVERSITY",
+      "name": "Maulana Mazharul Haque Arabic and Persian University (MMHAPU)",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "MITHAPUR FARM AREA, METHAPUR",
-      "phone": "0123-456789",
-      "website": "https://www.maulanamazharul.edu.in",
+      "address": "Mithapur Farm Area, Near Bus Stand, Mithapur, Patna - 800001, Bihar",
+      "phone": "0612-2215750",
+      "website": "https://mmhapu.ac.in",
       "rating": 4.5,
       "reviews": 185,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to MAULANA MAZHARUL HAQUE ARABIC AND PERSIAN UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 100,
       "facebook": "#",
@@ -200954,7 +200969,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MAULANA%20MAZHARUL%20HAQUE%20ARABIC%20AND%20PERSIAN%20UNIVERSITY%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://mmhapu.ac.in/web/images/address2.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -200963,12 +200978,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹80,000",
+          "fee": "₹80,000",
+          "eligibility": "Graduation (50%) + Entrance Exam",
           "type": "MANAGEMENT",
           "intake": 60
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + Entrance Exam",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MA",
+          "title": "Master of Arts in Arabic / Persian / Urdu",
+          "duration": "2 Years",
+          "fees": "₹10,000",
+          "fee": "₹10,000",
+          "eligibility": "BA in relevant subject",
+          "type": "ARTS",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -200984,19 +201021,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://mmhapu.ac.in/web/images/address2.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAULANA%20MAZHARUL%20HAQUE%20ARABIC%20AND%20PERSIAN%20UNIVERSITY%20PATNA%20Bihar"
+      "image": "/images/campuses/campus_architecture_7.jpg",
+      "ownership": "Government of Bihar / State Public University",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAULANA%20MAZHARUL%20HAQUE%20ARABIC%20AND%20PERSIAN%20UNIVERSITY%20PATNA%20Bihar",
+      "city": "Patna",
+      "email": "mmhapupatna@yahoo.in",
+      "verified": true
     },
     {
       "id": 3348,
-      "name": "OXFORD COLLEGE OF RESEARCH AND MANAGEMENT",
+      "name": "Oxford College of Research and Management (OCRM)",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "KOLHAR, MACCHRIYAWAN, FATUHA,PATNA",
-      "phone": "0123-456789",
-      "website": "https://www.oxfordcollegeof.edu.in",
+      "address": "Kolhar, Macchriyawan, Fatuha, Patna - 803201, Bihar",
+      "phone": "+91-9334114400",
+      "website": "https://oxfordedugroup.org",
       "rating": 4.5,
       "reviews": 368,
       "type": "Private",
@@ -201008,7 +201048,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=OXFORD%20COLLEGE%20OF%20RESEARCH%20AND%20MANAGEMENT%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://f2.leadsquaredcdn.com/t/microtek/content/common/images/103416945_2759992570947127_551376823296818053_n-1000.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -201017,11 +201057,33 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,40,000",
+          "fee": "₹1,40,000",
+          "eligibility": "BCA/Graduation with Mathematics + Entrance",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "10+2 with Mathematics",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹1,60,000",
+          "fee": "₹1,60,000",
+          "eligibility": "Graduation (50%) + Entrance",
+          "type": "MANAGEMENT",
           "intake": 60
         }
       ],
@@ -201038,10 +201100,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_st_xaviers_mumbai.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "ownership": "Private (Oxford Group of Institutions)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=OXFORD%20COLLEGE%20OF%20RESEARCH%20AND%20MANAGEMENT%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Patna",
+      "email": "info@oxfordedugroup.org",
+      "verified": true
     },
     {
       "id": 3349,
@@ -202034,13 +202099,13 @@
     },
     {
       "id": 3367,
-      "name": "MAA KANTI COLLEGE OF HIGHER EDUCATION",
+      "name": "Maa Kanti College of Higher Education",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "VILLAGE-MAHAMMADPUR, NEAR GOVT. MIDDLE SCHOOL, GANGAPUR, PS-FATUWA ,",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=MAA%20KANTI%20COLLEGE%20OF%20HIGHER%20EDUCATION%20official%20website%20PATNA%20Bihar",
+      "address": "Village-Mahammadpur, Near Govt. Middle School, Gangapur, PS-Fatuha, Patna - 803201, Bihar",
+      "phone": "+91-9431004647",
+      "website": "http://mkcohe.com",
       "rating": 4.5,
       "reviews": 237,
       "type": "Private",
@@ -202061,12 +202126,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "BCA/B.Sc Computer Science",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "intake": 60
+        },
+        {
+          "name": "B.Ed",
+          "title": "Bachelor of Education",
+          "duration": "2 Years",
+          "fees": "₹1,50,000",
+          "fee": "₹1,50,000",
+          "eligibility": "Graduation (50%) + Bihar B.Ed CET",
+          "type": "EDUCATION",
+          "intake": 100
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -202083,9 +202160,12 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_2.jpg",
-      "ownership": "Private",
+      "ownership": "Private (Maa Kanti Educational Trust)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAA%20KANTI%20COLLEGE%20OF%20HIGHER%20EDUCATION%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Patna",
+      "email": "mkcohe1@gmail.com",
+      "verified": true
     },
     {
       "id": 3368,
@@ -208955,13 +209035,13 @@
     },
     {
       "id": 3494,
-      "name": "DELHI INSTITUTE OF ADVANCED STUDIES",
+      "name": "Delhi Institute of Advanced Studies (DIAS)",
       "shortName": "Course Institute-1",
       "location": "NORTH DELHI",
       "state": "Delhi NCR",
-      "address": "PLOT NO 6, SECTOR 25, ROHINI",
-      "phone": "0123-456789",
-      "website": "https://www.delhiinstituteo.edu.in",
+      "address": "Plot No. 6, Sector-25, Rohini, New Delhi - 110085",
+      "phone": "+91-11-27932742",
+      "website": "https://dias.ac.in",
       "rating": 4.5,
       "reviews": 437,
       "type": "Private",
@@ -208973,7 +209053,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DELHI%20INSTITUTE%20OF%20ADVANCED%20STUDIES%20NORTH%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_cu_shah_mumbai.png",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://static.boostmytalent.com/img/univ/delhi-institute-of-advanced-studies-campus-admission.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -208982,12 +209062,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹2,80,000",
+          "fee": "₹2,80,000",
+          "eligibility": "Graduation (50%) + CAT/CMAT/IPU CET",
           "type": "MANAGEMENT",
-          "intake": 90
+          "intake": 120
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹2,40,000",
+          "fee": "₹2,40,000",
+          "eligibility": "BCA/B.Sc IT + NIMCET/IPU CET",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹2,10,000",
+          "fee": "₹2,10,000",
+          "eligibility": "10+2 with English (50%) + IPU CET/CUET",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -209003,19 +209105,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DELHI%20INSTITUTE%20OF%20ADVANCED%20STUDIES%20NORTH%20DELHI%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_9.jpg",
+      "ownership": "Private (Shri Laxman Dass Sachdeva Memorial Educational Society)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DELHI%20INSTITUTE%20OF%20ADVANCED%20STUDIES%20NORTH%20DELHI%20Delhi%20NCR",
+      "city": "New Delhi",
+      "email": "dias@dias.ac.in",
+      "verified": true
     },
     {
       "id": 3495,
-      "name": "GITARATTAN INTERNATIONAL BUSINESS SCHOOL",
+      "name": "Gitarattan International Business School (GIBS Rohini)",
       "shortName": "Course Institute-1",
       "location": "NORTH WEST DELHI",
       "state": "Delhi NCR",
-      "address": "PSP 2A & 2B COMPLEX-II, MADHUBAN CHOWK, ROHINI",
-      "phone": "0123-456789",
-      "website": "https://www.gitarattaninter.edu.in",
+      "address": "PSP 2A & 2B, Complex-II, Madhuban Chowk, Sector-14, Rohini, Delhi - 110085",
+      "phone": "+91-11-27555607",
+      "website": "https://gitarattan.edu.in",
       "rating": 4.5,
       "reviews": 64,
       "type": "Private",
@@ -209027,7 +209132,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GITARATTAN%20INTERNATIONAL%20BUSINESS%20SCHOOL%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.scholarsteps.in/uploads/colleges/gallery/1766757565_694e94bd41c49.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -209036,12 +209141,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹3,20,000",
+          "fee": "₹3,20,000",
+          "eligibility": "Graduation (50%) + CAT/CMAT/IPU CET",
           "type": "MANAGEMENT",
-          "intake": 300
+          "intake": 180
+        },
+        {
+          "name": "MBA (IB)",
+          "title": "Master of Business Administration in International Business",
+          "duration": "2 Years",
+          "fees": "₹3,20,000",
+          "fee": "₹3,20,000",
+          "eligibility": "Graduation (50%) + CAT/CMAT/IPU CET",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹2,40,000",
+          "fee": "₹2,40,000",
+          "eligibility": "10+2 with English (50%) + IPU CET/CUET",
+          "type": "MANAGEMENT",
+          "intake": 180
+        },
+        {
+          "name": "BA LLB",
+          "title": "Integrated Bachelor of Arts and Bachelor of Laws",
+          "duration": "5 Years",
+          "fees": "₹4,50,000",
+          "fee": "₹4,50,000",
+          "eligibility": "10+2 (45%) + CLAT",
+          "type": "LAW",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -209057,10 +209194,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "ownership": "Private (Rohini Educational Society)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GITARATTAN%20INTERNATIONAL%20BUSINESS%20SCHOOL%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "New Delhi",
+      "email": "gibs@gitarattan.edu.in",
+      "verified": true
     },
     {
       "id": 3496,
@@ -209390,13 +209530,13 @@
     },
     {
       "id": 3502,
-      "name": "ENTREPRENEURSHIP & MANAGEMENT PROCESSES INTERNATIONAL",
+      "name": "Entrepreneurship & Management Processes International (EMPI Business School)",
       "shortName": "Course Institute-1",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
-      "address": "CAMPUS P.O: CSKM EDUCATIONAL COMPLEX, SATBARI, CHATTARPUR, NEW DELHI",
-      "phone": "0123-456789",
-      "website": "https://www.entrepreneurshi.edu.in",
+      "address": "CSKM Educational Complex, Satbari, Chattarpur, New Delhi - 110074",
+      "phone": "+91-8800010971",
+      "website": "https://empi.ac.in",
       "rating": 4.5,
       "reviews": 128,
       "type": "Private",
@@ -209408,7 +209548,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ENTREPRENEURSHIP%20%26%20MANAGEMENT%20PROCESSES%20INTERNATIONAL%20SOUTH%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.studyplaces.co.in/wp-content/uploads/2024/06/Entrepreneurship-and-Management-Processes-International-New-Delhi-best-collage.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://www.studyplaces.co.in/wp-content/uploads/2024/06/Entrepreneurship-and-Management-Processes-International-New-Delhi-best-collage.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
@@ -209417,10 +209557,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management (General)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹7,20,000",
+          "fee": "₹7,20,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT",
+          "type": "MANAGEMENT",
+          "intake": 120
+        },
+        {
+          "name": "PGDM (AdCoM)",
+          "title": "Post Graduate Diploma in Advertising Communication & Management",
+          "duration": "2 Years",
+          "fees": "₹7,20,000",
+          "fee": "₹7,20,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -209438,9 +209590,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.studyplaces.co.in/wp-content/uploads/2024/06/Entrepreneurship-and-Management-Processes-International-New-Delhi-best-collage.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ENTREPRENEURSHIP%20%26%20MANAGEMENT%20PROCESSES%20INTERNATIONAL%20SOUTH%20DELHI%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_3.jpg",
+      "ownership": "Private (EMPI Educational Trust)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ENTREPRENEURSHIP%20%26%20MANAGEMENT%20PROCESSES%20INTERNATIONAL%20SOUTH%20DELHI%20Delhi%20NCR",
+      "city": "New Delhi",
+      "email": "admissions@empi.ac.in",
+      "verified": true
     },
     {
       "id": 3503,
@@ -209554,13 +209709,13 @@
     },
     {
       "id": 3505,
-      "name": "APEEJAY SCHOOL OF MANAGEMENT",
+      "name": "Apeejay School of Management (ASM Dwarka)",
       "shortName": "Course Institute-1",
       "location": "SOUTH WEST DELHI",
       "state": "Delhi NCR",
-      "address": "SECTOR-8, INSTITUTIONAL AREA, DWARKA",
-      "phone": "0123-456789",
-      "website": "https://www.apeejayschoolof.edu.in",
+      "address": "Sector VIII, Institutional Area, Dwarka, New Delhi - 110077",
+      "phone": "+91-11-25363979",
+      "website": "https://www.apeejay.edu/asm/",
       "rating": 4.5,
       "reviews": 363,
       "type": "Private",
@@ -209572,7 +209727,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=APEEJAY%20SCHOOL%20OF%20MANAGEMENT%20SOUTH%20WEST%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/iiit_bangalore_campus.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://www.apeejay.edu/asm/wp-content/uploads/2022/11/asm-building-pic.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -209581,12 +209736,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹8,50,000",
+          "fee": "₹8,50,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT/ATMA",
           "type": "MANAGEMENT",
           "intake": 180
+        },
+        {
+          "name": "PGDM (Marketing)",
+          "title": "Post Graduate Diploma in Management (Marketing)",
+          "duration": "2 Years",
+          "fees": "₹8,50,000",
+          "fee": "₹8,50,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT/ATMA",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -209602,20 +209769,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "ownership": "Private (Apeejay Education Society)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=APEEJAY%20SCHOOL%20OF%20MANAGEMENT%20SOUTH%20WEST%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "New Delhi",
+      "email": "asm.dwk.del@apeejay.edu",
+      "verified": true
     },
     {
       "id": 3506,
-      "name": "RUKMINI DEVI INSTITUTE OF ADVANCED STUDIES",
+      "name": "Rukmini Devi Institute of Advanced Studies (RDIAS Rohini)",
       "shortName": "Course Institute-1",
       "location": "NORTH WEST DELHI",
       "state": "Delhi NCR",
-      "address": "2A & 2B, PHASE-I, MADHUBAN CHOWK, ROHINI",
-      "phone": "0123-456789",
-      "website": "https://www.rukminideviinst.edu.in",
+      "address": "2A & 2B, Phase-1, Madhuban Chowk, Outer Ring Road, Rohini, Delhi - 110085",
+      "phone": "011-27864596",
+      "website": "https://rdias.ac.in",
       "rating": 4.5,
       "reviews": 526,
       "type": "Private",
@@ -209627,7 +209797,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=RUKMINI%20DEVI%20INSTITUTE%20OF%20ADVANCED%20STUDIES%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.studyplaces.co.in/wp-content/uploads/2024/06/NEW-PHOTO.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.studyplaces.co.in/wp-content/uploads/2024/06/NEW-PHOTO.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -209636,12 +209806,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹3,00,000",
+          "fee": "₹3,00,000",
+          "eligibility": "Graduation (50%) + CAT/CMAT/IPU CET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 240
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹2,40,000",
+          "fee": "₹2,40,000",
+          "eligibility": "10+2 with English (50%) + IPU CET/CUET",
+          "type": "MANAGEMENT",
+          "intake": 240
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -209657,19 +209839,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.studyplaces.co.in/wp-content/uploads/2024/06/NEW-PHOTO.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RUKMINI%20DEVI%20INSTITUTE%20OF%20ADVANCED%20STUDIES%20NORTH%20WEST%20DELHI%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_5.jpg",
+      "ownership": "Private (Seth Pokhar Mal Educational Society)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RUKMINI%20DEVI%20INSTITUTE%20OF%20ADVANCED%20STUDIES%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
+      "city": "New Delhi",
+      "email": "admin@rdias.ac.in",
+      "verified": true
     },
     {
       "id": 3507,
-      "name": "ASIA-PACIFIC INSTITUTE OF MANAGEMENT",
+      "name": "Asia-Pacific Institute of Management (AIM Jasola)",
       "shortName": "Course Institute-1",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
-      "address": "3,4 INSTITUTIONAL AREA, JASOLA, NEW DELHI-110025",
-      "phone": "0123-456789",
-      "website": "https://www.asiapacificinst.edu.in",
+      "address": "3 & 4, GD Birla Marg, Institutional Area, Jasola Vihar, New Delhi - 110025",
+      "phone": "+91-11-42094800",
+      "website": "https://www.asiapacific.edu",
       "rating": 4.5,
       "reviews": 106,
       "type": "Private",
@@ -209681,7 +209866,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ASIA-PACIFIC%20INSTITUTE%20OF%20MANAGEMENT%20SOUTH%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sailee_college_borivali.jpg",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://www.asiapacific.edu/wp-content/uploads/2022/07/What-Makes-AsiaPacific-Institute-of-Management-AIM-One-of-the-Best-B-Schools-in-Delhi-NCR.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -209690,12 +209875,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM(GENERAL)",
+          "name": "PGDM (General)",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹8,90,000",
+          "fee": "₹8,90,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT",
           "type": "MANAGEMENT",
           "intake": 180
+        },
+        {
+          "name": "PGDM (Healthcare)",
+          "title": "Post Graduate Diploma in Healthcare Management",
+          "duration": "2 Years",
+          "fees": "₹8,90,000",
+          "fee": "₹8,90,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/XAT/CMAT",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "PGDM (BDA)",
+          "title": "Post Graduate Diploma in Big Data Analytics",
+          "duration": "2 Years",
+          "fees": "₹8,90,000",
+          "fee": "₹8,90,000",
+          "eligibility": "Graduation with Mathematics/Stats + Entrance",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -209711,10 +209918,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sailee_college_borivali.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_10.jpg",
+      "ownership": "Private (All India Asian Education Foundation)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASIA-PACIFIC%20INSTITUTE%20OF%20MANAGEMENT%20SOUTH%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "New Delhi",
+      "email": "admissions@asiapacific.edu",
+      "verified": true
     },
     {
       "id": 3508,

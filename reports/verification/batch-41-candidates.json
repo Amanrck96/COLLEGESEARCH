@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3344,
+    "name": "BUDDHA MULTIPLEX HOTEL AND MANAGEMENT",
+    "address": "INDUSTRIAL AREA, INDUSTRIAL PLOT NO.-B-1, NH-22, ON GAYA-DOBHI ROAD, GAYA",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.buddhamultiplex.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3347,
+    "name": "MAULANA MAZHARUL HAQUE ARABIC AND PERSIAN UNIVERSITY",
+    "address": "MITHAPUR FARM AREA, METHAPUR",
+    "state": "Bihar",
+    "img": "https://mmhapu.ac.in/web/images/address2.jpg",
+    "website": "https://www.maulanamazharul.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3348,
+    "name": "OXFORD COLLEGE OF RESEARCH AND MANAGEMENT",
+    "address": "KOLHAR, MACCHRIYAWAN, FATUHA,PATNA",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+    "website": "https://www.oxfordcollegeof.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3367,
+    "name": "MAA KANTI COLLEGE OF HIGHER EDUCATION",
+    "address": "VILLAGE-MAHAMMADPUR, NEAR GOVT. MIDDLE SCHOOL, GANGAPUR, PS-FATUWA ,",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.google.com/search?q=MAA%20KANTI%20COLLEGE%20OF%20HIGHER%20EDUCATION%20official%20website%20PATNA%20Bihar",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3494,
+    "name": "DELHI INSTITUTE OF ADVANCED STUDIES",
+    "address": "PLOT NO 6, SECTOR 25, ROHINI",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.delhiinstituteo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3495,
+    "name": "GITARATTAN INTERNATIONAL BUSINESS SCHOOL",
+    "address": "PSP 2A & 2B COMPLEX-II, MADHUBAN CHOWK, ROHINI",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.gitarattaninter.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3502,
+    "name": "ENTREPRENEURSHIP & MANAGEMENT PROCESSES INTERNATIONAL",
+    "address": "CAMPUS P.O: CSKM EDUCATIONAL COMPLEX, SATBARI, CHATTARPUR, NEW DELHI",
+    "state": "Delhi NCR",
+    "img": "https://www.studyplaces.co.in/wp-content/uploads/2024/06/Entrepreneurship-and-Management-Processes-International-New-Delhi-best-collage.jpg",
+    "website": "https://www.entrepreneurshi.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3505,
+    "name": "APEEJAY SCHOOL OF MANAGEMENT",
+    "address": "SECTOR-8, INSTITUTIONAL AREA, DWARKA",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.apeejayschoolof.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3506,
+    "name": "RUKMINI DEVI INSTITUTE OF ADVANCED STUDIES",
+    "address": "2A & 2B, PHASE-I, MADHUBAN CHOWK, ROHINI",
+    "state": "Delhi NCR",
+    "img": "https://www.studyplaces.co.in/wp-content/uploads/2024/06/NEW-PHOTO.jpg",
+    "website": "https://www.rukminideviinst.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3507,
+    "name": "ASIA-PACIFIC INSTITUTE OF MANAGEMENT",
+    "address": "3,4 INSTITUTIONAL AREA, JASOLA, NEW DELHI-110025",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://www.asiapacificinst.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM(GENERAL)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

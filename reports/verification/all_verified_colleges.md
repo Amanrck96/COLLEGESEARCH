@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **400 / 12,660**  
-**Roadmap Progress**: **40.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **410 / 12,660**  
+**Roadmap Progress**: **41.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -609,4 +609,19 @@
 | **3177** | CIMAGE Center of Digital Technology and Entrepreneurship (CCDTE) | Private | Patna - 800013, Bihar | [www.cimage.in](https://www.cimage.in) |
 | **3284** | Veer Kunwar Singh University (VKSU) | Public/Government | Bhojpur District, Bihar - 802301 | [vksu.ac.in](https://vksu.ac.in) |
 | **3343** | Sityog Institute of Management | Private | Aurangabad, Bihar - 824102 | [management.sityog.edu.in](https://management.sityog.edu.in) |
+
+### Batch 41 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **3344** | Buddha Institute of Hotel Management & Multiplex (BIHM Gaya) | Private | Gaya - 824231, Bihar | [bmhmbodhgaya.in](http://bmhmbodhgaya.in) |
+| **3347** | Maulana Mazharul Haque Arabic and Persian University (MMHAPU) | Public/Government | Patna - 800001, Bihar | [mmhapu.ac.in](https://mmhapu.ac.in) |
+| **3348** | Oxford College of Research and Management (OCRM) | Private | Patna - 803201, Bihar | [oxfordedugroup.org](https://oxfordedugroup.org) |
+| **3367** | Maa Kanti College of Higher Education | Private | Patna - 803201, Bihar | [mkcohe.com](http://mkcohe.com) |
+| **3494** | Delhi Institute of Advanced Studies (DIAS) | Private | Rohini, New Delhi - 110085 | [dias.ac.in](https://dias.ac.in) |
+| **3495** | Gitarattan International Business School (GIBS Rohini) | Private | Rohini, Delhi - 110085 | [gitarattan.edu.in](https://gitarattan.edu.in) |
+| **3502** | Entrepreneurship & Management Processes International (EMPI Business School) | Private | Chattarpur, New Delhi - 110074 | [empi.ac.in](https://empi.ac.in) |
+| **3505** | Apeejay School of Management (ASM Dwarka) | Private | Dwarka, New Delhi - 110077 | [www.apeejay.edu](https://www.apeejay.edu/asm/) |
+| **3506** | Rukmini Devi Institute of Advanced Studies (RDIAS Rohini) | Private | Rohini, Delhi - 110085 | [rdias.ac.in](https://rdias.ac.in) |
+| **3507** | Asia-Pacific Institute of Management (AIM Jasola) | Private | Jasola Vihar, New Delhi - 110025 | [www.asiapacific.edu](https://www.asiapacific.edu) |
 
