@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **290 / 12,660**  
-**Roadmap Progress**: **29.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **300 / 12,660**  
+**Roadmap Progress**: **30.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -444,4 +444,19 @@
 | **2446** | Andhra Loyola College (Autonomous) | Public/Government-Aided (Autonomous) | Vijayawada, Andhra Pradesh - 520008 | [www.andhraloyolacollege.ac.in](https://www.andhraloyolacollege.ac.in) |
 | **2458** | Daggubati Chenchu Ramaiah Memorial (DCRM) PG College | Private | Bapatla District, Andhra Pradesh - 523167 | [www.daggubatigroup.org](http://www.daggubatigroup.org) |
 | **2461** | DBB Institute of PG Studies | Private | Tirupati District, Andhra Pradesh - 517583 | [www.dbbips.org](http://www.dbbips.org) |
+
+### Batch 30 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2466** | Krishna Chaitanya Institute of Management | Private | Prakasam District, Andhra Pradesh - 523316 | [www.kits-anna.com](http://www.kits-anna.com) |
+| **2473** | G.B.R. Degree College (PG Courses) | Private | East Godavari District, Andhra Pradesh - 533342 | [www.gbrcolleges.com](https://www.gbrcolleges.com) |
+| **2474** | Balaji Institute of IT and Management | Private | YSR Kadapa District, Andhra Pradesh - 516003 | [www.bimkadapa.in](https://www.bimkadapa.in) |
+| **2482** | Sri Datta Sai School of Business | Private | YSR Kadapa District, Andhra Pradesh - 516003 | [www.sdsbschool.in](http://www.sdsbschool.in) |
+| **2486** | Ch.S.D. St. Theresa's College for Women (Autonomous) | Public/Government-Aided (Autonomous) | Eluru District (formerly West Godavari), Andhra Pradesh - 534003 | [stcelr.ac.in](https://stcelr.ac.in) |
+| **2488** | Sree Venkateswara College of Engineering (SVCN) | Private | SPSR Nellore District, Andhra Pradesh - 524316 | [svcn.ac.in](http://svcn.ac.in) |
+| **2514** | Wings Business School | Private | Tirupati, Andhra Pradesh - 517561 | [www.wingsbschool.org](http://www.wingsbschool.org) |
+| **2516** | Edge International B School | Private | Chittoor District, Andhra Pradesh - 517416 | [www.edgebschool.in](http://www.edgebschool.in) |
+| **2547** | Dantuluri Narayana Raju (D.N.R.) College (Autonomous) | Public/Government-Aided (Autonomous) | West Godavari District, Andhra Pradesh - 534202 | [dnrcollege.org](https://dnrcollege.org) |
+| **2551** | Sri Vani Institute of Management and Sciences (SVIMS) | Private | Anantapur, Andhra Pradesh - 515004 | [www.srivanimcamba.org](https://www.srivanimcamba.org) |
 

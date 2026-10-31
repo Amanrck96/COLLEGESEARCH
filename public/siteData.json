@@ -151237,13 +151237,13 @@
     },
     {
       "id": 2466,
-      "name": "KRISHNA CHAITANYA INSTITUTE OF MANAGEMENT",
+      "name": "Krishna Chaitanya Institute of Management",
       "shortName": "Course Institute-1",
       "location": "PRAKASAM",
       "state": "Andhra Pradesh",
-      "address": "DEVARAJU GATTU VILLAGE PEDDA ARAVEEDU MANDAL",
-      "phone": "0123-456789",
-      "website": "https://www.krishnachaitany.edu.in",
+      "address": "Devarajugattu Village, Pedda Araveedu Mandal, Markapur, Prakasam District, Andhra Pradesh - 523316",
+      "phone": "+91-9153019999",
+      "website": "http://www.kits-anna.com",
       "rating": 4.5,
       "reviews": 113,
       "type": "Private",
@@ -151255,7 +151255,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=KRISHNA%20CHAITANYA%20INSTITUTE%20OF%20MANAGEMENT%20PRAKASAM%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/121119030126_img25.jpg.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/campusimage/121119030126_img25.jpg.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
@@ -151264,10 +151264,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -151285,9 +151287,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/121119030126_img25.jpg.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KRISHNA%20CHAITANYA%20INSTITUTE%20OF%20MANAGEMENT%20PRAKASAM%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KRISHNA%20CHAITANYA%20INSTITUTE%20OF%20MANAGEMENT%20PRAKASAM%20Andhra%20Pradesh",
+      "city": "Markapur",
+      "email": "principal@kits-anna.com",
+      "verified": true
     },
     {
       "id": 2467,
@@ -151616,13 +151621,13 @@
     },
     {
       "id": 2473,
-      "name": "G B R DEGREE COLLEGE (P G COURSES)",
+      "name": "G.B.R. Degree College (PG Courses)",
       "shortName": "Course Institute-1",
       "location": "EAST GODAVARI",
       "state": "Andhra Pradesh",
-      "address": "M.B.A.PROGRAMME D.NO: 4-263 DUPPALAPUDI ROAD ANAPARTHI - 533342 EAST GODAVARI DISTRICT (A.P)",
-      "phone": "0123-456789",
-      "website": "https://www.gbrdegreecolleg.edu.in",
+      "address": "Duppalapudi Road, Anaparthi, East Godavari District, Andhra Pradesh - 533342",
+      "phone": "+91-8857-227044",
+      "website": "https://www.gbrcolleges.com",
       "rating": 4.5,
       "reviews": 317,
       "type": "Private",
@@ -151634,7 +151639,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=G%20B%20R%20DEGREE%20COLLEGE%20(P%20G%20COURSES)%20EAST%20GODAVARI%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.gfgcoe.ac.in/img/DJI_0001.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.gfgcoe.ac.in/img/DJI_0001.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -151643,11 +151648,23 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
+          "type": "MANAGEMENT",
           "intake": 60
         }
       ],
@@ -151664,19 +151681,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.gfgcoe.ac.in/img/DJI_0001.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=G%20B%20R%20DEGREE%20COLLEGE%20(P%20G%20COURSES)%20EAST%20GODAVARI%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=G%20B%20R%20DEGREE%20COLLEGE%20(P%20G%20COURSES)%20EAST%20GODAVARI%20Andhra%20Pradesh",
+      "city": "Anaparthi",
+      "email": "gbrcolleges@gmail.com",
+      "verified": true
     },
     {
       "id": 2474,
-      "name": "BALAJI INSTITUTE OF IT AND MANAGEMENT",
+      "name": "Balaji Institute of IT and Management",
       "shortName": "Course Institute-1",
       "location": "YSR DISTRICT",
       "state": "Andhra Pradesh",
-      "address": "OPP:79/51-1 NARAPAREDDY VILLAS RAMACHANDRAPURAM(V) RAMARAJUPALLI(P) KADAPA-516003",
-      "phone": "0123-456789",
-      "website": "https://www.balajiinstitute.edu.in",
+      "address": "Ramachandrapuram Village, Ramarajupalli Post, Kadapa, YSR Kadapa District, Andhra Pradesh - 516003",
+      "phone": "+91-9059593566",
+      "website": "https://www.bimkadapa.in",
       "rating": 4.5,
       "reviews": 86,
       "type": "Private",
@@ -151688,7 +151708,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=BALAJI%20INSTITUTE%20OF%20IT%20AND%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-06-3-14-20-35_BJ.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://www.vidyavision.com/CollegeUploads/Photos/2019-06-3-14-20-35_BJ.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -151697,12 +151717,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -151718,9 +151740,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-06-3-14-20-35_BJ.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BALAJI%20INSTITUTE%20OF%20IT%20AND%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BALAJI%20INSTITUTE%20OF%20IT%20AND%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
+      "city": "Kadapa",
+      "email": "principal.9r@jntua.ac.in",
+      "verified": true
     },
     {
       "id": 2475,
@@ -152106,13 +152131,13 @@
     },
     {
       "id": 2482,
-      "name": "SRI DATTA SAI SCHOOL OF BUSINESS",
+      "name": "Sri Datta Sai School of Business",
       "shortName": "Course Institute-1",
       "location": "YSR DISTRICT",
       "state": "Andhra Pradesh",
-      "address": "PRAKASAM PALLI VILLAGE, KOPPARTHI PANCHAYATH, C.K.DINNE MANDAL",
-      "phone": "0123-456789",
-      "website": "https://www.sridattasaischo.edu.in",
+      "address": "Prakasam Palli Village, Kopparthi Panchayat, C.K. Dinne Mandal, YSR Kadapa District, Andhra Pradesh - 516003",
+      "phone": "+91-9912208378",
+      "website": "http://www.sdsbschool.in",
       "rating": 4.5,
       "reviews": 303,
       "type": "Private",
@@ -152133,12 +152158,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -152157,7 +152184,10 @@
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20DATTA%20SAI%20SCHOOL%20OF%20BUSINESS%20YSR%20DISTRICT%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Kadapa",
+      "email": "mastan.axe@gmail.com",
+      "verified": true
     },
     {
       "id": 2483,
@@ -152326,16 +152356,16 @@
     },
     {
       "id": 2486,
-      "name": "CH.S.D.ST.THERESA'S COLLEGE FOR WOMEN, ELURU",
+      "name": "Ch.S.D. St. Theresa's College for Women (Autonomous)",
       "shortName": "Course Institute-1",
       "location": "WEST GODAVARI",
       "state": "Andhra Pradesh",
-      "address": "GAVARAVARAM, SANIVARAPUPET POST ELURU - 534 003 WEST GODAVARI DISTRICT ANDHRA PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.chsdsttheresasc.edu.in",
+      "address": "Gavaravaram, Sanivarapupet Post, Eluru, Eluru District (formerly West Godavari), Andhra Pradesh - 534003",
+      "phone": "+91-8812-251210",
+      "website": "https://stcelr.ac.in",
       "rating": 4.5,
       "reviews": 448,
-      "type": "Private",
+      "type": "Public/Government-Aided (Autonomous)",
       "about": "Welcome to CH.S.D.ST.THERESA'S COLLEGE FOR WOMEN, ELURU, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 98,
       "facebook": "#",
@@ -152344,7 +152374,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CH.S.D.ST.THERESA'S%20COLLEGE%20FOR%20WOMEN%2C%20ELURU%20WEST%20GODAVARI%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://images.careerindia.com/college-photos/74/administrative-block_1474000305.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://images.careerindia.com/college-photos/74/administrative-block_1474000305.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -152353,11 +152383,23 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "Graduation + APICET",
           "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "BCA/B.Sc + APICET",
+          "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
       ],
@@ -152374,9 +152416,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://images.careerindia.com/college-photos/74/administrative-block_1474000305.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CH.S.D.ST.THERESA'S%20COLLEGE%20FOR%20WOMEN%2C%20ELURU%20WEST%20GODAVARI%20Andhra%20Pradesh"
+      "image": "/images/campuses/campus_architecture_5.jpg",
+      "ownership": "Government-Aided",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CH.S.D.ST.THERESA'S%20COLLEGE%20FOR%20WOMEN%2C%20ELURU%20WEST%20GODAVARI%20Andhra%20Pradesh",
+      "city": "Eluru",
+      "email": "chsdtheresa@gmail.com",
+      "verified": true
     },
     {
       "id": 2487,
@@ -152434,13 +152479,13 @@
     },
     {
       "id": 2488,
-      "name": "SREE VENKATESWARA COLLEGE OF ENGINEERING",
+      "name": "Sree Venkateswara College of Engineering (SVCN)",
       "shortName": "Course Institute-1",
       "location": "NELLORE",
       "state": "Andhra Pradesh",
-      "address": "GOLDEN NAGAR, NH-5-NORTH RAJUPALEM BYPASS ROAD.",
-      "phone": "0123-456789",
-      "website": "https://www.sreevenkateswar.edu.in",
+      "address": "Golden Nagar, North Rajupalem, NH-5 Bypass Road, Kodavalur, SPSR Nellore District, Andhra Pradesh - 524316",
+      "phone": "+91-7032642099",
+      "website": "http://svcn.ac.in",
       "rating": 4.5,
       "reviews": 62,
       "type": "Private",
@@ -152452,7 +152497,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SREE%20VENKATESWARA%20COLLEGE%20OF%20ENGINEERING%20NELLORE%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://svcn.ac.in/wp-content/uploads/2021/09/Untitled-design-52.png",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://svcn.ac.in/wp-content/uploads/2021/09/Untitled-design-52.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -152461,12 +152506,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 360
+          "intake": 60
+        },
+        {
+          "name": "B.Tech",
+          "title": "Bachelor of Technology",
+          "duration": "4 Years",
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "10+2 with PCM + AP EAPCET",
+          "type": "ENGINEERING",
+          "intake": 480
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -152482,9 +152539,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://svcn.ac.in/wp-content/uploads/2021/09/Untitled-design-52.png",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SREE%20VENKATESWARA%20COLLEGE%20OF%20ENGINEERING%20NELLORE%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SREE%20VENKATESWARA%20COLLEGE%20OF%20ENGINEERING%20NELLORE%20Andhra%20Pradesh",
+      "city": "Kodavalur",
+      "email": "sving9@gmail.com",
+      "verified": true
     },
     {
       "id": 2489,
@@ -153848,13 +153908,13 @@
     },
     {
       "id": 2514,
-      "name": "WINGS BUSINESS SCHOOL",
+      "name": "Wings Business School",
       "shortName": "Course Institute-1",
       "location": "CHITTOOR",
       "state": "Andhra Pradesh",
-      "address": "KKV PURAM (VIL), RC PURAM(MANDAL), TIRUPATI, CHITTOOR(DIST.), AP",
-      "phone": "0123-456789",
-      "website": "https://www.wingsbusinesssc.edu.in",
+      "address": "KKV Puram Village, RC Puram Mandal, Tirupati, Andhra Pradesh - 517561",
+      "phone": "+91-9642212727",
+      "website": "http://www.wingsbschool.org",
       "rating": 4.5,
       "reviews": 268,
       "type": "Private",
@@ -153866,7 +153926,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=WINGS%20BUSINESS%20SCHOOL%20CHITTOOR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.studyplaces.co.in/wp-content/uploads/2021/05/wings-business-school-chittoor.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.studyplaces.co.in/wp-content/uploads/2021/05/wings-business-school-chittoor.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
@@ -153875,12 +153935,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -153896,9 +153958,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/05/wings-business-school-chittoor.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=WINGS%20BUSINESS%20SCHOOL%20CHITTOOR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=WINGS%20BUSINESS%20SCHOOL%20CHITTOOR%20Andhra%20Pradesh",
+      "city": "Tirupati",
+      "email": "wingsbschool@gmail.com",
+      "verified": true
     },
     {
       "id": 2515,
@@ -153956,13 +154021,13 @@
     },
     {
       "id": 2516,
-      "name": "EDGE INTERNATIONAL B SCHOOL",
+      "name": "Edge International B School",
       "shortName": "Course Institute-1",
       "location": "CHITTOOR",
       "state": "Andhra Pradesh",
-      "address": "SY. NO. 357 & 358, 5 K.M., GAJULAPALLI ROAD, SADAKUPPAM POST, BANGARUPALYAM TALUK, CHITTOOR DISTRICT, ANDRA PRADESH PIN - 517416",
-      "phone": "0123-456789",
-      "website": "https://www.edgeinternation.edu.in",
+      "address": "Sy. No. 357 & 358, 5th KM, Gajulapalli Road, Sadakuppam Post, Bangarupalyam Taluk, Chittoor District, Andhra Pradesh - 517416",
+      "phone": "+91-9440866604",
+      "website": "http://www.edgebschool.in",
       "rating": 4.5,
       "reviews": 402,
       "type": "Private",
@@ -153974,7 +154039,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=EDGE%20INTERNATIONAL%20B%20SCHOOL%20CHITTOOR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/ramaiah_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://blog.edhippo.com/wp-content/uploads/2024/11/Scindia-Kanya-Vidyalaya-Gwalior.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -153983,10 +154048,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -154004,10 +154071,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/ramaiah_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=EDGE%20INTERNATIONAL%20B%20SCHOOL%20CHITTOOR%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Bangarupalyam",
+      "email": "info@edgebschool.in",
+      "verified": true
     },
     {
       "id": 2517,
@@ -155646,16 +155716,16 @@
     },
     {
       "id": 2547,
-      "name": "D. N. R. COLLEGE, P.G. COURSES",
+      "name": "Dantuluri Narayana Raju (D.N.R.) College (Autonomous)",
       "shortName": "Course Institute-1",
       "location": "WEST GODAVARI",
       "state": "Andhra Pradesh",
-      "address": "SECRETARY & CORRESPONDENT, DNR COLLEGE ASSOCIATION, BALUSUMUDI, BHIMAVARAM-534202, WEST GODAVARI DISTRICT, ANDHRA PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.dnrcollegepgcou.edu.in",
+      "address": "Balusumudi, Bhimavaram, West Godavari District, Andhra Pradesh - 534202",
+      "phone": "+91-8816-224119",
+      "website": "https://dnrcollege.org",
       "rating": 4.5,
       "reviews": 101,
-      "type": "Private",
+      "type": "Public/Government-Aided (Autonomous)",
       "about": "Welcome to D. N. R. COLLEGE, P.G. COURSES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 84,
       "facebook": "#",
@@ -155664,7 +155734,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=D.%20N.%20R.%20COLLEGE%2C%20P.G.%20COURSES%20WEST%20GODAVARI%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/dantuluri-narayana-raju-college-west-godavari-330127.webp",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/dantuluri-narayana-raju-college-west-godavari-330127.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -155673,12 +155743,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "Graduation + APICET",
           "type": "MANAGEMENT",
-          "intake": 120
+          "intake": 60
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "BCA/B.Sc + APICET",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -155694,9 +155776,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/dantuluri-narayana-raju-college-west-godavari-330127.webp",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=D.%20N.%20R.%20COLLEGE%2C%20P.G.%20COURSES%20WEST%20GODAVARI%20Andhra%20Pradesh"
+      "image": "/images/campuses/campus_architecture_10.jpg",
+      "ownership": "Government-Aided",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=D.%20N.%20R.%20COLLEGE%2C%20P.G.%20COURSES%20WEST%20GODAVARI%20Andhra%20Pradesh",
+      "city": "Bhimavaram",
+      "email": "principal@dnrcollege.org",
+      "verified": true
     },
     {
       "id": 2548,
@@ -155863,13 +155948,13 @@
     },
     {
       "id": 2551,
-      "name": "SRI VANI INSTITUTE OF MANAGEMENT AND SCIENCES",
+      "name": "Sri Vani Institute of Management and Sciences (SVIMS)",
       "shortName": "Course Institute-1",
       "location": "ANANTAPUR",
       "state": "Andhra Pradesh",
-      "address": "SRI VANI INSTITUTE OF MANAGEMENT AND SCIENCES, NH-7, KAKKALA PALLI CROSS, ANANTAPUR.",
-      "phone": "0123-456789",
-      "website": "https://svim.ac.in",
+      "address": "Kakkalapalli Cross, NH-44 (Rudrampeta Bypass), Anantapur, Andhra Pradesh - 515004",
+      "phone": "+91-8554-274619",
+      "website": "https://www.srivanimcamba.org",
       "rating": 4.5,
       "reviews": 384,
       "type": "Private",
@@ -155881,7 +155966,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRI%20VANI%20INSTITUTE%20OF%20MANAGEMENT%20AND%20SCIENCES%20ANANTAPUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://svim.ac.in/wp-content/uploads/2014/07/campus2.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://svim.ac.in/wp-content/uploads/2014/07/campus2.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -155890,20 +155975,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
-        },
-        {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
+          "type": "MANAGEMENT",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -155919,9 +156008,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://svim.ac.in/wp-content/uploads/2014/07/campus2.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20VANI%20INSTITUTE%20OF%20MANAGEMENT%20AND%20SCIENCES%20ANANTAPUR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20VANI%20INSTITUTE%20OF%20MANAGEMENT%20AND%20SCIENCES%20ANANTAPUR%20Andhra%20Pradesh",
+      "city": "Anantapur",
+      "email": "srivanimcamba@gmail.com",
+      "verified": true
     },
     {
       "id": 2552,

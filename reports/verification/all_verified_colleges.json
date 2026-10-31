@@ -2173,5 +2173,80 @@
         "website": "http://www.dbbips.org"
       }
     ]
+  },
+  {
+    "batch": 30,
+    "items": [
+      {
+        "id": 2466,
+        "name": "Krishna Chaitanya Institute of Management",
+        "type": "Private",
+        "location": "Prakasam District, Andhra Pradesh - 523316",
+        "website": "http://www.kits-anna.com"
+      },
+      {
+        "id": 2473,
+        "name": "G.B.R. Degree College (PG Courses)",
+        "type": "Private",
+        "location": "East Godavari District, Andhra Pradesh - 533342",
+        "website": "https://www.gbrcolleges.com"
+      },
+      {
+        "id": 2474,
+        "name": "Balaji Institute of IT and Management",
+        "type": "Private",
+        "location": "YSR Kadapa District, Andhra Pradesh - 516003",
+        "website": "https://www.bimkadapa.in"
+      },
+      {
+        "id": 2482,
+        "name": "Sri Datta Sai School of Business",
+        "type": "Private",
+        "location": "YSR Kadapa District, Andhra Pradesh - 516003",
+        "website": "http://www.sdsbschool.in"
+      },
+      {
+        "id": 2486,
+        "name": "Ch.S.D. St. Theresa's College for Women (Autonomous)",
+        "type": "Public/Government-Aided (Autonomous)",
+        "location": "Eluru District (formerly West Godavari), Andhra Pradesh - 534003",
+        "website": "https://stcelr.ac.in"
+      },
+      {
+        "id": 2488,
+        "name": "Sree Venkateswara College of Engineering (SVCN)",
+        "type": "Private",
+        "location": "SPSR Nellore District, Andhra Pradesh - 524316",
+        "website": "http://svcn.ac.in"
+      },
+      {
+        "id": 2514,
+        "name": "Wings Business School",
+        "type": "Private",
+        "location": "Tirupati, Andhra Pradesh - 517561",
+        "website": "http://www.wingsbschool.org"
+      },
+      {
+        "id": 2516,
+        "name": "Edge International B School",
+        "type": "Private",
+        "location": "Chittoor District, Andhra Pradesh - 517416",
+        "website": "http://www.edgebschool.in"
+      },
+      {
+        "id": 2547,
+        "name": "Dantuluri Narayana Raju (D.N.R.) College (Autonomous)",
+        "type": "Public/Government-Aided (Autonomous)",
+        "location": "West Godavari District, Andhra Pradesh - 534202",
+        "website": "https://dnrcollege.org"
+      },
+      {
+        "id": 2551,
+        "name": "Sri Vani Institute of Management and Sciences (SVIMS)",
+        "type": "Private",
+        "location": "Anantapur, Andhra Pradesh - 515004",
+        "website": "https://www.srivanimcamba.org"
+      }
+    ]
   }
 ]
