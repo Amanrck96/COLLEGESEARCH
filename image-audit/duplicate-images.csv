@@ -1,0 +1,6 @@
+sr_no,filename,dimensions,format,size,assigned_college,mapped_colleges_count,verdict,reason
+47,primus_bangalore.jpg,1400x700,JPEG,7.84 MB,Primus School of Management (Duplicate),76,DUPLICATE,Exact binary duplicate of koshys_bangalore.jpg (8.21 MB). Displays the Koshys campus rather than a distinct Primus building.
+49,rathinam_campus.jpg,1400x700,JPEG,7.84 MB,Rathinam College (Coimbatore Duplicate),358,DUPLICATE,Exact binary duplicate of koshys_bangalore.jpg (8.21 MB). Displays the Bangalore Koshys campus building instead of Rathinam Coimbatore.
+59,svims_wadala.jpeg,4608x3072,JPEG,3.84 MB,SVIMS Wadala (Unreferenced Copy),0,DUPLICATE,Exact binary duplicate of svims_wadala_mumbai.jpeg (4.02 MB). Zero colleges map to this redundant file.
+63,valia_andheri.jpeg,867x574,JPEG,81.4 KB,Valia College (Andheri Duplicate),208,DUPLICATE,Exact binary duplicate of bunts_sangha_mumbai.jpeg (83.3 KB). Displays the Bunts Sangha Kurla building instead of Valia Andheri.
+65,weschool_matunga.jpeg,1128x739,WEBP,113.3 KB,WeSchool Matunga (Duplicate Copy),2,DUPLICATE,Exact binary duplicate of weschool_matunga_mumbai.jpeg (115.9 KB). Redundant duplicate file.

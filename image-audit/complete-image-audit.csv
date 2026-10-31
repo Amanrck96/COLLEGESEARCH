@@ -1,0 +1,67 @@
+sr_no,filename,dimensions,format,size,assigned_college,mapped_colleges_count,verdict,reason
+1,alkesh_dinesh_mody_mumbai.jpg,922x605,WEBP,91.1 KB,Alkesh Dinesh Mody Institute (Mumbai),32,WARNING,"Authentic entrance gate of Alkesh Dinesh Mody Institute (Univ. of Mumbai Kalina campus), but the container format is WEBP disguised under a .jpg extension."
+2,atharva_complex_malad.jpg,1784x2560,JPEG,573.2 KB,Atharva Educational Complex (Malad Mumbai),226,PASS,"Authentic high-resolution modern glass facade of Atharva Educational Complex, Malad West."
+3,bangalore_university.jpg,1600x900,JPEG,166.0 KB,Bangalore University (Jnana Bharathi),357,PASS,Authentic Jnana Bharathi administrative block of Bangalore University.
+4,bharati_vidyapeeth_navimumbai.jpg,5184x3888,JPEG,424.2 KB,Bharati Vidyapeeth (Navi Mumbai / Belapur),70,PASS,"Authentic multi-story campus building of Bharati Vidyapeeth College of Engineering / Management Studies, CBD Belapur."
+5,bms_bangalore.jpg,1228x778,JPEG,256.7 KB,BMS College of Engineering (Bangalore),406,PASS,"Authentic iconic academic building and quadrangle of BMS College of Engineering, Bull Temple Road."
+6,bunts_sangha_mumbai.jpeg,867x574,JPEG,81.4 KB,Bunts Sangha Mumbai Institutions,236,WARNING,"Authentic Bunts Sangha Higher Education Complex building, but exact binary duplicate of valia_andheri.jpeg."
+7,campus_aligarh_muslim_university.jpg,1280x720,JPEG,204.6 KB,Aligarh Muslim University (AMU),1,PASS,Authentic historic Victoria Gate & Strachey Hall of Aligarh Muslim University; strictly restricted to AMU.
+8,campus_architecture_1.jpg,900x600,JPEG,113.0 KB,Neutral University Campus (Fallback Pool),114,PASS,"Clean, high-resolution modern collegiate building facade with zero conflicting institutional signage."
+9,campus_architecture_2.jpg,900x589,JPEG,139.2 KB,Neutral University Campus (Fallback Pool),87,PASS,Pristine red brick collegiate academic hall and green quadrangle with zero institution names or signage.
+10,campus_architecture_3.jpg,900x675,JPEG,127.8 KB,Neutral University Campus (Fallback Pool),104,PASS,Contemporary glass & stone university academic center with zero conflicting institution signage.
+11,campus_architecture_4.jpg,900x600,JPEG,106.0 KB,Neutral University Campus (Fallback Pool),94,PASS,Collegiate university library and pillars architecture with zero conflicting signage.
+12,campus_architecture_5.jpg,900x506,JPEG,83.6 KB,Neutral University Campus (Fallback Pool),103,PASS,Modern academic department school building with zero conflicting signage.
+13,campus_architecture_6.jpg,900x600,JPEG,130.8 KB,Neutral University Campus (Fallback Pool),95,PASS,University campus courtyard and student pathways with zero conflicting signage.
+14,campus_architecture_7.jpg,900x675,JPEG,140.1 KB,Neutral University Campus (Fallback Pool),91,PASS,High-tech architectural research facility and student square with zero signage.
+15,campus_architecture_8.jpg,900x1350,JPEG,126.8 KB,Neutral University Campus (Fallback Pool),88,PASS,Tree-lined university campus grounds and administrative building with zero signage.
+16,campus_architecture_9.jpg,900x600,JPEG,58.8 KB,Neutral University Campus (Fallback Pool),90,PASS,Sunny academic block and educational quadrangle with zero conflicting signage.
+17,campus_bits_pilani.jpg,1280x719,JPEG,232.3 KB,BITS Pilani (Birla Institute),4,PASS,Authentic iconic Clock Tower and New Academic Block of BITS Pilani; strictly restricted to BITS Pilani.
+18,campus_coep_pune.png,853x848,PNG,1.14 MB,COEP Technological University (Pune),239,PASS,Authentic Victorian-Gothic heritage main building of College of Engineering Pune (COEP).
+19,campus_cu_shah_mumbai.png,797x513,PNG,539.7 KB,CU Shah / SNDT Juhu Campus (Mumbai),190,PASS,Authentic academic building facade of CU Shah College of Pharmacy / SNDT Juhu.
+20,campus_iit_delhi.jpg,4032x2268,JPEG,2.76 MB,IIT Delhi (Hauz Khas),4,PASS,Authentic iconic Dogra Hall / Main Building front view of IIT Delhi; strictly restricted to IIT Delhi.
+21,campus_iit_patna.png,1036x727,PNG,970.1 KB,IIT Patna (Bihta Campus),1126,PASS,"Authentic modern permanent campus academic complex of IIT Patna, Bihta."
+22,campus_mgm_navi_mumbai.jpg,1600x896,JPEG,185.8 KB,MGM Educational Complex (Navi Mumbai),180,PASS,"Authentic campus building facade of MGM Educational Complex, Kamothe / Navi Mumbai."
+23,campus_nit_surathkal.jpg,780x438,JPEG,243.8 KB,NITK Surathkal,3,PASS,Authentic Main Administrative Building of National Institute of Technology Karnataka (Surathkal); strictly restricted.
+24,campus_osmania_university.jpg,1280x1239,JPEG,319.9 KB,Osmania University (Hyderabad),2,PASS,Authentic iconic Arts College heritage stone building of Osmania University; strictly restricted to Osmania.
+25,campus_st_xaviers_mumbai.jpg,1280x637,JPEG,451.6 KB,St. Xavier's College / Heritage Arch,86,WARNING,"High-resolution collegiate heritage gothic architecture, but visual origin matches Presidency tower style. Usable as heritage architecture."
+26,campus_trinity_pune.png,4314x1677,PNG,9.91 MB,Trinity Educational Complex (Pune),9,WARNING,"Authentic Trinity Pune campus building, but excessive file size of 10.38 MB impairs web performance; requires compression."
+27,campus_vnit_nagpur.jpeg,1366x768,JPEG,183.1 KB,VNIT Nagpur,247,PASS,"Authentic administrative building and grounds of Visvesvaraya National Institute of Technology, Nagpur."
+28,chetana_bandra.jpg,1600x1202,JPEG,296.9 KB,Chetana's Institute of Management (Bandra Mumbai),226,PASS,"Authentic multi-story campus building of Chetana's Institute of Management & Research, Bandra East."
+29,delhi_technological_university.jpg,1181x675,WEBP,69.6 KB,Delhi Technological University (DTU Delhi),6,WARNING,"Authentic DTU main building with prominent DTU signage; strictly restricted to DTU, but stored in WEBP format disguised with .jpg extension."
+30,gnims_matunga.png,622x390,PNG,44.2 KB,GNIMS Business School (Matunga Mumbai),205,PASS,"Authentic multi-story academic campus building of Guru Nanak Institute of Management Studies, Matunga."
+31,iiit_bangalore_campus.jpg,700x393,JPEG,90.0 KB,IIIT Bangalore (Electronic City),336,PASS,"Authentic modern glass and steel academic campus building of IIIT Bangalore, Electronic City."
+32,iiit_bangalore_campus2.jpg,275x205,JPEG,20.5 KB,IIIT Bangalore (Secondary View),4,WARNING,"Authentic IIIT Bangalore building view, but low resolution and small file size (20.9 KB); recommended to upgrade resolution."
+33,iim_bangalore.jpg,1500x1000,JPEG,890.4 KB,IIM Bangalore (Bannerghatta Road),228,PASS,Authentic iconic granite stone architecture and pergolas designed by B.V. Doshi for IIM Bangalore.
+34,iim_calcutta.jpg,1280x960,JPEG,169.4 KB,IIM Calcutta (Joka Campus),4,PASS,"Authentic campus auditorium building of Indian Institute of Management Calcutta, Joka; strictly restricted."
+35,iit_bombay_powai.jpg,4016x3012,JPEG,3.69 MB,IIT Bombay (Powai Mumbai),45,PASS,"Authentic iconic Main Building front view of IIT Bombay, Powai."
+36,kcmt_bareilly.png,1300x400,PNG,281.0 KB,KCMT Bareilly (Khandelwal College),4,PASS,"Authentic official campus building banner of Khandelwal College of Management Science and Technology, Bareilly."
+37,kes_shroff_kandivali.jpg,674x451,JPEG,50.3 KB,KES Shroff College (Kandivali Mumbai),52,PASS,"Authentic campus building facade of Kandivli Education Society BK Shroff College, Kandivali West."
+38,kohinoor_kurla.jpg,N/A,HTML (CORRUPTED),6.1 KB,Kohinoor Management School (Broken Ref),34,FAIL,Corrupted / invalid image: File is an HTML DDoS challenge page (6.2 KB) from a failed web download rather than an image.
+39,koshys_bangalore.jpg,1400x700,JPEG,7.84 MB,Koshys Group of Institutions (Bangalore),70,WARNING,"Authentic Koshys campus building, but excessive file size of 8.21 MB; exact binary duplicate of primus_bangalore.jpg and rathinam_campus.jpg."
+40,kv_imis_coimbatore.jpg,743x398,AVIF,78.5 KB,KV Institute of Management (Coimbatore),1,WARNING,"Authentic campus entrance showing ""KVIM BUSINESS SCHOOL"" sign, but format is AVIF disguised under a .jpg extension."
+41,maniben_mp_shah_matunga.jpg,1600x900,JPEG,208.7 KB,Smt. Maniben MP Shah College (Matunga Mumbai),201,PASS,"Authentic campus building facade of Smt. Maniben MP Shah Women's College, Matunga."
+42,matoshri_ushatai_jadhav.jpg,617x441,JPEG,62.1 KB,Matoshri Ushatai Jadhav Institute,5,PASS,Authentic educational building facade of Matoshri Ushatai Jadhav Institute.
+43,mpitm_kanina.jpg,1023x324,JPEG,307.4 KB,Maharana Pratap Institute of Tech & Mgmt,2,PASS,"Authentic campus building banner of Maharana Pratap Institute of Technology and Management, Dhanonda, Haryana."
+44,nagindas_khandwala_malad.jpg,1080x808,AVIF,147.7 KB,Nagindas Khandwala College (Malad Mumbai),2,WARNING,"Authentic multi-story campus building of Nagindas Khandwala College, Malad West, but format is AVIF disguised with a .jpg extension."
+45,pes_bangalore.jpg,860x430,JPEG,48.2 KB,PES University (Bangalore),452,PASS,"Authentic campus academic block of PES University, Ring Road Campus, Bangalore."
+46,pibm_pune.webp,5184x3108,WEBP,1.58 MB,PIBM Pune (Pirangut Campus),215,PASS,"Authentic hilltop campus building of Pune Institute of Business Management, Pirangut."
+47,primus_bangalore.jpg,1400x700,JPEG,7.84 MB,Primus School of Management (Duplicate),76,DUPLICATE,Exact binary duplicate of koshys_bangalore.jpg (8.21 MB). Displays the Koshys campus rather than a distinct Primus building.
+48,ramaiah_bangalore.jpg,1020x546,JPEG,94.0 KB,Ramaiah Institute of Technology (MSRIT),431,PASS,"Authentic campus building of Ramaiah Institute of Technology (MSRIT), MSR Nagar, Bangalore."
+49,rathinam_campus.jpg,1400x700,JPEG,7.84 MB,Rathinam College (Coimbatore Duplicate),358,DUPLICATE,Exact binary duplicate of koshys_bangalore.jpg (8.21 MB). Displays the Bangalore Koshys campus building instead of Rathinam Coimbatore.
+50,riim_pune.jpeg,1500x1000,JPEG,599.7 KB,RIIM Pune (Bavdhan Campus),226,PASS,"Authentic modern glass facade of Ramachandran International Institute of Management, Bavdhan, Pune."
+51,rvscet_coimbatore.webp,1920x1000,WEBP,218.1 KB,RVS College of Engineering & Technology (Sulur),2,PASS,"Authentic official academic block building of RVS College of Engineering and Technology, Sulur, Coimbatore."
+52,sailee_college_borivali.jpg,1200x900,JPEG,227.8 KB,Sailee Degree College (Borivali Mumbai),192,PASS,"Authentic campus building facade of Sailee Degree College of Science & Commerce, Borivali West."
+53,saraswati_kharghar.webp,899x600,WEBP,86.2 KB,Saraswati College of Engineering (Kharghar),244,PASS,"Authentic hilltop campus building of Saraswati College of Engineering, Kharghar, Navi Mumbai."
+54,sas_institute_boisar.png,758x426,PNG,370.5 KB,SAS Institute of Management (Boisar),7,PASS,"Authentic campus building of SAS Institute of Management Studies, Boisar."
+55,sheila_raheja_bandra.webp,1024x572,WEBP,98.4 KB,Sheila Raheja School of Business (Bandra),215,PASS,"Authentic modern multi-story campus building of Sheila Raheja School of Business Management, Bandra East."
+56,sir_jj_art_mumbai.jpg,4000x3000,JPEG,5.72 MB,Sir J.J. School of Art (Fort Mumbai),35,WARNING,"Authentic historic stone heritage building of Sir J.J. School of Art, Mumbai, but excessive file size of 6.00 MB impairs performance."
+57,spdt_tibrewala_andheri.jpg,2475x623,JPEG,821.2 KB,SPDT College (Andheri Mumbai),2,PASS,"Authentic campus building of Seth P.D. Hinduja Sindhi / SPDT College, Andheri East."
+58,srinivasan_perambalur.jpg,1440x450,JPEG,645.1 KB,Srinivasan College of Arts & Science (SCAS),331,PASS,"Authentic high-resolution Academic Block building (1440x450, 660 KB) of Srinivasan College / Dhanalakshmi Srinivasan, Perambalur."
+59,svims_wadala.jpeg,4608x3072,JPEG,3.84 MB,SVIMS Wadala (Unreferenced Copy),0,DUPLICATE,Exact binary duplicate of svims_wadala_mumbai.jpeg (4.02 MB). Zero colleges map to this redundant file.
+60,svims_wadala_mumbai.jpeg,4608x3072,JPEG,3.84 MB,SVIMS Business School (Wadala Mumbai),39,WARNING,"Authentic multi-story campus building of Sir M Visvesvaraya Institute of Management Studies, Wadala, but large file size (4.02 MB)."
+61,svkm_upg_vileparle.jpg,980x280,JPEG,110.2 KB,SVKM Usha Pravin Gandhi College (Vile Parle),208,PASS,"Authentic building facade of SVKM's Usha Pravin Gandhi College of Management, Vile Parle West, Mumbai."
+62,thakur_complex_kandivali.webp,1620x1080,WEBP,89.0 KB,Thakur Educational Complex (Kandivali),73,PASS,"Authentic campus building view of Thakur Educational Campus / Thakur Global Business School, Kandivali East."
+63,valia_andheri.jpeg,867x574,JPEG,81.4 KB,Valia College (Andheri Duplicate),208,DUPLICATE,Exact binary duplicate of bunts_sangha_mumbai.jpeg (83.3 KB). Displays the Bunts Sangha Kurla building instead of Valia Andheri.
+64,vjti_mumbai.jpg,960x720,JPEG,140.4 KB,VJTI Mumbai (Matunga),220,PASS,"Authentic historic stone quadrangle building of Veermata Jijabai Technological Institute (VJTI), Matunga."
+65,weschool_matunga.jpeg,1128x739,WEBP,113.3 KB,WeSchool Matunga (Duplicate Copy),2,DUPLICATE,Exact binary duplicate of weschool_matunga_mumbai.jpeg (115.9 KB). Redundant duplicate file.
+66,weschool_matunga_mumbai.jpeg,1128x739,WEBP,113.3 KB,Welingkar Institute of Management (WeSchool),55,WARNING,"Authentic campus facade of Prin. L.N. Welingkar Institute of Management (WeSchool), Matunga, but format is WEBP disguised with .jpeg extension."

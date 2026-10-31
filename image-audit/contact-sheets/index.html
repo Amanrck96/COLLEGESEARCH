@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>College Compass — Complete Visual Image Audit Gallery</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  body { background: #f0f2f5; color: #1c1e21; padding: 24px; }
+  .header { background: #0f2240; color: white; padding: 28px; border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+  .header h1 { font-size: 26px; margin-bottom: 8px; }
+  .header p { color: #b0c4de; font-size: 15px; }
+  .stats-strip { display: flex; gap: 16px; margin-top: 20px; flex-wrap: wrap; }
+  .stat-card { background: rgba(255,255,255,0.12); padding: 12px 20px; border-radius: 8px; min-width: 140px; }
+  .stat-val { font-size: 24px; font-weight: bold; color: #fff; }
+  .stat-lbl { font-size: 12px; color: #d0dff0; text-transform: uppercase; letter-spacing: 0.5px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 20px; }
+  .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.06); display: flex; flex-direction: column; border: 1px solid #e1e4e8; }
+  .img-box { height: 220px; background: #e9ecef; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+  .img-box img { width: 100%; height: 100%; object-fit: cover; }
+  .pill { position: absolute; top: 12px; right: 12px; padding: 4px 10px; border-radius: 20px; font-size: 11px; font-weight: bold; text-transform: uppercase; color: white; }
+  .pill.PASS { background: #28a745; }
+  .pill.WARNING { background: #fd7e14; }
+  .pill.FAIL { background: #dc3545; }
+  .pill.DUPLICATE { background: #6f42c1; }
+  .pill.UNVERIFIED { background: #6c757d; }
+  .num-pill { position: absolute; top: 12px; left: 12px; background: rgba(0,0,0,0.65); color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; }
+  .card-body { padding: 16px; display: flex; flex-direction: column; flex-grow: 1; }
+  .fname { font-size: 14px; font-weight: bold; color: #0f2240; word-break: break-all; margin-bottom: 6px; }
+  .meta { font-size: 12px; color: #6c757d; margin-bottom: 10px; line-height: 1.5; }
+  .assigned { font-size: 13px; font-weight: 600; color: #212529; margin-bottom: 8px; }
+  .reason { font-size: 12px; color: #495057; background: #f8f9fa; padding: 10px; border-radius: 6px; border-left: 3px solid #ced4da; margin-top: auto; line-height: 1.4; }
+  .reason.PASS { border-left-color: #28a745; }
+  .reason.WARNING { border-left-color: #fd7e14; }
+  .reason.FAIL { border-left-color: #dc3545; }
+  .reason.DUPLICATE { border-left-color: #6f42c1; }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>College Compass — Master Visual Image Audit</h1>
+  <p>Comprehensive computer vision, metadata, hash verification and college-to-image mapping audit of all 66 campus images.</p>
+  <div class="stats-strip">
+    <div class="stat-card"><div class="stat-val">66</div><div class="stat-lbl">Total Unique Images</div></div>
+    <div class="stat-card"><div class="stat-val" style="color:#28a745;">48</div><div class="stat-lbl">PASS</div></div>
+    <div class="stat-card"><div class="stat-val" style="color:#fd7e14;">12</div><div class="stat-lbl">WARNING</div></div>
+    <div class="stat-card"><div class="stat-val" style="color:#dc3545;">1</div><div class="stat-lbl">FAIL</div></div>
+    <div class="stat-card"><div class="stat-val" style="color:#6f42c1;">5</div><div class="stat-lbl">DUPLICATE</div></div>
+    <div class="stat-card"><div class="stat-val" style="color:#17a2b8;">676</div><div class="stat-lbl">Mapping Errors</div></div>
+  </div>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#01</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/alkesh_dinesh_mody_mumbai.jpg" alt="alkesh_dinesh_mody_mumbai.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">alkesh_dinesh_mody_mumbai.jpg</div>
+      <div class="meta">Dim: 922x605 | Size: 91.1 KB | Format: WEBP | Colleges: 32</div>
+      <div class="assigned">Assigned: Alkesh Dinesh Mody Institute (Mumbai)</div>
+      <div class="reason WARNING">Authentic entrance gate of Alkesh Dinesh Mody Institute (Univ. of Mumbai Kalina campus), but the container format is WEBP disguised under a .jpg extension.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#02</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/atharva_complex_malad.jpg" alt="atharva_complex_malad.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">atharva_complex_malad.jpg</div>
+      <div class="meta">Dim: 1784x2560 | Size: 573.2 KB | Format: JPEG | Colleges: 226</div>
+      <div class="assigned">Assigned: Atharva Educational Complex (Malad Mumbai)</div>
+      <div class="reason PASS">Authentic high-resolution modern glass facade of Atharva Educational Complex, Malad West.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#03</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/bangalore_university.jpg" alt="bangalore_university.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">bangalore_university.jpg</div>
+      <div class="meta">Dim: 1600x900 | Size: 166.0 KB | Format: JPEG | Colleges: 357</div>
+      <div class="assigned">Assigned: Bangalore University (Jnana Bharathi)</div>
+      <div class="reason PASS">Authentic Jnana Bharathi administrative block of Bangalore University.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#04</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/bharati_vidyapeeth_navimumbai.jpg" alt="bharati_vidyapeeth_navimumbai.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">bharati_vidyapeeth_navimumbai.jpg</div>
+      <div class="meta">Dim: 5184x3888 | Size: 424.2 KB | Format: JPEG | Colleges: 70</div>
+      <div class="assigned">Assigned: Bharati Vidyapeeth (Navi Mumbai / Belapur)</div>
+      <div class="reason PASS">Authentic multi-story campus building of Bharati Vidyapeeth College of Engineering / Management Studies, CBD Belapur.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#05</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/bms_bangalore.jpg" alt="bms_bangalore.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">bms_bangalore.jpg</div>
+      <div class="meta">Dim: 1228x778 | Size: 256.7 KB | Format: JPEG | Colleges: 406</div>
+      <div class="assigned">Assigned: BMS College of Engineering (Bangalore)</div>
+      <div class="reason PASS">Authentic iconic academic building and quadrangle of BMS College of Engineering, Bull Temple Road.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#06</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/bunts_sangha_mumbai.jpeg" alt="bunts_sangha_mumbai.jpeg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">bunts_sangha_mumbai.jpeg</div>
+      <div class="meta">Dim: 867x574 | Size: 81.4 KB | Format: JPEG | Colleges: 236</div>
+      <div class="assigned">Assigned: Bunts Sangha Mumbai Institutions</div>
+      <div class="reason WARNING">Authentic Bunts Sangha Higher Education Complex building, but exact binary duplicate of valia_andheri.jpeg.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#07</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_aligarh_muslim_university.jpg" alt="campus_aligarh_muslim_university.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_aligarh_muslim_university.jpg</div>
+      <div class="meta">Dim: 1280x720 | Size: 204.6 KB | Format: JPEG | Colleges: 1</div>
+      <div class="assigned">Assigned: Aligarh Muslim University (AMU)</div>
+      <div class="reason PASS">Authentic historic Victoria Gate & Strachey Hall of Aligarh Muslim University; strictly restricted to AMU.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#08</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_architecture_1.jpg" alt="campus_architecture_1.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_architecture_1.jpg</div>
+      <div class="meta">Dim: 900x600 | Size: 113.0 KB | Format: JPEG | Colleges: 114</div>
+      <div class="assigned">Assigned: Neutral University Campus (Fallback Pool)</div>
+      <div class="reason PASS">Clean, high-resolution modern collegiate building facade with zero conflicting institutional signage.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#09</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_architecture_2.jpg" alt="campus_architecture_2.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_architecture_2.jpg</div>
+      <div class="meta">Dim: 900x589 | Size: 139.2 KB | Format: JPEG | Colleges: 87</div>
+      <div class="assigned">Assigned: Neutral University Campus (Fallback Pool)</div>
+      <div class="reason PASS">Pristine red brick collegiate academic hall and green quadrangle with zero institution names or signage.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#10</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_architecture_3.jpg" alt="campus_architecture_3.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_architecture_3.jpg</div>
+      <div class="meta">Dim: 900x675 | Size: 127.8 KB | Format: JPEG | Colleges: 104</div>
+      <div class="assigned">Assigned: Neutral University Campus (Fallback Pool)</div>
+      <div class="reason PASS">Contemporary glass & stone university academic center with zero conflicting institution signage.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#11</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_architecture_4.jpg" alt="campus_architecture_4.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_architecture_4.jpg</div>
+      <div class="meta">Dim: 900x600 | Size: 106.0 KB | Format: JPEG | Colleges: 94</div>
+      <div class="assigned">Assigned: Neutral University Campus (Fallback Pool)</div>
+      <div class="reason PASS">Collegiate university library and pillars architecture with zero conflicting signage.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#12</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_architecture_5.jpg" alt="campus_architecture_5.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_architecture_5.jpg</div>
+      <div class="meta">Dim: 900x506 | Size: 83.6 KB | Format: JPEG | Colleges: 103</div>
+      <div class="assigned">Assigned: Neutral University Campus (Fallback Pool)</div>
+      <div class="reason PASS">Modern academic department school building with zero conflicting signage.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#13</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_architecture_6.jpg" alt="campus_architecture_6.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_architecture_6.jpg</div>
+      <div class="meta">Dim: 900x600 | Size: 130.8 KB | Format: JPEG | Colleges: 95</div>
+      <div class="assigned">Assigned: Neutral University Campus (Fallback Pool)</div>
+      <div class="reason PASS">University campus courtyard and student pathways with zero conflicting signage.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#14</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_architecture_7.jpg" alt="campus_architecture_7.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_architecture_7.jpg</div>
+      <div class="meta">Dim: 900x675 | Size: 140.1 KB | Format: JPEG | Colleges: 91</div>
+      <div class="assigned">Assigned: Neutral University Campus (Fallback Pool)</div>
+      <div class="reason PASS">High-tech architectural research facility and student square with zero signage.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#15</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_architecture_8.jpg" alt="campus_architecture_8.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_architecture_8.jpg</div>
+      <div class="meta">Dim: 900x1350 | Size: 126.8 KB | Format: JPEG | Colleges: 88</div>
+      <div class="assigned">Assigned: Neutral University Campus (Fallback Pool)</div>
+      <div class="reason PASS">Tree-lined university campus grounds and administrative building with zero signage.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#16</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_architecture_9.jpg" alt="campus_architecture_9.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_architecture_9.jpg</div>
+      <div class="meta">Dim: 900x600 | Size: 58.8 KB | Format: JPEG | Colleges: 90</div>
+      <div class="assigned">Assigned: Neutral University Campus (Fallback Pool)</div>
+      <div class="reason PASS">Sunny academic block and educational quadrangle with zero conflicting signage.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#17</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_bits_pilani.jpg" alt="campus_bits_pilani.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_bits_pilani.jpg</div>
+      <div class="meta">Dim: 1280x719 | Size: 232.3 KB | Format: JPEG | Colleges: 4</div>
+      <div class="assigned">Assigned: BITS Pilani (Birla Institute)</div>
+      <div class="reason PASS">Authentic iconic Clock Tower and New Academic Block of BITS Pilani; strictly restricted to BITS Pilani.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#18</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_coep_pune.png" alt="campus_coep_pune.png" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_coep_pune.png</div>
+      <div class="meta">Dim: 853x848 | Size: 1.14 MB | Format: PNG | Colleges: 239</div>
+      <div class="assigned">Assigned: COEP Technological University (Pune)</div>
+      <div class="reason PASS">Authentic Victorian-Gothic heritage main building of College of Engineering Pune (COEP).</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#19</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_cu_shah_mumbai.png" alt="campus_cu_shah_mumbai.png" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_cu_shah_mumbai.png</div>
+      <div class="meta">Dim: 797x513 | Size: 539.7 KB | Format: PNG | Colleges: 190</div>
+      <div class="assigned">Assigned: CU Shah / SNDT Juhu Campus (Mumbai)</div>
+      <div class="reason PASS">Authentic academic building facade of CU Shah College of Pharmacy / SNDT Juhu.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#20</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_iit_delhi.jpg" alt="campus_iit_delhi.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_iit_delhi.jpg</div>
+      <div class="meta">Dim: 4032x2268 | Size: 2.76 MB | Format: JPEG | Colleges: 4</div>
+      <div class="assigned">Assigned: IIT Delhi (Hauz Khas)</div>
+      <div class="reason PASS">Authentic iconic Dogra Hall / Main Building front view of IIT Delhi; strictly restricted to IIT Delhi.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#21</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_iit_patna.png" alt="campus_iit_patna.png" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_iit_patna.png</div>
+      <div class="meta">Dim: 1036x727 | Size: 970.1 KB | Format: PNG | Colleges: 1126</div>
+      <div class="assigned">Assigned: IIT Patna (Bihta Campus)</div>
+      <div class="reason PASS">Authentic modern permanent campus academic complex of IIT Patna, Bihta.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#22</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_mgm_navi_mumbai.jpg" alt="campus_mgm_navi_mumbai.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_mgm_navi_mumbai.jpg</div>
+      <div class="meta">Dim: 1600x896 | Size: 185.8 KB | Format: JPEG | Colleges: 180</div>
+      <div class="assigned">Assigned: MGM Educational Complex (Navi Mumbai)</div>
+      <div class="reason PASS">Authentic campus building facade of MGM Educational Complex, Kamothe / Navi Mumbai.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#23</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_nit_surathkal.jpg" alt="campus_nit_surathkal.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_nit_surathkal.jpg</div>
+      <div class="meta">Dim: 780x438 | Size: 243.8 KB | Format: JPEG | Colleges: 3</div>
+      <div class="assigned">Assigned: NITK Surathkal</div>
+      <div class="reason PASS">Authentic Main Administrative Building of National Institute of Technology Karnataka (Surathkal); strictly restricted.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#24</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_osmania_university.jpg" alt="campus_osmania_university.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_osmania_university.jpg</div>
+      <div class="meta">Dim: 1280x1239 | Size: 319.9 KB | Format: JPEG | Colleges: 2</div>
+      <div class="assigned">Assigned: Osmania University (Hyderabad)</div>
+      <div class="reason PASS">Authentic iconic Arts College heritage stone building of Osmania University; strictly restricted to Osmania.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#25</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/campus_st_xaviers_mumbai.jpg" alt="campus_st_xaviers_mumbai.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_st_xaviers_mumbai.jpg</div>
+      <div class="meta">Dim: 1280x637 | Size: 451.6 KB | Format: JPEG | Colleges: 86</div>
+      <div class="assigned">Assigned: St. Xavier's College / Heritage Arch</div>
+      <div class="reason WARNING">High-resolution collegiate heritage gothic architecture, but visual origin matches Presidency tower style. Usable as heritage architecture.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#26</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/campus_trinity_pune.png" alt="campus_trinity_pune.png" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_trinity_pune.png</div>
+      <div class="meta">Dim: 4314x1677 | Size: 9.91 MB | Format: PNG | Colleges: 9</div>
+      <div class="assigned">Assigned: Trinity Educational Complex (Pune)</div>
+      <div class="reason WARNING">Authentic Trinity Pune campus building, but excessive file size of 10.38 MB impairs web performance; requires compression.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#27</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/campus_vnit_nagpur.jpeg" alt="campus_vnit_nagpur.jpeg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">campus_vnit_nagpur.jpeg</div>
+      <div class="meta">Dim: 1366x768 | Size: 183.1 KB | Format: JPEG | Colleges: 247</div>
+      <div class="assigned">Assigned: VNIT Nagpur</div>
+      <div class="reason PASS">Authentic administrative building and grounds of Visvesvaraya National Institute of Technology, Nagpur.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#28</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/chetana_bandra.jpg" alt="chetana_bandra.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">chetana_bandra.jpg</div>
+      <div class="meta">Dim: 1600x1202 | Size: 296.9 KB | Format: JPEG | Colleges: 226</div>
+      <div class="assigned">Assigned: Chetana's Institute of Management (Bandra Mumbai)</div>
+      <div class="reason PASS">Authentic multi-story campus building of Chetana's Institute of Management & Research, Bandra East.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#29</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/delhi_technological_university.jpg" alt="delhi_technological_university.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">delhi_technological_university.jpg</div>
+      <div class="meta">Dim: 1181x675 | Size: 69.6 KB | Format: WEBP | Colleges: 6</div>
+      <div class="assigned">Assigned: Delhi Technological University (DTU Delhi)</div>
+      <div class="reason WARNING">Authentic DTU main building with prominent DTU signage; strictly restricted to DTU, but stored in WEBP format disguised with .jpg extension.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#30</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/gnims_matunga.png" alt="gnims_matunga.png" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">gnims_matunga.png</div>
+      <div class="meta">Dim: 622x390 | Size: 44.2 KB | Format: PNG | Colleges: 205</div>
+      <div class="assigned">Assigned: GNIMS Business School (Matunga Mumbai)</div>
+      <div class="reason PASS">Authentic multi-story academic campus building of Guru Nanak Institute of Management Studies, Matunga.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#31</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/iiit_bangalore_campus.jpg" alt="iiit_bangalore_campus.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">iiit_bangalore_campus.jpg</div>
+      <div class="meta">Dim: 700x393 | Size: 90.0 KB | Format: JPEG | Colleges: 336</div>
+      <div class="assigned">Assigned: IIIT Bangalore (Electronic City)</div>
+      <div class="reason PASS">Authentic modern glass and steel academic campus building of IIIT Bangalore, Electronic City.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#32</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/iiit_bangalore_campus2.jpg" alt="iiit_bangalore_campus2.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">iiit_bangalore_campus2.jpg</div>
+      <div class="meta">Dim: 275x205 | Size: 20.5 KB | Format: JPEG | Colleges: 4</div>
+      <div class="assigned">Assigned: IIIT Bangalore (Secondary View)</div>
+      <div class="reason WARNING">Authentic IIIT Bangalore building view, but low resolution and small file size (20.9 KB); recommended to upgrade resolution.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#33</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/iim_bangalore.jpg" alt="iim_bangalore.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">iim_bangalore.jpg</div>
+      <div class="meta">Dim: 1500x1000 | Size: 890.4 KB | Format: JPEG | Colleges: 228</div>
+      <div class="assigned">Assigned: IIM Bangalore (Bannerghatta Road)</div>
+      <div class="reason PASS">Authentic iconic granite stone architecture and pergolas designed by B.V. Doshi for IIM Bangalore.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#34</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/iim_calcutta.jpg" alt="iim_calcutta.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">iim_calcutta.jpg</div>
+      <div class="meta">Dim: 1280x960 | Size: 169.4 KB | Format: JPEG | Colleges: 4</div>
+      <div class="assigned">Assigned: IIM Calcutta (Joka Campus)</div>
+      <div class="reason PASS">Authentic campus auditorium building of Indian Institute of Management Calcutta, Joka; strictly restricted.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#35</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/iit_bombay_powai.jpg" alt="iit_bombay_powai.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">iit_bombay_powai.jpg</div>
+      <div class="meta">Dim: 4016x3012 | Size: 3.69 MB | Format: JPEG | Colleges: 45</div>
+      <div class="assigned">Assigned: IIT Bombay (Powai Mumbai)</div>
+      <div class="reason PASS">Authentic iconic Main Building front view of IIT Bombay, Powai.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#36</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/kcmt_bareilly.png" alt="kcmt_bareilly.png" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">kcmt_bareilly.png</div>
+      <div class="meta">Dim: 1300x400 | Size: 281.0 KB | Format: PNG | Colleges: 4</div>
+      <div class="assigned">Assigned: KCMT Bareilly (Khandelwal College)</div>
+      <div class="reason PASS">Authentic official campus building banner of Khandelwal College of Management Science and Technology, Bareilly.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#37</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/kes_shroff_kandivali.jpg" alt="kes_shroff_kandivali.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">kes_shroff_kandivali.jpg</div>
+      <div class="meta">Dim: 674x451 | Size: 50.3 KB | Format: JPEG | Colleges: 52</div>
+      <div class="assigned">Assigned: KES Shroff College (Kandivali Mumbai)</div>
+      <div class="reason PASS">Authentic campus building facade of Kandivli Education Society BK Shroff College, Kandivali West.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#38</span>
+      <span class="pill FAIL">FAIL</span>
+      <img src="../../public/images/campuses/kohinoor_kurla.jpg" alt="kohinoor_kurla.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">kohinoor_kurla.jpg</div>
+      <div class="meta">Dim: N/A | Size: 6.1 KB | Format: HTML (CORRUPTED) | Colleges: 34</div>
+      <div class="assigned">Assigned: Kohinoor Management School (Broken Ref)</div>
+      <div class="reason FAIL">Corrupted / invalid image: File is an HTML DDoS challenge page (6.2 KB) from a failed web download rather than an image.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#39</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/koshys_bangalore.jpg" alt="koshys_bangalore.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">koshys_bangalore.jpg</div>
+      <div class="meta">Dim: 1400x700 | Size: 7.84 MB | Format: JPEG | Colleges: 70</div>
+      <div class="assigned">Assigned: Koshys Group of Institutions (Bangalore)</div>
+      <div class="reason WARNING">Authentic Koshys campus building, but excessive file size of 8.21 MB; exact binary duplicate of primus_bangalore.jpg and rathinam_campus.jpg.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#40</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/kv_imis_coimbatore.jpg" alt="kv_imis_coimbatore.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">kv_imis_coimbatore.jpg</div>
+      <div class="meta">Dim: 743x398 | Size: 78.5 KB | Format: AVIF | Colleges: 1</div>
+      <div class="assigned">Assigned: KV Institute of Management (Coimbatore)</div>
+      <div class="reason WARNING">Authentic campus entrance showing "KVIM BUSINESS SCHOOL" sign, but format is AVIF disguised under a .jpg extension.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#41</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/maniben_mp_shah_matunga.jpg" alt="maniben_mp_shah_matunga.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">maniben_mp_shah_matunga.jpg</div>
+      <div class="meta">Dim: 1600x900 | Size: 208.7 KB | Format: JPEG | Colleges: 201</div>
+      <div class="assigned">Assigned: Smt. Maniben MP Shah College (Matunga Mumbai)</div>
+      <div class="reason PASS">Authentic campus building facade of Smt. Maniben MP Shah Women's College, Matunga.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#42</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/matoshri_ushatai_jadhav.jpg" alt="matoshri_ushatai_jadhav.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">matoshri_ushatai_jadhav.jpg</div>
+      <div class="meta">Dim: 617x441 | Size: 62.1 KB | Format: JPEG | Colleges: 5</div>
+      <div class="assigned">Assigned: Matoshri Ushatai Jadhav Institute</div>
+      <div class="reason PASS">Authentic educational building facade of Matoshri Ushatai Jadhav Institute.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#43</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/mpitm_kanina.jpg" alt="mpitm_kanina.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">mpitm_kanina.jpg</div>
+      <div class="meta">Dim: 1023x324 | Size: 307.4 KB | Format: JPEG | Colleges: 2</div>
+      <div class="assigned">Assigned: Maharana Pratap Institute of Tech & Mgmt</div>
+      <div class="reason PASS">Authentic campus building banner of Maharana Pratap Institute of Technology and Management, Dhanonda, Haryana.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#44</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/nagindas_khandwala_malad.jpg" alt="nagindas_khandwala_malad.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">nagindas_khandwala_malad.jpg</div>
+      <div class="meta">Dim: 1080x808 | Size: 147.7 KB | Format: AVIF | Colleges: 2</div>
+      <div class="assigned">Assigned: Nagindas Khandwala College (Malad Mumbai)</div>
+      <div class="reason WARNING">Authentic multi-story campus building of Nagindas Khandwala College, Malad West, but format is AVIF disguised with a .jpg extension.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#45</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/pes_bangalore.jpg" alt="pes_bangalore.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">pes_bangalore.jpg</div>
+      <div class="meta">Dim: 860x430 | Size: 48.2 KB | Format: JPEG | Colleges: 452</div>
+      <div class="assigned">Assigned: PES University (Bangalore)</div>
+      <div class="reason PASS">Authentic campus academic block of PES University, Ring Road Campus, Bangalore.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#46</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/pibm_pune.webp" alt="pibm_pune.webp" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">pibm_pune.webp</div>
+      <div class="meta">Dim: 5184x3108 | Size: 1.58 MB | Format: WEBP | Colleges: 215</div>
+      <div class="assigned">Assigned: PIBM Pune (Pirangut Campus)</div>
+      <div class="reason PASS">Authentic hilltop campus building of Pune Institute of Business Management, Pirangut.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#47</span>
+      <span class="pill DUPLICATE">DUPLICATE</span>
+      <img src="../../public/images/campuses/primus_bangalore.jpg" alt="primus_bangalore.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">primus_bangalore.jpg</div>
+      <div class="meta">Dim: 1400x700 | Size: 7.84 MB | Format: JPEG | Colleges: 76</div>
+      <div class="assigned">Assigned: Primus School of Management (Duplicate)</div>
+      <div class="reason DUPLICATE">Exact binary duplicate of koshys_bangalore.jpg (8.21 MB). Displays the Koshys campus rather than a distinct Primus building.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#48</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/ramaiah_bangalore.jpg" alt="ramaiah_bangalore.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">ramaiah_bangalore.jpg</div>
+      <div class="meta">Dim: 1020x546 | Size: 94.0 KB | Format: JPEG | Colleges: 431</div>
+      <div class="assigned">Assigned: Ramaiah Institute of Technology (MSRIT)</div>
+      <div class="reason PASS">Authentic campus building of Ramaiah Institute of Technology (MSRIT), MSR Nagar, Bangalore.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#49</span>
+      <span class="pill DUPLICATE">DUPLICATE</span>
+      <img src="../../public/images/campuses/rathinam_campus.jpg" alt="rathinam_campus.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">rathinam_campus.jpg</div>
+      <div class="meta">Dim: 1400x700 | Size: 7.84 MB | Format: JPEG | Colleges: 358</div>
+      <div class="assigned">Assigned: Rathinam College (Coimbatore Duplicate)</div>
+      <div class="reason DUPLICATE">Exact binary duplicate of koshys_bangalore.jpg (8.21 MB). Displays the Bangalore Koshys campus building instead of Rathinam Coimbatore.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#50</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/riim_pune.jpeg" alt="riim_pune.jpeg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">riim_pune.jpeg</div>
+      <div class="meta">Dim: 1500x1000 | Size: 599.7 KB | Format: JPEG | Colleges: 226</div>
+      <div class="assigned">Assigned: RIIM Pune (Bavdhan Campus)</div>
+      <div class="reason PASS">Authentic modern glass facade of Ramachandran International Institute of Management, Bavdhan, Pune.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#51</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/rvscet_coimbatore.webp" alt="rvscet_coimbatore.webp" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">rvscet_coimbatore.webp</div>
+      <div class="meta">Dim: 1920x1000 | Size: 218.1 KB | Format: WEBP | Colleges: 2</div>
+      <div class="assigned">Assigned: RVS College of Engineering & Technology (Sulur)</div>
+      <div class="reason PASS">Authentic official academic block building of RVS College of Engineering and Technology, Sulur, Coimbatore.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#52</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/sailee_college_borivali.jpg" alt="sailee_college_borivali.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">sailee_college_borivali.jpg</div>
+      <div class="meta">Dim: 1200x900 | Size: 227.8 KB | Format: JPEG | Colleges: 192</div>
+      <div class="assigned">Assigned: Sailee Degree College (Borivali Mumbai)</div>
+      <div class="reason PASS">Authentic campus building facade of Sailee Degree College of Science & Commerce, Borivali West.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#53</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/saraswati_kharghar.webp" alt="saraswati_kharghar.webp" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">saraswati_kharghar.webp</div>
+      <div class="meta">Dim: 899x600 | Size: 86.2 KB | Format: WEBP | Colleges: 244</div>
+      <div class="assigned">Assigned: Saraswati College of Engineering (Kharghar)</div>
+      <div class="reason PASS">Authentic hilltop campus building of Saraswati College of Engineering, Kharghar, Navi Mumbai.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#54</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/sas_institute_boisar.png" alt="sas_institute_boisar.png" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">sas_institute_boisar.png</div>
+      <div class="meta">Dim: 758x426 | Size: 370.5 KB | Format: PNG | Colleges: 7</div>
+      <div class="assigned">Assigned: SAS Institute of Management (Boisar)</div>
+      <div class="reason PASS">Authentic campus building of SAS Institute of Management Studies, Boisar.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#55</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/sheila_raheja_bandra.webp" alt="sheila_raheja_bandra.webp" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">sheila_raheja_bandra.webp</div>
+      <div class="meta">Dim: 1024x572 | Size: 98.4 KB | Format: WEBP | Colleges: 215</div>
+      <div class="assigned">Assigned: Sheila Raheja School of Business (Bandra)</div>
+      <div class="reason PASS">Authentic modern multi-story campus building of Sheila Raheja School of Business Management, Bandra East.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#56</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/sir_jj_art_mumbai.jpg" alt="sir_jj_art_mumbai.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">sir_jj_art_mumbai.jpg</div>
+      <div class="meta">Dim: 4000x3000 | Size: 5.72 MB | Format: JPEG | Colleges: 35</div>
+      <div class="assigned">Assigned: Sir J.J. School of Art (Fort Mumbai)</div>
+      <div class="reason WARNING">Authentic historic stone heritage building of Sir J.J. School of Art, Mumbai, but excessive file size of 6.00 MB impairs performance.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#57</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/spdt_tibrewala_andheri.jpg" alt="spdt_tibrewala_andheri.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">spdt_tibrewala_andheri.jpg</div>
+      <div class="meta">Dim: 2475x623 | Size: 821.2 KB | Format: JPEG | Colleges: 2</div>
+      <div class="assigned">Assigned: SPDT College (Andheri Mumbai)</div>
+      <div class="reason PASS">Authentic campus building of Seth P.D. Hinduja Sindhi / SPDT College, Andheri East.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#58</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/srinivasan_perambalur.jpg" alt="srinivasan_perambalur.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">srinivasan_perambalur.jpg</div>
+      <div class="meta">Dim: 1440x450 | Size: 645.1 KB | Format: JPEG | Colleges: 331</div>
+      <div class="assigned">Assigned: Srinivasan College of Arts & Science (SCAS)</div>
+      <div class="reason PASS">Authentic high-resolution Academic Block building (1440x450, 660 KB) of Srinivasan College / Dhanalakshmi Srinivasan, Perambalur.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#59</span>
+      <span class="pill DUPLICATE">DUPLICATE</span>
+      <img src="../../public/images/campuses/svims_wadala.jpeg" alt="svims_wadala.jpeg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">svims_wadala.jpeg</div>
+      <div class="meta">Dim: 4608x3072 | Size: 3.84 MB | Format: JPEG | Colleges: 0</div>
+      <div class="assigned">Assigned: SVIMS Wadala (Unreferenced Copy)</div>
+      <div class="reason DUPLICATE">Exact binary duplicate of svims_wadala_mumbai.jpeg (4.02 MB). Zero colleges map to this redundant file.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#60</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/svims_wadala_mumbai.jpeg" alt="svims_wadala_mumbai.jpeg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">svims_wadala_mumbai.jpeg</div>
+      <div class="meta">Dim: 4608x3072 | Size: 3.84 MB | Format: JPEG | Colleges: 39</div>
+      <div class="assigned">Assigned: SVIMS Business School (Wadala Mumbai)</div>
+      <div class="reason WARNING">Authentic multi-story campus building of Sir M Visvesvaraya Institute of Management Studies, Wadala, but large file size (4.02 MB).</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#61</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/svkm_upg_vileparle.jpg" alt="svkm_upg_vileparle.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">svkm_upg_vileparle.jpg</div>
+      <div class="meta">Dim: 980x280 | Size: 110.2 KB | Format: JPEG | Colleges: 208</div>
+      <div class="assigned">Assigned: SVKM Usha Pravin Gandhi College (Vile Parle)</div>
+      <div class="reason PASS">Authentic building facade of SVKM's Usha Pravin Gandhi College of Management, Vile Parle West, Mumbai.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#62</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/thakur_complex_kandivali.webp" alt="thakur_complex_kandivali.webp" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">thakur_complex_kandivali.webp</div>
+      <div class="meta">Dim: 1620x1080 | Size: 89.0 KB | Format: WEBP | Colleges: 73</div>
+      <div class="assigned">Assigned: Thakur Educational Complex (Kandivali)</div>
+      <div class="reason PASS">Authentic campus building view of Thakur Educational Campus / Thakur Global Business School, Kandivali East.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#63</span>
+      <span class="pill DUPLICATE">DUPLICATE</span>
+      <img src="../../public/images/campuses/valia_andheri.jpeg" alt="valia_andheri.jpeg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">valia_andheri.jpeg</div>
+      <div class="meta">Dim: 867x574 | Size: 81.4 KB | Format: JPEG | Colleges: 208</div>
+      <div class="assigned">Assigned: Valia College (Andheri Duplicate)</div>
+      <div class="reason DUPLICATE">Exact binary duplicate of bunts_sangha_mumbai.jpeg (83.3 KB). Displays the Bunts Sangha Kurla building instead of Valia Andheri.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#64</span>
+      <span class="pill PASS">PASS</span>
+      <img src="../../public/images/campuses/vjti_mumbai.jpg" alt="vjti_mumbai.jpg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">vjti_mumbai.jpg</div>
+      <div class="meta">Dim: 960x720 | Size: 140.4 KB | Format: JPEG | Colleges: 220</div>
+      <div class="assigned">Assigned: VJTI Mumbai (Matunga)</div>
+      <div class="reason PASS">Authentic historic stone quadrangle building of Veermata Jijabai Technological Institute (VJTI), Matunga.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#65</span>
+      <span class="pill DUPLICATE">DUPLICATE</span>
+      <img src="../../public/images/campuses/weschool_matunga.jpeg" alt="weschool_matunga.jpeg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">weschool_matunga.jpeg</div>
+      <div class="meta">Dim: 1128x739 | Size: 113.3 KB | Format: WEBP | Colleges: 2</div>
+      <div class="assigned">Assigned: WeSchool Matunga (Duplicate Copy)</div>
+      <div class="reason DUPLICATE">Exact binary duplicate of weschool_matunga_mumbai.jpeg (115.9 KB). Redundant duplicate file.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <span class="num-pill">#66</span>
+      <span class="pill WARNING">WARNING</span>
+      <img src="../../public/images/campuses/weschool_matunga_mumbai.jpeg" alt="weschool_matunga_mumbai.jpeg" loading="lazy" onerror="this.src=''; this.alt='[IMAGE CORRUPTED OR INVALID FORMAT]';" />
+    </div>
+    <div class="card-body">
+      <div class="fname">weschool_matunga_mumbai.jpeg</div>
+      <div class="meta">Dim: 1128x739 | Size: 113.3 KB | Format: WEBP | Colleges: 55</div>
+      <div class="assigned">Assigned: Welingkar Institute of Management (WeSchool)</div>
+      <div class="reason WARNING">Authentic campus facade of Prin. L.N. Welingkar Institute of Management (WeSchool), Matunga, but format is WEBP disguised with .jpeg extension.</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

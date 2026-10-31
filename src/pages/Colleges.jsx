@@ -7,7 +7,7 @@ import { FaSearch, FaMapMarkerAlt, FaStar, FaFilter, FaRegBookmark, FaBookmark }
 import { CollegeContext } from '../contexts/CollegeContext';
 import { AuthContext } from '../contexts/AuthContext';
 import { useToast } from '../contexts/ToastContext';
-import CollegeImg from '../components/CollegeImg';
+import CollegeImg, { getCampusFallback } from '../components/CollegeImg';
 import { aiSearchColleges } from '../utils/geminiApi';
 
 const Colleges = () => {
@@ -583,12 +583,24 @@ const Colleges = () => {
                   <Spinner animation="border" variant="primary" style={{ width: '3rem', height: '3rem' }} />
                   <h5 className="text-primary mt-3 fw-bold">Querying colleges database...</h5>
                 </Col>
-              ) : currentItems.map((college, idx) => (
+              ) : (() => {
+                const seenImages = new Set();
+                return currentItems.map((rawCollege, idx) => {
+                  let college = rawCollege;
+                  const candidate = college.img || college.image;
+                  if (candidate && seenImages.has(candidate)) {
+                    const altFallback = getCampusFallback(college.name || String(college.id), idx + 1);
+                    college = { ...college, img: altFallback, image: altFallback };
+                    seenImages.add(altFallback);
+                  } else if (candidate) {
+                    seenImages.add(candidate);
+                  }
+                  return (
                 <Col md={6} key={college.id}>
                   <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: (idx % 10) * 0.1, duration: 0.5 }}>
                     <Card className="custom-card h-100 border-0">
                       <div className="position-relative">
-                        <CollegeImg college={college} className="card-img-top-custom" style={{height: '220px'}} />
+                        <CollegeImg college={college} index={idx} className="card-img-top-custom" style={{height: '220px'}} />
                         <Badge bg="warning" text="dark" className="position-absolute shadow" style={{top: '15px', right: '15px', fontSize: '14px', zIndex: 2}}>
                           <FaStar className="me-1 mb-1"/>{college.rating}
                         </Badge>
@@ -662,7 +674,9 @@ const Colleges = () => {
                     </Card>
                   </motion.div>
                 </Col>
-              ))}
+                );
+              });
+            })()}
 
               {currentItems.length === 0 && !aiLoading && aiColleges.length > 0 && (
                 <Col md={12}>

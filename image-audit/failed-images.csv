@@ -1,0 +1,2 @@
+sr_no,filename,dimensions,format,size,assigned_college,mapped_colleges_count,verdict,reason
+38,kohinoor_kurla.jpg,N/A,HTML (CORRUPTED),6.1 KB,Kohinoor Management School (Broken Ref),34,FAIL,Corrupted / invalid image: File is an HTML DDoS challenge page (6.2 KB) from a failed web download rather than an image.

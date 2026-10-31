@@ -129,7 +129,7 @@ const Home = () => {
                 <Col md={6} lg={3} key={idx}>
                   <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
                     <Card className="custom-card h-100 border-0">
-                      <CollegeImg college={college} className="card-img-top-custom" style={{height: '200px'}} />
+                      <CollegeImg college={college} index={idx} className="card-img-top-custom" style={{height: '200px'}} />
                       <Card.Body className="d-flex flex-column">
                         <div className="mb-2 d-flex justify-content-between align-items-center">
                           <span className="badge bg-light text-primary">{college.type}</span>
