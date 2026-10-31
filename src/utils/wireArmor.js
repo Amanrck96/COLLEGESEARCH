@@ -42,7 +42,7 @@ export function decryptArmoredPayload(data) {
     try {
       const parsed = JSON.parse(decodedRaw);
       return parsed;
-    } catch (e) {
+    } catch {
       // Fallback for direct encrypted string
       return data;
     }

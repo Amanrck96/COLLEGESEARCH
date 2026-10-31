@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Container, Row, Col, Card, Button, Badge, Spinner } from 'react-bootstrap';
 import { motion } from 'framer-motion';
 import { Link, useNavigate } from 'react-router-dom';
@@ -6,7 +6,6 @@ import { FaGraduationCap, FaUniversity, FaBookOpen, FaStar, FaChevronRight } fro
 import { CollegeContext } from '../contexts/CollegeContext';
 import { SiteContext } from '../contexts/SiteContext';
 import CollegeImg from '../components/CollegeImg';
-import { aiSearchColleges } from '../utils/geminiApi';
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 50 },
@@ -19,32 +18,7 @@ const Home = () => {
   const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState('');
   
-  const [dynamicColleges, setDynamicColleges] = useState([]);
-  const [apiLoading, setApiLoading] = useState(false);
-  const [apiError, setApiError] = useState(null);
 
-  useEffect(() => {
-    const fetchDynamicColleges = async () => {
-      setApiLoading(true);
-      setApiError(null);
-      try {
-        console.log("Calling Gemini API to fetch dynamic colleges...");
-        const result = await aiSearchColleges("Top Engineering Colleges in India");
-        if (result && Array.isArray(result) && result.length > 0) {
-          console.log("Gemini API fetched popular colleges successfully:", result);
-          setDynamicColleges(result);
-        } else {
-          throw new Error("No data returned or invalid JSON format from Gemini API");
-        }
-      } catch (err) {
-        console.error("Gemini API call failed on homepage:", err);
-        setApiError(err.message || "Failed to fetch from Gemini API");
-      } finally {
-        setApiLoading(false);
-      }
-    };
-    fetchDynamicColleges();
-  }, []);
   
   const handleSearch = (e) => {
     e.preventDefault();
@@ -54,14 +28,14 @@ const Home = () => {
   };
 
   // Filter out unpublished and prioritize featured colleges
-  const featuredColleges = React.useMemo(() => {
+  const featuredColleges = (() => {
     const list = (colleges || []).filter(c => c.featured === true && c.published !== false);
     if (list.length > 0) return list.slice(0, 4);
     return (colleges || []).filter(c => c.published !== false).slice(0, 4);
-  }, [colleges]);
+  })();
 
   // Extract unique courses across all colleges dynamically - Memoized
-  const trendingCourses = React.useMemo(() => {
+  const trendingCourses = (() => {
     const uniqueCoursesMap = new Map();
     (colleges || []).forEach(c => {
       if (Array.isArray(c.courses)) {
@@ -78,7 +52,7 @@ const Home = () => {
       }
     });
     return Array.from(uniqueCoursesMap.values()).slice(0, 4);
-  }, [colleges]);
+  })();
 
   return (
     <div>

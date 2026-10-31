@@ -63,6 +63,7 @@ const Login = () => {
     }
   };
 
+  // eslint-disable-next-line no-unused-vars
   const autofillUser = (role) => {
     setIsSignUp(false);
     if (role === 'student') {

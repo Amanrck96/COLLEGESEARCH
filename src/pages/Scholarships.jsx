@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import React, { useState } from 'react';
 import { Container, Row, Col, Card, Badge, Button, InputGroup, Form, Modal } from 'react-bootstrap';
 import { FaMoneyBillWave, FaGraduationCap, FaSearch, FaCheckCircle, FaExternalLinkAlt, FaCalendarAlt, FaShieldAlt } from 'react-icons/fa';

@@ -11,9 +11,10 @@ import { useToast } from '../contexts/ToastContext';
 import { Link, useNavigate } from 'react-router-dom';
 
 const StudentProfilePanel = () => {
-  const { currentUser, updateStudentNotes, logActivity } = useContext(AuthContext);
+  const { currentUser, logActivity } = useContext(AuthContext);
   const { colleges } = useContext(CollegeContext);
   const { showToast } = useToast();
+  // eslint-disable-next-line no-unused-vars
   const navigate = useNavigate();
 
   const [activeTab, setActiveTab] = useState('profile');

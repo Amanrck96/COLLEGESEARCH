@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import React, { useState } from 'react';
 import { Container, Row, Col, Card, Badge, Button, InputGroup, Form, Modal } from 'react-bootstrap';
 import { FaCalendarAlt, FaSearch, FaClock, FaBookOpen, FaShareAlt, FaTag, FaNewspaper } from 'react-icons/fa';
