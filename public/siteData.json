@@ -159630,13 +159630,13 @@
     },
     {
       "id": 2613,
-      "name": "ALL SAINTS P.G. COLLEGE",
+      "name": "All Saints P.G. College",
       "shortName": "Course Institute-1",
       "location": "VISHAKHAPATNAM",
       "state": "Andhra Pradesh",
-      "address": "SINGANNABANDA MAHARAJUPETA JN. BHEEMUNIPATNAM MANDAL VISAKHAPATNAM",
-      "phone": "0123-456789",
-      "website": "https://www.allsaintspgcoll.edu.in",
+      "address": "Singannabanda Village, Maharajupeta Junction, Bheemunipatnam Mandal, Visakhapatnam, Andhra Pradesh - 531162",
+      "phone": "+91-891-2540946",
+      "website": "http://www.aspgc.org",
       "rating": 4.5,
       "reviews": 462,
       "type": "Private",
@@ -159648,7 +159648,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ALL%20SAINTS%20P.G.%20COLLEGE%20VISHAKHAPATNAM%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.allsaintscollege.ac.in/uploadFiles/banners/home_banner_new_31750652376.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.allsaintscollege.ac.in/uploadFiles/banners/home_banner_new_31750652376.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -159657,10 +159657,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -159678,9 +159680,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.allsaintscollege.ac.in/uploadFiles/banners/home_banner_new_31750652376.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ALL%20SAINTS%20P.G.%20COLLEGE%20VISHAKHAPATNAM%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ALL%20SAINTS%20P.G.%20COLLEGE%20VISHAKHAPATNAM%20Andhra%20Pradesh",
+      "city": "Bheemunipatnam",
+      "email": "vvidyasundar@gmail.com",
+      "verified": true
     },
     {
       "id": 2614,
@@ -159738,13 +159743,13 @@
     },
     {
       "id": 2615,
-      "name": "KKC INSTITUTE OF PG STUDIES",
+      "name": "KKC Institute of PG Studies",
       "shortName": "Course Institute-1",
       "location": "CHITTOOR",
       "state": "Andhra Pradesh",
-      "address": "TIRUPATI-NAGARI ROAD PUTTUR CHITTOOR (DIST)",
-      "phone": "0123-456789",
-      "website": "https://www.kkcinstituteofp.edu.in",
+      "address": "KKC Nagar, Tirupati-Chennai Highway, Parameswaramangalam, Puttur, Tirupati District, Andhra Pradesh - 517584",
+      "phone": "+91-7799723307",
+      "website": "http://kkcmba.org",
       "rating": 4.5,
       "reviews": 185,
       "type": "Private",
@@ -159756,7 +159761,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=KKC%20INSTITUTE%20OF%20PG%20STUDIES%20CHITTOOR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/394190/blog0.jpg?width=640",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/394190/blog0.jpg?width=640",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
@@ -159765,11 +159770,23 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
           "intake": 120
         }
       ],
@@ -159786,19 +159803,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/394190/blog0.jpg?width=640",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KKC%20INSTITUTE%20OF%20PG%20STUDIES%20CHITTOOR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KKC%20INSTITUTE%20OF%20PG%20STUDIES%20CHITTOOR%20Andhra%20Pradesh",
+      "city": "Puttur",
+      "email": "kipsprincipal@gmail.com",
+      "verified": true
     },
     {
       "id": 2616,
-      "name": "SESHACHALA INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Seshachala Institute of Management Studies (SIMS)",
       "shortName": "Course Institute-1",
       "location": "CHITTOOR",
       "state": "Andhra Pradesh",
-      "address": "TIRUPATI-CHENNAI HIGHWAY, KANAKAMPALEM VILLAGE, PUTTUR MANDAL, CHITTOOR DIST., A.P.",
-      "phone": "0123-456789",
-      "website": "https://www.seshachalainsti.edu.in",
+      "address": "Tirupati-Chennai Highway, Kanakampalem Village, Puttur Mandal, Tirupati District, Andhra Pradesh - 517583",
+      "phone": "+91-9849189198",
+      "website": "http://www.seshachala.in",
       "rating": 4.5,
       "reviews": 264,
       "type": "Private",
@@ -159810,7 +159830,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SESHACHALA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20CHITTOOR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Sreenivasa_Institute_of_Technology__Management_Studiesdf.png",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://www.vidyavision.com/CollegeUploads/Photos/2019-20-8-16-33-51_seshachala.jpg",
         "https://media.collegedekho.com/media/img/institute/crawled_images/Sreenivasa_Institute_of_Technology__Management_Studiesdf.png",
@@ -159820,12 +159840,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -159841,9 +159863,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Sreenivasa_Institute_of_Technology__Management_Studiesdf.png",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SESHACHALA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20CHITTOOR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SESHACHALA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20CHITTOOR%20Andhra%20Pradesh",
+      "city": "Puttur",
+      "email": "sit.puttur@gmail.com",
+      "verified": true
     },
     {
       "id": 2617,
@@ -160065,13 +160090,13 @@
     },
     {
       "id": 2621,
-      "name": "PRR INSTITUTE OF MANAGMENT SCIENCES",
+      "name": "PRR Institute of Management Sciences",
       "shortName": "Course Institute-1",
       "location": "ANANTAPUR",
       "state": "Andhra Pradesh",
-      "address": "NEAR MARKET YARD, RAILWAY STATION ROAD, GOOTY",
-      "phone": "0123-456789",
-      "website": "https://www.prrinstituteofm.edu.in",
+      "address": "Railway Station Road, New Market Yard, Gooty, Ananthapuramu District, Andhra Pradesh - 515401",
+      "phone": "+91-9014219493",
+      "website": "http://www.prrims.in",
       "rating": 4.5,
       "reviews": 474,
       "type": "Private",
@@ -160083,7 +160108,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PRR%20INSTITUTE%20OF%20MANAGMENT%20SCIENCES%20ANANTAPUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://prr.edu.in/wp-content/uploads/2024/09/prr_banner4-1902x680.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://prr.edu.in/wp-content/uploads/2024/09/prr_banner4-1902x680.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -160092,10 +160117,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -160113,9 +160140,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://prr.edu.in/wp-content/uploads/2024/09/prr_banner4-1902x680.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRR%20INSTITUTE%20OF%20MANAGMENT%20SCIENCES%20ANANTAPUR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRR%20INSTITUTE%20OF%20MANAGMENT%20SCIENCES%20ANANTAPUR%20Andhra%20Pradesh",
+      "city": "Gooty",
+      "email": "prr.gty@gmail.com",
+      "verified": true
     },
     {
       "id": 2622,
@@ -160282,13 +160312,13 @@
     },
     {
       "id": 2625,
-      "name": "PYDAH COLLEGE(P.G. COURSES)",
+      "name": "Pydah College (P.G. Courses)",
       "shortName": "Course Institute-1",
       "location": "VISHAKHAPATNAM",
       "state": "Andhra Pradesh",
-      "address": "GAMBHEERAM, GAMHEERAM VILLAGE, VISAKHAPATNAM-531163",
-      "phone": "0123-456789",
-      "website": "https://www.pydahcollegepgc.edu.in",
+      "address": "Gambheeram Village, Boyapalem, Anandapuram Mandal, Visakhapatnam, Andhra Pradesh - 531163",
+      "phone": "+91-8933-222854",
+      "website": "http://www.pydah.org",
       "rating": 4.5,
       "reviews": 211,
       "type": "Private",
@@ -160300,7 +160330,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PYDAH%20COLLEGE(P.G.%20COURSES)%20VISHAKHAPATNAM%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/saraswati_kharghar.webp",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.yovizag.com/wp-content/uploads/2021/08/pydah_WEB.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -160309,12 +160339,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -160330,10 +160362,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/saraswati_kharghar.webp",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PYDAH%20COLLEGE(P.G.%20COURSES)%20VISHAKHAPATNAM%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Visakhapatnam",
+      "email": "pydahenggcollege@yahoo.com",
+      "verified": true
     },
     {
       "id": 2626,
@@ -160500,13 +160535,13 @@
     },
     {
       "id": 2629,
-      "name": "NAGARJUNA INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Nagarjuna Institute of Management Studies",
       "shortName": "Course Institute-1",
       "location": "PRAKASAM",
       "state": "Andhra Pradesh",
-      "address": "NAGARJUNA INSTITUTE OF MANAGEMENT STUDIES CHEKURAPADU NGPADU MANDAL PRAKASAM DT ANDRA PRADESH.",
-      "phone": "0123-456789",
-      "website": "https://www.nagarjunainstit.edu.in",
+      "address": "Chekurapadu, Chirala Road, Naguluppalapadu Mandal, Ongole, Prakasam District, Andhra Pradesh - 523002",
+      "phone": "+91-8592-282733",
+      "website": "http://www.nimsnagarjuna.in",
       "rating": 4.5,
       "reviews": 461,
       "type": "Private",
@@ -160518,7 +160553,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NAGARJUNA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20PRAKASAM%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bms_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/reviewPhotos/457667/IMG_20230914_211740.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -160527,10 +160562,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -160548,10 +160585,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bms_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NAGARJUNA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20PRAKASAM%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Ongole",
+      "email": "nims.ongole@gmail.com",
+      "verified": true
     },
     {
       "id": 2630,
@@ -161213,13 +161253,13 @@
     },
     {
       "id": 2642,
-      "name": "MEDARAMETLA ANJAMMA MASTAN RAO PG COLLEGE",
+      "name": "Medarametla Anjamma Mastan Rao (MAM) PG College",
       "shortName": "Course Institute-1",
       "location": "GUNTUR",
       "state": "Andhra Pradesh",
-      "address": "KESANUPALLI VILLAGE",
-      "phone": "0123-456789",
-      "website": "https://www.medarametlaanja.edu.in",
+      "address": "Kesanupalli Village, Narasaraopet, Palnadu District, Andhra Pradesh - 522601",
+      "phone": "+91-6301425803",
+      "website": "https://mamcolleges.org",
       "rating": 4.5,
       "reviews": 536,
       "type": "Private",
@@ -161240,12 +161280,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -161264,7 +161306,10 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MEDARAMETLA%20ANJAMMA%20MASTAN%20RAO%20PG%20COLLEGE%20GUNTUR%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Narasaraopet",
+      "email": "mamcolleges@gmail.com",
+      "verified": true
     },
     {
       "id": 2643,
@@ -161705,13 +161750,13 @@
     },
     {
       "id": 2651,
-      "name": "PALIVELA PG COLLEGE",
+      "name": "Palivela PG College",
       "shortName": "Course Institute-1",
       "location": "EAST GODAVARI",
       "state": "Andhra Pradesh",
-      "address": "8-39-4 AMALAPURAM ROAD PALIVELA KOTHAPETA EAST GODAVARI DISTRICT",
-      "phone": "0123-456789",
-      "website": "https://www.palivelapgcolle.edu.in",
+      "address": "8-39-4, Amalapuram Road, Palivela, Kothapeta Mandal, Dr. B.R. Ambedkar Konaseema District, Andhra Pradesh - 533229",
+      "phone": "+91-8855-244775",
+      "website": "http://www.palivelapgcollege.com",
       "rating": 4.5,
       "reviews": 53,
       "type": "Private",
@@ -161723,7 +161768,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PALIVELA%20PG%20COLLEGE%20EAST%20GODAVARI%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/chetana_bandra.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/reviewPhotos/672833/IMG-20240403-WA0054.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -161732,10 +161777,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -161753,20 +161800,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PALIVELA%20PG%20COLLEGE%20EAST%20GODAVARI%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Palivela",
+      "email": "ssskcollege@gmail.com",
+      "verified": true
     },
     {
       "id": 2652,
-      "name": "NOVA PG COLLEGE(MBA)",
+      "name": "Nova PG College (MBA)",
       "shortName": "Course Institute-1",
       "location": "KRISHNA",
       "state": "Andhra Pradesh",
-      "address": "T.V.RELAY STATION ROAD JUPUDI VILLAGE IBRAHIMPATNAM MANDAL KRISHNA DISTRICT ANDHRA PRADESH PIN:521456",
-      "phone": "0123-456789",
-      "website": "https://www.novapgcollegemb.edu.in",
+      "address": "TV Relay Station Road, Jupudi Village, Ibrahimpatnam Mandal, NTR District, Andhra Pradesh - 521456",
+      "phone": "+91-7675969633",
+      "website": "https://www.nova.ac.in",
       "rating": 4.5,
       "reviews": 393,
       "type": "Private",
@@ -161778,7 +161828,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NOVA%20PG%20COLLEGE(MBA)%20KRISHNA%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_6.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://rmgoe.org/universities/India/images/1752226237_6870d9bdb6a04.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -161787,20 +161837,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
           "type": "MANAGEMENT",
-          "intake": 240
+          "intake": 120
         },
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc + APICET",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -161816,23 +161870,26 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_6.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NOVA%20PG%20COLLEGE(MBA)%20KRISHNA%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Ibrahimpatnam",
+      "email": "info@nova.ac.in",
+      "verified": true
     },
     {
       "id": 2653,
-      "name": "GIET ENGINEERING COLLEGE",
+      "name": "GIET Engineering College (Autonomous)",
       "shortName": "Course Institute-1",
       "location": "EAST GODAVARI",
       "state": "Andhra Pradesh",
-      "address": "NH-5, CHAITANYA KNOWLEDGE CITY, VELUGUBANDA (V), RAJANAGARAM (M), RAJAHMUNDRY-533296.",
-      "phone": "0123-456789",
-      "website": "https://www.gietengineering.edu.in",
+      "address": "NH-16, Chaitanya Knowledge City, Velugubanda Village, Rajanagaram Mandal, Rajahmundry, East Godavari District, Andhra Pradesh - 533296",
+      "phone": "+91-9949993483",
+      "website": "https://gietec.ac.in",
       "rating": 4.5,
       "reviews": 132,
-      "type": "Private",
+      "type": "Private (Autonomous)",
       "about": "Welcome to GIET ENGINEERING COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 53,
       "facebook": "#",
@@ -161841,7 +161898,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GIET%20ENGINEERING%20COLLEGE%20EAST%20GODAVARI%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_8.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/btech/aditya-college-of-engineering-and-technology-campus-building-2.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -161850,12 +161907,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
+        },
+        {
+          "name": "B.Tech",
+          "title": "Bachelor of Technology",
+          "duration": "4 Years",
+          "fees": "₹2.20 Lakhs",
+          "fee": "₹2.20 Lakhs",
+          "eligibility": "10+2 with PCM + AP EAPCET",
+          "type": "ENGINEERING",
+          "intake": 600
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -161871,9 +161940,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_8.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GIET%20ENGINEERING%20COLLEGE%20EAST%20GODAVARI%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GIET%20ENGINEERING%20COLLEGE%20EAST%20GODAVARI%20Andhra%20Pradesh",
+      "city": "Rajahmundry",
+      "email": "principalgec@giet.ac.in",
+      "verified": true
     },
     {
       "id": 2654,

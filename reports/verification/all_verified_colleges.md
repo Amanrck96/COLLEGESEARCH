@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **320 / 12,660**  
-**Roadmap Progress**: **32.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **330 / 12,660**  
+**Roadmap Progress**: **33.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -489,4 +489,19 @@
 | **2608** | Akkineni Nageswara Rao (ANR) College (Autonomous) | Public/Government-Aided (Autonomous) | Krishna District, Andhra Pradesh - 521301 | [www.anrcollege.edu](https://www.anrcollege.edu) |
 | **2609** | V.S.M. College (Autonomous) | Public/Government-Aided (Autonomous) | Dr. B.R. Ambedkar Konaseema District, Andhra Pradesh - 533255 | [www.vsm.edu.in](https://www.vsm.edu.in) |
 | **2612** | Sri Nalanda Institute of P.G. Studies | Private | Palnadu District, Andhra Pradesh - 522438 | [www.ngi.ac.in](https://www.ngi.ac.in) |
+
+### Batch 33 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2613** | All Saints P.G. College | Private | Visakhapatnam, Andhra Pradesh - 531162 | [www.aspgc.org](http://www.aspgc.org) |
+| **2615** | KKC Institute of PG Studies | Private | Tirupati District, Andhra Pradesh - 517584 | [kkcmba.org](http://kkcmba.org) |
+| **2616** | Seshachala Institute of Management Studies (SIMS) | Private | Tirupati District, Andhra Pradesh - 517583 | [www.seshachala.in](http://www.seshachala.in) |
+| **2621** | PRR Institute of Management Sciences | Private | Ananthapuramu District, Andhra Pradesh - 515401 | [www.prrims.in](http://www.prrims.in) |
+| **2625** | Pydah College (P.G. Courses) | Private | Visakhapatnam, Andhra Pradesh - 531163 | [www.pydah.org](http://www.pydah.org) |
+| **2629** | Nagarjuna Institute of Management Studies | Private | Prakasam District, Andhra Pradesh - 523002 | [www.nimsnagarjuna.in](http://www.nimsnagarjuna.in) |
+| **2642** | Medarametla Anjamma Mastan Rao (MAM) PG College | Private | Palnadu District, Andhra Pradesh - 522601 | [mamcolleges.org](https://mamcolleges.org) |
+| **2651** | Palivela PG College | Private | Dr. B.R. Ambedkar Konaseema District, Andhra Pradesh - 533229 | [www.palivelapgcollege.com](http://www.palivelapgcollege.com) |
+| **2652** | Nova PG College (MBA) | Private | NTR District, Andhra Pradesh - 521456 | [www.nova.ac.in](https://www.nova.ac.in) |
+| **2653** | GIET Engineering College (Autonomous) | Private (Autonomous) | East Godavari District, Andhra Pradesh - 533296 | [gietec.ac.in](https://gietec.ac.in) |
 

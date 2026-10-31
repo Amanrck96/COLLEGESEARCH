@@ -1,0 +1,177 @@
+[
+  {
+    "id": 2613,
+    "name": "ALL SAINTS P.G. COLLEGE",
+    "address": "SINGANNABANDA MAHARAJUPETA JN. BHEEMUNIPATNAM MANDAL VISAKHAPATNAM",
+    "state": "Andhra Pradesh",
+    "img": "https://www.allsaintscollege.ac.in/uploadFiles/banners/home_banner_new_31750652376.jpg",
+    "website": "https://www.allsaintspgcoll.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2615,
+    "name": "KKC INSTITUTE OF PG STUDIES",
+    "address": "TIRUPATI-NAGARI ROAD PUTTUR CHITTOOR (DIST)",
+    "state": "Andhra Pradesh",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/394190/blog0.jpg?width=640",
+    "website": "https://www.kkcinstituteofp.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2616,
+    "name": "SESHACHALA INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "TIRUPATI-CHENNAI HIGHWAY, KANAKAMPALEM VILLAGE, PUTTUR MANDAL, CHITTOOR DIST., A.P.",
+    "state": "Andhra Pradesh",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Sreenivasa_Institute_of_Technology__Management_Studiesdf.png",
+    "website": "https://www.seshachalainsti.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2621,
+    "name": "PRR INSTITUTE OF MANAGMENT SCIENCES",
+    "address": "NEAR MARKET YARD, RAILWAY STATION ROAD, GOOTY",
+    "state": "Andhra Pradesh",
+    "img": "https://prr.edu.in/wp-content/uploads/2024/09/prr_banner4-1902x680.jpg",
+    "website": "https://www.prrinstituteofm.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2625,
+    "name": "PYDAH COLLEGE(P.G. COURSES)",
+    "address": "GAMBHEERAM, GAMHEERAM VILLAGE, VISAKHAPATNAM-531163",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.pydahcollegepgc.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2629,
+    "name": "NAGARJUNA INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "NAGARJUNA INSTITUTE OF MANAGEMENT STUDIES CHEKURAPADU NGPADU MANDAL PRAKASAM DT ANDRA PRADESH.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.nagarjunainstit.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2642,
+    "name": "MEDARAMETLA ANJAMMA MASTAN RAO PG COLLEGE",
+    "address": "KESANUPALLI VILLAGE",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.medarametlaanja.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2651,
+    "name": "PALIVELA PG COLLEGE",
+    "address": "8-39-4 AMALAPURAM ROAD PALIVELA KOTHAPETA EAST GODAVARI DISTRICT",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.palivelapgcolle.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2652,
+    "name": "NOVA PG COLLEGE(MBA)",
+    "address": "T.V.RELAY STATION ROAD JUPUDI VILLAGE IBRAHIMPATNAM MANDAL KRISHNA DISTRICT ANDHRA PRADESH PIN:521456",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.novapgcollegemb.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2653,
+    "name": "GIET ENGINEERING COLLEGE",
+    "address": "NH-5, CHAITANYA KNOWLEDGE CITY, VELUGUBANDA (V), RAJANAGARAM (M), RAJAHMUNDRY-533296.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.gietengineering.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

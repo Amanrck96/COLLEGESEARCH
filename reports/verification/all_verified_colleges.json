@@ -2398,5 +2398,80 @@
         "website": "https://www.ngi.ac.in"
       }
     ]
+  },
+  {
+    "batch": 33,
+    "items": [
+      {
+        "id": 2613,
+        "name": "All Saints P.G. College",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 531162",
+        "website": "http://www.aspgc.org"
+      },
+      {
+        "id": 2615,
+        "name": "KKC Institute of PG Studies",
+        "type": "Private",
+        "location": "Tirupati District, Andhra Pradesh - 517584",
+        "website": "http://kkcmba.org"
+      },
+      {
+        "id": 2616,
+        "name": "Seshachala Institute of Management Studies (SIMS)",
+        "type": "Private",
+        "location": "Tirupati District, Andhra Pradesh - 517583",
+        "website": "http://www.seshachala.in"
+      },
+      {
+        "id": 2621,
+        "name": "PRR Institute of Management Sciences",
+        "type": "Private",
+        "location": "Ananthapuramu District, Andhra Pradesh - 515401",
+        "website": "http://www.prrims.in"
+      },
+      {
+        "id": 2625,
+        "name": "Pydah College (P.G. Courses)",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 531163",
+        "website": "http://www.pydah.org"
+      },
+      {
+        "id": 2629,
+        "name": "Nagarjuna Institute of Management Studies",
+        "type": "Private",
+        "location": "Prakasam District, Andhra Pradesh - 523002",
+        "website": "http://www.nimsnagarjuna.in"
+      },
+      {
+        "id": 2642,
+        "name": "Medarametla Anjamma Mastan Rao (MAM) PG College",
+        "type": "Private",
+        "location": "Palnadu District, Andhra Pradesh - 522601",
+        "website": "https://mamcolleges.org"
+      },
+      {
+        "id": 2651,
+        "name": "Palivela PG College",
+        "type": "Private",
+        "location": "Dr. B.R. Ambedkar Konaseema District, Andhra Pradesh - 533229",
+        "website": "http://www.palivelapgcollege.com"
+      },
+      {
+        "id": 2652,
+        "name": "Nova PG College (MBA)",
+        "type": "Private",
+        "location": "NTR District, Andhra Pradesh - 521456",
+        "website": "https://www.nova.ac.in"
+      },
+      {
+        "id": 2653,
+        "name": "GIET Engineering College (Autonomous)",
+        "type": "Private (Autonomous)",
+        "location": "East Godavari District, Andhra Pradesh - 533296",
+        "website": "https://gietec.ac.in"
+      }
+    ]
   }
 ]
