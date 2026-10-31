@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **280 / 12,660**  
-**Roadmap Progress**: **28.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **290 / 12,660**  
+**Roadmap Progress**: **29.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -429,4 +429,19 @@
 | **2397** | Satya Institute of Technology and Management (SITAM) | Private | Vizianagaram, Andhra Pradesh - 535002 | [sitam.co.in](https://sitam.co.in) |
 | **2407** | D.L.R. College PG Courses | Private | Kakinada District, Andhra Pradesh - 533344 | [www.dlrcollege.org](http://www.dlrcollege.org) |
 | **2411** | P.N.C. & K.R. College of PG Courses | Private | Palnadu District, Andhra Pradesh - 522601 | [www.pnckr.com](http://www.pnckr.com) |
+
+### Batch 29 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2414** | Sir C.V. Raman Institute of Management Studies | Private | Ananthapuramu District, Andhra Pradesh - 515411 | [scvrim.com](https://scvrim.com) |
+| **2419** | JNTUA School of Management Studies | Public/Government (State University Department) | Ananthapuramu, Andhra Pradesh - 515002 | [www.jntua.ac.in](https://www.jntua.ac.in) |
+| **2421** | MJR Institute of Business Management | Private | Annamayya District, Andhra Pradesh - 517214 | [mjribm.org](http://mjribm.org) |
+| **2432** | S.V. Arts & Science College | Private | Tirupati District (formerly SPSR Nellore), Andhra Pradesh - 524101 | [svartscollegegudur.co.in](https://svartscollegegudur.co.in) |
+| **2434** | Visakha Institute for Professional Studies (VIPS) | Private | Visakhapatnam, Andhra Pradesh - 531163 | [www.vips.org.in](https://www.vips.org.in) |
+| **2436** | Royal School of Information & Management Sciences | Private | Tirupati District, Andhra Pradesh - 517102 | [www.royalbschool.com](https://www.royalbschool.com) |
+| **2444** | Chirala Engineering College (CECC) | Private | Bapatla District, Andhra Pradesh - 523157 | [www.cecc.co.in](https://www.cecc.co.in) |
+| **2446** | Andhra Loyola College (Autonomous) | Public/Government-Aided (Autonomous) | Vijayawada, Andhra Pradesh - 520008 | [www.andhraloyolacollege.ac.in](https://www.andhraloyolacollege.ac.in) |
+| **2458** | Daggubati Chenchu Ramaiah Memorial (DCRM) PG College | Private | Bapatla District, Andhra Pradesh - 523167 | [www.daggubatigroup.org](http://www.daggubatigroup.org) |
+| **2461** | DBB Institute of PG Studies | Private | Tirupati District, Andhra Pradesh - 517583 | [www.dbbips.org](http://www.dbbips.org) |
 

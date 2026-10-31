@@ -2098,5 +2098,80 @@
         "website": "http://www.pnckr.com"
       }
     ]
+  },
+  {
+    "batch": 29,
+    "items": [
+      {
+        "id": 2414,
+        "name": "Sir C.V. Raman Institute of Management Studies",
+        "type": "Private",
+        "location": "Ananthapuramu District, Andhra Pradesh - 515411",
+        "website": "https://scvrim.com"
+      },
+      {
+        "id": 2419,
+        "name": "JNTUA School of Management Studies",
+        "type": "Public/Government (State University Department)",
+        "location": "Ananthapuramu, Andhra Pradesh - 515002",
+        "website": "https://www.jntua.ac.in"
+      },
+      {
+        "id": 2421,
+        "name": "MJR Institute of Business Management",
+        "type": "Private",
+        "location": "Annamayya District, Andhra Pradesh - 517214",
+        "website": "http://mjribm.org"
+      },
+      {
+        "id": 2432,
+        "name": "S.V. Arts & Science College",
+        "type": "Private",
+        "location": "Tirupati District (formerly SPSR Nellore), Andhra Pradesh - 524101",
+        "website": "https://svartscollegegudur.co.in"
+      },
+      {
+        "id": 2434,
+        "name": "Visakha Institute for Professional Studies (VIPS)",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 531163",
+        "website": "https://www.vips.org.in"
+      },
+      {
+        "id": 2436,
+        "name": "Royal School of Information & Management Sciences",
+        "type": "Private",
+        "location": "Tirupati District, Andhra Pradesh - 517102",
+        "website": "https://www.royalbschool.com"
+      },
+      {
+        "id": 2444,
+        "name": "Chirala Engineering College (CECC)",
+        "type": "Private",
+        "location": "Bapatla District, Andhra Pradesh - 523157",
+        "website": "https://www.cecc.co.in"
+      },
+      {
+        "id": 2446,
+        "name": "Andhra Loyola College (Autonomous)",
+        "type": "Public/Government-Aided (Autonomous)",
+        "location": "Vijayawada, Andhra Pradesh - 520008",
+        "website": "https://www.andhraloyolacollege.ac.in"
+      },
+      {
+        "id": 2458,
+        "name": "Daggubati Chenchu Ramaiah Memorial (DCRM) PG College",
+        "type": "Private",
+        "location": "Bapatla District, Andhra Pradesh - 523167",
+        "website": "http://www.daggubatigroup.org"
+      },
+      {
+        "id": 2461,
+        "name": "DBB Institute of PG Studies",
+        "type": "Private",
+        "location": "Tirupati District, Andhra Pradesh - 517583",
+        "website": "http://www.dbbips.org"
+      }
+    ]
   }
 ]

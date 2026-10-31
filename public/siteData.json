@@ -147949,13 +147949,13 @@
     },
     {
       "id": 2414,
-      "name": "SIR C.V.RAMAN INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Sir C.V. Raman Institute of Management Studies",
       "shortName": "Course Institute-1",
       "location": "ANANTAPUR",
       "state": "Andhra Pradesh",
-      "address": "ANANTAPUR ROAD TADIPATRI-515411ANANTAPURAMU DIST. ANDHRA PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.sircvramaninsti.edu.in",
+      "address": "Anantapur Road, Tadipatri, Ananthapuramu District, Andhra Pradesh - 515411",
+      "phone": "+91-9182159008",
+      "website": "https://scvrim.com",
       "rating": 4.5,
       "reviews": 395,
       "type": "Private",
@@ -147967,7 +147967,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SIR%20C.V.RAMAN%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20ANANTAPUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/sir-cv-raman-institute-of-technology-sciences-anantapur-324639.webp",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/sir-cv-raman-institute-of-technology-sciences-anantapur-324639.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -147976,12 +147976,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -147997,9 +147999,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/sir-cv-raman-institute-of-technology-sciences-anantapur-324639.webp",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIR%20C.V.RAMAN%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20ANANTAPUR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIR%20C.V.RAMAN%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20ANANTAPUR%20Andhra%20Pradesh",
+      "city": "Tadipatri",
+      "email": "scvrimstudies@gmail.com",
+      "verified": true
     },
     {
       "id": 2415,
@@ -148253,16 +148258,16 @@
     },
     {
       "id": 2419,
-      "name": "JNTUA SCHOOL OF MANAGEMENT STUDIES",
+      "name": "JNTUA School of Management Studies",
       "shortName": "Course Institute-1",
       "location": "ANANTAPUR",
       "state": "Andhra Pradesh",
-      "address": "SIR M VISWESWARAIAH ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.jntuaschoolofma.edu.in",
+      "address": "Sir M. Visveswaraya Road, JNTUA Campus, Ananthapuramu, Andhra Pradesh - 515002",
+      "phone": "+91-8554-230158",
+      "website": "https://www.jntua.ac.in",
       "rating": 4.5,
       "reviews": 523,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to JNTUA SCHOOL OF MANAGEMENT STUDIES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 62,
       "facebook": "#",
@@ -148271,7 +148276,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=JNTUA%20SCHOOL%20OF%20MANAGEMENT%20STUDIES%20ANANTAPUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/ramaiah_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.collegesamachar.com/uploads/colleges/gallery/319/1649134253dccoverokvrjbm4p0ko74hnl0ghrpjri020160223050442medi.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -148280,18 +148285,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA(GENERAL MANAGEMENT)",
+          "name": "MBA (General Management)",
+          "title": "MBA (General Management)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹54,000",
+          "fee": "₹54,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 60
         },
         {
-          "title": "MBA(FIN TECH)",
+          "name": "MBA (FinTech)",
+          "title": "MBA (Financial Technology)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹54,000",
+          "fee": "₹54,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -148309,10 +148318,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/ramaiah_bangalore.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=JNTUA%20SCHOOL%20OF%20MANAGEMENT%20STUDIES%20ANANTAPUR%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Ananthapuramu",
+      "email": "hod.mba@jntua.ac.in",
+      "verified": true
     },
     {
       "id": 2420,
@@ -148379,13 +148391,13 @@
     },
     {
       "id": 2421,
-      "name": "MJR INSTITUTE OF BUSINESS MANAGEMENT",
+      "name": "MJR Institute of Business Management",
       "shortName": "Course Institute-1",
       "location": "CHITTOOR",
       "state": "Andhra Pradesh",
-      "address": "DIGUVAPOKULAVARIPALLI PULICHERLA CHITTOOR",
-      "phone": "0123-456789",
-      "website": "https://www.mjrinstituteofb.edu.in",
+      "address": "Diguvapokulavaripalli, Pulicherla Mandal, Chittoor Road, near Agraharam, Piler, Annamayya District, Andhra Pradesh - 517214",
+      "phone": "+91-9491054763",
+      "website": "http://mjribm.org",
       "rating": 4.5,
       "reviews": 425,
       "type": "Private",
@@ -148397,7 +148409,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MJR%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20CHITTOOR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/mjr-institute-of-business-management-chittoor-288985.webp",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/mjr-institute-of-business-management-chittoor-288985.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
@@ -148406,12 +148418,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -148427,9 +148441,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/mjr-institute-of-business-management-chittoor-288985.webp",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MJR%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20CHITTOOR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MJR%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20CHITTOOR%20Andhra%20Pradesh",
+      "city": "Piler",
+      "email": "mjribm@gmail.com",
+      "verified": true
     },
     {
       "id": 2422,
@@ -149058,13 +149075,13 @@
     },
     {
       "id": 2432,
-      "name": "S.V.ARTS & SCIENCE COLLEGE",
+      "name": "S.V. Arts & Science College",
       "shortName": "Course Institute-1",
       "location": "NELLORE",
       "state": "Andhra Pradesh",
-      "address": "DIVIPALEM VILLAGE, WEST GUDUR, GUDUR - 524102, SPSR NELLORE DIST.",
-      "phone": "0123-456789",
-      "website": "https://www.svartsscienceco.edu.in",
+      "address": "West Gudur, S.V. Nagar, Gudur, Tirupati District (formerly SPSR Nellore), Andhra Pradesh - 524101",
+      "phone": "+91-9849159163",
+      "website": "https://svartscollegegudur.co.in",
       "rating": 4.5,
       "reviews": 411,
       "type": "Private",
@@ -149076,7 +149093,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=S.V.ARTS%20%26%20SCIENCE%20COLLEGE%20NELLORE%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://images.careerindia.com/college-photos/225/college-building_1476942075.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://images.careerindia.com/college-photos/225/college-building_1476942075.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -149085,20 +149102,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics + APICET",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 126
+          "intake": 60
         },
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 168
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -149114,9 +149135,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://images.careerindia.com/college-photos/225/college-building_1476942075.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=S.V.ARTS%20%26%20SCIENCE%20COLLEGE%20NELLORE%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=S.V.ARTS%20%26%20SCIENCE%20COLLEGE%20NELLORE%20Andhra%20Pradesh",
+      "city": "Gudur",
+      "email": "sunkrreddy@gmail.com",
+      "verified": true
     },
     {
       "id": 2433,
@@ -149182,13 +149206,13 @@
     },
     {
       "id": 2434,
-      "name": "VISAKHA INSTITUTE FOR PROFES SIONAL STUDIES",
+      "name": "Visakha Institute for Professional Studies (VIPS)",
       "shortName": "Course Institute-1",
       "location": "VISHAKHAPATNAM",
       "state": "Andhra Pradesh",
-      "address": "KAPULUPPADA, VISAKAPATNAM URBAN AGGLOMERATION VISAKHAPATNAM",
-      "phone": "0123-456789",
-      "website": "https://vips.edu.in",
+      "address": "Kapuluppada, Bheemunipatnam Mandal, Visakhapatnam, Andhra Pradesh - 531163",
+      "phone": "+91-8933-200062",
+      "website": "https://www.vips.org.in",
       "rating": 4.5,
       "reviews": 205,
       "type": "Private",
@@ -149200,7 +149224,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=VISAKHA%20INSTITUTE%20FOR%20PROFES%20SIONAL%20STUDIES%20VISHAKHAPATNAM%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-13-8-18-21-48_visakha.png",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.vidyavision.com/CollegeUploads/Photos/2019-13-8-18-21-48_visakha.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -149209,12 +149233,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 60
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -149230,9 +149256,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-13-8-18-21-48_visakha.png",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VISAKHA%20INSTITUTE%20FOR%20PROFES%20SIONAL%20STUDIES%20VISHAKHAPATNAM%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VISAKHA%20INSTITUTE%20FOR%20PROFES%20SIONAL%20STUDIES%20VISHAKHAPATNAM%20Andhra%20Pradesh",
+      "city": "Visakhapatnam",
+      "email": "info@vips.org.in",
+      "verified": true
     },
     {
       "id": 2435,
@@ -149298,13 +149327,13 @@
     },
     {
       "id": 2436,
-      "name": "ROYAL SCHOOL OF INFORMATION & MANAGEMENT SCIENCES",
+      "name": "Royal School of Information & Management Sciences",
       "shortName": "Course Institute-1",
       "location": "CHITTOOR",
       "state": "Andhra Pradesh",
-      "address": "AGARALA,OPP.CHANDRAGIRI FORT,TIRUPATI-CHITTOOR HIGHWAY,CHANDRAGIRI(M)",
-      "phone": "0123-456789",
-      "website": "https://www.royalschoolofin.edu.in",
+      "address": "Agarala Village, Opp. Chandragiri Fort, Tirupati-Chittoor Highway, Chandragiri, Tirupati District, Andhra Pradesh - 517102",
+      "phone": "+91-9949027623",
+      "website": "https://www.royalbschool.com",
       "rating": 4.5,
       "reviews": 349,
       "type": "Private",
@@ -149316,7 +149345,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ROYAL%20SCHOOL%20OF%20INFORMATION%20%26%20MANAGEMENT%20SCIENCES%20CHITTOOR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Selection_015.png?width=1080",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/Selection_015.png?width=1080",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
@@ -149325,20 +149354,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
-          "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹45,000",
+          "fee": "₹45,000",
+          "eligibility": "10+2 with Mathematics",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         },
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc + APICET",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 40
+          "intake": 120
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -149354,9 +149397,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Selection_015.png?width=1080",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ROYAL%20SCHOOL%20OF%20INFORMATION%20%26%20MANAGEMENT%20SCIENCES%20CHITTOOR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ROYAL%20SCHOOL%20OF%20INFORMATION%20%26%20MANAGEMENT%20SCIENCES%20CHITTOOR%20Andhra%20Pradesh",
+      "city": "Tirupati",
+      "email": "royalbschooltirupati@gmail.com",
+      "verified": true
     },
     {
       "id": 2437,
@@ -149798,13 +149844,13 @@
     },
     {
       "id": 2444,
-      "name": "CHIRALA ENGINEERING COLLEGE",
+      "name": "Chirala Engineering College (CECC)",
       "shortName": "Course Institute-1",
       "location": "PRAKASAM",
       "state": "Andhra Pradesh",
-      "address": "RAMAPURAM BEACH ROAD AKKAYYAPALEM VILLAGE VETAPALEM MANDAL PRAKASAM DISTRICT",
-      "phone": "0123-456789",
-      "website": "https://www.chiralaengineer.edu.in",
+      "address": "Ramapuram Beach Road, Vetapalem Mandal, Chirala, Bapatla District, Andhra Pradesh - 523157",
+      "phone": "+91-8331040550",
+      "website": "https://www.cecc.co.in",
       "rating": 4.5,
       "reviews": 121,
       "type": "Private",
@@ -149816,7 +149862,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CHIRALA%20ENGINEERING%20COLLEGE%20PRAKASAM%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/chirala-engineering-college-campus-building.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -149825,19 +149871,43 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
-          "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "name": "B.Tech",
+          "title": "Bachelor of Technology",
+          "duration": "4 Years",
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "10+2 with PCM + AP EAPCET",
+          "type": "ENGINEERING",
+          "intake": 600
         },
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹45,000",
+          "fee": "₹45,000",
+          "eligibility": "10+2 from recognized board",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc + APICET",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
           "intake": 60
         }
       ],
@@ -149854,10 +149924,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHIRALA%20ENGINEERING%20COLLEGE%20PRAKASAM%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Chirala",
+      "email": "principal@cecc.co.in",
+      "verified": true
     },
     {
       "id": 2445,
@@ -149924,16 +149997,16 @@
     },
     {
       "id": 2446,
-      "name": "ANDHRA LOYOLA COLLEGE",
+      "name": "Andhra Loyola College (Autonomous)",
       "shortName": "Course Institute-1",
       "location": "KRISHNA",
       "state": "Andhra Pradesh",
-      "address": "GOVT.POLYTECHNIC POST OFFICE BYE PASS ROAD VIJAYAWADA",
-      "phone": "0123-456789",
-      "website": "https://www.andhraloyolacol.edu.in",
+      "address": "Veterinary Colony, Government Polytechnic Post Office Road, Vijayawada, Andhra Pradesh - 520008",
+      "phone": "+91-866-2476082",
+      "website": "https://www.andhraloyolacollege.ac.in",
       "rating": 4.5,
       "reviews": 260,
-      "type": "Private",
+      "type": "Public/Government-Aided (Autonomous)",
       "about": "Welcome to ANDHRA LOYOLA COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 43,
       "facebook": "#",
@@ -149942,7 +150015,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ANDHRA%20LOYOLA%20COLLEGE%20KRISHNA%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.andhraloyolacollege.ac.in/images/8b876c8d920711d9360e33703f103e94.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://www.andhraloyolacollege.ac.in/images/8b876c8d920711d9360e33703f103e94.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -149951,20 +150024,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BBA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "10+2 with 50%",
           "type": "MANAGEMENT",
-          "intake": 240
+          "intake": 60
         },
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
           "type": "MANAGEMENT",
-          "intake": 120
+          "intake": 60
+        },
+        {
+          "name": "B.Sc",
+          "title": "Bachelor of Science",
+          "duration": "3 Years",
+          "fees": "₹45,000",
+          "fee": "₹45,000",
+          "eligibility": "10+2 with Science stream",
+          "type": "SCIENCE",
+          "intake": 300
+        },
+        {
+          "name": "B.Com",
+          "title": "Bachelor of Commerce",
+          "duration": "3 Years",
+          "fees": "₹40,000",
+          "fee": "₹40,000",
+          "eligibility": "10+2 with Commerce/Arts",
+          "type": "COMMERCE",
+          "intake": 240
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -149980,9 +150077,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.andhraloyolacollege.ac.in/images/8b876c8d920711d9360e33703f103e94.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ANDHRA%20LOYOLA%20COLLEGE%20KRISHNA%20Andhra%20Pradesh"
+      "image": "/images/campuses/campus_architecture_9.jpg",
+      "ownership": "Government-Aided",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ANDHRA%20LOYOLA%20COLLEGE%20KRISHNA%20Andhra%20Pradesh",
+      "city": "Vijayawada",
+      "email": "contactalc@gmail.com",
+      "verified": true
     },
     {
       "id": 2447,
@@ -150650,13 +150750,13 @@
     },
     {
       "id": 2458,
-      "name": "DCRM PG COLLEGE (MBA)",
+      "name": "Daggubati Chenchu Ramaiah Memorial (DCRM) PG College",
       "shortName": "Course Institute-1",
       "location": "PRAKASAM",
       "state": "Andhra Pradesh",
-      "address": "GANGAVARAM ROAD INKOLLU - 523167 PRAKASAM (DIST.) ANDHRA PRADESH.",
-      "phone": "0123-456789",
-      "website": "https://www.dcrmpgcollegemb.edu.in",
+      "address": "Gangavaram Road, Inkollu, Bapatla District, Andhra Pradesh - 523167",
+      "phone": "+91-8594-244416",
+      "website": "http://www.daggubatigroup.org",
       "rating": 4.5,
       "reviews": 548,
       "type": "Private",
@@ -150677,10 +150777,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -150701,7 +150803,10 @@
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DCRM%20PG%20COLLEGE%20(MBA)%20PRAKASAM%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Inkollu",
+      "email": "dcrmpg@gmail.com",
+      "verified": true
     },
     {
       "id": 2459,
@@ -150830,13 +150935,13 @@
     },
     {
       "id": 2461,
-      "name": "DBB INSTITUTE OF PG STUDIES",
+      "name": "DBB Institute of PG Studies",
       "shortName": "Course Institute-1",
       "location": "CHITTOOR",
       "state": "Andhra Pradesh",
-      "address": "NARAYANAVARAM ROAD, PUTTUR",
-      "phone": "0123-456789",
-      "website": "https://www.dbbinstituteofp.edu.in",
+      "address": "67/3, 4 Narayanavanam Road, Puttur, Tirupati District, Andhra Pradesh - 517583",
+      "phone": "+91-8577-264004",
+      "website": "http://www.dbbips.org",
       "rating": 4.5,
       "reviews": 468,
       "type": "Private",
@@ -150848,7 +150953,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DBB%20INSTITUTE%20OF%20PG%20STUDIES%20CHITTOOR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://ext.cmcvellore.edu.in/wp-content/uploads/sites/14/2024/05/chittoor-residence-1.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://ext.cmcvellore.edu.in/wp-content/uploads/sites/14/2024/05/chittoor-residence-1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -150857,18 +150962,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         },
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -150886,9 +150995,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://ext.cmcvellore.edu.in/wp-content/uploads/sites/14/2024/05/chittoor-residence-1.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DBB%20INSTITUTE%20OF%20PG%20STUDIES%20CHITTOOR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DBB%20INSTITUTE%20OF%20PG%20STUDIES%20CHITTOOR%20Andhra%20Pradesh",
+      "city": "Puttur",
+      "email": "dbbips@yahoo.co.in",
+      "verified": true
     },
     {
       "id": 2462,
