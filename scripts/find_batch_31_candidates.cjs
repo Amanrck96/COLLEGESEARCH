@@ -49,3 +49,4 @@ candidates.forEach((c, idx) => {
 });
 
 fs.writeFileSync(OUTPUT_PATH, JSON.stringify(candidates, null, 2), 'utf8');
+
