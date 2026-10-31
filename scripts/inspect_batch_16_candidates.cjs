@@ -27,3 +27,4 @@ ids.forEach(id => {
     console.log(`  - ${cr.name}: ${cr.duration} (fee: ${cr.fee})`);
   });
 });
+
