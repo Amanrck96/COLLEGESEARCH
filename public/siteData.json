@@ -40357,13 +40357,13 @@
     },
     {
       "id": 601,
-      "name": "SRI SHIVANI INSTITUTE OF MANAGEMENT",
+      "name": "Sri Shivani Institute of Management, Gangadhara",
       "shortName": "Course Institute-1",
       "location": "KARIMNAGAR",
       "state": "Telangana",
-      "address": "ISLAMPOOR VILLAGE GANGADHARA(MANDAL) KARIMNAGAR(DIST) ANDHRA PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.srishivaniinsti.edu.in",
+      "address": "Islampoor Village, Gangadhara Mandal, Karimnagar District - 505445, Telangana, India",
+      "phone": "0878-2287400 / +91-9440061234",
+      "website": "https://satavahana.ac.in",
       "rating": 4.5,
       "reviews": 249,
       "type": "Private",
@@ -40381,7 +40381,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Satavahana University, Karimnagar & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -40408,20 +40408,21 @@
       "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20SHIVANI%20INSTITUTE%20OF%20MANAGEMENT%20KARIMNAGAR%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "email": "srishivani.mba@gmail.com"
     },
     {
       "id": 602,
-      "name": "UNIVERSITY COLLEGE OF MANAGEMENT HYDERABAD",
+      "name": "University College of Management Hyderabad (UCMH), JNTU Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
-      "address": "JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.universitycolle.edu.in",
+      "address": "JNTUH Campus, Kukatpally, Hyderabad - 500085, Telangana, India",
+      "phone": "+91-40-23158661 / +91-40-23158664",
+      "website": "https://sms.jntuh.ac.in",
       "rating": 4.5,
       "reviews": 496,
-      "type": "Private",
+      "type": "Public/Government (State University Constituent College)",
       "about": "Welcome to UNIVERSITY COLLEGE OF MANAGEMENT HYDERABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 7,
       "facebook": "#",
@@ -40436,7 +40437,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Jawaharlal Nehru Technological University Hyderabad (JNTUH) & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -40461,22 +40462,23 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_4.jpg",
-      "ownership": "Private",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20COLLEGE%20OF%20MANAGEMENT%20HYDERABAD%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "email": "smsdir@jntuh.ac.in"
     },
     {
       "id": 603,
-      "name": "UNIVERSITY COLLEGE OF COMMERCE AND BUSINESS MANAGEMENT",
+      "name": "University College of Commerce and Business Management (UCCBM), Osmania University",
       "shortName": "Course Institute-1",
       "location": "NALGONDA",
       "state": "Telangana",
-      "address": "UNIVERSITY COLLEGE OF COMMERCE AND BUSINESS MANAGEMENT, MAHATMA GANDHI UNIVERSITY",
-      "phone": "0123-456789",
-      "website": "https://www.universitycolle.edu.in",
+      "address": "Osmania University Main Road, Osmania University Campus, Hyderabad - 500007, Telangana, India",
+      "phone": "+91 8331997240 / 040-27097693",
+      "website": "https://uccbm.osmania.ac.in",
       "rating": 4.5,
       "reviews": 477,
-      "type": "Private",
+      "type": "Public/Government (State University Constituent College)",
       "about": "Welcome to UNIVERSITY COLLEGE OF COMMERCE AND BUSINESS MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 39,
       "facebook": "#",
@@ -40485,13 +40487,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20COLLEGE%20OF%20COMMERCE%20AND%20BUSINESS%20MANAGEMENT%20NALGONDA%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.ou-mba.ac.in/i/m1.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.ou-mba.ac.in/i/m1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Osmania University & Approved by AICTE, NAAC A+ Grade",
       "courses": [
         {
           "title": "MBA",
@@ -40515,9 +40517,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.ou-mba.ac.in/i/m1.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20COLLEGE%20OF%20COMMERCE%20AND%20BUSINESS%20MANAGEMENT%20NALGONDA%20Telangana"
+      "image": "/images/campuses/campus_architecture_5.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20COLLEGE%20OF%20COMMERCE%20AND%20BUSINESS%20MANAGEMENT%20NALGONDA%20Telangana",
+      "email": "head.businessmgmt@osmania.ac.in"
     },
     {
       "id": 604,
@@ -40576,13 +40579,13 @@
     },
     {
       "id": 605,
-      "name": "SRI GAAYATHRI COLLEGE OF MANAGEMENT SCIENCES",
+      "name": "Sri Gaayathri College of Management Sciences, Warangal",
       "shortName": "Course Institute-1",
       "location": "WARANGAL",
       "state": "Telangana",
-      "address": "OPP GOVT.I.T.I MULUGU X ROADS HANAMKONDA WARANGAL- 506002 ANDHRA PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.srigaayathricol.edu.in",
+      "address": "Opp. Government ITI, Mulugu X Roads, Hanamkonda, Warangal - 506002, Telangana, India",
+      "phone": "0870-2558080 / +91-9849285080",
+      "website": "https://www.srigaayathricolleges.in",
       "rating": 4.5,
       "reviews": 139,
       "type": "Private",
@@ -40594,13 +40597,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRI%20GAAYATHRI%20COLLEGE%20OF%20MANAGEMENT%20SCIENCES%20WARANGAL%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://img.jagranjosh.com/images/2024/September/1992024/cmadus view,.w2m.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://img.jagranjosh.com/images/2024/September/1992024/cmadus view,.w2m.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Kakatiya University (KU, Warangal) & Approved by AICTE",
       "courses": [
         {
           "title": "MCA",
@@ -40624,9 +40627,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://img.jagranjosh.com/images/2024/September/1992024/cmadus view,.w2m.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20GAAYATHRI%20COLLEGE%20OF%20MANAGEMENT%20SCIENCES%20WARANGAL%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20GAAYATHRI%20COLLEGE%20OF%20MANAGEMENT%20SCIENCES%20WARANGAL%20Telangana",
+      "email": "srigaayathri@gmail.com"
     },
     {
       "id": 606,
@@ -40792,16 +40796,16 @@
     },
     {
       "id": 609,
-      "name": "NATIONAL INSTITUTE OF RURAL DEVELOPMENT AND PANCHAYATI RAJ",
+      "name": "National Institute of Rural Development and Panchayati Raj (NIRDPR), Hyderabad",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
-      "address": "RAJENDRANAGAR HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.nationalinstitu.edu.in",
+      "address": "National Institute of Rural Development and Panchayati Raj, Rajendranagar, Hyderabad - 500030, Telangana, India",
+      "phone": "+91-40-24008526 / 040-24008441",
+      "website": "https://nirdpr.org.in",
       "rating": 4.5,
       "reviews": 139,
-      "type": "Private",
+      "type": "Public/Government (Autonomous Central Apex Institution)",
       "about": "Welcome to NATIONAL INSTITUTE OF RURAL DEVELOPMENT AND PANCHAYATI RAJ, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 66,
       "facebook": "#",
@@ -40810,13 +40814,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20RURAL%20DEVELOPMENT%20AND%20PANCHAYATI%20RAJ%20RANGAREDDI%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/vjti_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://cdn.siasat.com/wp-content/uploads/2019/10/Architectural-consultant-required-for-NIRDPR-project-min.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Ministry of Rural Development, Govt. of India & Approved by AICTE",
       "courses": [
         {
           "title": "PGDM(RURAL MANAGEMENT)",
@@ -40840,10 +40844,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/vjti_mumbai.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_9.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20RURAL%20DEVELOPMENT%20AND%20PANCHAYATI%20RAJ%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "email": "dec@nird.gov.in"
     },
     {
       "id": 610,
@@ -41065,13 +41070,13 @@
     },
     {
       "id": 614,
-      "name": "RKLK PG COLLEGE",
+      "name": "RKLK PG College, Suryapet",
       "shortName": "Course Institute-1",
       "location": "NALGONDA",
       "state": "Telangana",
-      "address": "BEHIND GANDHI PARK,SURYAPET, NALGONDA DIST.508213.A.P.",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=RKLK%20PG%20COLLEGE%20official%20website%20NALGONDA%20Telangana",
+      "address": "Behind Gandhi Park, Suryapet, Suryapet District (formerly Nalgonda) - 508213, Telangana, India",
+      "phone": "+91 9963298283 / 08684-221382",
+      "website": "http://www.rklkpgcollege.com",
       "rating": 4.5,
       "reviews": 256,
       "type": "Private",
@@ -41083,13 +41088,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=RKLK%20PG%20COLLEGE%20NALGONDA%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/nagarjuna-government-college-nalgonda-339285.webp",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/nagarjuna-government-college-nalgonda-339285.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, affiliated with JNTUH / MGU Nalgonda, ICET Code: RKLK",
       "courses": [
         {
           "title": "MBA",
@@ -41113,9 +41118,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/nagarjuna-government-college-nalgonda-339285.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RKLK%20PG%20COLLEGE%20NALGONDA%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RKLK%20PG%20COLLEGE%20NALGONDA%20Telangana",
+      "email": "rklk.mba@gmail.com"
     },
     {
       "id": 615,
@@ -41935,13 +41941,13 @@
     },
     {
       "id": 630,
-      "name": "AURORA'S PG COLLEGE (MBA), BANDLAGUDA, HYDERABAD",
+      "name": "Aurora's PG College (MBA), Bandlaguda, Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
-      "address": "BANDLAGUDA, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.auroraspgcolleg.edu.in",
+      "address": "Aurora's PG College, Bandlaguda, Chandrayangutta, Hyderabad - 500005, Telangana, India",
+      "phone": "040-24440056 / +91-9100000256",
+      "website": "https://www.apgcc.edu.in",
       "rating": 4.5,
       "reviews": 314,
       "type": "Private",
@@ -41953,13 +41959,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20PG%20COLLEGE%20(MBA)%2C%20BANDLAGUDA%2C%20HYDERABAD%20HYDERABAD%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://cdn.universitykart.com/Content/upload/admin/biy4ycwm.jvl.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://assets.collegedunia.com/public/image/home_sc_img6_60e37bec84c8fa6b27123a3e3147937c.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Osmania University & Approved by AICTE, ICET Code: APGB",
       "courses": [
         {
           "title": "MCA",
@@ -41983,19 +41989,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://cdn.universitykart.com/Content/upload/admin/biy4ycwm.jvl.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20PG%20COLLEGE%20(MBA)%2C%20BANDLAGUDA%2C%20HYDERABAD%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20PG%20COLLEGE%20(MBA)%2C%20BANDLAGUDA%2C%20HYDERABAD%20HYDERABAD%20Telangana",
+      "email": "info@aurora.edu.in"
     },
     {
       "id": 631,
-      "name": "MESCO INSTITUTE OF MANAGEMENT & COMP SCIENCES",
+      "name": "Mesco Institute of Management and Computer Sciences (MIMCS), Hyderabad",
       "shortName": "Course Institute-1",
       "location": "Hyderabad",
       "state": "Telangana",
-      "address": "# 13-5-741, Mustaidpura, Karwan Road, Hyderabad, Telangana 500006",
-      "phone": "0123-456789",
-      "website": "https://www.mescoinstituteo.edu.in",
+      "address": "MESCO Educational Complex, Mustaidpura, Karwan Road, Hyderabad - 500006, Telangana, India",
+      "phone": "040-24828434 / +91 9059060991",
+      "website": "https://www.mesco.org.in",
       "rating": 4.5,
       "reviews": 226,
       "type": "Private",
@@ -42007,13 +42014,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MESCO%20INSTITUTE%20OF%20MANAGEMENT%20%26%20COMP%20SCIENCES%20Hyderabad%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Mesco_Institute_of_Management_and_Computer_SciencesHyderabad.jpg?width=1080",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/Mesco_Institute_of_Management_and_Computer_SciencesHyderabad.jpg?width=1080",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Osmania University & Approved by AICTE, ICET Code: MEST",
       "courses": [
         {
           "title": "MCA",
@@ -42037,9 +42044,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Mesco_Institute_of_Management_and_Computer_SciencesHyderabad.jpg?width=1080",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MESCO%20INSTITUTE%20OF%20MANAGEMENT%20%26%20COMP%20SCIENCES%20Hyderabad%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MESCO%20INSTITUTE%20OF%20MANAGEMENT%20%26%20COMP%20SCIENCES%20Hyderabad%20Telangana",
+      "email": "mescomba@gmail.com"
     },
     {
       "id": 632,
@@ -42153,13 +42161,13 @@
     },
     {
       "id": 634,
-      "name": "GAUTHAMI PG COLLEGE",
+      "name": "Gauthami PG College, Nizamabad",
       "shortName": "Course Institute-1",
       "location": "NIZAMABAD",
       "state": "Telangana",
-      "address": "HYDERABAD ROAD MADHAVNAGAR NIZAMABAD",
-      "phone": "0123-456789",
-      "website": "https://www.gauthamipgcolle.edu.in",
+      "address": "Pangra (V), Near Madhava Nagar, Hyderabad Road, Nizamabad - 503230, Telangana, India",
+      "phone": "08462-234600 / 08462-220340",
+      "website": "https://www.gauthamidegreeandpgcollege.com",
       "rating": 4.5,
       "reviews": 54,
       "type": "Private",
@@ -42171,13 +42179,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GAUTHAMI%20PG%20COLLEGE%20NIZAMABAD%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.gitamw.ac.in/media/facility-image/DJI_20241129163002_0219_D.JPG",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.gitamw.ac.in/media/facility-image/DJI_20241129163002_0219_D.JPG",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Telangana University, Nizamabad & Approved by AICTE, ICET Code: GAUM",
       "courses": [
         {
           "title": "MBA",
@@ -42201,9 +42209,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.gitamw.ac.in/media/facility-image/DJI_20241129163002_0219_D.JPG",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GAUTHAMI%20PG%20COLLEGE%20NIZAMABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GAUTHAMI%20PG%20COLLEGE%20NIZAMABAD%20Telangana",
+      "email": "gauthamidegreecollege@rediffmail.com"
     },
     {
       "id": 635,
@@ -43027,16 +43036,16 @@
     },
     {
       "id": 649,
-      "name": "PRESIDENCY COLLEGE",
+      "name": "Presidency College (Autonomous), Chennai",
       "shortName": "Course Institute-1",
       "location": "CHENNAI",
       "state": "Tamil Nadu",
-      "address": "100,KAMARAJAR SALAI,TRIPLICANE",
-      "phone": "0123-456789",
-      "website": "https://www.presidencycolle.edu.in",
+      "address": "#100, Kamarajar Salai, Chepauk, Chennai - 600005, Tamil Nadu, India",
+      "phone": "044-28544894 / 044-28586401",
+      "website": "https://www.pcc.ac.in",
       "rating": 4.9,
       "reviews": 127,
-      "type": "Private",
+      "type": "Public/Government (Autonomous Government Arts College)",
       "about": "Welcome to PRESIDENCY COLLEGE, a premier institute located in CHENNAI. We offer world-class education and facilities for our students.",
       "ranking": 82,
       "facebook": "#",
@@ -43045,7 +43054,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PRESIDENCY%20COLLEGE%20CHENNAI%20Tamil%20Nadu",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://assets.kollegeapply.com/images/1751547355540-1552386252phpNOh2q7.jpeg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://assets.kollegeapply.com/images/1751547355540-1552386252phpNOh2q7.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -43079,9 +43088,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 127,
-      "image": "https://assets.kollegeapply.com/images/1751547355540-1552386252phpNOh2q7.jpeg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRESIDENCY%20COLLEGE%20CHENNAI%20Tamil%20Nadu"
+      "image": "/images/campuses/campus_architecture_6.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRESIDENCY%20COLLEGE%20CHENNAI%20Tamil%20Nadu",
+      "email": "contactus@pcc.ac.in",
+      "affiliation": "University of Madras (Autonomous), NAAC A+ Grade, NIRF Top 3 College in India"
     },
     {
       "id": 650,

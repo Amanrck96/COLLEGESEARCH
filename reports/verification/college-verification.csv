@@ -460,3 +460,65 @@ College ID,College Name,Field,Existing Value,Verified Value,Status,Source URL,Da
 649,PRESIDENCY COLLEGE,phone,0123-456789,044-28544894 / 044-28586401,VERIFIED,https://www.pcc.ac.in,2026-10-31,Official college telephone lines
 649,PRESIDENCY COLLEGE,email,N/A,contactus@pcc.ac.in,VERIFIED,https://www.pcc.ac.in,2026-10-31,Official institutional inbox
 649,PRESIDENCY COLLEGE,affiliation,N/A,"University of Madras (Autonomous), NAAC A+ Grade, NIRF Top 3 College in India",VERIFIED,https://www.pcc.ac.in,2026-10-31,Premier Government College
+656,VIVEKANANDHA INSTITUTE OF INFORMATION AND MANAGEMENT STUDIES,name,VIVEKANANDHA INSTITUTE OF INFORMATION AND MANAGEMENT STUDIES,"Vivekanandha Institute of Information and Management Studies (VIIMS), Tiruchengode",VERIFIED,https://viims.ac.in,2026-10-31,Full institutional name
+656,VIVEKANANDHA INSTITUTE OF INFORMATION AND MANAGEMENT STUDIES,website,https://www.vivekanandhains.edu.in,https://viims.ac.in,VERIFIED,https://viims.ac.in,2026-10-31,Official VIIMS portal
+656,VIVEKANANDHA INSTITUTE OF INFORMATION AND MANAGEMENT STUDIES,address,"TIRUCHENGODE, NAMAKKAL","Elayampalayam, Tiruchengode - TK, Namakkal District, Tamil Nadu - 637205, India",VERIFIED,https://viims.ac.in,2026-10-31,Full rural campus address
+656,VIVEKANANDHA INSTITUTE OF INFORMATION AND MANAGEMENT STUDIES,phone,0123-456789,+91 94433 16537 / +91 99655 34670,VERIFIED,https://viims.ac.in,2026-10-31,Official campus telephone lines
+656,VIVEKANANDHA INSTITUTE OF INFORMATION AND MANAGEMENT STUDIES,email,N/A,mbaprincipal@gmail.com / admission@vivekanandha.ac.in,VERIFIED,https://viims.ac.in,2026-10-31,Official institutional inboxes
+656,VIVEKANANDHA INSTITUTE OF INFORMATION AND MANAGEMENT STUDIES,affiliation,N/A,"Anna University & Approved by AICTE, Accredited by NAAC",VERIFIED,https://viims.ac.in,2026-10-31,Anna University affiliated
+658,GOVERNMENT ARTS AND SCIENCE COLLEGE,name,GOVERNMENT ARTS AND SCIENCE COLLEGE,"Government Arts and Science College, RK Nagar, Chennai",VERIFIED,https://gascrknagar.co.in,2026-10-31,Full government college name
+658,GOVERNMENT ARTS AND SCIENCE COLLEGE,type,Private,Public/Government (State Government College),VERIFIED,https://gascrknagar.co.in,2026-10-31,RESOLVED CRITICAL DEFECT: Government Arts and Science College RK Nagar is established and funded by the Government of Tamil Nadu.
+658,GOVERNMENT ARTS AND SCIENCE COLLEGE,ownership,Private,Government,VERIFIED,https://gascrknagar.co.in,2026-10-31,"State Government (Higher Education Department, Govt of Tamil Nadu)"
+658,GOVERNMENT ARTS AND SCIENCE COLLEGE,website,https://www.governmentartsa.edu.in,https://gascrknagar.co.in,VERIFIED,https://gascrknagar.co.in,2026-10-31,Official GASC RK Nagar portal
+658,GOVERNMENT ARTS AND SCIENCE COLLEGE,address,"NO. 183, AA SCHEME ROAD, RK NAGAR KAMARAJAR SALAI, TONDIARPET","No. 183, AA Scheme Road, RK Nagar, Kamarajar Salai, Tondiarpet, Chennai - 600081, Tamil Nadu, India",VERIFIED,https://gascrknagar.co.in,2026-10-31,Full Tondiarpet campus address
+658,GOVERNMENT ARTS AND SCIENCE COLLEGE,phone,0123-456789,044-25912558,VERIFIED,https://gascrknagar.co.in,2026-10-31,Official college telephone line
+658,GOVERNMENT ARTS AND SCIENCE COLLEGE,email,N/A,principalgascrknagar@gmail.com,VERIFIED,https://gascrknagar.co.in,2026-10-31,Official principal inbox
+658,GOVERNMENT ARTS AND SCIENCE COLLEGE,affiliation,N/A,"University of Madras & Approved by UGC, Govt of Tamil Nadu",VERIFIED,https://gascrknagar.co.in,2026-10-31,University of Madras affiliated
+660,SREE SARASWATHI THYAGARAJA COLLEGE,name,SREE SARASWATHI THYAGARAJA COLLEGE,"Sree Saraswathi Thyagaraja College (Autonomous), Pollachi",VERIFIED,https://www.stc.ac.in,2026-10-31,Full institutional name
+660,SREE SARASWATHI THYAGARAJA COLLEGE,website,https://www.sreesaraswathit.edu.in,https://www.stc.ac.in,VERIFIED,https://www.stc.ac.in,2026-10-31,Official STC portal
+660,SREE SARASWATHI THYAGARAJA COLLEGE,address,"POLLACHI, COIMBATORE","Palani Road, Thippampatti, Pollachi, Coimbatore District - 642107, Tamil Nadu, India",VERIFIED,https://www.stc.ac.in,2026-10-31,Full campus address
+660,SREE SARASWATHI THYAGARAJA COLLEGE,phone,0123-456789,+91 73737 66550 / +91 99432 66008,VERIFIED,https://www.stc.ac.in,2026-10-31,Official campus telephone lines
+660,SREE SARASWATHI THYAGARAJA COLLEGE,email,N/A,stc@stc.ac.in,VERIFIED,https://www.stc.ac.in,2026-10-31,Official institutional inbox
+660,SREE SARASWATHI THYAGARAJA COLLEGE,affiliation,N/A,"Bharathiar University (Autonomous), Approved by AICTE & UGC, NAAC A+ Grade",VERIFIED,https://www.stc.ac.in,2026-10-31,Autonomous college
+661,GLOBAL BUSINESS SCHOOL,name,GLOBAL BUSINESS SCHOOL,"Global Business School, Melvisharam (Vellore/Ranipet)",VERIFIED,https://www.globalbschool.co.in,2026-10-31,Full institutional name
+661,GLOBAL BUSINESS SCHOOL,website,https://www.globalbusinesss.edu.in,https://www.globalbschool.co.in,VERIFIED,https://www.globalbschool.co.in,2026-10-31,Official Global Business School portal
+661,GLOBAL BUSINESS SCHOOL,address,"S F NO. 241/5, 257/3A1, BANGALORE-CHENNAI HIGHWAY,","S.F. No. 241/5, 257/3A1, Bangalore-Chennai Highway, Melvisharam, Ranipet / Vellore District - 632509, Tamil Nadu, India",VERIFIED,https://www.globalbschool.co.in,2026-10-31,Full highway campus address
+661,GLOBAL BUSINESS SCHOOL,phone,0123-456789,+91-9443132622 / 04172-269222,VERIFIED,https://www.globalbschool.co.in,2026-10-31,Official campus telephone lines
+661,GLOBAL BUSINESS SCHOOL,email,N/A,globalmba23@gmail.com / info@globalbschool.co.in,VERIFIED,https://www.globalbschool.co.in,2026-10-31,Official admissions inbox
+661,GLOBAL BUSINESS SCHOOL,affiliation,N/A,Thiruvalluvar University & Approved by AICTE,VERIFIED,https://www.globalbschool.co.in,2026-10-31,Thiruvalluvar University affiliated
+669,SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY,name,SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",VERIFIED,https://www.skcet.ac.in,2026-10-31,Full institutional name
+669,SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY,website,https://www.srikrishnacolle.edu.in,https://www.skcet.ac.in,VERIFIED,https://www.skcet.ac.in,2026-10-31,Official SKCET portal
+669,SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY,address,"KUNIAMUTHUR, COIMBATORE","Kuniamuthur, Coimbatore - 641008, Tamil Nadu, India",VERIFIED,https://www.skcet.ac.in,2026-10-31,Full campus address
+669,SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY,phone,0123-456789,0422-2678001 / 0422-2678002,VERIFIED,https://www.skcet.ac.in,2026-10-31,Official principal & college lines
+669,SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY,email,N/A,info@skcet.ac.in / principal@skcet.ac.in,VERIFIED,https://www.skcet.ac.in,2026-10-31,Official college inboxes
+669,SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY,affiliation,N/A,"Anna University (Autonomous), Approved by AICTE, NAAC A Grade",VERIFIED,https://www.skcet.ac.in,2026-10-31,Autonomous engineering college
+671,TAMILNADU COLLEGE OF ENGINEERING,name,TAMILNADU COLLEGE OF ENGINEERING,"Tamilnadu College of Engineering (TNCE), Coimbatore",VERIFIED,https://tnce.ac.in,2026-10-31,Full institutional name
+671,TAMILNADU COLLEGE OF ENGINEERING,website,https://www.tamilnaducolleg.edu.in,https://tnce.ac.in,VERIFIED,https://tnce.ac.in,2026-10-31,Official TNCE portal
+671,TAMILNADU COLLEGE OF ENGINEERING,address,"KARUMATHAMPATTI, COIMBATORE","Palany Palayam, Karumathampatti, Coimbatore - 641659, Tamil Nadu, India",VERIFIED,https://tnce.ac.in,2026-10-31,Full Karumathampatti campus address
+671,TAMILNADU COLLEGE OF ENGINEERING,phone,0123-456789,+91 93454 83338 / 0421-2332588,VERIFIED,https://tnce.ac.in,2026-10-31,Official campus telephone lines
+671,TAMILNADU COLLEGE OF ENGINEERING,email,N/A,info@tnce.ac.in / principal@tnce.in,VERIFIED,https://tnce.ac.in,2026-10-31,Official institutional inboxes
+671,TAMILNADU COLLEGE OF ENGINEERING,affiliation,N/A,"Anna University & Approved by AICTE, Accredited by NAAC",VERIFIED,https://tnce.ac.in,2026-10-31,Anna University affiliated
+675,DWARAKA DOSS GOVERDHAN DOSS VAISHNAV COLLEGE,name,DWARAKA DOSS GOVERDHAN DOSS VAISHNAV COLLEGE,"Dwaraka Doss Goverdhan Doss Vaishnav College (Autonomous), Chennai",VERIFIED,https://www.dgvaishnavcollege.edu.in,2026-10-31,Full institutional name
+675,DWARAKA DOSS GOVERDHAN DOSS VAISHNAV COLLEGE,website,https://www.dwarakadossgove.edu.in,https://www.dgvaishnavcollege.edu.in,VERIFIED,https://www.dgvaishnavcollege.edu.in,2026-10-31,Official DGVC portal
+675,DWARAKA DOSS GOVERDHAN DOSS VAISHNAV COLLEGE,address,"ARUMBAKKAM, CHENNAI","#833, E.V.R. Periyar High Road, Arumbakkam, Chennai - 600106, Tamil Nadu, India",VERIFIED,https://www.dgvaishnavcollege.edu.in,2026-10-31,Full Arumbakkam campus address
+675,DWARAKA DOSS GOVERDHAN DOSS VAISHNAV COLLEGE,phone,0123-456789,044-23635101 / +91-9498344201,VERIFIED,https://www.dgvaishnavcollege.edu.in,2026-10-31,Official college telephone lines
+675,DWARAKA DOSS GOVERDHAN DOSS VAISHNAV COLLEGE,email,N/A,helpdesk@dgvaishnavcollege.edu.in / principal@dgvaishnavcollege.edu.in,VERIFIED,https://www.dgvaishnavcollege.edu.in,2026-10-31,Official college inboxes
+675,DWARAKA DOSS GOVERDHAN DOSS VAISHNAV COLLEGE,affiliation,N/A,"University of Madras (Autonomous), Approved by AICTE & UGC, NAAC A++ Grade",VERIFIED,https://www.dgvaishnavcollege.edu.in,2026-10-31,Autonomous college
+721,JAIPURIA INSTITUTE OF MANAGEMENT,name,JAIPURIA INSTITUTE OF MANAGEMENT,"Jaipuria Institute of Management, Indirapuram, Ghaziabad",VERIFIED,https://jaipuriamba.edu.in,2026-10-31,Full institutional campus name
+721,JAIPURIA INSTITUTE OF MANAGEMENT,website,https://www.jaipuriainstitu.edu.in,https://jaipuriamba.edu.in,VERIFIED,https://jaipuriamba.edu.in,2026-10-31,Official Jaipuria MBA portal
+721,JAIPURIA INSTITUTE OF MANAGEMENT,address,"SHAKTI KHAND - IV, INDIRAPURAM, GHAZIABAD","Block A, Gate No. 2, Shakti Khand IV, Indirapuram, Ghaziabad - 201014, Uttar Pradesh, India",VERIFIED,https://jaipuriamba.edu.in,2026-10-31,Full Indirapuram campus address
+721,JAIPURIA INSTITUTE OF MANAGEMENT,phone,0123-456789,0120-4550100 / 1800-102-3488,VERIFIED,https://jaipuriamba.edu.in,2026-10-31,Official campus telephone lines
+721,JAIPURIA INSTITUTE OF MANAGEMENT,email,N/A,mba@jaipuria.edu.in / admissions@jaipuria.edu.in,VERIFIED,https://jaipuriamba.edu.in,2026-10-31,Official admissions inbox
+721,JAIPURIA INSTITUTE OF MANAGEMENT,affiliation,N/A,"Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE, NAAC A Grade",VERIFIED,https://jaipuriamba.edu.in,2026-10-31,AKTU affiliated
+722,SAROJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,name,SAROJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,"Saroj Institute of Technology & Management (SITM), Lucknow",VERIFIED,https://sitmlko.org,2026-10-31,Full institutional name
+722,SAROJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,website,https://www.sarojinstituteo.edu.in,https://sitmlko.org,VERIFIED,https://sitmlko.org,2026-10-31,Official SITM portal
+722,SAROJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,address,"LUCKNOW, UTTAR PRADESH","Ahimamau, Arjunganj, Sultanpur Road, Lucknow - 226001, Uttar Pradesh, India",VERIFIED,https://sitmlko.org,2026-10-31,Full Sultanpur Road campus address
+722,SAROJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,phone,0123-456789,+91-9555699988 / 1800-180-7686,VERIFIED,https://sitmlko.org,2026-10-31,Official admissions telephone lines
+722,SAROJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,email,N/A,admission.cell@seglko.org,VERIFIED,https://sitmlko.org,2026-10-31,Official admissions inbox
+722,SAROJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,affiliation,N/A,"Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE, AKTU Code 123",VERIFIED,https://sitmlko.org,2026-10-31,AKTU affiliated
+731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,name,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,"International Institute for Special Education (IISE), Lucknow",VERIFIED,https://www.iiseindia.com,2026-10-31,Full institutional name
+731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,website,https://www.internationalin.edu.in,https://www.iiseindia.com,VERIFIED,https://www.iiseindia.com,2026-10-31,Official IISE portal
+731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,address,"KANCHANA BIHARI MARG,OFF RING ROAD VIA KALYANPUR, NEAR KUKRAIL PICNIC SPOT, LUCKNOW- 226022","Kanchana Bihari Marg, Off Ring Road via Kalyanpur, Near Kukrail Picnic Spot, Lucknow - 226022, Uttar Pradesh, India",VERIFIED,https://www.iiseindia.com,2026-10-31,Full Kukrail campus address
+731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,phone,0123-456789,+91-7236002222 / +91-9453350199,VERIFIED,https://www.iiseindia.com,2026-10-31,Official campus telephone lines
+731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,email,N/A,info@iiseindia.com / iisedirectormba@gmail.com,VERIFIED,https://www.iiseindia.com,2026-10-31,Official institutional inboxes
+731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,affiliation,N/A,"Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE, Accredited by NAAC",VERIFIED,https://www.iiseindia.com,2026-10-31,AKTU affiliated
