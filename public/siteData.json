@@ -124998,13 +124998,13 @@
     },
     {
       "id": 2025,
-      "name": "GOA INSTITUTE OF MANAGEMENT",
+      "name": "Goa Institute of Management",
       "shortName": "Course Institute-1",
       "location": "NORTH GOA",
       "state": "Goa",
-      "address": "SANQUELIM",
-      "phone": "0123-456789",
-      "website": "https://www.goainstituteofm.edu.in",
+      "address": "Poriem, Sattari, Sanquelim, Goa - 403505",
+      "phone": "+91-832-2366700",
+      "website": "https://gim.ac.in",
       "rating": 4.5,
       "reviews": 330,
       "type": "Private",
@@ -125016,7 +125016,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GOA%20INSTITUTE%20OF%20MANAGEMENT%20NORTH%20GOA%20Goa",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/goa-institute-of-management-north-goa-242940.webp",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.bits-pilani.ac.in/wp-content/uploads/NAB-5-scaled.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -125025,19 +125025,33 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹19.5 Lakhs",
+          "fee": "₹19.5 Lakhs",
+          "eligibility": "Graduation with 50% + CAT/XAT/GMAT",
           "type": "MANAGEMENT",
           "intake": 300
         },
         {
-          "title": "CIVIL ENGINEERING",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
+          "name": "PGDM-BDA",
+          "title": "PGDM Big Data Analytics",
+          "duration": "2 Years",
+          "fees": "₹19.5 Lakhs",
+          "fee": "₹19.5 Lakhs",
+          "eligibility": "Graduation with 50% + CAT/XAT/GMAT",
+          "type": "MANAGEMENT",
+          "intake": 120
+        },
+        {
+          "name": "PGDM-HCM",
+          "title": "PGDM Healthcare Management",
+          "duration": "2 Years",
+          "fees": "₹16.5 Lakhs",
+          "fee": "₹16.5 Lakhs",
+          "eligibility": "Graduation with 50% + CAT/XAT/GMAT",
+          "type": "MANAGEMENT",
           "intake": 60
         }
       ],
@@ -125054,9 +125068,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/goa-institute-of-management-north-goa-242940.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOA%20INSTITUTE%20OF%20MANAGEMENT%20NORTH%20GOA%20Goa"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOA%20INSTITUTE%20OF%20MANAGEMENT%20NORTH%20GOA%20Goa",
+      "city": "Sanquelim",
+      "email": "admin@gim.ac.in",
+      "verified": true
     },
     {
       "id": 2026,
@@ -125875,16 +125892,16 @@
     },
     {
       "id": 2041,
-      "name": "NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY IMPHAL",
+      "name": "National Institute of Electronics & Information Technology, Imphal",
       "shortName": "Course Institute-1",
       "location": "IMPHAL EAST",
       "state": "Manipur",
-      "address": "AKAMPAT,IMPHAL (E)-795001",
-      "phone": "0123-456789",
-      "website": "https://www.nationalinstitu.edu.in",
+      "address": "Akampat, P.O. Box 104, Imphal East, Manipur - 795001",
+      "phone": "+91-385-2454109",
+      "website": "https://nielit.gov.in/imphal/",
       "rating": 4.5,
       "reviews": 389,
-      "type": "Private",
+      "type": "Public/Government (Autonomous Central Government Institute)",
       "about": "Welcome to NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY IMPHAL, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 1,
       "facebook": "#",
@@ -125893,7 +125910,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20ELECTRONICS%20AND%20INFORMATION%20TECHNOLOGY%20IMPHAL%20IMPHAL%20EAST%20Manipur",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/None/NL7.jpg?width=1080",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/None/NL7.jpg?width=1080",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -125902,10 +125919,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "BCA/B.Sc Computer Science/IT or Graduation with Mathematics",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
@@ -125923,9 +125942,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/NL7.jpg?width=1080",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20ELECTRONICS%20AND%20INFORMATION%20TECHNOLOGY%20IMPHAL%20IMPHAL%20EAST%20Manipur"
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20ELECTRONICS%20AND%20INFORMATION%20TECHNOLOGY%20IMPHAL%20IMPHAL%20EAST%20Manipur",
+      "city": "Imphal",
+      "email": "dir-imphal@nielit.gov.in",
+      "verified": true
     },
     {
       "id": 2042,
@@ -127941,16 +127963,16 @@
     },
     {
       "id": 2079,
-      "name": "TRIPURA UNIVERSITY",
+      "name": "Tripura University",
       "shortName": "Course Institute-1",
       "location": "WEST TRIPURA",
       "state": "Tripura",
-      "address": "SURYAMANINAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.tripurauniversi.edu.in",
+      "address": "Suryamaninagar, Agartala, West Tripura - 799022",
+      "phone": "+91-381-2379002",
+      "website": "https://www.tripurauniv.ac.in",
       "rating": 4.5,
       "reviews": 197,
-      "type": "Private",
+      "type": "Public/Government (Central University)",
       "about": "Welcome to TRIPURA UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 16,
       "facebook": "#",
@@ -127959,7 +127981,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=TRIPURA%20UNIVERSITY%20WEST%20TRIPURA%20Tripura",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/chetana_bandra.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://pharmacampus.in/wp-content/uploads/2020/11/TRIPURA-UNIVERSITY-WEST-TRIPURA.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
@@ -127968,36 +127990,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 18
-        },
-        {
-          "title": "MBA(GENERAL MANAGEMENT)",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹75,000",
+          "fee": "₹75,000",
+          "eligibility": "Graduation with 50% + CUET-PG/MAT/CAT",
           "type": "MANAGEMENT",
           "intake": 60
         },
         {
-          "title": "CIVIL ENGINEERING",
-          "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "name": "B.Tech (ECE)",
+          "title": "B.Tech Electronics & Communication Engineering",
+          "duration": "4 Years",
+          "fees": "₹1.6 Lakhs",
+          "fee": "₹1.6 Lakhs",
+          "eligibility": "10+2 with Physics, Mathematics + JEE Main",
+          "type": "ENGINEERING",
+          "intake": 40
         },
         {
-          "title": "ELECTRONICS & COMMUNICATION ENGG",
+          "name": "B.Tech (EE)",
+          "title": "B.Tech Electrical Engineering",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1.6 Lakhs",
+          "fee": "₹1.6 Lakhs",
+          "eligibility": "10+2 with Physics, Mathematics + JEE Main",
+          "type": "ENGINEERING",
+          "intake": 40
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -128013,10 +128033,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/chetana_bandra.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_3.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=TRIPURA%20UNIVERSITY%20WEST%20TRIPURA%20Tripura",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Agartala",
+      "email": "admission_tu@tripurauniv.ac.in",
+      "verified": true
     },
     {
       "id": 2080,
@@ -128401,13 +128424,13 @@
     },
     {
       "id": 2087,
-      "name": "TECHNO INDIA UNIVERSITY TRIPURA",
+      "name": "Techno India University, Tripura",
       "shortName": "Course Institute-1",
       "location": "WEST TRIPURA",
       "state": "Tripura",
-      "address": "VILL- MAHESHKHOLA, PO- ANANDANAGAR, PS- AMTALI",
-      "phone": "0123-456789",
-      "website": "https://www.technoindiauniv.edu.in",
+      "address": "Maheshkhola, Anandanagar, Agartala, Tripura - 799004",
+      "phone": "+91-9230994080",
+      "website": "https://tiut.ac.in",
       "rating": 4.5,
       "reviews": 347,
       "type": "Private",
@@ -128419,7 +128442,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=TECHNO%20INDIA%20UNIVERSITY%20TRIPURA%20WEST%20TRIPURA%20Tripura",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://assets.kollegeapply.com/images/1751549088717-1688990665phpZ5dwIz.jpeg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://assets.kollegeapply.com/images/1751549088717-1688990665phpZ5dwIz.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -128428,10 +128451,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.8 Lakhs",
+          "fee": "₹1.8 Lakhs",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
@@ -128449,19 +128474,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://assets.kollegeapply.com/images/1751549088717-1688990665phpZ5dwIz.jpeg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TECHNO%20INDIA%20UNIVERSITY%20TRIPURA%20WEST%20TRIPURA%20Tripura"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TECHNO%20INDIA%20UNIVERSITY%20TRIPURA%20WEST%20TRIPURA%20Tripura",
+      "city": "Agartala",
+      "email": "info@tiut.ac.in",
+      "verified": true
     },
     {
       "id": 2088,
-      "name": "HOLY CROSS COLLEGE AGARTALA",
+      "name": "Holy Cross College, Agartala",
       "shortName": "Course Institute-1",
       "location": "WEST TRIPURA",
       "state": "Tripura",
-      "address": "JUBATARA, P.O. LEMBUCHERRA, AGARTALA, WEST TRIPURA",
-      "phone": "0123-456789",
-      "website": "https://www.holycrosscolleg.edu.in",
+      "address": "Jubatara, Lembucherra P.O., Mohanpur Road, Agartala, West Tripura - 799210",
+      "phone": "+91-9402315672",
+      "website": "https://hccagt.ac.in",
       "rating": 4.5,
       "reviews": 217,
       "type": "Private",
@@ -128473,7 +128501,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=HOLY%20CROSS%20COLLEGE%20AGARTALA%20WEST%20TRIPURA%20Tripura",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://hccagt.ac.in/images/ok.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://hccagt.ac.in/images/ok.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -128482,10 +128510,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹2.2 Lakhs",
+          "fee": "₹2.2 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/XAT",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -128503,9 +128533,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://hccagt.ac.in/images/ok.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HOLY%20CROSS%20COLLEGE%20AGARTALA%20WEST%20TRIPURA%20Tripura"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HOLY%20CROSS%20COLLEGE%20AGARTALA%20WEST%20TRIPURA%20Tripura",
+      "city": "Agartala",
+      "email": "principal@hccagt.ac.in",
+      "verified": true
     },
     {
       "id": 2089,
@@ -128857,13 +128890,13 @@
     },
     {
       "id": 2095,
-      "name": "INSTITUTE OF HOSPITALITY MANAGEMENT AND SCIENCES",
+      "name": "Institute of Hospitality, Management and Sciences",
       "shortName": "Course Institute-1",
       "location": "PAURI GARHWAL",
       "state": "Uttarakhand",
-      "address": "IHMS BALBHADRAPUR, B.E.L ROAD KOTDWAR",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofhosp.edu.in",
+      "address": "Balbhadrapur, B.E.L. Road, Kotdwar, Pauri Garhwal, Uttarakhand - 246149",
+      "phone": "+91-7902000023",
+      "website": "https://www.ihms.ac.in",
       "rating": 4.5,
       "reviews": 292,
       "type": "Private",
@@ -128884,10 +128917,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "BCA / B.Sc with Mathematics with 50%",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
@@ -128908,7 +128943,10 @@
       "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20HOSPITALITY%20MANAGEMENT%20AND%20SCIENCES%20PAURI%20GARHWAL%20Uttarakhand",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Kotdwar",
+      "email": "info@ihms.ac.in",
+      "verified": true
     },
     {
       "id": 2096,
@@ -129566,13 +129604,13 @@
     },
     {
       "id": 2108,
-      "name": "INSTITUTE OF MANAGEMENT EDUCATION & CONSULTANCY",
+      "name": "Institute of Management Education & Consultancy",
       "shortName": "Course Institute-1",
       "location": "UDHAM SINGH NAGAR",
       "state": "Uttarakhand",
-      "address": "89/1, BINDUKHERA",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofmana.edu.in",
+      "address": "New Ring Road, Bindukhera Road, Rudrapur, Udham Singh Nagar, Uttarakhand - 263153",
+      "phone": "+91-9811749947",
+      "website": "https://imecrudrapur.in",
       "rating": 4.5,
       "reviews": 96,
       "type": "Private",
@@ -129584,7 +129622,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20EDUCATION%20%26%20CONSULTANCY%20UDHAM%20SINGH%20NAGAR%20Uttarakhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/primus_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.euttaranchal.com/icms/cms-photos/Institute-of-Management-Education-Consultancy-IMEC-Rudrapur.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
@@ -129593,12 +129631,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹2.2 Lakhs",
+          "fee": "₹2.2 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/CMAT",
           "type": "MANAGEMENT",
-          "intake": 30
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -129614,10 +129654,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/primus_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20EDUCATION%20%26%20CONSULTANCY%20UDHAM%20SINGH%20NAGAR%20Uttarakhand",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Rudrapur",
+      "email": "info@imecrudrapur.in",
+      "verified": true
     },
     {
       "id": 2109,
@@ -129676,16 +129719,16 @@
     },
     {
       "id": 2110,
-      "name": "FACULTY OF MANAGEMENT",
+      "name": "Faculty of Management, VMSB Uttarakhand Technical University",
       "shortName": "Course Institute-1",
       "location": "DEHRADUN",
       "state": "Uttarakhand",
-      "address": "UTTARAKHAND TECHNICAL UNIVERSITY POST OFFICE, CHANDANWADI, PREM NAGAR SUDHOWALA, DEHRADUN (UTTARAKHAND) PIN â 248007",
-      "phone": "0123-456789",
-      "website": "https://www.facultyofmanage.edu.in",
+      "address": "NH-72, Suddhowala, Post Office: Chandanwadi, Prem Nagar, Dehradun, Uttarakhand - 248007",
+      "phone": "+91-135-2774067",
+      "website": "https://uktech.ac.in",
       "rating": 4.5,
       "reviews": 441,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to FACULTY OF MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 19,
       "facebook": "#",
@@ -129694,7 +129737,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=FACULTY%20OF%20MANAGEMENT%20DEHRADUN%20Uttarakhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/ramaiah_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.euttaranchal.com/icms/cms-photos/ims-dehradun.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -129703,10 +129746,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA (FINANCE MARKETING AND HUMAN RESOURCE MANAGEMENT)",
+          "name": "MBA",
+          "title": "MBA Finance, Marketing & Human Resource Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.3 Lakhs",
+          "fee": "₹1.3 Lakhs",
+          "eligibility": "Graduation with 50% + UKSEE/CAT/MAT",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -129724,10 +129769,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/ramaiah_bangalore.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=FACULTY%20OF%20MANAGEMENT%20DEHRADUN%20Uttarakhand",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Dehradun",
+      "email": "coordinatorfom@uktech.ac.in",
+      "verified": true
     },
     {
       "id": 2111,
@@ -131975,13 +132023,13 @@
     },
     {
       "id": 2152,
-      "name": "SARASWATI INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+      "name": "Saraswati Institute of Management & Technology",
       "shortName": "Course Institute-1",
       "location": "UDHAM SINGH NAGAR",
       "state": "Uttarakhand",
-      "address": "N.H. 74, 12 KM. RUDRAPUR-GADARPUR ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.saraswatiinstit.edu.in",
+      "address": "NH-74, 12 KM Rudrapur-Gadarpur Road, Rudrapur, Udham Singh Nagar, Uttarakhand - 263152",
+      "phone": "+91-9756163000",
+      "website": "http://www.simtrdr.in",
       "rating": 4.5,
       "reviews": 176,
       "type": "Private",
@@ -131993,7 +132041,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SARASWATI%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20UDHAM%20SINGH%20NAGAR%20Uttarakhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://img.jagranjosh.com/images/2024/March/532024/Saraswati-Institute-of-Technology-and-Management-Lucknow3.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://img.jagranjosh.com/images/2024/March/532024/Saraswati-Institute-of-Technology-and-Management-Lucknow3.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
@@ -132002,12 +132050,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.5 Lakhs",
+          "fee": "₹1.5 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/UKSEE",
           "type": "MANAGEMENT",
-          "intake": 90
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -132023,9 +132073,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://img.jagranjosh.com/images/2024/March/532024/Saraswati-Institute-of-Technology-and-Management-Lucknow3.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SARASWATI%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20UDHAM%20SINGH%20NAGAR%20Uttarakhand"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SARASWATI%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20UDHAM%20SINGH%20NAGAR%20Uttarakhand",
+      "city": "Rudrapur",
+      "email": "info@simtrdr.in",
+      "verified": true
     },
     {
       "id": 2153,
@@ -132410,13 +132463,13 @@
     },
     {
       "id": 2160,
-      "name": "BRD COLLEGE OF MANAGEMENT AND SCIENCES",
+      "name": "BRD College of Management and Sciences",
       "shortName": "Course Institute-1",
       "location": "HARIDWAR",
       "state": "Uttarakhand",
-      "address": "7 KM MILESTONE ROORKEE- DEHRADUN HIGHWAY",
-      "phone": "0123-456789",
-      "website": "https://www.brdcollegeofman.edu.in",
+      "address": "7 KM Milestone, Roorkee-Dehradun Highway, Saliyar, Roorkee, District Haridwar, Uttarakhand - 247667",
+      "phone": "+91-9897065920",
+      "website": "https://brdcroorkee.in",
       "rating": 4.5,
       "reviews": 86,
       "type": "Private",
@@ -132428,7 +132481,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=BRD%20COLLEGE%20OF%20MANAGEMENT%20AND%20SCIENCES%20HARIDWAR%20Uttarakhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/gnims_matunga.png",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://f2.leadsquaredcdn.com/t/amritavishwa/content/common/images/Haridwar-Campus_.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -132437,12 +132490,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/UKSEE",
           "type": "MANAGEMENT",
-          "intake": 60
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -132458,10 +132513,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/gnims_matunga.png",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BRD%20COLLEGE%20OF%20MANAGEMENT%20AND%20SCIENCES%20HARIDWAR%20Uttarakhand",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Roorkee",
+      "email": "info@brdcroorkee.org",
+      "verified": true
     },
     {
       "id": 2161,

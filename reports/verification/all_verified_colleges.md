@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **220 / 12,660**  
-**Roadmap Progress**: **22.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **230 / 12,660**  
+**Roadmap Progress**: **23.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -339,4 +339,19 @@
 | **1934** | Himachal Pradesh Technical University | Public/Government (State University) | Hamirpur, Himachal Pradesh - 177001 | [www.himtu.ac.in](https://www.himtu.ac.in) |
 | **1961** | Gautam Institute of Management & Technology | Private | Hamirpur, Himachal Pradesh - 177001 | [www.ggchmr.com](https://www.ggchmr.com) |
 | **1971** | Himalayan Institute of Management | Private | District Sirmour, Himachal Pradesh - 173030 | [hgpi.in](https://hgpi.in) |
+
+### Batch 23 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2025** | Goa Institute of Management | Private | Sanquelim, Goa - 403505 | [gim.ac.in](https://gim.ac.in) |
+| **2041** | National Institute of Electronics & Information Technology, Imphal | Public/Government (Autonomous Central Government Institute) | Imphal East, Manipur - 795001 | [nielit.gov.in](https://nielit.gov.in/imphal/) |
+| **2079** | Tripura University | Public/Government (Central University) | Agartala, West Tripura - 799022 | [www.tripurauniv.ac.in](https://www.tripurauniv.ac.in) |
+| **2087** | Techno India University, Tripura | Private | Agartala, Tripura - 799004 | [tiut.ac.in](https://tiut.ac.in) |
+| **2088** | Holy Cross College, Agartala | Private | Agartala, West Tripura - 799210 | [hccagt.ac.in](https://hccagt.ac.in) |
+| **2095** | Institute of Hospitality, Management and Sciences | Private | Pauri Garhwal, Uttarakhand - 246149 | [www.ihms.ac.in](https://www.ihms.ac.in) |
+| **2108** | Institute of Management Education & Consultancy | Private | Udham Singh Nagar, Uttarakhand - 263153 | [imecrudrapur.in](https://imecrudrapur.in) |
+| **2110** | Faculty of Management, VMSB Uttarakhand Technical University | Public/Government (State University Department) | Dehradun, Uttarakhand - 248007 | [uktech.ac.in](https://uktech.ac.in) |
+| **2152** | Saraswati Institute of Management & Technology | Private | Udham Singh Nagar, Uttarakhand - 263152 | [www.simtrdr.in](http://www.simtrdr.in) |
+| **2160** | BRD College of Management and Sciences | Private | District Haridwar, Uttarakhand - 247667 | [brdcroorkee.in](https://brdcroorkee.in) |
 

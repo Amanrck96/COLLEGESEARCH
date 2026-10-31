@@ -1,0 +1,192 @@
+[
+  {
+    "id": 2025,
+    "name": "GOA INSTITUTE OF MANAGEMENT",
+    "address": "SANQUELIM",
+    "state": "Goa",
+    "img": "https://www.collegebatch.com/static/clg-gallery/goa-institute-of-management-north-goa-242940.webp",
+    "website": "https://www.goainstituteofm.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2041,
+    "name": "NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY IMPHAL",
+    "address": "AKAMPAT,IMPHAL (E)-795001",
+    "state": "Manipur",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/None/NL7.jpg?width=1080",
+    "website": "https://www.nationalinstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2079,
+    "name": "TRIPURA UNIVERSITY",
+    "address": "SURYAMANINAGAR",
+    "state": "Tripura",
+    "img": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.tripurauniversi.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "ELECTRICAL ENGINEERING",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MBA(GENERAL MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "ELECTRONICS & COMMUNICATION ENGG",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2087,
+    "name": "TECHNO INDIA UNIVERSITY TRIPURA",
+    "address": "VILL- MAHESHKHOLA, PO- ANANDANAGAR, PS- AMTALI",
+    "state": "Tripura",
+    "img": "https://assets.kollegeapply.com/images/1751549088717-1688990665phpZ5dwIz.jpeg",
+    "website": "https://www.technoindiauniv.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2088,
+    "name": "HOLY CROSS COLLEGE AGARTALA",
+    "address": "JUBATARA, P.O. LEMBUCHERRA, AGARTALA, WEST TRIPURA",
+    "state": "Tripura",
+    "img": "https://hccagt.ac.in/images/ok.jpg",
+    "website": "https://www.holycrosscolleg.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2095,
+    "name": "INSTITUTE OF HOSPITALITY MANAGEMENT AND SCIENCES",
+    "address": "IHMS BALBHADRAPUR, B.E.L ROAD KOTDWAR",
+    "state": "Uttarakhand",
+    "img": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.instituteofhosp.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2108,
+    "name": "INSTITUTE OF MANAGEMENT EDUCATION & CONSULTANCY",
+    "address": "89/1, BINDUKHERA",
+    "state": "Uttarakhand",
+    "img": "/images/campuses/primus_bangalore.jpg",
+    "website": "https://www.instituteofmana.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2110,
+    "name": "FACULTY OF MANAGEMENT",
+    "address": "UTTARAKHAND TECHNICAL UNIVERSITY POST OFFICE, CHANDANWADI, PREM NAGAR SUDHOWALA, DEHRADUN (UTTARAKHAND) PIN â 248007",
+    "state": "Uttarakhand",
+    "img": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.facultyofmanage.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA (FINANCE MARKETING AND HUMAN RESOURCE MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2152,
+    "name": "SARASWATI INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "N.H. 74, 12 KM. RUDRAPUR-GADARPUR ROAD",
+    "state": "Uttarakhand",
+    "img": "https://img.jagranjosh.com/images/2024/March/532024/Saraswati-Institute-of-Technology-and-Management-Lucknow3.jpg",
+    "website": "https://www.saraswatiinstit.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2160,
+    "name": "BRD COLLEGE OF MANAGEMENT AND SCIENCES",
+    "address": "7 KM MILESTONE ROORKEE- DEHRADUN HIGHWAY",
+    "state": "Uttarakhand",
+    "img": "/images/campuses/gnims_matunga.png",
+    "website": "https://www.brdcollegeofman.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

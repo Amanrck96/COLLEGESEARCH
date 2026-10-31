@@ -1648,5 +1648,80 @@
         "website": "https://hgpi.in"
       }
     ]
+  },
+  {
+    "batch": 23,
+    "items": [
+      {
+        "id": 2025,
+        "name": "Goa Institute of Management",
+        "type": "Private",
+        "location": "Sanquelim, Goa - 403505",
+        "website": "https://gim.ac.in"
+      },
+      {
+        "id": 2041,
+        "name": "National Institute of Electronics & Information Technology, Imphal",
+        "type": "Public/Government (Autonomous Central Government Institute)",
+        "location": "Imphal East, Manipur - 795001",
+        "website": "https://nielit.gov.in/imphal/"
+      },
+      {
+        "id": 2079,
+        "name": "Tripura University",
+        "type": "Public/Government (Central University)",
+        "location": "Agartala, West Tripura - 799022",
+        "website": "https://www.tripurauniv.ac.in"
+      },
+      {
+        "id": 2087,
+        "name": "Techno India University, Tripura",
+        "type": "Private",
+        "location": "Agartala, Tripura - 799004",
+        "website": "https://tiut.ac.in"
+      },
+      {
+        "id": 2088,
+        "name": "Holy Cross College, Agartala",
+        "type": "Private",
+        "location": "Agartala, West Tripura - 799210",
+        "website": "https://hccagt.ac.in"
+      },
+      {
+        "id": 2095,
+        "name": "Institute of Hospitality, Management and Sciences",
+        "type": "Private",
+        "location": "Pauri Garhwal, Uttarakhand - 246149",
+        "website": "https://www.ihms.ac.in"
+      },
+      {
+        "id": 2108,
+        "name": "Institute of Management Education & Consultancy",
+        "type": "Private",
+        "location": "Udham Singh Nagar, Uttarakhand - 263153",
+        "website": "https://imecrudrapur.in"
+      },
+      {
+        "id": 2110,
+        "name": "Faculty of Management, VMSB Uttarakhand Technical University",
+        "type": "Public/Government (State University Department)",
+        "location": "Dehradun, Uttarakhand - 248007",
+        "website": "https://uktech.ac.in"
+      },
+      {
+        "id": 2152,
+        "name": "Saraswati Institute of Management & Technology",
+        "type": "Private",
+        "location": "Udham Singh Nagar, Uttarakhand - 263152",
+        "website": "http://www.simtrdr.in"
+      },
+      {
+        "id": 2160,
+        "name": "BRD College of Management and Sciences",
+        "type": "Private",
+        "location": "District Haridwar, Uttarakhand - 247667",
+        "website": "https://brdcroorkee.in"
+      }
+    ]
   }
 ]
