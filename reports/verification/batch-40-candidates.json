@@ -1,0 +1,177 @@
+[
+  {
+    "id": 3131,
+    "name": "L. N. MISHRA INSTITUTEOF ECONOMIC DEVELOPMENT AND SOCIAL CHANGE",
+    "address": "1, BAILEY ROAD",
+    "state": "Bihar",
+    "img": "https://www.collegebatch.com/static/clg-gallery/lalit-narayan-mishra-institute-of-economic-development-social-change-patna-347402.webp",
+    "website": "https://www.lnmishrainstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA(HUMAN RESOURCE DEVELOPMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3132,
+    "name": "UNIVERSITY DEPARTMENT OF COMMERCE AND BUSINESS ADMINISTRATION",
+    "address": "PRABANDHAN BHAWAN, KAMESHWARANAGAR,",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.universitydepar.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA(BUSINESS MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3137,
+    "name": "RAJAN MAMTA DEGREE COLLEGE",
+    "address": "AT JASOIYA MORE, OPPOSITE LIC BUILDING, RAPURA BHARTHAULI ROAD",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.rajanmamtadegre.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3140,
+    "name": "LALIT NARAYAN MISHRA INSTITUTE OF ECONOMIC DEVELOPMENT AND SOCIAL CHANGE",
+    "address": "1, BAILEY ROAD PATNA - 1 BIHAR",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.lalitnarayanmis.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3143,
+    "name": "ABC COLLEGE OF EDUCATION",
+    "address": "OPP MAULANA AZAD ENGINEERING COLLEGE, NEORA",
+    "state": "Bihar",
+    "img": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.abccollegeofedu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3153,
+    "name": "HIMALAYA COLLEGE OF PROFESSIONAL EDUCATION",
+    "address": "CHIKSI, PALIGANJ, PATNA, BIHAR",
+    "state": "Bihar",
+    "img": "/images/campuses/bunts_sangha_mumbai.jpeg",
+    "website": "https://www.google.com/search?q=HIMALAYA%20COLLEGE%20OF%20PROFESSIONAL%20EDUCATION%20official%20website%20PATNA%20Bihar",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3158,
+    "name": "MAGADH INSTITUTE OF TECHNOLOGY",
+    "address": "NASRIGANJ",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.magadhinstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3177,
+    "name": "CIMAGE CENTER OF DIGITAL TECHNOLOGY AND ENTREPRENEURSHIP",
+    "address": "PLOT NO- C10-11, PATLIPUTRA INDUSTRIAL AREA, OFF ATAL PATH, PATNA",
+    "state": "Bihar",
+    "img": "/images/campuses/sheila_raheja_bandra.webp",
+    "website": "https://www.cimagecenterofd.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3284,
+    "name": "VEER KUNWAR SINGH UNIVERSITY",
+    "address": "KATIRA",
+    "state": "Bihar",
+    "img": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.veerkunwarsingh.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3343,
+    "name": "SITYOG INSTITUTE OF MANAGEMENT",
+    "address": "GROWTH C ENTER, JASIOYA MORE",
+    "state": "Bihar",
+    "img": "https://management.sityog.edu.in/images/sityog-poltechnic5.png",
+    "website": "https://www.sityoginstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA (FINANCE)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

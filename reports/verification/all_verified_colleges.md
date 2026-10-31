@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **390 / 12,660**  
-**Roadmap Progress**: **39.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **400 / 12,660**  
+**Roadmap Progress**: **40.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -594,4 +594,19 @@
 | **3116** | Bindeshwar Singh (B.S.) College, Danapur | Public/Government (Constituent College) | Patna, Bihar - 801503 | [bscollegedanapur.ac.in](https://bscollegedanapur.ac.in) |
 | **3117** | Department of Business Administration, Sachchidanand Sinha College | Public/Government (Constituent College) | Aurangabad, Bihar - 824102 | [ssinhacollege.co.in](https://ssinhacollege.co.in) |
 | **3129** | College of Commerce, Arts & Science, Patna | Public/Government (Constituent College) | Patna, Bihar - 800020 | [cocaspatna.ac.in](https://cocaspatna.ac.in) |
+
+### Batch 40 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **3131** | Lalit Narayan Mishra Institute of Economic Development and Social Change (LNMI) | Public/Government (Autonomous) | Patna - 800001, Bihar | [lnmipat.ac.in](https://lnmipat.ac.in) |
+| **3132** | University Department of Commerce and Business Administration, LNMU | Public/Government | Darbhanga - 846004, Bihar | [lnmu.ac.in](https://lnmu.ac.in) |
+| **3137** | Rajan Mamta Degree College (RMDC) | Private | Aurangabad - 824101, Bihar | [rmdc.co.in](http://rmdc.co.in) |
+| **3140** | Lalit Narayan Mishra Institute of Economic Development and Social Change (LNMI - MBA Department) | Public/Government (Autonomous) | Patna - 800001, Bihar | [lnmipat.ac.in](https://lnmipat.ac.in) |
+| **3143** | ABC College of Education | Private | Patna - 801113, Bihar | [abcce.co.in](https://abcce.co.in) |
+| **3153** | Himalaya College of Professional Education (HCPE) | Private | Patna - 801110, Bihar | [hcpedu.in](https://hcpedu.in) |
+| **3158** | Magadh Institute of Technology (MIT) | Private | Patna - 801503, Bihar | [www.magadhinstituteoftechnology.com](https://www.magadhinstituteoftechnology.com) |
+| **3177** | CIMAGE Center of Digital Technology and Entrepreneurship (CCDTE) | Private | Patna - 800013, Bihar | [www.cimage.in](https://www.cimage.in) |
+| **3284** | Veer Kunwar Singh University (VKSU) | Public/Government | Bhojpur District, Bihar - 802301 | [vksu.ac.in](https://vksu.ac.in) |
+| **3343** | Sityog Institute of Management | Private | Aurangabad, Bihar - 824102 | [management.sityog.edu.in](https://management.sityog.edu.in) |
 

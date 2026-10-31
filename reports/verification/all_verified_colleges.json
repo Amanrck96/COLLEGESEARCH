@@ -2923,5 +2923,80 @@
         "website": "https://cocaspatna.ac.in"
       }
     ]
+  },
+  {
+    "batch": 40,
+    "items": [
+      {
+        "id": 3131,
+        "name": "Lalit Narayan Mishra Institute of Economic Development and Social Change (LNMI)",
+        "type": "Public/Government (Autonomous)",
+        "location": "Patna - 800001, Bihar",
+        "website": "https://lnmipat.ac.in"
+      },
+      {
+        "id": 3132,
+        "name": "University Department of Commerce and Business Administration, LNMU",
+        "type": "Public/Government",
+        "location": "Darbhanga - 846004, Bihar",
+        "website": "https://lnmu.ac.in"
+      },
+      {
+        "id": 3137,
+        "name": "Rajan Mamta Degree College (RMDC)",
+        "type": "Private",
+        "location": "Aurangabad - 824101, Bihar",
+        "website": "http://rmdc.co.in"
+      },
+      {
+        "id": 3140,
+        "name": "Lalit Narayan Mishra Institute of Economic Development and Social Change (LNMI - MBA Department)",
+        "type": "Public/Government (Autonomous)",
+        "location": "Patna - 800001, Bihar",
+        "website": "https://lnmipat.ac.in"
+      },
+      {
+        "id": 3143,
+        "name": "ABC College of Education",
+        "type": "Private",
+        "location": "Patna - 801113, Bihar",
+        "website": "https://abcce.co.in"
+      },
+      {
+        "id": 3153,
+        "name": "Himalaya College of Professional Education (HCPE)",
+        "type": "Private",
+        "location": "Patna - 801110, Bihar",
+        "website": "https://hcpedu.in"
+      },
+      {
+        "id": 3158,
+        "name": "Magadh Institute of Technology (MIT)",
+        "type": "Private",
+        "location": "Patna - 801503, Bihar",
+        "website": "https://www.magadhinstituteoftechnology.com"
+      },
+      {
+        "id": 3177,
+        "name": "CIMAGE Center of Digital Technology and Entrepreneurship (CCDTE)",
+        "type": "Private",
+        "location": "Patna - 800013, Bihar",
+        "website": "https://www.cimage.in"
+      },
+      {
+        "id": 3284,
+        "name": "Veer Kunwar Singh University (VKSU)",
+        "type": "Public/Government",
+        "location": "Bhojpur District, Bihar - 802301",
+        "website": "https://vksu.ac.in"
+      },
+      {
+        "id": 3343,
+        "name": "Sityog Institute of Management",
+        "type": "Private",
+        "location": "Aurangabad, Bihar - 824102",
+        "website": "https://management.sityog.edu.in"
+      }
+    ]
   }
 ]

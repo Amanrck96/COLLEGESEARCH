@@ -188936,16 +188936,16 @@
     },
     {
       "id": 3131,
-      "name": "L. N. MISHRA INSTITUTEOF ECONOMIC DEVELOPMENT AND SOCIAL CHANGE",
+      "name": "Lalit Narayan Mishra Institute of Economic Development and Social Change (LNMI)",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "1, BAILEY ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.lnmishrainstitu.edu.in",
+      "address": "1, Jawaharlal Nehru Marg (Bailey Road), Patna - 800001, Bihar",
+      "phone": "+91-612-2505200",
+      "website": "https://lnmipat.ac.in",
       "rating": 4.5,
       "reviews": 130,
-      "type": "Private",
+      "type": "Public/Government (Autonomous)",
       "about": "Welcome to L. N. MISHRA INSTITUTEOF ECONOMIC DEVELOPMENT AND SOCIAL CHANGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 63,
       "facebook": "#",
@@ -188954,7 +188954,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=L.%20N.%20MISHRA%20INSTITUTEOF%20ECONOMIC%20DEVELOPMENT%20AND%20SOCIAL%20CHANGE%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/lalit-narayan-mishra-institute-of-economic-development-social-change-patna-347402.webp",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/lalit-narayan-mishra-institute-of-economic-development-social-change-patna-347402.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -188963,12 +188963,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA(HUMAN RESOURCE DEVELOPMENT)",
+          "name": "MBA(HRD)",
+          "title": "Master of Business Administration (Human Resource Development)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹2,50,000",
+          "fee": "₹2,50,000",
+          "eligibility": "Graduation (50%) + MAT/CAT/CMAT/LNMI-MAT",
           "type": "MANAGEMENT",
-          "intake": 75
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹2,50,000",
+          "fee": "₹2,50,000",
+          "eligibility": "Graduation (50%) + MAT/CAT/CMAT/LNMI-MAT",
+          "type": "MANAGEMENT",
+          "intake": 180
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹2,50,000",
+          "fee": "₹2,50,000",
+          "eligibility": "BCA/B.Sc/Graduation with Mathematics + Entrance",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -188984,22 +189006,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/lalit-narayan-mishra-institute-of-economic-development-social-change-patna-347402.webp",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=L.%20N.%20MISHRA%20INSTITUTEOF%20ECONOMIC%20DEVELOPMENT%20AND%20SOCIAL%20CHANGE%20PATNA%20Bihar"
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "ownership": "Government of Bihar / Autonomous Institute",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=L.%20N.%20MISHRA%20INSTITUTEOF%20ECONOMIC%20DEVELOPMENT%20AND%20SOCIAL%20CHANGE%20PATNA%20Bihar",
+      "city": "Patna",
+      "email": "lnmipat@gmail.com",
+      "verified": true
     },
     {
       "id": 3132,
-      "name": "UNIVERSITY DEPARTMENT OF COMMERCE AND BUSINESS ADMINISTRATION",
+      "name": "University Department of Commerce and Business Administration, LNMU",
       "shortName": "Course Institute-1",
       "location": "DARBHANGA",
       "state": "Bihar",
-      "address": "PRABANDHAN BHAWAN, KAMESHWARANAGAR,",
-      "phone": "0123-456789",
-      "website": "https://www.universitydepar.edu.in",
+      "address": "Prabandhan Bhawan, Kameshwaranagar, Darbhanga - 846004, Bihar",
+      "phone": "+91-6272-222428",
+      "website": "https://lnmu.ac.in",
       "rating": 4.5,
       "reviews": 366,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to UNIVERSITY DEPARTMENT OF COMMERCE AND BUSINESS ADMINISTRATION, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 90,
       "facebook": "#",
@@ -189017,12 +189042,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA(BUSINESS MANAGEMENT)",
+          "name": "MBA",
+          "title": "Master of Business Administration (Business Management)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "Graduation (50%) + CAT/MAT/LNMU-CMAT",
           "type": "MANAGEMENT",
           "intake": 60
+        },
+        {
+          "name": "M.Com",
+          "title": "Master of Commerce",
+          "duration": "2 Years",
+          "fees": "₹20,000",
+          "fee": "₹20,000",
+          "eligibility": "B.Com (Hons/Gen) + LNMU Entrance",
+          "type": "COMMERCE",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -189039,9 +189076,12 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_7.jpg",
-      "ownership": "Private",
+      "ownership": "Government of Bihar / State University Department",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20DEPARTMENT%20OF%20COMMERCE%20AND%20BUSINESS%20ADMINISTRATION%20DARBHANGA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Darbhanga",
+      "email": "dmba@lnmu.ac.in",
+      "verified": true
     },
     {
       "id": 3133,
@@ -189265,13 +189305,13 @@
     },
     {
       "id": 3137,
-      "name": "RAJAN MAMTA DEGREE COLLEGE",
+      "name": "Rajan Mamta Degree College (RMDC)",
       "shortName": "Course Institute-1",
       "location": "AURANGABAD",
       "state": "Bihar",
-      "address": "AT JASOIYA MORE, OPPOSITE LIC BUILDING, RAPURA BHARTHAULI ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.rajanmamtadegre.edu.in",
+      "address": "At Jasoiya More, Opposite LIC Building, Bharthauli Road, Aurangabad - 824101, Bihar",
+      "phone": "+91-9431224765",
+      "website": "http://rmdc.co.in",
       "rating": 4.5,
       "reviews": 428,
       "type": "Private",
@@ -189292,11 +189332,33 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,40,000",
+          "fee": "₹1,40,000",
+          "eligibility": "BCA/B.Sc Computer Science + Entrance",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "10+2 with Mathematics",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "10+2 in any stream",
+          "type": "MANAGEMENT",
           "intake": 60
         }
       ],
@@ -189314,9 +189376,12 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_6.jpg",
-      "ownership": "Private",
+      "ownership": "Private (Rajan Mamta Group of Institutions)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAJAN%20MAMTA%20DEGREE%20COLLEGE%20AURANGABAD%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Aurangabad",
+      "email": "rmdc.aurangabad@gmail.com",
+      "verified": true
     },
     {
       "id": 3138,
@@ -189429,16 +189494,16 @@
     },
     {
       "id": 3140,
-      "name": "LALIT NARAYAN MISHRA INSTITUTE OF ECONOMIC DEVELOPMENT AND SOCIAL CHANGE",
+      "name": "Lalit Narayan Mishra Institute of Economic Development and Social Change (LNMI - MBA Department)",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "1, BAILEY ROAD PATNA - 1 BIHAR",
-      "phone": "0123-456789",
-      "website": "https://www.lalitnarayanmis.edu.in",
+      "address": "1, Jawaharlal Nehru Marg (Bailey Road), Patna - 800001, Bihar",
+      "phone": "+91-612-2504500",
+      "website": "https://lnmipat.ac.in",
       "rating": 4.5,
       "reviews": 549,
-      "type": "Private",
+      "type": "Public/Government (Autonomous)",
       "about": "Welcome to LALIT NARAYAN MISHRA INSTITUTE OF ECONOMIC DEVELOPMENT AND SOCIAL CHANGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 41,
       "facebook": "#",
@@ -189456,12 +189521,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹2,50,000",
+          "fee": "₹2,50,000",
+          "eligibility": "Graduation (50%) + MAT/CAT/CMAT",
           "type": "MANAGEMENT",
-          "intake": 220
+          "intake": 180
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹2,50,000",
+          "fee": "₹2,50,000",
+          "eligibility": "BCA/Graduation with Mathematics",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -189478,9 +189555,12 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_9.jpg",
-      "ownership": "Private",
+      "ownership": "Government of Bihar / Autonomous Institute",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=LALIT%20NARAYAN%20MISHRA%20INSTITUTE%20OF%20ECONOMIC%20DEVELOPMENT%20AND%20SOCIAL%20CHANGE%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Patna",
+      "email": "onlineadmissionquery@lnmipat.ac.in",
+      "verified": true
     },
     {
       "id": 3141,
@@ -189593,13 +189673,13 @@
     },
     {
       "id": 3143,
-      "name": "ABC COLLEGE OF EDUCATION",
+      "name": "ABC College of Education",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "OPP MAULANA AZAD ENGINEERING COLLEGE, NEORA",
-      "phone": "0123-456789",
-      "website": "https://www.abccollegeofedu.edu.in",
+      "address": "Opposite Maulana Azad College of Engineering & Technology, Neora, Patna - 801113, Bihar",
+      "phone": "+91-9065410720",
+      "website": "https://abcce.co.in",
       "rating": 4.5,
       "reviews": 329,
       "type": "Private",
@@ -189611,7 +189691,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ABC%20COLLEGE%20OF%20EDUCATION%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/25241/2019/1/25/Campus Building View of ABC College of Education Patna_Campus-View.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
@@ -189620,12 +189700,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,30,000",
+          "fee": "₹1,30,000",
+          "eligibility": "BCA/Graduation with Mathematics + Entrance",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "intake": 60
+        },
+        {
+          "name": "B.Ed",
+          "title": "Bachelor of Education",
+          "duration": "2 Years",
+          "fees": "₹1,50,000",
+          "fee": "₹1,50,000",
+          "eligibility": "Graduation with 50% + Bihar B.Ed CET",
+          "type": "EDUCATION",
+          "intake": 100
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -189641,10 +189733,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "ownership": "Private (ABC Educational Trust)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ABC%20COLLEGE%20OF%20EDUCATION%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Patna",
+      "email": "abccollegeofeducation@gmail.com",
+      "verified": true
     },
     {
       "id": 3144,
@@ -190138,13 +190233,13 @@
     },
     {
       "id": 3153,
-      "name": "HIMALAYA COLLEGE OF PROFESSIONAL EDUCATION",
+      "name": "Himalaya College of Professional Education (HCPE)",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "CHIKSI, PALIGANJ, PATNA, BIHAR",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=HIMALAYA%20COLLEGE%20OF%20PROFESSIONAL%20EDUCATION%20official%20website%20PATNA%20Bihar",
+      "address": "Chiksi, Paliganj, Kinjar Road, Patna - 801110, Bihar",
+      "phone": "+91-9031015483",
+      "website": "https://hcpedu.in",
       "rating": 4.5,
       "reviews": 198,
       "type": "Private",
@@ -190156,7 +190251,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=HIMALAYA%20COLLEGE%20OF%20PROFESSIONAL%20EDUCATION%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://th.bing.com/th/id/R.cfaccca5e531f94ef42b6f12848dccf6?rik=YLbqdY4VFj4RQg&riu=http%3a%2f%2fhcpedu.in%2fimages%2fgal-6.jpg&ehk=0JS4kbWcG19KtcjwYZ3SUS1IdaU%2fR9ffX%2fcY%2f2K9FWA%3d&risl=&pid=ImgRaw&r=0",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -190165,12 +190260,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,30,000",
+          "fee": "₹1,30,000",
+          "eligibility": "BCA/Graduation with Mathematics + Entrance",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 54
+          "intake": 60
+        },
+        {
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "10+2 with Mathematics",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "10+2 in any stream",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -190186,9 +190303,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYA%20COLLEGE%20OF%20PROFESSIONAL%20EDUCATION%20PATNA%20Bihar"
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "ownership": "Private (Himalaya Educational and Welfare Trust)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYA%20COLLEGE%20OF%20PROFESSIONAL%20EDUCATION%20PATNA%20Bihar",
+      "city": "Patna",
+      "email": "hcpechiksi@gmail.com",
+      "verified": true
     },
     {
       "id": 3154,
@@ -190408,13 +190528,13 @@
     },
     {
       "id": 3158,
-      "name": "MAGADH INSTITUTE OF TECHNOLOGY",
+      "name": "Magadh Institute of Technology (MIT)",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "NASRIGANJ",
-      "phone": "0123-456789",
-      "website": "https://www.magadhinstitute.edu.in",
+      "address": "Nasriganj (Biscuit Factory More), Digha, Danapur, Patna - 801503, Bihar",
+      "phone": "+91-9234004413",
+      "website": "https://www.magadhinstituteoftechnology.com",
       "rating": 4.5,
       "reviews": 281,
       "type": "Private",
@@ -190426,7 +190546,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MAGADH%20INSTITUTE%20OF%20TECHNOLOGY%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_9.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://magadhinstituteoftechnology.com/images/activities/MIT Front-1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
@@ -190435,20 +190555,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "Civil Engineering",
+          "title": "Diploma in Civil Engineering",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "10th Standard with Science & Math + DCECE",
+          "type": "ENGINEERING",
+          "intake": 60
         },
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,40,000",
+          "fee": "₹1,40,000",
+          "eligibility": "BCA/B.Sc Computer Science",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 300
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -190464,10 +190588,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_9.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_3.jpg",
+      "ownership": "Private (Magadh Educational Society)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAGADH%20INSTITUTE%20OF%20TECHNOLOGY%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Danapur",
+      "email": "magadhpolytechnic5@gmail.com",
+      "verified": true
     },
     {
       "id": 3159,
@@ -191459,13 +191586,13 @@
     },
     {
       "id": 3177,
-      "name": "CIMAGE CENTER OF DIGITAL TECHNOLOGY AND ENTREPRENEURSHIP",
+      "name": "CIMAGE Center of Digital Technology and Entrepreneurship (CCDTE)",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "PLOT NO- C10-11, PATLIPUTRA INDUSTRIAL AREA, OFF ATAL PATH, PATNA",
-      "phone": "0123-456789",
-      "website": "https://www.cimagecenterofd.edu.in",
+      "address": "Plot No. C10-11, Off Atal Path, Near Prabhat Khabar Mod, Patliputra Industrial Area, Patna - 800013, Bihar",
+      "phone": "+91-9835024444",
+      "website": "https://www.cimage.in",
       "rating": 4.5,
       "reviews": 450,
       "type": "Private",
@@ -191477,7 +191604,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CIMAGE%20CENTER%20OF%20DIGITAL%20TECHNOLOGY%20AND%20ENTREPRENEURSHIP%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sheila_raheja_bandra.webp",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://cdac.in/index.aspx?id=img_cdac-patna",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -191486,12 +191613,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,70,000",
+          "fee": "₹1,70,000",
+          "eligibility": "BCA/B.Sc Computer Science + AKU/PPU Entrance",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
+        },
+        {
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "10+2 with Mathematics",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 120
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "10+2 in any stream",
+          "type": "MANAGEMENT",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -191507,10 +191656,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "ownership": "Private (CIMAGE Group of Institutions)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CIMAGE%20CENTER%20OF%20DIGITAL%20TECHNOLOGY%20AND%20ENTREPRENEURSHIP%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Patna",
+      "email": "info@cimage.in",
+      "verified": true
     },
     {
       "id": 3178,
@@ -197298,16 +197450,16 @@
     },
     {
       "id": 3284,
-      "name": "VEER KUNWAR SINGH UNIVERSITY",
+      "name": "Veer Kunwar Singh University (VKSU)",
       "shortName": "Course Institute-1",
       "location": "BHOJPUR",
       "state": "Bihar",
-      "address": "KATIRA",
-      "phone": "0123-456789",
-      "website": "https://www.veerkunwarsingh.edu.in",
+      "address": "Katira, Arrah, Bhojpur District, Bihar - 802301",
+      "phone": "+91-6182-239209",
+      "website": "https://vksu.ac.in",
       "rating": 4.5,
       "reviews": 364,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to VEER KUNWAR SINGH UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 31,
       "facebook": "#",
@@ -197316,7 +197468,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=VEER%20KUNWAR%20SINGH%20UNIVERSITY%20BHOJPUR%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/pes_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://th.bing.com/th/id/R.38a4c18dcc16afe30e282d4374e48c32?rik=%2b7MfpxPLBks4uQ&riu=http%3a%2f%2fwww.vksu.ac.in%2ftempasset%2fimages%2f3.jpeg&ehk=dMatByJ1S%2fa7bfYIBF%2fFDxDCvBHVg%2btK2T%2fmOUgYVy0%3d&risl=&pid=ImgRaw&r=0",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -197325,12 +197477,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "BCA/B.Sc Computer Science/Graduation with Mathematics + Entrance",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation (50%) + Entrance",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "M.Sc Computer Science",
+          "title": "Master of Science in Computer Science",
+          "duration": "2 Years",
+          "fees": "₹40,000",
+          "fee": "₹40,000",
+          "eligibility": "B.Sc Computer Science/IT/BCA",
+          "type": "SCIENCE",
+          "intake": 40
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -197346,10 +197520,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pes_bangalore.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_10.jpg",
+      "ownership": "Government of Bihar / State Public University",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=VEER%20KUNWAR%20SINGH%20UNIVERSITY%20BHOJPUR%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Arrah",
+      "email": "registrar@vksu.ac.in",
+      "verified": true
     },
     {
       "id": 3285,
@@ -200515,13 +200692,13 @@
     },
     {
       "id": 3343,
-      "name": "SITYOG INSTITUTE OF MANAGEMENT",
+      "name": "Sityog Institute of Management",
       "shortName": "Course Institute-1",
       "location": "GAYA",
       "state": "Bihar",
-      "address": "GROWTH C ENTER, JASIOYA MORE",
-      "phone": "0123-456789",
-      "website": "https://www.sityoginstitute.edu.in",
+      "address": "Growth Center, Jasoiya More, Aurangabad, Bihar - 824102",
+      "phone": "+91-9322698410",
+      "website": "https://management.sityog.edu.in",
       "rating": 4.5,
       "reviews": 313,
       "type": "Private",
@@ -200533,7 +200710,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SITYOG%20INSTITUTE%20OF%20MANAGEMENT%20GAYA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://management.sityog.edu.in/images/sityog-poltechnic5.png",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://management.sityog.edu.in/images/sityog-poltechnic5.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -200542,10 +200719,32 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA (FINANCE)",
+          "name": "MBA (Finance)",
+          "title": "Master of Business Administration in Finance",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,60,000",
+          "fee": "₹1,60,000",
+          "eligibility": "Graduation (50%) + CMAT/MAT/AKU Entrance",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "MBA (Marketing)",
+          "title": "Master of Business Administration in Marketing",
+          "duration": "2 Years",
+          "fees": "₹1,60,000",
+          "fee": "₹1,60,000",
+          "eligibility": "Graduation (50%) + CMAT/MAT/AKU Entrance",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "10+2 in any stream",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -200563,9 +200762,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://management.sityog.edu.in/images/sityog-poltechnic5.png",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SITYOG%20INSTITUTE%20OF%20MANAGEMENT%20GAYA%20Bihar"
+      "image": "/images/campuses/campus_architecture_5.jpg",
+      "ownership": "Private (Sityog Educational Trust)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SITYOG%20INSTITUTE%20OF%20MANAGEMENT%20GAYA%20Bihar",
+      "city": "Aurangabad",
+      "email": "sityog@gmail.com",
+      "verified": true
     },
     {
       "id": 3344,
