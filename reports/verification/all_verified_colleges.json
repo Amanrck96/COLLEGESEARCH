@@ -1573,5 +1573,80 @@
         "website": "https://tbs.jammuuniversity.ac.in"
       }
     ]
+  },
+  {
+    "batch": 22,
+    "items": [
+      {
+        "id": 1813,
+        "name": "Govt. College for Women, Nawakadal, Srinagar",
+        "type": "Public/Government (Constituent College)",
+        "location": "Srinagar, Jammu & Kashmir - 190002",
+        "website": "https://www.gcwnk.ac.in"
+      },
+      {
+        "id": 1814,
+        "name": "Central University of Jammu",
+        "type": "Public/Government (Central University)",
+        "location": "District Samba, Jammu & Kashmir - 181143",
+        "website": "https://www.cujammu.ac.in"
+      },
+      {
+        "id": 1825,
+        "name": "Tagore College of Management",
+        "type": "Private",
+        "location": "Bilaspur, Chhattisgarh - 495003",
+        "website": "https://tcmbsp.in"
+      },
+      {
+        "id": 1826,
+        "name": "Prism School of Business & Entrepreneurship",
+        "type": "Private",
+        "location": "District Durg, Chhattisgarh - 491107",
+        "website": "http://www.prismschool.ac.in"
+      },
+      {
+        "id": 1874,
+        "name": "Shivalik Institute of Management Education & Research",
+        "type": "Private",
+        "location": "Durg, Chhattisgarh - 491001",
+        "website": "https://www.simer.in"
+      },
+      {
+        "id": 1877,
+        "name": "RITEE Business School (RIBS)",
+        "type": "Private",
+        "location": "Raipur, Chhattisgarh - 492101",
+        "website": "https://ribs.education"
+      },
+      {
+        "id": 1927,
+        "name": "SSR Institute of Management & Research",
+        "type": "Private",
+        "location": "Silvassa - 396230, Dadra & Nagar Haveli and Daman & Diu",
+        "website": "https://www.ssrimr.edu.in"
+      },
+      {
+        "id": 1934,
+        "name": "Himachal Pradesh Technical University",
+        "type": "Public/Government (State University)",
+        "location": "Hamirpur, Himachal Pradesh - 177001",
+        "website": "https://www.himtu.ac.in"
+      },
+      {
+        "id": 1961,
+        "name": "Gautam Institute of Management & Technology",
+        "type": "Private",
+        "location": "Hamirpur, Himachal Pradesh - 177001",
+        "website": "https://www.ggchmr.com"
+      },
+      {
+        "id": 1971,
+        "name": "Himalayan Institute of Management",
+        "type": "Private",
+        "location": "District Sirmour, Himachal Pradesh - 173030",
+        "website": "https://hgpi.in"
+      }
+    ]
   }
 ]

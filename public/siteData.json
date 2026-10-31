@@ -113358,16 +113358,16 @@
     },
     {
       "id": 1813,
-      "name": "GOVT. COLLEGE FOR WOMEN NAWAKADAL SRINAGAR",
+      "name": "Govt. College for Women, Nawakadal, Srinagar",
       "shortName": "Course Institute-1",
       "location": "SRINAGAR",
       "state": "Jammu & Kashmir",
-      "address": "NAWAKADAL SRINAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.govtcollegeforw.edu.in",
+      "address": "Nawakadal, Srinagar, Jammu & Kashmir - 190002",
+      "phone": "+91-194-2503456",
+      "website": "https://www.gcwnk.ac.in",
       "rating": 4.5,
       "reviews": 152,
-      "type": "Private",
+      "type": "Public/Government (Constituent College)",
       "about": "Welcome to GOVT. COLLEGE FOR WOMEN NAWAKADAL SRINAGAR, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 70,
       "facebook": "#",
@@ -113376,7 +113376,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT.%20COLLEGE%20FOR%20WOMEN%20NAWAKADAL%20SRINAGAR%20SRINAGAR%20Jammu%20%26%20Kashmir",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://gcwnk.ac.in/gallery/images/38.jpg",
+      "img": "/images/campuses/gcwnk_srinagar.jpg",
       "gallery": [
         "https://gcwnk.ac.in/gallery/images/38.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -113385,12 +113385,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.0 Lakh",
+          "fee": "₹1.0 Lakh",
+          "eligibility": "Graduation with minimum 50%",
           "type": "MANAGEMENT",
           "intake": 30
+        },
+        {
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
+          "duration": "3 Years",
+          "fees": "₹75,000",
+          "fee": "₹75,000",
+          "eligibility": "10+2 from recognized board",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "B.Com",
+          "title": "Bachelor of Commerce",
+          "duration": "3 Years",
+          "fees": "₹45,000",
+          "fee": "₹45,000",
+          "eligibility": "10+2 from recognized board",
+          "type": "COMMERCE",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -113406,22 +113428,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://gcwnk.ac.in/gallery/images/38.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20COLLEGE%20FOR%20WOMEN%20NAWAKADAL%20SRINAGAR%20SRINAGAR%20Jammu%20%26%20Kashmir"
+      "image": "/images/campuses/gcwnk_srinagar.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20COLLEGE%20FOR%20WOMEN%20NAWAKADAL%20SRINAGAR%20SRINAGAR%20Jammu%20%26%20Kashmir",
+      "city": "Srinagar",
+      "email": "principal@gcwnk.ac.in",
+      "verified": true
     },
     {
       "id": 1814,
-      "name": "CENTRAL UNIVESITY OF JAMMU",
+      "name": "Central University of Jammu",
       "shortName": "Course Institute-1",
       "location": "SAMBA",
       "state": "Jammu & Kashmir",
-      "address": "RAHYA-SUCHANI (BAGLA)",
-      "phone": "0123-456789",
-      "website": "https://www.centralunivesit.edu.in",
+      "address": "Bagla (Rahya Suchani), District Samba, Jammu & Kashmir - 181143",
+      "phone": "+91-1923-249658",
+      "website": "https://www.cujammu.ac.in",
       "rating": 4.5,
       "reviews": 53,
-      "type": "Private",
+      "type": "Public/Government (Central University)",
       "about": "Welcome to CENTRAL UNIVESITY OF JAMMU, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 13,
       "facebook": "#",
@@ -113430,7 +113455,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CENTRAL%20UNIVESITY%20OF%20JAMMU%20SAMBA%20Jammu%20%26%20Kashmir",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1463049601142132111120.JPG",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/campusimage/1463049601142132111120.JPG",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -113439,12 +113464,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA(HUMAN RESOURCE MANAGEMENT)",
+          "name": "MBA (HRM)",
+          "title": "MBA Human Resource Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.2 Lakhs",
+          "fee": "₹1.2 Lakhs",
+          "eligibility": "Graduation with 50% + CUET-PG/CAT",
           "type": "MANAGEMENT",
-          "intake": 30
+          "intake": 40
+        },
+        {
+          "name": "MBA (Marketing)",
+          "title": "MBA Marketing Management",
+          "duration": "2 Years",
+          "fees": "₹1.2 Lakhs",
+          "fee": "₹1.2 Lakhs",
+          "eligibility": "Graduation with 50% + CUET-PG/CAT",
+          "type": "MANAGEMENT",
+          "intake": 40
+        },
+        {
+          "name": "MBA (TTM)",
+          "title": "MBA Tourism and Travel Management",
+          "duration": "2 Years",
+          "fees": "₹1.2 Lakhs",
+          "fee": "₹1.2 Lakhs",
+          "eligibility": "Graduation with 50% + CUET-PG/CAT",
+          "type": "MANAGEMENT",
+          "intake": 40
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -113460,9 +113507,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1463049601142132111120.JPG",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTRAL%20UNIVESITY%20OF%20JAMMU%20SAMBA%20Jammu%20%26%20Kashmir"
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTRAL%20UNIVESITY%20OF%20JAMMU%20SAMBA%20Jammu%20%26%20Kashmir",
+      "city": "Samba",
+      "email": "registrar@cujammu.ac.in",
+      "verified": true
     },
     {
       "id": 1815,
@@ -114016,13 +114066,13 @@
     },
     {
       "id": 1825,
-      "name": "TAGORE COLLEGE OF MANAGEMENT",
+      "name": "Tagore College of Management",
       "shortName": "Course Institute-1",
       "location": "BILASPUR",
       "state": "Chhattisgarh",
-      "address": "SAKRI",
-      "phone": "0123-456789",
-      "website": "https://www.tagorecollegeof.edu.in",
+      "address": "Turkadih Bypass Road, Sakri, Bilaspur, Chhattisgarh - 495003",
+      "phone": "+91-6232060055",
+      "website": "https://tcmbsp.in",
       "rating": 4.5,
       "reviews": 176,
       "type": "Private",
@@ -114034,7 +114084,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=TAGORE%20COLLEGE%20OF%20MANAGEMENT%20BILASPUR%20Chhattisgarh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/primus_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://tcmbsp.in/wp-content/uploads/2021/06/tcmhome-2.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -114043,10 +114093,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.3 Lakhs",
+          "fee": "₹1.3 Lakhs",
+          "eligibility": "Graduation with 50% + CMAT/MAT/CG Pre-MBA",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -114064,20 +114116,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/primus_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=TAGORE%20COLLEGE%20OF%20MANAGEMENT%20BILASPUR%20Chhattisgarh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Bilaspur",
+      "email": "info@tcmbsp.in",
+      "verified": true
     },
     {
       "id": 1826,
-      "name": "PRISM SCHOOL OF BUSINESS & ENTREPRENEURSHIP",
+      "name": "Prism School of Business & Entrepreneurship",
       "shortName": "Course Institute-1",
       "location": "DURG",
       "state": "Chhattisgarh",
-      "address": "MAHKAKURD",
-      "phone": "0123-456789",
-      "website": "https://www.prismschoolofbu.edu.in",
+      "address": "Mahkakhurd, Ganiyari Road, Utai, Bhilai, District Durg, Chhattisgarh - 491107",
+      "phone": "+91-9425235203",
+      "website": "http://www.prismschool.ac.in",
       "rating": 4.5,
       "reviews": 507,
       "type": "Private",
@@ -114089,7 +114144,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PRISM%20SCHOOL%20OF%20BUSINESS%20%26%20ENTREPRENEURSHIP%20DURG%20Chhattisgarh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/primus_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://www.gkseries.com/blog/wp-content/uploads/2020/04/PRISM-School-of-Business-and-Entrepreneurship-Durg-1024x614.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -114098,10 +114153,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
           "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fee": "₹2.5 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/CMAT/ATMA",
           "type": "MANAGEMENT",
           "intake": 180
         }
@@ -114119,10 +114176,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/primus_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRISM%20SCHOOL%20OF%20BUSINESS%20%26%20ENTREPRENEURSHIP%20DURG%20Chhattisgarh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Bhilai",
+      "email": "pgdmprism@gmail.com",
+      "verified": true
     },
     {
       "id": 1827,
@@ -116683,13 +116743,13 @@
     },
     {
       "id": 1874,
-      "name": "SHIVALIK INSTITUTE OF MANAGEMENT EDUCATION & RESEARCH",
+      "name": "Shivalik Institute of Management Education & Research",
       "shortName": "Course Institute-1",
       "location": "DURG",
       "state": "Chhattisgarh",
-      "address": "P.O. PISEGAON, BALOD ROAD, DURG. STATE - CHHATTISGARH - 491001",
-      "phone": "0123-456789",
-      "website": "https://www.shivalikinstitu.edu.in",
+      "address": "P.O. Pisegaon, Balod Road, Durg, Chhattisgarh - 491001",
+      "phone": "+91-9826107555",
+      "website": "https://www.simer.in",
       "rating": 4.5,
       "reviews": 238,
       "type": "Private",
@@ -116701,7 +116761,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SHIVALIK%20INSTITUTE%20OF%20MANAGEMENT%20EDUCATION%20%26%20RESEARCH%20DURG%20Chhattisgarh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_coep_pune.png",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/shivalik-institute-of-management-education-research-simer-durg-60961.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -116710,10 +116770,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹3.5 Lakhs",
+          "fee": "₹3.5 Lakhs",
+          "eligibility": "Graduation with 50% + CAT/MAT/CMAT/XAT/ATMA",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -116731,9 +116793,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_coep_pune.png",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHIVALIK%20INSTITUTE%20OF%20MANAGEMENT%20EDUCATION%20%26%20RESEARCH%20DURG%20Chhattisgarh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHIVALIK%20INSTITUTE%20OF%20MANAGEMENT%20EDUCATION%20%26%20RESEARCH%20DURG%20Chhattisgarh",
+      "city": "Durg",
+      "email": "info@simer.in",
+      "verified": true
     },
     {
       "id": 1875,
@@ -116845,13 +116910,13 @@
     },
     {
       "id": 1877,
-      "name": "RITEE BUSINESS SCHOOL (RIBS) RAIPUR",
+      "name": "RITEE Business School (RIBS)",
       "shortName": "Course Institute-1",
       "location": "RAIPUR",
       "state": "Chhattisgarh",
-      "address": "CHHATAUNA MANDIR HASAUD RAIPUR, CHHATTISGARH 492101",
-      "phone": "0123-456789",
-      "website": "https://www.riteebusinesssc.edu.in",
+      "address": "Chhatauna, Mandir Hasaud, Raipur, Chhattisgarh - 492101",
+      "phone": "+91-9329773028",
+      "website": "https://ribs.education",
       "rating": 4.5,
       "reviews": 365,
       "type": "Private",
@@ -116863,7 +116928,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=RITEE%20BUSINESS%20SCHOOL%20(RIBS)%20RAIPUR%20RAIPUR%20Chhattisgarh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sheila_raheja_bandra.webp",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.collegesmba.in/wp-content/uploads/2015/12/RITEE-BUSINESS-SCHOOL-1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -116872,10 +116937,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹3.0 Lakhs",
+          "fee": "₹3.0 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/CMAT",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -116893,10 +116960,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RITEE%20BUSINESS%20SCHOOL%20(RIBS)%20RAIPUR%20RAIPUR%20Chhattisgarh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Raipur",
+      "email": "info@rit.edu.in",
+      "verified": true
     },
     {
       "id": 1878,
@@ -119563,13 +119633,13 @@
     },
     {
       "id": 1927,
-      "name": "SSR INSTITUTE OF MANAGEMENT & RESEARCH",
+      "name": "SSR Institute of Management & Research",
       "shortName": "Course Institute-1",
       "location": "DADRA AND NAGAR HAVELI",
       "state": "Dadra & Nagar Haveli and Daman & Diu",
-      "address": "SSR INSTITUTE OF MANAGEMENT &RESEARCH SAYLI RD, SILVASSA - 396230, U.T.O F DADRA & NAGAR HAVELI.",
-      "phone": "0123-456789",
-      "website": "https://www.ssrinstituteofm.edu.in",
+      "address": "Sayli-Silvassa Road, Sayli, Silvassa - 396230, Dadra & Nagar Haveli and Daman & Diu",
+      "phone": "+91-9081160002",
+      "website": "https://www.ssrimr.edu.in",
       "rating": 4.5,
       "reviews": 146,
       "type": "Private",
@@ -119581,7 +119651,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SSR%20INSTITUTE%20OF%20MANAGEMENT%20%26%20RESEARCH%20DADRA%20AND%20NAGAR%20HAVELI%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sailee_college_borivali.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://d13loartjoc1yn.cloudfront.net/upload/institute/images/large/140716031300_Screenshot_90.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
@@ -119590,10 +119660,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.6 Lakhs",
+          "fee": "₹1.6 Lakhs",
+          "eligibility": "Graduation with 50% + MAH-CET/CMAT/CAT",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -119611,10 +119683,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SSR%20INSTITUTE%20OF%20MANAGEMENT%20%26%20RESEARCH%20DADRA%20AND%20NAGAR%20HAVELI%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Silvassa",
+      "email": "director@ssrimr.edu.in",
+      "verified": true
     },
     {
       "id": 1928,
@@ -119949,16 +120024,16 @@
     },
     {
       "id": 1934,
-      "name": "HIMACHAL PRADESH TECHNICAL UNIVERSITY",
+      "name": "Himachal Pradesh Technical University",
       "shortName": "Course Institute-1",
       "location": "HAMIRPUR",
       "state": "Himachal Pradesh",
-      "address": "VILLAGE & POST OFFICE-DARUHI",
-      "phone": "0123-456789",
-      "website": "https://www.himachalpradesh.edu.in",
+      "address": "Village & Post Office Daruhi, Hamirpur, Himachal Pradesh - 177001",
+      "phone": "+91-1972-226902",
+      "website": "https://www.himtu.ac.in",
       "rating": 4.5,
       "reviews": 382,
-      "type": "Private",
+      "type": "Public/Government (State University)",
       "about": "Welcome to HIMACHAL PRADESH TECHNICAL UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 61,
       "facebook": "#",
@@ -119967,7 +120042,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=HIMACHAL%20PRADESH%20TECHNICAL%20UNIVERSITY%20HAMIRPUR%20Himachal%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/himachal-pradesh-technical-university-hamirpur-247764.webp",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/himachal-pradesh-technical-university-hamirpur-247764.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -119976,11 +120051,23 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.2 Lakhs",
+          "fee": "₹1.2 Lakhs",
+          "eligibility": "BCA/B.Sc/B.Com with Mathematics + HPCET/NIMCET",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹1.2 Lakhs",
+          "fee": "₹1.2 Lakhs",
+          "eligibility": "Graduation with 50% + HPCET/CAT/CMAT",
+          "type": "MANAGEMENT",
           "intake": 60
         }
       ],
@@ -119997,9 +120084,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/himachal-pradesh-technical-university-hamirpur-247764.webp",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMACHAL%20PRADESH%20TECHNICAL%20UNIVERSITY%20HAMIRPUR%20Himachal%20Pradesh"
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMACHAL%20PRADESH%20TECHNICAL%20UNIVERSITY%20HAMIRPUR%20Himachal%20Pradesh",
+      "city": "Hamirpur",
+      "email": "registrarhimtu@gmail.com",
+      "verified": true
     },
     {
       "id": 1935,
@@ -121418,13 +121508,13 @@
     },
     {
       "id": 1961,
-      "name": "GAUTAM INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+      "name": "Gautam Institute of Management & Technology",
       "shortName": "Course Institute-1",
       "location": "HAMIRPUR",
       "state": "Himachal Pradesh",
-      "address": "WARD NO-10, DISTT. HAMIRPUR (HP)",
-      "phone": "0123-456789",
-      "website": "https://www.gautaminstitute.edu.in",
+      "address": "Ward No. 10, Near Bus Stand, Hamirpur, Himachal Pradesh - 177001",
+      "phone": "+91-9736391060",
+      "website": "https://www.ggchmr.com",
       "rating": 4.5,
       "reviews": 494,
       "type": "Private",
@@ -121436,7 +121526,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GAUTAM%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20HAMIRPUR%20Himachal%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/saraswati_kharghar.webp",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/9757/2020/9/29/Campus View of Gautam Institute of Management and Technology Hamirpur_Campus-View.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -121445,10 +121535,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "Graduation with 50% + HPCET/MAT/CMAT",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -121466,10 +121558,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/saraswati_kharghar.webp",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GAUTAM%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20HAMIRPUR%20Himachal%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Hamirpur",
+      "email": "ggchmr@gmail.com",
+      "verified": true
     },
     {
       "id": 1962,
@@ -121963,13 +122058,13 @@
     },
     {
       "id": 1971,
-      "name": "HIMALAYAN INSTITUTE OF MANAGEMENT",
+      "name": "Himalayan Institute of Management",
       "shortName": "Course Institute-1",
       "location": "SIRMAUR",
       "state": "Himachal Pradesh",
-      "address": "SADHORA ROAD, KALA-AMB, DISTT. SIRMOUR (H.P)",
-      "phone": "0123-456789",
-      "website": "https://www.himalayaninstit.edu.in",
+      "address": "Sadhora Road, Near Suketi Fossil Park Road, Kala-Amb, District Sirmour, Himachal Pradesh - 173030",
+      "phone": "+91-9671300918",
+      "website": "https://hgpi.in",
       "rating": 4.5,
       "reviews": 420,
       "type": "Private",
@@ -121981,7 +122076,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20MANAGEMENT%20SIRMAUR%20Himachal%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/himalayan-institute-of-management-sirmaur-92858.webp",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/himalayan-institute-of-management-sirmaur-92858.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
@@ -121990,10 +122085,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.5 Lakhs",
+          "fee": "₹1.5 Lakhs",
+          "eligibility": "Graduation with 50% + HPCET/MAT/CAT",
           "type": "MANAGEMENT",
           "intake": 90
         }
@@ -122011,9 +122108,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/himalayan-institute-of-management-sirmaur-92858.webp",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20MANAGEMENT%20SIRMAUR%20Himachal%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20MANAGEMENT%20SIRMAUR%20Himachal%20Pradesh",
+      "city": "Kala Amb",
+      "email": "info@hgpi.in",
+      "verified": true
     },
     {
       "id": 1972,

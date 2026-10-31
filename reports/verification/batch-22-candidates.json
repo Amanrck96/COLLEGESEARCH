@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1813,
+    "name": "GOVT. COLLEGE FOR WOMEN NAWAKADAL SRINAGAR",
+    "address": "NAWAKADAL SRINAGAR",
+    "state": "Jammu & Kashmir",
+    "img": "https://gcwnk.ac.in/gallery/images/38.jpg",
+    "website": "https://www.govtcollegeforw.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 1814,
+    "name": "CENTRAL UNIVESITY OF JAMMU",
+    "address": "RAHYA-SUCHANI (BAGLA)",
+    "state": "Jammu & Kashmir",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1463049601142132111120.JPG",
+    "website": "https://www.centralunivesit.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA(HUMAN RESOURCE MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 1825,
+    "name": "TAGORE COLLEGE OF MANAGEMENT",
+    "address": "SAKRI",
+    "state": "Chhattisgarh",
+    "img": "/images/campuses/primus_bangalore.jpg",
+    "website": "https://www.tagorecollegeof.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 1826,
+    "name": "PRISM SCHOOL OF BUSINESS & ENTREPRENEURSHIP",
+    "address": "MAHKAKURD",
+    "state": "Chhattisgarh",
+    "img": "/images/campuses/primus_bangalore.jpg",
+    "website": "https://www.prismschoolofbu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 1874,
+    "name": "SHIVALIK INSTITUTE OF MANAGEMENT EDUCATION & RESEARCH",
+    "address": "P.O. PISEGAON, BALOD ROAD, DURG. STATE - CHHATTISGARH - 491001",
+    "state": "Chhattisgarh",
+    "img": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.shivalikinstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 1877,
+    "name": "RITEE BUSINESS SCHOOL (RIBS) RAIPUR",
+    "address": "CHHATAUNA MANDIR HASAUD RAIPUR, CHHATTISGARH 492101",
+    "state": "Chhattisgarh",
+    "img": "/images/campuses/sheila_raheja_bandra.webp",
+    "website": "https://www.riteebusinesssc.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 1927,
+    "name": "SSR INSTITUTE OF MANAGEMENT & RESEARCH",
+    "address": "SSR INSTITUTE OF MANAGEMENT &RESEARCH SAYLI RD, SILVASSA - 396230, U.T.O F DADRA & NAGAR HAVELI.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "img": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://www.ssrinstituteofm.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 1934,
+    "name": "HIMACHAL PRADESH TECHNICAL UNIVERSITY",
+    "address": "VILLAGE & POST OFFICE-DARUHI",
+    "state": "Himachal Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/himachal-pradesh-technical-university-hamirpur-247764.webp",
+    "website": "https://www.himachalpradesh.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 1961,
+    "name": "GAUTAM INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "WARD NO-10, DISTT. HAMIRPUR (HP)",
+    "state": "Himachal Pradesh",
+    "img": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.gautaminstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 1971,
+    "name": "HIMALAYAN INSTITUTE OF MANAGEMENT",
+    "address": "SADHORA ROAD, KALA-AMB, DISTT. SIRMOUR (H.P)",
+    "state": "Himachal Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/himalayan-institute-of-management-sirmaur-92858.webp",
+    "website": "https://www.himalayaninstit.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

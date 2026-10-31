@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **210 / 12,660**  
-**Roadmap Progress**: **21.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **220 / 12,660**  
+**Roadmap Progress**: **22.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -324,4 +324,19 @@
 | **1767** | Department of Management Studies, Islamia College of Science and Commerce, Srinagar | Public/Government (Autonomous State College) | Jammu & Kashmir, India | [www.islamiacollege.edu.in](https://www.islamiacollege.edu.in) |
 | **1771** | Department of Computer Sciences, University of Kashmir, Srinagar | Public/Government (State University Department) | Jammu & Kashmir, India | [kashmiruniversity.net](https://kashmiruniversity.net) |
 | **1793** | The Business School (TBS), University of Jammu | Public/Government (State University Department) | Jammu & Kashmir, India | [tbs.jammuuniversity.ac.in](https://tbs.jammuuniversity.ac.in) |
+
+### Batch 22 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1813** | Govt. College for Women, Nawakadal, Srinagar | Public/Government (Constituent College) | Srinagar, Jammu & Kashmir - 190002 | [www.gcwnk.ac.in](https://www.gcwnk.ac.in) |
+| **1814** | Central University of Jammu | Public/Government (Central University) | District Samba, Jammu & Kashmir - 181143 | [www.cujammu.ac.in](https://www.cujammu.ac.in) |
+| **1825** | Tagore College of Management | Private | Bilaspur, Chhattisgarh - 495003 | [tcmbsp.in](https://tcmbsp.in) |
+| **1826** | Prism School of Business & Entrepreneurship | Private | District Durg, Chhattisgarh - 491107 | [www.prismschool.ac.in](http://www.prismschool.ac.in) |
+| **1874** | Shivalik Institute of Management Education & Research | Private | Durg, Chhattisgarh - 491001 | [www.simer.in](https://www.simer.in) |
+| **1877** | RITEE Business School (RIBS) | Private | Raipur, Chhattisgarh - 492101 | [ribs.education](https://ribs.education) |
+| **1927** | SSR Institute of Management & Research | Private | Silvassa - 396230, Dadra & Nagar Haveli and Daman & Diu | [www.ssrimr.edu.in](https://www.ssrimr.edu.in) |
+| **1934** | Himachal Pradesh Technical University | Public/Government (State University) | Hamirpur, Himachal Pradesh - 177001 | [www.himtu.ac.in](https://www.himtu.ac.in) |
+| **1961** | Gautam Institute of Management & Technology | Private | Hamirpur, Himachal Pradesh - 177001 | [www.ggchmr.com](https://www.ggchmr.com) |
+| **1971** | Himalayan Institute of Management | Private | District Sirmour, Himachal Pradesh - 173030 | [hgpi.in](https://hgpi.in) |
 
