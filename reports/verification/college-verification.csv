@@ -521,4 +521,83 @@ College ID,College Name,Field,Existing Value,Verified Value,Status,Source URL,Da
 731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,address,"KANCHANA BIHARI MARG,OFF RING ROAD VIA KALYANPUR, NEAR KUKRAIL PICNIC SPOT, LUCKNOW- 226022","Kanchana Bihari Marg, Off Ring Road via Kalyanpur, Near Kukrail Picnic Spot, Lucknow - 226022, Uttar Pradesh, India",VERIFIED,https://www.iiseindia.com,2026-10-31,Full Kukrail campus address
 731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,phone,0123-456789,+91-7236002222 / +91-9453350199,VERIFIED,https://www.iiseindia.com,2026-10-31,Official campus telephone lines
 731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,email,N/A,info@iiseindia.com / iisedirectormba@gmail.com,VERIFIED,https://www.iiseindia.com,2026-10-31,Official institutional inboxes
-731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,affiliation,N/A,"Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE, Accredited by NAAC",VERIFIED,https://www.iiseindia.com,2026-10-31,AKTU affiliated
+731,INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION,affiliation,N/A,"Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE, Accredited by NAAC",VERIFIED,https://www.iiseindia.com,2026-10-31,AKTU affiliated739,INSTITUTE OF TECHNOLOGY AND MANAGEMENT,name,INSTITUTE OF TECHNOLOGY AND MANAGEMENT,"Institute of Technology and Management (ITM), GIDA, Gorakhpur",VERIFIED,https://itmgkp.edu.in,2026-10-31,Full official institution name
+739,INSTITUTE OF TECHNOLOGY AND MANAGEMENT,website,Existing,https://itmgkp.edu.in,VERIFIED,https://itmgkp.edu.in,2026-10-31,Official domain
+739,INSTITUTE OF TECHNOLOGY AND MANAGEMENT,address,Existing,"AL-1, Sector-7, GIDA, Gorakhpur - 273209, Uttar Pradesh, India",VERIFIED,https://itmgkp.edu.in,2026-10-31,Official campus address
+739,INSTITUTE OF TECHNOLOGY AND MANAGEMENT,phone,Existing,+91-8081209500 / +91-7607777650,VERIFIED,https://itmgkp.edu.in,2026-10-31,Official phone lines
+739,INSTITUTE OF TECHNOLOGY AND MANAGEMENT,email,Existing,director@itmgkp.edu.in,VERIFIED,https://itmgkp.edu.in,2026-10-31,Official institutional inbox
+739,INSTITUTE OF TECHNOLOGY AND MANAGEMENT,type,Existing,Private,VERIFIED,https://itmgkp.edu.in,2026-10-31,Verified institutional status
+739,INSTITUTE OF TECHNOLOGY AND MANAGEMENT,ownership,Existing,Private,VERIFIED,https://itmgkp.edu.in,2026-10-31,Verified ownership structure
+739,INSTITUTE OF TECHNOLOGY AND MANAGEMENT,affiliation,Existing,"Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE, BTEUP",VERIFIED,https://itmgkp.edu.in,2026-10-31,Statutory approval & university affiliation
+745,MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT,name,MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT,"Modern Institute of Technology and Management (MITM), Ghaziabad",VERIFIED,https://mitmgzb.com,2026-10-31,Full official institution name
+745,MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT,website,Existing,https://mitmgzb.com,VERIFIED,https://mitmgzb.com,2026-10-31,Official domain
+745,MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT,address,Existing,"Near RapidX Metro Station (Duhai), Delhi-Meerut Road, Duhai, Ghaziabad - 201206, Uttar Pradesh, India",VERIFIED,https://mitmgzb.com,2026-10-31,Official campus address
+745,MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT,phone,Existing,+91-7291982148 / +91-8958115424,VERIFIED,https://mitmgzb.com,2026-10-31,Official phone lines
+745,MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT,email,Existing,mitmghaziabad@gmail.com,VERIFIED,https://mitmgzb.com,2026-10-31,Official institutional inbox
+745,MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT,type,Existing,Private,VERIFIED,https://mitmgzb.com,2026-10-31,Verified institutional status
+745,MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT,ownership,Existing,Private,VERIFIED,https://mitmgzb.com,2026-10-31,Verified ownership structure
+745,MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT,affiliation,Existing,Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE,VERIFIED,https://mitmgzb.com,2026-10-31,Statutory approval & university affiliation
+777,INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,name,INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,"Institute of Professional Excellence & Management (IPEM), Ghaziabad",VERIFIED,https://www.ipemgzb.ac.in,2026-10-31,Full official institution name
+777,INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,website,Existing,https://www.ipemgzb.ac.in,VERIFIED,https://www.ipemgzb.ac.in,2026-10-31,Official domain
+777,INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,address,Existing,"A-13/1, South Side G.T. Road Industrial Area, NH-9 Bypass, Ghaziabad - 201010, Uttar Pradesh, India",VERIFIED,https://www.ipemgzb.ac.in,2026-10-31,Official campus address
+777,INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,phone,Existing,+91-9910491472 / +91-9910491474,VERIFIED,https://www.ipemgzb.ac.in,2026-10-31,Official phone lines
+777,INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,email,Existing,info@ipemgzb.ac.in,VERIFIED,https://www.ipemgzb.ac.in,2026-10-31,Official institutional inbox
+777,INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,type,Existing,Private,VERIFIED,https://www.ipemgzb.ac.in,2026-10-31,Verified institutional status
+777,INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,ownership,Existing,Private,VERIFIED,https://www.ipemgzb.ac.in,2026-10-31,Verified ownership structure
+777,INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,affiliation,Existing,"Dr. A.P.J. Abdul Kalam Technical University (AKTU) & CCSU Meerut, Approved by AICTE, NAAC",VERIFIED,https://www.ipemgzb.ac.in,2026-10-31,Statutory approval & university affiliation
+782,MOTI LAL RASTOGI SCHOOL OF MANAGEMENT,name,MOTI LAL RASTOGI SCHOOL OF MANAGEMENT,"Moti Lal Rastogi School of Management (MLRSM), Lucknow",VERIFIED,https://mlrsmihm.com,2026-10-31,Full official institution name
+782,MOTI LAL RASTOGI SCHOOL OF MANAGEMENT,website,Existing,https://mlrsmihm.com,VERIFIED,https://mlrsmihm.com,2026-10-31,Official domain
+782,MOTI LAL RASTOGI SCHOOL OF MANAGEMENT,address,Existing,"D-22 / D-23, UPSIDC Industrial Area, Sarojini Nagar, Kanpur Road, Lucknow - 226008, Uttar Pradesh, India",VERIFIED,https://mlrsmihm.com,2026-10-31,Official campus address
+782,MOTI LAL RASTOGI SCHOOL OF MANAGEMENT,phone,Existing,+91-9450650965 / 0522-2476174,VERIFIED,https://mlrsmihm.com,2026-10-31,Official phone lines
+782,MOTI LAL RASTOGI SCHOOL OF MANAGEMENT,email,Existing,mlrsm.edu@gmail.com,VERIFIED,https://mlrsmihm.com,2026-10-31,Official institutional inbox
+782,MOTI LAL RASTOGI SCHOOL OF MANAGEMENT,type,Existing,Private,VERIFIED,https://mlrsmihm.com,2026-10-31,Verified institutional status
+782,MOTI LAL RASTOGI SCHOOL OF MANAGEMENT,ownership,Existing,Private,VERIFIED,https://mlrsmihm.com,2026-10-31,Verified ownership structure
+782,MOTI LAL RASTOGI SCHOOL OF MANAGEMENT,affiliation,Existing,National Council for Hotel Management and Catering Technology (NCHMCT) & IGNOU / AKTU,VERIFIED,https://mlrsmihm.com,2026-10-31,Statutory approval & university affiliation
+784,DR. BHIMRAO AMBEDKAR UNIVERSITY,name,DR. BHIMRAO AMBEDKAR UNIVERSITY,"Dr. Bhimrao Ambedkar University (DBRAU), Khandari Campus, Agra",VERIFIED,https://dbrau.ac.in,2026-10-31,Full official institution name
+784,DR. BHIMRAO AMBEDKAR UNIVERSITY,website,Existing,https://dbrau.ac.in,VERIFIED,https://dbrau.ac.in,2026-10-31,Official domain
+784,DR. BHIMRAO AMBEDKAR UNIVERSITY,address,Existing,"Khandari Campus, Dr. Bhimrao Ambedkar University, Agra - 282002, Uttar Pradesh, India",VERIFIED,https://dbrau.ac.in,2026-10-31,Official campus address
+784,DR. BHIMRAO AMBEDKAR UNIVERSITY,phone,Existing,+91-562-2856446 / 0562-2858669,VERIFIED,https://dbrau.ac.in,2026-10-31,Official phone lines
+784,DR. BHIMRAO AMBEDKAR UNIVERSITY,email,Existing,registrar@dbrau.ac.in,VERIFIED,https://dbrau.ac.in,2026-10-31,Official institutional inbox
+784,DR. BHIMRAO AMBEDKAR UNIVERSITY,type,Existing,Public/Government (State University),VERIFIED,https://dbrau.ac.in,2026-10-31,Verified institutional status
+784,DR. BHIMRAO AMBEDKAR UNIVERSITY,ownership,Existing,Government,VERIFIED,https://dbrau.ac.in,2026-10-31,Verified ownership structure
+784,DR. BHIMRAO AMBEDKAR UNIVERSITY,affiliation,Existing,"State University established in 1927, Approved by UGC & AICTE, Accredited by NAAC",VERIFIED,https://dbrau.ac.in,2026-10-31,Statutory approval & university affiliation
+785,CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY,name,CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY,"Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur",VERIFIED,https://csjmu.ac.in,2026-10-31,Full official institution name
+785,CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY,website,Existing,https://csjmu.ac.in,VERIFIED,https://csjmu.ac.in,2026-10-31,Official domain
+785,CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY,address,Existing,"Kalyanpur, Kanpur - 208024, Uttar Pradesh, India",VERIFIED,https://csjmu.ac.in,2026-10-31,Official campus address
+785,CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY,phone,Existing,0512-2246608 / 0512-2246609,VERIFIED,https://csjmu.ac.in,2026-10-31,Official phone lines
+785,CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY,email,Existing,info@csjmu.ac.in,VERIFIED,https://csjmu.ac.in,2026-10-31,Official institutional inbox
+785,CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY,type,Existing,Public/Government (State University),VERIFIED,https://csjmu.ac.in,2026-10-31,Verified institutional status
+785,CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY,ownership,Existing,Government,VERIFIED,https://csjmu.ac.in,2026-10-31,Verified ownership structure
+785,CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY,affiliation,Existing,"State University established in 1966, UGC Category-I, NAAC A++ Grade",VERIFIED,https://csjmu.ac.in,2026-10-31,Statutory approval & university affiliation
+786,SPARSH GLOBAL BUSINESS SCHOOL,name,SPARSH GLOBAL BUSINESS SCHOOL,"Sparsh Global Business School (SGBS), Greater Noida",VERIFIED,https://www.sparshgbs.in,2026-10-31,Full official institution name
+786,SPARSH GLOBAL BUSINESS SCHOOL,website,Existing,https://www.sparshgbs.in,VERIFIED,https://www.sparshgbs.in,2026-10-31,Official domain
+786,SPARSH GLOBAL BUSINESS SCHOOL,address,Existing,"Plot No. 29/2, Knowledge Park-III, Greater Noida - 201310, Uttar Pradesh, India",VERIFIED,https://www.sparshgbs.in,2026-10-31,Official campus address
+786,SPARSH GLOBAL BUSINESS SCHOOL,phone,Existing,+91-7669933416 / 1800-121-4800,VERIFIED,https://www.sparshgbs.in,2026-10-31,Official phone lines
+786,SPARSH GLOBAL BUSINESS SCHOOL,email,Existing,admission@sparshgbs.in,VERIFIED,https://www.sparshgbs.in,2026-10-31,Official institutional inbox
+786,SPARSH GLOBAL BUSINESS SCHOOL,type,Existing,Private,VERIFIED,https://www.sparshgbs.in,2026-10-31,Verified institutional status
+786,SPARSH GLOBAL BUSINESS SCHOOL,ownership,Existing,Private,VERIFIED,https://www.sparshgbs.in,2026-10-31,Verified ownership structure
+786,SPARSH GLOBAL BUSINESS SCHOOL,affiliation,Existing,"Approved by AICTE, Ministry of Education, Govt of India",VERIFIED,https://www.sparshgbs.in,2026-10-31,Statutory approval & university affiliation
+797,IIF BUSINESS SCHOOL,name,IIF BUSINESS SCHOOL,"IIF Business School / Indian Institute of Finance (IIF), Greater Noida",VERIFIED,https://www.iif.edu,2026-10-31,Full official institution name
+797,IIF BUSINESS SCHOOL,website,Existing,https://www.iif.edu,VERIFIED,https://www.iif.edu,2026-10-31,Official domain
+797,IIF BUSINESS SCHOOL,address,Existing,"Plot No. 45A, Knowledge Park III, Greater Noida - 201308, Delhi-NCR, Uttar Pradesh, India",VERIFIED,https://www.iif.edu,2026-10-31,Official campus address
+797,IIF BUSINESS SCHOOL,phone,Existing,+91-9811971002 / 0120-6471004,VERIFIED,https://www.iif.edu,2026-10-31,Official phone lines
+797,IIF BUSINESS SCHOOL,email,Existing,admission@iif.edu,VERIFIED,https://www.iif.edu,2026-10-31,Official institutional inbox
+797,IIF BUSINESS SCHOOL,type,Existing,Private,VERIFIED,https://www.iif.edu,2026-10-31,Verified institutional status
+797,IIF BUSINESS SCHOOL,ownership,Existing,Private,VERIFIED,https://www.iif.edu,2026-10-31,Verified ownership structure
+797,IIF BUSINESS SCHOOL,affiliation,Existing,"Approved by AICTE, Ministry of Education, Govt of India",VERIFIED,https://www.iif.edu,2026-10-31,Statutory approval & university affiliation
+808,ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,name,ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,"Adhunik Institute of Productivity Management & Research (AGOI), Ghaziabad",VERIFIED,https://adhunikgroup.org,2026-10-31,Full official institution name
+808,ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,website,Existing,https://adhunikgroup.org,VERIFIED,https://adhunikgroup.org,2026-10-31,Official domain
+808,ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,address,Existing,"9th Km Stone, Delhi-Meerut Road, Opposite Bank of India, Near Bus Stand Duhai, Ghaziabad - 201206, Uttar Pradesh, India",VERIFIED,https://adhunikgroup.org,2026-10-31,Official campus address
+808,ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,phone,Existing,+91-9818592787 / +91-9897698822,VERIFIED,https://adhunikgroup.org,2026-10-31,Official phone lines
+808,ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,email,Existing,info@adhunikgroup.org,VERIFIED,https://adhunikgroup.org,2026-10-31,Official institutional inbox
+808,ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,type,Existing,Private,VERIFIED,https://adhunikgroup.org,2026-10-31,Verified institutional status
+808,ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,ownership,Existing,Private,VERIFIED,https://adhunikgroup.org,2026-10-31,Verified ownership structure
+808,ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,affiliation,Existing,Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE,VERIFIED,https://adhunikgroup.org,2026-10-31,Statutory approval & university affiliation
+814,S.R.M. BUSINESS SCHOOL,name,S.R.M. BUSINESS SCHOOL,"S.R.M. Business School (SRMBS), Lucknow",VERIFIED,https://srmbs.in,2026-10-31,Full official institution name
+814,S.R.M. BUSINESS SCHOOL,website,Existing,https://srmbs.in,VERIFIED,https://srmbs.in,2026-10-31,Official domain
+814,S.R.M. BUSINESS SCHOOL,address,Existing,"NH-24, Sitapur Road, Bakshi ka Talab, Lucknow - 226201, Uttar Pradesh, India",VERIFIED,https://srmbs.in,2026-10-31,Official campus address
+814,S.R.M. BUSINESS SCHOOL,phone,Existing,+91 9793000004 / +91 9793000005,VERIFIED,https://srmbs.in,2026-10-31,Official phone lines
+814,S.R.M. BUSINESS SCHOOL,email,Existing,info@srgi.in,VERIFIED,https://srmbs.in,2026-10-31,Official institutional inbox
+814,S.R.M. BUSINESS SCHOOL,type,Existing,Private,VERIFIED,https://srmbs.in,2026-10-31,Verified institutional status
+814,S.R.M. BUSINESS SCHOOL,ownership,Existing,Private,VERIFIED,https://srmbs.in,2026-10-31,Verified ownership structure
+814,S.R.M. BUSINESS SCHOOL,affiliation,Existing,Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE,VERIFIED,https://srmbs.in,2026-10-31,Statutory approval & university affiliation
