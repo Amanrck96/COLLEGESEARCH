@@ -2248,5 +2248,80 @@
         "website": "https://www.srivanimcamba.org"
       }
     ]
+  },
+  {
+    "batch": 31,
+    "items": [
+      {
+        "id": 2552,
+        "name": "S.V.K.P. & Dr. K.S. Raju Arts & Science College (Autonomous)",
+        "type": "Public/Government-Aided (Autonomous)",
+        "location": "West Godavari District, Andhra Pradesh - 534320",
+        "website": "https://www.svkpandksrajucollege.edu.in"
+      },
+      {
+        "id": 2553,
+        "name": "Dr. K.V. Subba Reddy Institute of Management",
+        "type": "Private",
+        "location": "Kurnool, Andhra Pradesh - 518218",
+        "website": "https://www.drkvsmba.in"
+      },
+      {
+        "id": 2557,
+        "name": "Vikas Institute of Business Management",
+        "type": "Private",
+        "location": "YSR Kadapa District, Andhra Pradesh - 516001",
+        "website": "http://www.vibmkadapa.com"
+      },
+      {
+        "id": 2558,
+        "name": "Vignan's Institute of Engineering for Women (VIEW)",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 530049",
+        "website": "https://view.edu.in"
+      },
+      {
+        "id": 2560,
+        "name": "Mother Theresa Institute of Management (MTIM)",
+        "type": "Private",
+        "location": "Chittoor District, Andhra Pradesh - 517408",
+        "website": "http://mtimba.edu.in"
+      },
+      {
+        "id": 2562,
+        "name": "Vasavi MCA & MBA College",
+        "type": "Private",
+        "location": "Prakasam District, Andhra Pradesh - 523333",
+        "website": "http://www.vasavicbm.com"
+      },
+      {
+        "id": 2571,
+        "name": "Rajamahendri Institute of Engineering and Technology (RIET)",
+        "type": "Private",
+        "location": "East Godavari District, Andhra Pradesh - 533107",
+        "website": "https://www.rietrjy.co.in"
+      },
+      {
+        "id": 2575,
+        "name": "Malineni Lakshmaiah Women's Engineering College",
+        "type": "Private",
+        "location": "Guntur, Andhra Pradesh - 522017",
+        "website": "http://mlewguntur.com"
+      },
+      {
+        "id": 2577,
+        "name": "S.D.G.S. College (Autonomous)",
+        "type": "Public/Government-Aided (Autonomous)",
+        "location": "Sri Sathya Sai District, Andhra Pradesh - 515201",
+        "website": "https://sdgschdp.org"
+      },
+      {
+        "id": 2578,
+        "name": "Sir C.V. Raman College of Computer Sciences",
+        "type": "Private",
+        "location": "Prakasam District, Andhra Pradesh - 523240",
+        "website": "http://cvrccs.org"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **300 / 12,660**  
-**Roadmap Progress**: **30.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **310 / 12,660**  
+**Roadmap Progress**: **31.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -459,4 +459,19 @@
 | **2516** | Edge International B School | Private | Chittoor District, Andhra Pradesh - 517416 | [www.edgebschool.in](http://www.edgebschool.in) |
 | **2547** | Dantuluri Narayana Raju (D.N.R.) College (Autonomous) | Public/Government-Aided (Autonomous) | West Godavari District, Andhra Pradesh - 534202 | [dnrcollege.org](https://dnrcollege.org) |
 | **2551** | Sri Vani Institute of Management and Sciences (SVIMS) | Private | Anantapur, Andhra Pradesh - 515004 | [www.srivanimcamba.org](https://www.srivanimcamba.org) |
+
+### Batch 31 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2552** | S.V.K.P. & Dr. K.S. Raju Arts & Science College (Autonomous) | Public/Government-Aided (Autonomous) | West Godavari District, Andhra Pradesh - 534320 | [www.svkpandksrajucollege.edu.in](https://www.svkpandksrajucollege.edu.in) |
+| **2553** | Dr. K.V. Subba Reddy Institute of Management | Private | Kurnool, Andhra Pradesh - 518218 | [www.drkvsmba.in](https://www.drkvsmba.in) |
+| **2557** | Vikas Institute of Business Management | Private | YSR Kadapa District, Andhra Pradesh - 516001 | [www.vibmkadapa.com](http://www.vibmkadapa.com) |
+| **2558** | Vignan's Institute of Engineering for Women (VIEW) | Private | Visakhapatnam, Andhra Pradesh - 530049 | [view.edu.in](https://view.edu.in) |
+| **2560** | Mother Theresa Institute of Management (MTIM) | Private | Chittoor District, Andhra Pradesh - 517408 | [mtimba.edu.in](http://mtimba.edu.in) |
+| **2562** | Vasavi MCA & MBA College | Private | Prakasam District, Andhra Pradesh - 523333 | [www.vasavicbm.com](http://www.vasavicbm.com) |
+| **2571** | Rajamahendri Institute of Engineering and Technology (RIET) | Private | East Godavari District, Andhra Pradesh - 533107 | [www.rietrjy.co.in](https://www.rietrjy.co.in) |
+| **2575** | Malineni Lakshmaiah Women's Engineering College | Private | Guntur, Andhra Pradesh - 522017 | [mlewguntur.com](http://mlewguntur.com) |
+| **2577** | S.D.G.S. College (Autonomous) | Public/Government-Aided (Autonomous) | Sri Sathya Sai District, Andhra Pradesh - 515201 | [sdgschdp.org](https://sdgschdp.org) |
+| **2578** | Sir C.V. Raman College of Computer Sciences | Private | Prakasam District, Andhra Pradesh - 523240 | [cvrccs.org](http://cvrccs.org) |
 
