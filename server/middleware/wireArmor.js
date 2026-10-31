@@ -47,9 +47,19 @@ export function verifyArmorHandshake(req, res, next) {
   const armorToken = req.headers['x-armor-token'] || req.headers['X-Armor-Token'];
   const userAgent = req.headers['user-agent'] || '';
 
-  // 1. Block common bot User-Agents immediately
-  const botPattern = /python|curl|wget|scrapy|httpclient|postman|insomnia|headlesschrome|phantomjs|selenium|puppeteer|playwright/i;
+  // 1. Block common external scraping tools (exempt dev/test on localhost)
+  const isLocalhost = req.hostname === 'localhost' || req.hostname === '127.0.0.1' || req.ip === '127.0.0.1' || req.ip === '::1';
+  const botPattern = /python|curl|wget|scrapy|httpclient|postman|insomnia/i;
+  const browserTestPattern = /headlesschrome|phantomjs|selenium|puppeteer|playwright/i;
+  
   if (botPattern.test(userAgent) && !req.headers['x-dev-bypass']) {
+    return res.status(403).json({
+      error: 'Access Denied: Automated scraping tools are strictly prohibited.',
+      code: 'BOT_DETECTED'
+    });
+  }
+  
+  if (browserTestPattern.test(userAgent) && !isLocalhost && !req.headers['x-dev-bypass'] && process.env.NODE_ENV === 'production') {
     return res.status(403).json({
       error: 'Access Denied: Automated scraping tools are strictly prohibited.',
       code: 'BOT_DETECTED'

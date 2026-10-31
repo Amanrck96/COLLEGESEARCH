@@ -4,10 +4,10 @@
       "id": 12660,
       "name": "Delhi Technological University (DTU Delhi)",
       "shortName": "DTU",
-      "location": "New Delhi",
+      "location": "Delhi",
       "state": "Delhi",
       "country": "India",
-      "address": "Shahbad Daulatpur, Main Bawana Road, Delhi 110042",
+      "address": "Shahbad Daulatpur, Main Bawana Road, Delhi - 110042",
       "phone": "+91-11-2787 1018",
       "email": "vcdtu@dtu.ac.in",
       "website": "https://www.dtu.ac.in",
@@ -806,8 +806,8 @@
       "shikshaUrl": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938",
       "name": "IIT Delhi - Indian Institute of Technology",
       "shortName": "IIT Delhi",
-      "location": "N/A",
-      "state": "N/A",
+      "location": "Hauz Khas, New Delhi",
+      "state": "Delhi",
       "country": "India",
       "rating": 4.6,
       "reviews": 350,
@@ -860,13 +860,13 @@
       "image": "/images/campuses/campus_iit_delhi.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIT%20Delhi%20-%20Indian%20Institute%20of%20Technology%20N%2FA",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Technology%20Delhi%20(IIT%20Delhi)%20Hauz%20Khas%2C%20New%20Delhi%20Delhi%20NCR",
-      "address": "Indian Institute of Technology, IIT Delhi Main Road, IIT Campus",
+      "address": "Hauz Khas, New Delhi - 110016, Delhi, India",
       "phone": "01126597135",
       "email": "info@iitd.ac.in",
       "facebook": "#",
       "instagram": "#",
       "linkedin": "#",
-      "affiliation": "N/A",
+      "affiliation": "Autonomous Institute of National Importance (Institutes of Technology Act)",
       "highlights": "N/A, N/A",
       "admissionProcess": "N/A",
       "brochureLink": "Clickable Trigger ID: brchr_53938",
@@ -931,7 +931,10 @@
       "image": "/images/campuses/iit_bombay_powai.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Technology%20Bombay%20(IIT%20Bombay)%20Powai%2C%20Mumbai%20Maharashtra",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Technology%20Bombay%20(IIT%20Bombay)%20Powai%2C%20Mumbai%20Maharashtra",
-      "address": "Powai, Mumbai, Maharashtra, India"
+      "address": "Main Gate Road, IIT Area, Powai, Mumbai - 400076, Maharashtra, India",
+      "phone": "+91-22-2572 2545",
+      "email": "pro@iitb.ac.in",
+      "affiliation": "Autonomous Institute of National Importance (Institutes of Technology Act)"
     },
     {
       "id": 14,
@@ -1049,7 +1052,10 @@
       "image": "/images/campuses/iim_bangalore.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Management%20Bangalore%20(IIM%20Bangalore)%20Bannerghatta%20Road%2C%20Bangalore%20Karnataka",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Management%20Bangalore%20(IIM%20Bangalore)%20Bannerghatta%20Road%2C%20Bangalore%20Karnataka",
-      "address": "Bannerghatta Road, Bangalore, Karnataka, India"
+      "address": "Bannerghatta Main Road, Bilekahalli, Bengaluru - 560076, Karnataka, India",
+      "phone": "+91-80-2699 3000",
+      "email": "info@iimb.ac.in",
+      "affiliation": "Autonomous Institute of National Importance (IIM Act 2017)"
     },
     {
       "id": 16,
@@ -4450,8 +4456,8 @@
       "location": "Kolkata",
       "state": "West Bengal",
       "country": "India",
-      "address": "Diamond Harbour Road, Joka, Kolkata, West Bengal 700104",
-      "phone": "+91-33-2467 8300",
+      "address": "Diamond Harbour Road, Joka, Kolkata - 700104, West Bengal",
+      "phone": "+91-33-2467-8300",
       "email": "admissions@iimcal.ac.in",
       "website": "https://www.iimcal.ac.in",
       "rating": 4.9,
@@ -4481,7 +4487,7 @@
         },
         {
           "title": "MBAEx Executive MBA",
-          "duration": "1 Year",
+          "duration": "2 Years",
           "fees": "₹31 Lakhs Total",
           "eligibility": "Graduation + 5 Years Work Exp + GMAT"
         }
@@ -5950,16 +5956,16 @@
     },
     {
       "id": 78,
-      "name": "DEPARTMENT OF BUSINESS ADMINISTRATION",
+      "name": "Department of Business Administration, Mangalore University",
       "shortName": "Course Institute-1",
       "location": "DAKSHINA KANNADA",
       "state": "Karnataka",
-      "address": "DEPARTMENT OF BUSINESS ADMINISTRATION MANGALORE UNIVERSITY MANGALAGANGOTRI KONAJE",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofbus.edu.in",
+      "address": "Mangalagangotri - 574199, Konaje, Mangalore, Dakshina Kannada, Karnataka",
+      "phone": "0824-2287209",
+      "website": "https://mangaloreuniversity.ac.in",
       "rating": 5,
       "reviews": 1865,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to DEPARTMENT OF BUSINESS ADMINISTRATION, a premier institute located in DAKSHINA KANNADA. We offer world-class education and facilities for our students.",
       "ranking": 28,
       "facebook": "#",
@@ -5968,7 +5974,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20BUSINESS%20ADMINISTRATION%20DAKSHINA%20KANNADA%20Karnataka",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://hosakannada.com/wp-content/uploads/2023/10/IMG-20231007-WA0035.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -6002,9 +6008,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1865,
-      "image": "/images/campuses/bangalore_university.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20BUSINESS%20ADMINISTRATION%20DAKSHINA%20KANNADA%20Karnataka"
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20BUSINESS%20ADMINISTRATION%20DAKSHINA%20KANNADA%20Karnataka",
+      "email": "businessadministration@mangaloreuniversity.ac.in",
+      "affiliation": "Mangalore University & Approved by AICTE"
     },
     {
       "id": 79,
@@ -6012,9 +6020,9 @@
       "shortName": "Course Institute-1",
       "location": "BANGALORE RURAL",
       "state": "Karnataka",
-      "address": "88/1, GOTTIGERE, BANNERGHATTA ROAD, BANGALORE",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=T%20JOHN%20COLLEGE%20official%20website%20BANGALORE%20RURAL%20Karnataka",
+      "address": "No. 88/1, Kammanahalli, Gottigere, Bannerghatta Road, Bengaluru - 560083, Karnataka",
+      "phone": "+91-80-4903 0555",
+      "website": "https://www.tjohncollege.com/",
       "rating": 5,
       "reviews": 408,
       "type": "Private",
@@ -6026,7 +6034,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=T%20JOHN%20COLLEGE%20BANGALORE%20RURAL%20Karnataka",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/primus_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "http://comedk.org/uploads/tjit-img-1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -6060,10 +6068,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 408,
-      "image": "/images/campuses/primus_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=T%20JOHN%20COLLEGE%20BANGALORE%20RURAL%20Karnataka",
-      "imageUrl": "/images/campuses/primus_bangalore.jpg"
+      "imageUrl": "/images/campuses/primus_bangalore.jpg",
+      "email": "info@tjohngroup.com",
+      "affiliation": "Bangalore University & AICTE"
     },
     {
       "id": 80,
@@ -11105,9 +11115,9 @@
       "shortName": "Course Institute-1",
       "location": "PUNE",
       "state": "Maharashtra",
-      "address": "605/1 MUKAYWADI ROAD, PIRANGUT, TAL MULSHI",
-      "phone": "0123-456789",
-      "website": "https://www.puneinstituteof.edu.in",
+      "address": "Gut No. 605/1, Mukaiwadi Road, Pirangut, Tal - Mulshi, Pune - 412115, Maharashtra",
+      "phone": "+91-9175656222",
+      "website": "https://www.pibm.in",
       "rating": 5,
       "reviews": 1163,
       "type": "Private",
@@ -11156,7 +11166,9 @@
       "reviewsCount": 1163,
       "image": "/images/campuses/pibm_pune.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PUNE%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20PUNE%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PUNE%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20PUNE%20Maharashtra",
+      "email": "admission@pibm.in",
+      "affiliation": "Savitribai Phule Pune University (SPPU) & Approved by AICTE, NBA & NAAC"
     },
     {
       "id": 156,
@@ -11691,8 +11703,8 @@
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Private Deemed-to-be-University",
+      "ownership": "Private",
       "ranking": 1,
       "about": "SIBM Pune - Symbiosis Institute of Business Management is one of India's foremost apex premier institutions in Pune, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹24.2 Lakhs (Total)",
@@ -11734,11 +11746,13 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "website": "https://www.sibmpune.edu.in",
+      "website": "https://www.sibm.edu/",
       "address": "Symbiosis Knowledge Village, Gram Lavale, Tal Mulshi, Pune, Maharashtra 412115",
       "image": "/images/campuses/riim_pune.jpeg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Symbiosis%20Institute%20of%20Business%20Management%20(SIBM%20Pune)%20Pune%20Maharashtra",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Symbiosis%20Institute%20of%20Business%20Management%20(SIBM%20Pune)%20Pune%20Maharashtra"
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Symbiosis%20Institute%20of%20Business%20Management%20(SIBM%20Pune)%20Pune%20Maharashtra",
+      "isDuplicate": true,
+      "canonicalId": 233
     },
     {
       "id": 166,
@@ -11859,16 +11873,16 @@
     },
     {
       "id": 168,
-      "name": "SCHOOL OF MANAGEMENT STUDIES",
+      "name": "School of Management Studies, KBC North Maharashtra University",
       "shortName": "Course Institute-1",
       "location": "JALGAON",
       "state": "Maharashtra",
-      "address": "NORTH MAHARASHTRA UNIVERSITY, POST BOX NO. 80, UMAVI NAGAR, JALGAON 425001",
-      "phone": "0123-456789",
-      "website": "https://www.schoolofmanagem.edu.in",
+      "address": "P.O. Box No. 80, Umavi Nagar, KBC North Maharashtra University, Jalgaon - 425001, Maharashtra",
+      "phone": "0257-2257463",
+      "website": "https://www.nmu.ac.in",
       "rating": 4.8,
       "reviews": 1486,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to SCHOOL OF MANAGEMENT STUDIES, a premier institute located in JALGAON. We offer world-class education and facilities for our students.",
       "ranking": 97,
       "facebook": "#",
@@ -11877,7 +11891,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20MANAGEMENT%20STUDIES%20JALGAON%20Maharashtra",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/spdt_tibrewala_andheri.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/colleges/social-media/media-gallery/26666/2019/10/29/Campus View of School of Management Studies, Kavayitri Bahinabai Chaudhari North Maharashtra University Jalgaon_Campus-View.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -11911,10 +11925,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1486,
-      "image": "/images/campuses/spdt_tibrewala_andheri.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20MANAGEMENT%20STUDIES%20JALGAON%20Maharashtra",
-      "imageUrl": "/images/campuses/spdt_tibrewala_andheri.jpg"
+      "imageUrl": "/images/campuses/spdt_tibrewala_andheri.jpg",
+      "email": "somgt@nmu.ac.in"
     },
     {
       "id": 169,
@@ -12034,16 +12049,16 @@
     },
     {
       "id": 171,
-      "name": "COLLEGE OF ENGINEERING",
+      "name": "University Institute of Technology (UIT), Gondwana University",
       "shortName": "Course Institute-1",
       "location": "GADCHIROLI",
       "state": "Maharashtra",
-      "address": "PO ADPALLI, TEHSIL GADCHIROLI",
-      "phone": "0123-456789",
-      "website": "https://newhorizonindia.edu/nhengineering",
+      "address": "MIDC Road, Complex, Adpalli, Gadchiroli - 442605, Maharashtra",
+      "phone": "07132-223106",
+      "website": "https://uitgug.ac.in",
       "rating": 4.8,
       "reviews": 228,
-      "type": "Private",
+      "type": "Public/Government (Conducted University Institute)",
       "about": "Welcome to UNIVERSITY INSTITUTE OF TECHNOLOGY, a premier institute located in GADCHIROLI. We offer world-class education and facilities for our students.",
       "ranking": 95,
       "facebook": "#",
@@ -12052,7 +12067,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20ENGINEERING%20GADCHIROLI%20Maharashtra",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
@@ -12104,9 +12119,10 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 228,
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20ENGINEERING%20GADCHIROLI%20Maharashtra"
+      "image": "/images/campuses/campus_architecture_5.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20ENGINEERING%20GADCHIROLI%20Maharashtra",
+      "affiliation": "Gondwana University, Gadchiroli & Approved by AICTE, DTE Code 4022"
     },
     {
       "id": 172,
@@ -12517,13 +12533,13 @@
     },
     {
       "id": 179,
-      "name": "INSTITUTE OF MANAGEMENT AND RESEARCH",
+      "name": "Shri Shivaji Maratha Society's Institute of Management & Research (SSMS IMR)",
       "shortName": "Course Institute-1",
       "location": "PUNE",
       "state": "Maharashtra",
-      "address": "S.NO.74/1A,74/1B, PARVATI, ARANEYSHWAR, PUNE",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofmana.edu.in",
+      "address": "Survey No. 74/1A, 74/1B, Parvati, Aranyeshwar, Pune - 411009, Maharashtra",
+      "phone": "020-24222612",
+      "website": "https://www.ssmsimr.edu.in",
       "rating": 4.6,
       "reviews": 327,
       "type": "Private",
@@ -12535,7 +12551,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20AND%20RESEARCH%20PUNE%20Maharashtra",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/adhalrao-patil-institute-of-management-research-apimr-pune-152368.webp",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/adhalrao-patil-institute-of-management-research-apimr-pune-152368.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -12569,9 +12585,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 327,
-      "image": "https://www.collegebatch.com/static/clg-gallery/adhalrao-patil-institute-of-management-research-apimr-pune-152368.webp",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20AND%20RESEARCH%20PUNE%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20AND%20RESEARCH%20PUNE%20Maharashtra",
+      "email": "ssms.imr@gmail.com",
+      "affiliation": "Savitribai Phule Pune University (SPPU) & Approved by AICTE, DTE Code 6116"
     },
     {
       "id": 180,
@@ -16656,13 +16674,13 @@
       "location": "Pune",
       "state": "Maharashtra",
       "country": "India",
-      "address": "Symbiosis Knowledge Village, Gram Lavale, Tal Mulshi, Pune, Maharashtra 412115",
-      "phone": "02028116000",
-      "email": "info@sibmpune.edu.in",
+      "address": "Gram Lavale, Tal Mulshi, Pune - 412115, Maharashtra",
+      "phone": "020-28116000",
+      "email": "symbiosis@sibm.edu",
       "website": "https://www.sibm.edu/",
       "rating": 4.5,
       "reviews": 336,
-      "type": "Private",
+      "type": "Private Deemed-to-be-University",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -16672,7 +16690,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=Symbiosis%20Institute%20of%20Business%20Management%20(SIBM%20Pune)%20Pune%20Maharashtra",
       "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
       "exams": "CAT, MAT, XAT, CMAT",
-      "img": "/images/campuses/riim_pune.jpeg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
       "gallery": [
         "https://www.campustimespune.com/wp-content/uploads/2015/02/symbiosis-campus-lavale.jpg",
@@ -16694,7 +16712,7 @@
         {
           "title": "Executive MBA",
           "division": "Postgraduate",
-          "duration": "1 Year",
+          "duration": "2 Years",
           "fees": "₹12.0 Lakhs",
           "eligibility": "Graduation + 3+ yrs experience",
           "exams": "GMAT / CAT",
@@ -16726,8 +16744,9 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 233,
       "reviewsCount": 336,
-      "image": "/images/campuses/riim_pune.jpeg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Symbiosis%20Institute%20of%20Business%20Management%20(SIBM%20Pune)%20Pune%20Maharashtra"
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Symbiosis%20Institute%20of%20Business%20Management%20(SIBM%20Pune)%20Pune%20Maharashtra",
+      "isCanonical": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/fergusson-college-fergusson-college-road-pune-25748",
@@ -16976,13 +16995,13 @@
     },
     {
       "id": 237,
-      "name": "GLOBAL INSTITUTE OF MANAGEMENT",
+      "name": "Global Institute of Management (GIOM), Sangamner",
       "shortName": "Course Institute-1",
       "location": "AHMEDNAGAR",
       "state": "Maharashtra",
-      "address": "S. NO. 132/1, PUNE NASHIK HIGHWAY, VELHALE, SANGAMNER, DIST. AHMEDNAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.globalinstitute.edu.in",
+      "address": "Sr. No. 132/1, Pune-Nashik Highway, Velhale, Taluka Sangamner, Dist. Ahmednagar - 422605, Maharashtra",
+      "phone": "+91-8698925530",
+      "website": "https://giom.edu.in",
       "rating": 4.5,
       "reviews": 1862,
       "type": "Private",
@@ -17031,7 +17050,8 @@
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GLOBAL%20INSTITUTE%20OF%20MANAGEMENT%20AHMEDNAGAR%20Maharashtra",
-      "imageUrl": "/images/campuses/kohinoor_kurla.jpg"
+      "email": "globalsangamner@gmail.com",
+      "affiliation": "Savitribai Phule Pune University (SPPU) & Approved by AICTE, DTE Code 5384"
     },
     {
       "id": 238,
@@ -17437,13 +17457,13 @@
     },
     {
       "id": 245,
-      "name": "DR. D. Y. PATIL TECHNICAL CAMPUS",
+      "name": "Dr. D. Y. Patil Technical Campus, Talegaon, Pune",
       "shortName": "Course Institute-1",
       "location": "PUNE",
       "state": "Maharashtra",
-      "address": "S.NO.32/1/A/7, VARALE,TALEGAON,PUNE",
-      "phone": "0123-456789",
-      "website": "https://www.drdypatiltechni.edu.in",
+      "address": "Sr. No. 32/1/A/7, Near Talegaon Railway Station, A/P Varale, Talegaon Dabhade, Pune - 410507, Maharashtra",
+      "phone": "+91-7666829653",
+      "website": "https://www.dypatiltcs.com",
       "rating": 4.5,
       "reviews": 474,
       "type": "Private",
@@ -17455,13 +17475,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DR.%20D.%20Y.%20PATIL%20TECHNICAL%20CAMPUS%20PUNE%20Maharashtra",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/saraswati_kharghar.webp",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/d-y-patil-university-pune-campus-building.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Savitribai Phule Pune University (SPPU) & Approved by AICTE, DTE Code 6780",
       "courses": [
         {
           "title": "MCA",
@@ -17485,9 +17505,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/saraswati_kharghar.webp",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20D.%20Y.%20PATIL%20TECHNICAL%20CAMPUS%20PUNE%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20D.%20Y.%20PATIL%20TECHNICAL%20CAMPUS%20PUNE%20Maharashtra",
+      "email": "info@dypatiltcs.com"
     },
     {
       "id": 246,
@@ -17549,9 +17570,9 @@
       "shortName": "Course Institute-1",
       "location": "PUNE",
       "state": "Maharashtra",
-      "address": "A4, FOREST TRAILS TOWNSHIP, NEAR SALES OFFICE, PARANJAPE SCHEMES, NEAR MANAS LAKE, BHUGAON, PUNE - 412115, MAHARASHTRA",
-      "phone": "0123-456789",
-      "website": "https://www.fuelbusinesssch.edu.in",
+      "address": "Sector A4, Forest Trails Township, Matalwadi Road, Bhugaon, Paud Road, Pune - 412115, Maharashtra",
+      "phone": "+91-7709005498 / +91-8600035498",
+      "website": "https://www.fuelbschool.com/",
       "rating": 4.5,
       "reviews": 242,
       "type": "Private",
@@ -17563,13 +17584,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=FUEL%20BUSINESS%20SCHOOL%20PUNE%20Maharashtra",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/gnims_matunga.png",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.pgdm.college/wp-content/uploads/2025/12/FUEL-Business-School-Pune-Campus-1024x401.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt. of India",
       "courses": [
         {
           "title": "PGDM",
@@ -17593,9 +17614,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/gnims_matunga.png",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=FUEL%20BUSINESS%20SCHOOL%20PUNE%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=FUEL%20BUSINESS%20SCHOOL%20PUNE%20Maharashtra",
+      "email": "admissions@fuelbschool.com"
     },
     {
       "id": 248,
@@ -17779,12 +17801,12 @@
       "shortName": "Course Online",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
-      "address": "HAMDARD NAGAR",
-      "phone": "0123-456789",
+      "address": "Mehrauli - Badarpur Road, Hamdard Nagar, New Delhi - 110062, India",
+      "phone": "011-26059688",
       "website": "https://www.jamiahamdard.edu.in",
       "rating": 4.7,
       "reviews": 1417,
-      "type": "Private",
+      "type": "Government Supported / Deemed-to-be-University",
       "about": "Welcome to JAMIA HAMDARD, a premier institute located in SOUTH DELHI. We offer world-class education and facilities for our students.",
       "ranking": 57,
       "facebook": "#",
@@ -17793,7 +17815,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=JAMIA%20HAMDARD%20SOUTH%20DELHI%20Delhi%20NCR",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.jamiahamdard.ac.in/uploads/DSC03737.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://www.jamiahamdard.ac.in/uploads/DSC03737.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -17835,9 +17857,10 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1417,
-      "image": "https://www.jamiahamdard.ac.in/uploads/DSC03737.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAMIA%20HAMDARD%20SOUTH%20DELHI%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_9.jpg",
+      "ownership": "Deemed University (Govt. Supported)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAMIA%20HAMDARD%20SOUTH%20DELHI%20Delhi%20NCR",
+      "email": "counselling@jamiahamdard.ac.in"
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/indian-institute-of-mass-communication-new-delhi/iimc-entrance-exam",
@@ -19471,13 +19494,13 @@
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi NCR, India",
-      "phone": "080-26597135",
-      "email": "admissions@dd.edu.in",
+      "phone": "011-27871018",
+      "email": "academic@dtu.ac.in",
       "website": "http://www.dtu.ac.in",
       "rating": 4.5,
       "reviews": 205,
-      "type": "Private",
-      "ownership": "Private",
+      "type": "Public/Government State University",
+      "ownership": "Government",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
@@ -19558,7 +19581,10 @@
       "id": 273,
       "reviewsCount": 205,
       "image": "/images/campuses/delhi_technological_university.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Delhi%20Technological%20University%20(DTU%2C%20Delhi)%20Rohini%2C%20New%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Delhi%20Technological%20University%20(DTU%2C%20Delhi)%20Rohini%2C%20New%20Delhi%20Delhi%20NCR",
+      "isDuplicate": true,
+      "canonicalId": 12660,
+      "duplicateOf": 12660
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/ganga-institute-of-technology-and-management-jhajjar-36540/admission",
@@ -22300,9 +22326,9 @@
       "shortName": "Course Institute-1",
       "location": "NORTH WEST DELHI",
       "state": "Delhi NCR",
-      "address": "PSP AREA, PLOT NO.1, SECTOR-22, ROHINI,",
-      "phone": "0123-456789",
-      "website": "https://www.maharajaagrasen.edu.in",
+      "address": "Maharaja Agrasen Chowk, Sector 22, Rohini, Delhi - 110086",
+      "phone": "+91-9311924828",
+      "website": "https://mabs.ac.in",
       "rating": 4.5,
       "reviews": 272,
       "type": "Private",
@@ -22314,14 +22340,14 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20AGRASEN%20BUSINESS%20SCHOOL%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sailee_college_borivali.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/maharaja-agrasen-institute-of-management-studies-new-delhi-332042.webp",
         "https://www.admissionmba.in/wp-content/uploads/2023/01/Maharaja-Agrasen-Business-School-Delhi-Campus-454x300.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt. of India",
       "courses": [
         {
           "title": "PGDM",
@@ -22345,20 +22371,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20AGRASEN%20BUSINESS%20SCHOOL%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "admissionhead@mabs.ac.in"
     },
     {
       "id": 307,
       "name": "TECNIA INSTITUTE OF ADVANCED STUDIES CDL",
       "shortName": "Course Institute-1",
-      "location": "KARBI ANGLONG",
-      "state": "Delhi NCR",
-      "address": "B-71/2, WAZIRPUR, INDUSTRIAL AREA, WAZIRPUR, NEW DELHI - 110052",
-      "phone": "0123-456789",
-      "website": "https://www.tecniainstitute.edu.in",
+      "location": "Rohini, North West Delhi",
+      "state": "Delhi",
+      "address": "Institutional Area, Madhuban Chowk, Sector 14, Rohini, Delhi - 110085",
+      "phone": "011-27555124",
+      "website": "https://cdl.tecnia.in",
       "rating": 4.5,
       "reviews": 195,
       "type": "Private",
@@ -22370,13 +22397,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=TECNIA%20INSTITUTE%20OF%20ADVANCED%20STUDIES%20CDL%20KARBI%20ANGLONG%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/ramaiah_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://ik.imagekit.io/syustaging/SYU_PREPROD/Cover-Image_0Vl_e7kEp.webp?tr=w-3840",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE & UGC-DEB",
       "courses": [
         {
           "title": "PGDM",
@@ -22400,9 +22427,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/ramaiah_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TECNIA%20INSTITUTE%20OF%20ADVANCED%20STUDIES%20CDL%20KARBI%20ANGLONG%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TECNIA%20INSTITUTE%20OF%20ADVANCED%20STUDIES%20CDL%20KARBI%20ANGLONG%20Delhi%20NCR",
+      "email": "directorcdl@tecnia.in"
     },
     {
       "id": 308,
@@ -22410,9 +22438,9 @@
       "shortName": "Course Institute-1",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
-      "address": "105,NEHRU PLACE ROAD,OPP.NEHRU PLACE ,NEW DELHI",
-      "phone": "0123-456789",
-      "website": "https://www.newdelhiinstitu.edu.in",
+      "address": "105, Mor Pocket, Nehru Place Road, Kalkaji, New Delhi - 110019",
+      "phone": "+91-9810479477",
+      "website": "https://www.ndiit.org",
       "rating": 4.5,
       "reviews": 392,
       "type": "Private",
@@ -22424,13 +22452,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NEW%20DELHI%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY%20AND%20MANAGEMENT%20SOUTH%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/new-delhi-institute-for-information-technology-management-new-delhi-291350.webp",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/new-delhi-institute-for-information-technology-management-new-delhi-291350.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt. of India",
       "courses": [
         {
           "title": "PGDM",
@@ -22454,9 +22482,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/new-delhi-institute-for-information-technology-management-new-delhi-291350.webp",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEW%20DELHI%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY%20AND%20MANAGEMENT%20SOUTH%20DELHI%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEW%20DELHI%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY%20AND%20MANAGEMENT%20SOUTH%20DELHI%20Delhi%20NCR",
+      "email": "admissions@ndiit.org"
     },
     {
       "id": 309,
@@ -22574,9 +22603,9 @@
       "shortName": "Course Institute-1",
       "location": "WEST DELHI",
       "state": "Delhi NCR",
-      "address": "ROAD NO. 75, WEST PUNJABI BAGH",
-      "phone": "0123-456789",
-      "website": "https://www.gurunanakinstit.edu.in",
+      "address": "Road No. 75, West Punjabi Bagh, New Delhi - 110026",
+      "phone": "+91-9654537084",
+      "website": "https://gnim.ac.in",
       "rating": 4.5,
       "reviews": 204,
       "type": "Private",
@@ -22594,7 +22623,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Guru Gobind Singh Indraprastha University (GGSIPU) & Approved by AICTE",
       "courses": [
         {
           "title": "PGDM",
@@ -22606,7 +22635,7 @@
         },
         {
           "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
+          "duration": "2 Years",
           "fees": "₹2.5 Lakhs",
           "eligibility": "10+2 / Graduation",
           "type": "COMPUTER APPLICATIONS",
@@ -22629,7 +22658,8 @@
       "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GURU%20NANAK%20INSTITUTE%20OF%20MANAGEMENT%20WEST%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "admission.gnim@gmail.com"
     },
     {
       "id": 312,
@@ -22745,9 +22775,9 @@
       "shortName": "Course Institute-1",
       "location": "NORTH WEST DELHI",
       "state": "Delhi NCR",
-      "address": "PLOT NO.2, BLOCK-PSP, SECTOR - 8, DWARKA",
-      "phone": "0123-456789",
-      "website": "https://www.srisukhmaniinst.edu.in",
+      "address": "Plot No. 2, Sector 8, Near Dwarka Sector 9 Metro Station, Dwarka, New Delhi - 110075",
+      "phone": "+91-9910339814",
+      "website": "https://ssimdelhi.org",
       "rating": 4.5,
       "reviews": 347,
       "type": "Private",
@@ -22759,13 +22789,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRI%20SUKHMANI%20INSTITUTE%20OF%20MANAGEMENT%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://assets.kollegeapply.com/images/1751548674472-1726568279phpoS0aLH.jpeg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://assets.kollegeapply.com/images/1751548674472-1726568279phpoS0aLH.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt. of India",
       "courses": [
         {
           "title": "PGDM",
@@ -22789,9 +22819,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://assets.kollegeapply.com/images/1751548674472-1726568279phpoS0aLH.jpeg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20SUKHMANI%20INSTITUTE%20OF%20MANAGEMENT%20NORTH%20WEST%20DELHI%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20SUKHMANI%20INSTITUTE%20OF%20MANAGEMENT%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
+      "email": "ssimgt@gmail.com"
     },
     {
       "id": 315,
@@ -22799,8 +22830,8 @@
       "shortName": "Course Institute-1",
       "location": "SOUTH WEST DELHI",
       "state": "Delhi NCR",
-      "address": "APEEJAY CAMPUS, SECTOR-8, INSTITUTIONAL AREA",
-      "phone": "0123-456789",
+      "address": "Institutional Area, Sector 8, Dwarka, New Delhi - 110075",
+      "phone": "+91-9910-222-777",
       "website": "https://www.apeejay.edu/aimc",
       "rating": 4.5,
       "reviews": 284,
@@ -22813,13 +22844,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=APEEJAY%20INSTITUTE%20OF%20MASS%20COMMUNICATION%20SOUTH%20WEST%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1585072379aimcbuildingpic.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/appImage/1585072379aimcbuildingpic.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE & Accredited by NBA",
       "courses": [
         {
           "title": "PGDM",
@@ -22843,9 +22874,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1585072379aimcbuildingpic.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=APEEJAY%20INSTITUTE%20OF%20MASS%20COMMUNICATION%20SOUTH%20WEST%20DELHI%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=APEEJAY%20INSTITUTE%20OF%20MASS%20COMMUNICATION%20SOUTH%20WEST%20DELHI%20Delhi%20NCR",
+      "email": "aimc.del@apj.edu"
     },
     {
       "id": 316,
@@ -22853,12 +22885,12 @@
       "shortName": "Course Institute-1",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
-      "address": "PUSHP VIHAR SECTOR-III, M.B. ROAD, NEW DELHI",
-      "phone": "0123-456789",
-      "website": "https://www.delhipharmaceut.edu.in",
+      "address": "Mehrauli - Badarpur Road, Pusp Vihar, Sector 3, New Delhi - 110017",
+      "phone": "011-29552055",
+      "website": "https://dpsru.edu.in",
       "rating": 4.5,
       "reviews": 269,
-      "type": "Private",
+      "type": "Public/Government (State University)",
       "about": "Welcome to DELHI PHARMACEUTICAL SCIENCES AND RESEARCH UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 71,
       "facebook": "#",
@@ -22867,13 +22899,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DELHI%20PHARMACEUTICAL%20SCIENCES%20AND%20RESEARCH%20UNIVERSITY%20SOUTH%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://img.jagranjosh.com/images/2022/December/13122022/Delhi-Pharmaceutical-Sciences-and-Research-University-New-Delhi-Campus-View-3.JPG",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://img.jagranjosh.com/images/2022/December/13122022/Delhi-Pharmaceutical-Sciences-and-Research-University-New-Delhi-Campus-View-3.JPG",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "State University under Govt of NCT of Delhi, Approved by UGC & PCI",
       "courses": [
         {
           "title": "MBA (HEALTH CARE AND HOSPITAL MANAGEMENT)",
@@ -22897,9 +22929,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://img.jagranjosh.com/images/2022/December/13122022/Delhi-Pharmaceutical-Sciences-and-Research-University-New-Delhi-Campus-View-3.JPG",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DELHI%20PHARMACEUTICAL%20SCIENCES%20AND%20RESEARCH%20UNIVERSITY%20SOUTH%20DELHI%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_5.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DELHI%20PHARMACEUTICAL%20SCIENCES%20AND%20RESEARCH%20UNIVERSITY%20SOUTH%20DELHI%20Delhi%20NCR",
+      "email": "admissions@dpsru.edu.in"
     },
     {
       "id": 317,
@@ -23070,9 +23103,9 @@
       "shortName": "Course Institute-1",
       "location": "South West Delhi",
       "state": "Delhi NCR",
-      "address": "HAF-1, Sector-9, Phase-I, Dwarka, New Delhi 110077",
-      "phone": "0123-456789",
-      "website": "https://www.fostiimabusines.edu.in",
+      "address": "Plot No. HAF-1, Sector 9, Institutional Area, Dwarka, New Delhi - 110077",
+      "phone": "+91-76783 91245",
+      "website": "https://www.fostiima.org",
       "rating": 4.5,
       "reviews": 374,
       "type": "Private",
@@ -23090,7 +23123,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt. of India",
       "courses": [
         {
           "title": "PGDM",
@@ -23117,20 +23150,21 @@
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=FOSTIIMA%20BUSINESS%20SCHOOL%20South%20West%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "admissions@fostiima.org"
     },
     {
       "id": 321,
-      "name": "INDIAN INSTITUTE OF FOREIGN TRADE",
+      "name": "Indian Institute of Foreign Trade (IIFT), New Delhi",
       "shortName": "Course Institute-1",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
-      "address": "B-21, QUTAB INSTITUTIONAL AREA",
-      "phone": "0123-456789",
-      "website": "https://www.indianinstitute.edu.in",
+      "address": "IIFT Bhawan, B-21, Qutab Institutional Area, New Delhi - 110016, India",
+      "phone": "+91-11-39147200",
+      "website": "https://www.iift.ac.in",
       "rating": 4.5,
       "reviews": 137,
-      "type": "Private",
+      "type": "Public/Government (Autonomous Institution / Deemed University)",
       "about": "Welcome to INDIAN INSTITUTE OF FOREIGN TRADE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 59,
       "facebook": "#",
@@ -23139,13 +23173,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20FOREIGN%20TRADE%20SOUTH%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/riim_pune.jpeg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://acadtune.com/wp-content/uploads/2025/03/IIFT-Image-credit-India-Today.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Autonomous Institution under Ministry of Commerce, Govt of India; AACSB & NAAC A+ Accredited",
       "courses": [
         {
           "title": "MBA (INTERNATIONAL BUSINESS)",
@@ -23169,9 +23203,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20FOREIGN%20TRADE%20SOUTH%20DELHI%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_7.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20FOREIGN%20TRADE%20SOUTH%20DELHI%20Delhi%20NCR",
+      "email": "registrar@iift.ac.in"
     },
     {
       "id": 322,
@@ -23460,9 +23495,9 @@
       "shortName": "Course Institute-1",
       "location": "NEW DELHI",
       "state": "Delhi NCR",
-      "address": "RAI SCHOOL COMPLEX, LODHI ROAD, NEW DELHI-110003",
-      "phone": "0123-456789",
-      "website": "https://www.iilminstitutefo.edu.in",
+      "address": "Rai School Complex, Institutional Area, Lodhi Road, New Delhi - 110003, India",
+      "phone": "+91-8065905223",
+      "website": "https://iilm.edu/lodhi-road",
       "rating": 4.5,
       "reviews": 208,
       "type": "Private",
@@ -23474,13 +23509,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=IILM%20INSTITUTE%20FOR%20HIGHER%20EDUCATION%20NEW%20DELHI%20Delhi%20NCR",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sailee_college_borivali.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://visionguru.in/wp-content/uploads/2021/12/iilm-institute-for-higher-studies-iilmlr-new-delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Accredited by NBA & SAQS",
       "courses": [
         {
           "title": "PGDM",
@@ -23504,10 +23539,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IILM%20INSTITUTE%20FOR%20HIGHER%20EDUCATION%20NEW%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "pgdm@iilm.edu"
     },
     {
       "id": 328,
@@ -23515,9 +23551,9 @@
       "shortName": "Course Institute-1",
       "location": "ANAND",
       "state": "Gujarat",
-      "address": "NEAR PARTH TOWNSHIP, VIDHYANAGAR-VADTAL ROAD, BAKROL-388 315 TA & DIST:-ANAND",
-      "phone": "0123-456789",
-      "website": "https://www.sardarpatelcoll.edu.in",
+      "address": "Sardar Patel Education Campus, Vidyanagar - Vadtal Road, Bakrol, Anand - 388315, Gujarat",
+      "phone": "+91-79848 88427",
+      "website": "https://www.spec.edu.in",
       "rating": 4.9,
       "reviews": 1895,
       "type": "Private",
@@ -23566,7 +23602,9 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SARDAR%20PATEL%20COLLEGE%20OF%20ADMINISTRATION%20%26%20MANAGEMENT%20ANAND%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "email": "spcam2008@gmail.com",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE"
     },
     {
       "id": 329,
@@ -26144,9 +26182,9 @@
       "shortName": "Course Online",
       "location": "SURAT",
       "state": "Gujarat",
-      "address": "AT :ISROLI, PO:AFWA, BARDOLI-NAVSARI ROAD, BARDOLI",
-      "phone": "0123-456789",
-      "website": "https://www.rngpatelinstitu.edu.in",
+      "address": "Bardoli - Navsari Road, At: Isroli (Tajpore), PO: Afwa, Bardoli, Surat - 394620, Gujarat",
+      "phone": "+91-8160671202",
+      "website": "https://rngpit.ac.in",
       "rating": 4.5,
       "reviews": 288,
       "type": "Private",
@@ -26158,13 +26196,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=R.%20N.%20G.%20PATEL%20INSTITUTE%20OF%20TECHNOLOGY%20RNGPIT%20SURAT%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://rngpit.ac.in/images/campus/academic-side-2.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE, NAAC A Grade",
       "courses": [
         {
           "title": "MCA",
@@ -26188,10 +26226,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=R.%20N.%20G.%20PATEL%20INSTITUTE%20OF%20TECHNOLOGY%20RNGPIT%20SURAT%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "info@rngpit.ac.in"
     },
     {
       "id": 364,
@@ -26199,9 +26238,9 @@
       "shortName": "Course Institute-1",
       "location": "BHARUCH",
       "state": "Gujarat",
-      "address": "KADAKIA EDUCATIONAL CAMPUS, KADAKIA VIDYA GRAM, HANSOT ROAD, ANKLESHWAR",
-      "phone": "0123-456789",
-      "website": "https://www.smtkusumbenkada.edu.in",
+      "address": "Kadakia Educational Campus, Kadakia Vidya Gram, Hansot Road, Ankleshwar, Dist. Bharuch - 393001, Gujarat",
+      "phone": "+91-96625 34664",
+      "website": "https://kadakiaeducation.edu.in",
       "rating": 4.5,
       "reviews": 471,
       "type": "Private",
@@ -26213,13 +26252,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SMT.%20KUSUMBEN%20KADAKIA%20INSTITUTE%20OF%20COMPUTER%20APPLICATION%20BHARUCH%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/6289_SMKCMCS_APP.jpg?h=240&w=1000&mode=crop",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/appImage/6289_SMKCMCS_APP.jpg?h=240&w=1000&mode=crop",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE",
       "courses": [
         {
           "title": "MCA",
@@ -26243,9 +26282,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/6289_SMKCMCS_APP.jpg?h=240&w=1000&mode=crop",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SMT.%20KUSUMBEN%20KADAKIA%20INSTITUTE%20OF%20COMPUTER%20APPLICATION%20BHARUCH%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SMT.%20KUSUMBEN%20KADAKIA%20INSTITUTE%20OF%20COMPUTER%20APPLICATION%20BHARUCH%20Gujarat",
+      "email": "kadakiacampus@gmail.com"
     },
     {
       "id": 365,
@@ -27177,9 +27217,9 @@
       "shortName": "Course Institute-1",
       "location": "JAMNAGAR",
       "state": "Gujarat",
-      "address": "\"ADI SHANKARACHARYA SHIKSHAN VIKAS SANKUL, LAKHA BAVAD ROAD, JAMNAGAR- OKHA STATE HIGHWAY,",
-      "phone": "0123-456789",
-      "website": "https://www.paraminstituteo.edu.in",
+      "address": "Adi Shankaracharya Shikshan Vikas Sankul, Okha State Highway, Lakhabaval Road, Jamnagar - 361006, Gujarat",
+      "phone": "+91-9106771315",
+      "website": "https://paramimr.com",
       "rating": 4.5,
       "reviews": 408,
       "type": "Private",
@@ -27191,13 +27231,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PARAM%20INSTITUTE%20OF%20MANAGEMENT%20%26%20RESEARCH%20JAMNAGAR%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/param-institute-of-management-amp-research-param-imr-jamnagar-142341.webp",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/param-institute-of-management-amp-research-param-imr-jamnagar-142341.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 795",
       "courses": [
         {
           "title": "MBA(MARKETING MANAGEMENT)",
@@ -27221,9 +27261,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/param-institute-of-management-amp-research-param-imr-jamnagar-142341.webp",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PARAM%20INSTITUTE%20OF%20MANAGEMENT%20%26%20RESEARCH%20JAMNAGAR%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PARAM%20INSTITUTE%20OF%20MANAGEMENT%20%26%20RESEARCH%20JAMNAGAR%20Gujarat",
+      "email": "paramimr@gmail.com"
     },
     {
       "id": 383,
@@ -27231,9 +27272,9 @@
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
-      "address": "ATHWALINES OPP CHOPATI SURAT 395001 GUJARAT",
-      "phone": "0123-456789",
-      "website": "https://www.metasadventistc.edu.in",
+      "address": "Metas of Seventh-Day Adventists, P.O. Box No. 24, Athwalines, Surat - 395001, Gujarat, India",
+      "phone": "0261-7160215",
+      "website": "https://www.metasofsda.in",
       "rating": 4.5,
       "reviews": 498,
       "type": "Private",
@@ -27245,13 +27286,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=METAS%20ADVENTIST%20COLLEGE%20SURAT%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/metas-adventist-college-surat-213420.webp",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/metas-adventist-college-surat-213420.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Veer Narmad South Gujarat University (VNSGU) & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -27275,9 +27316,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/metas-adventist-college-surat-213420.webp",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=METAS%20ADVENTIST%20COLLEGE%20SURAT%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=METAS%20ADVENTIST%20COLLEGE%20SURAT%20Gujarat",
+      "email": "registrarsurat@metasofsda.in"
     },
     {
       "id": 384,
@@ -27340,9 +27382,9 @@
       "shortName": "Course Institute-1",
       "location": "KHEDA",
       "state": "Gujarat",
-      "address": "NEAR WATER CITY, N. H. NO. 8",
-      "phone": "0123-456789",
-      "website": "https://rhpatelmanagement.com",
+      "address": "Near Toll Plaza, Goblaj, Taluka Kheda, District Kheda - 387540, Gujarat, India",
+      "phone": "+91-9099063467",
+      "website": "https://rhpim.org",
       "rating": 4.5,
       "reviews": 502,
       "type": "Private",
@@ -27360,7 +27402,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 750",
       "courses": [
         {
           "title": "MBA",
@@ -27395,7 +27437,8 @@
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=R.%20H.%20PATEL%20INSTITUTE%20OF%20MANAGEMENT%20KHEDA%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "rhpim_managment@yahoo.com"
     },
     {
       "id": 386,
@@ -27457,9 +27500,9 @@
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
-      "address": "SARKHEJ-BAVLA ROAD, NR. SANATHAL CIRCLE, SANATHAL",
-      "phone": "0123-456789",
-      "website": "https://www.narayanabusines.edu.in",
+      "address": "Sarkhej - Bavla Road, Near Sanathal Circle, Sanathal, Ahmedabad - 382210, Gujarat, India",
+      "phone": "+91 844 8444 981",
+      "website": "https://www.nbs.edu.in",
       "rating": 4.5,
       "reviews": 338,
       "type": "Private",
@@ -27471,13 +27514,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20BUSINESS%20SCHOOL%20AHMEDABAD%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://assets.kollegeapply.com/images/1751567560564-1699434874phpjjKaBx.jpeg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://assets.kollegeapply.com/images/1751567560564-1699434874phpjjKaBx.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE & Accredited by NBA",
       "courses": [
         {
           "title": "PGDM",
@@ -27501,9 +27544,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://assets.kollegeapply.com/images/1751567560564-1699434874phpjjKaBx.jpeg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20BUSINESS%20SCHOOL%20AHMEDABAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20BUSINESS%20SCHOOL%20AHMEDABAD%20Gujarat",
+      "email": "info@nbs.edu.in"
     },
     {
       "id": 388,
@@ -27511,9 +27555,9 @@
       "shortName": "Course Institute-1",
       "location": "BHAVNAGAR",
       "state": "Gujarat",
-      "address": "SURVEY NO.30, T.P. NO. 06, P.NO. 39, F.P NO. 39, AT SIDSAR, BHAVNAGAR â 364060, GUJARAT, INDIA",
-      "phone": "0123-456789",
-      "website": "https://www.gyanmanjariinst.edu.in",
+      "address": "Survey No. 30, Sidsar Road, Near Iscon Eleven, Bhavnagar - 364060, Gujarat, India",
+      "phone": "+91 90999 51160",
+      "website": "https://gmit.edu.in",
       "rating": 4.5,
       "reviews": 121,
       "type": "Private",
@@ -27525,13 +27569,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GYANMANJARI%20INSTITUTE%20OF%20TECHNOLOGY%20BHAVNAGAR%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/None/1488187435clgimg4.jpg?width=640",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/None/1488187435clgimg4.jpg?width=640",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gyanmanjari Innovative University / GTU & Approved by AICTE",
       "courses": [
         {
           "title": "MCA",
@@ -27555,9 +27599,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/1488187435clgimg4.jpg?width=640",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GYANMANJARI%20INSTITUTE%20OF%20TECHNOLOGY%20BHAVNAGAR%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GYANMANJARI%20INSTITUTE%20OF%20TECHNOLOGY%20BHAVNAGAR%20Gujarat",
+      "email": "info@gmit.edu.in"
     },
     {
       "id": 389,
@@ -54363,9 +54408,9 @@
       "shortName": "Course Institute-1",
       "location": "MAHENDERGARH",
       "state": "Haryana",
-      "address": "VILL-DHANONDA",
-      "phone": "0123-456789",
-      "website": "https://www.maharanapratapi.edu.in",
+      "address": "VPO Dhanaunda, Kanina - Ch. Dadri Road, Mahendergarh, Haryana - 123027",
+      "phone": "+91-9812981215",
+      "website": "http://mpitmkanina.com/",
       "rating": 5,
       "reviews": 559,
       "type": "Private",
@@ -54377,7 +54422,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MAHARANA%20PRATAP%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20MAHENDERGARH%20Haryana",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/mpitm_kanina.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.gkseries.com/blog/wp-content/uploads/2020/04/Maharana-Pratap-Institute-of-Technology-and-Management-Mahendergarh-1200x675.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -54411,10 +54456,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 559,
-      "image": "/images/campuses/mpitm_kanina.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARANA%20PRATAP%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20MAHENDERGARH%20Haryana",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "mpitm.kanina@gmail.com",
+      "affiliation": "Maharshi Dayanand University (MDU), Rohtak & AICTE"
     },
     {
       "id": 822,
@@ -91919,9 +91966,9 @@
       "shortName": "Course Institute-1",
       "location": "NEEMUCH",
       "state": "Madhya Pradesh",
-      "address": "GRAM KANAWATI, DISTT- NEEMUCH (MP)",
-      "phone": "0123-456789",
-      "website": "https://www.gyanodayainstit.edu.in",
+      "address": "Village Kanawati, Mhow-Nasirabad Road, Neemuch - 458441, MP",
+      "phone": "+91-9827550959",
+      "website": "https://gyanodayanmh.in",
       "rating": 5,
       "reviews": 1139,
       "type": "Private",
@@ -91944,8 +91991,8 @@
           "title": "MASTER OF COMPUTER APPLICATIONS",
           "type": "COMPUTER APPLICATIONS",
           "division": "POST GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
+          "duration": "2 Years",
+          "fees": "₹44,000/Year",
           "intake": 60,
           "eligibility": "As per norms"
         }
@@ -91970,7 +92017,9 @@
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GYANODAYA%20INSTITUTE%20OF%20PROFESSIONAL%20STUDIES%20NEEMUCH%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "gyanodayanmh@gmail.com",
+      "affiliation": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal & AICTE"
     },
     {
       "id": 1440,
@@ -1037626,7 +1037675,7 @@
       "name": "KHANDELWAL COLLEGE OF MANAGEMENT SCIENCE AND TECHNOLOGY",
       "location": "BAREILLY",
       "state": "UTTAR PRADESH",
-      "img": "/images/campuses/kcmt_bareilly.png",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -1037698,9 +1037747,9 @@
           "eligibility": "B.Tech / B.E. in relevant discipline"
         }
       ],
-      "website": "https://www.google.com/search?q=KHANDELWAL%20COLLEGE%20OF%20MANAGEMENT%20SCIENCE%20AND%20TECHNOLOGY%20official%20website%20BAREILLY%20UTTAR%20PRADESH",
+      "website": "https://kcmt.in",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=KHANDELWAL%20COLLEGE%20OF%20MANAGEMENT%20SCIENCE%20AND%20TECHNOLOGY%20BAREILLY%20UTTAR%20PRADESH",
-      "image": "/images/campuses/kcmt_bareilly.png",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "shortName": "KCMSAT",
       "country": "India",
       "type": "Private",
@@ -1037724,8 +1037773,11 @@
       ],
       "exams": "Merit Based, State CET, CUET, National Entrance",
       "map_url": "https://www.google.com/maps/search/?api=1&query=KHANDELWAL%20COLLEGE%20OF%20MANAGEMENT%20SCIENCE%20AND%20TECHNOLOGY%20BAREILLY%20UTTAR%20PRADESH",
-      "address": "BAREILLY, UTTAR PRADESH, India",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "address": "14th KM Stone, Pilibhit Road, Bareilly - 243122, Uttar Pradesh",
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "phone": "+91-8081332211",
+      "email": "admission@kcmt.in",
+      "affiliation": "Dr. A.P.J. Abdul Kalam Technical University (AKTU) / MJPRU Bareilly & AICTE"
     },
     {
       "id": 10801,
@@ -1038850,7 +1038902,7 @@
           "eligibility": "Graduation with 2+ yrs experience"
         }
       ],
-      "website": "https://www.google.com/search?q=SRINIVASAN%20COLLEGE%20OF%20ARTS%20%26%20SCIENCE%20(MBA%20PROGRAMME)%20official%20website%20PERAMBALUR%20TAMIL%20NADU",
+      "website": "https://www.scas.ac.in",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRINIVASAN%20COLLEGE%20OF%20ARTS%20%26%20SCIENCE%20(MBA%20PROGRAMME)%20PERAMBALUR%20TAMIL%20NADU",
       "image": "/images/campuses/srinivasan_perambalur.jpg",
       "shortName": "SCASMP",
@@ -1038876,7 +1038928,10 @@
       ],
       "exams": "Merit Based, State CET, CUET, National Entrance",
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRINIVASAN%20COLLEGE%20OF%20ARTS%20%26%20SCIENCE%20(MBA%20PROGRAMME)%20PERAMBALUR%20TAMIL%20NADU",
-      "address": "PERAMBALUR, TAMIL NADU, India"
+      "address": "Thuraiyur Road, Perambalur - 621212, Tamil Nadu",
+      "phone": "04328-220672",
+      "email": "principal.scas@dsgroupmail.com",
+      "affiliation": "Bharathidasan University, Tiruchirappalli & AICTE"
     },
     {
       "id": 10812,

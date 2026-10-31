@@ -101,7 +101,7 @@ const defaultActivityLogs = [
 export const AuthProvider = ({ children }) => {
   const [currentUser, setCurrentUser] = useState(() => {
     const saved = localStorage.getItem('currentUser_secure');
-    return saved ? decryptState(saved) : { id: 1, name: "Super Admin", email: "admin@thecollegecompass.com", role: "superadmin" };
+    return saved ? decryptState(saved) : null;
   });
 
   const [students, setStudents] = useState(() => {

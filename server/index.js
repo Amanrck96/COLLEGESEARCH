@@ -34,21 +34,21 @@ app.use(cors({
 app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ extended: true, limit: '50mb' }));
 
-// Anti-Scraping Rate Limiter & Handshake Middleware
-app.use(antiScrapeLimiter);
-app.use(verifyArmorHandshake);
+// Serve uploaded images and campus images as static files (BEFORE anti-bot filters)
+const uploadsDir = path.join(__dirname, '../public/uploads');
+app.use('/uploads', express.static(uploadsDir));
+const imagesDir = path.join(__dirname, '../public/images');
+app.use('/images', express.static(imagesDir));
+
+// Anti-Scraping Rate Limiter & Handshake Middleware (Applied to /api only)
+app.use('/api', antiScrapeLimiter);
+app.use('/api', verifyArmorHandshake);
 
 // Honeypot Trap Routes (Catch crawlers & bots)
 app.get('/api/honeypot', honeypotTrap);
 app.get('/api/colleges/all-dump', honeypotTrap);
 app.get('/api/export-all-database', honeypotTrap);
 app.get('/api/v1/scraper-feed', honeypotTrap);
-
-// Serve uploaded images and campus images as static files
-const uploadsDir = path.join(__dirname, '../public/uploads');
-app.use('/uploads', express.static(uploadsDir));
-const imagesDir = path.join(__dirname, '../public/images');
-app.use('/images', express.static(imagesDir));
 
 // Health check
 app.get('/api/health', (req, res) => {

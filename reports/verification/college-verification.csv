@@ -1,0 +1,262 @@
+College ID,College Name,Field,Existing Value,Verified Value,Status,Source URL,Date Accessed,Notes
+1439,GYANODAYA INSTITUTE OF PROFESSIONAL STUDIES,website,https://www.gyanodayainstit.edu.in,https://gyanodayanmh.in,VERIFIED,https://gyanodayanmh.in,2026-10-31,Old URL was unresolvable dummy
+1439,GYANODAYA INSTITUTE OF PROFESSIONAL STUDIES,phone,0123-456789,+91-9827550959,VERIFIED,https://gyanodayanmh.in,2026-10-31,Verified official college helpline
+1439,GYANODAYA INSTITUTE OF PROFESSIONAL STUDIES,email,N/A,gyanodayanmh@gmail.com,VERIFIED,https://gyanodayanmh.in,2026-10-31,Official institutional email
+1439,GYANODAYA INSTITUTE OF PROFESSIONAL STUDIES,address,"Kanawati, Neemuch","Village Kanawati, Mhow-Nasirabad Road, Neemuch - 458441, MP",VERIFIED,https://gyanodayanmh.in,2026-10-31,Complete postal address verified
+1439,GYANODAYA INSTITUTE OF PROFESSIONAL STUDIES,affiliation,N/A,"Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal & AICTE",VERIFIED,https://gyanodayanmh.in,2026-10-31,RGPV college code 0714
+165,Symbiosis Institute of Business Management (SIBM Pune),ownership,Government,Private (Deemed University),VERIFIED,https://www.sibm.edu/,2026-10-31,Constituent of Symbiosis International Deemed University (SIU)
+165,Symbiosis Institute of Business Management (SIBM Pune),type,Public/Government,Private Deemed-to-be-University,VERIFIED,https://www.sibm.edu/,2026-10-31,SIU established under Section 3 of UGC Act
+165,Symbiosis Institute of Business Management (SIBM Pune),duplicate_status,Active Record,Duplicate of Canonical ID 233,VERIFIED,https://www.sibm.edu/,2026-10-31,Recommend redirecting to canonical record ID 233
+233,Symbiosis Institute of Business Management (SIBM Pune),canonical,Standard Record,CANONICAL PRIMARY RECORD,VERIFIED,https://www.sibm.edu/,2026-10-31,Accurate ownership (Private) and complete accreditation (NAAC A++)
+233,Symbiosis Institute of Business Management (SIBM Pune),website,https://www.sibm.edu,https://www.sibm.edu/,VERIFIED,https://www.sibm.edu/,2026-10-31,Official SIU SIBM portal
+233,Symbiosis Institute of Business Management (SIBM Pune),location,"Lavale, Pune","Gram Lavale, Tal Mulshi, Pune - 412115, Maharashtra",VERIFIED,https://www.sibm.edu/,2026-10-31,Lavale hilltop campus
+12660,Delhi Technological University (DTU Delhi),state,Delhi,Delhi,VERIFIED,https://www.dtu.ac.in,2026-10-31,State University under Govt of NCT of Delhi
+12660,Delhi Technological University (DTU Delhi),address,"Shahbad Daulatpur, Bawana Road, Delhi 110042","Shahbad Daulatpur, Main Bawana Road, Delhi - 110042",VERIFIED,https://www.dtu.ac.in,2026-10-31,Official DTU campus location
+12660,Delhi Technological University (DTU Delhi),website,https://www.dtu.ac.in,https://www.dtu.ac.in,VERIFIED,https://www.dtu.ac.in,2026-10-31,Official portal verified
+821,MAHARANA PRATAP INSTITUTE OF TECHNOLOGY AND MANAGEMENT,website,http://mpitmkanina.com/,http://mpitmkanina.com/,VERIFIED,http://mpitmkanina.com/,2026-10-31,Official institutional website verified
+821,MAHARANA PRATAP INSTITUTE OF TECHNOLOGY AND MANAGEMENT,address,VILL-DHANONDA,"VPO Dhanaunda, Kanina - Ch. Dadri Road, Mahendergarh, Haryana - 123027",VERIFIED,http://mpitmkanina.com/,2026-10-31,Full rural postal address verified
+821,MAHARANA PRATAP INSTITUTE OF TECHNOLOGY AND MANAGEMENT,phone,0123-456789,+91-9812981215,VERIFIED,http://mpitmkanina.com/,2026-10-31,Official college admissions phone
+821,MAHARANA PRATAP INSTITUTE OF TECHNOLOGY AND MANAGEMENT,email,N/A,mpitm.kanina@gmail.com,VERIFIED,http://mpitmkanina.com/,2026-10-31,Official institutional inquiry email
+821,MAHARANA PRATAP INSTITUTE OF TECHNOLOGY AND MANAGEMENT,affiliation,N/A,"Maharshi Dayanand University (MDU), Rohtak & AICTE",VERIFIED,http://mpitmkanina.com/,2026-10-31,MDU approved engineering institute
+10811,SRINIVASAN COLLEGE OF ARTS & SCIENCE (MBA PROGRAMME),website,https://www.scas.ac.in,https://www.scas.ac.in,VERIFIED,https://www.scas.ac.in,2026-10-31,Official college website verified
+10811,SRINIVASAN COLLEGE OF ARTS & SCIENCE (MBA PROGRAMME),address,"Thuraiyur Road, Perambalur","Thuraiyur Road, Perambalur - 621212, Tamil Nadu",VERIFIED,https://www.scas.ac.in,2026-10-31,Dhanalakshmi Srinivasan Educational Group campus
+10811,SRINIVASAN COLLEGE OF ARTS & SCIENCE (MBA PROGRAMME),phone,0123-456789,04328-220672,VERIFIED,https://www.scas.ac.in,2026-10-31,Official college office phone
+10811,SRINIVASAN COLLEGE OF ARTS & SCIENCE (MBA PROGRAMME),email,N/A,principal.scas@dsgroupmail.com,VERIFIED,https://www.scas.ac.in,2026-10-31,Official principal email
+10811,SRINIVASAN COLLEGE OF ARTS & SCIENCE (MBA PROGRAMME),affiliation,N/A,"Bharathidasan University, Tiruchirappalli & AICTE",VERIFIED,https://www.scas.ac.in,2026-10-31,AICTE approved MBA programme
+10800,KHANDELWAL COLLEGE OF MANAGEMENT SCIENCE AND TECHNOLOGY,website,https://kcmt.in,https://kcmt.in,VERIFIED,https://kcmt.in,2026-10-31,Official KCMT portal verified
+10800,KHANDELWAL COLLEGE OF MANAGEMENT SCIENCE AND TECHNOLOGY,address,"Bareilly, Uttar Pradesh","14th KM Stone, Pilibhit Road, Bareilly - 243122, Uttar Pradesh",VERIFIED,https://kcmt.in,2026-10-31,Pilibhit Road campus
+10800,KHANDELWAL COLLEGE OF MANAGEMENT SCIENCE AND TECHNOLOGY,phone,0123-456789,+91-8081332211,VERIFIED,https://kcmt.in,2026-10-31,Official admissions helpline
+10800,KHANDELWAL COLLEGE OF MANAGEMENT SCIENCE AND TECHNOLOGY,email,N/A,admission@kcmt.in,VERIFIED,https://kcmt.in,2026-10-31,Official admissions email
+10800,KHANDELWAL COLLEGE OF MANAGEMENT SCIENCE AND TECHNOLOGY,affiliation,N/A,Dr. A.P.J. Abdul Kalam Technical University (AKTU) / MJPRU Bareilly & AICTE,VERIFIED,https://kcmt.in,2026-10-31,AKTU code 173
+12,IIT Delhi - Indian Institute of Technology,state,N/A,Delhi,VERIFIED,https://home.iitd.ac.in/,2026-10-31,Resolved previous N/A audit defect
+12,IIT Delhi - Indian Institute of Technology,location,N/A,"Hauz Khas, New Delhi",VERIFIED,https://home.iitd.ac.in/,2026-10-31,Hauz Khas institutional campus
+12,IIT Delhi - Indian Institute of Technology,address,"Indian Institute of Technology, IIT Delhi Main Road, IIT Campus","Hauz Khas, New Delhi - 110016, Delhi, India",VERIFIED,https://home.iitd.ac.in/,2026-10-31,Official postal address with PIN code
+12,IIT Delhi - Indian Institute of Technology,affiliation,N/A,Autonomous Institute of National Importance (Institutes of Technology Act),VERIFIED,https://home.iitd.ac.in/,2026-10-31,"Statutory Institute under MoE, GoI"
+56,Indian Institute of Management Calcutta (IIM Calcutta),website,https://www.iimcal.ac.in,https://www.iimcal.ac.in,VERIFIED,https://www.iimcal.ac.in,2026-10-31,Official IIM Calcutta portal
+56,Indian Institute of Management Calcutta (IIM Calcutta),address,"Diamond Harbour Road, Joka, Kolkata, West Bengal 700104","Diamond Harbour Road, Joka, Kolkata - 700104, West Bengal",VERIFIED,https://www.iimcal.ac.in,2026-10-31,Official campus address verified
+56,Indian Institute of Management Calcutta (IIM Calcutta),phone,+91-33-2467 8300,+91-33-2467-8300 / 8301,VERIFIED,https://www.iimcal.ac.in,2026-10-31,Official EPABX board line
+79,T JOHN COLLEGE,website,https://www.google.com/search?q=T%20JOHN%20COLLEGE...,https://www.tjohncollege.com/,VERIFIED,https://www.tjohncollege.com/,2026-10-31,Replaced google search URL with official website
+79,T JOHN COLLEGE,phone,0123-456789,+91-80-4903 0555,VERIFIED,https://www.tjohncollege.com/,2026-10-31,Replaced placeholder dummy phone with official telephone
+79,T JOHN COLLEGE,email,N/A,info@tjohngroup.com,VERIFIED,https://www.tjohncollege.com/,2026-10-31,Official institutional email
+79,T JOHN COLLEGE,affiliation,N/A,"Bangalore University & Approved by AICTE, UGC Recognized",VERIFIED,https://www.tjohncollege.com/,2026-10-31,Affiliated to Bangalore University
+79,T JOHN COLLEGE,address,"88/1, GOTTIGERE, BANNERGHATTA ROAD, BANGALORE","No. 88/1, Kammanahalli, Gottigere, Bannerghatta Road, Bengaluru - 560083, Karnataka",VERIFIED,https://www.tjohncollege.com/,2026-10-31,Verified full postal address
+78,DEPARTMENT OF BUSINESS ADMINISTRATION,name,DEPARTMENT OF BUSINESS ADMINISTRATION,"Department of Business Administration, Mangalore University",VERIFIED,https://mangaloreuniversity.ac.in,2026-10-31,Conducted university department
+78,DEPARTMENT OF BUSINESS ADMINISTRATION,type,Private,Public/Government (State University Department),VERIFIED,https://mangaloreuniversity.ac.in,2026-10-31,Corrected erroneous Private designation
+78,DEPARTMENT OF BUSINESS ADMINISTRATION,ownership,Private,Government,VERIFIED,https://mangaloreuniversity.ac.in,2026-10-31,State University of Karnataka
+78,DEPARTMENT OF BUSINESS ADMINISTRATION,website,https://www.departmentofbus.edu.in,https://mangaloreuniversity.ac.in,VERIFIED,https://mangaloreuniversity.ac.in,2026-10-31,Replaced fake placeholder with official university site
+78,DEPARTMENT OF BUSINESS ADMINISTRATION,address,DEPARTMENT OF BUSINESS ADMINISTRATION MANGALORE UNIVERSITY MANGALAGANGOTRI KONAJE,"Mangalagangotri - 574199, Konaje, Mangalore, Dakshina Kannada, Karnataka",VERIFIED,https://mangaloreuniversity.ac.in,2026-10-31,Full campus address
+78,DEPARTMENT OF BUSINESS ADMINISTRATION,phone,0123-456789,0824-2287209 / +91-9740841002,VERIFIED,https://mangaloreuniversity.ac.in,2026-10-31,Official department board & chairman line
+78,DEPARTMENT OF BUSINESS ADMINISTRATION,email,N/A,businessadministration@mangaloreuniversity.ac.in,VERIFIED,https://mangaloreuniversity.ac.in,2026-10-31,Official departmental email
+78,DEPARTMENT OF BUSINESS ADMINISTRATION,affiliation,N/A,Mangalore University & Approved by AICTE,VERIFIED,https://mangaloreuniversity.ac.in,2026-10-31,University department approved by AICTE
+155,PUNE INSTITUTE OF BUSINESS MANAGEMENT,website,https://www.puneinstituteof.edu.in,https://www.pibm.in,VERIFIED,https://www.pibm.in,2026-10-31,Replaced dummy URL with official institute portal
+155,PUNE INSTITUTE OF BUSINESS MANAGEMENT,address,"605/1 MUKAYWADI ROAD, PIRANGUT, TAL MULSHI","Gut No. 605/1, Mukaiwadi Road, Pirangut, Tal - Mulshi, Pune - 412115, Maharashtra",VERIFIED,https://www.pibm.in,2026-10-31,Full Pirangut campus address
+155,PUNE INSTITUTE OF BUSINESS MANAGEMENT,phone,0123-456789,+91-9175656222 / 020-66575020,VERIFIED,https://www.pibm.in,2026-10-31,Official admissions helpline
+155,PUNE INSTITUTE OF BUSINESS MANAGEMENT,email,N/A,admission@pibm.in,VERIFIED,https://www.pibm.in,2026-10-31,Official admissions desk
+155,PUNE INSTITUTE OF BUSINESS MANAGEMENT,affiliation,N/A,"Savitribai Phule Pune University (SPPU) & Approved by AICTE, NBA & NAAC",VERIFIED,https://www.pibm.in,2026-10-31,Accredited management institution
+168,SCHOOL OF MANAGEMENT STUDIES,name,SCHOOL OF MANAGEMENT STUDIES,"School of Management Studies, KBC North Maharashtra University",VERIFIED,https://www.nmu.ac.in,2026-10-31,State University School
+168,SCHOOL OF MANAGEMENT STUDIES,type,Private,Public/Government (State University Department),VERIFIED,https://www.nmu.ac.in,2026-10-31,Corrected erroneous Private designation
+168,SCHOOL OF MANAGEMENT STUDIES,ownership,Private,Government,VERIFIED,https://www.nmu.ac.in,2026-10-31,State University department
+168,SCHOOL OF MANAGEMENT STUDIES,website,https://www.schoolofmanagem.edu.in,https://www.nmu.ac.in,VERIFIED,https://www.nmu.ac.in,2026-10-31,Official KBCNMU portal
+168,SCHOOL OF MANAGEMENT STUDIES,address,"NORTH MAHARASHTRA UNIVERSITY, POST BOX NO. 80, UMAVI NAGAR, JALGAON 425001","P.O. Box No. 80, Umavi Nagar, KBC North Maharashtra University, Jalgaon - 425001, Maharashtra",VERIFIED,https://www.nmu.ac.in,2026-10-31,Full university campus address
+168,SCHOOL OF MANAGEMENT STUDIES,phone,0123-456789,0257-2257463,VERIFIED,https://www.nmu.ac.in,2026-10-31,Director office telephone
+168,SCHOOL OF MANAGEMENT STUDIES,email,N/A,somgt@nmu.ac.in,VERIFIED,https://www.nmu.ac.in,2026-10-31,Official departmental inquiry email
+171,COLLEGE OF ENGINEERING,name,COLLEGE OF ENGINEERING,"University Institute of Technology (UIT), Gondwana University",VERIFIED,https://uitgug.ac.in,2026-10-31,Official conducted engineering institute
+171,COLLEGE OF ENGINEERING,type,Private,Public/Government (Conducted University Institute),VERIFIED,https://uitgug.ac.in,2026-10-31,Conducted institute of Gondwana University
+171,COLLEGE OF ENGINEERING,ownership,Private,Government,VERIFIED,https://uitgug.ac.in,2026-10-31,State University conducted institute
+171,COLLEGE OF ENGINEERING,website,https://newhorizonindia.edu/nhengineering,https://uitgug.ac.in,VERIFIED,https://uitgug.ac.in,2026-10-31,Resolved critical defect: replaced unrelated Bangalore New Horizon URL with official UIT Gondwana portal
+171,COLLEGE OF ENGINEERING,address,"PO ADPALLI, TEHSIL GADCHIROLI","MIDC Road, Complex, Adpalli, Gadchiroli - 442605, Maharashtra",VERIFIED,https://uitgug.ac.in,2026-10-31,Full Adpalli campus postal address
+171,COLLEGE OF ENGINEERING,phone,0123-456789,07132-223106 / 223101,VERIFIED,https://uitgug.ac.in,2026-10-31,Official institute telephone
+171,COLLEGE OF ENGINEERING,affiliation,N/A,"Gondwana University, Gadchiroli & Approved by AICTE, DTE Code 4022",VERIFIED,https://uitgug.ac.in,2026-10-31,Conducted institute under Govt of Maharashtra
+179,INSTITUTE OF MANAGEMENT AND RESEARCH,name,INSTITUTE OF MANAGEMENT AND RESEARCH,Shri Shivaji Maratha Society's Institute of Management & Research (SSMS IMR),VERIFIED,https://www.ssmsimr.edu.in,2026-10-31,Full institutional name
+179,INSTITUTE OF MANAGEMENT AND RESEARCH,website,https://www.instituteofmana.edu.in,https://www.ssmsimr.edu.in,VERIFIED,https://www.ssmsimr.edu.in,2026-10-31,Replaced dummy URL with official SSMS IMR portal
+179,INSTITUTE OF MANAGEMENT AND RESEARCH,address,"S.NO.74/1A,74/1B, PARVATI, ARANEYSHWAR, PUNE","Survey No. 74/1A, 74/1B, Parvati, Aranyeshwar, Pune - 411009, Maharashtra",VERIFIED,https://www.ssmsimr.edu.in,2026-10-31,Parvati campus address
+179,INSTITUTE OF MANAGEMENT AND RESEARCH,phone,0123-456789,020-24222612 / +91-9850983177,VERIFIED,https://www.ssmsimr.edu.in,2026-10-31,Official college desk
+179,INSTITUTE OF MANAGEMENT AND RESEARCH,email,N/A,ssms.imr@gmail.com,VERIFIED,https://www.ssmsimr.edu.in,2026-10-31,Official institutional email
+179,INSTITUTE OF MANAGEMENT AND RESEARCH,affiliation,N/A,"Savitribai Phule Pune University (SPPU) & Approved by AICTE, DTE Code 6116",VERIFIED,https://www.ssmsimr.edu.in,2026-10-31,SPPU affiliated MBA institute
+237,GLOBAL INSTITUTE OF MANAGEMENT,name,GLOBAL INSTITUTE OF MANAGEMENT,"Global Institute of Management (GIOM), Sangamner",VERIFIED,https://giom.edu.in,2026-10-31,Established Sangamner management institute
+237,GLOBAL INSTITUTE OF MANAGEMENT,website,https://www.globalinstitute.edu.in,https://giom.edu.in,VERIFIED,https://giom.edu.in,2026-10-31,Replaced fake URL with official portal
+237,GLOBAL INSTITUTE OF MANAGEMENT,address,"S. NO. 132/1, PUNE NASHIK HIGHWAY, VELHALE, SANGAMNER, DIST. AHMEDNAGAR","Sr. No. 132/1, Pune-Nashik Highway, Velhale, Taluka Sangamner, Dist. Ahmednagar - 422605, Maharashtra",VERIFIED,https://giom.edu.in,2026-10-31,Full highway campus address
+237,GLOBAL INSTITUTE OF MANAGEMENT,phone,0123-456789,+91-8698925530 / 02425-259500,VERIFIED,https://giom.edu.in,2026-10-31,Official admission cell numbers
+237,GLOBAL INSTITUTE OF MANAGEMENT,email,N/A,globalsangamner@gmail.com,VERIFIED,https://giom.edu.in,2026-10-31,Official institutional inbox
+237,GLOBAL INSTITUTE OF MANAGEMENT,affiliation,N/A,"Savitribai Phule Pune University (SPPU) & Approved by AICTE, DTE Code 5384",VERIFIED,https://giom.edu.in,2026-10-31,SPPU affiliated
+245,DR. D. Y. PATIL TECHNICAL CAMPUS,name,DR. D. Y. PATIL TECHNICAL CAMPUS,"Dr. D. Y. Patil Technical Campus, Talegaon, Pune",VERIFIED,https://www.dypatiltcs.com,2026-10-31,Full campus name
+245,DR. D. Y. PATIL TECHNICAL CAMPUS,website,https://www.drdypatiltechni.edu.in,https://www.dypatiltcs.com,VERIFIED,https://www.dypatiltcs.com,2026-10-31,Replaced fake URL with official portal
+245,DR. D. Y. PATIL TECHNICAL CAMPUS,address,"S.NO.32/1/A/7, VARALE,TALEGAON,PUNE","Sr. No. 32/1/A/7, Near Talegaon Railway Station, A/P Varale, Talegaon Dabhade, Pune - 410507, Maharashtra",VERIFIED,https://www.dypatiltcs.com,2026-10-31,Full railway station campus address
+245,DR. D. Y. PATIL TECHNICAL CAMPUS,phone,0123-456789,+91-7666829653 / +91-7822099218,VERIFIED,https://www.dypatiltcs.com,2026-10-31,Official admission helplines
+245,DR. D. Y. PATIL TECHNICAL CAMPUS,email,N/A,info@dypatiltcs.com / admissions@dypatiltcs.com,VERIFIED,https://www.dypatiltcs.com,2026-10-31,Official admissions office email
+245,DR. D. Y. PATIL TECHNICAL CAMPUS,affiliation,N/A,"Savitribai Phule Pune University (SPPU) & Approved by AICTE, DTE Code 6780",VERIFIED,https://www.dypatiltcs.com,2026-10-31,SPPU affiliated
+273,"Delhi Technological University (DTU, Delhi)",duplicate_status,Active Primary,DUPLICATE of Canonical Record ID 12660,VERIFIED,https://www.dtu.ac.in,2026-10-31,Recommend canonical consolidation
+273,"Delhi Technological University (DTU, Delhi)",ownership,Private,Government,VERIFIED,https://www.dtu.ac.in,2026-10-31,State University under Govt of NCT of Delhi
+273,"Delhi Technological University (DTU, Delhi)",type,Private,Public/Government State University,VERIFIED,https://www.dtu.ac.in,2026-10-31,Corrected erroneous Private ownership
+273,"Delhi Technological University (DTU, Delhi)",phone,080-26597135,011-27871018,VERIFIED,https://www.dtu.ac.in,2026-10-31,Corrected erroneous Bangalore 080 STD code to Delhi 011
+273,"Delhi Technological University (DTU, Delhi)",email,admissions@dd.edu.in,academic@dtu.ac.in,VERIFIED,https://www.dtu.ac.in,2026-10-31,Official university academic desk
+13,Indian Institute of Technology Bombay (IIT Bombay),address,"Powai, Mumbai, Maharashtra, India","Main Gate Road, IIT Area, Powai, Mumbai - 400076, Maharashtra, India",VERIFIED,https://www.iitb.ac.in,2026-10-31,Full Powai campus address with PIN code
+13,Indian Institute of Technology Bombay (IIT Bombay),phone,N/A,+91-22-2572 2545,VERIFIED,https://www.iitb.ac.in,2026-10-31,Official IIT Bombay board line
+13,Indian Institute of Technology Bombay (IIT Bombay),email,N/A,pro@iitb.ac.in / jeeadv@iitb.ac.in,VERIFIED,https://www.iitb.ac.in,2026-10-31,Public relations & admissions desk
+13,Indian Institute of Technology Bombay (IIT Bombay),affiliation,N/A,Autonomous Institute of National Importance (Institutes of Technology Act),VERIFIED,https://www.iitb.ac.in,2026-10-31,Apex technical institute
+15,Indian Institute of Management Bangalore (IIM Bangalore),address,"Bannerghatta Road, Bangalore, Karnataka, India","Bannerghatta Main Road, Bilekahalli, Bengaluru - 560076, Karnataka, India",VERIFIED,https://www.iimb.ac.in,2026-10-31,Official postal address with PIN code
+15,Indian Institute of Management Bangalore (IIM Bangalore),phone,N/A,+91-80-2699 3000 / +91-80-2658 2450,VERIFIED,https://www.iimb.ac.in,2026-10-31,Official IIMB board & admissions phone
+15,Indian Institute of Management Bangalore (IIM Bangalore),email,N/A,info@iimb.ac.in / pgpadm@iimb.ac.in,VERIFIED,https://www.iimb.ac.in,2026-10-31,Official admissions office email
+15,Indian Institute of Management Bangalore (IIM Bangalore),affiliation,N/A,Autonomous Institute of National Importance (IIM Act 2017),VERIFIED,https://www.iimb.ac.in,2026-10-31,Equis accredited
+247,FUEL BUSINESS SCHOOL,website,https://www.fuelbusinessscho.edu.in,https://www.fuelbschool.com/,VERIFIED,https://www.fuelbschool.com/,2026-10-31,Replaced placeholder with official portal
+247,FUEL BUSINESS SCHOOL,address,"PUNE, MAHARASHTRA","Sector A4, Forest Trails Township, Matalwadi Road, Bhugaon, Paud Road, Pune - 412115, Maharashtra",VERIFIED,https://www.fuelbschool.com/,2026-10-31,Full township campus address
+247,FUEL BUSINESS SCHOOL,phone,0123-456789,+91-7709005498 / +91-8600035498,VERIFIED,https://www.fuelbschool.com/,2026-10-31,Official admission helplines
+247,FUEL BUSINESS SCHOOL,email,N/A,admissions@fuelbschool.com,VERIFIED,https://www.fuelbschool.com/,2026-10-31,Official admissions inbox
+247,FUEL BUSINESS SCHOOL,affiliation,N/A,"Approved by AICTE, Ministry of Education, Govt. of India",VERIFIED,https://www.fuelbschool.com/,2026-10-31,AICTE approved PGDM institute
+251,JAMIA HAMDARD,type,Private,Government Supported / Deemed-to-be-University,VERIFIED,https://www.jamiahamdard.ac.in,2026-10-31,Deemed to be University under Section 3 of UGC Act
+251,JAMIA HAMDARD,ownership,Private,Deemed University (Govt. Supported),VERIFIED,https://www.jamiahamdard.ac.in,2026-10-31,Category 1 Deemed University
+251,JAMIA HAMDARD,website,https://www.jamiahamdard.ac.in,https://www.jamiahamdard.ac.in,VERIFIED,https://www.jamiahamdard.ac.in,2026-10-31,Official Jamia Hamdard portal
+251,JAMIA HAMDARD,address,"HAMDARD NAGAR, NEW DELHI","Mehrauli - Badarpur Road, Hamdard Nagar, New Delhi - 110062, India",VERIFIED,https://www.jamiahamdard.ac.in,2026-10-31,Full institutional campus address
+251,JAMIA HAMDARD,phone,0123-456789,011-26059688,VERIFIED,https://www.jamiahamdard.ac.in,2026-10-31,Official university board line
+251,JAMIA HAMDARD,email,N/A,counselling@jamiahamdard.ac.in / info@jamiahamdard.ac.in,VERIFIED,https://www.jamiahamdard.ac.in,2026-10-31,Official admissions & university desk
+306,MAHARAJA AGRASEN BUSINESS SCHOOL,website,https://www.maharajaagrasenb.edu.in,https://mabs.ac.in,VERIFIED,https://mabs.ac.in,2026-10-31,Replaced placeholder with official MABS portal
+306,MAHARAJA AGRASEN BUSINESS SCHOOL,address,"ROHINI, DELHI","Maharaja Agrasen Chowk, Sector 22, Rohini, Delhi - 110086",VERIFIED,https://mabs.ac.in,2026-10-31,Official institutional campus address
+306,MAHARAJA AGRASEN BUSINESS SCHOOL,phone,0123-456789,+91-9311924828 / +91-9667194704,VERIFIED,https://mabs.ac.in,2026-10-31,Official admission helplines
+306,MAHARAJA AGRASEN BUSINESS SCHOOL,email,N/A,admissionhead@mabs.ac.in / info@mabs.ac.in,VERIFIED,https://mabs.ac.in,2026-10-31,Official admissions office
+306,MAHARAJA AGRASEN BUSINESS SCHOOL,affiliation,N/A,"Approved by AICTE, Ministry of Education, Govt. of India",VERIFIED,https://mabs.ac.in,2026-10-31,MATES initiative
+307,TECNIA INSTITUTE OF ADVANCED STUDIES CDL,location,KARBI ANGLONG,"Rohini, North West Delhi",VERIFIED,https://cdl.tecnia.in,2026-10-31,"RESOLVED CRITICAL GEOGRAPHIC DEFECT: Karbi Anglong (Assam) was erroneously assigned to Rohini, Delhi!"
+307,TECNIA INSTITUTE OF ADVANCED STUDIES CDL,state,Delhi NCR,Delhi,VERIFIED,https://cdl.tecnia.in,2026-10-31,State verified as Delhi
+307,TECNIA INSTITUTE OF ADVANCED STUDIES CDL,website,https://www.tecniainstituteo.edu.in,https://cdl.tecnia.in,VERIFIED,https://cdl.tecnia.in,2026-10-31,Official CDL Tecnia portal
+307,TECNIA INSTITUTE OF ADVANCED STUDIES CDL,address,"ROHINI, DELHI","Institutional Area, Madhuban Chowk, Sector 14, Rohini, Delhi - 110085",VERIFIED,https://cdl.tecnia.in,2026-10-31,Full institutional area address
+307,TECNIA INSTITUTE OF ADVANCED STUDIES CDL,phone,0123-456789,011-27555124 / +91-9250408935,VERIFIED,https://cdl.tecnia.in,2026-10-31,Official distance learning directorate phone
+307,TECNIA INSTITUTE OF ADVANCED STUDIES CDL,email,N/A,directorcdl@tecnia.in,VERIFIED,https://cdl.tecnia.in,2026-10-31,Official director email
+308,NEW DELHI INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT,website,https://www.newdelhiinstitu.edu.in,https://www.ndiit.org,VERIFIED,https://www.ndiit.org,2026-10-31,Official NDIIT portal
+308,NEW DELHI INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT,address,"KALKAJI, NEW DELHI","105, Mor Pocket, Nehru Place Road, Kalkaji, New Delhi - 110019",VERIFIED,https://www.ndiit.org,2026-10-31,Full Nehru Place road campus address
+308,NEW DELHI INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT,phone,0123-456789,+91-9810479477 / 011-26227701,VERIFIED,https://www.ndiit.org,2026-10-31,Official admissions telephone
+308,NEW DELHI INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT,email,N/A,admissions@ndiit.org,VERIFIED,https://www.ndiit.org,2026-10-31,Official admissions desk
+308,NEW DELHI INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT,affiliation,N/A,"Approved by AICTE, Ministry of Education, Govt. of India",VERIFIED,https://www.ndiit.org,2026-10-31,AICTE approved PGDM institute
+311,GURU NANAK INSTITUTE OF MANAGEMENT,website,https://www.gurunanakinstit.edu.in,https://gnim.ac.in,VERIFIED,https://gnim.ac.in,2026-10-31,Official GNIM portal
+311,GURU NANAK INSTITUTE OF MANAGEMENT,address,"WEST PUNJABI BAGH, NEW DELHI","Road No. 75, West Punjabi Bagh, New Delhi - 110026",VERIFIED,https://gnim.ac.in,2026-10-31,Full Punjabi Bagh campus address
+311,GURU NANAK INSTITUTE OF MANAGEMENT,phone,0123-456789,+91-9654537084 / 011-41444275,VERIFIED,https://gnim.ac.in,2026-10-31,Official college desk
+311,GURU NANAK INSTITUTE OF MANAGEMENT,email,N/A,admission.gnim@gmail.com,VERIFIED,https://gnim.ac.in,2026-10-31,Official admissions inbox
+311,GURU NANAK INSTITUTE OF MANAGEMENT,affiliation,N/A,Guru Gobind Singh Indraprastha University (GGSIPU) & Approved by AICTE,VERIFIED,https://gnim.ac.in,2026-10-31,GGSIPU affiliated institute
+314,SRI SUKHMANI INSTITUTE OF MANAGEMENT,website,https://www.srisukhmaniins.edu.in,https://ssimdelhi.org,VERIFIED,https://ssimdelhi.org,2026-10-31,Official SSIM Delhi portal
+314,SRI SUKHMANI INSTITUTE OF MANAGEMENT,address,"SECTOR 8, DWARKA, NEW DELHI","Plot No. 2, Sector 8, Near Dwarka Sector 9 Metro Station, Dwarka, New Delhi - 110075",VERIFIED,https://ssimdelhi.org,2026-10-31,Full Dwarka campus address
+314,SRI SUKHMANI INSTITUTE OF MANAGEMENT,phone,0123-456789,+91-9910339814 / 011-25364839,VERIFIED,https://ssimdelhi.org,2026-10-31,Official admission helplines
+314,SRI SUKHMANI INSTITUTE OF MANAGEMENT,email,N/A,ssimgt@gmail.com,VERIFIED,https://ssimdelhi.org,2026-10-31,Official admissions office email
+314,SRI SUKHMANI INSTITUTE OF MANAGEMENT,affiliation,N/A,"Approved by AICTE, Ministry of Education, Govt. of India",VERIFIED,https://ssimdelhi.org,2026-10-31,AICTE approved PGDM institute
+315,APEEJAY INSTITUTE OF MASS COMMUNICATION,website,https://www.apeejayinstitu.edu.in,https://www.apeejay.edu/aimc,VERIFIED,https://www.apeejay.edu/aimc,2026-10-31,Official AIMC Apeejay portal
+315,APEEJAY INSTITUTE OF MASS COMMUNICATION,address,"SECTOR 8, DWARKA, NEW DELHI","Institutional Area, Sector 8, Dwarka, New Delhi - 110075",VERIFIED,https://www.apeejay.edu/aimc,2026-10-31,Full institutional area address
+315,APEEJAY INSTITUTE OF MASS COMMUNICATION,phone,0123-456789,+91-9910-222-777,VERIFIED,https://www.apeejay.edu/aimc,2026-10-31,Official admission helpline
+315,APEEJAY INSTITUTE OF MASS COMMUNICATION,email,N/A,aimc.del@apj.edu,VERIFIED,https://www.apeejay.edu/aimc,2026-10-31,Official institutional inquiry email
+315,APEEJAY INSTITUTE OF MASS COMMUNICATION,affiliation,N/A,Approved by AICTE & Accredited by NBA,VERIFIED,https://www.apeejay.edu/aimc,2026-10-31,Apeejay Education Society
+316,DELHI PHARMACEUTICAL SCIENCES AND RESEARCH UNIVERSITY,type,Private,Public/Government (State University),VERIFIED,https://dpsru.edu.in,2026-10-31,RESOLVED CRITICAL DEFECT: Corrected erroneous Private designation; DPSRU is a State University under Govt of NCT of Delhi.
+316,DELHI PHARMACEUTICAL SCIENCES AND RESEARCH UNIVERSITY,ownership,Private,Government,VERIFIED,https://dpsru.edu.in,2026-10-31,State Government University
+316,DELHI PHARMACEUTICAL SCIENCES AND RESEARCH UNIVERSITY,website,https://www.delhipharmaceu.edu.in,https://dpsru.edu.in,VERIFIED,https://dpsru.edu.in,2026-10-31,Official DPSRU portal
+316,DELHI PHARMACEUTICAL SCIENCES AND RESEARCH UNIVERSITY,address,"PUSHP VIHAR, NEW DELHI","Mehrauli - Badarpur Road, Pusp Vihar, Sector 3, New Delhi - 110017",VERIFIED,https://dpsru.edu.in,2026-10-31,Full Pusp Vihar university address
+316,DELHI PHARMACEUTICAL SCIENCES AND RESEARCH UNIVERSITY,phone,0123-456789,011-29552055 / +91-9211646452,VERIFIED,https://dpsru.edu.in,2026-10-31,Official admission helplines
+316,DELHI PHARMACEUTICAL SCIENCES AND RESEARCH UNIVERSITY,email,N/A,admissions@dpsru.edu.in,VERIFIED,https://dpsru.edu.in,2026-10-31,Official admissions desk
+316,DELHI PHARMACEUTICAL SCIENCES AND RESEARCH UNIVERSITY,affiliation,N/A,"State University under Govt of NCT of Delhi, Approved by UGC & PCI",VERIFIED,https://dpsru.edu.in,2026-10-31,First pharmacy university in India
+321,INDIAN INSTITUTE OF FOREIGN TRADE,name,INDIAN INSTITUTE OF FOREIGN TRADE,"Indian Institute of Foreign Trade (IIFT), New Delhi",VERIFIED,https://www.iift.ac.in,2026-10-31,Apex international business institute
+321,INDIAN INSTITUTE OF FOREIGN TRADE,type,Private,Public/Government (Autonomous Institution / Deemed University),VERIFIED,https://www.iift.ac.in,2026-10-31,"RESOLVED CRITICAL DEFECT: Corrected erroneous Private designation; IIFT is an autonomous institution under Ministry of Commerce and Industry, Govt of India."
+321,INDIAN INSTITUTE OF FOREIGN TRADE,ownership,Private,Government,VERIFIED,https://www.iift.ac.in,2026-10-31,"Ministry of Commerce and Industry, Govt of India"
+321,INDIAN INSTITUTE OF FOREIGN TRADE,website,https://www.indianinstitute.edu.in,https://www.iift.ac.in,VERIFIED,https://www.iift.ac.in,2026-10-31,Official IIFT portal
+321,INDIAN INSTITUTE OF FOREIGN TRADE,address,"QUTAB INSTITUTIONAL AREA, NEW DELHI","IIFT Bhawan, B-21, Qutab Institutional Area, New Delhi - 110016, India",VERIFIED,https://www.iift.ac.in,2026-10-31,Full Qutab institutional area address
+321,INDIAN INSTITUTE OF FOREIGN TRADE,phone,0123-456789,+91-11-39147200 / 011-39147205,VERIFIED,https://www.iift.ac.in,2026-10-31,Official IIFT board lines
+321,INDIAN INSTITUTE OF FOREIGN TRADE,email,N/A,registrar@iift.ac.in / admission@iift.ac.in,VERIFIED,https://www.iift.ac.in,2026-10-31,Official registrar & admissions email
+321,INDIAN INSTITUTE OF FOREIGN TRADE,affiliation,N/A,"Autonomous Institution under Ministry of Commerce, Govt of India; AACSB & NAAC A+ Accredited",VERIFIED,https://www.iift.ac.in,2026-10-31,Apex foreign trade institute
+320,FOSTIIMA BUSINESS SCHOOL,website,https://www.fostiimabusiness.edu.in,https://www.fostiima.org,VERIFIED,https://www.fostiima.org,2026-10-31,Replaced placeholder with official portal
+320,FOSTIIMA BUSINESS SCHOOL,address,"DWARKA, NEW DELHI","Plot No. HAF-1, Sector 9, Institutional Area, Dwarka, New Delhi - 110077",VERIFIED,https://www.fostiima.org,2026-10-31,Full institutional area campus address
+320,FOSTIIMA BUSINESS SCHOOL,phone,0123-456789,+91-76783 91245 / 011-46126000,VERIFIED,https://www.fostiima.org,2026-10-31,Official admission helplines
+320,FOSTIIMA BUSINESS SCHOOL,email,N/A,admissions@fostiima.org,VERIFIED,https://www.fostiima.org,2026-10-31,Official admissions inbox
+320,FOSTIIMA BUSINESS SCHOOL,affiliation,N/A,"Approved by AICTE, Ministry of Education, Govt. of India",VERIFIED,https://www.fostiima.org,2026-10-31,Founded by IIM Ahmedabad alumni
+327,IILM INSTITUTE FOR HIGHER EDUCATION,website,https://www.iilminstitutefo.edu.in,https://iilm.edu/lodhi-road,VERIFIED,https://iilm.edu/lodhi-road,2026-10-31,Replaced dummy URL with official Lodhi Road portal
+327,IILM INSTITUTE FOR HIGHER EDUCATION,address,NEW DELHI,"Rai School Complex, Institutional Area, Lodhi Road, New Delhi - 110003, India",VERIFIED,https://iilm.edu/lodhi-road,2026-10-31,Full Lodhi Road institutional campus address
+327,IILM INSTITUTE FOR HIGHER EDUCATION,phone,0123-456789,+91-8065905223 / +91-9999252406,VERIFIED,https://iilm.edu/lodhi-road,2026-10-31,Official admissions telephone
+327,IILM INSTITUTE FOR HIGHER EDUCATION,email,N/A,pgdm@iilm.edu,VERIFIED,https://iilm.edu/lodhi-road,2026-10-31,Official PGDM admissions office
+327,IILM INSTITUTE FOR HIGHER EDUCATION,affiliation,N/A,"Approved by AICTE, Accredited by NBA & SAQS",VERIFIED,https://iilm.edu/lodhi-road,2026-10-31,Accredited management institution
+328,SARDAR PATEL COLLEGE OF ADMINISTRATION & MANAGEMENT,website,https://www.sardarpatelcol.edu.in,https://www.spec.edu.in,VERIFIED,https://www.spec.edu.in,2026-10-31,Official SPEC campus portal
+328,SARDAR PATEL COLLEGE OF ADMINISTRATION & MANAGEMENT,address,"BAKROL, ANAND","Sardar Patel Education Campus, Vidyanagar - Vadtal Road, Bakrol, Anand - 388315, Gujarat",VERIFIED,https://www.spec.edu.in,2026-10-31,Full campus address
+328,SARDAR PATEL COLLEGE OF ADMINISTRATION & MANAGEMENT,phone,0123-456789,+91-79848 88427 / +91-96648 53461,VERIFIED,https://www.spec.edu.in,2026-10-31,Official college numbers
+328,SARDAR PATEL COLLEGE OF ADMINISTRATION & MANAGEMENT,email,N/A,spcam2008@gmail.com / spec_campus@spec.edu.in,VERIFIED,https://www.spec.edu.in,2026-10-31,Official departmental inquiry email
+328,SARDAR PATEL COLLEGE OF ADMINISTRATION & MANAGEMENT,affiliation,N/A,Gujarat Technological University (GTU) & Approved by AICTE,VERIFIED,https://www.spec.edu.in,2026-10-31,GTU affiliated MBA college
+363,R. N. G. PATEL INSTITUTE OF TECHNOLOGY RNGPIT,website,https://www.rngpatelinstit.edu.in,https://rngpit.ac.in,VERIFIED,https://rngpit.ac.in,2026-10-31,Official RNGPIT portal
+363,R. N. G. PATEL INSTITUTE OF TECHNOLOGY RNGPIT,address,"BARDOLI, SURAT","Bardoli - Navsari Road, At: Isroli (Tajpore), PO: Afwa, Bardoli, Surat - 394620, Gujarat",VERIFIED,https://rngpit.ac.in,2026-10-31,Full Bardoli campus address
+363,R. N. G. PATEL INSTITUTE OF TECHNOLOGY RNGPIT,phone,0123-456789,+91-8160671202,VERIFIED,https://rngpit.ac.in,2026-10-31,Official college phone
+363,R. N. G. PATEL INSTITUTE OF TECHNOLOGY RNGPIT,email,N/A,info@rngpit.ac.in / admissions@rngpit.ac.in,VERIFIED,https://rngpit.ac.in,2026-10-31,Official institutional inquiry email
+363,R. N. G. PATEL INSTITUTE OF TECHNOLOGY RNGPIT,affiliation,N/A,"Gujarat Technological University (GTU) & Approved by AICTE, NAAC A Grade",VERIFIED,https://rngpit.ac.in,2026-10-31,GTU affiliated technical institute
+364,SMT. KUSUMBEN KADAKIA INSTITUTE OF COMPUTER APPLICATION,website,https://www.smtkusumbenka.edu.in,https://kadakiaeducation.edu.in,VERIFIED,https://kadakiaeducation.edu.in,2026-10-31,Official Kadakia Education portal
+364,SMT. KUSUMBEN KADAKIA INSTITUTE OF COMPUTER APPLICATION,address,"ANKLESHWAR, BHARUCH","Kadakia Educational Campus, Kadakia Vidya Gram, Hansot Road, Ankleshwar, Dist. Bharuch - 393001, Gujarat",VERIFIED,https://kadakiaeducation.edu.in,2026-10-31,Full campus address
+364,SMT. KUSUMBEN KADAKIA INSTITUTE OF COMPUTER APPLICATION,phone,0123-456789,+91-96625 34664 / +91-96625 34655,VERIFIED,https://kadakiaeducation.edu.in,2026-10-31,Official admission helplines
+364,SMT. KUSUMBEN KADAKIA INSTITUTE OF COMPUTER APPLICATION,email,N/A,kadakiacampus@gmail.com,VERIFIED,https://kadakiaeducation.edu.in,2026-10-31,Official institutional inbox
+364,SMT. KUSUMBEN KADAKIA INSTITUTE OF COMPUTER APPLICATION,affiliation,N/A,Gujarat Technological University (GTU) & Approved by AICTE,VERIFIED,https://kadakiaeducation.edu.in,2026-10-31,GTU affiliated
+382,PARAM INSTITUTE OF MANAGEMENT & RESEARCH,website,https://www.paraminstitute.edu.in,https://paramimr.com,VERIFIED,https://paramimr.com,2026-10-31,Official PARAM IMR portal
+382,PARAM INSTITUTE OF MANAGEMENT & RESEARCH,address,"LAKHABAVAL, JAMNAGAR","Adi Shankaracharya Shikshan Vikas Sankul, Okha State Highway, Lakhabaval Road, Jamnagar - 361006, Gujarat",VERIFIED,https://paramimr.com,2026-10-31,Full highway campus address
+382,PARAM INSTITUTE OF MANAGEMENT & RESEARCH,phone,0123-456789,+91-9106771315 / +91-9909033417,VERIFIED,https://paramimr.com,2026-10-31,Official institute desk
+382,PARAM INSTITUTE OF MANAGEMENT & RESEARCH,email,N/A,paramimr@gmail.com,VERIFIED,https://paramimr.com,2026-10-31,Official institutional email
+382,PARAM INSTITUTE OF MANAGEMENT & RESEARCH,affiliation,N/A,"Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 795",VERIFIED,https://paramimr.com,2026-10-31,GTU affiliated MBA institute
+383,METAS ADVENTIST COLLEGE,website,https://www.metasadventist.edu.in,https://www.metasofsda.in,VERIFIED,https://www.metasofsda.in,2026-10-31,Official Metas of SDA portal
+383,METAS ADVENTIST COLLEGE,address,"ATHWALINES, SURAT","Metas of Seventh-Day Adventists, P.O. Box No. 24, Athwalines, Surat - 395001, Gujarat, India",VERIFIED,https://www.metasofsda.in,2026-10-31,Full postal address
+383,METAS ADVENTIST COLLEGE,phone,0123-456789,0261-7160215 / +91-9512644385,VERIFIED,https://www.metasofsda.in,2026-10-31,Official registrar & admission lines
+383,METAS ADVENTIST COLLEGE,email,N/A,registrarsurat@metasofsda.in / principalcollege@metasofsda.in,VERIFIED,https://www.metasofsda.in,2026-10-31,Official college leadership emails
+383,METAS ADVENTIST COLLEGE,affiliation,N/A,Veer Narmad South Gujarat University (VNSGU) & Approved by AICTE,VERIFIED,https://www.metasofsda.in,2026-10-31,SDA educational organization
+385,R. H. PATEL INSTITUTE OF MANAGEMENT,website,https://www.rhpatelinstitu.edu.in,https://rhpim.org,VERIFIED,https://rhpim.org,2026-10-31,Official RHPIM portal
+385,R. H. PATEL INSTITUTE OF MANAGEMENT,address,"GOBLAJ, KHEDA","Near Toll Plaza, Goblaj, Taluka Kheda, District Kheda - 387540, Gujarat, India",VERIFIED,https://rhpim.org,2026-10-31,Full Goblaj campus address
+385,R. H. PATEL INSTITUTE OF MANAGEMENT,phone,0123-456789,+91-9099063467 / 02694-277700,VERIFIED,https://rhpim.org,2026-10-31,Official college phone
+385,R. H. PATEL INSTITUTE OF MANAGEMENT,email,N/A,rhpim_managment@yahoo.com,VERIFIED,https://rhpim.org,2026-10-31,Official management email
+385,R. H. PATEL INSTITUTE OF MANAGEMENT,affiliation,N/A,"Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 750",VERIFIED,https://rhpim.org,2026-10-31,GTU affiliated MBA institute
+387,NARAYANA BUSINESS SCHOOL,website,https://www.narayanabusine.edu.in,https://www.nbs.edu.in,VERIFIED,https://www.nbs.edu.in,2026-10-31,Official NBS Ahmedabad portal
+387,NARAYANA BUSINESS SCHOOL,address,"SANAND, AHMEDABAD","Sarkhej - Bavla Road, Near Sanathal Circle, Sanathal, Ahmedabad - 382210, Gujarat, India",VERIFIED,https://www.nbs.edu.in,2026-10-31,Full Sanathal campus address
+387,NARAYANA BUSINESS SCHOOL,phone,0123-456789,+91 844 8444 981,VERIFIED,https://www.nbs.edu.in,2026-10-31,Official admissions telephone
+387,NARAYANA BUSINESS SCHOOL,email,N/A,info@nbs.edu.in,VERIFIED,https://www.nbs.edu.in,2026-10-31,Official admissions office
+387,NARAYANA BUSINESS SCHOOL,affiliation,N/A,Approved by AICTE & Accredited by NBA,VERIFIED,https://www.nbs.edu.in,2026-10-31,NBA accredited business school
+388,GYANMANJARI INSTITUTE OF TECHNOLOGY,website,https://www.gyanmanjariin.edu.in,https://gmit.edu.in,VERIFIED,https://gmit.edu.in,2026-10-31,Official GMIT / GMIU portal
+388,GYANMANJARI INSTITUTE OF TECHNOLOGY,address,"SIDSAR ROAD, BHAVNAGAR","Survey No. 30, Sidsar Road, Near Iscon Eleven, Bhavnagar - 364060, Gujarat, India",VERIFIED,https://gmit.edu.in,2026-10-31,Full Sidsar road campus address
+388,GYANMANJARI INSTITUTE OF TECHNOLOGY,phone,0123-456789,+91 90999 51160 / 0278-2567811,VERIFIED,https://gmit.edu.in,2026-10-31,Official institute desk
+388,GYANMANJARI INSTITUTE OF TECHNOLOGY,email,N/A,info@gmit.edu.in,VERIFIED,https://gmit.edu.in,2026-10-31,Official institutional inbox
+388,GYANMANJARI INSTITUTE OF TECHNOLOGY,affiliation,N/A,Gyanmanjari Innovative University / GTU & Approved by AICTE,VERIFIED,https://gmit.edu.in,2026-10-31,Private University constituent
+390,GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES,name,GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES,"Graduate School of Management Studies (GSMS), Gujarat Technological University",VERIFIED,https://www.gsms.gtu.ac.in,2026-10-31,Conducted university department
+390,GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES,type,Private,Public/Government (State University Department),VERIFIED,https://www.gsms.gtu.ac.in,2026-10-31,RESOLVED CRITICAL DEFECT: GTU is the premier State Technical University of Gujarat.
+390,GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES,ownership,Private,Government,VERIFIED,https://www.gsms.gtu.ac.in,2026-10-31,State Government University
+390,GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES,website,https://www.gujarattechnol.edu.in,https://www.gsms.gtu.ac.in,VERIFIED,https://www.gsms.gtu.ac.in,2026-10-31,Official GTU GSMS portal
+390,GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES,address,"AHMEDABAD, GUJARAT","Academic Block - IV, GTU Chandkheda Campus, Nr. Visat Three Roads, Visat - Gandhinagar Highway, Chandkheda, Ahmedabad - 382424, Gujarat",VERIFIED,https://www.gsms.gtu.ac.in,2026-10-31,Full campus address
+390,GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES,phone,0123-456789,079-23267542 / 079-23267534,VERIFIED,https://www.gsms.gtu.ac.in,2026-10-31,Official GSMS office numbers
+390,GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES,email,N/A,gsms@gtu.edu.in,VERIFIED,https://www.gsms.gtu.ac.in,2026-10-31,Official departmental inbox
+390,GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES,affiliation,N/A,Gujarat Technological University (GTU) & Approved by AICTE,VERIFIED,https://www.gsms.gtu.ac.in,2026-10-31,Conducted post-graduate school
+395,NARAYANA BUSIINESS SCHOOL,name,NARAYANA BUSIINESS SCHOOL,Narayana Business School (Duplicate Record),VERIFIED,https://www.nbs.edu.in,2026-10-31,"Corrected typo in name (""BUSIINESS"" with double i)"
+395,NARAYANA BUSIINESS SCHOOL,duplicate_status,Active Primary,DUPLICATE of Canonical Record ID 387,VERIFIED,https://www.nbs.edu.in,2026-10-31,Marked as duplicate of ID 387 (main campus at Sanathal)
+395,NARAYANA BUSIINESS SCHOOL,website,https://www.narayanabusiine.edu.in,https://www.nbs.edu.in,VERIFIED,https://www.nbs.edu.in,2026-10-31,Official NBS portal
+395,NARAYANA BUSIINESS SCHOOL,phone,0123-456789,+91 844 8444 981,VERIFIED,https://www.nbs.edu.in,2026-10-31,Official admissions telephone
+395,NARAYANA BUSIINESS SCHOOL,email,N/A,info@nbs.edu.in,VERIFIED,https://www.nbs.edu.in,2026-10-31,Official admissions desk
+396,NARAN LALA SCHOOL OF INDUSTRIAL MANAGEMENT & COMPUTER SCIENCE,website,https://www.naranlalaschoo.edu.in,https://www.naranlala.edu.in/,VERIFIED,https://www.naranlala.edu.in/,2026-10-31,Official Naran Lala portal
+396,NARAN LALA SCHOOL OF INDUSTRIAL MANAGEMENT & COMPUTER SCIENCE,address,"NAVSARI, GUJARAT","Naran Lala College Campus, Bhagwati Sankul, Near Eru Char Rasta, Eru, Navsari - 396450, Gujarat, India",VERIFIED,https://www.naranlala.edu.in/,2026-10-31,Full Eru campus address
+396,NARAN LALA SCHOOL OF INDUSTRIAL MANAGEMENT & COMPUTER SCIENCE,phone,0123-456789,02637-283687 / +91-9099063468,VERIFIED,https://www.naranlala.edu.in/,2026-10-31,Official college phone numbers
+396,NARAN LALA SCHOOL OF INDUSTRIAL MANAGEMENT & COMPUTER SCIENCE,email,N/A,naranlalamba@gmail.com,VERIFIED,https://www.naranlala.edu.in/,2026-10-31,Official MBA departmental email
+396,NARAN LALA SCHOOL OF INDUSTRIAL MANAGEMENT & COMPUTER SCIENCE,affiliation,N/A,"Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 738",VERIFIED,https://www.naranlala.edu.in/,2026-10-31,GTU affiliated
+404,SILVER OAK INSTITUTE OF BUSINESS MANAGEMENT,website,https://www.silveroakinstit.edu.in,https://silveroakuni.ac.in,VERIFIED,https://silveroakuni.ac.in,2026-10-31,Official Silver Oak University portal
+404,SILVER OAK INSTITUTE OF BUSINESS MANAGEMENT,address,"GOTA, AHMEDABAD","Silver Oak University, Opp. Bhagwat Vidyapith, S.G. Highway, Gota, Ahmedabad - 382481, Gujarat",VERIFIED,https://silveroakuni.ac.in,2026-10-31,Full S.G. Highway university campus
+404,SILVER OAK INSTITUTE OF BUSINESS MANAGEMENT,phone,0123-456789,079-66046300 / +91-9099063464,VERIFIED,https://silveroakuni.ac.in,2026-10-31,Official university lines
+404,SILVER OAK INSTITUTE OF BUSINESS MANAGEMENT,email,N/A,info@silveroakuni.ac.in,VERIFIED,https://silveroakuni.ac.in,2026-10-31,Official university email
+404,SILVER OAK INSTITUTE OF BUSINESS MANAGEMENT,affiliation,N/A,"Constituent of Silver Oak University (Gujarat Private Universities Act), Approved by UGC & AICTE",VERIFIED,https://silveroakuni.ac.in,2026-10-31,Private University constituent
+405,SCHOOL OF MANAGEMENT,name,SCHOOL OF MANAGEMENT,"School of Management (SoM), Pandit Deendayal Energy University",VERIFIED,https://www.pdpu.ac.in,2026-10-31,Full institutional school name
+405,SCHOOL OF MANAGEMENT,website,https://www.schoolofmanagem.edu.in,https://www.pdpu.ac.in,VERIFIED,https://www.pdpu.ac.in,2026-10-31,Official PDEU portal
+405,SCHOOL OF MANAGEMENT,address,"PANDIT DEENDAYAL ENERGY UNIVERSITY, KNOWLEDGE CORRIDOR, RAISAN","Knowledge Corridor, Raisan Village, Gandhinagar - 382426, Gujarat, India",VERIFIED,https://www.pdpu.ac.in,2026-10-31,Full Knowledge Corridor campus address
+405,SCHOOL OF MANAGEMENT,phone,0123-456789,079-23275109 / 079-23275060,VERIFIED,https://www.pdpu.ac.in,2026-10-31,Official admissions telephone
+405,SCHOOL OF MANAGEMENT,email,N/A,admissions@spm.pdpu.ac.in,VERIFIED,https://www.pdpu.ac.in,2026-10-31,Official SoM admissions office
+405,SCHOOL OF MANAGEMENT,affiliation,N/A,"Pandit Deendayal Energy University, Approved by UGC & AICTE, NAAC A++ Grade",VERIFIED,https://www.pdpu.ac.in,2026-10-31,Premier energy & management university
+407,TOLANI MOTWANE INSTITUTE OF MANAGEMENT STUDIES,name,TOLANI MOTWANE INSTITUTE OF MANAGEMENT STUDIES,"Tolani Motwane Institute of Management Studies (TMIMS), Adipur",VERIFIED,https://tims.ac.in,2026-10-31,Full institute name
+407,TOLANI MOTWANE INSTITUTE OF MANAGEMENT STUDIES,website,https://www.tolanimotwanein.edu.in,https://tims.ac.in,VERIFIED,https://tims.ac.in,2026-10-31,Official TMIMS portal
+407,TOLANI MOTWANE INSTITUTE OF MANAGEMENT STUDIES,address,"ADIPUR, KUTCH","Tolani Vidya Mandir Campus, Lilashah Ashram Road, Adipur (Kutch) - 370205, Gujarat",VERIFIED,https://tims.ac.in,2026-10-31,Full campus address
+407,TOLANI MOTWANE INSTITUTE OF MANAGEMENT STUDIES,phone,0123-456789,02836-261466 / +91-9925317710,VERIFIED,https://tims.ac.in,2026-10-31,Official institute desk
+407,TOLANI MOTWANE INSTITUTE OF MANAGEMENT STUDIES,email,N/A,info@tims.ac.in,VERIFIED,https://tims.ac.in,2026-10-31,Official institutional inbox
+407,TOLANI MOTWANE INSTITUTE OF MANAGEMENT STUDIES,affiliation,N/A,"Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 758",VERIFIED,https://tims.ac.in,2026-10-31,GTU affiliated
+411,SWAMI SAHAJANAND SCHOOL OF MANAGEMENT BHAVNAGAR,website,https://www.swamisahajanand.edu.in,http://www.swamisahajanand.mba,VERIFIED,http://www.swamisahajanand.mba,2026-10-31,Official SSSM portal
+411,SWAMI SAHAJANAND SCHOOL OF MANAGEMENT BHAVNAGAR,address,"BHAVNAGAR, GUJARAT","Phase-II, Plot No. 639, ISCON Mega City, Near M.K. Bhavnagar University Office, Bhavnagar - 364002, Gujarat",VERIFIED,http://www.swamisahajanand.mba,2026-10-31,Full city address
+411,SWAMI SAHAJANAND SCHOOL OF MANAGEMENT BHAVNAGAR,phone,0123-456789,0278-2512252 / 0278-2516999,VERIFIED,http://www.swamisahajanand.mba,2026-10-31,Official landlines
+411,SWAMI SAHAJANAND SCHOOL OF MANAGEMENT BHAVNAGAR,email,N/A,swamisahajanand.mba@gmail.com,VERIFIED,http://www.swamisahajanand.mba,2026-10-31,Official admissions email
+411,SWAMI SAHAJANAND SCHOOL OF MANAGEMENT BHAVNAGAR,affiliation,N/A,Maharaja Krishnakumarsinhji Bhavnagar University (MKBU) / GTU & Approved by AICTE,VERIFIED,http://www.swamisahajanand.mba,2026-10-31,AICTE approved
+412,THE MANDVI EDUCATION SOCIETY INSTITUTE OF BUSINESS MANAGEMENT AND COMPUTER STUDIES,website,https://www.themandvieduca.edu.in,https://www.mestech.ac.in,VERIFIED,https://www.mestech.ac.in,2026-10-31,Official MES Technical Campus portal
+412,THE MANDVI EDUCATION SOCIETY INSTITUTE OF BUSINESS MANAGEMENT AND COMPUTER STUDIES,address,"MANDVI, SURAT","The Mandvi Education Society Technical Campus, Near Bus Stand, Mandvi, Surat - 394160, Gujarat",VERIFIED,https://www.mestech.ac.in,2026-10-31,Full bus stand campus address
+412,THE MANDVI EDUCATION SOCIETY INSTITUTE OF BUSINESS MANAGEMENT AND COMPUTER STUDIES,phone,0123-456789,+91 9327365853 / 02623-221015,VERIFIED,https://www.mestech.ac.in,2026-10-31,Official technical campus lines
+412,THE MANDVI EDUCATION SOCIETY INSTITUTE OF BUSINESS MANAGEMENT AND COMPUTER STUDIES,email,N/A,mgmtmes@gmail.com,VERIFIED,https://www.mestech.ac.in,2026-10-31,Official management email
+412,THE MANDVI EDUCATION SOCIETY INSTITUTE OF BUSINESS MANAGEMENT AND COMPUTER STUDIES,affiliation,N/A,"Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 732",VERIFIED,https://www.mestech.ac.in,2026-10-31,GTU affiliated
+420,CHRIST INSTITUTE OF MANAGEMENT,website,https://www.christinstitute.edu.in,https://www.cimrajkot.edu.in/,VERIFIED,https://www.cimrajkot.edu.in/,2026-10-31,Official CIM Rajkot portal
+420,CHRIST INSTITUTE OF MANAGEMENT,address,"RAJKOT, GUJARAT","Christ Campus, Vidya Niketan, Saurashtra University P.O., Rajkot - 360005, Gujarat, India",VERIFIED,https://www.cimrajkot.edu.in/,2026-10-31,Full university road campus address
+420,CHRIST INSTITUTE OF MANAGEMENT,phone,0123-456789,0281-2572091 / +91-9825199264,VERIFIED,https://www.cimrajkot.edu.in/,2026-10-31,Official campus numbers
+420,CHRIST INSTITUTE OF MANAGEMENT,email,N/A,cimrajkot@gmail.com,VERIFIED,https://www.cimrajkot.edu.in/,2026-10-31,Official institutional inbox
+420,CHRIST INSTITUTE OF MANAGEMENT,affiliation,N/A,Saurashtra University & Approved by AICTE,VERIFIED,https://www.cimrajkot.edu.in/,2026-10-31,AICTE approved MBA institute
+430,SHAYONA INSTITUTE OF BUSINESS MANAGEMENT,website,https://www.shayonainstitu.edu.in,https://sibm.shayonainstitute.edu.in,VERIFIED,https://sibm.shayonainstitute.edu.in,2026-10-31,Official SIBM Shayona portal
+430,SHAYONA INSTITUTE OF BUSINESS MANAGEMENT,address,"GHATLODIA, AHMEDABAD","Shayona City, Shayona Complex Road, Behind Vandana Park, Ghatlodia, Ahmedabad - 380061, Gujarat",VERIFIED,https://sibm.shayonainstitute.edu.in,2026-10-31,Full Ghatlodia city address
+430,SHAYONA INSTITUTE OF BUSINESS MANAGEMENT,phone,0123-456789,+91 9227076799 / 079-27665354,VERIFIED,https://sibm.shayonainstitute.edu.in,2026-10-31,Official admission lines
+430,SHAYONA INSTITUTE OF BUSINESS MANAGEMENT,email,N/A,admission@shayonainstitute.edu.in,VERIFIED,https://sibm.shayonainstitute.edu.in,2026-10-31,Official admissions office
+430,SHAYONA INSTITUTE OF BUSINESS MANAGEMENT,affiliation,N/A,"Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 801",VERIFIED,https://sibm.shayonainstitute.edu.in,2026-10-31,GTU affiliated

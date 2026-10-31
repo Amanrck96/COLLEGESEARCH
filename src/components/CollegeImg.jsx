@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 
-// Curated high-resolution clean architectural university campus photos for graceful fallback
-// Note: DTU, KVIM, Osmania, BITS, and any institution with visible name signage are STRICTLY EXCLUDED
-// so no college will ever display another college's name or sign on its card.
+// Curated high-resolution strictly UNBRANDED architectural university campus photos
+// Note: All specific institution buildings are strictly excluded from the fallback pool
+// so no college will ever display another institution's building as a fallback.
 export const CAMPUS_BUILDING_FALLBACKS = [
   '/images/campuses/campus_architecture_1.jpg',
   '/images/campuses/campus_architecture_2.jpg',
@@ -12,31 +12,7 @@ export const CAMPUS_BUILDING_FALLBACKS = [
   '/images/campuses/campus_architecture_6.jpg',
   '/images/campuses/campus_architecture_7.jpg',
   '/images/campuses/campus_architecture_8.jpg',
-  '/images/campuses/campus_architecture_9.jpg',
-  '/images/campuses/campus_coep_pune.png',
-  '/images/campuses/vjti_mumbai.jpg',
-  '/images/campuses/bangalore_university.jpg',
-  '/images/campuses/bms_bangalore.jpg',
-  '/images/campuses/pes_bangalore.jpg',
-  '/images/campuses/ramaiah_bangalore.jpg',
-  '/images/campuses/weschool_matunga_mumbai.jpeg',
-  '/images/campuses/pibm_pune.webp',
-  '/images/campuses/iiit_bangalore_campus.jpg',
-  '/images/campuses/svims_wadala_mumbai.jpeg',
-  '/images/campuses/bharati_vidyapeeth_navimumbai.jpg',
-  '/images/campuses/atharva_complex_malad.jpg',
-  '/images/campuses/thakur_complex_kandivali.webp',
-  '/images/campuses/bunts_sangha_mumbai.jpeg',
-  '/images/campuses/chetana_bandra.jpg',
-  '/images/campuses/kes_shroff_kandivali.jpg',
-  '/images/campuses/sailee_college_borivali.jpg',
-  '/images/campuses/sheila_raheja_bandra.webp',
-  '/images/campuses/maniben_mp_shah_matunga.jpg',
-  '/images/campuses/riim_pune.jpeg',
-  '/images/campuses/campus_vnit_nagpur.jpeg',
-  '/images/campuses/campus_cu_shah_mumbai.png',
-  '/images/campuses/campus_mgm_navi_mumbai.jpg',
-  '/images/campuses/valia_andheri.jpeg'
+  '/images/campuses/campus_architecture_9.jpg'
 ];
 
 export const getCampusFallback = (name = '', offset = 0) => {
@@ -77,6 +53,11 @@ const CollegeImg = ({ college, index = 0, className, style, alt, ...props }) => 
     }
   };
 
+  const isGeneric = currentSrc && (
+    currentSrc.includes('campus_architecture_') ||
+    retryStage === 2
+  );
+
   return (
     <div 
       className="position-relative overflow-hidden w-100 h-100 d-flex align-items-center justify-content-center bg-light" 
@@ -94,10 +75,19 @@ const CollegeImg = ({ college, index = 0, className, style, alt, ...props }) => 
           height: '100%', 
           transition: 'all 0.3s ease' 
         }}
-        alt={alt || college?.name || 'College Campus Building'}
+        alt={alt || (isGeneric ? `${college?.name || 'College'} (Representative Campus View)` : (college?.name || 'College Campus Building'))}
         onError={handleError}
         {...props}
       />
+      {isGeneric && (
+        <span 
+          className="position-absolute bottom-0 start-0 m-2 px-2 py-0.5 rounded text-white bg-dark bg-opacity-75"
+          style={{ fontSize: '10px', letterSpacing: '0.3px', zIndex: 1, pointerEvents: 'none', userSelect: 'none' }}
+          title="This image represents illustrative campus architecture and is not an authentic photograph of the college campus."
+        >
+          Representative Image
+        </span>
+      )}
     </div>
   );
 };
