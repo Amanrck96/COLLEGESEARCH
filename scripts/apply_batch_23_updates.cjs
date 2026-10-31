@@ -197,3 +197,4 @@ for (const col of colleges) {
 
 fs.writeFileSync(SITE_DATA_PATH, JSON.stringify(rawData, null, 2), 'utf8');
 console.log(`Applied Batch 23 updates to ${updatedCount} colleges in public/siteData.json`);
+

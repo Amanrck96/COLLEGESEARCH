@@ -48,3 +48,4 @@ candidates.forEach((c, idx) => {
 });
 
 fs.writeFileSync(path.join(BASE_DIR, 'reports', 'verification', 'batch-25-candidates.json'), JSON.stringify(candidates, null, 2));
+
