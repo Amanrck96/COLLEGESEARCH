@@ -49196,13 +49196,13 @@
     },
     {
       "id": 739,
-      "name": "INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+      "name": "Institute of Technology and Management (ITM), GIDA, Gorakhpur",
       "shortName": "Course Institute-1",
       "location": "GORAKHPUR",
       "state": "Uttar Pradesh",
-      "address": "AL-1 SECTOR-7, GIDA GORAKHPUR",
-      "phone": "0123-456789",
-      "website": "https://www.instituteoftech.edu.in",
+      "address": "AL-1, Sector-7, GIDA, Gorakhpur - 273209, Uttar Pradesh, India",
+      "phone": "+91-8081209500 / +91-7607777650",
+      "website": "https://itmgkp.edu.in",
       "rating": 4.7,
       "reviews": 364,
       "type": "Private",
@@ -49214,7 +49214,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20GORAKHPUR%20Uttar%20Pradesh",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://itmgkp.edu.in/wp-content/uploads/2023/09/ITM-Building.png",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://itmgkp.edu.in/wp-content/uploads/2023/09/ITM-Building.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -49248,9 +49248,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 364,
-      "image": "https://itmgkp.edu.in/wp-content/uploads/2023/09/ITM-Building.png",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20GORAKHPUR%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20GORAKHPUR%20Uttar%20Pradesh",
+      "email": "director@itmgkp.edu.in",
+      "affiliation": "Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE, BTEUP"
     },
     {
       "id": 740,
@@ -49546,13 +49548,13 @@
     },
     {
       "id": 745,
-      "name": "MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+      "name": "Modern Institute of Technology and Management (MITM), Ghaziabad",
       "shortName": "Course Institute-1",
       "location": "GHAZIABAD",
       "state": "Uttar Pradesh",
-      "address": "NH-58, DELHI-MEERUT ROAD, DUHAI, GHAZIABAD",
-      "phone": "0123-456789",
-      "website": "https://www.moderninstitute.edu.in",
+      "address": "Near RapidX Metro Station (Duhai), Delhi-Meerut Road, Duhai, Ghaziabad - 201206, Uttar Pradesh, India",
+      "phone": "+91-7291982148 / +91-8958115424",
+      "website": "https://mitmgzb.com",
       "rating": 4.6,
       "reviews": 1221,
       "type": "Private",
@@ -49601,7 +49603,9 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MODERN%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20GHAZIABAD%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "mitmghaziabad@gmail.com",
+      "affiliation": "Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE"
     },
     {
       "id": 746,
@@ -52048,13 +52052,13 @@
     },
     {
       "id": 777,
-      "name": "INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT",
+      "name": "Institute of Professional Excellence & Management (IPEM), Ghaziabad",
       "shortName": "Course Institute-1",
       "location": "GHAZIABAD",
       "state": "Uttar Pradesh",
-      "address": "A-13/1, SSGT ROAD INDUSTRIAL AREA, NH-24 GHAZIABAD",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofprof.edu.in",
+      "address": "A-13/1, South Side G.T. Road Industrial Area, NH-9 Bypass, Ghaziabad - 201010, Uttar Pradesh, India",
+      "phone": "+91-9910491472 / +91-9910491474",
+      "website": "https://www.ipemgzb.ac.in",
       "rating": 4.5,
       "reviews": 634,
       "type": "Private",
@@ -52066,7 +52070,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20PROFESSIONAL%20EXCELLENCE%20%26%20MANAGEMENT%20GHAZIABAD%20Uttar%20Pradesh",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/institute-of-professional-excellence-management-ghaziabad-246578.webp",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/institute-of-professional-excellence-management-ghaziabad-246578.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -52100,9 +52104,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 634,
-      "image": "https://www.collegebatch.com/static/clg-gallery/institute-of-professional-excellence-management-ghaziabad-246578.webp",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20PROFESSIONAL%20EXCELLENCE%20%26%20MANAGEMENT%20GHAZIABAD%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20PROFESSIONAL%20EXCELLENCE%20%26%20MANAGEMENT%20GHAZIABAD%20Uttar%20Pradesh",
+      "email": "info@ipemgzb.ac.in",
+      "affiliation": "Dr. A.P.J. Abdul Kalam Technical University (AKTU) & CCSU Meerut, Approved by AICTE, NAAC"
     },
     {
       "id": 778,
@@ -52339,13 +52345,13 @@
     },
     {
       "id": 782,
-      "name": "MOTI LAL RASTOGI SCHOOL OF MANAGEMENT",
+      "name": "Moti Lal Rastogi School of Management (MLRSM), Lucknow",
       "shortName": "Course Institute-1",
       "location": "LUCKNOW",
       "state": "Uttar Pradesh",
-      "address": "D-23, UPSIDC, INDUSTRIAL AREA, SAROJINI NAGAR,KANPUR ROAD, LUCKNOW.",
-      "phone": "0123-456789",
-      "website": "https://www.motilalrastogis.edu.in",
+      "address": "D-22 / D-23, UPSIDC Industrial Area, Sarojini Nagar, Kanpur Road, Lucknow - 226008, Uttar Pradesh, India",
+      "phone": "+91-9450650965 / 0522-2476174",
+      "website": "https://mlrsmihm.com",
       "rating": 4.5,
       "reviews": 269,
       "type": "Private",
@@ -52357,13 +52363,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MOTI%20LAL%20RASTOGI%20SCHOOL%20OF%20MANAGEMENT%20LUCKNOW%20Uttar%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.getmyuni.com/azure/college-images-test/moti-lal-rastogi-school-of-management-lucknow/59d5bcc12acc42778f464a0597692818.jpeg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://media.getmyuni.com/azure/college-images-test/moti-lal-rastogi-school-of-management-lucknow/59d5bcc12acc42778f464a0597692818.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "National Council for Hotel Management and Catering Technology (NCHMCT) & IGNOU / AKTU",
       "courses": [
         {
           "title": "PGDM(HOSPITALITY MANAGEMENT)",
@@ -52387,9 +52393,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.getmyuni.com/azure/college-images-test/moti-lal-rastogi-school-of-management-lucknow/59d5bcc12acc42778f464a0597692818.jpeg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MOTI%20LAL%20RASTOGI%20SCHOOL%20OF%20MANAGEMENT%20LUCKNOW%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MOTI%20LAL%20RASTOGI%20SCHOOL%20OF%20MANAGEMENT%20LUCKNOW%20Uttar%20Pradesh",
+      "email": "mlrsm.edu@gmail.com"
     },
     {
       "id": 783,
@@ -52447,16 +52454,16 @@
     },
     {
       "id": 784,
-      "name": "DR. BHIMRAO AMBEDKAR UNIVERSITY",
+      "name": "Dr. Bhimrao Ambedkar University (DBRAU), Khandari Campus, Agra",
       "shortName": "Course Institute-1",
       "location": "AGRA",
       "state": "Uttar Pradesh",
-      "address": "KHANDARI CAMPUS",
-      "phone": "0123-456789",
-      "website": "https://www.drbhimraoambedk.edu.in",
+      "address": "Khandari Campus, Dr. Bhimrao Ambedkar University, Agra - 282002, Uttar Pradesh, India",
+      "phone": "+91-562-2856446 / 0562-2858669",
+      "website": "https://dbrau.ac.in",
       "rating": 4.5,
       "reviews": 167,
-      "type": "Private",
+      "type": "Public/Government (State University)",
       "about": "Welcome to DR. BHIMRAO AMBEDKAR UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 43,
       "facebook": "#",
@@ -52465,13 +52472,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DR.%20BHIMRAO%20AMBEDKAR%20UNIVERSITY%20AGRA%20Uttar%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bms_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/dbrau-dr-bhimrao-ambedkar-university-campus-building.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "State University established in 1927, Approved by UGC & AICTE, Accredited by NAAC",
       "courses": [
         {
           "title": "MCA",
@@ -52495,23 +52502,24 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bms_bangalore.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20BHIMRAO%20AMBEDKAR%20UNIVERSITY%20AGRA%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "registrar@dbrau.ac.in"
     },
     {
       "id": 785,
-      "name": "CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY",
+      "name": "Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur",
       "shortName": "Course Institute-1",
       "location": "KANPUR NAGAR",
       "state": "Uttar Pradesh",
-      "address": "KALYANPUR",
-      "phone": "0123-456789",
-      "website": "https://www.chhatrapatishah.edu.in",
+      "address": "Kalyanpur, Kanpur - 208024, Uttar Pradesh, India",
+      "phone": "0512-2246608 / 0512-2246609",
+      "website": "https://csjmu.ac.in",
       "rating": 4.5,
       "reviews": 442,
-      "type": "Private",
+      "type": "Public/Government (State University)",
       "about": "Welcome to CHHATRAPATI SHAHU JI MAHARAJ UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 34,
       "facebook": "#",
@@ -52520,13 +52528,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CHHATRAPATI%20SHAHU%20JI%20MAHARAJ%20UNIVERSITY%20KANPUR%20NAGAR%20Uttar%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sheila_raheja_bandra.webp",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://alchetron.com/cdn/chhatrapati-shahu-ji-maharaj-university-281c5758-908c-43e6-a4b9-261002a1372-resize-750.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "State University established in 1966, UGC Category-I, NAAC A++ Grade",
       "courses": [
         {
           "title": "MCA",
@@ -52550,20 +52558,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHHATRAPATI%20SHAHU%20JI%20MAHARAJ%20UNIVERSITY%20KANPUR%20NAGAR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "info@csjmu.ac.in"
     },
     {
       "id": 786,
-      "name": "SPARSH GLOBAL BUSINESS SCHOOL",
+      "name": "Sparsh Global Business School (SGBS), Greater Noida",
       "shortName": "Course Institute-1",
       "location": "GAUTAM BUDDHA NAGAR",
       "state": "Uttar Pradesh",
-      "address": "29/2, KNOWLEDGE PARK - 3, GREATER NOIDA",
-      "phone": "0123-456789",
-      "website": "https://www.sparshglobalbus.edu.in",
+      "address": "Plot No. 29/2, Knowledge Park-III, Greater Noida - 201310, Uttar Pradesh, India",
+      "phone": "+91-7669933416 / 1800-121-4800",
+      "website": "https://www.sparshgbs.in",
       "rating": 4.5,
       "reviews": 123,
       "type": "Private",
@@ -52581,7 +52590,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt of India",
       "courses": [
         {
           "title": "PGDM (BUSINESS ADMINISTRATION)",
@@ -52608,7 +52617,8 @@
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SPARSH%20GLOBAL%20BUSINESS%20SCHOOL%20GAUTAM%20BUDDHA%20NAGAR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "admission@sparshgbs.in"
     },
     {
       "id": 787,
@@ -53160,13 +53170,13 @@
     },
     {
       "id": 797,
-      "name": "IIF BUSINESS SCHOOL",
+      "name": "IIF Business School / Indian Institute of Finance (IIF), Greater Noida",
       "shortName": "Course Institute-1",
       "location": "GAUTAM BUDDHA NAGAR",
       "state": "Uttar Pradesh",
-      "address": "PLOT NO. 45A, KNOWLEDGE PARK III, GREATER NOIDA",
-      "phone": "0123-456789",
-      "website": "https://www.iifbusinessscho.edu.in",
+      "address": "Plot No. 45A, Knowledge Park III, Greater Noida - 201308, Delhi-NCR, Uttar Pradesh, India",
+      "phone": "+91-9811971002 / 0120-6471004",
+      "website": "https://www.iif.edu",
       "rating": 4.5,
       "reviews": 430,
       "type": "Private",
@@ -53178,13 +53188,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=IIF%20BUSINESS%20SCHOOL%20GAUTAM%20BUDDHA%20NAGAR%20Uttar%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://images.careerindia.com/college-photos/31554/college-building_1507549994.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://images.careerindia.com/college-photos/31554/college-building_1507549994.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt of India",
       "courses": [
         {
           "title": "MBA(GENERAL MANAGEMENT)",
@@ -53208,9 +53218,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://images.careerindia.com/college-photos/31554/college-building_1507549994.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIF%20BUSINESS%20SCHOOL%20GAUTAM%20BUDDHA%20NAGAR%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIF%20BUSINESS%20SCHOOL%20GAUTAM%20BUDDHA%20NAGAR%20Uttar%20Pradesh",
+      "email": "admission@iif.edu"
     },
     {
       "id": 798,
@@ -53757,13 +53768,13 @@
     },
     {
       "id": 808,
-      "name": "ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH",
+      "name": "Adhunik Institute of Productivity Management & Research (AGOI), Ghaziabad",
       "shortName": "Course Institute-1",
       "location": "GHAZIABAD",
       "state": "Uttar Pradesh",
-      "address": "9TH MILE STONE DELHI MEERUT ROAD DUHAI",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=ADHUNIK%20INSTITUTE%20OF%20PRODUCTIVITY%20MANAGEMENT%20%26%20RESEARCH%20GHAZIABAD%20Uttar%20Pradesh%20official%20website",
+      "address": "9th Km Stone, Delhi-Meerut Road, Opposite Bank of India, Near Bus Stand Duhai, Ghaziabad - 201206, Uttar Pradesh, India",
+      "phone": "+91-9818592787 / +91-9897698822",
+      "website": "https://adhunikgroup.org",
       "rating": 4.5,
       "reviews": 410,
       "type": "Private",
@@ -53775,13 +53786,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ADHUNIK%20INSTITUTE%20OF%20PRODUCTIVITY%20MANAGEMENT%20%26%20RESEARCH%20GHAZIABAD%20Uttar%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/iiit_bangalore_campus.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/adhunik-institute-of-productivity-management-research-ghaziabad-366980.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -53805,10 +53816,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADHUNIK%20INSTITUTE%20OF%20PRODUCTIVITY%20MANAGEMENT%20%26%20RESEARCH%20GHAZIABAD%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "info@adhunikgroup.org"
     },
     {
       "id": 809,
@@ -54085,13 +54097,13 @@
     },
     {
       "id": 814,
-      "name": "S.R.M. BUSINESS SCHOOL",
+      "name": "S.R.M. Business School (SRMBS), Lucknow",
       "shortName": "Course Institute-1",
       "location": "LUCKNOW",
       "state": "Uttar Pradesh",
-      "address": "KHASRA NO. 566, VILLAGE BHAISAMAU, PARGANA MOHANA,TEHSIL BAKSHI KA TALAB,.",
-      "phone": "0123-456789",
-      "website": "https://www.srmbusinessscho.edu.in",
+      "address": "NH-24, Sitapur Road, Bakshi ka Talab, Lucknow - 226201, Uttar Pradesh, India",
+      "phone": "+91 9793000004 / +91 9793000005",
+      "website": "https://srmbs.in",
       "rating": 4.5,
       "reviews": 473,
       "type": "Private",
@@ -54103,13 +54115,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=S.R.M.%20BUSINESS%20SCHOOL%20LUCKNOW%20Uttar%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/srm-business-school-lucknow-305539.webp",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/srm-business-school-lucknow-305539.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Dr. A.P.J. Abdul Kalam Technical University (AKTU) & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -54133,9 +54145,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/srm-business-school-lucknow-305539.webp",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=S.R.M.%20BUSINESS%20SCHOOL%20LUCKNOW%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=S.R.M.%20BUSINESS%20SCHOOL%20LUCKNOW%20Uttar%20Pradesh",
+      "email": "info@srgi.in"
     },
     {
       "id": 815,
