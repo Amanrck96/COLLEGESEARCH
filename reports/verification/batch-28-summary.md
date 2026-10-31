@@ -68,3 +68,4 @@ Batch 28 covers 10 higher education institutions across **Andhra Pradesh** spann
   - `reports/verification/progress.json`: 280 completed IDs, current batch 28
   - `reports/verification/all_verified_colleges.json`: 280 institutions cataloged
   - `reports/verification/all_verified_colleges.md`: 280 verified institutions indexed
+
