@@ -27669,16 +27669,16 @@
     },
     {
       "id": 390,
-      "name": "GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES",
+      "name": "Graduate School of Management Studies (GSMS), Gujarat Technological University",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
-      "address": "GUJARAT TECHNOLOGICAL UNIVERSITY, SABARMATI â KOBA HIGHWAY, NEAR VISAT THREE ROADS, CHANDKHEDA AHMEDABAD",
-      "phone": "0123-456789",
-      "website": "https://www.gujarattechnolo.edu.in",
+      "address": "Academic Block - IV, GTU Chandkheda Campus, Nr. Visat Three Roads, Visat - Gandhinagar Highway, Chandkheda, Ahmedabad - 382424, Gujarat",
+      "phone": "079-23267542 / 079-23267534",
+      "website": "https://www.gsms.gtu.ac.in",
       "rating": 4.5,
       "reviews": 122,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF MANAGEMENT STUDIES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 82,
       "facebook": "#",
@@ -27687,14 +27687,14 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GUJARAT%20TECHNOLOGICAL%20UNIVERSITY%20SCHOOL%20OF%20MANAGEMENT%20STUDIES%20AHMEDABAD%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://theliveahmedabad.com/wp-content/uploads/2022/07/gtu-building.jpg",
         "https://universitykart.b-cdn.net/Content/upload/admin/cfez50yg.ctt.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE",
       "courses": [
         {
           "title": "MBA(INTERNATIONAL BUSINESS)",
@@ -27718,10 +27718,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bangalore_university.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GUJARAT%20TECHNOLOGICAL%20UNIVERSITY%20SCHOOL%20OF%20MANAGEMENT%20STUDIES%20AHMEDABAD%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "gsms@gtu.edu.in"
     },
     {
       "id": 391,
@@ -27942,13 +27943,13 @@
     },
     {
       "id": 395,
-      "name": "NARAYANA BUSIINESS SCHOOL",
+      "name": "Narayana Business School (Duplicate of ID 387)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
-      "address": "NARAYANA HOUSE, BEHIND SAAVI WOMENS HOSPITAL, OPP. SHELL PETROL PUMP ROAD, PRAHLADNAGAR,SATELLITE",
-      "phone": "0123-456789",
-      "website": "https://www.narayanabusiine.edu.in",
+      "address": "Sarkhej-Bavla Highway, Sanathal, Ahmedabad - 382210, Gujarat",
+      "phone": "+91 844 8444 981",
+      "website": "https://www.nbs.edu.in",
       "rating": 4.5,
       "reviews": 429,
       "type": "Private",
@@ -27960,7 +27961,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20BUSIINESS%20SCHOOL%20AHMEDABAD%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.vidyavision.com/CollegeUploads/Photos/2023-07-10-15-55-15_nbs images.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.vidyavision.com/CollegeUploads/Photos/2023-07-10-15-55-15_nbs images.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
@@ -27990,9 +27991,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.vidyavision.com/CollegeUploads/Photos/2023-07-10-15-55-15_nbs images.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20BUSIINESS%20SCHOOL%20AHMEDABAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20BUSIINESS%20SCHOOL%20AHMEDABAD%20Gujarat",
+      "duplicate_of": 387,
+      "email": "info@nbs.edu.in"
     },
     {
       "id": 396,
@@ -28000,9 +28003,9 @@
       "shortName": "Course Institute-1",
       "location": "NAVSARI",
       "state": "Gujarat",
-      "address": "BHAGWATI SANKUL, NEAR ERU CHAR RASTA, NAVSARI - 396 450",
-      "phone": "0123-456789",
-      "website": "https://www.naranlalaschool.edu.in",
+      "address": "Naran Lala College Campus, Bhagwati Sankul, Near Eru Char Rasta, Eru, Navsari - 396450, Gujarat, India",
+      "phone": "02637-283687 / +91-9099063468",
+      "website": "https://www.naranlala.edu.in/",
       "rating": 4.5,
       "reviews": 291,
       "type": "Private",
@@ -28014,13 +28017,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NARAN%20LALA%20SCHOOL%20OF%20INDUSTRIAL%20MANAGEMENT%20%26%20COMPUTER%20SCIENCE%20NAVSARI%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/riim_pune.jpeg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://static.wixstatic.com/media/59b055_babbf9bfedc44adbb09f01cb60bf39cb~mv2.jpg/v1/fill/w_920,h_640,al_c/59b055_babbf9bfedc44adbb09f01cb60bf39cb~mv2.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 738",
       "courses": [
         {
           "title": "MBA",
@@ -28044,10 +28047,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NARAN%20LALA%20SCHOOL%20OF%20INDUSTRIAL%20MANAGEMENT%20%26%20COMPUTER%20SCIENCE%20NAVSARI%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "naranlalamba@gmail.com"
     },
     {
       "id": 397,
@@ -28439,9 +28443,9 @@
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
-      "address": "352, 353A, NEAR BHAVIK PUBLICATIONS, OPP. BHAGWAT VIDHYAPITH, GOTA CROSS ROAD, GOTA, AHMEDABAD",
-      "phone": "0123-456789",
-      "website": "https://www.silveroakinstit.edu.in",
+      "address": "Silver Oak University, Opp. Bhagwat Vidyapith, S.G. Highway, Gota, Ahmedabad - 382481, Gujarat",
+      "phone": "079-66046300 / +91-9099063464",
+      "website": "https://silveroakuni.ac.in",
       "rating": 4.5,
       "reviews": 306,
       "type": "Private",
@@ -28453,13 +28457,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SILVER%20OAK%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20AHMEDABAD%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://webcdn.imarticus.org/Silver+Oak+Institute+of+Business+Management+(SOIBM),+Ahmedabad-09359a5e25810782da6470c591677b6d",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Constituent of Silver Oak University, Approved by UGC & AICTE",
       "courses": [
         {
           "title": "PGDM (FINANCE)",
@@ -28483,20 +28487,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SILVER%20OAK%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20AHMEDABAD%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "info@silveroakuni.ac.in"
     },
     {
       "id": 405,
-      "name": "SCHOOL OF MANAGEMENT",
+      "name": "School of Management (SoM), Pandit Deendayal Energy University",
       "shortName": "Course Institute-1",
       "location": "GANDHINAGAR",
       "state": "Gujarat",
-      "address": "PANDIT DEENDAYAL ENERGY UNIVERSITY, KNOWLEDGE CORRIDOR, RAISAN",
-      "phone": "0123-456789",
-      "website": "https://www.schoolofmanagem.edu.in",
+      "address": "Knowledge Corridor, Raisan Village, Gandhinagar - 382426, Gujarat, India",
+      "phone": "079-23275109 / 079-23275060",
+      "website": "https://www.pdpu.ac.in",
       "rating": 4.5,
       "reviews": 244,
       "type": "Private",
@@ -28508,13 +28513,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20MANAGEMENT%20GANDHINAGAR%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://ik.imagekit.io/bi2uhcctu2/HCP_20240625/HCP_Website/CMS/page_ar_project/Projects/57/99_57_4_1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Pandit Deendayal Energy University, Approved by UGC & AICTE, NAAC A++ Grade",
       "courses": [
         {
           "title": "MBA",
@@ -28538,10 +28543,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20MANAGEMENT%20GANDHINAGAR%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "admissions@spm.pdpu.ac.in"
     },
     {
       "id": 406,
@@ -28599,13 +28605,13 @@
     },
     {
       "id": 407,
-      "name": "TOLANI MOTWANE INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Tolani Motwane Institute of Management Studies (TMIMS), Adipur",
       "shortName": "Course Institute-1",
       "location": "KUTCH",
       "state": "Gujarat",
-      "address": "P.O.BOX NO-11, OPPOSITE RAILWAY CROSSING, LILASHAH KUTIYA ROAD, ADIPUR",
-      "phone": "0123-456789",
-      "website": "https://www.tolanimotwanein.edu.in",
+      "address": "Tolani Vidya Mandir Campus, Lilashah Ashram Road, Adipur (Kutch) - 370205, Gujarat",
+      "phone": "02836-261466 / +91-9925317710",
+      "website": "https://tims.ac.in",
       "rating": 4.5,
       "reviews": 486,
       "type": "Private",
@@ -28617,13 +28623,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=TOLANI%20MOTWANE%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KUTCH%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/tolani-institute-of-management-studies-tims-kachchh-61935.webp",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/tolani-institute-of-management-studies-tims-kachchh-61935.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 758",
       "courses": [
         {
           "title": "MBA",
@@ -28647,9 +28653,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/tolani-institute-of-management-studies-tims-kachchh-61935.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TOLANI%20MOTWANE%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KUTCH%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TOLANI%20MOTWANE%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KUTCH%20Gujarat",
+      "email": "info@tims.ac.in"
     },
     {
       "id": 408,
@@ -28821,9 +28828,9 @@
       "shortName": "Course Institute-1",
       "location": "BHAVNAGAR",
       "state": "Gujarat",
-      "address": "PLOT NO. 639, ISCON MEGA CITY, NR. M. K. BHAVNAGAR UNIVERSITY OFFICE, BHAVNAGAR - 364002.",
-      "phone": "0123-456789",
-      "website": "https://www.swamisahajanand.edu.in",
+      "address": "Phase-II, Plot No. 639, ISCON Mega City, Near M.K. Bhavnagar University Office, Bhavnagar - 364002, Gujarat",
+      "phone": "0278-2512252 / 0278-2516999",
+      "website": "http://www.swamisahajanand.mba",
       "rating": 4.5,
       "reviews": 102,
       "type": "Private",
@@ -28841,7 +28848,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Maharaja Krishnakumarsinhji Bhavnagar University (MKBU) / GTU & Approved by AICTE",
       "courses": [
         {
           "title": "MBA(GENERAL MANAGEMENT)",
@@ -28868,7 +28875,8 @@
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SWAMI%20SAHAJANAND%20SCHOOL%20OF%20MANAGEMENT%20BHAVNAGAR%20BHAVNAGAR%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "swamisahajanand.mba@gmail.com"
     },
     {
       "id": 412,
@@ -28876,9 +28884,9 @@
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
-      "address": "THE MANDVI EDUCATION SOCIETY,AT & PO-MANDVI,DI-SURAT,GUJARAT,394160",
-      "phone": "0123-456789",
-      "website": "https://www.themandvieducat.edu.in",
+      "address": "The Mandvi Education Society Technical Campus, Near Bus Stand, Mandvi, Surat - 394160, Gujarat",
+      "phone": "+91 9327365853 / 02623-221015",
+      "website": "https://www.mestech.ac.in",
       "rating": 4.5,
       "reviews": 287,
       "type": "Private",
@@ -28890,13 +28898,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=THE%20MANDVI%20EDUCATION%20SOCIETY%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20AND%20COMPUTER%20STUDIES%20SURAT%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/chetana_bandra.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/The_Mandvi_Education_Soc.jpg?width=640",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 732",
       "courses": [
         {
           "title": "MBA",
@@ -28920,10 +28928,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE%20MANDVI%20EDUCATION%20SOCIETY%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20AND%20COMPUTER%20STUDIES%20SURAT%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "mgmtmes@gmail.com"
     },
     {
       "id": 413,
@@ -29320,9 +29329,9 @@
       "shortName": "Course Institute-1",
       "location": "RAJKOT",
       "state": "Gujarat",
-      "address": "\"CHRISTCAMPUS\",VIDYA NIKETAN, SAURASHTRA UNIVERSITY P.O., RAJKOT",
-      "phone": "0123-456789",
-      "website": "https://www.christinstitute.edu.in",
+      "address": "Christ Campus, Vidya Niketan, Saurashtra University P.O., Rajkot - 360005, Gujarat, India",
+      "phone": "0281-2572091 / +91-9825199264",
+      "website": "https://www.cimrajkot.edu.in/",
       "rating": 4.5,
       "reviews": 405,
       "type": "Private",
@@ -29334,13 +29343,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CHRIST%20INSTITUTE%20OF%20MANAGEMENT%20RAJKOT%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.cimrajkot.edu.in/images/slider/slider-01.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://www.cimrajkot.edu.in/images/slider/slider-01.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Saurashtra University & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -29364,9 +29373,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.cimrajkot.edu.in/images/slider/slider-01.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHRIST%20INSTITUTE%20OF%20MANAGEMENT%20RAJKOT%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHRIST%20INSTITUTE%20OF%20MANAGEMENT%20RAJKOT%20Gujarat",
+      "email": "cimrajkot@gmail.com"
     },
     {
       "id": 421,
@@ -29865,9 +29875,9 @@
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
-      "address": "PLOT NO 21/1/2, TPS 18, SHAYONA VIDYAVIHAR, SHAYONA CITY, GHATLODIA",
-      "phone": "0123-456789",
-      "website": "https://shayonainstitute.edu.in",
+      "address": "Shayona City, Shayona Complex Road, Behind Vandana Park, Ghatlodia, Ahmedabad - 380061, Gujarat",
+      "phone": "+91 9227076799 / 079-27665354",
+      "website": "https://sibm.shayonainstitute.edu.in",
       "rating": 4.5,
       "reviews": 274,
       "type": "Private",
@@ -29879,13 +29889,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SHAYONA%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20AHMEDABAD%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://sibm.shayonainstitute.edu.in/public/upload/photo/gal-2_1627562990.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://sibm.shayonainstitute.edu.in/public/upload/photo/gal-2_1627562990.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gujarat Technological University (GTU) & Approved by AICTE, GTU Code 801",
       "courses": [
         {
           "title": "MBA",
@@ -29909,9 +29919,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://sibm.shayonainstitute.edu.in/public/upload/photo/gal-2_1627562990.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHAYONA%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20AHMEDABAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHAYONA%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20AHMEDABAD%20Gujarat",
+      "email": "admission@shayonainstitute.edu.in"
     },
     {
       "id": 431,
