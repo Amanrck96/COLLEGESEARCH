@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **340 / 12,660**  
-**Roadmap Progress**: **34.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **350 / 12,660**  
+**Roadmap Progress**: **35.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -519,4 +519,19 @@
 | **2671** | Dadi Institute of Engineering & Technology (DIET) | Private | Visakhapatnam District, Andhra Pradesh - 531002 | [www.diet.edu.in](https://www.diet.edu.in) |
 | **2681** | Sreerama Institute of Management (SRIM) | Private | West Godavari District, Andhra Pradesh - 534218 | [srim.asrgroup.co.in](https://srim.asrgroup.co.in) |
 | **2682** | Pydah College of Engineering | Private | Kakinada District, Andhra Pradesh - 533461 | [www.pydahpce.edu.in](https://www.pydahpce.edu.in) |
+
+### Batch 35 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2684** | S.K.R. Degree & PG College for Women | Government-Aided | East Godavari District, Andhra Pradesh - 533103 | [www.skrmbacollege.info](http://www.skrmbacollege.info) |
+| **2686** | Sri Balaji PG College (MBA & MCA) | Private | Anantapuramu, Andhra Pradesh - 515001 | [www.sribalajimbamca.in](https://www.sribalajimbamca.in) |
+| **2695** | Madhura Sai Institute of IT & Management (MSIM) | Private | YSR Kadapa District, Andhra Pradesh - 516361 | [www.msimpdtr.org](http://www.msimpdtr.org) |
+| **2699** | Adithe Satyanarayana PG College (ASN) | Private | East Godavari District, Andhra Pradesh - 533201 | [www.asncolleges.org](http://www.asncolleges.org) |
+| **2702** | Sri Vidya Institute of Management Studies | Private | Tirupati District, Andhra Pradesh - 517583 | [sreevidyacolleges.in](https://sreevidyacolleges.in) |
+| **2703** | Rao's Institute of Management Studies (RIMS) | Private | Nellore District, Andhra Pradesh - 524320 | [www.raosinstitutions.com](https://www.raosinstitutions.com) |
+| **2713** | Avanthi's St. Theressa Institute of Engineering & Technology | Private | Vizianagaram District, Andhra Pradesh - 535101 | [www.sttheressaengg.ac.in](https://www.sttheressaengg.ac.in) |
+| **2714** | Dr. K.V. Subba Reddy School of Business Management | Private | Kurnool, Andhra Pradesh - 518218 | [www.drkvsbschool.in](https://www.drkvsbschool.in) |
+| **2725** | Chaitanya Engineering College | Private | Visakhapatnam, Andhra Pradesh - 530048 | [cec.ac.in](https://cec.ac.in) |
+| **2727** | GATES Institute of Technology | Autonomous Private | Anantapuramu District, Andhra Pradesh - 515401 | [gatesit.ac.in](https://gatesit.ac.in) |
 

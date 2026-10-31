@@ -1,0 +1,177 @@
+[
+  {
+    "id": 2684,
+    "name": "S.K. R. DEGREE AND PG WOMEN COLLEGE",
+    "address": "S.K. R. DEGREE AND PG WOMEN COLLEGE, DANAVAIA PETA, RAJAHMUNDRY, EAST GODAVARI DIST, A P-533103.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.skrdegreeandpgw.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2686,
+    "name": "SRI BALAJI PG COLLEGE (MCA)",
+    "address": "SRI BALAJI PG COLLEGE (MCA) RUDRAMPETA, ALAMURU (POST), ANANTAPUR (DIST.), ANDHRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.sribalajipgcoll.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2695,
+    "name": "MADHURA SAI INSTITUTE OF IT & MANAGEMENT",
+    "address": "MODAMEEDAPALLI PRODDATUR KADAPA (DT.) PIN: 516360",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.madhurasaiinsti.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2699,
+    "name": "ADITHE SATYANARAYANA PG COLLEGE (ASN)",
+    "address": "RAJYA LAKSHMI GARDENS, BHUPAYYA AGRAHARAM, AMALAPURAM, EAST GODAVARI DISTRICT",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.adithesatyanara.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2702,
+    "name": "SRI VIDYA INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "GOVINDAPALEM,PUTTUR-517583,CHITTOOR DIST ANDHRAPRADESH.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.srividyainstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2703,
+    "name": "RAOS INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "CHEMUDUGUNTA (PO), VENKATACHALAM (M), NELLORE(DT) - 524320.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.raosinstituteof.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2713,
+    "name": "AVANTHI S ST.THERESSA INSTITUTE OF ENGINEERING AND TECHNOLOGY,GARIVIDI",
+    "address": "GARBHAM ROAD, GARIVIDI (CHEEPURUPALLI), VIZIANAGARAM DISTRICT",
+    "state": "Andhra Pradesh",
+    "img": "https://media.getmyuni.com/azure/college-images-test/st-theressa-institute-of-engineering-and-technology-stiet-vizianagaram/06a17d246e2a442687482a9f863ad2e6.jpeg",
+    "website": "https://www.avanthisstthere.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2714,
+    "name": "DR K V SUBBA REDDY SCHOOL OF BUSINESS MANAGEMENT",
+    "address": "DR.K.V.SUBBA REDDY INSTITUTE OF MCA OPP. DUPADU RAILWAY STATION, N.H - 7, LAKSHMIPURAM (POST), KURNOOL - 518218. ANDHRA PRADESH.",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/dr-k-v-subba-reddy-school-of-business-management-kurnool-308792.webp",
+    "website": "https://www.drkvsubbareddys.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2725,
+    "name": "CHAITANYA ENGINEERING COLLEGE",
+    "address": "KOMMADI, MADHURAWADA, VISAKHAPATNAM-530041 ANDHRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/chaitanya-engineering-college-visakhapatnam-228790.webp",
+    "website": "https://www.chaitanyaengine.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2727,
+    "name": "GATES INSTITUTE OF TECHNOLOGY",
+    "address": "NH-7, GOOTYANANTAPUR, ANANTAPUR - 515401, ANDHRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Gates_Institute_of_Technology6.jpg",
+    "website": "https://www.gatesinstituteo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

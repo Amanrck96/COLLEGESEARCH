@@ -2548,5 +2548,80 @@
         "website": "https://www.pydahpce.edu.in"
       }
     ]
+  },
+  {
+    "batch": 35,
+    "items": [
+      {
+        "id": 2684,
+        "name": "S.K.R. Degree & PG College for Women",
+        "type": "Government-Aided",
+        "location": "East Godavari District, Andhra Pradesh - 533103",
+        "website": "http://www.skrmbacollege.info"
+      },
+      {
+        "id": 2686,
+        "name": "Sri Balaji PG College (MBA & MCA)",
+        "type": "Private",
+        "location": "Anantapuramu, Andhra Pradesh - 515001",
+        "website": "https://www.sribalajimbamca.in"
+      },
+      {
+        "id": 2695,
+        "name": "Madhura Sai Institute of IT & Management (MSIM)",
+        "type": "Private",
+        "location": "YSR Kadapa District, Andhra Pradesh - 516361",
+        "website": "http://www.msimpdtr.org"
+      },
+      {
+        "id": 2699,
+        "name": "Adithe Satyanarayana PG College (ASN)",
+        "type": "Private",
+        "location": "East Godavari District, Andhra Pradesh - 533201",
+        "website": "http://www.asncolleges.org"
+      },
+      {
+        "id": 2702,
+        "name": "Sri Vidya Institute of Management Studies",
+        "type": "Private",
+        "location": "Tirupati District, Andhra Pradesh - 517583",
+        "website": "https://sreevidyacolleges.in"
+      },
+      {
+        "id": 2703,
+        "name": "Rao's Institute of Management Studies (RIMS)",
+        "type": "Private",
+        "location": "Nellore District, Andhra Pradesh - 524320",
+        "website": "https://www.raosinstitutions.com"
+      },
+      {
+        "id": 2713,
+        "name": "Avanthi's St. Theressa Institute of Engineering & Technology",
+        "type": "Private",
+        "location": "Vizianagaram District, Andhra Pradesh - 535101",
+        "website": "https://www.sttheressaengg.ac.in"
+      },
+      {
+        "id": 2714,
+        "name": "Dr. K.V. Subba Reddy School of Business Management",
+        "type": "Private",
+        "location": "Kurnool, Andhra Pradesh - 518218",
+        "website": "https://www.drkvsbschool.in"
+      },
+      {
+        "id": 2725,
+        "name": "Chaitanya Engineering College",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 530048",
+        "website": "https://cec.ac.in"
+      },
+      {
+        "id": 2727,
+        "name": "GATES Institute of Technology",
+        "type": "Autonomous Private",
+        "location": "Anantapuramu District, Andhra Pradesh - 515401",
+        "website": "https://gatesit.ac.in"
+      }
+    ]
   }
 ]

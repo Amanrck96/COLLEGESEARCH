@@ -163768,16 +163768,16 @@
     },
     {
       "id": 2684,
-      "name": "S.K. R. DEGREE AND PG WOMEN COLLEGE",
+      "name": "S.K.R. Degree & PG College for Women",
       "shortName": "Course Institute-1",
       "location": "EAST GODAVARI",
       "state": "Andhra Pradesh",
-      "address": "S.K. R. DEGREE AND PG WOMEN COLLEGE, DANAVAIA PETA, RAJAHMUNDRY, EAST GODAVARI DIST, A P-533103.",
-      "phone": "0123-456789",
-      "website": "https://www.skrdegreeandpgw.edu.in",
+      "address": "Opp. T.T.D. Kalyana Mandapam, Danavaipeta, Rajahmundry, East Godavari District, Andhra Pradesh - 533103",
+      "phone": "+91-883-2470003",
+      "website": "http://www.skrmbacollege.info",
       "rating": 4.5,
       "reviews": 464,
-      "type": "Private",
+      "type": "Government-Aided",
       "about": "Welcome to S.K. R. DEGREE AND PG WOMEN COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 24,
       "facebook": "#",
@@ -163786,7 +163786,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=S.K.%20R.%20DEGREE%20AND%20PG%20WOMEN%20COLLEGE%20EAST%20GODAVARI%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_1.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://mynursingadmission.com/uploads/college/032023/a28bc64f7caa6992cb956eece9ecff1d.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -163795,11 +163795,23 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹54,000",
+          "fee": "₹54,000",
+          "eligibility": "Graduation + APICET",
           "type": "MANAGEMENT",
+          "intake": 120
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹54,000",
+          "fee": "₹54,000",
+          "eligibility": "BCA/B.Sc with Mathematics + APICET",
+          "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
       ],
@@ -163816,10 +163828,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_1.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "ownership": "Trust / Aided",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=S.K.%20R.%20DEGREE%20AND%20PG%20WOMEN%20COLLEGE%20EAST%20GODAVARI%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Rajahmundry",
+      "email": "skrpgcollege@yahoo.com",
+      "verified": true
     },
     {
       "id": 2685,
@@ -163878,13 +163893,13 @@
     },
     {
       "id": 2686,
-      "name": "SRI BALAJI PG COLLEGE (MCA)",
+      "name": "Sri Balaji PG College (MBA & MCA)",
       "shortName": "Course Institute-1",
       "location": "ANANTAPUR",
       "state": "Andhra Pradesh",
-      "address": "SRI BALAJI PG COLLEGE (MCA) RUDRAMPETA, ALAMURU (POST), ANANTAPUR (DIST.), ANDHRA PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.sribalajipgcoll.edu.in",
+      "address": "Sanapa Road, Alamuru Post, Rudrampeta, Anantapuramu, Andhra Pradesh - 515001",
+      "phone": "+91-8886630011",
+      "website": "https://www.sribalajimbamca.in",
       "rating": 4.5,
       "reviews": 361,
       "type": "Private",
@@ -163896,7 +163911,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRI%20BALAJI%20PG%20COLLEGE%20(MCA)%20ANANTAPUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/27952/2020/1/2/Campus View of Sri Balaji PG College MCA Anantapur_Campus-View.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -163905,20 +163920,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 300
+          "intake": 60
         },
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -163934,10 +163953,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20BALAJI%20PG%20COLLEGE%20(MCA)%20ANANTAPUR%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Anantapur",
+      "email": "principal.jx@jntua.ac.in",
+      "verified": true
     },
     {
       "id": 2687,
@@ -164378,13 +164400,13 @@
     },
     {
       "id": 2695,
-      "name": "MADHURA SAI INSTITUTE OF IT & MANAGEMENT",
+      "name": "Madhura Sai Institute of IT & Management (MSIM)",
       "shortName": "Course Institute-1",
       "location": "YSR DISTRICT",
       "state": "Andhra Pradesh",
-      "address": "MODAMEEDAPALLI PRODDATUR KADAPA (DT.) PIN: 516360",
-      "phone": "0123-456789",
-      "website": "https://www.madhurasaiinsti.edu.in",
+      "address": "Peddasettypalli, Proddatur-Jammalamadugu Bypass Road, Proddatur, YSR Kadapa District, Andhra Pradesh - 516361",
+      "phone": "+91-9885991101",
+      "website": "http://www.msimpdtr.org",
       "rating": 4.5,
       "reviews": 161,
       "type": "Private",
@@ -164396,7 +164418,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MADHURA%20SAI%20INSTITUTE%20OF%20IT%20%26%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://static.toiimg.com/thumb/msid-71324685,width-1070,height-580,imgsize-187739,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -164405,11 +164427,23 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
+          "intake": 120
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
+          "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
       ],
@@ -164426,10 +164460,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bangalore_university.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MADHURA%20SAI%20INSTITUTE%20OF%20IT%20%26%20MANAGEMENT%20YSR%20DISTRICT%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Proddatur",
+      "email": "msimpdtr@gmail.com",
+      "verified": true
     },
     {
       "id": 2696,
@@ -164597,13 +164634,13 @@
     },
     {
       "id": 2699,
-      "name": "ADITHE SATYANARAYANA PG COLLEGE (ASN)",
+      "name": "Adithe Satyanarayana PG College (ASN)",
       "shortName": "Course Institute-1",
       "location": "EAST GODAVARI",
       "state": "Andhra Pradesh",
-      "address": "RAJYA LAKSHMI GARDENS, BHUPAYYA AGRAHARAM, AMALAPURAM, EAST GODAVARI DISTRICT",
-      "phone": "0123-456789",
-      "website": "https://www.adithesatyanara.edu.in",
+      "address": "Rajya Lakshmi Gardens, Bhupayya Agraharam, Amalapuram, East Godavari District, Andhra Pradesh - 533201",
+      "phone": "+91-8856-232125",
+      "website": "http://www.asncolleges.org",
       "rating": 4.5,
       "reviews": 92,
       "type": "Private",
@@ -164615,7 +164652,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ADITHE%20SATYANARAYANA%20PG%20COLLEGE%20(ASN)%20EAST%20GODAVARI%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/saraswati_kharghar.webp",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba/adithe-satyanarayana-pg-college-campus.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -164624,10 +164661,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -164645,10 +164684,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/saraswati_kharghar.webp",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADITHE%20SATYANARAYANA%20PG%20COLLEGE%20(ASN)%20EAST%20GODAVARI%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Amalapuram",
+      "email": "asnmba@rediffmail.com",
+      "verified": true
     },
     {
       "id": 2700,
@@ -164762,13 +164804,13 @@
     },
     {
       "id": 2702,
-      "name": "SRI VIDYA INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Sri Vidya Institute of Management Studies",
       "shortName": "Course Institute-1",
       "location": "TIRUPATI",
       "state": "Andhra Pradesh",
-      "address": "GOVINDAPALEM,PUTTUR-517583,CHITTOOR DIST ANDHRAPRADESH.",
-      "phone": "0123-456789",
-      "website": "https://www.srividyainstitu.edu.in",
+      "address": "Govindapalem, Puttur, Tirupati District, Andhra Pradesh - 517583",
+      "phone": "+91-9441046428",
+      "website": "https://sreevidyacolleges.in",
       "rating": 4.5,
       "reviews": 70,
       "type": "Private",
@@ -164780,7 +164822,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRI%20VIDYA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20TIRUPATI%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/pes_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "http://svmims.ac.in/wp-content/uploads/2022/04/19.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -164789,11 +164831,23 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
           "intake": 120
         }
       ],
@@ -164810,20 +164864,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pes_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20VIDYA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20TIRUPATI%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Puttur",
+      "email": "sreevidyamca@gmail.com",
+      "verified": true
     },
     {
       "id": 2703,
-      "name": "RAOS INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Rao's Institute of Management Studies (RIMS)",
       "shortName": "Course Institute-1",
       "location": "NELLORE",
       "state": "Andhra Pradesh",
-      "address": "CHEMUDUGUNTA (PO), VENKATACHALAM (M), NELLORE(DT) - 524320.",
-      "phone": "0123-456789",
-      "website": "https://www.raosinstituteof.edu.in",
+      "address": "207/1, Chemudugunta Village, Venkatachalam Mandal, Nellore District, Andhra Pradesh - 524320",
+      "phone": "+91-861-2331094",
+      "website": "https://www.raosinstitutions.com",
       "rating": 4.5,
       "reviews": 300,
       "type": "Private",
@@ -164835,7 +164892,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=RAOS%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20NELLORE%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/svkm_upg_vileparle.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/appImage/1631952782Screenshot20210918134213.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -164844,12 +164901,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation with 50% + APICET",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 120
+        },
+        {
+          "name": "MCA",
+          "title": "Master of Computer Applications",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -164865,10 +164934,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAOS%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20NELLORE%20Andhra%20Pradesh",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Nellore",
+      "email": "info@raosinstitutions.com",
+      "verified": true
     },
     {
       "id": 2704,
@@ -165361,13 +165433,13 @@
     },
     {
       "id": 2713,
-      "name": "AVANTHI S ST.THERESSA INSTITUTE OF ENGINEERING AND TECHNOLOGY,GARIVIDI",
+      "name": "Avanthi's St. Theressa Institute of Engineering & Technology",
       "shortName": "Course Institute-1",
       "location": "VIZIANAGARAM",
       "state": "Andhra Pradesh",
-      "address": "GARBHAM ROAD, GARIVIDI (CHEEPURUPALLI), VIZIANAGARAM DISTRICT",
-      "phone": "0123-456789",
-      "website": "https://www.avanthisstthere.edu.in",
+      "address": "Garbham Road, Garividi (Cheepurupalli), Vizianagaram District, Andhra Pradesh - 535101",
+      "phone": "+91-9704755549",
+      "website": "https://www.sttheressaengg.ac.in",
       "rating": 4.5,
       "reviews": 307,
       "type": "Private",
@@ -165379,7 +165451,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=AVANTHI%20S%20ST.THERESSA%20INSTITUTE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%2CGARIVIDI%20VIZIANAGARAM%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.getmyuni.com/azure/college-images-test/st-theressa-institute-of-engineering-and-technology-stiet-vizianagaram/06a17d246e2a442687482a9f863ad2e6.jpeg",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://media.getmyuni.com/azure/college-images-test/st-theressa-institute-of-engineering-and-technology-stiet-vizianagaram/06a17d246e2a442687482a9f863ad2e6.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -165388,12 +165460,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
           "intake": 120
+        },
+        {
+          "name": "B.Tech",
+          "title": "Bachelor of Technology",
+          "duration": "4 Years",
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "10+2 with PCM + AP EAPCET",
+          "type": "ENGINEERING",
+          "intake": 360
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -165409,19 +165503,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.getmyuni.com/azure/college-images-test/st-theressa-institute-of-engineering-and-technology-stiet-vizianagaram/06a17d246e2a442687482a9f863ad2e6.jpeg",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AVANTHI%20S%20ST.THERESSA%20INSTITUTE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%2CGARIVIDI%20VIZIANAGARAM%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AVANTHI%20S%20ST.THERESSA%20INSTITUTE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%2CGARIVIDI%20VIZIANAGARAM%20Andhra%20Pradesh",
+      "city": "Garividi",
+      "email": "sttheressa99@gmail.com",
+      "verified": true
     },
     {
       "id": 2714,
-      "name": "DR K V SUBBA REDDY SCHOOL OF BUSINESS MANAGEMENT",
+      "name": "Dr. K.V. Subba Reddy School of Business Management",
       "shortName": "Course Institute-1",
       "location": "KURNOOL",
       "state": "Andhra Pradesh",
-      "address": "DR.K.V.SUBBA REDDY INSTITUTE OF MCA OPP. DUPADU RAILWAY STATION, N.H - 7, LAKSHMIPURAM (POST), KURNOOL - 518218. ANDHRA PRADESH.",
-      "phone": "0123-456789",
-      "website": "https://www.drkvsubbareddys.edu.in",
+      "address": "Opp. Dupadu Railway Station, NH-44, Lakshmipuram Post, Kurnool, Andhra Pradesh - 518218",
+      "phone": "+91-7680076603",
+      "website": "https://www.drkvsbschool.in",
       "rating": 4.5,
       "reviews": 470,
       "type": "Private",
@@ -165433,7 +165530,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DR%20K%20V%20SUBBA%20REDDY%20SCHOOL%20OF%20BUSINESS%20MANAGEMENT%20KURNOOL%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/dr-k-v-subba-reddy-school-of-business-management-kurnool-308792.webp",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/dr-k-v-subba-reddy-school-of-business-management-kurnool-308792.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -165442,12 +165539,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/Graduation with Mathematics + APICET",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -165463,9 +165572,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/dr-k-v-subba-reddy-school-of-business-management-kurnool-308792.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR%20K%20V%20SUBBA%20REDDY%20SCHOOL%20OF%20BUSINESS%20MANAGEMENT%20KURNOOL%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR%20K%20V%20SUBBA%20REDDY%20SCHOOL%20OF%20BUSINESS%20MANAGEMENT%20KURNOOL%20Andhra%20Pradesh",
+      "city": "Kurnool",
+      "email": "kvsmba.admissions@gmail.com",
+      "verified": true
     },
     {
       "id": 2715,
@@ -166018,13 +166130,13 @@
     },
     {
       "id": 2725,
-      "name": "CHAITANYA ENGINEERING COLLEGE",
+      "name": "Chaitanya Engineering College",
       "shortName": "Course Institute-1",
       "location": "VISHAKHAPATNAM",
       "state": "Andhra Pradesh",
-      "address": "KOMMADI, MADHURAWADA, VISAKHAPATNAM-530041 ANDHRA PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.chaitanyaengine.edu.in",
+      "address": "Chaitanya Valley, Kommadi, Madhurawada, Visakhapatnam, Andhra Pradesh - 530048",
+      "phone": "+91-9989314488",
+      "website": "https://cec.ac.in",
       "rating": 4.5,
       "reviews": 252,
       "type": "Private",
@@ -166036,7 +166148,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CHAITANYA%20ENGINEERING%20COLLEGE%20VISHAKHAPATNAM%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/chaitanya-engineering-college-visakhapatnam-228790.webp",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/chaitanya-engineering-college-visakhapatnam-228790.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -166045,12 +166157,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
+          "intake": 120
+        },
+        {
+          "name": "B.Tech",
+          "title": "Bachelor of Technology",
+          "duration": "4 Years",
+          "fees": "₹2,00,000",
+          "fee": "₹2,00,000",
+          "eligibility": "10+2 with PCM + AP EAPCET",
+          "type": "ENGINEERING",
+          "intake": 480
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -166066,9 +166200,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/chaitanya-engineering-college-visakhapatnam-228790.webp",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHAITANYA%20ENGINEERING%20COLLEGE%20VISHAKHAPATNAM%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHAITANYA%20ENGINEERING%20COLLEGE%20VISHAKHAPATNAM%20Andhra%20Pradesh",
+      "city": "Visakhapatnam",
+      "email": "principal@cec.ac.in",
+      "verified": true
     },
     {
       "id": 2726,
@@ -166126,16 +166263,16 @@
     },
     {
       "id": 2727,
-      "name": "GATES INSTITUTE OF TECHNOLOGY",
+      "name": "GATES Institute of Technology",
       "shortName": "Course Institute-1",
       "location": "ANANTAPUR",
       "state": "Andhra Pradesh",
-      "address": "NH-7, GOOTYANANTAPUR, ANANTAPUR - 515401, ANDHRA PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.gatesinstituteo.edu.in",
+      "address": "NH-44, Gootyanantapuram Village, Peddavadugur Mandal, Gooty, Anantapuramu District, Andhra Pradesh - 515401",
+      "phone": "+91-8333987200",
+      "website": "https://gatesit.ac.in",
       "rating": 4.5,
       "reviews": 318,
-      "type": "Private",
+      "type": "Autonomous Private",
       "about": "Welcome to GATES INSTITUTE OF TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 96,
       "facebook": "#",
@@ -166144,7 +166281,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GATES%20INSTITUTE%20OF%20TECHNOLOGY%20ANANTAPUR%20Andhra%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Gates_Institute_of_Technology6.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/Gates_Institute_of_Technology6.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -166153,12 +166290,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "BCA/B.Sc Computer Science + APICET",
           "type": "COMPUTER APPLICATIONS",
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹70,000",
+          "fee": "₹70,000",
+          "eligibility": "Graduation + APICET",
+          "type": "MANAGEMENT",
           "intake": 120
+        },
+        {
+          "name": "B.Tech",
+          "title": "Bachelor of Technology",
+          "duration": "4 Years",
+          "fees": "₹2,20,000",
+          "fee": "₹2,20,000",
+          "eligibility": "10+2 with PCM + AP EAPCET",
+          "type": "ENGINEERING",
+          "intake": 540
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -166174,9 +166333,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Gates_Institute_of_Technology6.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GATES%20INSTITUTE%20OF%20TECHNOLOGY%20ANANTAPUR%20Andhra%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GATES%20INSTITUTE%20OF%20TECHNOLOGY%20ANANTAPUR%20Andhra%20Pradesh",
+      "city": "Gooty",
+      "email": "info@gatesit.ac.in",
+      "verified": true
     },
     {
       "id": 2728,
