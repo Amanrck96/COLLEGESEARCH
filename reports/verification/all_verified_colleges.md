@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **310 / 12,660**  
-**Roadmap Progress**: **31.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **320 / 12,660**  
+**Roadmap Progress**: **32.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -474,4 +474,19 @@
 | **2575** | Malineni Lakshmaiah Women's Engineering College | Private | Guntur, Andhra Pradesh - 522017 | [mlewguntur.com](http://mlewguntur.com) |
 | **2577** | S.D.G.S. College (Autonomous) | Public/Government-Aided (Autonomous) | Sri Sathya Sai District, Andhra Pradesh - 515201 | [sdgschdp.org](https://sdgschdp.org) |
 | **2578** | Sir C.V. Raman College of Computer Sciences | Private | Prakasam District, Andhra Pradesh - 523240 | [cvrccs.org](http://cvrccs.org) |
+
+### Batch 32 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2579** | Tirumala Institute of Technology and Sciences | Private | Palnadu District, Andhra Pradesh - 522549 | [titsnrt.org](https://titsnrt.org) |
+| **2580** | Aditya Institute of Technology and Management (AITAM) | Private (Autonomous) | Srikakulam District, Andhra Pradesh - 532201 | [www.adityatekkali.edu.in](https://www.adityatekkali.edu.in) |
+| **2585** | Addanki Institute of Management and Sciences | Private | Bapatla District, Andhra Pradesh - 523201 | [www.aimsaddanki.com](http://www.aimsaddanki.com) |
+| **2586** | Avanthi Institute of Engineering & Technology (Makavarapalem) | Private | Anakapalle District, Andhra Pradesh - 531113 | [www.avanthienggcollege.ac.in](https://www.avanthienggcollege.ac.in) |
+| **2591** | Vasavi Institute of Management and Computer Sciences (VIMCS) | Private | YSR Kadapa District, Andhra Pradesh - 516247 | [www.vimcsciences.ac.in](http://www.vimcsciences.ac.in) |
+| **2597** | Avanthi Institute of Engineering and Technology (Bhogapuram) | Private | Vizianagaram District, Andhra Pradesh - 535216 | [aietta.ac.in](http://aietta.ac.in) |
+| **2605** | Maris Stella College (Autonomous) | Public/Government-Aided (Autonomous) | Vijayawada, Andhra Pradesh - 520008 | [www.marisstella.ac.in](https://www.marisstella.ac.in) |
+| **2608** | Akkineni Nageswara Rao (ANR) College (Autonomous) | Public/Government-Aided (Autonomous) | Krishna District, Andhra Pradesh - 521301 | [www.anrcollege.edu](https://www.anrcollege.edu) |
+| **2609** | V.S.M. College (Autonomous) | Public/Government-Aided (Autonomous) | Dr. B.R. Ambedkar Konaseema District, Andhra Pradesh - 533255 | [www.vsm.edu.in](https://www.vsm.edu.in) |
+| **2612** | Sri Nalanda Institute of P.G. Studies | Private | Palnadu District, Andhra Pradesh - 522438 | [www.ngi.ac.in](https://www.ngi.ac.in) |
 

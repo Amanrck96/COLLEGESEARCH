@@ -1,0 +1,177 @@
+[
+  {
+    "id": 2579,
+    "name": "TIRUMALA INSTITUTE OF TECHNOLOGY AND SCIENCES",
+    "address": "SATULUR VILLAGE, NADENDLA MANDAL, PALANADU DISTRICT, ANDHRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "https://www.campusoption.com/images/colleges/gallery/18_09_17_052538_College.jpg",
+    "website": "https://www.tirumalainstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2580,
+    "name": "ADITYA INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "K.KOTTURU (VILL) TEKKALI - 532 201 SRIKAKULAM (DIST) ANDHRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.adityainstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2585,
+    "name": "ADDANKI INSTITUTE OF MANAGEMENT AND SCIENCES",
+    "address": "ADDANKI INSTITUTE OF MANAGEMENT AND SCIENCES NEAR SINGARA KONDA NRT ROAD NORTH ADDANKI ADDANKI MANDAL PRAKASAM DISTRICT 523201",
+    "state": "Andhra Pradesh",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2016-13-5-10-51-15_aadanki3.jpg",
+    "website": "https://aimsaddanki.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2586,
+    "name": "AVANTHI INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "TAMARAM VILLAGE, MAKAVARAPALEM MANDAL, NARSIPATNAM REVENUE DIVISION, VISAKHAPATNAM DIST.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://aiet.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2591,
+    "name": "VASAVI INSTITUTE OF MANAGEMENT AND COMPUTER SCIENCES",
+    "address": "VASAVI NAGAR, PEDDAPALLI(V), NEAR BHAKARAPET RAILWAY STATION, KADAPA",
+    "state": "Andhra Pradesh",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Vasavi_Institute_of_manageme.jpg?width=640",
+    "website": "https://www.vasaviinstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2597,
+    "name": "AVANTHI INSTITUTE OF ENGINERRING AND TECHNOLOGY",
+    "address": "CHERUKUPALLI VIILAGE, CHITTIVALASA SO, BHOGAPURAM MANDAL, VIZIANAGRAM DIST",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://aiet.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2605,
+    "name": "MARIS STELLA COLLEGE (PG)",
+    "address": "OPP. GOVT. POLYTECHNIC, NEAR BENZ CIRCLE, VIJAYAWADA",
+    "state": "Andhra Pradesh",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-15-7-17-11-15_Marries.jpg",
+    "website": "https://www.marisstellacoll.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2608,
+    "name": "AKKINENI NAGESWARA RAO COLLEGE - M.B.A. PROGRAMME",
+    "address": "POST BOX NO.20, GUDIVADA, KRISHNA DISTRICT",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/akkineni-nageswara-rao-college-anr-krishna-62404.webp",
+    "website": "https://www.akkineninageswa.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2609,
+    "name": "V.S.M. COLLEGE",
+    "address": "V.S.M. COLLEGE RAMACHANDRAPURAM EAST GODAVARI DISTRICT ANDHRA PRADESH PIN: 533 255",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.google.com/search?q=V.S.M.%20COLLEGE%20official%20website%20EAST%20GODAVARI%20Andhra%20Pradesh",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2612,
+    "name": "SRI NALANDA INSTITUTE OF P.G STUDIES",
+    "address": "SIDDHARTH NAGAR, KANTEPUDI (V) SATTENAPALLI (M) GUNTUR DISTRICT - 522 438 ANDHRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-01-4-15-27-11_Nalanda.jpg",
+    "website": "https://www.srinalandainsti.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

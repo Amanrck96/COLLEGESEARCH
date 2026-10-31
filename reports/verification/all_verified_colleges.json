@@ -2323,5 +2323,80 @@
         "website": "http://cvrccs.org"
       }
     ]
+  },
+  {
+    "batch": 32,
+    "items": [
+      {
+        "id": 2579,
+        "name": "Tirumala Institute of Technology and Sciences",
+        "type": "Private",
+        "location": "Palnadu District, Andhra Pradesh - 522549",
+        "website": "https://titsnrt.org"
+      },
+      {
+        "id": 2580,
+        "name": "Aditya Institute of Technology and Management (AITAM)",
+        "type": "Private (Autonomous)",
+        "location": "Srikakulam District, Andhra Pradesh - 532201",
+        "website": "https://www.adityatekkali.edu.in"
+      },
+      {
+        "id": 2585,
+        "name": "Addanki Institute of Management and Sciences",
+        "type": "Private",
+        "location": "Bapatla District, Andhra Pradesh - 523201",
+        "website": "http://www.aimsaddanki.com"
+      },
+      {
+        "id": 2586,
+        "name": "Avanthi Institute of Engineering & Technology (Makavarapalem)",
+        "type": "Private",
+        "location": "Anakapalle District, Andhra Pradesh - 531113",
+        "website": "https://www.avanthienggcollege.ac.in"
+      },
+      {
+        "id": 2591,
+        "name": "Vasavi Institute of Management and Computer Sciences (VIMCS)",
+        "type": "Private",
+        "location": "YSR Kadapa District, Andhra Pradesh - 516247",
+        "website": "http://www.vimcsciences.ac.in"
+      },
+      {
+        "id": 2597,
+        "name": "Avanthi Institute of Engineering and Technology (Bhogapuram)",
+        "type": "Private",
+        "location": "Vizianagaram District, Andhra Pradesh - 535216",
+        "website": "http://aietta.ac.in"
+      },
+      {
+        "id": 2605,
+        "name": "Maris Stella College (Autonomous)",
+        "type": "Public/Government-Aided (Autonomous)",
+        "location": "Vijayawada, Andhra Pradesh - 520008",
+        "website": "https://www.marisstella.ac.in"
+      },
+      {
+        "id": 2608,
+        "name": "Akkineni Nageswara Rao (ANR) College (Autonomous)",
+        "type": "Public/Government-Aided (Autonomous)",
+        "location": "Krishna District, Andhra Pradesh - 521301",
+        "website": "https://www.anrcollege.edu"
+      },
+      {
+        "id": 2609,
+        "name": "V.S.M. College (Autonomous)",
+        "type": "Public/Government-Aided (Autonomous)",
+        "location": "Dr. B.R. Ambedkar Konaseema District, Andhra Pradesh - 533255",
+        "website": "https://www.vsm.edu.in"
+      },
+      {
+        "id": 2612,
+        "name": "Sri Nalanda Institute of P.G. Studies",
+        "type": "Private",
+        "location": "Palnadu District, Andhra Pradesh - 522438",
+        "website": "https://www.ngi.ac.in"
+      }
+    ]
   }
 ]
