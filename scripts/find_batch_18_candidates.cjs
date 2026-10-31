@@ -43,3 +43,4 @@ console.log(`Found ${candidates.length} candidates for Batch 18.`);
 candidates.forEach((c, idx) => {
   console.log(`${idx + 1}. [ID: ${c.id}] ${c.name} (${c.address}) - img: ${c.img}`);
 });
+

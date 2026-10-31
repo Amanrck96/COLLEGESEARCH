@@ -253,3 +253,4 @@ batch18Colleges.forEach(c => {
 });
 fs.writeFileSync(PROGRESS_PATH, JSON.stringify(progress, null, 2), 'utf8');
 console.log(`Updated progress.json: completed_count=${progress.completed_count}, current_batch=${progress.current_batch}`);
+
