@@ -39147,16 +39147,16 @@
     },
     {
       "id": 579,
-      "name": "NALSAR UNIVERSITY OF LAW",
+      "name": "Department of Management Studies (DoMS), NALSAR University of Law",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
-      "address": "JUSTICE CITY SHAMEERPET MEDCHAL MALKAJGIRI DISTRICT",
-      "phone": "0123-456789",
-      "website": "https://www.nalsar.ac.in",
+      "address": "Justice City, Shameerpet, Medchal-Malkajgiri District, Hyderabad - 500101, Telangana, India",
+      "phone": "040-2349 8409 / 040-2349 8100",
+      "website": "https://doms.nalsar.ac.in",
       "rating": 4.5,
       "reviews": 100,
-      "type": "Private",
+      "type": "Public/Government (State University / National Law University)",
       "about": "Welcome to NALSAR UNIVERSITY OF LAW, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 33,
       "facebook": "#",
@@ -39171,7 +39171,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Statutory National Law University, Approved by UGC & BCI, NAAC A++ Grade",
       "courses": [
         {
           "title": "MBA",
@@ -39196,9 +39196,10 @@
         "Cafeteria"
       ],
       "image": "/images/campuses/campus_architecture_1.jpg",
-      "ownership": "Private",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NALSAR%20UNIVERSITY%20OF%20LAW%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "email": "mbaadmissions@nalsar.ac.in"
     },
     {
       "id": 580,
@@ -39311,13 +39312,13 @@
     },
     {
       "id": 582,
-      "name": "FORTUNE SCHOOL OF BUSINESS",
+      "name": "Fortune School of Business (FSB), Hyderabad",
       "shortName": "Course Institute-1",
       "location": "NALGONDA",
       "state": "Telangana",
-      "address": "DESHMUKHI VILLAGE, POCHAMPALLY MANDAL, BEHIND MOUNT OPERA, NEAR RAMOJI FILM CITY, YADADRI BHONGIR DISTRICT",
-      "phone": "0123-456789",
-      "website": "https://www.fortuneschoolof.edu.in",
+      "address": "Kothari Solitaire, 1st Floor, Beside Govt Degree College, NH-65, Kukatpally, Hyderabad - 500072, Telangana, India",
+      "phone": "+91 9246582901 / +91 7661804099",
+      "website": "https://www.fsb.org.in",
       "rating": 4.5,
       "reviews": 439,
       "type": "Private",
@@ -39329,13 +39330,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=FORTUNE%20SCHOOL%20OF%20BUSINESS%20NALGONDA%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/svkm_upg_vileparle.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://static.wixstatic.com/media/6ed300_72468471aea84ee89f803b05bc4e2b11~mv2.jpeg/v1/fill/w_540,h_358,al_c/6ed300_72468471aea84ee89f803b05bc4e2b11~mv2.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Osmania University & Approved by AICTE",
       "courses": [
         {
           "title": "PGDM(BIG DATA ANALYTICS)",
@@ -39359,20 +39360,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=FORTUNE%20SCHOOL%20OF%20BUSINESS%20NALGONDA%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "email": "fsb.org.in@gmail.com"
     },
     {
       "id": 583,
-      "name": "PANNALA RAM REDDY COLLEGE OF BUSSINESS MANAGEMENT",
+      "name": "Pannala Ram Reddy College of Business Management (PRRCBM)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
-      "address": "SURVEY NO:110,113,114/1 RAM REDDY NAGAR COLONY, NEAR AMBEDKAR STATUE,BODUPPAL",
-      "phone": "0123-456789",
-      "website": "https://www.pannalaramreddy.edu.in",
+      "address": "Ram Reddy Nagar Colony, Beside Pallavi Model School, Boduppal (Near Uppal Bus Depot), Hyderabad - 500092, Telangana, India",
+      "phone": "+91 9000200222 / 040-64643900",
+      "website": "https://www.prrcbm.com",
       "rating": 4.5,
       "reviews": 469,
       "type": "Private",
@@ -39384,13 +39386,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PANNALA%20RAM%20REDDY%20COLLEGE%20OF%20BUSSINESS%20MANAGEMENT%20RANGAREDDI%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/gnims_matunga.png",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/padala-rama-reddi-college-of-commerce-and-management-main-bulding.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Osmania University & Approved by AICTE, ICET Code: PRRB",
       "courses": [
         {
           "title": "MBA",
@@ -39414,20 +39416,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/gnims_matunga.png",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PANNALA%20RAM%20REDDY%20COLLEGE%20OF%20BUSSINESS%20MANAGEMENT%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "email": "prcb.boduppal@gmail.com"
     },
     {
       "id": 584,
-      "name": "SCHOOL OF INNOVATION AND MANAGEMENT",
+      "name": "School of Innovation and Management (SOIM), Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
-      "address": "GNITS CAMPUS, SHAIKPET MAIN ROAD, AMBEDKAR NAGAR, SHAIKPET",
-      "phone": "0123-456789",
-      "website": "https://www.schoolofinnovat.edu.in",
+      "address": "GNITS Campus, Shaikpet, Hyderabad - 500008, Telangana, India",
+      "phone": "+91 91549 84801 / +91 91549 84802",
+      "website": "https://soim.edu.in",
       "rating": 4.5,
       "reviews": 306,
       "type": "Private",
@@ -39439,13 +39442,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20INNOVATION%20AND%20MANAGEMENT%20HYDERABAD%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/school-of-innovation-management-hyderabad-296603.webp",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/school-of-innovation-management-hyderabad-296603.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, New Delhi",
       "courses": [
         {
           "title": "PGDM (BANKING AND FINANCE MANAGEMENT)",
@@ -39469,9 +39472,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/school-of-innovation-management-hyderabad-296603.webp",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20INNOVATION%20AND%20MANAGEMENT%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20INNOVATION%20AND%20MANAGEMENT%20HYDERABAD%20Telangana",
+      "email": "admissions@soim.edu.in"
     },
     {
       "id": 585,
@@ -39530,13 +39534,13 @@
     },
     {
       "id": 586,
-      "name": "OMEGA BUSINESS SCHOOL",
+      "name": "Omega Business School, Hyderabad",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
-      "address": "SY NO 7 EDULABAD VILLAGE, GHATKESAR MANDAL",
-      "phone": "0123-456789",
-      "website": "https://www.omegabusinesssc.edu.in",
+      "address": "Sy. No. 15, Edulabad (V), Ghatkesar (M), Medchal-Malkajgiri District, Hyderabad - 501301, Telangana, India",
+      "phone": "+91 9246805933 / +91 9912988863",
+      "website": "https://omegabusinessschool.ac.in",
       "rating": 4.5,
       "reviews": 96,
       "type": "Private",
@@ -39554,7 +39558,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Osmania University & Approved by AICTE, New Delhi",
       "courses": [
         {
           "title": "PGDM",
@@ -39581,17 +39585,18 @@
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=OMEGA%20BUSINESS%20SCHOOL%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "email": "obs.pgdm@omegacolleges.com"
     },
     {
       "id": 587,
-      "name": "AURORA'S BUSINESS SCHOOL, ABIDS, HYDERABAD",
+      "name": "Aurora's Business School, Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
-      "address": "4-3-596, TILAK ROAD, ABIDS, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.aurorasbusiness.edu.in",
+      "address": "6-3-456/18 & 19, Dwarakapuri Colony, Punjagutta, Hyderabad - 500082, Telangana, India",
+      "phone": "040-2335 0062 / +91-9100222222",
+      "website": "https://www.absi.edu.in",
       "rating": 4.5,
       "reviews": 222,
       "type": "Private",
@@ -39603,13 +39608,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20BUSINESS%20SCHOOL%2C%20ABIDS%2C%20HYDERABAD%20HYDERABAD%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/atharva_complex_malad.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://www.collegesmba.in/wp-content/uploads/2016/01/Aurora-Hyderabad-Campus.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt. of India",
       "courses": [
         {
           "title": "PGDM",
@@ -39633,10 +39638,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/atharva_complex_malad.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20BUSINESS%20SCHOOL%2C%20ABIDS%2C%20HYDERABAD%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "email": "info@absi.edu.in"
     },
     {
       "id": 588,
@@ -39749,13 +39755,13 @@
     },
     {
       "id": 590,
-      "name": "ARADHANA SCHOOL OF BUSINESS MANAGEMENT",
+      "name": "Aradhana School of Business Management (ASBM), Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
-      "address": "KISMATPUR VILLAGE, RAJENDRA NAGAR MANDAL",
-      "phone": "0123-456789",
-      "website": "https://www.aradhanaschoolo.edu.in",
+      "address": "Near Pillar No. 216, Mehdipatnam Expressway, Kismatpur, Rajendranagar, Hyderabad - 500086, Telangana, India",
+      "phone": "040-2970 3251 / +91-8008557312",
+      "website": "http://www.asbm.in",
       "rating": 4.5,
       "reviews": 430,
       "type": "Private",
@@ -39773,7 +39779,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Osmania University & Approved by AICTE, ICET Code: ARDH",
       "courses": [
         {
           "title": "MBA",
@@ -39800,7 +39806,8 @@
       "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ARADHANA%20SCHOOL%20OF%20BUSINESS%20MANAGEMENT%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "email": "Principal.ASBM@gmail.com"
     },
     {
       "id": 591,
@@ -39858,13 +39865,13 @@
     },
     {
       "id": 592,
-      "name": "BHARATHI INSTITUTE OF BUSINESS MANAGEMENT",
+      "name": "Bharathi Institute of Business Management (BIBM), Warangal",
       "shortName": "Course Institute-1",
       "location": "WARANGAL",
       "state": "Telangana",
-      "address": "SURVEY # 437, GANGADEVIPALLI, GEESUGONDA(M)",
-      "phone": "0123-456789",
-      "website": "https://www.bharathiinstitu.edu.in",
+      "address": "Survey No. 437, Gangadevipally Village, Geesugonda Mandal, Warangal District - 506370, Telangana, India",
+      "phone": "0870-2425212 / +91-7702089255",
+      "website": "https://kakatiya.ac.in",
       "rating": 4.5,
       "reviews": 492,
       "type": "Private",
@@ -39876,13 +39883,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=BHARATHI%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20WARANGAL%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.getmyuni.com/azure/college-image/big/bharathi-institute-of-business-management-bibm-warangal.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://media.getmyuni.com/azure/college-image/big/bharathi-institute-of-business-management-bibm-warangal.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Kakatiya University (KU, Warangal) & Approved by AICTE, ICET Code: BIBM",
       "courses": [
         {
           "title": "MBA",
@@ -39906,9 +39913,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.getmyuni.com/azure/college-image/big/bharathi-institute-of-business-management-bibm-warangal.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BHARATHI%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20WARANGAL%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BHARATHI%20INSTITUTE%20OF%20BUSINESS%20MANAGEMENT%20WARANGAL%20Telangana",
+      "email": "bibmwarangal@gmail.com"
     },
     {
       "id": 593,
@@ -40021,13 +40029,13 @@
     },
     {
       "id": 595,
-      "name": "ST MARYS CENTENARY COLLEGE OF MANAGEMENT",
+      "name": "St. Mary's Centenary College of Management, Secunderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
-      "address": "PR NO.9-1-257/1, REGIMENTAL BAZAR",
-      "phone": "0123-456789",
-      "website": "https://www.stmaryscentenar.edu.in",
+      "address": "P.R. No. 9-1-257/1, St. Francis Street, Secunderabad - 500003, Telangana, India",
+      "phone": "+91-7989856725 / 040-3516 4325",
+      "website": "https://smccom.ac.in",
       "rating": 4.5,
       "reviews": 354,
       "type": "Private",
@@ -40039,13 +40047,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ST%20MARYS%20CENTENARY%20COLLEGE%20OF%20MANAGEMENT%20HYDERABAD%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://smcdc.ac.in/img/smcdc-college.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://smcdc.ac.in/img/smcdc-college.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Osmania University & Approved by AICTE, ICET Code: SMBA",
       "courses": [
         {
           "title": "MBA",
@@ -40069,9 +40077,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://smcdc.ac.in/img/smcdc-college.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST%20MARYS%20CENTENARY%20COLLEGE%20OF%20MANAGEMENT%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST%20MARYS%20CENTENARY%20COLLEGE%20OF%20MANAGEMENT%20HYDERABAD%20Telangana",
+      "email": "stmarysccom@gmail.com"
     },
     {
       "id": 596,
@@ -40238,16 +40247,16 @@
     },
     {
       "id": 599,
-      "name": "INSTITUTE OF INSURANCE AND RISK MANAGEMENT",
+      "name": "Institute of Insurance and Risk Management (IIRM), Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
-      "address": "SURVEY NO. :111/1 & 115/1, FINANCIAL DISTRICT, GACHIBOWLI, HYDERABAD - 500032",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofinsu.edu.in",
+      "address": "Financial District, Survey No. 111/1 & 115/1, Road No. 2, Nanakramguda, Gachibowli, Hyderabad - 500032, Telangana, India",
+      "phone": "040-2300 0005 / +91-96527 40909 / 1800 425 2041",
+      "website": "https://theiirm.ac.in",
       "rating": 4.5,
       "reviews": 399,
-      "type": "Private",
+      "type": "Autonomous Statutory Institution (IRDAI & Govt of Telangana)",
       "about": "Welcome to INSTITUTE OF INSURANCE AND RISK MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 36,
       "facebook": "#",
@@ -40256,13 +40265,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20INSURANCE%20AND%20RISK%20MANAGEMENT%20HYDERABAD%20Telangana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/institute-of-insurance-risk-management-hyderabad-295876.webp",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/institute-of-insurance-risk-management-hyderabad-295876.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Accredited by NBA",
       "courses": [
         {
           "title": "PGDM",
@@ -40286,9 +40295,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/institute-of-insurance-risk-management-hyderabad-295876.webp",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20INSURANCE%20AND%20RISK%20MANAGEMENT%20HYDERABAD%20Telangana"
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "ownership": "Government / Statutory Regulatory Body",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20INSURANCE%20AND%20RISK%20MANAGEMENT%20HYDERABAD%20Telangana",
+      "email": "admissions@theiirm.ac.in"
     },
     {
       "id": 600,
