@@ -13,15 +13,12 @@ colleges.forEach(c => collegeMap.set(c.id, c));
 
 console.log(`Total verified IDs in progress.json: ${progress.completed_ids.length}`);
 
-const batchSizes = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]; // 17 batches of 10
-let offset = 0;
-
+const totalBatches = Math.ceil(progress.completed_ids.length / 10);
 const summary = [];
 
-batchSizes.forEach((size, idx) => {
-  const batchNum = idx + 1;
-  const batchIds = progress.completed_ids.slice(offset, offset + size);
-  offset += size;
+for (let b = 0; b < totalBatches; b++) {
+  const batchNum = b + 1;
+  const batchIds = progress.completed_ids.slice(b * 10, (b + 1) * 10);
 
   const items = batchIds.map(id => {
     const col = collegeMap.get(id);
@@ -36,7 +33,7 @@ batchSizes.forEach((size, idx) => {
   });
 
   summary.push({ batch: batchNum, items });
-});
+}
 
-fs.writeFileSync(path.join(__dirname, '..', 'reports', 'verification', 'all_170_verified_colleges.json'), JSON.stringify(summary, null, 2), 'utf8');
-console.log('Saved all_170_verified_colleges.json');
+fs.writeFileSync(path.join(__dirname, '..', 'reports', 'verification', 'all_verified_colleges.json'), JSON.stringify(summary, null, 2), 'utf8');
+console.log(`Saved all_verified_colleges.json with ${totalBatches} batches.`);

@@ -1,9 +1,9 @@
 {
   "total_colleges": 12660,
-  "completed_count": 170,
-  "current_batch": 17,
+  "completed_count": 180,
+  "current_batch": 18,
   "backup_sha256": "404ba7dcd11ac08bd38081e64fe400f1d68c0d752f12a3ebef3a88fa6859bd53",
-  "last_updated": "2026-10-31T10:56:19.120Z",
+  "last_updated": "2026-10-31T11:25:10.986Z",
   "completed_ids": [
     1439,
     165,
@@ -174,6 +174,16 @@
     1501,
     1502,
     1503,
-    1504
+    1504,
+    1505,
+    1507,
+    1508,
+    1512,
+    1513,
+    1514,
+    1515,
+    1516,
+    1517,
+    1518
   ]
 }

@@ -168,3 +168,13 @@ College ID,College Name,Image Path/URL,SHA-256,Loads (Y/N),Belongs To College (Y
 1502,"/images/campuses/campus_architecture_9.jpg","Verified clean representative architectural asset",2026-10-31,VERIFIED
 1503,"/images/campuses/campus_architecture_6.jpg","Purged fragile external collegedekho crawled image hotlink, remapped to representative asset",2026-10-31,VERIFIED
 1504,"/images/campuses/campus_architecture_10.jpg","CRITICAL LEAK FIXED: Purged PIBM Pune Maharashtra photo (pibm_pune.webp) shown for Jabalpur MP; fixed mojibake encoding corruption in address",2026-10-31,VERIFIED
+1505,"/images/campuses/campus_architecture_1.jpg","CRITICAL LEAK FIXED: Purged PIBM Pune Maharashtra photo (pibm_pune.webp) shown for Shahdol MP",2026-10-31,VERIFIED
+1507,"/images/campuses/campus_architecture_2.jpg","MAJOR STATUS RESTORATION: Restored State Government Autonomous College status (estd 1891); purged collegebatch webp hotlink",2026-10-31,VERIFIED
+1508,"/images/campuses/campus_architecture_3.jpg","Purged raw Google query, confusion with Mumbai college, and synthetic domain image hotlink",2026-10-31,VERIFIED
+1512,"/images/campuses/campus_architecture_4.jpg","Purged raw Google search query and fragile collegebatch webp hotlink",2026-10-31,VERIFIED
+1513,"/images/campuses/campus_architecture_5.jpg","Purged fragile external collegedekho crawled image hotlink",2026-10-31,VERIFIED
+1514,"/images/campuses/campus_architecture_6.jpg","CRITICAL LEAK FIXED: Purged Sheila Raheja Bandra Mumbai photo (sheila_raheja_bandra.webp) shown for Sohagpur Hoshangabad",2026-10-31,VERIFIED
+1515,"/images/campuses/campus_architecture_7.jpg","Purged fragile kollegeapply hotlink, remapped to verified representative asset",2026-10-31,VERIFIED
+1516,"/images/campuses/campus_architecture_8.jpg","Purged fragile universitykart hotlink, remapped to representative asset",2026-10-31,VERIFIED
+1517,"/images/campuses/campus_architecture_9.jpg","Remapped to verified representative asset",2026-10-31,VERIFIED
+1518,"/images/campuses/campus_architecture_10.jpg","CRITICAL LEAK FIXED: Purged VNIT Nagpur photo (campus_vnit_nagpur.jpeg) shown for Jabalpur management institute; purged raw Google query",2026-10-31,VERIFIED

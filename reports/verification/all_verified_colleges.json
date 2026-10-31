@@ -1,0 +1,1352 @@
+[
+  {
+    "batch": 1,
+    "items": [
+      {
+        "id": 1439,
+        "name": "GYANODAYA INSTITUTE OF PROFESSIONAL STUDIES",
+        "type": "Private",
+        "location": "Neemuch - 458441, MP",
+        "website": "https://gyanodayanmh.in"
+      },
+      {
+        "id": 165,
+        "name": "Symbiosis Institute of Business Management (SIBM Pune)",
+        "type": "Private Deemed-to-be-University",
+        "location": "Pune, Maharashtra 412115",
+        "website": "https://www.sibm.edu/"
+      },
+      {
+        "id": 233,
+        "name": "Symbiosis Institute of Business Management (SIBM Pune)",
+        "type": "Private Deemed-to-be-University",
+        "location": "Pune - 412115, Maharashtra",
+        "website": "https://www.sibm.edu/"
+      },
+      {
+        "id": 12660,
+        "name": "Delhi Technological University (DTU Delhi)",
+        "type": "State Government University",
+        "location": "Main Bawana Road, Delhi - 110042",
+        "website": "https://www.dtu.ac.in"
+      },
+      {
+        "id": 821,
+        "name": "MAHARANA PRATAP INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+        "type": "Private",
+        "location": "Mahendergarh, Haryana - 123027",
+        "website": "http://mpitmkanina.com/"
+      },
+      {
+        "id": 10811,
+        "name": "SRINIVASAN COLLEGE OF ARTS & SCIENCE (MBA PROGRAMME)",
+        "type": "Private",
+        "location": "Perambalur - 621212, Tamil Nadu",
+        "website": "https://www.scas.ac.in"
+      },
+      {
+        "id": 10800,
+        "name": "KHANDELWAL COLLEGE OF MANAGEMENT SCIENCE AND TECHNOLOGY",
+        "type": "Private",
+        "location": "Bareilly - 243122, Uttar Pradesh",
+        "website": "https://kcmt.in"
+      },
+      {
+        "id": 12,
+        "name": "IIT Delhi - Indian Institute of Technology",
+        "type": "Public/Government",
+        "location": "Delhi, India",
+        "website": "https://home.iitd.ac.in/"
+      },
+      {
+        "id": 56,
+        "name": "Indian Institute of Management Calcutta (IIM Calcutta)",
+        "type": "Government (Autonomous)",
+        "location": "Kolkata - 700104, West Bengal",
+        "website": "https://www.iimcal.ac.in"
+      },
+      {
+        "id": 79,
+        "name": "T JOHN COLLEGE",
+        "type": "Private",
+        "location": "Bengaluru - 560083, Karnataka",
+        "website": "https://www.tjohncollege.com/"
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "items": [
+      {
+        "id": 78,
+        "name": "Department of Business Administration, Mangalore University",
+        "type": "Public/Government (State University Department)",
+        "location": "Dakshina Kannada, Karnataka",
+        "website": "https://mangaloreuniversity.ac.in"
+      },
+      {
+        "id": 155,
+        "name": "PUNE INSTITUTE OF BUSINESS MANAGEMENT",
+        "type": "Private",
+        "location": "Pune - 412115, Maharashtra",
+        "website": "https://www.pibm.in"
+      },
+      {
+        "id": 168,
+        "name": "School of Management Studies, KBC North Maharashtra University",
+        "type": "Public/Government (State University Department)",
+        "location": "Jalgaon - 425001, Maharashtra",
+        "website": "https://www.nmu.ac.in"
+      },
+      {
+        "id": 171,
+        "name": "University Institute of Technology (UIT), Gondwana University",
+        "type": "Public/Government (Conducted University Institute)",
+        "location": "Gadchiroli - 442605, Maharashtra",
+        "website": "https://uitgug.ac.in"
+      },
+      {
+        "id": 179,
+        "name": "Shri Shivaji Maratha Society's Institute of Management & Research (SSMS IMR)",
+        "type": "Private",
+        "location": "Pune - 411009, Maharashtra",
+        "website": "https://www.ssmsimr.edu.in"
+      },
+      {
+        "id": 237,
+        "name": "Global Institute of Management (GIOM), Sangamner",
+        "type": "Private",
+        "location": "Dist. Ahmednagar - 422605, Maharashtra",
+        "website": "https://giom.edu.in"
+      },
+      {
+        "id": 245,
+        "name": "Dr. D. Y. Patil Technical Campus, Talegaon, Pune",
+        "type": "Private",
+        "location": "Pune - 410507, Maharashtra",
+        "website": "https://www.dypatiltcs.com"
+      },
+      {
+        "id": 273,
+        "name": "Delhi Technological University (DTU, Delhi)",
+        "type": "Public/Government State University",
+        "location": "Delhi NCR, India",
+        "website": "http://www.dtu.ac.in"
+      },
+      {
+        "id": 13,
+        "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+        "type": "Institute of National Importance",
+        "location": "Maharashtra, India",
+        "website": "https://www.iitb.ac.in"
+      },
+      {
+        "id": 15,
+        "name": "Indian Institute of Management Bangalore (IIM Bangalore)",
+        "type": "Institute of National Importance",
+        "location": "Karnataka, India",
+        "website": "https://www.iimb.ac.in"
+      }
+    ]
+  },
+  {
+    "batch": 3,
+    "items": [
+      {
+        "id": 247,
+        "name": "FUEL BUSINESS SCHOOL",
+        "type": "Private",
+        "location": "Pune - 412115, Maharashtra",
+        "website": "https://www.fuelbschool.com/"
+      },
+      {
+        "id": 251,
+        "name": "JAMIA HAMDARD",
+        "type": "Government Supported / Deemed-to-be-University",
+        "location": "New Delhi - 110062, India",
+        "website": "https://www.jamiahamdard.edu.in"
+      },
+      {
+        "id": 306,
+        "name": "MAHARAJA AGRASEN BUSINESS SCHOOL",
+        "type": "Private",
+        "location": "Rohini, Delhi - 110086",
+        "website": "https://mabs.ac.in"
+      },
+      {
+        "id": 307,
+        "name": "TECNIA INSTITUTE OF ADVANCED STUDIES CDL",
+        "type": "Private",
+        "location": "Rohini, Delhi - 110085",
+        "website": "https://cdl.tecnia.in"
+      },
+      {
+        "id": 308,
+        "name": "NEW DELHI INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT",
+        "type": "Private",
+        "location": "Kalkaji, New Delhi - 110019",
+        "website": "https://www.ndiit.org"
+      },
+      {
+        "id": 311,
+        "name": "GURU NANAK INSTITUTE OF MANAGEMENT",
+        "type": "Private",
+        "location": "West Punjabi Bagh, New Delhi - 110026",
+        "website": "https://gnim.ac.in"
+      },
+      {
+        "id": 314,
+        "name": "SRI SUKHMANI INSTITUTE OF MANAGEMENT",
+        "type": "Private",
+        "location": "Dwarka, New Delhi - 110075",
+        "website": "https://ssimdelhi.org"
+      },
+      {
+        "id": 315,
+        "name": "APEEJAY INSTITUTE OF MASS COMMUNICATION",
+        "type": "Private",
+        "location": "Dwarka, New Delhi - 110075",
+        "website": "https://www.apeejay.edu/aimc"
+      },
+      {
+        "id": 316,
+        "name": "DELHI PHARMACEUTICAL SCIENCES AND RESEARCH UNIVERSITY",
+        "type": "Public/Government (State University)",
+        "location": "Sector 3, New Delhi - 110017",
+        "website": "https://dpsru.edu.in"
+      },
+      {
+        "id": 321,
+        "name": "Indian Institute of Foreign Trade (IIFT), New Delhi",
+        "type": "Public/Government (Autonomous Institution / Deemed University)",
+        "location": "New Delhi - 110016, India",
+        "website": "https://www.iift.ac.in"
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "items": [
+      {
+        "id": 320,
+        "name": "FOSTIIMA BUSINESS SCHOOL",
+        "type": "Private",
+        "location": "Dwarka, New Delhi - 110077",
+        "website": "https://www.fostiima.org"
+      },
+      {
+        "id": 327,
+        "name": "IILM INSTITUTE FOR HIGHER EDUCATION",
+        "type": "Private",
+        "location": "New Delhi - 110003, India",
+        "website": "https://iilm.edu/lodhi-road"
+      },
+      {
+        "id": 328,
+        "name": "SARDAR PATEL COLLEGE OF ADMINISTRATION & MANAGEMENT",
+        "type": "Private",
+        "location": "Anand - 388315, Gujarat",
+        "website": "https://www.spec.edu.in"
+      },
+      {
+        "id": 363,
+        "name": "R. N. G. PATEL INSTITUTE OF TECHNOLOGY RNGPIT",
+        "type": "Private",
+        "location": "Surat - 394620, Gujarat",
+        "website": "https://rngpit.ac.in"
+      },
+      {
+        "id": 364,
+        "name": "SMT. KUSUMBEN KADAKIA INSTITUTE OF COMPUTER APPLICATION",
+        "type": "Private",
+        "location": "Dist. Bharuch - 393001, Gujarat",
+        "website": "https://kadakiaeducation.edu.in"
+      },
+      {
+        "id": 382,
+        "name": "PARAM INSTITUTE OF MANAGEMENT & RESEARCH",
+        "type": "Private",
+        "location": "Jamnagar - 361006, Gujarat",
+        "website": "https://paramimr.com"
+      },
+      {
+        "id": 383,
+        "name": "METAS ADVENTIST COLLEGE",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://www.metasofsda.in"
+      },
+      {
+        "id": 385,
+        "name": "R. H. PATEL INSTITUTE OF MANAGEMENT",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://rhpim.org"
+      },
+      {
+        "id": 387,
+        "name": "NARAYANA BUSINESS SCHOOL",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://www.nbs.edu.in"
+      },
+      {
+        "id": 388,
+        "name": "GYANMANJARI INSTITUTE OF TECHNOLOGY",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://gmit.edu.in"
+      }
+    ]
+  },
+  {
+    "batch": 5,
+    "items": [
+      {
+        "id": 390,
+        "name": "Graduate School of Management Studies (GSMS), Gujarat Technological University",
+        "type": "Public/Government (State University Department)",
+        "location": "Ahmedabad - 382424, Gujarat",
+        "website": "https://www.gsms.gtu.ac.in"
+      },
+      {
+        "id": 395,
+        "name": "Narayana Business School (Duplicate of ID 387)",
+        "type": "Private",
+        "location": "Ahmedabad - 382210, Gujarat",
+        "website": "https://www.nbs.edu.in"
+      },
+      {
+        "id": 396,
+        "name": "NARAN LALA SCHOOL OF INDUSTRIAL MANAGEMENT & COMPUTER SCIENCE",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://www.naranlala.edu.in/"
+      },
+      {
+        "id": 404,
+        "name": "SILVER OAK INSTITUTE OF BUSINESS MANAGEMENT",
+        "type": "Private",
+        "location": "Ahmedabad - 382481, Gujarat",
+        "website": "https://silveroakuni.ac.in"
+      },
+      {
+        "id": 405,
+        "name": "School of Management (SoM), Pandit Deendayal Energy University",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://www.pdpu.ac.in"
+      },
+      {
+        "id": 407,
+        "name": "Tolani Motwane Institute of Management Studies (TMIMS), Adipur",
+        "type": "Private",
+        "location": "Adipur (Kutch) - 370205, Gujarat",
+        "website": "https://tims.ac.in"
+      },
+      {
+        "id": 411,
+        "name": "SWAMI SAHAJANAND SCHOOL OF MANAGEMENT BHAVNAGAR",
+        "type": "Private",
+        "location": "Bhavnagar - 364002, Gujarat",
+        "website": "http://www.swamisahajanand.mba"
+      },
+      {
+        "id": 412,
+        "name": "THE MANDVI EDUCATION SOCIETY INSTITUTE OF BUSINESS MANAGEMENT AND COMPUTER STUDIES",
+        "type": "Private",
+        "location": "Surat - 394160, Gujarat",
+        "website": "https://www.mestech.ac.in"
+      },
+      {
+        "id": 420,
+        "name": "CHRIST INSTITUTE OF MANAGEMENT",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://www.cimrajkot.edu.in/"
+      },
+      {
+        "id": 430,
+        "name": "SHAYONA INSTITUTE OF BUSINESS MANAGEMENT",
+        "type": "Private",
+        "location": "Ahmedabad - 380061, Gujarat",
+        "website": "https://sibm.shayonainstitute.edu.in"
+      }
+    ]
+  },
+  {
+    "batch": 6,
+    "items": [
+      {
+        "id": 457,
+        "name": "NSHM Knowledge Campus, Kolkata - Group of Institutions",
+        "type": "Private",
+        "location": "West Bengal, India",
+        "website": "https://www.nshm.com"
+      },
+      {
+        "id": 458,
+        "name": "Praxis Business School, Kolkata",
+        "type": "Private",
+        "location": "West Bengal, India",
+        "website": "https://praxis.ac.in"
+      },
+      {
+        "id": 465,
+        "name": "St. Xavier's University, Kolkata",
+        "type": "Private University (State Act)",
+        "location": "West Bengal, India",
+        "website": "https://www.sxuk.edu.in"
+      },
+      {
+        "id": 473,
+        "name": "Department of Management Studies, JIS University",
+        "type": "Private University Department",
+        "location": "West Bengal, India",
+        "website": "https://www.jisuniversity.ac.in"
+      },
+      {
+        "id": 483,
+        "name": "Kazi Nazrul University, Asansol",
+        "type": "Public/Government (State University)",
+        "location": "West Bengal, India",
+        "website": "https://www.knu.ac.in"
+      },
+      {
+        "id": 493,
+        "name": "NSHM Knowledge Campus, Durgapur - Group of Institutions",
+        "type": "Private",
+        "location": "West Bengal, India",
+        "website": "https://www.nshm.com"
+      },
+      {
+        "id": 499,
+        "name": "Globsyn Business School (GBS), Kolkata",
+        "type": "Private",
+        "location": "West Bengal, India",
+        "website": "https://www.globsyn.edu.in"
+      },
+      {
+        "id": 501,
+        "name": "International School of Business & Media (ISB&M), Kolkata",
+        "type": "Private",
+        "location": "West Bengal, India",
+        "website": "https://isbmk.ac.in"
+      },
+      {
+        "id": 540,
+        "name": "Department of Business Management, Satavahana University",
+        "type": "Public/Government (State University Department)",
+        "location": "Telangana, India",
+        "website": "https://satavahana.ac.in"
+      },
+      {
+        "id": 578,
+        "name": "School of Commerce and Business Management, Maulana Azad National Urdu University (MANUU)",
+        "type": "Public/Government (Central University Department)",
+        "location": "Telangana, India",
+        "website": "https://manuu.edu.in"
+      }
+    ]
+  },
+  {
+    "batch": 7,
+    "items": [
+      {
+        "id": 579,
+        "name": "Department of Management Studies (DoMS), NALSAR University of Law",
+        "type": "Public/Government (State University / National Law University)",
+        "location": "Telangana, India",
+        "website": "https://doms.nalsar.ac.in"
+      },
+      {
+        "id": 582,
+        "name": "Fortune School of Business (FSB), Hyderabad",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://www.fsb.org.in"
+      },
+      {
+        "id": 583,
+        "name": "Pannala Ram Reddy College of Business Management (PRRCBM)",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://www.prrcbm.com"
+      },
+      {
+        "id": 584,
+        "name": "School of Innovation and Management (SOIM), Hyderabad",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://soim.edu.in"
+      },
+      {
+        "id": 586,
+        "name": "Omega Business School, Hyderabad",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://omegabusinessschool.ac.in"
+      },
+      {
+        "id": 587,
+        "name": "Aurora's Business School, Hyderabad",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://www.absi.edu.in"
+      },
+      {
+        "id": 590,
+        "name": "Aradhana School of Business Management (ASBM), Hyderabad",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "http://www.asbm.in"
+      },
+      {
+        "id": 592,
+        "name": "Bharathi Institute of Business Management (BIBM), Warangal",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://kakatiya.ac.in"
+      },
+      {
+        "id": 595,
+        "name": "St. Mary's Centenary College of Management, Secunderabad",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://smccom.ac.in"
+      },
+      {
+        "id": 599,
+        "name": "Institute of Insurance and Risk Management (IIRM), Hyderabad",
+        "type": "Autonomous Statutory Institution (IRDAI & Govt of Telangana)",
+        "location": "Telangana, India",
+        "website": "https://theiirm.ac.in"
+      }
+    ]
+  },
+  {
+    "batch": 8,
+    "items": [
+      {
+        "id": 601,
+        "name": "Sri Shivani Institute of Management, Gangadhara",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://satavahana.ac.in"
+      },
+      {
+        "id": 602,
+        "name": "University College of Management Hyderabad (UCMH), JNTU Hyderabad",
+        "type": "Public/Government (State University Constituent College)",
+        "location": "Telangana, India",
+        "website": "https://sms.jntuh.ac.in"
+      },
+      {
+        "id": 603,
+        "name": "University College of Commerce and Business Management (UCCBM), Osmania University",
+        "type": "Public/Government (State University Constituent College)",
+        "location": "Telangana, India",
+        "website": "https://uccbm.osmania.ac.in"
+      },
+      {
+        "id": 605,
+        "name": "Sri Gaayathri College of Management Sciences, Warangal",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://www.srigaayathricolleges.in"
+      },
+      {
+        "id": 609,
+        "name": "National Institute of Rural Development and Panchayati Raj (NIRDPR), Hyderabad",
+        "type": "Public/Government (Autonomous Central Apex Institution)",
+        "location": "Telangana, India",
+        "website": "https://nirdpr.org.in"
+      },
+      {
+        "id": 614,
+        "name": "RKLK PG College, Suryapet",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "http://www.rklkpgcollege.com"
+      },
+      {
+        "id": 630,
+        "name": "Aurora's PG College (MBA), Bandlaguda, Hyderabad",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://www.apgcc.edu.in"
+      },
+      {
+        "id": 631,
+        "name": "Mesco Institute of Management and Computer Sciences (MIMCS), Hyderabad",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://www.mesco.org.in"
+      },
+      {
+        "id": 634,
+        "name": "Gauthami PG College, Nizamabad",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://www.gauthamidegreeandpgcollege.com"
+      },
+      {
+        "id": 649,
+        "name": "Presidency College (Autonomous), Chennai",
+        "type": "Public/Government (Autonomous Government Arts College)",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.pcc.ac.in"
+      }
+    ]
+  },
+  {
+    "batch": 9,
+    "items": [
+      {
+        "id": 656,
+        "name": "Vivekanandha Institute of Information and Management Studies (VIIMS), Tiruchengode",
+        "type": "Private",
+        "location": "Tamil Nadu - 637205, India",
+        "website": "https://viims.ac.in"
+      },
+      {
+        "id": 658,
+        "name": "Government Arts and Science College, RK Nagar, Chennai",
+        "type": "Public/Government (State Government College)",
+        "location": "Tamil Nadu, India",
+        "website": "https://gascrknagar.co.in"
+      },
+      {
+        "id": 660,
+        "name": "Sree Saraswathi Thyagaraja College (Autonomous), Pollachi",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.stc.ac.in"
+      },
+      {
+        "id": 661,
+        "name": "Global Business School, Melvisharam (Vellore/Ranipet)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.globalbschool.co.in"
+      },
+      {
+        "id": 669,
+        "name": "Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.skcet.ac.in"
+      },
+      {
+        "id": 671,
+        "name": "Tamilnadu College of Engineering (TNCE), Coimbatore",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://tnce.ac.in"
+      },
+      {
+        "id": 675,
+        "name": "Dwaraka Doss Goverdhan Doss Vaishnav College (Autonomous), Chennai",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.dgvaishnavcollege.edu.in"
+      },
+      {
+        "id": 721,
+        "name": "Jaipuria Institute of Management, Indirapuram, Ghaziabad",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://jaipuriamba.edu.in"
+      },
+      {
+        "id": 722,
+        "name": "Saroj Institute of Technology & Management (SITM), Lucknow",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://sitmlko.org"
+      },
+      {
+        "id": 731,
+        "name": "International Institute for Special Education (IISE), Lucknow",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.iiseindia.com"
+      }
+    ]
+  },
+  {
+    "batch": 10,
+    "items": [
+      {
+        "id": 739,
+        "name": "Institute of Technology and Management (ITM), GIDA, Gorakhpur",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://itmgkp.edu.in"
+      },
+      {
+        "id": 745,
+        "name": "Modern Institute of Technology and Management (MITM), Ghaziabad",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://mitmgzb.com"
+      },
+      {
+        "id": 777,
+        "name": "Institute of Professional Excellence & Management (IPEM), Ghaziabad",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.ipemgzb.ac.in"
+      },
+      {
+        "id": 782,
+        "name": "Moti Lal Rastogi School of Management (MLRSM), Lucknow",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://mlrsmihm.com"
+      },
+      {
+        "id": 784,
+        "name": "Dr. Bhimrao Ambedkar University (DBRAU), Khandari Campus, Agra",
+        "type": "Public/Government (State University)",
+        "location": "Uttar Pradesh, India",
+        "website": "https://dbrau.ac.in"
+      },
+      {
+        "id": 785,
+        "name": "Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur",
+        "type": "Public/Government (State University)",
+        "location": "Uttar Pradesh, India",
+        "website": "https://csjmu.ac.in"
+      },
+      {
+        "id": 786,
+        "name": "Sparsh Global Business School (SGBS), Greater Noida",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.sparshgbs.in"
+      },
+      {
+        "id": 797,
+        "name": "IIF Business School / Indian Institute of Finance (IIF), Greater Noida",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.iif.edu"
+      },
+      {
+        "id": 808,
+        "name": "Adhunik Institute of Productivity Management & Research (AGOI), Ghaziabad",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://adhunikgroup.org"
+      },
+      {
+        "id": 814,
+        "name": "S.R.M. Business School (SRMBS), Lucknow",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://srmbs.in"
+      }
+    ]
+  },
+  {
+    "batch": 11,
+    "items": [
+      {
+        "id": 858,
+        "name": "RMS Business School, Gurugram",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://rmsbusinessschool.org"
+      },
+      {
+        "id": 859,
+        "name": "Rattan Institute of Management (RIM), Seekri, Faridabad",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://rimseekri.org.in"
+      },
+      {
+        "id": 863,
+        "name": "Delhi Institute of Technology, Management & Research (FCEM), Faridabad",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://www.fcem.in"
+      },
+      {
+        "id": 868,
+        "name": "Maa Omwati Institute of Management & Technology (MOIMT), Hassanpur, Palwal",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://www.maaomwati.com"
+      },
+      {
+        "id": 869,
+        "name": "SOIL School of Business Design (SOIL Institute of Management), Manesar, Gurugram",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://www.soil.edu.in"
+      },
+      {
+        "id": 870,
+        "name": "JK Institute of Management & Technology (JKIMT), Karnal",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://jkinstitutes.com"
+      },
+      {
+        "id": 893,
+        "name": "Saraswati Mahila Mahavidyalaya (SMM), Palwal",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://www.smmpalwal.com"
+      },
+      {
+        "id": 894,
+        "name": "Pt. L.R. College of Management, Ballabgarh, Faridabad",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://ptlrcollege.com"
+      },
+      {
+        "id": 899,
+        "name": "Shaheed Capt. D.K. Khola College of Management and Technology, Zainabad, Rewari",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://www.kholacollege.com"
+      },
+      {
+        "id": 900,
+        "name": "Indraprasth Institute of Management (IIMG), Gurugram",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "http://www.iimgurgaon.com"
+      }
+    ]
+  },
+  {
+    "batch": 12,
+    "items": [
+      {
+        "id": 906,
+        "name": "Vinayak Institute of Management (VIPM), Kachwa, Karnal",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://www.vipmknl.com"
+      },
+      {
+        "id": 985,
+        "name": "Xavier Institute of Management and Informatics (XIMI), Jaipur",
+        "type": "Private",
+        "location": "Rajasthan, India",
+        "website": "https://ximi.ac.in"
+      },
+      {
+        "id": 995,
+        "name": "Poddar Business School, Sitapura, Jaipur",
+        "type": "Private",
+        "location": "Rajasthan, India",
+        "website": "https://www.poddarbschool.com"
+      },
+      {
+        "id": 1039,
+        "name": "Taxila Business School, Mansarovar, Jaipur",
+        "type": "Private",
+        "location": "Rajasthan, India",
+        "website": "https://taxila.in"
+      },
+      {
+        "id": 1051,
+        "name": "Shankara International School of Management & Research (SISMR), Kukas, Jaipur",
+        "type": "Private",
+        "location": "Rajasthan, India",
+        "website": "https://shankaragroup.org"
+      },
+      {
+        "id": 1060,
+        "name": "Chaudhary Charan Singh National Institute of Agricultural Marketing (CCS NIAM), Jaipur",
+        "type": "Public/Government (Autonomous Central Government Institute)",
+        "location": "Rajasthan, India",
+        "website": "https://ccsniam.gov.in"
+      },
+      {
+        "id": 1093,
+        "name": "Champaran College of Professional Education (CCPE), Ghorasahan",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "https://ccpeus.com"
+      },
+      {
+        "id": 1100,
+        "name": "Rungta Institute of Technology and Management (RITM), Forbesganj",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "https://www.ritm.ac.in"
+      },
+      {
+        "id": 1125,
+        "name": "Mamta Institute of Education (MIE), Daraundha, Siwan",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "https://mieedu.in"
+      },
+      {
+        "id": 1128,
+        "name": "Institute of Management and Planning and Advanced Computer Training (IMPACT College), Patna",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "https://www.impactcollege.edu.in"
+      }
+    ]
+  },
+  {
+    "batch": 13,
+    "items": [
+      {
+        "id": 1137,
+        "name": "Magadh Professional Institute (MPI), Nasriganj, Patna",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "https://mpipatna.com"
+      },
+      {
+        "id": 1140,
+        "name": "Narayan Academy of Managerial Excellence (Faculty of Management Studies, GNSU), Jamuhar",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "https://gnsu.ac.in"
+      },
+      {
+        "id": 1168,
+        "name": "Ganga Global Institute of Management Studies (GGIMS), Begusarai",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "https://www.ggims.ac.in"
+      },
+      {
+        "id": 1178,
+        "name": "Chanakya Institute of Management and Higher Studies (CIMHS), Koilwar",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "http://www.cimhs.in"
+      },
+      {
+        "id": 1180,
+        "name": "SNB College of Pharmacy and Management, Bihta, Patna",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "https://snbcollege.com"
+      },
+      {
+        "id": 1200,
+        "name": "Academy of Pharmacy Medical and Management Studies (APMMS), Koilwar",
+        "type": "Private",
+        "location": "Bihar, India",
+        "website": "https://apmms.in"
+      },
+      {
+        "id": 1211,
+        "name": "DC School of Management and Technology (DCSMAT), Vagamon",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://dcschool.net"
+      },
+      {
+        "id": 1239,
+        "name": "Institute of Land and Disaster Management (ILDM), Thiruvananthapuram",
+        "type": "Public/Government (State Government Autonomous Institute)",
+        "location": "Kerala, India",
+        "website": "https://ildm.kerala.gov.in"
+      },
+      {
+        "id": 1242,
+        "name": "Prayaga Institute of Management Studies (Prayaga Foundation), Palakkad",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://www.prayaga.co.in"
+      },
+      {
+        "id": 1243,
+        "name": "PMA SAFI Human Resources Institute, Vazhayoor, Malappuram",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://safihr.edu.in"
+      }
+    ]
+  },
+  {
+    "batch": 14,
+    "items": [
+      {
+        "id": 1246,
+        "name": "LEAD College (Autonomous), Dhoni, Palakkad",
+        "type": "Private (Autonomous Institute)",
+        "location": "Kerala, India",
+        "website": "https://www.lead.ac.in"
+      },
+      {
+        "id": 1253,
+        "name": "G. Karunakaran Memorial Co-operative College of Management and Technology (GKMCCMT), Karakulam",
+        "type": "Private (Co-operative Sector Managed)",
+        "location": "Kerala, India",
+        "website": "https://gkmccmt.in"
+      },
+      {
+        "id": 1259,
+        "name": "Rural Academy for Management Studies (RAMS by CRAFT), Kuzhuppilly, Kochi",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://ramsbschool.org"
+      },
+      {
+        "id": 1272,
+        "name": "Gurudev Institute of Management Studies (GIMS), Kadakkal, Kollam",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "http://gimskerala.in"
+      },
+      {
+        "id": 1276,
+        "name": "Marian Academy of Management Studies (MAMS), Kothamangalam",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://www.mams.ac.in"
+      },
+      {
+        "id": 1277,
+        "name": "KMCT Institute of Emerging Technology and Management (KMCT IETM), Mukkam, Kozhikode",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://www.kmctemergingtechnology.org"
+      },
+      {
+        "id": 1286,
+        "name": "Sirajul Huda Institute of Management Studies (SHIMS), Kuttiadi, Kozhikode",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://shims.ac.in"
+      },
+      {
+        "id": 1287,
+        "name": "Leaders College (Leaders Academy of Business), Kadalayi, Kannur",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://leaderscollege.in"
+      },
+      {
+        "id": 1292,
+        "name": "Mar Thoma College of Management and Technology (MCMAT), Perumbavoor",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://www.mcmat.edu.in"
+      },
+      {
+        "id": 1294,
+        "name": "SNES Institute of Management Studies and Research (SNES IMSAR), Kunnamangalam, Calicut",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://imsar.ac.in"
+      }
+    ]
+  },
+  {
+    "batch": 15,
+    "items": [
+      {
+        "id": 1299,
+        "name": "Monti International Institute of Management Studies (MIIMS), Puthanangadi",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://montiinstitute.ac.in"
+      },
+      {
+        "id": 1300,
+        "name": "Institute of Technology Mayyil (ITM), Kannur",
+        "type": "Private",
+        "location": "Kerala, India",
+        "website": "https://itmmba.ac.in"
+      },
+      {
+        "id": 1318,
+        "name": "A.S. Group of Institutions (ASGOI), Khanna",
+        "type": "Private",
+        "location": "Punjab, India",
+        "website": "https://asinstitutes.com"
+      },
+      {
+        "id": 1343,
+        "name": "Golden College of Engineering & Technology (GCET), Gurdaspur",
+        "type": "Private",
+        "location": "Punjab, India",
+        "website": "https://goldengroups.co.in"
+      },
+      {
+        "id": 1353,
+        "name": "Khalsa College of Engineering & Technology (KCET), Amritsar",
+        "type": "Private",
+        "location": "Punjab, India",
+        "website": "https://khalsaengineering.co.in"
+      },
+      {
+        "id": 1393,
+        "name": "Aryans Business School (ABS, Aryans Group of Colleges), Rajpura, Patiala",
+        "type": "Private",
+        "location": "Punjab, India",
+        "website": "https://aryans.edu.in"
+      },
+      {
+        "id": 1447,
+        "name": "International School of Business Administration (ISBA Group of Institutions), Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://isba.edu.in"
+      },
+      {
+        "id": 1449,
+        "name": "Indore Institute of Management and Research (IIMR), Rau, Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://indoreinstitute.com/iimr"
+      },
+      {
+        "id": 1450,
+        "name": "Maharishi Centre for Educational Excellence (MCEE - Maharishi Institute of Management), Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://mceebhopal.org"
+      },
+      {
+        "id": 1474,
+        "name": "Jain College (Jain Group of Colleges), Lashkar, Gwalior",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://www.jaincollege.net"
+      }
+    ]
+  },
+  {
+    "batch": 16,
+    "items": [
+      {
+        "id": 1476,
+        "name": "Lakshmi Narain College of Technology (LNCT), Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://lnct.ac.in"
+      },
+      {
+        "id": 1479,
+        "name": "Anushashan Institute of Management (AIM), Katni",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://www.anushashangroup.in"
+      },
+      {
+        "id": 1483,
+        "name": "Sant Hirdaram Institute of Management for Women (SHIM), Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://www.shim.co.in"
+      },
+      {
+        "id": 1484,
+        "name": "Pentium Point College of Management (PPGI), Rewa",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://ppgirewa.com"
+      },
+      {
+        "id": 1485,
+        "name": "Gomti Nandan Institute of Management and Research (GNiMR), Bina, Sagar",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://gnimr.com"
+      },
+      {
+        "id": 1486,
+        "name": "Nachiketa College of Business Studies (NCBS), Jabalpur",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://ncbsjbp.com"
+      },
+      {
+        "id": 1487,
+        "name": "Atal Bihari Vajpayee Hindi Vishwavidyalaya (ABVHV), Bhopal",
+        "type": "Public/Government (State University)",
+        "location": "Madhya Pradesh, India",
+        "website": "https://www.abvhv.edu.in"
+      },
+      {
+        "id": 1490,
+        "name": "Divine International Group of Institutions (DIGI), SADA, Gwalior",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://divineinternational.org.in"
+      },
+      {
+        "id": 1492,
+        "name": "Corporate Institute of Management (CIM, Corporate Group of Institutions), Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://www.corporatebpl.com"
+      },
+      {
+        "id": 1494,
+        "name": "M.P. Institute of Fashion and Design, Bhesonda, Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://bubhopal.ac.in"
+      }
+    ]
+  },
+  {
+    "batch": 17,
+    "items": [
+      {
+        "id": 1495,
+        "name": "BM Professional Institute (BM Group of Colleges), Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://www.bmcollege.ac.in"
+      },
+      {
+        "id": 1496,
+        "name": "Aspire Institute of Management (AIM), Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://aspireinstitute.co.in"
+      },
+      {
+        "id": 1497,
+        "name": "Idyllic Institute of Management, Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://www.idyllicinstituteofmanagement.com"
+      },
+      {
+        "id": 1498,
+        "name": "Gyansagar Academy College, Gadarwara, Narsinghpur",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://gyansagaracademy.in"
+      },
+      {
+        "id": 1499,
+        "name": "Adarsh College of Management, Phanda, Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://bubhopal.ac.in"
+      },
+      {
+        "id": 1500,
+        "name": "Indore Mahavidyalaya Institute of Management, Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://indoremahavidyalaya.in"
+      },
+      {
+        "id": 1501,
+        "name": "Shri Guru Sandipani Institute of Management, Ujjain",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://www.sgsitsujjain.com"
+      },
+      {
+        "id": 1502,
+        "name": "Veer College of Management, Vidisha",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://bubhopal.ac.in"
+      },
+      {
+        "id": 1503,
+        "name": "Neotech Institute of Management Studies, Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://bubhopal.ac.in"
+      },
+      {
+        "id": 1504,
+        "name": "Sir Atma Ram Institute of Management and Technology, Jabalpur",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://sariptjbp.com"
+      }
+    ]
+  },
+  {
+    "batch": 18,
+    "items": [
+      {
+        "id": 1505,
+        "name": "Swami Vivekanand Institute of Management (SVIM), Shahdol",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://ptsnsuniversity.ac.in"
+      },
+      {
+        "id": 1507,
+        "name": "Shri Atal Bihari Vajpayee Government Arts and Commerce College (GACC), Indore",
+        "type": "Public/Government (Autonomous State College)",
+        "location": "Madhya Pradesh, India",
+        "website": "https://www.sabvgacc.in"
+      },
+      {
+        "id": 1508,
+        "name": "Hinduja College of Professional Studies, Ashta, Sehore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://bubhopal.ac.in"
+      },
+      {
+        "id": 1512,
+        "name": "Synergy Institute of Technology & Management (SIM), Dewas",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://www.synergy-edu.com"
+      },
+      {
+        "id": 1513,
+        "name": "Mahakoshal College of Science & Management, Chhapara, Seoni",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://mahakoshalgroup.in"
+      },
+      {
+        "id": 1514,
+        "name": "Shri Gajanan Shiksha Samiti College, Sohagpur",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://shrigajananshikshasamiti.in"
+      },
+      {
+        "id": 1515,
+        "name": "Duke College of Management (DCM), Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://www.dcmbpl.com"
+      },
+      {
+        "id": 1516,
+        "name": "Akhil Bharti College of Management (ABGI), Bhopal",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "http://www.abcollegebpl.com"
+      },
+      {
+        "id": 1517,
+        "name": "Asian Institute of Professional Studies (AIPS), Mhow, Indore",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://aips.ind.in"
+      },
+      {
+        "id": 1518,
+        "name": "Radiant Institute of Engineering & Management (RIEM), Jabalpur",
+        "type": "Private",
+        "location": "Madhya Pradesh, India",
+        "website": "https://riemedu.org"
+      }
+    ]
+  }
+]
