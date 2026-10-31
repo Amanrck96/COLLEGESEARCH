@@ -2773,5 +2773,80 @@
         "website": "http://www.tvmtpg.org"
       }
     ]
+  },
+  {
+    "batch": 38,
+    "items": [
+      {
+        "id": 2794,
+        "name": "Akshara Institute of Management and Technology",
+        "type": "Private",
+        "location": "Tirupati, Andhra Pradesh - 517503",
+        "website": "https://www.aksharaimt.com"
+      },
+      {
+        "id": 2799,
+        "name": "B.R. Institute of Technology and Management Sciences (BRITMS)",
+        "type": "Private",
+        "location": "Guntur, Andhra Pradesh - 522019",
+        "website": "http://britms.in"
+      },
+      {
+        "id": 2800,
+        "name": "SALN College of Engineering and Management",
+        "type": "Private",
+        "location": "Chittoor District, Andhra Pradesh - 517132",
+        "website": "http://www.salncollege.org"
+      },
+      {
+        "id": 2802,
+        "name": "Indian Institute of Foreign Trade (IIFT) Kakinada Campus",
+        "type": "Public/Government (Deemed University)",
+        "location": "Kakinada, Andhra Pradesh - 533003",
+        "website": "https://www.iift.ac.in"
+      },
+      {
+        "id": 2804,
+        "name": "Vyshnavi Institute of Management Sciences (VIMS)",
+        "type": "Private",
+        "location": "Kurnool District, Andhra Pradesh - 518360",
+        "website": "https://vyshnavicolleges.com"
+      },
+      {
+        "id": 2806,
+        "name": "Alwar College of Engineering (ACE)",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 530017",
+        "website": "https://ace.edu.in"
+      },
+      {
+        "id": 2809,
+        "name": "Krishnaveni Degree & PG College",
+        "type": "Private",
+        "location": "Palnadu District, Andhra Pradesh - 522601",
+        "website": "http://www.kvdcnrt.com"
+      },
+      {
+        "id": 2810,
+        "name": "International School of Technology and Sciences (ISTS)",
+        "type": "Private",
+        "location": "Rajanagaram / Jangareddygudem Off-Campus, Andhra Pradesh - 533294",
+        "website": "https://www.ists.ac.in"
+      },
+      {
+        "id": 2825,
+        "name": "Aditya Degree College for Women, Kakinada",
+        "type": "Private",
+        "location": "Kakinada, Andhra Pradesh - 533003",
+        "website": "https://aditya.ac.in/degree"
+      },
+      {
+        "id": 3070,
+        "name": "Chegireddy Linga Reddy Institute of Management (CLRIM)",
+        "type": "Private",
+        "location": "Prakasam District, Andhra Pradesh - 523333",
+        "website": "https://www.clritm.com"
+      }
+    ]
   }
 ]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": 2794,
+    "name": "AKSHARA INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "199/3,PENUBALA NAGAR,OPP.RAJIV GRUHA KALPA HOUSING COLONY,KOTRAMANGALAM,TIRUCHANOOR POST,TIRUPATI-517503",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.google.com/search?q=AKSHARA%20INSTITUTE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20CHITTOOR%20Andhra%20Pradesh%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2799,
+    "name": "B.R. INSTITUTE OF TECHNOLOGY AND MANAGEMENT SCIENCES",
+    "address": "SURVEY NO 23, NH-5, EDULAPALEM (POST), YANAMADALA (V), PRATHIPADU (M), GUNTUR RURAL - 522019, AP, INDIA",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.brinstituteofte.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2800,
+    "name": "SALN COLLEGE OF ENGINEERING AND MANAGEMENT",
+    "address": "SF-316,CHITTOOR-VELLORE HIGHWAY,PALLURU-517132,ANDRA PRADESH",
+    "state": "Andhra Pradesh",
+    "img": "https://ext.cmcvellore.edu.in/wp-content/uploads/sites/14/2023/11/chittoor-campus.png",
+    "website": "https://www.salncollegeofen.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2802,
+    "name": "INDIAN INSTITUTE OF FOREIGN TRADE KAKINADA",
+    "address": "IIFT, KAKINADA, KONAPAPAPETA, U.KOTHAPALLI MANDAL, KAKINADA DISTRICT",
+    "state": "Andhra Pradesh",
+    "img": "https://img.studyclap.com/img/institute/college/original/4475/iift-kolkata-0883829cf0.png",
+    "website": "https://www.indianinstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA (INTERNATIONAL BUSINESS)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2804,
+    "name": "VYSHNAVI INSTITUTE OF MANAGEMENT SCIENCES",
+    "address": "SOGANUR ROAD OPP: Z P HIGH SCHOOL YEMMIGANUR-518360",
+    "state": "Andhra Pradesh",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1714126117institution.jpg",
+    "website": "https://www.vyshnaviinstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA (INFORMATION TECHNOLOGY AND SYSTEMS MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2806,
+    "name": "ALWAR COLLEGE OF ENGINEERING",
+    "address": "ALWAR COLLEGE OF ENGINEERING MVP COLONY,PLOT NO-10,SECTOR-7",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://ace.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2809,
+    "name": "KRISHNAVENI PG COLLEGE",
+    "address": "BYPASS JUNCTION CHLAKALURIPET ROAD NARASARAOPET",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.krishnavenipgco.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2810,
+    "name": "INTERNATIONAL SCHOOL OF TECHNOLOGY AND SCIENCES",
+    "address": "JANGAREDDY GUDEM",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/international-school-of-technology-sciences-for-women-east-godavari-307074.webp",
+    "website": "https://www.internationalsc.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2825,
+    "name": "ADITYA DEGREE COLLEGE FOR WOMEN KAKINADA",
+    "address": "DOORNO: 16-42-57, ROAD NO:5, SAMBAMURTHY NAGAR, KAKINADA",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.adityadegreecol.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3070,
+    "name": "CHEGIREDDY LINGA REDDY INSTITUTE OF MANAGEMENT",
+    "address": "OPP POLYTECHNIC COLLEGE, KANDULAPURAM",
+    "state": "Andhra Pradesh",
+    "img": "https://assets.kollegeapply.com/images/1751569599003-1493812048phpAOnW6q.jpeg",
+    "website": "https://www.chegireddylinga.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

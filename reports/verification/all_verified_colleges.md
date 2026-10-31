@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **370 / 12,660**  
-**Roadmap Progress**: **37.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **380 / 12,660**  
+**Roadmap Progress**: **38.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -564,4 +564,19 @@
 | **2789** | Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology (PSCMRCET) | Private | Vijayawada, Andhra Pradesh - 520001 | [pscmr.ac.in](https://pscmr.ac.in) |
 | **2790** | MVR College of Engineering and Technology | Private | NTR District, Andhra Pradesh - 521180 | [www.mvrcoe.ac.in](http://www.mvrcoe.ac.in) |
 | **2791** | Tripura Vidya Mandiram | Private | West Godavari District, Andhra Pradesh - 534101 | [www.tvmtpg.org](http://www.tvmtpg.org) |
+
+### Batch 38 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2794** | Akshara Institute of Management and Technology | Private | Tirupati, Andhra Pradesh - 517503 | [www.aksharaimt.com](https://www.aksharaimt.com) |
+| **2799** | B.R. Institute of Technology and Management Sciences (BRITMS) | Private | Guntur, Andhra Pradesh - 522019 | [britms.in](http://britms.in) |
+| **2800** | SALN College of Engineering and Management | Private | Chittoor District, Andhra Pradesh - 517132 | [www.salncollege.org](http://www.salncollege.org) |
+| **2802** | Indian Institute of Foreign Trade (IIFT) Kakinada Campus | Public/Government (Deemed University) | Kakinada, Andhra Pradesh - 533003 | [www.iift.ac.in](https://www.iift.ac.in) |
+| **2804** | Vyshnavi Institute of Management Sciences (VIMS) | Private | Kurnool District, Andhra Pradesh - 518360 | [vyshnavicolleges.com](https://vyshnavicolleges.com) |
+| **2806** | Alwar College of Engineering (ACE) | Private | Visakhapatnam, Andhra Pradesh - 530017 | [ace.edu.in](https://ace.edu.in) |
+| **2809** | Krishnaveni Degree & PG College | Private | Palnadu District, Andhra Pradesh - 522601 | [www.kvdcnrt.com](http://www.kvdcnrt.com) |
+| **2810** | International School of Technology and Sciences (ISTS) | Private | Rajanagaram / Jangareddygudem Off-Campus, Andhra Pradesh - 533294 | [www.ists.ac.in](https://www.ists.ac.in) |
+| **2825** | Aditya Degree College for Women, Kakinada | Private | Kakinada, Andhra Pradesh - 533003 | [aditya.ac.in](https://aditya.ac.in/degree) |
+| **3070** | Chegireddy Linga Reddy Institute of Management (CLRIM) | Private | Prakasam District, Andhra Pradesh - 523333 | [www.clritm.com](https://www.clritm.com) |
 
