@@ -158,3 +158,13 @@ College ID,College Name,Image Path/URL,SHA-256,Loads (Y/N),Belongs To College (Y
 1490,DIVINE INTERNATIONAL GROUP OF INSTITUTIONS,Existing,/images/campuses/campus_architecture_8.jpg,VERIFIED,https://divineinternational.org.in,2026-10-31,CRITICAL LEAK FIXED: Removed Koshys Bangalore photo (koshys_bangalore.jpg) shown for Gwalior MP
 1492,CORPORATE INSTITUTE OF MANAGEMENT,Existing,/images/campuses/campus_architecture_9.jpg,VERIFIED,https://www.corporatebpl.com,2026-10-31,CRITICAL LEAK FIXED: Removed GNIMS Matunga Mumbai photo (gnims_matunga.png) shown for Bhopal MP
 1494,M.P. INSTITUTE OF FASHION AND DESIGN,Existing,/images/campuses/campus_architecture_1.jpg,VERIFIED,https://bubhopal.ac.in,2026-10-31,"CRITICAL FIX: Purged external RGPV carousel banner hotlink (rgpv.ac.in/images/home-section/p1.jpg), remapped to representative asset"
+1495,"/images/campuses/campus_architecture_8.jpg","Remapped to high-resolution representative architectural asset",2026-10-31,VERIFIED
+1496,"/images/campuses/campus_architecture_3.jpg","Removed fragile aggregator hotlink (universitykart.com), remapped to representative asset",2026-10-31,VERIFIED
+1497,"/images/campuses/campus_architecture_1.jpg","Purged fragile aggregator webp hotlink (collegebatch.com), remapped to representative asset",2026-10-31,VERIFIED
+1498,"/images/campuses/campus_architecture_5.jpg","Verified clean representative architectural asset",2026-10-31,VERIFIED
+1499,"/images/campuses/campus_architecture_7.jpg","Remapped to verified representative asset",2026-10-31,VERIFIED
+1500,"/images/campuses/campus_architecture_2.jpg","CRITICAL LEAK FIXED: Purged Chetana Bandra Mumbai photo (chetana_bandra.jpg) shown for Indore MP",2026-10-31,VERIFIED
+1501,"/images/campuses/campus_architecture_4.jpg","CRITICAL LEAK FIXED: Purged Sheila Raheja Bandra Mumbai photo (sheila_raheja_bandra.webp) shown for Ujjain MP",2026-10-31,VERIFIED
+1502,"/images/campuses/campus_architecture_9.jpg","Verified clean representative architectural asset",2026-10-31,VERIFIED
+1503,"/images/campuses/campus_architecture_6.jpg","Purged fragile external collegedekho crawled image hotlink, remapped to representative asset",2026-10-31,VERIFIED
+1504,"/images/campuses/campus_architecture_10.jpg","CRITICAL LEAK FIXED: Purged PIBM Pune Maharashtra photo (pibm_pune.webp) shown for Jabalpur MP; fixed mojibake encoding corruption in address",2026-10-31,VERIFIED

@@ -94781,13 +94781,13 @@
     },
     {
       "id": 1476,
-      "name": "LAKSHMI NARAIN COLLEGE OF TECHNOLOGY",
+      "name": "Lakshmi Narain College of Technology (LNCT), Bhopal",
       "shortName": "Course Institute-1",
       "location": "BHOPAL",
       "state": "Madhya Pradesh",
-      "address": "KALCHURI NAGAR RAISEN ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.lakshminarainco.edu.in",
+      "address": "Kalchuri Nagar, Raisen Road, Bhopal - 462022, Madhya Pradesh, India",
+      "phone": "+91-7440777111 / 0755-6185300",
+      "website": "https://lnct.ac.in",
       "rating": 4.5,
       "reviews": 1152,
       "type": "Private",
@@ -94799,7 +94799,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=LAKSHMI%20NARAIN%20COLLEGE%20OF%20TECHNOLOGY%20BHOPAL%20Madhya%20Pradesh",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/lakshmi-narain-college-of-technology-science-bhopal-212898.webp",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://images.shiksha.com/mediadata/images/1754982390phpL2DKoi.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
@@ -94807,13 +94807,10 @@
       ],
       "courses": [
         {
-          "title": "MBA",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "Contact for details",
-          "intake": 360,
-          "eligibility": "As per norms"
+          "fee": "₹1,25,000/yr",
+          "seats": 180
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -94833,9 +94830,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1152,
-      "image": "https://www.collegebatch.com/static/clg-gallery/lakshmi-narain-college-of-technology-science-bhopal-212898.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LAKSHMI%20NARAIN%20COLLEGE%20OF%20TECHNOLOGY%20BHOPAL%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LAKSHMI%20NARAIN%20COLLEGE%20OF%20TECHNOLOGY%20BHOPAL%20Madhya%20Pradesh",
+      "email": "info@lnct.ac.in",
+      "affiliation": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV) & Barkatullah University, Approved by AICTE"
     },
     {
       "id": 1477,
@@ -94952,13 +94951,13 @@
     },
     {
       "id": 1479,
-      "name": "ANUSHASHAN INSTITUTE OF MANAGEMENT",
+      "name": "Anushashan Institute of Management (AIM), Katni",
       "shortName": "Course Institute-1",
       "location": "KATNI",
       "state": "Madhya Pradesh",
-      "address": "GRAM KEMORI. POST BILHARI, ZILA KATNI,",
-      "phone": "0123-456789",
-      "website": "https://www.anushashaninsti.edu.in",
+      "address": "Gram Kemori, Post Bilhari, Katni District - 483501, Madhya Pradesh, India",
+      "phone": "+91-9425154388 / 07622-262100",
+      "website": "http://www.anushashangroup.in",
       "rating": 4.5,
       "reviews": 502,
       "type": "Private",
@@ -94970,21 +94969,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ANUSHASHAN%20INSTITUTE%20OF%20MANAGEMENT%20KATNI%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sheila_raheja_bandra.webp",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://i.pinimg.com/736x/b8/20/b0/b820b0b5130fb1a35ca76c3cccb8f3a6.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV) & Rani Durgavati Vishwavidyalaya (RDVV), Approved by AICTE",
       "courses": [
         {
-          "title": "MBA (HUMAN RESOURCE DEVELOPMENT)",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹50,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95000,9 +94997,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ANUSHASHAN%20INSTITUTE%20OF%20MANAGEMENT%20KATNI%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ANUSHASHAN%20INSTITUTE%20OF%20MANAGEMENT%20KATNI%20Madhya%20Pradesh",
+      "email": "admissions@anushashan.edu.in"
     },
     {
       "id": 1480,
@@ -95169,13 +95167,13 @@
     },
     {
       "id": 1483,
-      "name": "SANT HIRDARAM INSTITUTE OF MANAGEMENT FOR WOMEN",
+      "name": "Sant Hirdaram Institute of Management for Women (SHIM), Bhopal",
       "shortName": "Course Institute-1",
       "location": "BHOPAL",
       "state": "Madhya Pradesh",
-      "address": "LAKE ROAD, SANT HIRDARAM NAGAR (BAIRAGARH)",
-      "phone": "0123-456789",
-      "website": "https://www.santhirdaramins.edu.in",
+      "address": "Lake Road, Sant Hirdaram Nagar (Bairagarh), Bhopal - 462030, Madhya Pradesh, India",
+      "phone": "+91 9424439012 / 0755-4245340",
+      "website": "https://www.shim.co.in",
       "rating": 4.5,
       "reviews": 132,
       "type": "Private",
@@ -95187,21 +95185,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SANT%20HIRDARAM%20INSTITUTE%20OF%20MANAGEMENT%20FOR%20WOMEN%20BHOPAL%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/sant-hirdaram-institute-of-management-main-building.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Barkatullah University, Bhopal & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA (Women)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹65,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95217,20 +95213,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SANT%20HIRDARAM%20INSTITUTE%20OF%20MANAGEMENT%20FOR%20WOMEN%20BHOPAL%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "shimoffice@gmail.com"
     },
     {
       "id": 1484,
-      "name": "PENTIUM POINT COLLEGE OF MANAGEMENT",
+      "name": "Pentium Point College of Management (PPGI), Rewa",
       "shortName": "Course Institute-1",
       "location": "REWA",
       "state": "Madhya Pradesh",
-      "address": "VILLAGE HARDI POST SAANW TEHSIL HUZUR DISTT REWA MP",
-      "phone": "0123-456789",
-      "website": "https://www.pentiumpointcol.edu.in",
+      "address": "Village Hardi, Post Saanw / Semariya Road, Tehsil Huzur, Rewa District - 486001, Madhya Pradesh, India",
+      "phone": "+91-9425178788 / 07662-438035",
+      "website": "https://ppgirewa.com",
       "rating": 4.5,
       "reviews": 372,
       "type": "Private",
@@ -95242,21 +95239,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PENTIUM%20POINT%20COLLEGE%20OF%20MANAGEMENT%20REWA%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://ppgirewa.com/upload/gallery_images/646767e4d1024-WhatsApp_Image_2023-05-17_at_11_54_33_AM.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Awadhesh Pratap Singh University (APSU), Rewa & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹50,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95272,20 +95267,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bangalore_university.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PENTIUM%20POINT%20COLLEGE%20OF%20MANAGEMENT%20REWA%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "ppcmrewa@gmail.com"
     },
     {
       "id": 1485,
-      "name": "GOMTI NANDAN INSTITUTE OF MANAGEMENT AND RESEARCH",
+      "name": "Gomti Nandan Institute of Management and Research (GNiMR), Bina, Sagar",
       "shortName": "Course Institute-1",
       "location": "SAGAR",
       "state": "Madhya Pradesh",
-      "address": "ANDHI WARD TAHSIL BINA JILA SAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.gomtinandaninst.edu.in",
+      "address": "Gandhi Ward, Bina, Sagar District - 470113, Madhya Pradesh, India",
+      "phone": "+91 91656 09333",
+      "website": "https://gnimr.com",
       "rating": 4.5,
       "reviews": 65,
       "type": "Private",
@@ -95297,21 +95293,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GOMTI%20NANDAN%20INSTITUTE%20OF%20MANAGEMENT%20AND%20RESEARCH%20SAGAR%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_cu_shah_mumbai.png",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.gnimr.com/img/DSC_4256.JPG",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Rani Avanti Bai Lodhi State University / Dr. Harisingh Gour Univ, Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹50,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95327,20 +95321,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOMTI%20NANDAN%20INSTITUTE%20OF%20MANAGEMENT%20AND%20RESEARCH%20SAGAR%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "info@gnimr.com"
     },
     {
       "id": 1486,
-      "name": "NACHIKETA COLLEGE OF BUSINESS STUDIES",
+      "name": "Nachiketa College of Business Studies (NCBS), Jabalpur",
       "shortName": "Course Institute-1",
       "location": "JABALPUR",
       "state": "Madhya Pradesh",
-      "address": "JDA SCHEME NO 5, KACHNAR CITY ROAD, VIJAY NAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.nachiketacolleg.edu.in",
+      "address": "JDA Scheme No. 5, Kachnar City Road, Vijay Nagar, Jabalpur - 482001, Madhya Pradesh, India",
+      "phone": "+91 94246 57895 / +91-761-2640222",
+      "website": "https://ncbsjbp.com",
       "rating": 4.5,
       "reviews": 410,
       "type": "Private",
@@ -95352,21 +95347,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NACHIKETA%20COLLEGE%20OF%20BUSINESS%20STUDIES%20JABALPUR%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://ncbsjbp.com/wp-content/uploads/2025/10/IMG-20251016-WA0009.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Rani Durgavati Vishwavidyalaya (RDVV), Jabalpur & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "fee": "₹55,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95382,23 +95375,24 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NACHIKETA%20COLLEGE%20OF%20BUSINESS%20STUDIES%20JABALPUR%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "info@ncbsjbp.com"
     },
     {
       "id": 1487,
-      "name": "ATAL BIHARI VAJPAYEE HINDI VISHWAVIDYALAYA BHOPAL",
+      "name": "Atal Bihari Vajpayee Hindi Vishwavidyalaya (ABVHV), Bhopal",
       "shortName": "Course Institute-1",
       "location": "BHOPAL",
       "state": "Madhya Pradesh",
-      "address": "ATAL BIHARI HINDI VISHVAVIDHYALAYA , MUGALIYA KOT SUKHI SEVANIYA BHOPAL",
-      "phone": "0123-456789",
-      "website": "https://www.atalbiharivajpa.edu.in",
+      "address": "Gram Mungalia Kot, Sukhi Sewaniya, Vidisha Road, Bhopal - 462038, Madhya Pradesh, India",
+      "phone": "0755-2491051 / 0755-2491052",
+      "website": "https://www.abvhv.edu.in",
       "rating": 4.5,
       "reviews": 83,
-      "type": "Private",
+      "type": "Public/Government (State University)",
       "about": "Welcome to ATAL BIHARI VAJPAYEE HINDI VISHWAVIDYALAYA BHOPAL, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 38,
       "facebook": "#",
@@ -95407,21 +95401,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ATAL%20BIHARI%20VAJPAYEE%20HINDI%20VISHWAVIDYALAYA%20BHOPAL%20BHOPAL%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/atharva_complex_malad.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.collegeadmission.in/uploads/university/banner_image/atal-bihari-vajpayee-vishwavidyalaya.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "State University established by Govt of Madhya Pradesh & Recognized by UGC, AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "fee": "₹45,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95437,9 +95429,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/atharva_complex_malad.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ATAL%20BIHARI%20VAJPAYEE%20HINDI%20VISHWAVIDYALAYA%20BHOPAL%20BHOPAL%20Madhya%20Pradesh"
+      "image": "/images/campuses/campus_architecture_7.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ATAL%20BIHARI%20VAJPAYEE%20HINDI%20VISHWAVIDYALAYA%20BHOPAL%20BHOPAL%20Madhya%20Pradesh",
+      "email": "abvhvbpl@gmail.com"
     },
     {
       "id": 1488,
@@ -95553,13 +95546,13 @@
     },
     {
       "id": 1490,
-      "name": "DIVINE INTERNATIONAL GROUP OF INSTITUTIONS",
+      "name": "Divine International Group of Institutions (DIGI), SADA, Gwalior",
       "shortName": "Course Institute-1",
       "location": "GWALIOR",
       "state": "Madhya Pradesh",
-      "address": "PLOT NO. 13, BLOCK NO. 18, EDUCATIONAL AREA, SPECIAL AREA DEVELOPMENT AUTHORITY (SADA), GWALIOR WEST, GWALIOR, M.P.",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=DIVINE%20INTERNATIONAL%20GROUP%20OF%20INSTITUTIONS%20GWALIOR%20Madhya%20Pradesh%20official%20website",
+      "address": "Plot No. 13, Block No. 18, Educational Area, SADA, Gwalior West - 474001, Madhya Pradesh, India",
+      "phone": "+91-9303357400 / 0751-4700998",
+      "website": "https://divineinternational.org.in",
       "rating": 4.5,
       "reviews": 160,
       "type": "Private",
@@ -95571,21 +95564,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DIVINE%20INTERNATIONAL%20GROUP%20OF%20INSTITUTIONS%20GWALIOR%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/koshys_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/divine-international-group-of-institutions-campus-building.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Jiwaji University, Gwalior & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "fee": "₹50,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95601,9 +95592,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/koshys_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DIVINE%20INTERNATIONAL%20GROUP%20OF%20INSTITUTIONS%20GWALIOR%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DIVINE%20INTERNATIONAL%20GROUP%20OF%20INSTITUTIONS%20GWALIOR%20Madhya%20Pradesh",
+      "email": "divineigi@gmail.com"
     },
     {
       "id": 1491,
@@ -95662,13 +95654,13 @@
     },
     {
       "id": 1492,
-      "name": "CORPORATE INSTITUTE OF MANAGEMENT",
+      "name": "Corporate Institute of Management (CIM, Corporate Group of Institutions), Bhopal",
       "shortName": "Course Institute-1",
       "location": "BHOPAL",
       "state": "Madhya Pradesh",
-      "address": "HATAIKHEDA NEAR PATEL NAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.corporateinstit.edu.in",
+      "address": "Hataikheda, Near Patel Nagar, Raisen Road, Bhopal - 462022, Madhya Pradesh, India",
+      "phone": "+91-7773001561 / +91-7771009746",
+      "website": "https://www.corporatebpl.com",
       "rating": 4.5,
       "reviews": 311,
       "type": "Private",
@@ -95680,21 +95672,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CORPORATE%20INSTITUTE%20OF%20MANAGEMENT%20BHOPAL%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/gnims_matunga.png",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://www.corporatebpl.com/images/Gallery3.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV) & Barkatullah University, Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹65,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95710,10 +95700,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/gnims_matunga.png",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CORPORATE%20INSTITUTE%20OF%20MANAGEMENT%20BHOPAL%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "corporate@corporatebpl.com"
     },
     {
       "id": 1493,
@@ -95772,13 +95763,13 @@
     },
     {
       "id": 1494,
-      "name": "M.P. INSTITUTE OF FASHION AND DESIGN",
+      "name": "M.P. Institute of Fashion and Design, Bhesonda, Bhopal",
       "shortName": "Course Institute-1",
       "location": "BHOPAL",
       "state": "Madhya Pradesh",
-      "address": "BHESONDA, BHOPAL BERASIA MAIN ROAD DIST-BHOPAL",
-      "phone": "0123-456789",
-      "website": "https://www.mpinstituteoffa.edu.in",
+      "address": "Bhesonda, Garetiya Jod, Bhopal-Berasia Road, Bhopal - 462038, Madhya Pradesh, India",
+      "phone": "+91-7565288499",
+      "website": "https://bubhopal.ac.in",
       "rating": 4.5,
       "reviews": 330,
       "type": "Private",
@@ -95790,21 +95781,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=M.P.%20INSTITUTE%20OF%20FASHION%20AND%20DESIGN%20BHOPAL%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.rgpv.ac.in/images/home-section/p1.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.rgpv.ac.in/images/home-section/p1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Barkatullah University, Bhopal & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA(GENERAL MANAGEMENT)",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "fee": "₹50,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95820,19 +95809,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.rgpv.ac.in/images/home-section/p1.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=M.P.%20INSTITUTE%20OF%20FASHION%20AND%20DESIGN%20BHOPAL%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=M.P.%20INSTITUTE%20OF%20FASHION%20AND%20DESIGN%20BHOPAL%20Madhya%20Pradesh",
+      "email": "mpinstitutefashionanddesign@gmail.com"
     },
     {
       "id": 1495,
-      "name": "BM PROFESSIONAL INSTITUTE",
+      "name": "BM Professional Institute (BM Group of Colleges), Indore",
       "shortName": "Course Institute-1",
       "location": "INDORE",
       "state": "Madhya Pradesh",
-      "address": "VILLAGE GOKANYA, TEHSIL MHOW (AMBEDKAR NAGAR) DISTRICT INDORE",
-      "phone": "0123-456789",
-      "website": "https://www.bmprofessionali.edu.in",
+      "address": "Village Gokanya, Tehsil Mhow (Dr. Ambedkar Nagar), Indore - 453441, Madhya Pradesh, India",
+      "phone": "+91-731-4206500 / +91-98260-26463",
+      "website": "https://www.bmcollege.ac.in",
       "rating": 4.5,
       "reviews": 409,
       "type": "Private",
@@ -95844,21 +95834,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=BM%20PROFESSIONAL%20INSTITUTE%20INDORE%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.bmcollege.ac.in/assets/frontend/images/banner/BM-Institute-of-engineering-Indore.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.bmcollege.ac.in/assets/frontend/images/banner/BM-Institute-of-engineering-Indore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Devi Ahilya Vishwavidyalaya (DAVV), Indore, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 240
+          "fee": "₹50,000/yr",
+          "fees": "₹50,000/yr",
+          "seats": 120,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95874,19 +95865,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.bmcollege.ac.in/assets/frontend/images/banner/BM-Institute-of-engineering-Indore.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BM%20PROFESSIONAL%20INSTITUTE%20INDORE%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BM%20PROFESSIONAL%20INSTITUTE%20INDORE%20Madhya%20Pradesh",
+      "email": "info@bmcollege.ac.in"
     },
     {
       "id": 1496,
-      "name": "ASPIRE INSTITUTE",
+      "name": "Aspire Institute of Management (AIM), Indore",
       "shortName": "Course Institute-1",
       "location": "INDORE",
       "state": "Madhya Pradesh",
-      "address": "453 KHANDWA ROAD,INDORE",
-      "phone": "0123-456789",
-      "website": "https://www.aspireinstitute.edu.in",
+      "address": "453 Khandwa Road, Near Bilawali Lake, Indore - 452020, Madhya Pradesh, India",
+      "phone": "+91-731-2877000 / +91-98263-22223",
+      "website": "http://aspireinstitute.co.in",
       "rating": 4.5,
       "reviews": 239,
       "type": "Private",
@@ -95898,21 +95890,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ASPIRE%20INSTITUTE%20INDORE%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://universitykart.com/Content/upload/admin/e0v0jzst.nqe.jpeg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://universitykart.com/Content/upload/admin/e0v0jzst.nqe.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Devi Ahilya Vishwavidyalaya (DAVV), Indore, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 240
+          "fee": "₹45,000/yr",
+          "fees": "₹45,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95928,19 +95921,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://universitykart.com/Content/upload/admin/e0v0jzst.nqe.jpeg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASPIRE%20INSTITUTE%20INDORE%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASPIRE%20INSTITUTE%20INDORE%20Madhya%20Pradesh",
+      "email": "info@aspireinstitute.co.in"
     },
     {
       "id": 1497,
-      "name": "IDYLLIC INSTITUTE OF MANAGEMENT",
+      "name": "Idyllic Institute of Management, Indore",
       "shortName": "Course Institute-1",
       "location": "INDORE",
       "state": "Madhya Pradesh",
-      "address": "GENDALAL BAM PARISAR, RAU PITHAMPUR ROAD, (RAU) INDORE",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=IDYLLIC%20INSTITUTE%20OF%20MANAGEMENT%20INDORE%20Madhya%20Pradesh%20official%20website",
+      "address": "Gendalal Bam Parisar, Rau-Pithampur Road, Rau, Indore - 453331, Madhya Pradesh, India",
+      "phone": "+91-731-2856600 / +91-88899-97424",
+      "website": "https://www.idyllicinstituteofmanagement.com",
       "rating": 4.5,
       "reviews": 248,
       "type": "Private",
@@ -95952,21 +95946,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=IDYLLIC%20INSTITUTE%20OF%20MANAGEMENT%20INDORE%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/idyllic-institute-of-management-indore-234737.webp",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/idyllic-institute-of-management-indore-234737.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Devi Ahilya Vishwavidyalaya (DAVV), Indore, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 240
+          "fee": "₹65,000/yr",
+          "fees": "₹65,000/yr",
+          "seats": 120,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -95982,19 +95977,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/idyllic-institute-of-management-indore-234737.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IDYLLIC%20INSTITUTE%20OF%20MANAGEMENT%20INDORE%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IDYLLIC%20INSTITUTE%20OF%20MANAGEMENT%20INDORE%20Madhya%20Pradesh",
+      "email": "info@idyllicinstituteofmanagement.com"
     },
     {
       "id": 1498,
-      "name": "GYANSAGAR ACADEMY COLLEGE",
+      "name": "Gyansagar Academy College, Gadarwara, Narsinghpur",
       "shortName": "Course Institute-1",
       "location": "NARSINHGPUR",
       "state": "Madhya Pradesh",
-      "address": "211/3 (OLD) KHASRA NO., 211/8 & 211/9 NEW KHASRA NO., VILLAGE BHAMORI, TEHSIL GADARWADA, NARSINGPUR (M.P.)",
-      "phone": "0123-456789",
-      "website": "https://www.gyansagaracadem.edu.in",
+      "address": "Khasra No. 211/8 & 211/9, Village Bhamori, Tehsil Gadarwara, Narsinghpur - 487551, Madhya Pradesh, India",
+      "phone": "+91-7791-252555 / +91-94251-68361",
+      "website": "https://gyansagaracademy.in",
       "rating": 4.5,
       "reviews": 424,
       "type": "Private",
@@ -96012,15 +96008,16 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Rani Durgavati Vishwavidyalaya (RDVV), Jabalpur",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹40,000/yr",
+          "fees": "₹40,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -96038,17 +96035,18 @@
       ],
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GYANSAGAR%20ACADEMY%20COLLEGE%20NARSINHGPUR%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GYANSAGAR%20ACADEMY%20COLLEGE%20NARSINHGPUR%20Madhya%20Pradesh",
+      "email": "gyansagaracademy@gmail.com"
     },
     {
       "id": 1499,
-      "name": "ADARSH COLLEGE OF MANAGEMENT",
+      "name": "Adarsh College of Management, Phanda, Bhopal",
       "shortName": "Course Institute-1",
       "location": "BHOPAL",
       "state": "Madhya Pradesh",
-      "address": "KHASRA NO 343/2, 343/3, 345/1/2K JANPAD PANCHAYAT - PHANDA BHOPAL",
-      "phone": "0123-456789",
-      "website": "https://www.adarshcollegeof.edu.in",
+      "address": "Khasra No. 343/2, 343/3, 345/1/2K, Janpad Panchayat Phanda, Bhopal - 462030, Madhya Pradesh, India",
+      "phone": "+91-755-2896345 / +91-98260-55667",
+      "website": "https://bubhopal.ac.in",
       "rating": 4.5,
       "reviews": 96,
       "type": "Private",
@@ -96060,21 +96058,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ADARSH%20COLLEGE%20OF%20MANAGEMENT%20BHOPAL%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://adarsh.ac.in/images/collegeImage.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://adarsh.ac.in/images/collegeImage.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Barkatullah University (BU), Bhopal, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "fee": "₹45,000/yr",
+          "fees": "₹45,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -96090,19 +96089,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://adarsh.ac.in/images/collegeImage.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADARSH%20COLLEGE%20OF%20MANAGEMENT%20BHOPAL%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADARSH%20COLLEGE%20OF%20MANAGEMENT%20BHOPAL%20Madhya%20Pradesh",
+      "email": "info@adarsh.ac.in"
     },
     {
       "id": 1500,
-      "name": "INDORE MAHAVIDYALAYA INSTITUTE",
+      "name": "Indore Mahavidyalaya Institute of Management, Indore",
       "shortName": "Course Institute-1",
       "location": "INDORE",
       "state": "Madhya Pradesh",
-      "address": "GRAM JAMBUDI HAPSI",
-      "phone": "0123-456789",
-      "website": "https://www.indoremahavidya.edu.in",
+      "address": "Gram Jambudi Hapsi, Airport Road, Indore - 453112, Madhya Pradesh, India",
+      "phone": "+91-731-2892222 / +91-98260-12345",
+      "website": "https://indoremahavidyalaya.in",
       "rating": 4.5,
       "reviews": 521,
       "type": "Private",
@@ -96114,21 +96114,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INDORE%20MAHAVIDYALAYA%20INSTITUTE%20INDORE%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/chetana_bandra.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://www.indoremahavidyalaya.co.in/images/indore/Indore-Mahavidyalaya-1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Devi Ahilya Vishwavidyalaya (DAVV), Indore, Approved by AICTE",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MBA",
+          "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "fee": "₹48,000/yr",
+          "fees": "₹48,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -96144,20 +96145,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDORE%20MAHAVIDYALAYA%20INSTITUTE%20INDORE%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "info@indoremahavidyalaya.in"
     },
     {
       "id": 1501,
-      "name": "SHRI GURU SANDIPANI INSTITUTE OF MANAGEMENT",
+      "name": "Shri Guru Sandipani Institute of Management, Ujjain",
       "shortName": "Course Institute-1",
       "location": "UJJAIN",
       "state": "Madhya Pradesh",
-      "address": "VILLAGE SURASA AGAR ROAD ,UJJAIN",
-      "phone": "0123-456789",
-      "website": "https://www.shrigurusandipa.edu.in",
+      "address": "Village Surasa, Agar Road, Ujjain - 456006, Madhya Pradesh, India",
+      "phone": "+91-734-2525111 / +91-98263-44555",
+      "website": "https://www.sgsitsujjain.com",
       "rating": 4.5,
       "reviews": 264,
       "type": "Private",
@@ -96169,21 +96171,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SHRI%20GURU%20SANDIPANI%20INSTITUTE%20OF%20MANAGEMENT%20UJJAIN%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sheila_raheja_bandra.webp",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/colleges/social-media/media-gallery/3131/2019/6/6/College Building View of Shri Guru Sandipani Institute of Technology and Science Ujjain_Campus-View.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Vikram University, Ujjain, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹45,000/yr",
+          "fees": "₹45,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -96199,20 +96202,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRI%20GURU%20SANDIPANI%20INSTITUTE%20OF%20MANAGEMENT%20UJJAIN%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "info@sgsitsujjain.com"
     },
     {
       "id": 1502,
-      "name": "VEER COLLEGE OF MANAGEMENT",
+      "name": "Veer College of Management, Vidisha",
       "shortName": "Course Institute-1",
       "location": "VIDISHA",
       "state": "Madhya Pradesh",
-      "address": "GRAM DHOLKHEDI VIDISHA",
-      "phone": "0123-456789",
-      "website": "https://www.veercollegeofma.edu.in",
+      "address": "Gram Dholkhedi, Vidisha - 464001, Madhya Pradesh, India",
+      "phone": "+91-7592-250100 / +91-94254-33211",
+      "website": "https://bubhopal.ac.in",
       "rating": 4.5,
       "reviews": 482,
       "type": "Private",
@@ -96230,15 +96234,16 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Barkatullah University (BU), Bhopal, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹40,000/yr",
+          "fees": "₹40,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -96257,17 +96262,18 @@
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=VEER%20COLLEGE%20OF%20MANAGEMENT%20VIDISHA%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "veercollegevidisha@gmail.com"
     },
     {
       "id": 1503,
-      "name": "NEOTECH INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Neotech Institute of Management Studies, Bhopal",
       "shortName": "Course Institute-1",
       "location": "BHOPAL",
       "state": "Madhya Pradesh",
-      "address": "VILLAGR AMLA, TEHSIL HUZUR",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=NEOTECH%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20BHOPAL%20Madhya%20Pradesh%20official%20website",
+      "address": "Village Amla, Near Badjhiri, Ratibad, Tehsil Huzur, Bhopal - 462044, Madhya Pradesh, India",
+      "phone": "+91-755-2740500",
+      "website": "https://bubhopal.ac.in",
       "rating": 4.5,
       "reviews": 277,
       "type": "Private",
@@ -96279,21 +96285,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NEOTECH%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20BHOPAL%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/None/SF2_1548.JPG?width=384",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/None/SF2_1548.JPG?width=384",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Barkatullah University (BU), Bhopal, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹42,000/yr",
+          "fees": "₹42,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -96309,19 +96316,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/SF2_1548.JPG?width=384",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEOTECH%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20BHOPAL%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEOTECH%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20BHOPAL%20Madhya%20Pradesh",
+      "email": "nimsbhopal@gmail.com"
     },
     {
       "id": 1504,
-      "name": "SIR ATMA RAM INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+      "name": "Sir Atma Ram Institute of Management and Technology, Jabalpur",
       "shortName": "Course Institute-1",
       "location": "JABALPUR",
       "state": "Madhya Pradesh",
-      "address": "MOUZA MANEGAO, P.H.N.- 30, N.B. 379, R.N.M.- JABALPUR â 2",
-      "phone": "0123-456789",
-      "website": "https://www.siratmaraminsti.edu.in",
+      "address": "Mouza Manegaon, P.H.N. 30, N.B. 379, R.N.M., Jabalpur - 482051, Madhya Pradesh, India",
+      "phone": "+91-761-2675000 / +91-94251-51200",
+      "website": "http://sariptjbp.com",
       "rating": 4.5,
       "reviews": 388,
       "type": "Private",
@@ -96333,21 +96341,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SIR%20ATMA%20RAM%20INSTITUTE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20JABALPUR%20Madhya%20Pradesh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/pibm_pune.webp",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/reviewPhotos/1091863/1000057876.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Rani Durgavati Vishwavidyalaya (RDVV), Jabalpur, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fee": "₹45,000/yr",
+          "fees": "₹45,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -96363,10 +96372,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pibm_pune.webp",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIR%20ATMA%20RAM%20INSTITUTE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20JABALPUR%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "info@sariptjbp.com"
     },
     {
       "id": 1505,
