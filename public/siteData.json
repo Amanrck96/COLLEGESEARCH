@@ -57220,13 +57220,13 @@
     },
     {
       "id": 858,
-      "name": "RMS BUSINESS SCHOOL GURGAON",
+      "name": "RMS Business School, Gurugram",
       "shortName": "Course Institute-1",
       "location": "GURGAON",
       "state": "Haryana",
-      "address": "VILLAGE TURKAPUR POST BASPADAMKA",
-      "phone": "0123-456789",
-      "website": "https://www.rmsbusinessscho.edu.in",
+      "address": "Village Turkapur, Post Baspadamka, Pataudi / Sector 32 City Campus, Gurugram - 122001, Haryana, India",
+      "phone": "+91-9091454647 / +91-9810112877",
+      "website": "https://rmsbusinessschool.org",
       "rating": 4.5,
       "reviews": 506,
       "type": "Private",
@@ -57244,7 +57244,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gurugram University & Approved by AICTE",
       "courses": [
         {
           "title": "PGDM",
@@ -57271,17 +57271,18 @@
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RMS%20BUSINESS%20SCHOOL%20GURGAON%20GURGAON%20Haryana",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "info@rmsbusinessschool.org"
     },
     {
       "id": 859,
-      "name": "RATTAN INSTITUTE OF MANAGEMENT",
+      "name": "Rattan Institute of Management (RIM), Seekri, Faridabad",
       "shortName": "Course Institute-1",
       "location": "FARIDABAD",
       "state": "Haryana",
-      "address": "VILLAGE HARPHALA",
-      "phone": "0123-456789",
-      "website": "https://www.rattaninstitute.edu.in",
+      "address": "Seekri, Harphala Road, Ballabgarh, Faridabad - 121004, Haryana, India",
+      "phone": "+91-8810676939 / +91-8810676551",
+      "website": "https://rimseekri.org.in",
       "rating": 4.5,
       "reviews": 126,
       "type": "Private",
@@ -57293,13 +57294,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=RATTAN%20INSTITUTE%20OF%20MANAGEMENT%20FARIDABAD%20Haryana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_cu_shah_mumbai.png",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://rattangroup.org.in/wp-content/uploads/2024/04/Rattan-Institute-Of-Management-In-Faridabad.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Maharshi Dayanand University (MDU), Rohtak & Approved by AICTE",
       "courses": [
         {
           "title": "MCA",
@@ -57323,10 +57324,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RATTAN%20INSTITUTE%20OF%20MANAGEMENT%20FARIDABAD%20Haryana",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "info@rimseekri.org.in"
     },
     {
       "id": 860,
@@ -57493,13 +57495,13 @@
     },
     {
       "id": 863,
-      "name": "DELHI INSTITUTE OF MANAGEMENT",
+      "name": "Delhi Institute of Technology, Management & Research (FCEM), Faridabad",
       "shortName": "Course Institute-1",
       "location": "FARIDABAD",
       "state": "Haryana",
-      "address": "VILLAGE FIROZPUR KALAN TEH- BALLABGARH, DISTT-FARIDABAD",
-      "phone": "0123-456789",
-      "website": "https://www.delhiinstituteo.edu.in",
+      "address": "Sohna Road, Village Firozpur Kalan, Ballabgarh, Faridabad - 121004, Haryana, India",
+      "phone": "+91-9205129827 / +91-8851440031",
+      "website": "https://www.fcem.in",
       "rating": 4.5,
       "reviews": 448,
       "type": "Private",
@@ -57511,13 +57513,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DELHI%20INSTITUTE%20OF%20MANAGEMENT%20FARIDABAD%20Haryana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/None/CAMPUS_COVER.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/None/CAMPUS_COVER.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "J.C. Bose University of Science and Technology, YMCA / MDU & Approved by AICTE",
       "courses": [
         {
           "title": "MCA",
@@ -57541,9 +57543,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/CAMPUS_COVER.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DELHI%20INSTITUTE%20OF%20MANAGEMENT%20FARIDABAD%20Haryana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DELHI%20INSTITUTE%20OF%20MANAGEMENT%20FARIDABAD%20Haryana",
+      "email": "fcemfbd@gmail.com"
     },
     {
       "id": 864,
@@ -57765,13 +57768,13 @@
     },
     {
       "id": 868,
-      "name": "MAA OMWATI INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+      "name": "Maa Omwati Institute of Management & Technology (MOIMT), Hassanpur, Palwal",
       "shortName": "Course Institute-1",
       "location": "PALWAL",
       "state": "Haryana",
-      "address": "VPO- HASSANPUR,TEHSIL-HODAL",
-      "phone": "0123-456789",
-      "website": "https://www.maaomwatiinstit.edu.in",
+      "address": "VPO Hassanpur, Tehsil Hodal, Palwal District - 121107, Haryana, India",
+      "phone": "+91-9050654655 / +91-7838381380",
+      "website": "https://www.maaomwati.com",
       "rating": 4.5,
       "reviews": 510,
       "type": "Private",
@@ -57789,7 +57792,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Maharshi Dayanand University (MDU), Rohtak & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -57816,17 +57819,18 @@
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAA%20OMWATI%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20PALWAL%20Haryana",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "administrator1@maaomwati.com"
     },
     {
       "id": 869,
-      "name": "SOIL SCHOOL OF BUSINESS DESIGN",
+      "name": "SOIL School of Business Design (SOIL Institute of Management), Manesar, Gurugram",
       "shortName": "Course Institute-1",
       "location": "GURGAON",
       "state": "Haryana",
-      "address": "PLOT NO. 23, SECTOR 02, PHASE 01",
-      "phone": "0123-456789",
-      "website": "https://www.soilschoolofbus.edu.in",
+      "address": "Plot 23, Sector 2, Phase 1, Institutional Area, IMT Manesar, Gurugram - 122050, Haryana, India",
+      "phone": "+91-9717280018 / +91-9870256660",
+      "website": "https://www.soil.edu.in",
       "rating": 4.5,
       "reviews": 268,
       "type": "Private",
@@ -57838,13 +57842,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SOIL%20SCHOOL%20OF%20BUSINESS%20DESIGN%20GURGAON%20Haryana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://static.wixstatic.com/media/17eeba_146be6bfd50a49ceb26650aa1932a60a~mv2.jpg/v1/fill/w_720,h_328,al_c,lg_1,q_80,enc_auto/17eeba_146be6bfd50a49ceb26650aa1932a60a~mv2.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt of India",
       "courses": [
         {
           "title": "PGDM",
@@ -57868,20 +57872,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SOIL%20SCHOOL%20OF%20BUSINESS%20DESIGN%20GURGAON%20Haryana",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "pgdm@schoolofbusinessdesign.com"
     },
     {
       "id": 870,
-      "name": "JK INSTITUTE OF MANAGEMENT TECHNOLOGY",
+      "name": "JK Institute of Management & Technology (JKIMT), Karnal",
       "shortName": "Course Institute-1",
       "location": "KARNAL",
       "state": "Haryana",
-      "address": "VILL RAMBA, KARNAL",
-      "phone": "0123-456789",
-      "website": "https://www.jkinstituteofma.edu.in",
+      "address": "Indri Road, Near Ramba Chowk (24/11 Mile Stone), Karnal - 132001, Haryana, India",
+      "phone": "+91-9355562120 / +91-9355208000",
+      "website": "https://jkinstitutes.com",
       "rating": 4.5,
       "reviews": 355,
       "type": "Private",
@@ -57893,13 +57898,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=JK%20INSTITUTE%20OF%20MANAGEMENT%20TECHNOLOGY%20KARNAL%20Haryana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/sheila_raheja_bandra.webp",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.admissionmba.in/wp-content/uploads/2018/09/JK-Institute-of-Management-and-technology-Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Kurukshetra University (KUK) & Approved by AICTE",
       "courses": [
         {
           "title": "PGDM",
@@ -57923,10 +57928,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=JK%20INSTITUTE%20OF%20MANAGEMENT%20TECHNOLOGY%20KARNAL%20Haryana",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "info@jkinstitutes.com"
     },
     {
       "id": 871,
@@ -59125,13 +59131,13 @@
     },
     {
       "id": 893,
-      "name": "SARASWATI MAHILA MAHAVIDYALAYA",
+      "name": "Saraswati Mahila Mahavidyalaya (SMM), Palwal",
       "shortName": "Course Institute-1",
       "location": "PALWAL",
       "state": "Haryana",
-      "address": "BYE PASS ROAD, PALWAL",
-      "phone": "0123-456789",
-      "website": "https://www.saraswatimahila.edu.in",
+      "address": "Bye Pass Road / Nuh Road (NH-71B), Palwal - 121102, Haryana, India",
+      "phone": "01275-253319 / +91-9466285533",
+      "website": "https://www.smmpalwal.com",
       "rating": 4.5,
       "reviews": 360,
       "type": "Private",
@@ -59143,13 +59149,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SARASWATI%20MAHILA%20MAHAVIDYALAYA%20PALWAL%20Haryana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/svkm_upg_vileparle.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/16109/2019/5/15/College Buliding of Saraswati Mahila Mahavidyalaya Palwal_Campus-View.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Maharshi Dayanand University (MDU), Rohtak & NAAC Accredited B+ Grade, UGC",
       "courses": [
         {
           "title": "MCA",
@@ -59173,20 +59179,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SARASWATI%20MAHILA%20MAHAVIDYALAYA%20PALWAL%20Haryana",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "saraswatipalwal@gmail.com"
     },
     {
       "id": 894,
-      "name": "PT. L.R. COLLEGE OF MANAGEMENT",
+      "name": "Pt. L.R. College of Management, Ballabgarh, Faridabad",
       "shortName": "Course Institute-1",
       "location": "FARIDABAD",
       "state": "Haryana",
-      "address": "VILL.KABOOLPPUR BANGER,SOHNA SAMAYPUR ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.ptlrcollegeofma.edu.in",
+      "address": "Kaboolpur Bangar, Samaypur Sohna Road, Ballabgarh, Faridabad - 121004, Haryana, India",
+      "phone": "+91-9540028827 / +91-9540028828",
+      "website": "https://ptlrcollege.com",
       "rating": 4.5,
       "reviews": 386,
       "type": "Private",
@@ -59198,13 +59205,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PT.%20L.R.%20COLLEGE%20OF%20MANAGEMENT%20FARIDABAD%20Haryana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://img.jagranjosh.com/images/2024/January/2212024/Campus@1.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://img.jagranjosh.com/images/2024/January/2212024/Campus@1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Maharshi Dayanand University (MDU), Rohtak & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -59228,9 +59235,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://img.jagranjosh.com/images/2024/January/2212024/Campus@1.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20L.R.%20COLLEGE%20OF%20MANAGEMENT%20FARIDABAD%20Haryana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20L.R.%20COLLEGE%20OF%20MANAGEMENT%20FARIDABAD%20Haryana",
+      "email": "ptlrcm@gmail.com"
     },
     {
       "id": 895,
@@ -59451,13 +59459,13 @@
     },
     {
       "id": 899,
-      "name": "SHAHEED CAPT D K KHOLA COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+      "name": "Shaheed Capt. D.K. Khola College of Management and Technology, Zainabad, Rewari",
       "shortName": "Course Institute-1",
       "location": "REWARI",
       "state": "Haryana",
-      "address": "VPO ZAINABAD",
-      "phone": "0123-456789",
-      "website": "https://www.shaheedcaptdkkh.edu.in",
+      "address": "VPO Zainabad, Rewari District - 123411, Haryana, India",
+      "phone": "+91-9416382959 / 01281-248530",
+      "website": "https://www.kholacollege.com",
       "rating": 4.5,
       "reviews": 506,
       "type": "Private",
@@ -59469,13 +59477,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SHAHEED%20CAPT%20D%20K%20KHOLA%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20REWARI%20Haryana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://img.studyclap.com/img/institute/college/773x343/16010/scdkktc-rewari-65ef66559a.png",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://www.klpcollege.ac.in//upload/cms_gallery/63e0968eef173-WhatsApp_Image_2023-02-04_at_4_19_42_PM(4).jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Indira Gandhi University (IGU), Meerpur, Rewari & Approved by AICTE, NCTE",
       "courses": [
         {
           "title": "PGDM",
@@ -59507,19 +59515,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://img.studyclap.com/img/institute/college/773x343/16010/scdkktc-rewari-65ef66559a.png",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHAHEED%20CAPT%20D%20K%20KHOLA%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20REWARI%20Haryana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHAHEED%20CAPT%20D%20K%20KHOLA%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20REWARI%20Haryana",
+      "email": "khola.satish@gmail.com"
     },
     {
       "id": 900,
-      "name": "INDRAPRASTH INSTITUTE OF MANAGEMENT",
+      "name": "Indraprasth Institute of Management (IIMG), Gurugram",
       "shortName": "Course Institute-1",
       "location": "GURGAON",
       "state": "Haryana",
-      "address": "BEHIND AAPNO GHAR , NATIONAL HIGHWAY DELHI-JAIPUR (NH-8)",
-      "phone": "0123-456789",
-      "website": "https://www.indraprasthinst.edu.in",
+      "address": "Indraprasth Aerospace & Knowledge Park, Near Aapno Ghar, Delhi-Jaipur Expressway (NH-8), Sector 77, Gurugram - 122004, Haryana, India",
+      "phone": "+91-8448894230 / +91-8448894231 / +91-9319208927",
+      "website": "http://www.iimgurgaon.com",
       "rating": 4.5,
       "reviews": 468,
       "type": "Private",
@@ -59531,13 +59540,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INDRAPRASTH%20INSTITUTE%20OF%20MANAGEMENT%20GURGAON%20Haryana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15176544414.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/campusimage/15176544414.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt of India",
       "courses": [
         {
           "title": "PGDM",
@@ -59561,9 +59570,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15176544414.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDRAPRASTH%20INSTITUTE%20OF%20MANAGEMENT%20GURGAON%20Haryana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDRAPRASTH%20INSTITUTE%20OF%20MANAGEMENT%20GURGAON%20Haryana",
+      "email": "admission@iimgurgaon.com"
     },
     {
       "id": 901,
@@ -59839,13 +59849,13 @@
     },
     {
       "id": 906,
-      "name": "VINAYAK INSTITUTE OF MANAGEMENT",
+      "name": "Vinayak Institute of Management (VIPM), Kachwa, Karnal",
       "shortName": "Course Institute-1",
       "location": "KARNAL",
       "state": "Haryana",
-      "address": "VPO. KACHWA, MAIN PATIYALA ROAD, DISTT. KARNAL",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=VINAYAK%20INSTITUTE%20OF%20MANAGEMENT%20KARNAL%20Haryana%20official%20website",
+      "address": "VPO Kachwa, Main Patiala Road, Karnal - 132001, Haryana, India",
+      "phone": "+91-9215060456",
+      "website": "https://www.vipmknl.com",
       "rating": 4.5,
       "reviews": 269,
       "type": "Private",
@@ -59857,13 +59867,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=VINAYAK%20INSTITUTE%20OF%20MANAGEMENT%20KARNAL%20Haryana",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/banner4_FrGZeDi.png?width=1080",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/banner4_FrGZeDi.png?width=1080",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Kurukshetra University (KUK) & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -59887,9 +59897,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/banner4_FrGZeDi.png?width=1080",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VINAYAK%20INSTITUTE%20OF%20MANAGEMENT%20KARNAL%20Haryana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VINAYAK%20INSTITUTE%20OF%20MANAGEMENT%20KARNAL%20Haryana",
+      "email": "vcpknl@gmail.com"
     },
     {
       "id": 907,
@@ -64599,13 +64610,13 @@
     },
     {
       "id": 985,
-      "name": "XAVIER INSTITUTE OF MANAGEMENT AND INFORMATICS",
+      "name": "Xavier Institute of Management and Informatics (XIMI), Jaipur",
       "shortName": "Course Institute-1",
       "location": "JAIPUR",
       "state": "Rajasthan",
-      "address": "NEVTA-MAHAPURA ROAD, JAIPUR",
-      "phone": "0123-456789",
-      "website": "https://www.xavierinstitute.edu.in",
+      "address": "Nevta-Mahapura Road, Nevta, Jaipur - 302029, Rajasthan, India",
+      "phone": "+91 73000 72736 / +91 73000 42736",
+      "website": "https://ximi.ac.in",
       "rating": 4.5,
       "reviews": 378,
       "type": "Private",
@@ -64617,13 +64628,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=XAVIER%20INSTITUTE%20OF%20MANAGEMENT%20AND%20INFORMATICS%20JAIPUR%20Rajasthan",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://ximi.ac.in/wp-content/uploads/2023/12/Xaviers-Building-with-Statue.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://ximi.ac.in/wp-content/uploads/2023/12/Xaviers-Building-with-Statue.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Rajasthan Technical University (RTU), Kota & Approved by AICTE",
       "courses": [
         {
           "title": "MCA",
@@ -64647,9 +64658,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://ximi.ac.in/wp-content/uploads/2023/12/Xaviers-Building-with-Statue.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=XAVIER%20INSTITUTE%20OF%20MANAGEMENT%20AND%20INFORMATICS%20JAIPUR%20Rajasthan"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=XAVIER%20INSTITUTE%20OF%20MANAGEMENT%20AND%20INFORMATICS%20JAIPUR%20Rajasthan",
+      "email": "admission.mba@ximi.ac.in"
     },
     {
       "id": 986,
@@ -65142,13 +65154,13 @@
     },
     {
       "id": 995,
-      "name": "PODDAR BUSINESS SCHOOL",
+      "name": "Poddar Business School, Sitapura, Jaipur",
       "shortName": "Course Institute-1",
       "location": "JAIPUR",
       "state": "Rajasthan",
-      "address": "PLOT NO. IS 2017 INDUSTRIAL AREA RAMCHANDRAPURA SITAPURA EXTENSION JAIPUR 302022",
-      "phone": "0123-456789",
-      "website": "https://www.poddarbusinesss.edu.in",
+      "address": "Plot No. IS-2017, Ramchandrapura Industrial Area, Sitapura Extension, Jaipur - 302022, Rajasthan, India",
+      "phone": "+91-8905995970 / +91-9116038880",
+      "website": "https://www.poddarbschool.com",
       "rating": 4.5,
       "reviews": 104,
       "type": "Private",
@@ -65166,7 +65178,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Rajasthan Technical University (RTU), Kota & Approved by AICTE",
       "courses": [
         {
           "title": "PGDM",
@@ -65193,7 +65205,8 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PODDAR%20BUSINESS%20SCHOOL%20JAIPUR%20Rajasthan",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "admissions@poddarbschool.com"
     },
     {
       "id": 996,
@@ -67535,13 +67548,13 @@
     },
     {
       "id": 1039,
-      "name": "TAXILA BUSINESS SCHOOL",
+      "name": "Taxila Business School, Mansarovar, Jaipur",
       "shortName": "Course Institute-1",
       "location": "JAIPUR",
       "state": "Rajasthan",
-      "address": "SECTOR 9, MANDIR MARG, PATEL MARG, MANSAROVAR",
-      "phone": "0123-456789",
-      "website": "https://www.taxilabusinesss.edu.in",
+      "address": "Sector 9, Mandir Marg, Patel Marg, Mansarovar, Jaipur - 302020, Rajasthan, India",
+      "phone": "+91 8404040404",
+      "website": "https://taxila.in",
       "rating": 4.5,
       "reviews": 55,
       "type": "Private",
@@ -67553,13 +67566,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=TAXILA%20BUSINESS%20SCHOOL%20JAIPUR%20Rajasthan",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/gnims_matunga.png",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.admissionmba.in/wp-content/uploads/2016/04/Taxila-Business-School-Jaipur-Admission-2019.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt of India",
       "courses": [
         {
           "title": "PGDM",
@@ -67583,10 +67596,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/gnims_matunga.png",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=TAXILA%20BUSINESS%20SCHOOL%20JAIPUR%20Rajasthan",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "info@taxila.in"
     },
     {
       "id": 1040,
@@ -68190,13 +68204,13 @@
     },
     {
       "id": 1051,
-      "name": "SHANKARA INTERNATIONAL SCHOOL OF MANAGEMENT AND RESEARCH",
+      "name": "Shankara International School of Management & Research (SISMR), Kukas, Jaipur",
       "shortName": "Course Institute-1",
       "location": "JAIPUR",
       "state": "Rajasthan",
-      "address": "SP-41-C RICCO INDUSTRIAL AREA KUKAS",
-      "phone": "0123-456789",
-      "website": "https://www.shankarainterna.edu.in",
+      "address": "SP-41-C, RIICO Industrial Area, Kukas, Delhi-Jaipur Highway (NH-8), Jaipur - 302028, Rajasthan, India",
+      "phone": "+91-9829269277 / 1800-300-20-177",
+      "website": "https://shankaragroup.org",
       "rating": 4.5,
       "reviews": 111,
       "type": "Private",
@@ -68208,13 +68222,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SHANKARA%20INTERNATIONAL%20SCHOOL%20OF%20MANAGEMENT%20AND%20RESEARCH%20JAIPUR%20Rajasthan",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.pgdm.college/wp-content/uploads/2019/09/sgi-jaipur-campus-810x391.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Rajasthan Technical University (RTU), Kota & Approved by AICTE",
       "courses": [
         {
           "title": "MBA",
@@ -68238,10 +68252,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bangalore_university.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHANKARA%20INTERNATIONAL%20SCHOOL%20OF%20MANAGEMENT%20AND%20RESEARCH%20JAIPUR%20Rajasthan",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "info@shankaratechnology.org"
     },
     {
       "id": 1052,
@@ -68680,16 +68695,16 @@
     },
     {
       "id": 1060,
-      "name": "CH. CHARAN SINGH NATIONAL INSTITUTE OF AGRICULTURAL MARKETING",
+      "name": "Chaudhary Charan Singh National Institute of Agricultural Marketing (CCS NIAM), Jaipur",
       "shortName": "Course Institute-1",
       "location": "JAIPUR",
       "state": "Rajasthan",
-      "address": "DIRECTOR GENERAL CH. CHARAN SINGH NATIONAL INSTITUTE OF AGRICULTURAL MARKETING, KOTA ROAD, BAMBALA, NEAR SANGANEER",
-      "phone": "0123-456789",
-      "website": "https://www.chcharansinghna.edu.in",
+      "address": "Kota Road, Bambala, Pratap Nagar, Sanganer, Jaipur - 302033, Rajasthan, India",
+      "phone": "0141-2770027 / 0141-2771938",
+      "website": "https://ccsniam.gov.in",
       "rating": 4.5,
       "reviews": 146,
-      "type": "Private",
+      "type": "Public/Government (Autonomous Central Government Institute)",
       "about": "Welcome to CH. CHARAN SINGH NATIONAL INSTITUTE OF AGRICULTURAL MARKETING, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 9,
       "facebook": "#",
@@ -68698,13 +68713,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CH.%20CHARAN%20SINGH%20NATIONAL%20INSTITUTE%20OF%20AGRICULTURAL%20MARKETING%20JAIPUR%20Rajasthan",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1451026363college-image.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/campusimage/1451026363college-image.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Ministry of Agriculture & Farmers Welfare, Govt of India & Approved by AICTE",
       "courses": [
         {
           "title": "PGDM(AGRI BUSINESS MANAGEMENT)",
@@ -68728,9 +68743,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1451026363college-image.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CH.%20CHARAN%20SINGH%20NATIONAL%20INSTITUTE%20OF%20AGRICULTURAL%20MARKETING%20JAIPUR%20Rajasthan"
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CH.%20CHARAN%20SINGH%20NATIONAL%20INSTITUTE%20OF%20AGRICULTURAL%20MARKETING%20JAIPUR%20Rajasthan",
+      "email": "info@ccsniam.ac.in"
     },
     {
       "id": 1061,
@@ -71282,13 +71298,13 @@
     },
     {
       "id": 1093,
-      "name": "CHAMPARAN COLLEGE OF PROFESSIONAL EDUCATION",
+      "name": "Champaran College of Professional Education (CCPE), Ghorasahan",
       "shortName": "Course Institute-1",
       "location": "EAST CHAMPARAN",
       "state": "Bihar",
-      "address": "PURNAHYIA,GHORASAHAN",
-      "phone": "0123-456789",
-      "website": "https://www.champarancolleg.edu.in",
+      "address": "Purnahiya, Ghorasahan, Dhaka, East Champaran - 845303, Bihar, India",
+      "phone": "+91-9115557000 / +91-8292913129",
+      "website": "https://ccpeus.com",
       "rating": 4.9,
       "reviews": 1840,
       "type": "Private",
@@ -71300,7 +71316,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CHAMPARAN%20COLLEGE%20OF%20PROFESSIONAL%20EDUCATION%20EAST%20CHAMPARAN%20Bihar",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_cu_shah_mumbai.png",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.champarancollege.com/images/slide/2.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -71334,10 +71350,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1840,
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHAMPARAN%20COLLEGE%20OF%20PROFESSIONAL%20EDUCATION%20EAST%20CHAMPARAN%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "collegeccpe@gmail.com",
+      "affiliation": "Aryabhatta Knowledge University (AKU), Patna & Approved by AICTE, PCI"
     },
     {
       "id": 1094,
@@ -71692,13 +71710,13 @@
     },
     {
       "id": 1100,
-      "name": "RUNGTA INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+      "name": "Rungta Institute of Technology and Management (RITM), Forbesganj",
       "shortName": "Course Institute-1",
       "location": "ARARIA",
       "state": "Bihar",
-      "address": "NEAR BLOCK OFFICE FORBESGANJ, ARARIA, BIHAR, PIN-854318",
-      "phone": "0123-456789",
-      "website": "https://www.rungtainstitute.edu.in",
+      "address": "Near Block Office, Forbesganj, Araria District - 854318, Bihar, India",
+      "phone": "+91-8539984499 / 06455-222006",
+      "website": "https://www.ritm.ac.in",
       "rating": 4.6,
       "reviews": 1046,
       "type": "Private",
@@ -71710,7 +71728,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=RUNGTA%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20ARARIA%20Bihar",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_cu_shah_mumbai.png",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://campusin.com/wp-content/uploads/RCET-RGI-Bhilai-Hero-Banner.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
@@ -71744,10 +71762,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1046,
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RUNGTA%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20ARARIA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "admissions@ritm.ac.in",
+      "affiliation": "Bihar Engineering University (BEU), Patna & SBTE Bihar, Approved by AICTE"
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/darbhanga-college-of-engineering-bihar-other-40917",
@@ -73762,13 +73782,13 @@
     },
     {
       "id": 1125,
-      "name": "MAMTA INSTITUTE OF EDUCATION",
+      "name": "Mamta Institute of Education (MIE), Daraundha, Siwan",
       "shortName": "Course Institute-1",
       "location": "SIWAN",
       "state": "Bihar",
-      "address": "CHINTAMANPUR, DARAUNDHA, SIWAN",
-      "phone": "0123-456789",
-      "website": "https://www.mamtainstituteo.edu.in",
+      "address": "Chintamanpur, Daraundha, Siwan - 841404, Bihar, India",
+      "phone": "+91-8102916973 / +91-9386806864",
+      "website": "https://mieedu.in",
       "rating": 4.5,
       "reviews": 1353,
       "type": "Private",
@@ -73780,7 +73800,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MAMTA%20INSTITUTE%20OF%20EDUCATION%20SIWAN%20Bihar",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1710224352download35.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/appImage/1710224352download35.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -73823,9 +73843,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1353,
-      "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1710224352download35.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAMTA%20INSTITUTE%20OF%20EDUCATION%20SIWAN%20Bihar"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAMTA%20INSTITUTE%20OF%20EDUCATION%20SIWAN%20Bihar",
+      "email": "aihepatna@gmail.com",
+      "affiliation": "Aryabhatta Knowledge University (AKU) / SBTE Bihar & Approved by AICTE"
     },
     {
       "id": 1126,
@@ -73943,13 +73965,13 @@
     },
     {
       "id": 1128,
-      "name": "INSTITUTE OF MANAGEMENT AND PLANNING AND ADVANCED COMPUTER TRAINING",
+      "name": "Institute of Management and Planning and Advanced Computer Training (IMPACT College), Patna",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "LANKA KACHHUARA, ALABAKSHPUR, SAMPATCHAK, GAURICHAK, PATNA",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofmana.edu.in",
+      "address": "Gaurichak, Sampatchak / Shyam Arcade, Bailey Road, Patna - 800007, Bihar, India",
+      "phone": "+91-9570383838 / +91-7280043230",
+      "website": "https://www.impactcollege.edu.in",
       "rating": 4.5,
       "reviews": 368,
       "type": "Private",
@@ -73961,13 +73983,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20AND%20PLANNING%20AND%20ADVANCED%20COMPUTER%20TRAINING%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://img.studyclap.com/img/institute/college/773x343/22163/impact-patna-643a77554b.png",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://img.studyclap.com/img/institute/college/773x343/22163/impact-patna-643a77554b.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Aryabhatta Knowledge University (AKU), Patna & Approved by AICTE, Govt of Bihar",
       "courses": [
         {
           "title": "MCA",
@@ -73991,9 +74013,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://img.studyclap.com/img/institute/college/773x343/22163/impact-patna-643a77554b.png",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20AND%20PLANNING%20AND%20ADVANCED%20COMPUTER%20TRAINING%20PATNA%20Bihar"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20AND%20PLANNING%20AND%20ADVANCED%20COMPUTER%20TRAINING%20PATNA%20Bihar",
+      "email": "info@impactcollege.in"
     },
     {
       "id": 1129,
@@ -74434,13 +74457,13 @@
     },
     {
       "id": 1137,
-      "name": "MAGADH PROFESSIONAL INSTITUTE",
+      "name": "Magadh Professional Institute (MPI), Nasriganj, Patna",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "NASRIGANJ",
-      "phone": "0123-456789",
-      "website": "https://www.magadhprofessio.edu.in",
+      "address": "Nasriganj, Danapur, Patna - 800012, Bihar, India",
+      "phone": "+91 6202535382 / +91 7004336634",
+      "website": "https://mpipatna.com",
       "rating": 4.5,
       "reviews": 77,
       "type": "Private",
@@ -74452,13 +74475,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MAGADH%20PROFESSIONAL%20INSTITUTE%20PATNA%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/dashboard_upload/1775309806_IMG_8955.JPG",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/dashboard_upload/1775309806_IMG_8955.JPG",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Aryabhatta Knowledge University (AKU), Patna & Approved by AICTE",
       "courses": [
         {
           "title": "MBA (FINANCE)",
@@ -74482,9 +74505,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/dashboard_upload/1775309806_IMG_8955.JPG",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAGADH%20PROFESSIONAL%20INSTITUTE%20PATNA%20Bihar"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAGADH%20PROFESSIONAL%20INSTITUTE%20PATNA%20Bihar",
+      "email": "info@mpipatna.com"
     },
     {
       "id": 1138,
@@ -74598,13 +74622,13 @@
     },
     {
       "id": 1140,
-      "name": "NARAYANA ACADEMY OF MANAGERIAL EXCELLENCE",
+      "name": "Narayan Academy of Managerial Excellence (Faculty of Management Studies, GNSU), Jamuhar",
       "shortName": "Course Institute-1",
       "location": "ROHTAS",
       "state": "Bihar",
-      "address": "VILL+PO:JAMUHAR OLD GT ROAD PS: DEHRI ON SONE, DIST-ROHTAS PIN: 821305",
-      "phone": "0123-456789",
-      "website": "https://www.narayanaacademy.edu.in",
+      "address": "Old GT Road, Village & Post Jamuhar, Dehri-on-Sone, Rohtas District - 821305, Bihar, India",
+      "phone": "1800-121-0051 / +91-9431899002",
+      "website": "https://gnsu.ac.in",
       "rating": 4.5,
       "reviews": 229,
       "type": "Private",
@@ -74616,13 +74640,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20ACADEMY%20OF%20MANAGERIAL%20EXCELLENCE%20ROHTAS%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bangalore_university.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://narayanagroup.com/optimised-images/pages/nsports/hero/banner-sm.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gopal Narayan Singh University (GNSU) & Approved by AICTE, UGC",
       "courses": [
         {
           "title": "MBA(AGRI BUSINESS MANAGEMENT/ ENTREPRENEURSHIP)",
@@ -74646,10 +74670,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bangalore_university.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NARAYANA%20ACADEMY%20OF%20MANAGERIAL%20EXCELLENCE%20ROHTAS%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "info@gnsu.ac.in"
     },
     {
       "id": 1141,
@@ -76128,13 +76153,13 @@
     },
     {
       "id": 1168,
-      "name": "GANGA GLOBAL INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Ganga Global Institute of Management Studies (GGIMS), Begusarai",
       "shortName": "Course Institute-1",
       "location": "BEGUSARAI",
       "state": "Bihar",
-      "address": "GANGA GLOBAL GYAN PARISAR, RAMZANPUR, NH-31, NEAR GANGA DAIRY, BEGUSARAI, 851129",
-      "phone": "0123-456789",
-      "website": "https://www.gangaglobalinst.edu.in",
+      "address": "Ganga Global Gyan Parisar, NH-31, Ramzanpur (Near Ganga Dairy), Begusarai - 851129, Bihar, India",
+      "phone": "+91-9031835532 / +91-7870702200",
+      "website": "https://www.ggims.ac.in",
       "rating": 4.5,
       "reviews": 333,
       "type": "Private",
@@ -76146,13 +76171,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GANGA%20GLOBAL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20BEGUSARAI%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/ganga-global-institute-of-management-studies-begusarai-307771.webp",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/ganga-global-institute-of-management-studies-begusarai-307771.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Aryabhatta Knowledge University (AKU), Patna & Approved by AICTE",
       "courses": [
         {
           "title": "MCA",
@@ -76176,9 +76201,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/ganga-global-institute-of-management-studies-begusarai-307771.webp",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GANGA%20GLOBAL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20BEGUSARAI%20Bihar"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GANGA%20GLOBAL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20BEGUSARAI%20Bihar",
+      "email": "info@ggims.ac.in"
     },
     {
       "id": 1169,
@@ -76672,13 +76698,13 @@
     },
     {
       "id": 1178,
-      "name": "CHANAKYA INSTITUTE OF MANAGEMENT AND HIGHER STUDIES",
+      "name": "Chanakya Institute of Management and Higher Studies (CIMHS), Koilwar",
       "shortName": "Course Institute-1",
       "location": "BHOJPUR",
       "state": "Bihar",
-      "address": "KOILWAR, BHOJPUR",
-      "phone": "0123-456789",
-      "website": "https://www.chanakyainstitu.edu.in",
+      "address": "Chanakya Nagar, Back of CRPF Camp, Post Koilwar, Bhojpur District - 802160, Bihar, India",
+      "phone": "+91-7070990871 / +91-7070990872",
+      "website": "http://www.cimhs.in",
       "rating": 4.5,
       "reviews": 535,
       "type": "Private",
@@ -76696,7 +76722,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Aryabhatta Knowledge University (AKU), Patna & Approved by AICTE",
       "courses": [
         {
           "title": "MBA (HUMAN RESOURCE MANAGEMENT)",
@@ -76723,7 +76749,8 @@
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHANAKYA%20INSTITUTE%20OF%20MANAGEMENT%20AND%20HIGHER%20STUDIES%20BHOJPUR%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "email": "info@cimhs.in"
     },
     {
       "id": 1179,
@@ -76781,13 +76808,13 @@
     },
     {
       "id": 1180,
-      "name": "SNB COLLEGE OF PHARMACY AND MANAGEMENT",
+      "name": "SNB College of Pharmacy and Management, Bihta, Patna",
       "shortName": "Course Institute-1",
       "location": "PATNA",
       "state": "Bihar",
-      "address": "AT- AMHARA, PS- BIHTA, DISTRIC-PATNA, BIHAR-801118",
-      "phone": "0123-456789",
-      "website": "https://www.snbcollegeofpha.edu.in",
+      "address": "SNB Nagar, Amhara, Bihta, Patna - 801118, Bihar, India",
+      "phone": "+91 9939004752 / +91 9931231197",
+      "website": "https://snbcollege.com",
       "rating": 4.5,
       "reviews": 320,
       "type": "Private",
@@ -76805,7 +76832,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Aryabhatta Knowledge University (AKU), Patna & Approved by AICTE, PCI",
       "courses": [
         {
           "title": "PGDM (FINANCE)",
@@ -76832,7 +76859,8 @@
       "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SNB%20COLLEGE%20OF%20PHARMACY%20AND%20MANAGEMENT%20PATNA%20Bihar",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "email": "admissions.snb@gmail.com"
     },
     {
       "id": 1181,
@@ -77878,13 +77906,13 @@
     },
     {
       "id": 1200,
-      "name": "ACADEMY OF PHARMACY MEDICAL AND MANAGEMENT STUDIES",
+      "name": "Academy of Pharmacy Medical and Management Studies (APMMS), Koilwar",
       "shortName": "Course Institute-1",
       "location": "BHOJPUR",
       "state": "Bihar",
-      "address": "KOILWAR, BHOJPUR",
-      "phone": "0123-456789",
-      "website": "https://www.academyofpharma.edu.in",
+      "address": "Koilwar, Bandh Par, Bhojpur District - 802160, Bihar, India",
+      "phone": "+91-7070094532 / +91-7070094533",
+      "website": "https://apmms.in",
       "rating": 4.5,
       "reviews": 393,
       "type": "Private",
@@ -77896,13 +77924,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ACADEMY%20OF%20PHARMACY%20MEDICAL%20AND%20MANAGEMENT%20STUDIES%20BHOJPUR%20Bihar",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/chanakya-college-of-pharmacy-and-medical-sciences.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.studyplaces.co.in/wp-content/uploads/2021/06/chanakya-college-of-pharmacy-and-medical-sciences.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Aryabhatta Knowledge University (AKU), Patna & Approved by AICTE, PCI",
       "courses": [
         {
           "title": "PGDM (HOSPITAL MANAGEMENT)",
@@ -77926,9 +77954,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/chanakya-college-of-pharmacy-and-medical-sciences.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ACADEMY%20OF%20PHARMACY%20MEDICAL%20AND%20MANAGEMENT%20STUDIES%20BHOJPUR%20Bihar"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ACADEMY%20OF%20PHARMACY%20MEDICAL%20AND%20MANAGEMENT%20STUDIES%20BHOJPUR%20Bihar",
+      "email": "academypmms@gmail.com"
     },
     {
       "id": 1201,
@@ -78511,13 +78540,13 @@
     },
     {
       "id": 1211,
-      "name": "DC SCHOOL OF MANAGEMENT AND TECHNOLOGY",
+      "name": "DC School of Management and Technology (DCSMAT), Vagamon",
       "shortName": "Course Institute-1",
       "location": "IDUKKI",
       "state": "Kerala",
-      "address": "ONE SCHOOL AVENUE, PULLIKKANAM, VAGAMON",
-      "phone": "0123-456789",
-      "website": "https://www.dcschoolofmanag.edu.in",
+      "address": "One School Avenue, Pullikkanam P.O., Vagamon, Idukki District - 685503, Kerala, India",
+      "phone": "+91 729 009 2218 / +91 984 693 5777",
+      "website": "https://dcschool.net",
       "rating": 4.6,
       "reviews": 1678,
       "type": "Private",
@@ -78529,7 +78558,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DC%20SCHOOL%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20IDUKKI%20Kerala",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/dc-school-of-management-technology-vagamon-idukki-263133.webp",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/dc-school-of-management-technology-vagamon-idukki-263133.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -78563,9 +78592,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1678,
-      "image": "https://www.collegebatch.com/static/clg-gallery/dc-school-of-management-technology-vagamon-idukki-263133.webp",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DC%20SCHOOL%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20IDUKKI%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DC%20SCHOOL%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20IDUKKI%20Kerala",
+      "email": "info@dcschool.net",
+      "affiliation": "Mahatma Gandhi University (MGU), Kottayam & Approved by AICTE"
     },
     {
       "id": 1212,
@@ -80745,16 +80776,16 @@
     },
     {
       "id": 1239,
-      "name": "INSTITUTE OF LAND AND DISASTER MANAGEMENT",
+      "name": "Institute of Land and Disaster Management (ILDM), Thiruvananthapuram",
       "shortName": "Course Institute-1",
       "location": "THIRUVANANTHAPURAM",
       "state": "Kerala",
-      "address": "ILDM CAMPUS, PTP NAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofland.edu.in",
+      "address": "ILDM Campus, PTP Nagar, Thiruvananthapuram - 695038, Kerala, India",
+      "phone": "+91 471 2365559 / +91 85476 10005",
+      "website": "https://ildm.kerala.gov.in",
       "rating": 4.5,
       "reviews": 56,
-      "type": "Private",
+      "type": "Public/Government (State Government Autonomous Institute)",
       "about": "Welcome to INSTITUTE OF LAND AND DISASTER MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 52,
       "facebook": "#",
@@ -80763,13 +80794,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20LAND%20AND%20DISASTER%20MANAGEMENT%20THIRUVANANTHAPURAM%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/gnims_matunga.png",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.mycampusadmission.com/aaamydashboard/html/images/1742362401_666.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Kerala & Approved by AICTE, Govt of Kerala",
       "courses": [
         {
           "title": "MBA (DISASTER MANAGEMENT)",
@@ -80793,10 +80824,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/gnims_matunga.png",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_7.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20LAND%20AND%20DISASTER%20MANAGEMENT%20THIRUVANANTHAPURAM%20Kerala",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "mba.ildm@kerala.gov.in"
     },
     {
       "id": 1240,
@@ -80910,13 +80942,13 @@
     },
     {
       "id": 1242,
-      "name": "PRAYAGA INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Prayaga Institute of Management Studies (Prayaga Foundation), Palakkad",
       "shortName": "Course Institute-1",
       "location": "PALAKKAD",
       "state": "Kerala",
-      "address": "PNT COMPLEX , CHIRAKKAD , KUNNATHURMEDU",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=PRAYAGA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20PALAKKAD%20Kerala%20official%20website",
+      "address": "PNT Complex, Chirakkad, Bava Nagar, Kunnathurmedu, Palakkad - 678013, Kerala, India",
+      "phone": "+91-9995217298 / 0491-2932630",
+      "website": "https://www.prayaga.co.in",
       "rating": 4.5,
       "reviews": 404,
       "type": "Private",
@@ -80928,13 +80960,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PRAYAGA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20PALAKKAD%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://campusways.com/wp-content/uploads/2025/06/pic-3.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://campusways.com/wp-content/uploads/2025/06/pic-3.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Calicut & Approved by AICTE",
       "courses": [
         {
           "title": "PGDM (BUSINESS ANALYTICS)",
@@ -80958,19 +80990,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://campusways.com/wp-content/uploads/2025/06/pic-3.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRAYAGA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20PALAKKAD%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRAYAGA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20PALAKKAD%20Kerala",
+      "email": "info@prayaga.co.in"
     },
     {
       "id": 1243,
-      "name": "PMA SAFI HUMAN RESOURCES INSTITUTE",
+      "name": "PMA SAFI Human Resources Institute, Vazhayoor, Malappuram",
       "shortName": "Course Institute-1",
       "location": "MALAPPURAM",
       "state": "Kerala",
-      "address": "RASIYA NAGAR, VAZHAYUR EAST PO , RAMANATTUKARA VIA",
-      "phone": "0123-456789",
-      "website": "https://www.pmasafihumanres.edu.in",
+      "address": "Rasiya Nagar, Vazhayoor East P.O., Ramanattukara via, Malappuram / Kozhikode - 673633, Kerala, India",
+      "phone": "+91 8089456342 / 0483-2891666",
+      "website": "https://safihr.edu.in",
       "rating": 4.5,
       "reviews": 507,
       "type": "Private",
@@ -80982,13 +81015,13 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PMA%20SAFI%20HUMAN%20RESOURCES%20INSTITUTE%20MALAPPURAM%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://safihr.edu.in/static/images/institutions/safi-college.jpeg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://safihr.edu.in/static/images/institutions/safi-college.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt of India",
       "courses": [
         {
           "title": "PGDM (MANAGEMENT)",
@@ -81012,9 +81045,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://safihr.edu.in/static/images/institutions/safi-college.jpeg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PMA%20SAFI%20HUMAN%20RESOURCES%20INSTITUTE%20MALAPPURAM%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PMA%20SAFI%20HUMAN%20RESOURCES%20INSTITUTE%20MALAPPURAM%20Kerala",
+      "email": "admissions@safihr.in"
     },
     {
       "id": 1244,
@@ -81128,16 +81162,16 @@
     },
     {
       "id": 1246,
-      "name": "LEAD COLLEGE",
+      "name": "LEAD College (Autonomous), Dhoni, Palakkad",
       "shortName": "Course Institute-1",
       "location": "PALAKKAD",
       "state": "Kerala",
-      "address": "DHONI",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=LEAD%20COLLEGE%20official%20website%20PALAKKAD%20Kerala",
+      "address": "Dhoni P.O., Palakkad - 678009, Kerala, India",
+      "phone": "+91 9497713693 / 0491-3036600",
+      "website": "https://www.lead.ac.in",
       "rating": 4.5,
       "reviews": 183,
-      "type": "Private",
+      "type": "Private (Autonomous Institute)",
       "about": "Welcome to LEAD COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 96,
       "facebook": "#",
@@ -81146,21 +81180,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=LEAD%20COLLEGE%20PALAKKAD%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/lead-college-of-management-palakkad-234494.webp",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/lead-college-of-management-palakkad-234494.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Calicut & Approved by AICTE, NAAC A+ Accredited",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "fee": "₹3,50,000/yr",
+          "seats": 180
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -81176,9 +81208,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/lead-college-of-management-palakkad-234494.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LEAD%20COLLEGE%20PALAKKAD%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LEAD%20COLLEGE%20PALAKKAD%20Kerala",
+      "email": "info@lead.ac.in"
     },
     {
       "id": 1247,
@@ -81506,16 +81539,16 @@
     },
     {
       "id": 1253,
-      "name": "G KARUNAKARAN MEMORIAL CO-OPERATIVE COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+      "name": "G. Karunakaran Memorial Co-operative College of Management and Technology (GKMCCMT), Karakulam",
       "shortName": "Course Institute-1",
       "location": "THIRUVANANTHAPURAM",
       "state": "Kerala",
-      "address": "P B NO: 5, KAKKODE, KARAKULAM P O",
-      "phone": "0123-456789",
-      "website": "https://www.gkarunakaranmem.edu.in",
+      "address": "P.B. No. 5, Kakkode, Karakulam P.O., Aruvikkara Road, Thiruvananthapuram - 695564, Kerala, India",
+      "phone": "+91 7559887399 / 0472-2887399",
+      "website": "https://gkmccmt.in",
       "rating": 4.5,
       "reviews": 282,
-      "type": "Private",
+      "type": "Private (Co-operative Sector Managed)",
       "about": "Welcome to G KARUNAKARAN MEMORIAL CO-OPERATIVE COLLEGE OF MANAGEMENT AND TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 79,
       "facebook": "#",
@@ -81524,21 +81557,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=G%20KARUNAKARAN%20MEMORIAL%20CO-OPERATIVE%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20THIRUVANANTHAPURAM%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/chetana_bandra.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba/gkarunakaran-memorial-co-operative-college-of-management-and-technology-main-building.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Kerala & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹1,20,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -81554,10 +81585,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=G%20KARUNAKARAN%20MEMORIAL%20CO-OPERATIVE%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20THIRUVANANTHAPURAM%20Kerala",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "directorgkmccmt@gmail.com"
     },
     {
       "id": 1254,
@@ -81831,13 +81863,13 @@
     },
     {
       "id": 1259,
-      "name": "RAMS KUZHUPPILLY",
+      "name": "Rural Academy for Management Studies (RAMS by CRAFT), Kuzhuppilly, Kochi",
       "shortName": "Course Institute-1",
       "location": "ERNAKULAM",
       "state": "Kerala",
-      "address": "RURAL ACADEMY FOR MANAGEMENT STUDIES (RAMS KUZHUPPILLY), KUZHUPPILLY AYYAMPILLY P O PIN 682501",
-      "phone": "0123-456789",
-      "website": "https://www.ramskuzhuppilly.edu.in",
+      "address": "Kuzhuppilly, Ayyampilly P.O., Kochi, Ernakulam District - 682501, Kerala, India",
+      "phone": "+91 9061519222 / 0484-2417444",
+      "website": "https://ramsbschool.org",
       "rating": 4.5,
       "reviews": 498,
       "type": "Private",
@@ -81855,15 +81887,13 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Mahatma Gandhi University (MGU), Kottayam & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹1,15,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -81881,7 +81911,8 @@
       ],
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAMS%20KUZHUPPILLY%20ERNAKULAM%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAMS%20KUZHUPPILLY%20ERNAKULAM%20Kerala",
+      "email": "admin@ramsbschool.org"
     },
     {
       "id": 1260,
@@ -82537,13 +82568,13 @@
     },
     {
       "id": 1272,
-      "name": "GURUDEV INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Gurudev Institute of Management Studies (GIMS), Kadakkal, Kollam",
       "shortName": "Course Institute-1",
       "location": "KOLLAM",
       "state": "Kerala",
-      "address": "GURUDEV INSTITUTE OF MANAGEMENT STUDIES (GIMS), KOTTARPURAM, KADAKKAL, ELAMPAZHANNOOR P.O, KADAKKAL.",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=GURUDEV%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KOLLAM%20Kerala%20official%20website",
+      "address": "Kottapuram, Kadakkal, Elampazhannoor P.O., Kollam District - 691536, Kerala, India",
+      "phone": "+91 70127 01752 / 0474-2424594",
+      "website": "http://gimskerala.in",
       "rating": 4.5,
       "reviews": 61,
       "type": "Private",
@@ -82555,21 +82586,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GURUDEV%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KOLLAM%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1452938657gims.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/campusimage/1452938657gims.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Kerala & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 45
+          "fee": "₹95,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -82585,9 +82614,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1452938657gims.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GURUDEV%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KOLLAM%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GURUDEV%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KOLLAM%20Kerala",
+      "email": "gimdskdl@gmail.com"
     },
     {
       "id": 1273,
@@ -82755,13 +82785,13 @@
     },
     {
       "id": 1276,
-      "name": "MARIAN ACADEMY OF MANAGEMENT STUDIES",
+      "name": "Marian Academy of Management Studies (MAMS), Kothamangalam",
       "shortName": "Course Institute-1",
       "location": "ERNAKULAM",
       "state": "Kerala",
-      "address": "PUTHUPPADY P.O KOTHAMANGALAM MUVATTUPUZHA(VIA) ERNAKULAM KERALA",
-      "phone": "0123-456789",
-      "website": "https://www.marianacademyof.edu.in",
+      "address": "Marian Village, Puthuppady P.O., Kothamangalam, Ernakulam District - 686673, Kerala, India",
+      "phone": "0485-2816247 / +91 9446209878",
+      "website": "https://www.mams.ac.in",
       "rating": 4.5,
       "reviews": 502,
       "type": "Private",
@@ -82773,21 +82803,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MARIAN%20ACADEMY%20OF%20MANAGEMENT%20STUDIES%20ERNAKULAM%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_coep_pune.png",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://static.careers360.mobi/media/presets/500X333/colleges/social-media/media-gallery/9708/2018/12/6/Campus%20View%20of%20Marian%20Academy%20of%20Management%20Studies%20Ernakulam_Campus-View.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Mahatma Gandhi University (MGU), Kottayam & Approved by AICTE",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "fee": "₹1,10,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -82803,20 +82831,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_coep_pune.png",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MARIAN%20ACADEMY%20OF%20MANAGEMENT%20STUDIES%20ERNAKULAM%20Kerala",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "email": "info@mams.ac.in"
     },
     {
       "id": 1277,
-      "name": "KMCT INSTITUTE OF EMERGING TECHNOLOGY AND MANAGEMENT",
+      "name": "KMCT Institute of Emerging Technology and Management (KMCT IETM), Mukkam, Kozhikode",
       "shortName": "Course Institute-1",
       "location": "KOZHIKODE",
       "state": "Kerala",
-      "address": "MANASSERY, MUKKAM, KOZHIKODE",
-      "phone": "0123-456789",
-      "website": "https://www.kmctinstituteof.edu.in",
+      "address": "Near Thoongumpuram Vayanashala, Muthalam, Manassery P.O., Mukkam, Kozhikode - 673602, Kerala, India",
+      "phone": "+91 89430 72000 / 0495-2294700",
+      "website": "https://www.kmctemergingtechnology.org",
       "rating": 4.5,
       "reviews": 98,
       "type": "Private",
@@ -82828,21 +82857,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=KMCT%20INSTITUTE%20OF%20EMERGING%20TECHNOLOGY%20AND%20MANAGEMENT%20KOZHIKODE%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/kmct-institute-of-emerging-technology-management-kozhikode-290402.webp",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/kmct-institute-of-emerging-technology-management-kozhikode-290402.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "APJ Abdul Kalam Technological University (KTU) & Approved by AICTE",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "fee": "₹1,25,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -82858,9 +82885,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/kmct-institute-of-emerging-technology-management-kozhikode-290402.webp",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KMCT%20INSTITUTE%20OF%20EMERGING%20TECHNOLOGY%20AND%20MANAGEMENT%20KOZHIKODE%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KMCT%20INSTITUTE%20OF%20EMERGING%20TECHNOLOGY%20AND%20MANAGEMENT%20KOZHIKODE%20Kerala",
+      "email": "ceet@kmct.org"
     },
     {
       "id": 1278,
@@ -83299,13 +83327,13 @@
     },
     {
       "id": 1286,
-      "name": "SIRAJUL HUDA INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Sirajul Huda Institute of Management Studies (SHIMS), Kuttiadi, Kozhikode",
       "shortName": "Course Institute-1",
       "location": "KOZHIKODE",
       "state": "Kerala",
-      "address": "SIRAJUL HUDA EDUCATIONAL COMPLEX, KUTTIADI-673508",
-      "phone": "0123-456789",
-      "website": "https://www.sirajulhudainst.edu.in",
+      "address": "Sirajul Huda Educational Complex, Kuttiadi, Kozhikode District - 673508, Kerala, India",
+      "phone": "+91 83300 22588 / +91 83048 84588",
+      "website": "https://shims.ac.in",
       "rating": 4.5,
       "reviews": 255,
       "type": "Private",
@@ -83323,15 +83351,13 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Calicut & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹1,00,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -83350,17 +83376,18 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIRAJUL%20HUDA%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KOZHIKODE%20Kerala",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "email": "info@shims.ac.in"
     },
     {
       "id": 1287,
-      "name": "LEADERS COLLEGE",
+      "name": "Leaders College (Leaders Academy of Business), Kadalayi, Kannur",
       "shortName": "Course Institute-1",
       "location": "KANNUR",
       "state": "Kerala",
-      "address": "NO.38/1609-1,LEADERSâ COLLEGE BUILDING,P.O.KADALAYI",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=LEADERS%20COLLEGE%20official%20website%20KANNUR%20Kerala",
+      "address": "No. 38/1609-1, Leaders College Building, Adikadalayi Road, Kadalayi P.O., Kannur - 670003, Kerala, India",
+      "phone": "+91 90614 31111 / +91 98468 10934",
+      "website": "https://leaderscollege.in",
       "rating": 4.5,
       "reviews": 264,
       "type": "Private",
@@ -83372,21 +83399,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=LEADERS%20COLLEGE%20KANNUR%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/riim_pune.jpeg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://leaderscollege.in/wp-content/uploads/2021/10/SHAN9756.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE & Kannur University",
       "courses": [
         {
-          "title": "PGDM (HOSPITALITY MANAGEMENT )",
+          "name": "PGDM / MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹1,30,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -83402,10 +83427,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=LEADERS%20COLLEGE%20KANNUR%20Kerala",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "info@leaderscollege.in"
     },
     {
       "id": 1288,
@@ -83626,13 +83652,13 @@
     },
     {
       "id": 1292,
-      "name": "MARTHOMA COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+      "name": "Mar Thoma College of Management and Technology (MCMAT), Perumbavoor",
       "shortName": "Course Institute-1",
       "location": "ERNAKULAM",
       "state": "Kerala",
-      "address": "ASRAMAM CAMPUS, PERUMBAVOOR",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=MARTHOMA%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20official%20website%20ERNAKULAM%20Kerala",
+      "address": "Asramam Campus, Perumbavoor, Ernakulam District - 683542, Kerala, India",
+      "phone": "+91 9388616626 / +91 9961775991",
+      "website": "https://www.mcmat.edu.in",
       "rating": 4.5,
       "reviews": 66,
       "type": "Private",
@@ -83644,21 +83670,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MARTHOMA%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20ERNAKULAM%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.mcmat.edu.in/wp-content/uploads/2013/01/BE0A6984.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.mcmat.edu.in/wp-content/uploads/2013/01/BE0A6984.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Mahatma Gandhi University (MGU), Kottayam & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹1,25,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -83674,9 +83698,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.mcmat.edu.in/wp-content/uploads/2013/01/BE0A6984.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MARTHOMA%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20ERNAKULAM%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MARTHOMA%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20ERNAKULAM%20Kerala",
+      "email": "admin@mcmat.edu.in"
     },
     {
       "id": 1293,
@@ -83734,13 +83759,13 @@
     },
     {
       "id": 1294,
-      "name": "SNES INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH",
+      "name": "SNES Institute of Management Studies and Research (SNES IMSAR), Kunnamangalam, Calicut",
       "shortName": "Course Institute-1",
       "location": "KOZHIKODE",
       "state": "Kerala",
-      "address": "CHETHUKADAVE KUNNAMANGALAM CALICUT PIN-673571",
-      "phone": "0123-456789",
-      "website": "https://www.snesinstituteof.edu.in",
+      "address": "Chethukadave, Kunnamangalam, Calicut (Kozhikode) - 673571, Kerala, India",
+      "phone": "+91 9496939922 / 0495-2802022",
+      "website": "https://imsar.ac.in",
       "rating": 4.5,
       "reviews": 240,
       "type": "Private",
@@ -83752,21 +83777,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SNES%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20AND%20RESEARCH%20KOZHIKODE%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://assets.kollegeapply.com/images/1751548522578-1409818764phpxoDVID.jpeg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://assets.kollegeapply.com/images/1751548522578-1409818764phpxoDVID.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Calicut & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA(FINANCE MARKETING AND HUMAN RESOURCE MANAGEMENT)",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹1,20,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -83782,9 +83805,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://assets.kollegeapply.com/images/1751548522578-1409818764phpxoDVID.jpeg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SNES%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20AND%20RESEARCH%20KOZHIKODE%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SNES%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20AND%20RESEARCH%20KOZHIKODE%20Kerala",
+      "email": "snesimsar@gmail.com"
     },
     {
       "id": 1295,
@@ -84006,13 +84030,13 @@
     },
     {
       "id": 1299,
-      "name": "MONTI INTERNATIONAL INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Monti International Institute of Management Studies (MIIMS), Puthanangadi",
       "shortName": "Course Institute-1",
       "location": "MALAPPURAM",
       "state": "Kerala",
-      "address": "LUIGI BHAVAN CAMPUS PUTHANANGADI PO ANGADIPPURAM VIA MALAPPURAM DT KERALA",
-      "phone": "0123-456789",
-      "website": "https://www.montiinternatio.edu.in",
+      "address": "Luigi Bhavan Campus, Puthanangadi P.O., Angadippuram via, Malappuram District - 679321, Kerala, India",
+      "phone": "+91 8606258555 / +91 9061258555",
+      "website": "https://montiinstitute.ac.in",
       "rating": 4.5,
       "reviews": 399,
       "type": "Private",
@@ -84024,21 +84048,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=MONTI%20INTERNATIONAL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20MALAPPURAM%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/monti-international-institute-of-management-studies-malappuram-294554.webp",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/monti-international-institute-of-management-studies-malappuram-294554.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Calicut & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA(GENERAL MANAGEMENT)",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹1,50,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -84054,19 +84076,20 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/monti-international-institute-of-management-studies-malappuram-294554.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MONTI%20INTERNATIONAL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20MALAPPURAM%20Kerala"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MONTI%20INTERNATIONAL%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20MALAPPURAM%20Kerala",
+      "email": "montiinstitute@gmail.com"
     },
     {
       "id": 1300,
-      "name": "INSTITUTE OF TECHNOLOGY MAYYIL",
+      "name": "Institute of Technology Mayyil (ITM), Kannur",
       "shortName": "Course Institute-1",
       "location": "KANNUR",
       "state": "Kerala",
-      "address": "PAVANNURMOTTA (P.O) MAYYIL (VIA) PIN- 670602 KANNUR (DIST) KERALA (STATE)",
-      "phone": "0123-456789",
-      "website": "https://www.instituteoftech.edu.in",
+      "address": "Pavannurmotta P.O., Mayyil via, Kannur District - 670602, Kerala, India",
+      "phone": "0460-2276786 / +91 9447477387",
+      "website": "https://itmmba.ac.in",
       "rating": 4.5,
       "reviews": 176,
       "type": "Private",
@@ -84078,21 +84101,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20TECHNOLOGY%20MAYYIL%20KANNUR%20Kerala",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/vjti_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://th.bing.com/th/id/R.d93c38f65a25851485bc1b330e08a067?rik=JkXmEB86DRtlpA&riu=http%3a%2f%2fwww.itmmba.ac.in%2fimg%2fimages%2fnew-bag-in.jpg&ehk=P0Qg2A%2bPHHKlT3dIfpQ1iJDxyqlUx0%2b4X6ken2cHhzs%3d&risl=&pid=ImgRaw&r=0",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Kannur University & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 90
+          "fee": "₹1,20,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -84108,10 +84129,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/vjti_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20TECHNOLOGY%20MAYYIL%20KANNUR%20Kerala",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "mba@itmgroup.in"
     },
     {
       "id": 1301,
@@ -85293,13 +85315,13 @@
     },
     {
       "id": 1318,
-      "name": "A.S.GROUP OF INSTITUTIONS",
+      "name": "A.S. Group of Institutions (ASGOI), Khanna",
       "shortName": "Course Institute-1",
       "location": "LUDHIANA",
       "state": "Punjab",
-      "address": "A.S.GROUP OF INSTITUTIONS VILL- KALAL MAJRA(KHANNA) TEH. SAMRALA DISTT. LUDHIANA PUNJAB-141401",
-      "phone": "0123-456789",
-      "website": "https://www.asgroupofinstit.edu.in",
+      "address": "Samrala Road, Kalal Majra, Tehsil Samrala, Khanna, Ludhiana District - 141401, Punjab, India",
+      "phone": "+91-1628-237470 / +91-98550-45461",
+      "website": "https://asinstitutes.com",
       "rating": 4.5,
       "reviews": 522,
       "type": "Private",
@@ -85311,21 +85333,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=A.S.GROUP%20OF%20INSTITUTIONS%20LUDHIANA%20Punjab",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/ramaiah_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba-institute/as-group-of-institutions-campus-building.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "I.K. Gujral Punjab Technical University (IKGPTU), Jalandhar & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹80,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -85341,10 +85361,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/ramaiah_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=A.S.GROUP%20OF%20INSTITUTIONS%20LUDHIANA%20Punjab",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "asgikhanna@gmail.com"
     },
     {
       "id": 1319,
@@ -86652,13 +86673,13 @@
     },
     {
       "id": 1343,
-      "name": "GOLDEN COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "name": "Golden College of Engineering & Technology (GCET), Gurdaspur",
       "shortName": "Course Institute-1",
       "location": "GURDASPUR",
       "state": "Punjab",
-      "address": "PREM NAGAR, GURDASPUR, PUNJAB 143521",
-      "phone": "0123-456789",
-      "website": "https://www.goldencollegeof.edu.in",
+      "address": "Prem Nagar, Hardochhani Road, Gurdaspur - 143521, Punjab, India",
+      "phone": "+91-7508709760 / 01874-504000",
+      "website": "https://goldengroups.co.in",
       "rating": 4.5,
       "reviews": 300,
       "type": "Private",
@@ -86670,21 +86691,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GOLDEN%20COLLEGE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20GURDASPUR%20Punjab",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/chetana_bandra.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/4374/2019/3/26/College View of Golden College of Engineering and Technology, Gurdaspur_Campus-View.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "I.K. Gujral Punjab Technical University (IKGPTU), Jalandhar & Approved by AICTE",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "fee": "₹75,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -86700,10 +86719,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOLDEN%20COLLEGE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20GURDASPUR%20Punjab",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "goldenedu@live.com"
     },
     {
       "id": 1344,
@@ -87198,13 +87218,13 @@
     },
     {
       "id": 1353,
-      "name": "KHALSA COLLEGE OF ENGINEERING & TECHNOLOGY, AMRITSAR",
+      "name": "Khalsa College of Engineering & Technology (KCET), Amritsar",
       "shortName": "Course Institute-1",
       "location": "AMRITSAR",
       "state": "Punjab",
-      "address": "RANJIT AVENUE, BLOCK-C, AMRITSAR, PUNJAB-143001",
-      "phone": "0123-456789",
-      "website": "https://www.khalsacollegeof.edu.in",
+      "address": "C-Block, Ranjit Avenue, Amritsar - 143001, Punjab, India",
+      "phone": "+91-8198004400 / 0183-5030765",
+      "website": "https://khalsaengineering.co.in",
       "rating": 4.5,
       "reviews": 398,
       "type": "Private",
@@ -87216,21 +87236,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=KHALSA%20COLLEGE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%2C%20AMRITSAR%20AMRITSAR%20Punjab",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/khalsa-college-of-engineering-technology-amritsar-273619.webp",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/khalsa-college-of-engineering-technology-amritsar-273619.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "I.K. Gujral Punjab Technical University (IKGPTU), Jalandhar & Approved by AICTE",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 30
+          "fee": "₹85,000/yr",
+          "seats": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -87246,9 +87264,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/khalsa-college-of-engineering-technology-amritsar-273619.webp",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KHALSA%20COLLEGE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%2C%20AMRITSAR%20AMRITSAR%20Punjab"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KHALSA%20COLLEGE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%2C%20AMRITSAR%20AMRITSAR%20Punjab",
+      "email": "kcetamritsar@gmail.com"
     },
     {
       "id": 1354,
@@ -89378,13 +89397,13 @@
     },
     {
       "id": 1393,
-      "name": "ARYANS BUSINESS SCHOOL (ABS)",
+      "name": "Aryans Business School (ABS, Aryans Group of Colleges), Rajpura, Patiala",
       "shortName": "Course Institute-1",
       "location": "PATIALA",
       "state": "Punjab",
-      "address": "VILL. NEPRA CHANDIGARH-PATIALA HIGHWAY NEAR CHANDIGARH, TEH. RAJPURA DIST. PATIALA PUNJAB 140401",
-      "phone": "0123-456789",
-      "website": "https://www.aryansbusinesss.edu.in",
+      "address": "Village Nepra, Chandigarh-Patiala Highway, Tehsil Rajpura, District Patiala - 140401, Punjab, India",
+      "phone": "+91-98762-99888 / +91-98765-99888",
+      "website": "https://aryans.edu.in",
       "rating": 4.5,
       "reviews": 380,
       "type": "Private",
@@ -89396,21 +89415,19 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ARYANS%20BUSINESS%20SCHOOL%20(ABS)%20PATIALA%20Punjab",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://img.studyclap.com/img/institute/college/773x343/24042/abs-patiala-fdb3bbac0b.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://img.studyclap.com/img/institute/college/773x343/24042/abs-patiala-fdb3bbac0b.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "I.K. Gujral Punjab Technical University (IKGPTU), Jalandhar & Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "fee": "₹90,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -89426,9 +89443,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://img.studyclap.com/img/institute/college/773x343/24042/abs-patiala-fdb3bbac0b.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ARYANS%20BUSINESS%20SCHOOL%20(ABS)%20PATIALA%20Punjab"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ARYANS%20BUSINESS%20SCHOOL%20(ABS)%20PATIALA%20Punjab",
+      "email": "info@aryans.edu.in"
     },
     {
       "id": 1394,
@@ -92511,13 +92529,13 @@
     },
     {
       "id": 1447,
-      "name": "INTERNATIONAL SCHOOL OF BUSINESS ADMINISTRATION",
+      "name": "International School of Business Administration (ISBA Group of Institutions), Indore",
       "shortName": "Course Institute-1",
       "location": "INDORE",
       "state": "Madhya Pradesh",
-      "address": "GRAM BADODOIYA EMA,SANWER ROAD,INDORE",
-      "phone": "0123-456789",
-      "website": "https://www.internationalsc.edu.in",
+      "address": "Gram Badodiya Ema, Sanwer Road / Indore-Ujjain Road, Indore - 453551, Madhya Pradesh, India",
+      "phone": "+91-9977802220 / 0731-2026000",
+      "website": "https://isba.edu.in",
       "rating": 4.6,
       "reviews": 677,
       "type": "Private",
@@ -92529,7 +92547,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INTERNATIONAL%20SCHOOL%20OF%20BUSINESS%20ADMINISTRATION%20INDORE%20Madhya%20Pradesh",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/koshys_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://th.bing.com/th/id/R.7853c35bed014d4604a8f739c15b5c9b?rik=IhgbuANboWwgBg&riu=http%3a%2f%2fwww.isbagroup.com%2fimages%2fneemuch-1.jpg&ehk=e2U4JmXctay0%2bmD%2bXklAZOw71J%2fe4Uq5RIxt2ftNbBw%3d&risl=&pid=ImgRaw&r=0",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
@@ -92537,13 +92555,10 @@
       ],
       "courses": [
         {
-          "title": "MBA",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "Contact for details",
-          "intake": 240,
-          "eligibility": "As per norms"
+          "fee": "₹65,000/yr",
+          "seats": 180
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -92563,10 +92578,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 677,
-      "image": "/images/campuses/koshys_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INTERNATIONAL%20SCHOOL%20OF%20BUSINESS%20ADMINISTRATION%20INDORE%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "info@isba.edu.in",
+      "affiliation": "Devi Ahilya Vishwavidyalaya (DAVV), Indore & Approved by AICTE, MP Higher Education"
     },
     {
       "id": 1448,
@@ -92628,13 +92645,13 @@
     },
     {
       "id": 1449,
-      "name": "INDORE INSTITUTE OF MANAGEMENT AND RESEARCH",
+      "name": "Indore Institute of Management and Research (IIMR), Rau, Indore",
       "shortName": "Course Institute-1",
       "location": "INDORE",
       "state": "Madhya Pradesh",
-      "address": "OPP. IIM, PITHAMPUR ROAD RAU, INDORE",
-      "phone": "0123-456789",
-      "website": "https://www.indoreinstitute.edu.in",
+      "address": "Opposite IIM Indore, Rau-Pithampur Road, Rau, Indore - 453331, Madhya Pradesh, India",
+      "phone": "+91-8224073000 / 1800 103 3069",
+      "website": "https://indoreinstitute.com/iimr",
       "rating": 4.6,
       "reviews": 759,
       "type": "Private",
@@ -92646,7 +92663,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INDORE%20INSTITUTE%20OF%20MANAGEMENT%20AND%20RESEARCH%20INDORE%20Madhya%20Pradesh",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_7.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/9694/2021/6/26/College Building View of Indore Institute of Management and Research Indore_Campus-View.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
@@ -92654,13 +92671,10 @@
       ],
       "courses": [
         {
-          "title": "MBA",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "Contact for details",
-          "intake": 180,
-          "eligibility": "As per norms"
+          "fee": "₹1,05,000/yr",
+          "seats": 180
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -92680,20 +92694,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 759,
-      "image": "/images/campuses/campus_architecture_7.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDORE%20INSTITUTE%20OF%20MANAGEMENT%20AND%20RESEARCH%20INDORE%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "email": "admissions@indoreinstitute.com",
+      "affiliation": "Devi Ahilya Vishwavidyalaya (DAVV), Indore & Approved by AICTE"
     },
     {
       "id": 1450,
-      "name": "MAHARISHI CENTRE FOR EDUCATIONAL EXCELLENCE",
+      "name": "Maharishi Centre for Educational Excellence (MCEE - Maharishi Institute of Management), Bhopal",
       "shortName": "Course Institute-1",
       "location": "BHOPAL",
       "state": "Madhya Pradesh",
-      "address": "LAMBAKHEDA, BERASIA ROAD, BHOPAL (MP) - 462018",
-      "phone": "0123-456789",
-      "website": "https://www.maharishicentre.edu.in",
+      "address": "Lambakheda, Berasia Road, Bhopal - 462038, Madhya Pradesh, India",
+      "phone": "+91-8349053515 / 0755-4525149",
+      "website": "https://mceebhopal.org",
       "rating": 4.6,
       "reviews": 1003,
       "type": "Private",
@@ -92713,13 +92729,10 @@
       ],
       "courses": [
         {
-          "title": "MBA",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "Contact for details",
-          "intake": 180,
-          "eligibility": "As per norms"
+          "fee": "₹60,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -92741,7 +92754,9 @@
       "reviewsCount": 1003,
       "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARISHI%20CENTRE%20FOR%20EDUCATIONAL%20EXCELLENCE%20BHOPAL%20Madhya%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARISHI%20CENTRE%20FOR%20EDUCATIONAL%20EXCELLENCE%20BHOPAL%20Madhya%20Pradesh",
+      "email": "mceebhopal@mssmail.org",
+      "affiliation": "Barkatullah University, Bhopal & Approved by AICTE"
     },
     {
       "id": 1451,
@@ -94649,13 +94664,13 @@
     },
     {
       "id": 1474,
-      "name": "JAIN COLLEGE",
+      "name": "Jain College (Jain Group of Colleges), Lashkar, Gwalior",
       "shortName": "Course Institute-1",
       "location": "GWALIOR",
       "state": "Madhya Pradesh",
-      "address": "SHIVPURI LINK ROAD, LASHKAR",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=JAIN%20COLLEGE%20official%20website%20GWALIOR%20Madhya%20Pradesh",
+      "address": "Piproli-Shivpuri Link Road, Lashkar, Gwalior - 474001, Madhya Pradesh, India",
+      "phone": "+91-8818888771 / +91-9425778444",
+      "website": "http://www.jaincollege.net",
       "rating": 4.5,
       "reviews": 1134,
       "type": "Private",
@@ -94667,7 +94682,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=JAIN%20COLLEGE%20GWALIOR%20Madhya%20Pradesh",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/vjti_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://threebestrated.in/images/JAINCOLLEGE-Gwalior-MP.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -94675,13 +94690,10 @@
       ],
       "courses": [
         {
-          "title": "MBA",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE",
+          "name": "MBA",
           "duration": "2 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "fee": "₹55,000/yr",
+          "seats": 120
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -94701,10 +94713,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1134,
-      "image": "/images/campuses/vjti_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAIN%20COLLEGE%20GWALIOR%20Madhya%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "infojaincollege@gmail.com",
+      "affiliation": "Jiwaji University, Gwalior & Approved by AICTE, NCTE, MP Higher Education"
     },
     {
       "id": 1475,
