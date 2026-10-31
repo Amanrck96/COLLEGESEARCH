@@ -1,0 +1,172 @@
+[
+  {
+    "id": 2162,
+    "name": "GURUKUL KANGRI VISHWAVIDYALAYA",
+    "address": "FACULTY OF MANAGEMENT STUDIES, GURUKUL KANGRI VISHWAVIDYALAYA",
+    "state": "Uttarakhand",
+    "img": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.gurukulkangrivi.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2174,
+    "name": "BISHAMBER SAHAI MANAGEMENT INSTITUTE",
+    "address": "6TH KM STONE, SALIYAR SAHARNPUR DEHRADUN ROAD",
+    "state": "Uttarakhand",
+    "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.bishambersahaim.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2187,
+    "name": "DEPARTMENT OF MANAGEMENT STUDIES, KUMAUN UNIVERSITY CAMPUS, BHIMTAL",
+    "address": "KUMAUN UNIVERSITY CAMPUS, BLOCK ROAD, MALLITAL BHIMTAL-263136 DISTT. NAINITAL STATE UTTARAKHAND",
+    "state": "Uttarakhand",
+    "img": "/images/campuses/gnims_matunga.png",
+    "website": "https://www.departmentofman.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2191,
+    "name": "COLLEGE OF AGRIBUSINESS MANAGEMENT",
+    "address": "COLLEGE OF AGRIBUSINESS MANAGEMENT, G.B. PANT UNIVERSITY OF AGRICULTURE & TECHNOLOGY, PANTNAGAR, U.S. NAGAR-263 145",
+    "state": "Uttarakhand",
+    "img": "https://img.studyclap.com/img/institute/college/original/5930/cam-udham-singh-nagar-8cd426cce9.jpg",
+    "website": "https://www.collegeofagribu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2197,
+    "name": "INSTITUTE OF COOPERATIVE MANAGEMENT",
+    "address": "6, OLD MUSSOORIE ROAD, RAJPUR",
+    "state": "Uttarakhand",
+    "img": "https://www.collegebatch.com/static/clg-gallery/institute-of-cooperative-management-dehradun-290963.webp",
+    "website": "https://www.instituteofcoop.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2209,
+    "name": "NALANDA INSTITUTE OF TECHNOLOGY",
+    "address": "BHUDHIST VILLA, NEBAD BHUASANI TEMPLE SQUARE, SIMILIPATNA, CHANDAKA, BHUBANESAWR, ORISSA.",
+    "state": "Odisha",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/mainbuilding.jpg?width=1080",
+    "website": "https://thenalanda.com",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 2215,
+    "name": "BHARAT INSTITUTE OF TECHNICAL STUDIES",
+    "address": "DAHAPADA, BALASORE",
+    "state": "Odisha",
+    "img": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.bharatinstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2216,
+    "name": "ZENITH SCHOOL OF MANAGEMENT",
+    "address": "AT-PITAPALLI,PO-JATANI,DIST-KHORDHA,752050",
+    "state": "Odisha",
+    "img": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.zenithschoolofm.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2219,
+    "name": "CAPITAL INSTITUTE OF MANAGEMENT AND SCIENCE",
+    "address": "1309, PADHANSAHI SQUARE",
+    "state": "Odisha",
+    "img": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://cims.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2220,
+    "name": "RCM GLOBAL B SCHOOL",
+    "address": "PLOT NO GD 2/13, CHANDRASEKHAR PUR",
+    "state": "Odisha",
+    "img": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.rcmglobalbschoo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

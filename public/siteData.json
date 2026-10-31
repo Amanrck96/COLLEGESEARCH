@@ -132577,16 +132577,16 @@
     },
     {
       "id": 2162,
-      "name": "GURUKUL KANGRI VISHWAVIDYALAYA",
+      "name": "Gurukula Kangri (Deemed to be University)",
       "shortName": "Course Institute-1",
       "location": "HARIDWAR",
       "state": "Uttarakhand",
-      "address": "FACULTY OF MANAGEMENT STUDIES, GURUKUL KANGRI VISHWAVIDYALAYA",
-      "phone": "0123-456789",
-      "website": "https://www.gurukulkangrivi.edu.in",
+      "address": "P.O. Gurukula Kangri, Kankhal, Haridwar, Uttarakhand - 249404",
+      "phone": "+91-7300761138",
+      "website": "https://www.gkv.ac.in",
       "rating": 4.5,
       "reviews": 523,
-      "type": "Private",
+      "type": "Public/Government (Deemed to be University)",
       "about": "Welcome to GURUKUL KANGRI VISHWAVIDYALAYA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 90,
       "facebook": "#",
@@ -132595,7 +132595,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GURUKUL%20KANGRI%20VISHWAVIDYALAYA%20HARIDWAR%20Uttarakhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bms_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -132604,10 +132604,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics + CUET-PG",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
@@ -132625,10 +132627,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bms_bangalore.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GURUKUL%20KANGRI%20VISHWAVIDYALAYA%20HARIDWAR%20Uttarakhand",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Haridwar",
+      "email": "registrar@gkv.ac.in",
+      "verified": true
     },
     {
       "id": 2163,
@@ -133230,13 +133235,13 @@
     },
     {
       "id": 2174,
-      "name": "BISHAMBER SAHAI MANAGEMENT INSTITUTE",
+      "name": "Bishamber Sahai Management Institute",
       "shortName": "Course Institute-1",
       "location": "HARIDWAR",
       "state": "Uttarakhand",
-      "address": "6TH KM STONE, SALIYAR SAHARNPUR DEHRADUN ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.bishambersahaim.edu.in",
+      "address": "6th KM Stone, Roorkee-Saharanpur Road, Saliyar, Roorkee, District Haridwar, Uttarakhand - 247667",
+      "phone": "+91-9837127404",
+      "website": "https://bsigrouprke.in",
       "rating": 4.5,
       "reviews": 395,
       "type": "Private",
@@ -133248,7 +133253,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=BISHAMBER%20SAHAI%20MANAGEMENT%20INSTITUTE%20HARIDWAR%20Uttarakhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba/bishamber-sahai-management-institute-campus.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -133257,12 +133262,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.5 Lakhs",
+          "fee": "₹1.5 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/UKSEE",
           "type": "MANAGEMENT",
-          "intake": 60
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -133278,10 +133285,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BISHAMBER%20SAHAI%20MANAGEMENT%20INSTITUTE%20HARIDWAR%20Uttarakhand",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Roorkee",
+      "email": "sourabh_bsi07@yahoo.com",
+      "verified": true
     },
     {
       "id": 2175,
@@ -133938,16 +133948,16 @@
     },
     {
       "id": 2187,
-      "name": "DEPARTMENT OF MANAGEMENT STUDIES, KUMAUN UNIVERSITY CAMPUS, BHIMTAL",
+      "name": "Department of Management Studies, Kumaun University",
       "shortName": "Course Institute-1",
       "location": "NAINITAL",
       "state": "Uttarakhand",
-      "address": "KUMAUN UNIVERSITY CAMPUS, BLOCK ROAD, MALLITAL BHIMTAL-263136 DISTT. NAINITAL STATE UTTARAKHAND",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofman.edu.in",
+      "address": "Sir J. C. Bose Technical Campus, Block Road, Mallital, Bhimtal, District Nainital, Uttarakhand - 263136",
+      "phone": "+91-5942-247136",
+      "website": "https://dmsbhimtal.com",
       "rating": 4.5,
       "reviews": 479,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to DEPARTMENT OF MANAGEMENT STUDIES, KUMAUN UNIVERSITY CAMPUS, BHIMTAL, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 14,
       "facebook": "#",
@@ -133956,7 +133966,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20MANAGEMENT%20STUDIES%2C%20KUMAUN%20UNIVERSITY%20CAMPUS%2C%20BHIMTAL%20NAINITAL%20Uttarakhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/gnims_matunga.png",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://dmsbhimtal.com/wp-content/uploads/2024/04/IMG20230518155307-scaled.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -133965,12 +133975,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.1 Lakhs",
+          "fee": "₹1.1 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/CMAT",
           "type": "MANAGEMENT",
-          "intake": 30
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -133986,10 +133998,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/gnims_matunga.png",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_3.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20MANAGEMENT%20STUDIES%2C%20KUMAUN%20UNIVERSITY%20CAMPUS%2C%20BHIMTAL%20NAINITAL%20Uttarakhand",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Bhimtal",
+      "email": "hod.dmsbhimtal@gmail.com",
+      "verified": true
     },
     {
       "id": 2188,
@@ -134158,16 +134173,16 @@
     },
     {
       "id": 2191,
-      "name": "COLLEGE OF AGRIBUSINESS MANAGEMENT",
+      "name": "College of Agribusiness Management, GBPUAT Pantnagar",
       "shortName": "Course Institute-1",
       "location": "UDHAM SINGH NAGAR",
       "state": "Uttarakhand",
-      "address": "COLLEGE OF AGRIBUSINESS MANAGEMENT, G.B. PANT UNIVERSITY OF AGRICULTURE & TECHNOLOGY, PANTNAGAR, U.S. NAGAR-263 145",
-      "phone": "0123-456789",
-      "website": "https://www.collegeofagribu.edu.in",
+      "address": "G.B. Pant University of Agriculture & Technology, Pantnagar, Udham Singh Nagar, Uttarakhand - 263145",
+      "phone": "+91-5944-233884",
+      "website": "https://www.cabm.ac.in",
       "rating": 4.5,
       "reviews": 460,
-      "type": "Private",
+      "type": "Public/Government (Constituent College of State Agricultural University)",
       "about": "Welcome to COLLEGE OF AGRIBUSINESS MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 81,
       "facebook": "#",
@@ -134176,7 +134191,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20AGRIBUSINESS%20MANAGEMENT%20UDHAM%20SINGH%20NAGAR%20Uttarakhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://img.studyclap.com/img/institute/college/original/5930/cam-udham-singh-nagar-8cd426cce9.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://img.studyclap.com/img/institute/college/original/5930/cam-udham-singh-nagar-8cd426cce9.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
@@ -134185,12 +134200,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA (Agribusiness)",
+          "title": "MBA Agribusiness",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹3.8 Lakhs",
+          "fee": "₹3.8 Lakhs",
+          "eligibility": "Graduation in Agriculture or allied sciences with 50% + CAT/CMAT",
           "type": "MANAGEMENT",
-          "intake": 60
+          "intake": 45
+        },
+        {
+          "name": "MBA",
+          "title": "MBA General",
+          "duration": "2 Years",
+          "fees": "₹3.8 Lakhs",
+          "fee": "₹3.8 Lakhs",
+          "eligibility": "Graduation in any discipline with 50% + CAT/CMAT",
+          "type": "MANAGEMENT",
+          "intake": 30
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -134206,9 +134233,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://img.studyclap.com/img/institute/college/original/5930/cam-udham-singh-nagar-8cd426cce9.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20AGRIBUSINESS%20MANAGEMENT%20UDHAM%20SINGH%20NAGAR%20Uttarakhand"
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20AGRIBUSINESS%20MANAGEMENT%20UDHAM%20SINGH%20NAGAR%20Uttarakhand",
+      "city": "Pantnagar",
+      "email": "cabmoffice@gmail.com",
+      "verified": true
     },
     {
       "id": 2192,
@@ -134483,16 +134513,16 @@
     },
     {
       "id": 2197,
-      "name": "INSTITUTE OF COOPERATIVE MANAGEMENT",
+      "name": "Institute of Cooperative Management, Dehradun",
       "shortName": "Course Institute-1",
       "location": "DEHRADUN",
       "state": "Uttarakhand",
-      "address": "6, OLD MUSSOORIE ROAD, RAJPUR",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofcoop.edu.in",
+      "address": "6, Old Mussoorie Road, Rajpur, Dehradun, Uttarakhand - 248009",
+      "phone": "+91-135-2734272",
+      "website": "https://icmdehradun.com",
       "rating": 4.5,
       "reviews": 268,
-      "type": "Private",
+      "type": "Public/Government (Autonomous Central Government Institute)",
       "about": "Welcome to INSTITUTE OF COOPERATIVE MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 23,
       "facebook": "#",
@@ -134501,7 +134531,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20COOPERATIVE%20MANAGEMENT%20DEHRADUN%20Uttarakhand",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/institute-of-cooperative-management-dehradun-290963.webp",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/institute-of-cooperative-management-dehradun-290963.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
@@ -134510,10 +134540,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.5 Lakhs",
+          "fee": "₹1.5 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/UKSEE",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -134531,9 +134563,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/institute-of-cooperative-management-dehradun-290963.webp",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20COOPERATIVE%20MANAGEMENT%20DEHRADUN%20Uttarakhand"
+      "image": "/images/campuses/campus_architecture_5.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20COOPERATIVE%20MANAGEMENT%20DEHRADUN%20Uttarakhand",
+      "city": "Dehradun",
+      "email": "icmddn017@gmail.com",
+      "verified": true
     },
     {
       "id": 2198,
@@ -135161,13 +135196,13 @@
     },
     {
       "id": 2209,
-      "name": "NALANDA INSTITUTE OF TECHNOLOGY",
+      "name": "Nalanda Institute of Technology",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "BHUDHIST VILLA, NEBAD BHUASANI TEMPLE SQUARE, SIMILIPATNA, CHANDAKA, BHUBANESAWR, ORISSA.",
-      "phone": "0123-456789",
-      "website": "https://thenalanda.com",
+      "address": "Buddhist Villa, Khandagiri-Chandaka Road, Chandaka, Bhubaneswar, Odisha - 754005",
+      "phone": "+91-8249791801",
+      "website": "https://www.thenalanda.com",
       "rating": 4.5,
       "reviews": 1875,
       "type": "Private",
@@ -135179,7 +135214,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=NALANDA%20INSTITUTE%20OF%20TECHNOLOGY%20KHORDHA%20Odisha",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/mainbuilding.jpg?width=1080",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/mainbuilding.jpg?width=1080",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -135187,13 +135222,14 @@
       ],
       "courses": [
         {
-          "title": "MCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "Contact for details",
-          "intake": 180,
-          "eligibility": "As per norms"
+          "fees": "₹1.3 Lakhs",
+          "fee": "₹1.3 Lakhs",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics + OJEE",
+          "type": "COMPUTER APPLICATIONS",
+          "intake": 60
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -135213,9 +135249,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1875,
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/mainbuilding.jpg?width=1080",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NALANDA%20INSTITUTE%20OF%20TECHNOLOGY%20KHORDHA%20Odisha"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NALANDA%20INSTITUTE%20OF%20TECHNOLOGY%20KHORDHA%20Odisha",
+      "city": "Bhubaneswar",
+      "email": "info@thenalanda.com",
+      "verified": true
     },
     {
       "id": 2210,
@@ -135495,13 +135534,13 @@
     },
     {
       "id": 2215,
-      "name": "BHARAT INSTITUTE OF TECHNICAL STUDIES",
+      "name": "Bharat Institute of Technical Studies",
       "shortName": "Course Institute-1",
       "location": "BALASORE",
       "state": "Odisha",
-      "address": "DAHAPADA, BALASORE",
-      "phone": "0123-456789",
-      "website": "https://www.bharatinstitute.edu.in",
+      "address": "Dahapada, Fuladi, Balasore, Odisha - 756003",
+      "phone": "+91-9437004344",
+      "website": "http://bharatinstitute.org",
       "rating": 4.5,
       "reviews": 452,
       "type": "Private",
@@ -135513,7 +135552,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=BHARAT%20INSTITUTE%20OF%20TECHNICAL%20STUDIES%20BALASORE%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/svkm_upg_vileparle.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://cdn.validcollege.com/uploads/7c1f6445-ecc6-46aa-9363-46ae9b5099ac.jpg?w=3840&h=3840",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
@@ -135522,12 +135561,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.2 Lakhs",
+          "fee": "₹1.2 Lakhs",
+          "eligibility": "Graduation with Mathematics at 10+2 or Degree level + OJEE",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -135543,20 +135584,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BHARAT%20INSTITUTE%20OF%20TECHNICAL%20STUDIES%20BALASORE%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Balasore",
+      "email": "principal@bharatinstitute.org",
+      "verified": true
     },
     {
       "id": 2216,
-      "name": "ZENITH SCHOOL OF MANAGEMENT",
+      "name": "Zenith School of Management",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "AT-PITAPALLI,PO-JATANI,DIST-KHORDHA,752050",
-      "phone": "0123-456789",
-      "website": "https://www.zenithschoolofm.edu.in",
+      "address": "Pitapalli, NH-16, Near Jatani, Khordha / Bhubaneswar, Odisha - 752057",
+      "phone": "+91-8908018083",
+      "website": "http://zenithodisha.com",
       "rating": 4.5,
       "reviews": 420,
       "type": "Private",
@@ -135568,7 +135612,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ZENITH%20SCHOOL%20OF%20MANAGEMENT%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_3.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.zenithschool.org/wp-content/uploads/2023/05/zenith-school-800x700.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -135577,12 +135621,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "Graduation with 50% + OJEE/MAT/CAT",
           "type": "MANAGEMENT",
-          "intake": 240
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -135598,10 +135644,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_3.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ZENITH%20SCHOOL%20OF%20MANAGEMENT%20KHORDHA%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Bhubaneswar",
+      "email": "zsomodisha@gmail.com",
+      "verified": true
     },
     {
       "id": 2217,
@@ -135721,13 +135770,13 @@
     },
     {
       "id": 2219,
-      "name": "CAPITAL INSTITUTE OF MANAGEMENT AND SCIENCE",
+      "name": "Capital Institute of Management and Science",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "1309, PADHANSAHI SQUARE",
-      "phone": "0123-456789",
-      "website": "https://cims.ac.in",
+      "address": "1309, Padhansahi Square, Panchagaon, Jatni-Sundarpada Road, Bhubaneswar, Khordha, Odisha - 752050",
+      "phone": "+91-9437495728",
+      "website": "https://cimsbbsr.org",
       "rating": 4.5,
       "reviews": 333,
       "type": "Private",
@@ -135739,7 +135788,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CAPITAL%20INSTITUTE%20OF%20MANAGEMENT%20AND%20SCIENCE%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/ramaiah_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://yt3.googleusercontent.com/ytc/AIdro_li-FUtuNnWjnU9KToji6UkgoZewVZJWE11vv_IdYMF11Q=s900-c-k-c0x00ffffff-no-rj",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -135748,10 +135797,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.6 Lakhs",
+          "fee": "₹1.6 Lakhs",
+          "eligibility": "Graduation with 50% + OJEE/MAT/CAT/CMAT",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -135769,20 +135820,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/ramaiah_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CAPITAL%20INSTITUTE%20OF%20MANAGEMENT%20AND%20SCIENCE%20KHORDHA%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Bhubaneswar",
+      "email": "info@cimsbbsr.org",
+      "verified": true
     },
     {
       "id": 2220,
-      "name": "RCM GLOBAL B SCHOOL",
+      "name": "Regional College of Management (RCM)",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "PLOT NO GD 2/13, CHANDRASEKHAR PUR",
-      "phone": "0123-456789",
-      "website": "https://www.rcmglobalbschoo.edu.in",
+      "address": "Plot No. GD 2/12 & 13, Chakadola Vihar, Chandrasekharpur, Bhubaneswar, Odisha - 751023",
+      "phone": "+91-9090080801",
+      "website": "https://rcm.ac.in",
       "rating": 4.5,
       "reviews": 277,
       "type": "Private",
@@ -135794,7 +135848,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=RCM%20GLOBAL%20B%20SCHOOL%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/ramaiah_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://64.media.tumblr.com/5b56114ffd8f940c344ecb1580d31fe9/18754bcc2ed1453c-bf/s1280x1920/b6b1195ea0c099f7e94a4bdbeb2dee99d05a54ef.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -135803,12 +135857,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹4.5 Lakhs",
+          "fee": "₹4.5 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/XAT/CMAT/OJEE",
           "type": "MANAGEMENT",
           "intake": 120
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹3.8 Lakhs",
+          "fee": "₹3.8 Lakhs",
+          "eligibility": "Graduation with 50% + OJEE/MAT/CAT",
+          "type": "MANAGEMENT",
+          "intake": 180
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -135824,10 +135890,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/ramaiah_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RCM%20GLOBAL%20B%20SCHOOL%20KHORDHA%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Bhubaneswar",
+      "email": "info@rcm.ac.in",
+      "verified": true
     },
     {
       "id": 2221,

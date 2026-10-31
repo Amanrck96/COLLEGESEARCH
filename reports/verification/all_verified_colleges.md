@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **230 / 12,660**  
-**Roadmap Progress**: **23.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **240 / 12,660**  
+**Roadmap Progress**: **24.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -354,4 +354,19 @@
 | **2110** | Faculty of Management, VMSB Uttarakhand Technical University | Public/Government (State University Department) | Dehradun, Uttarakhand - 248007 | [uktech.ac.in](https://uktech.ac.in) |
 | **2152** | Saraswati Institute of Management & Technology | Private | Udham Singh Nagar, Uttarakhand - 263152 | [www.simtrdr.in](http://www.simtrdr.in) |
 | **2160** | BRD College of Management and Sciences | Private | District Haridwar, Uttarakhand - 247667 | [brdcroorkee.in](https://brdcroorkee.in) |
+
+### Batch 24 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2162** | Gurukula Kangri (Deemed to be University) | Public/Government (Deemed to be University) | Haridwar, Uttarakhand - 249404 | [www.gkv.ac.in](https://www.gkv.ac.in) |
+| **2174** | Bishamber Sahai Management Institute | Private | District Haridwar, Uttarakhand - 247667 | [bsigrouprke.in](https://bsigrouprke.in) |
+| **2187** | Department of Management Studies, Kumaun University | Public/Government (State University Department) | District Nainital, Uttarakhand - 263136 | [dmsbhimtal.com](https://dmsbhimtal.com) |
+| **2191** | College of Agribusiness Management, GBPUAT Pantnagar | Public/Government (Constituent College of State Agricultural University) | Udham Singh Nagar, Uttarakhand - 263145 | [www.cabm.ac.in](https://www.cabm.ac.in) |
+| **2197** | Institute of Cooperative Management, Dehradun | Public/Government (Autonomous Central Government Institute) | Dehradun, Uttarakhand - 248009 | [icmdehradun.com](https://icmdehradun.com) |
+| **2209** | Nalanda Institute of Technology | Private | Bhubaneswar, Odisha - 754005 | [www.thenalanda.com](https://www.thenalanda.com) |
+| **2215** | Bharat Institute of Technical Studies | Private | Balasore, Odisha - 756003 | [bharatinstitute.org](http://bharatinstitute.org) |
+| **2216** | Zenith School of Management | Private | Khordha / Bhubaneswar, Odisha - 752057 | [zenithodisha.com](http://zenithodisha.com) |
+| **2219** | Capital Institute of Management and Science | Private | Khordha, Odisha - 752050 | [cimsbbsr.org](https://cimsbbsr.org) |
+| **2220** | Regional College of Management (RCM) | Private | Bhubaneswar, Odisha - 751023 | [rcm.ac.in](https://rcm.ac.in) |
 
