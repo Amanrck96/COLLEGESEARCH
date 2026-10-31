@@ -1,0 +1,177 @@
+[
+  {
+    "id": 2246,
+    "name": "GAYATRI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "address": "GANJU,BRAHMAPUR",
+    "state": "Odisha",
+    "img": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://gist.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2249,
+    "name": "JAYADEVA BUSINESS SCHOOL",
+    "address": "BUDHIPADA",
+    "state": "Odisha",
+    "img": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.jayadevabusines.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2250,
+    "name": "GAYATRI INSTITUTE OF MANAGEMENT",
+    "address": "AT- SUDHASADANGI, MOUZA/PO- BRAHMANSUALO, BLOCK/PS- BALIANTA, DIST- KHURDA, ODISHA",
+    "state": "Odisha",
+    "img": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://gim.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2252,
+    "name": "GANESH INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "BIDYA NAGAR, JAGANNATH PRASAD, ANDHARUA, BHUBANESWAR",
+    "state": "Odisha",
+    "img": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.ganeshinstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2254,
+    "name": "OXFORD COLLEGE OF MANAGEMENT",
+    "address": "AT-RAMCHANDRAPUR, PO-BHATAPATNA, PS-BALIANTA,",
+    "state": "Odisha",
+    "img": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.oxfordcollegeof.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2256,
+    "name": "RADHAKRISHNA INSTITUTE OF TECHNOLOGY AND ENGINEERING (RITE)",
+    "address": "PLOT NO. -1, KHURDA INDUSTRIAL ESTATE, DISTRICT: KHURDA, UNDER BHUBANESWAR DEVELOPMENT AUTHORITY, BHUANESWAR",
+    "state": "Odisha",
+    "img": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.radhakrishnains.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2261,
+    "name": "UTKAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "AT: BHATAKURI, PO: GANGAPADA, KHORDHA ODISHA",
+    "state": "Odisha",
+    "img": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/UIET-Bhubaneswar-1024x489.jpg",
+    "website": "https://www.utkalinstituteo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2262,
+    "name": "ASHAA KIRANN BUSINESS SCHOOL",
+    "address": "AT/PO- PALASPUR, , PS- CHANDAKA",
+    "state": "Odisha",
+    "img": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.ashaakirannbusi.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2278,
+    "name": "IMI BHUBANESWAR",
+    "address": "IDCO PLOT NO. 1 VILLAGE GOTHAPATNA P.O MALIPADA",
+    "state": "Odisha",
+    "img": "https://imibh.edu.in/images/gallery/infrastruc_315.jpg",
+    "website": "https://www.bhu.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2292,
+    "name": "SRI SRI UNIVERSITY - FACULTY OF MANAGEMENT STUDIES",
+    "address": "WARD NO 1, BIDYADHARPUR, P.S. GODI SAHI",
+    "state": "Odisha",
+    "img": "https://www.collegebatch.com/static/clg-gallery/sri-sri-university-cuttack-365765.webp",
+    "website": "https://www.google.com/search?q=SRI%20SRI%20UNIVERSITY%20-%20FACULTY%20OF%20MANAGEMENT%20STUDIES%20official%20website%20CUTTACK%20Odisha",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA(GENERAL MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **250 / 12,660**  
-**Roadmap Progress**: **25.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **260 / 12,660**  
+**Roadmap Progress**: **26.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -384,4 +384,19 @@
 | **2238** | Gurukrupa College of Management | Private | Khordha, Odisha - 751024 | [gurukrupacollege.org](https://gurukrupacollege.org) |
 | **2242** | Sophitorium Management College | Private | Bhubaneswar, Odisha - 752060 | [sophitoriumsmc.net](https://sophitoriumsmc.net) |
 | **2245** | Bhubaneswar Institute of Management Studies | Private | Bhubaneswar, Odisha - 752054 | [bimsbbsr.in](https://bimsbbsr.in) |
+
+### Batch 26 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2246** | Gayatri Institute of Science and Technology | Private | District Ganjam, Odisha - 760010 | [www.gistmba.in](https://www.gistmba.in) |
+| **2249** | Jayadeva Business School | Private | Khordha, Odisha - 752101 | [jbsodisha.org](https://jbsodisha.org) |
+| **2250** | Gayatri Institute of Management | Private | Khurda, Odisha - 751002 | [www.gimmba.in](http://www.gimmba.in) |
+| **2252** | Ganesh Institute of Management Studies | Private | Khordha, Odisha - 751003 | [gims.in.net](https://gims.in.net) |
+| **2254** | Oxford College of Management | Private | Khordha, Odisha - 752115 | [www.oxfordbbsr.com](http://www.oxfordbbsr.com) |
+| **2256** | Radhakrishna Institute of Technology and Engineering (RITE) | Private | Bhubaneswar, Odisha - 752057 | [www.riteindia.edu.in](https://www.riteindia.edu.in) |
+| **2261** | Utkal Institute of Technology and Management | Private | Khordha, Odisha - 752054 | [uitm.co.in](https://uitm.co.in) |
+| **2262** | Ashaa Kirann Business School | Private | Khordha, Odisha - 752054 | [ashaakiranngroup.com](https://ashaakiranngroup.com) |
+| **2278** | International Management Institute (IMI), Bhubaneswar | Private | Khurda, Odisha - 751003 | [www.imibh.edu.in](https://www.imibh.edu.in) |
+| **2292** | Sri Sri University - Faculty of Management Studies | Private | Cuttack, Odisha - 754006 | [srisriuniversity.edu.in](https://srisriuniversity.edu.in) |
 

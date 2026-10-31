@@ -137316,13 +137316,13 @@
     },
     {
       "id": 2246,
-      "name": "GAYATRI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "name": "Gayatri Institute of Science and Technology",
       "shortName": "Course Institute-1",
       "location": "GANJAM",
       "state": "Odisha",
-      "address": "GANJU,BRAHMAPUR",
-      "phone": "0123-456789",
-      "website": "https://gist.edu.in",
+      "address": "At Gaunju, Berhampur, District Ganjam, Odisha - 760010",
+      "phone": "+91-7978252229",
+      "website": "https://www.gistmba.in",
       "rating": 4.5,
       "reviews": 141,
       "type": "Private",
@@ -137334,7 +137334,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GAYATRI%20INSTITUTE%20OF%20SCIENCE%20AND%20TECHNOLOGY%20GANJAM%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_6.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba/gayatri-institute-of-science-and-technology-campus.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -137343,20 +137343,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.2 Lakhs",
+          "fee": "₹1.2 Lakhs",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics + OJEE",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "intake": 60
         },
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "name": "BCA",
+          "title": "Bachelor of Computer Applications",
+          "duration": "3 Years",
+          "fees": "₹1.1 Lakhs",
+          "fee": "₹1.1 Lakhs",
+          "eligibility": "10+2 from recognized board with Mathematics",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -137372,10 +137376,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_6.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GAYATRI%20INSTITUTE%20OF%20SCIENCE%20AND%20TECHNOLOGY%20GANJAM%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Berhampur",
+      "email": "principalmba.gist@gmail.com",
+      "verified": true
     },
     {
       "id": 2247,
@@ -137488,13 +137495,13 @@
     },
     {
       "id": 2249,
-      "name": "JAYADEVA BUSINESS SCHOOL",
+      "name": "Jayadeva Business School",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "BUDHIPADA",
-      "phone": "0123-456789",
-      "website": "https://www.jayadevabusines.edu.in",
+      "address": "Budhipada, Naharkanta, Balianta, Bhubaneswar, Khordha, Odisha - 752101",
+      "phone": "+91-674-2463605",
+      "website": "https://jbsodisha.org",
       "rating": 4.5,
       "reviews": 477,
       "type": "Private",
@@ -137506,7 +137513,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=JAYADEVA%20BUSINESS%20SCHOOL%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_9.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://images.tv9kannada.com/wp-content/uploads/2025/11/jayadeva-hospital-.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -137515,12 +137522,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹2.2 Lakhs",
+          "fee": "₹2.2 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/XAT/ATMA",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -137536,20 +137545,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_9.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAYADEVA%20BUSINESS%20SCHOOL%20KHORDHA%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Bhubaneswar",
+      "email": "jbsorissa@gmail.com",
+      "verified": true
     },
     {
       "id": 2250,
-      "name": "GAYATRI INSTITUTE OF MANAGEMENT",
+      "name": "Gayatri Institute of Management",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "AT- SUDHASADANGI, MOUZA/PO- BRAHMANSUALO, BLOCK/PS- BALIANTA, DIST- KHURDA, ODISHA",
-      "phone": "0123-456789",
-      "website": "https://gim.edu.in",
+      "address": "At Sudhasadangi, Mouza/PO Brahmansualo, Balianta, Bhubaneswar, Khurda, Odisha - 751002",
+      "phone": "+91-7978252229",
+      "website": "http://www.gimmba.in",
       "rating": 4.5,
       "reviews": 141,
       "type": "Private",
@@ -137561,7 +137573,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GAYATRI%20INSTITUTE%20OF%20MANAGEMENT%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_1.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://th.bing.com/th/id/R.07cb07410933dff62a1bc4ab08edd04b?rik=i5%2bkdVCi601NMw&riu=http%3a%2f%2fwww.gayatricollege.in%2fimages%2fGayatri_Building.jpg&ehk=7VSj%2fJPkpLn8jJBCM78YTKbbZRzKI8nedrm75bYILII%3d&risl=&pid=ImgRaw&r=0",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -137570,10 +137582,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "Graduation with 50% + OJEE/MAT/CAT",
           "type": "MANAGEMENT",
           "intake": 120
         }
@@ -137591,10 +137605,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_1.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GAYATRI%20INSTITUTE%20OF%20MANAGEMENT%20KHORDHA%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Bhubaneswar",
+      "email": "principalgimbbsr@gmail.com",
+      "verified": true
     },
     {
       "id": 2251,
@@ -137653,13 +137670,13 @@
     },
     {
       "id": 2252,
-      "name": "GANESH INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Ganesh Institute of Management Studies",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "BIDYA NAGAR, JAGANNATH PRASAD, ANDHARUA, BHUBANESWAR",
-      "phone": "0123-456789",
-      "website": "https://www.ganeshinstitute.edu.in",
+      "address": "Bidya Nagar, Jagannath Prasad, Andharua, P.S. Chandaka, Bhubaneswar, Khordha, Odisha - 751003",
+      "phone": "+91-7381153684",
+      "website": "https://gims.in.net",
       "rating": 4.5,
       "reviews": 446,
       "type": "Private",
@@ -137671,7 +137688,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GANESH%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/campus_architecture_3.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://daqwpj7vq235r.cloudfront.net/images/mba/ganesh-institute-of-management-studies-campus.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
@@ -137680,10 +137697,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.3 Lakhs",
+          "fee": "₹1.3 Lakhs",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics + OJEE",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
@@ -137701,10 +137720,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_3.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GANESH%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20KHORDHA%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Bhubaneswar",
+      "email": "info@gims.in.net",
+      "verified": true
     },
     {
       "id": 2253,
@@ -137762,13 +137784,13 @@
     },
     {
       "id": 2254,
-      "name": "OXFORD COLLEGE OF MANAGEMENT",
+      "name": "Oxford College of Management",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "AT-RAMCHANDRAPUR, PO-BHATAPATNA, PS-BALIANTA,",
-      "phone": "0123-456789",
-      "website": "https://www.oxfordcollegeof.edu.in",
+      "address": "Ramchandrapur, P.O. Bhatapatna, P.S. Balianta, Bhubaneswar, Khordha, Odisha - 752115",
+      "phone": "+91-9437170600",
+      "website": "http://www.oxfordbbsr.com",
       "rating": 4.5,
       "reviews": 467,
       "type": "Private",
@@ -137780,7 +137802,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=OXFORD%20COLLEGE%20OF%20MANAGEMENT%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/iiit_bangalore_campus.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.bangaloreeducation.com/photos/management-colleges/oxford-college-management-campus.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
@@ -137789,12 +137811,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "Graduation with 50% + OJEE/MAT/CAT",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -137810,10 +137834,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=OXFORD%20COLLEGE%20OF%20MANAGEMENT%20KHORDHA%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Bhubaneswar",
+      "email": "ocmbbsr@gmail.com",
+      "verified": true
     },
     {
       "id": 2255,
@@ -137872,13 +137899,13 @@
     },
     {
       "id": 2256,
-      "name": "RADHAKRISHNA INSTITUTE OF TECHNOLOGY AND ENGINEERING (RITE)",
+      "name": "Radhakrishna Institute of Technology and Engineering (RITE)",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "PLOT NO. -1, KHURDA INDUSTRIAL ESTATE, DISTRICT: KHURDA, UNDER BHUBANESWAR DEVELOPMENT AUTHORITY, BHUANESWAR",
-      "phone": "0123-456789",
-      "website": "https://www.radhakrishnains.edu.in",
+      "address": "IDCO Plot No. 1, IDCO Industrial Estate, Barunei, Khurda, Bhubaneswar, Odisha - 752057",
+      "phone": "+91-8895199998",
+      "website": "https://www.riteindia.edu.in",
       "rating": 4.5,
       "reviews": 354,
       "type": "Private",
@@ -137890,7 +137917,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=RADHAKRISHNA%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20ENGINEERING%20(RITE)%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bms_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://universitykart.b-cdn.net/Content/upload/admin/312zufrx.qgs.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
@@ -137899,10 +137926,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.4 Lakhs",
+          "fee": "₹1.4 Lakhs",
+          "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics + OJEE",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
         }
@@ -137920,10 +137949,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bms_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RADHAKRISHNA%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20ENGINEERING%20(RITE)%20KHORDHA%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Bhubaneswar",
+      "email": "info@riteindia.edu.in",
+      "verified": true
     },
     {
       "id": 2257,
@@ -138145,13 +138177,13 @@
     },
     {
       "id": 2261,
-      "name": "UTKAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+      "name": "Utkal Institute of Technology and Management",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "AT: BHATAKURI, PO: GANGAPADA, KHORDHA ODISHA",
-      "phone": "0123-456789",
-      "website": "https://www.utkalinstituteo.edu.in",
+      "address": "Bhatakuri, P.O. Gangapada, Bhubaneswar, Khordha, Odisha - 752054",
+      "phone": "+91-8249296350",
+      "website": "https://uitm.co.in",
       "rating": 4.5,
       "reviews": 152,
       "type": "Private",
@@ -138163,7 +138195,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=UTKAL%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/UIET-Bhubaneswar-1024x489.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.studyplaces.co.in/wp-content/uploads/2021/06/UIET-Bhubaneswar-1024x489.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
@@ -138172,12 +138204,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1.3 Lakhs",
+          "fee": "₹1.3 Lakhs",
+          "eligibility": "Graduation with 50% + OJEE/MAT/CAT",
           "type": "MANAGEMENT",
-          "intake": 180
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -138193,19 +138227,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/UIET-Bhubaneswar-1024x489.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UTKAL%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20KHORDHA%20Odisha"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UTKAL%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20KHORDHA%20Odisha",
+      "city": "Bhubaneswar",
+      "email": "uitmbhubaneswar@gmail.com",
+      "verified": true
     },
     {
       "id": 2262,
-      "name": "ASHAA KIRANN BUSINESS SCHOOL",
+      "name": "Ashaa Kirann Business School",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "AT/PO- PALASPUR, , PS- CHANDAKA",
-      "phone": "0123-456789",
-      "website": "https://www.ashaakirannbusi.edu.in",
+      "address": "Palaspur, Chhatabar, Chandaka, Bhubaneswar, Khordha, Odisha - 752054",
+      "phone": "+91-8093177718",
+      "website": "https://ashaakiranngroup.com",
       "rating": 4.5,
       "reviews": 124,
       "type": "Private",
@@ -138217,7 +138254,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ASHAA%20KIRANN%20BUSINESS%20SCHOOL%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/svkm_upg_vileparle.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://www.mapdesign.co/wp-content/uploads/2022/03/MAP-design-modern-campus-architecture-architect-kiran-mathema-gateway-portal-business-school-building-ace-institute-of-management-atrium.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -138226,12 +138263,14 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹2.2 Lakhs",
+          "fee": "₹2.2 Lakhs",
+          "eligibility": "Graduation with 50% + MAT/CAT/XAT/ATMA",
           "type": "MANAGEMENT",
-          "intake": 360
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -138247,10 +138286,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASHAA%20KIRANN%20BUSINESS%20SCHOOL%20KHORDHA%20Odisha",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Bhubaneswar",
+      "email": "info@ashaakiranngroup.com",
+      "verified": true
     },
     {
       "id": 2263,
@@ -139074,13 +139116,13 @@
     },
     {
       "id": 2278,
-      "name": "IMI BHUBANESWAR",
+      "name": "International Management Institute (IMI), Bhubaneswar",
       "shortName": "Course Institute-1",
       "location": "KHORDHA",
       "state": "Odisha",
-      "address": "IDCO PLOT NO. 1 VILLAGE GOTHAPATNA P.O MALIPADA",
-      "phone": "0123-456789",
-      "website": "https://www.bhu.ac.in",
+      "address": "IDCO Plot No. 1, Gothapatna, P.O. Malipada, P.S. Chandaka, Bhubaneswar, Khurda, Odisha - 751003",
+      "phone": "+91-7789022222",
+      "website": "https://www.imibh.edu.in",
       "rating": 4.5,
       "reviews": 74,
       "type": "Private",
@@ -139092,7 +139134,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=IMI%20BHUBANESWAR%20KHORDHA%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://imibh.edu.in/images/gallery/infrastruc_315.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://imibh.edu.in/images/gallery/infrastruc_315.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
@@ -139101,12 +139143,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PGDM",
+          "name": "PGDM",
+          "title": "Post Graduate Diploma in Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹13.2 Lakhs",
+          "fee": "₹13.2 Lakhs",
+          "eligibility": "Graduation with 50% + CAT/XAT/GMAT",
           "type": "MANAGEMENT",
           "intake": 180
+        },
+        {
+          "name": "PGDM (Online)",
+          "title": "PGDM Online",
+          "duration": "2 Years",
+          "fees": "₹4.5 Lakhs",
+          "fee": "₹4.5 Lakhs",
+          "eligibility": "Graduation with 50%",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -139122,9 +139176,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://imibh.edu.in/images/gallery/infrastruc_315.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IMI%20BHUBANESWAR%20KHORDHA%20Odisha"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IMI%20BHUBANESWAR%20KHORDHA%20Odisha",
+      "city": "Bhubaneswar",
+      "email": "imibhinfo@imibh.edu.in",
+      "verified": true
     },
     {
       "id": 2279,
@@ -139836,13 +139893,13 @@
     },
     {
       "id": 2292,
-      "name": "SRI SRI UNIVERSITY - FACULTY OF MANAGEMENT STUDIES",
+      "name": "Sri Sri University - Faculty of Management Studies",
       "shortName": "Course Institute-1",
       "location": "CUTTACK",
       "state": "Odisha",
-      "address": "WARD NO 1, BIDYADHARPUR, P.S. GODI SAHI",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=SRI%20SRI%20UNIVERSITY%20-%20FACULTY%20OF%20MANAGEMENT%20STUDIES%20official%20website%20CUTTACK%20Odisha",
+      "address": "Sri Sri Vihar, Ward No. 3, Bidyadharpur, Godi Sahi, Cuttack, Odisha - 754006",
+      "phone": "+91-7894424562",
+      "website": "https://srisriuniversity.edu.in",
       "rating": 4.5,
       "reviews": 67,
       "type": "Private",
@@ -139854,7 +139911,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SRI%20SRI%20UNIVERSITY%20-%20FACULTY%20OF%20MANAGEMENT%20STUDIES%20CUTTACK%20Odisha",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/sri-sri-university-cuttack-365765.webp",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/sri-sri-university-cuttack-365765.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -139863,12 +139920,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA(GENERAL MANAGEMENT)",
+          "name": "MBA (General Management)",
+          "title": "MBA General Management",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹7.5 Lakhs",
+          "fee": "₹7.5 Lakhs",
+          "eligibility": "Graduation with 50% + CAT/MAT/CMAT/OJEE",
           "type": "MANAGEMENT",
           "intake": 120
+        },
+        {
+          "name": "MBA (Agribusiness)",
+          "title": "MBA Agribusiness",
+          "duration": "2 Years",
+          "fees": "₹5.5 Lakhs",
+          "fee": "₹5.5 Lakhs",
+          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -139884,9 +139953,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/sri-sri-university-cuttack-365765.webp",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20SRI%20UNIVERSITY%20-%20FACULTY%20OF%20MANAGEMENT%20STUDIES%20CUTTACK%20Odisha"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20SRI%20UNIVERSITY%20-%20FACULTY%20OF%20MANAGEMENT%20STUDIES%20CUTTACK%20Odisha",
+      "city": "Cuttack",
+      "email": "info@srisriuniversity.edu.in",
+      "verified": true
     },
     {
       "id": 2293,

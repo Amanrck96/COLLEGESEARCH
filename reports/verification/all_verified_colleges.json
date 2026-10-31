@@ -1873,5 +1873,80 @@
         "website": "https://bimsbbsr.in"
       }
     ]
+  },
+  {
+    "batch": 26,
+    "items": [
+      {
+        "id": 2246,
+        "name": "Gayatri Institute of Science and Technology",
+        "type": "Private",
+        "location": "District Ganjam, Odisha - 760010",
+        "website": "https://www.gistmba.in"
+      },
+      {
+        "id": 2249,
+        "name": "Jayadeva Business School",
+        "type": "Private",
+        "location": "Khordha, Odisha - 752101",
+        "website": "https://jbsodisha.org"
+      },
+      {
+        "id": 2250,
+        "name": "Gayatri Institute of Management",
+        "type": "Private",
+        "location": "Khurda, Odisha - 751002",
+        "website": "http://www.gimmba.in"
+      },
+      {
+        "id": 2252,
+        "name": "Ganesh Institute of Management Studies",
+        "type": "Private",
+        "location": "Khordha, Odisha - 751003",
+        "website": "https://gims.in.net"
+      },
+      {
+        "id": 2254,
+        "name": "Oxford College of Management",
+        "type": "Private",
+        "location": "Khordha, Odisha - 752115",
+        "website": "http://www.oxfordbbsr.com"
+      },
+      {
+        "id": 2256,
+        "name": "Radhakrishna Institute of Technology and Engineering (RITE)",
+        "type": "Private",
+        "location": "Bhubaneswar, Odisha - 752057",
+        "website": "https://www.riteindia.edu.in"
+      },
+      {
+        "id": 2261,
+        "name": "Utkal Institute of Technology and Management",
+        "type": "Private",
+        "location": "Khordha, Odisha - 752054",
+        "website": "https://uitm.co.in"
+      },
+      {
+        "id": 2262,
+        "name": "Ashaa Kirann Business School",
+        "type": "Private",
+        "location": "Khordha, Odisha - 752054",
+        "website": "https://ashaakiranngroup.com"
+      },
+      {
+        "id": 2278,
+        "name": "International Management Institute (IMI), Bhubaneswar",
+        "type": "Private",
+        "location": "Khurda, Odisha - 751003",
+        "website": "https://www.imibh.edu.in"
+      },
+      {
+        "id": 2292,
+        "name": "Sri Sri University - Faculty of Management Studies",
+        "type": "Private",
+        "location": "Cuttack, Odisha - 754006",
+        "website": "https://srisriuniversity.edu.in"
+      }
+    ]
   }
 ]
