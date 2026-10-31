@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **330 / 12,660**  
-**Roadmap Progress**: **33.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **340 / 12,660**  
+**Roadmap Progress**: **34.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -504,4 +504,19 @@
 | **2651** | Palivela PG College | Private | Dr. B.R. Ambedkar Konaseema District, Andhra Pradesh - 533229 | [www.palivelapgcollege.com](http://www.palivelapgcollege.com) |
 | **2652** | Nova PG College (MBA) | Private | NTR District, Andhra Pradesh - 521456 | [www.nova.ac.in](https://www.nova.ac.in) |
 | **2653** | GIET Engineering College (Autonomous) | Private (Autonomous) | East Godavari District, Andhra Pradesh - 533296 | [gietec.ac.in](https://gietec.ac.in) |
+
+### Batch 34 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **2654** | PVKK Institute of Technology (PVKKIT) | Private | Anantapuramu, Andhra Pradesh - 515001 | [www.pvkkit.ac.in](https://www.pvkkit.ac.in) |
+| **2658** | Gonna Institute of Information Technology & Sciences (GIITS) | Private | Visakhapatnam, Andhra Pradesh - 530053 | [www.giits.in](http://www.giits.in) |
+| **2659** | Veeravalli Vidya Sundar P.G. College | Private | East Godavari District, Andhra Pradesh - 533292 | [www.vvspgl.org](http://www.vvspgl.org) |
+| **2661** | School of Management Studies - M.R.P.G. College | Autonomous Government-Aided | Vizianagaram, Andhra Pradesh - 535002 | [smsmrpg.com](https://smsmrpg.com) |
+| **2662** | Priyadarshini P.G. College | Private | Guntur, Andhra Pradesh - 522017 | [www.priyadarshinigroup.in](https://www.priyadarshinigroup.in) |
+| **2663** | The Hindu College (PG Courses) Department of Management Studies | Government-Aided | Krishna District, Andhra Pradesh - 521001 | [www.hcmtm.ac.in](http://www.hcmtm.ac.in) |
+| **2667** | K. Chandrakala P.G. College | Private | Guntur District, Andhra Pradesh - 522201 | [www.psres.org.in](https://www.psres.org.in/kcpgcollege.org/) |
+| **2671** | Dadi Institute of Engineering & Technology (DIET) | Private | Visakhapatnam District, Andhra Pradesh - 531002 | [www.diet.edu.in](https://www.diet.edu.in) |
+| **2681** | Sreerama Institute of Management (SRIM) | Private | West Godavari District, Andhra Pradesh - 534218 | [srim.asrgroup.co.in](https://srim.asrgroup.co.in) |
+| **2682** | Pydah College of Engineering | Private | Kakinada District, Andhra Pradesh - 533461 | [www.pydahpce.edu.in](https://www.pydahpce.edu.in) |
 

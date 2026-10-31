@@ -1,0 +1,177 @@
+[
+  {
+    "id": 2654,
+    "name": "P.V.K.K. INSTITUTE OF TECHNOLOGY",
+    "address": "RUDRAMPETA, SANAPA ROAD,ANANTAPUR,A P.",
+    "state": "Andhra Pradesh",
+    "img": "https://media.getmyuni.com/reviews/110533__31180/16540854279.jpeg",
+    "website": "https://www.pvkkinstituteof.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      },
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2658,
+    "name": "GONNA INSTITUTE OF INFORMATION TECHNOLOGY AND SCIENCES",
+    "address": "WARD NO:-56, GONNAVANI PALEM, AGANAMPUDI, VISAKHAPATNAM.",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.gonnainstituteo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2659,
+    "name": "VEERAVALLI VIDY SUNDAR P.G. COLLEGE",
+    "address": "BURUGUPUDI KORUKONDA MANDAL RAJAHMUNDRY EAST GODAVARI DT.",
+    "state": "Andhra Pradesh",
+    "img": "https://cdn.universitykart.com/Content/upload/admin/jw5tc2pt.w4i.jpg",
+    "website": "https://www.veeravallividys.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2661,
+    "name": "SCHOOL OF MANAGEMENT STUDIES- M.R.P.G.COLLEGE",
+    "address": "SCHOOL OF MANAGEMENT STUDIES - M.R.P.G. COLLEGE, FORT CAMPUS",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.schoolofmanagem.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2662,
+    "name": "PRIYADARSHINI P.G COLLEGE",
+    "address": "5TH MILE, PULLADIGUNTA, VATTICHERUKURU GUNTUR -522017",
+    "state": "Andhra Pradesh",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/masvnaskdnvv.jpg?width=1080&inst_uid=2662",
+    "website": "https://www.priyadarshinipg.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2663,
+    "name": "THE HINDU COLLEGE (PG COURSES) PG DEPARTMENT OF MANAGEMENT STUDIES,MACHILIPATNAM",
+    "address": "THE HINDU COLLEGE (PG COURSES), P.G.DEPARTMENT OF MANAGEMENT STUDIES, OPP:LIC DIVISIONAL OFFICE, BATCHUPET, MACHILIPATNAM",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.google.com/search?q=THE%20HINDU%20COLLEGE%20(PG%20COURSES)%20PG%20DEPARTMENT%20OF%20MANAGEMENT%20STUDIES%2CMACHILIPATNAM%20official%20website%20KRISHNA%20Andhra%20Pradesh",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2667,
+    "name": "K. CHANDRAKALA P.G COLLEGE,TENALI",
+    "address": "BURRIPALEM ROAD , TENALI",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.kchandrakalapgc.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2671,
+    "name": "DADI INSTITUTE OF ENGINEERING & TECHNOLOGY (DIET)",
+    "address": "DADI INSTITUTE OF ENGINEERING & TECHNOLOGY NATIONAL HIGH WAY- 5, GAVARAPALEM, ANAKAPALLE, VISAKHAPATNAM -531002.",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/dadi-institute-of-engineering-technology-visakhapatnam-321681.webp",
+    "website": "https://www.dadiinstituteof.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2681,
+    "name": "SREERAMA INSTITUTE OF MANAGEMENT",
+    "address": "PYDIPARRU, TANUKU, W.G.DIST, A.P.",
+    "state": "Andhra Pradesh",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2019-20-8-13-27-41_Sree Rama Institute.jpeg",
+    "website": "https://www.sreeramainstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 2682,
+    "name": "PYDAH COLLEGE OF ENGINEERING",
+    "address": "PATAVALA, TALLAREVU MANDAL, EAST GODAVBARI DISTRICT.",
+    "state": "Andhra Pradesh",
+    "img": "https://www.collegebatch.com/static/clg-gallery/pydah-college-of-engineering-east-godavari-280171.webp",
+    "website": "https://www.pydahcollegeofe.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

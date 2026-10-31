@@ -2473,5 +2473,80 @@
         "website": "https://gietec.ac.in"
       }
     ]
+  },
+  {
+    "batch": 34,
+    "items": [
+      {
+        "id": 2654,
+        "name": "PVKK Institute of Technology (PVKKIT)",
+        "type": "Private",
+        "location": "Anantapuramu, Andhra Pradesh - 515001",
+        "website": "https://www.pvkkit.ac.in"
+      },
+      {
+        "id": 2658,
+        "name": "Gonna Institute of Information Technology & Sciences (GIITS)",
+        "type": "Private",
+        "location": "Visakhapatnam, Andhra Pradesh - 530053",
+        "website": "http://www.giits.in"
+      },
+      {
+        "id": 2659,
+        "name": "Veeravalli Vidya Sundar P.G. College",
+        "type": "Private",
+        "location": "East Godavari District, Andhra Pradesh - 533292",
+        "website": "http://www.vvspgl.org"
+      },
+      {
+        "id": 2661,
+        "name": "School of Management Studies - M.R.P.G. College",
+        "type": "Autonomous Government-Aided",
+        "location": "Vizianagaram, Andhra Pradesh - 535002",
+        "website": "https://smsmrpg.com"
+      },
+      {
+        "id": 2662,
+        "name": "Priyadarshini P.G. College",
+        "type": "Private",
+        "location": "Guntur, Andhra Pradesh - 522017",
+        "website": "https://www.priyadarshinigroup.in"
+      },
+      {
+        "id": 2663,
+        "name": "The Hindu College (PG Courses) Department of Management Studies",
+        "type": "Government-Aided",
+        "location": "Krishna District, Andhra Pradesh - 521001",
+        "website": "http://www.hcmtm.ac.in"
+      },
+      {
+        "id": 2667,
+        "name": "K. Chandrakala P.G. College",
+        "type": "Private",
+        "location": "Guntur District, Andhra Pradesh - 522201",
+        "website": "https://www.psres.org.in/kcpgcollege.org/"
+      },
+      {
+        "id": 2671,
+        "name": "Dadi Institute of Engineering & Technology (DIET)",
+        "type": "Private",
+        "location": "Visakhapatnam District, Andhra Pradesh - 531002",
+        "website": "https://www.diet.edu.in"
+      },
+      {
+        "id": 2681,
+        "name": "Sreerama Institute of Management (SRIM)",
+        "type": "Private",
+        "location": "West Godavari District, Andhra Pradesh - 534218",
+        "website": "https://srim.asrgroup.co.in"
+      },
+      {
+        "id": 2682,
+        "name": "Pydah College of Engineering",
+        "type": "Private",
+        "location": "Kakinada District, Andhra Pradesh - 533461",
+        "website": "https://www.pydahpce.edu.in"
+      }
+    ]
   }
 ]
