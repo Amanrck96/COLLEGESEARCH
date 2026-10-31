@@ -1498,5 +1498,80 @@
         "website": "https://rgu.ac.in"
       }
     ]
+  },
+  {
+    "batch": 21,
+    "items": [
+      {
+        "id": 1667,
+        "name": "Centre for Management Studies (CMS), Dibrugarh University",
+        "type": "Public/Government (State University Department)",
+        "location": "Assam, India",
+        "website": "https://cmsdu.org"
+      },
+      {
+        "id": 1692,
+        "name": "GCC Centre of Management Studies, Gauhati Commerce College",
+        "type": "Public/Government-Aided (Provincialized College)",
+        "location": "Assam, India",
+        "website": "https://gauhaticommercecollege.in"
+      },
+      {
+        "id": 1697,
+        "name": "Don Bosco Institute of Management (DBIM), Guwahati",
+        "type": "Private",
+        "location": "Assam, India",
+        "website": "https://dbim.ac.in"
+      },
+      {
+        "id": 1701,
+        "name": "Assam Institute of Management (AIM), Guwahati",
+        "type": "Public/Government (Autonomous State Government Institute)",
+        "location": "Assam, India",
+        "website": "https://aimguwahati.edu.in"
+      },
+      {
+        "id": 1709,
+        "name": "North Eastern Regional Institute of Management (NERIM), Guwahati",
+        "type": "Private",
+        "location": "Assam, India",
+        "website": "https://nerimindia.org"
+      },
+      {
+        "id": 1746,
+        "name": "Pt. Mohan Lal SD Business School (PML SD BS), Chandigarh",
+        "type": "Private",
+        "location": "Chandigarh - 160030, India",
+        "website": "https://pmlsdbs.ac.in"
+      },
+      {
+        "id": 1763,
+        "name": "Regional Institute of Cooperative Management (RICM), Chandigarh",
+        "type": "Public/Government (Central Government Autonomous Institute)",
+        "location": "Chandigarh - 160030, India",
+        "website": "https://ricmchd.org"
+      },
+      {
+        "id": 1767,
+        "name": "Department of Management Studies, Islamia College of Science and Commerce, Srinagar",
+        "type": "Public/Government (Autonomous State College)",
+        "location": "Jammu & Kashmir, India",
+        "website": "https://www.islamiacollege.edu.in"
+      },
+      {
+        "id": 1771,
+        "name": "Department of Computer Sciences, University of Kashmir, Srinagar",
+        "type": "Public/Government (State University Department)",
+        "location": "Jammu & Kashmir, India",
+        "website": "https://kashmiruniversity.net"
+      },
+      {
+        "id": 1793,
+        "name": "The Business School (TBS), University of Jammu",
+        "type": "Public/Government (State University Department)",
+        "location": "Jammu & Kashmir, India",
+        "website": "https://tbs.jammuuniversity.ac.in"
+      }
+    ]
   }
 ]

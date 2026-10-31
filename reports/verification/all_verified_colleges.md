@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **200 / 12,660**  
-**Roadmap Progress**: **20.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **210 / 12,660**  
+**Roadmap Progress**: **21.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -309,4 +309,19 @@
 | **1619** | Netaji Subhas University (NSU), Jamshedpur | Private | Jharkhand, India | [nsuniv.ac.in](https://nsuniv.ac.in) |
 | **1620** | XLRI - Xavier School of Management, Jamshedpur | Private | Jharkhand, India | [xlri.ac.in](https://xlri.ac.in) |
 | **1645** | Department of Computer Science and Engineering, Rajiv Gandhi University (RGU), Itanagar | Public/Government (Central University Department) | Arunachal Pradesh, India | [rgu.ac.in](https://rgu.ac.in) |
+
+### Batch 21 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1667** | Centre for Management Studies (CMS), Dibrugarh University | Public/Government (State University Department) | Assam, India | [cmsdu.org](https://cmsdu.org) |
+| **1692** | GCC Centre of Management Studies, Gauhati Commerce College | Public/Government-Aided (Provincialized College) | Assam, India | [gauhaticommercecollege.in](https://gauhaticommercecollege.in) |
+| **1697** | Don Bosco Institute of Management (DBIM), Guwahati | Private | Assam, India | [dbim.ac.in](https://dbim.ac.in) |
+| **1701** | Assam Institute of Management (AIM), Guwahati | Public/Government (Autonomous State Government Institute) | Assam, India | [aimguwahati.edu.in](https://aimguwahati.edu.in) |
+| **1709** | North Eastern Regional Institute of Management (NERIM), Guwahati | Private | Assam, India | [nerimindia.org](https://nerimindia.org) |
+| **1746** | Pt. Mohan Lal SD Business School (PML SD BS), Chandigarh | Private | Chandigarh - 160030, India | [pmlsdbs.ac.in](https://pmlsdbs.ac.in) |
+| **1763** | Regional Institute of Cooperative Management (RICM), Chandigarh | Public/Government (Central Government Autonomous Institute) | Chandigarh - 160030, India | [ricmchd.org](https://ricmchd.org) |
+| **1767** | Department of Management Studies, Islamia College of Science and Commerce, Srinagar | Public/Government (Autonomous State College) | Jammu & Kashmir, India | [www.islamiacollege.edu.in](https://www.islamiacollege.edu.in) |
+| **1771** | Department of Computer Sciences, University of Kashmir, Srinagar | Public/Government (State University Department) | Jammu & Kashmir, India | [kashmiruniversity.net](https://kashmiruniversity.net) |
+| **1793** | The Business School (TBS), University of Jammu | Public/Government (State University Department) | Jammu & Kashmir, India | [tbs.jammuuniversity.ac.in](https://tbs.jammuuniversity.ac.in) |
 

@@ -105369,16 +105369,16 @@
     },
     {
       "id": 1667,
-      "name": "CENTRE FOR MANAGEMENT STUDIES",
+      "name": "Centre for Management Studies (CMS), Dibrugarh University",
       "shortName": "Course Institute-1",
       "location": "DIBRUGARH",
       "state": "Assam",
-      "address": "DIBRUGARH UNIVERSITY NH 37",
-      "phone": "0123-456789",
-      "website": "https://www.centreformanage.edu.in",
+      "address": "Dibrugarh University Campus, NH-37, Dibrugarh - 786004, Assam, India",
+      "phone": "+91-373-2370045 / 0373-2370243",
+      "website": "https://cmsdu.org",
       "rating": 4.5,
       "reviews": 407,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to CENTRE FOR MANAGEMENT STUDIES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 67,
       "facebook": "#",
@@ -105387,21 +105387,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=CENTRE%20FOR%20MANAGEMENT%20STUDIES%20DIBRUGARH%20Assam",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/chetana_bandra.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://cmsdu.org/data/images/photo11.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Dibrugarh University (Act VIII of 1965, Assam Legislative Assembly), Approved by AICTE",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA (Full Time)",
+          "title": "MBA (Full Time)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹75,000/yr",
+          "fees": "₹75,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50% + MAT/CAT/CMAT"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -105417,10 +105418,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/chetana_bandra.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTRE%20FOR%20MANAGEMENT%20STUDIES%20DIBRUGARH%20Assam",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "contact@cmsdu.org"
     },
     {
       "id": 1668,
@@ -106732,16 +106734,16 @@
     },
     {
       "id": 1692,
-      "name": "GCC CENTRE OF MANAGEMENT STUDIES",
+      "name": "GCC Centre of Management Studies, Gauhati Commerce College",
       "shortName": "Course Institute-1",
       "location": "KAMRUP METROPOLITAN",
       "state": "Assam",
-      "address": "GAUHATI COMMERCE COLLEGE, R.G. BARUAH ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.gcccentreofmana.edu.in",
+      "address": "Gauhati Commerce College, R.G. Baruah Road, Guwahati - 781021, Assam, India",
+      "phone": "+91-361-2410064 / +91-98640-23456",
+      "website": "https://gauhaticommercecollege.in",
       "rating": 4.5,
       "reviews": 524,
-      "type": "Private",
+      "type": "Public/Government-Aided (Provincialized College)",
       "about": "Welcome to GCC CENTRE OF MANAGEMENT STUDIES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 78,
       "facebook": "#",
@@ -106750,21 +106752,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=GCC%20CENTRE%20OF%20MANAGEMENT%20STUDIES%20KAMRUP%20METROPOLITAN%20Assam",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/pes_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://educationdunia.com/public/media.php?type=college&file=banner_lgoha7bd.5c514655b1ac6.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Gauhati University, Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹60,000/yr",
+          "fees": "₹60,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -106780,10 +106783,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pes_bangalore.jpg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "ownership": "Government-Aided",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GCC%20CENTRE%20OF%20MANAGEMENT%20STUDIES%20KAMRUP%20METROPOLITAN%20Assam",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "gccmanagement@gmail.com"
     },
     {
       "id": 1693,
@@ -107006,13 +107010,13 @@
     },
     {
       "id": 1697,
-      "name": "DON BOSCO INSTITUTE OF MANAGEMENT",
+      "name": "Don Bosco Institute of Management (DBIM), Guwahati",
       "shortName": "Course Institute-1",
       "location": "KAMRUP",
       "state": "Assam",
-      "address": "JOYPUR, KHARGHULI",
-      "phone": "0123-456789",
-      "website": "https://www.donboscoinstitu.edu.in",
+      "address": "Joypur, Kharghuli, Guwahati - 781004, Assam, India",
+      "phone": "+91-361-2600005 / +91-86383-44991",
+      "website": "https://dbim.ac.in",
       "rating": 4.5,
       "reviews": 226,
       "type": "Private",
@@ -107024,21 +107028,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DON%20BOSCO%20INSTITUTE%20OF%20MANAGEMENT%20KAMRUP%20Assam",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bms_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://microtec.in/storage/1e1b09cb-b86b-4933-9472-51b3379550a0/1e1b09cb-b86b-4933-9472-51b3379550a0-1584625217.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Assam Don Bosco University & AICTE Approved",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹1,10,000/yr",
+          "fees": "₹1,10,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50% + National Entrance"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -107054,10 +107059,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bms_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DON%20BOSCO%20INSTITUTE%20OF%20MANAGEMENT%20KAMRUP%20Assam",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "admin@dbim.ac.in"
     },
     {
       "id": 1698,
@@ -107224,16 +107230,16 @@
     },
     {
       "id": 1701,
-      "name": "ASSAM INSTITUTE OF MANAGEMENT",
+      "name": "Assam Institute of Management (AIM), Guwahati",
       "shortName": "Course Institute-1",
       "location": "KAMRUP METROPOLITAN",
       "state": "Assam",
-      "address": "VIGYAN PATH, PACHIM BORAGAON, GUWAHATI. PIN-781035",
-      "phone": "0123-456789",
-      "website": "https://www.assaminstituteo.edu.in",
+      "address": "Vigyan Path, Paschim Boragaon, Near Judicial Academy, Guwahati - 781035, Assam, India",
+      "phone": "+91-361-2972230 / +91-94351-46487",
+      "website": "https://aimguwahati.edu.in",
       "rating": 4.5,
       "reviews": 497,
-      "type": "Private",
+      "type": "Public/Government (Autonomous State Government Institute)",
       "about": "Welcome to ASSAM INSTITUTE OF MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 20,
       "facebook": "#",
@@ -107242,21 +107248,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ASSAM%20INSTITUTE%20OF%20MANAGEMENT%20KAMRUP%20METROPOLITAN%20Assam",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://alchetron.com/cdn/assam-institute-of-management-91b02d7f-271f-4797-84f3-125a4dfcc44-resize-750.jpeg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Government of Assam Autonomous Society, Affiliated with Assam Science & Technology University (ASTU), Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 70
+          "fee": "₹1,25,000/yr",
+          "fees": "₹1,25,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50% + CAT/MAT/CMAT"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -107272,10 +107279,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASSAM%20INSTITUTE%20OF%20MANAGEMENT%20KAMRUP%20METROPOLITAN%20Assam",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "director@aimguwahati.edu.in"
     },
     {
       "id": 1702,
@@ -107663,13 +107671,13 @@
     },
     {
       "id": 1709,
-      "name": "NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT(NERIM)",
+      "name": "North Eastern Regional Institute of Management (NERIM), Guwahati",
       "shortName": "Course Institute-1",
       "location": "KAMRUP METROPOLITAN",
       "state": "Assam",
-      "address": "PADMA NATH SARMAH BHAWAN JOYANAGAR, KHANAPARA",
-      "phone": "0123-456789",
-      "website": "https://www.northeasternreg.edu.in",
+      "address": "Padma Nath Sarmah Bhawan, Joyanagar, Khanapara, Guwahati - 781022, Assam, India",
+      "phone": "+91-361-2234990 / +91-98640-51111",
+      "website": "https://nerimindia.org",
       "rating": 4.5,
       "reviews": 146,
       "type": "Private",
@@ -107687,15 +107695,16 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Dibrugarh University & Gauhati University, Approved by AICTE & BCI",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 240
+          "fee": "₹95,000/yr",
+          "fees": "₹95,000/yr",
+          "seats": 120,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -107714,7 +107723,8 @@
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NORTH%20EASTERN%20REGIONAL%20INSTITUTE%20OF%20MANAGEMENT(NERIM)%20KAMRUP%20METROPOLITAN%20Assam",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "email": "info@nerimindia.org"
     },
     {
       "id": 1710,
@@ -109686,13 +109696,13 @@
     },
     {
       "id": 1746,
-      "name": "PML SD BUSINESS SCHOOL",
+      "name": "Pt. Mohan Lal SD Business School (PML SD BS), Chandigarh",
       "shortName": "Course Institute-1",
       "location": "CHANDIGARH",
       "state": "Chandigarh",
-      "address": "SECTOR-32C, CHANDIGARH-160030",
-      "phone": "0123-456789",
-      "website": "https://www.pmlsdbusinesssc.edu.in",
+      "address": "Sector 32-C, Chandigarh - 160030, India",
+      "phone": "+91-172-4912400 / 0172-4912401",
+      "website": "https://pmlsdbs.ac.in",
       "rating": 4.5,
       "reviews": 254,
       "type": "Private",
@@ -109704,21 +109714,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PML%20SD%20BUSINESS%20SCHOOL%20CHANDIGARH%20Chandigarh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/pml-sd-business-school-chandigarh-354925.webp",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.collegebatch.com/static/clg-gallery/pml-sd-business-school-chandigarh-354925.webp",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "Approved by AICTE, Ministry of Education, Govt. of India",
       "courses": [
         {
+          "name": "PGDM",
           "title": "PGDM",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "fee": "₹2,50,000/yr",
+          "fees": "₹2,50,000/yr",
+          "seats": 120,
+          "eligibility": "Graduation with min 50% + CAT/MAT/CMAT"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -109734,9 +109745,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/pml-sd-business-school-chandigarh-354925.webp",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PML%20SD%20BUSINESS%20SCHOOL%20CHANDIGARH%20Chandigarh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PML%20SD%20BUSINESS%20SCHOOL%20CHANDIGARH%20Chandigarh",
+      "email": "info@pmlsdbs.ac.in"
     },
     {
       "id": 1747,
@@ -110609,16 +110621,16 @@
     },
     {
       "id": 1763,
-      "name": "REGIONAL INSTITUTE OF COOPERATIVE MANAGEMENT",
+      "name": "Regional Institute of Cooperative Management (RICM), Chandigarh",
       "shortName": "Course Institute-1",
       "location": "CHANDIGARH",
       "state": "Chandigarh",
-      "address": "SECTOR 32-C, CHANDIGARH",
-      "phone": "0123-456789",
-      "website": "https://www.regionalinstitu.edu.in",
+      "address": "Sector 32-C, Chandigarh - 160030, India",
+      "phone": "+91-172-2600557 / 0172-2609071",
+      "website": "https://ricmchd.org",
       "rating": 4.5,
       "reviews": 328,
-      "type": "Private",
+      "type": "Public/Government (Central Government Autonomous Institute)",
       "about": "Welcome to REGIONAL INSTITUTE OF COOPERATIVE MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 95,
       "facebook": "#",
@@ -110627,21 +110639,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=REGIONAL%20INSTITUTE%20OF%20COOPERATIVE%20MANAGEMENT%20CHANDIGARH%20Chandigarh",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://ricmchd.org/wp-content/uploads/sites/9/2015/12/s2.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "National Council for Cooperative Training (NCCT), Ministry of Cooperation, Government of India, Approved by AICTE",
       "courses": [
         {
-          "title": "PGDM(AGRI BUSINESS MANAGEMENT)",
+          "name": "PGDM (Agri-Business Management)",
+          "title": "PGDM (Agri-Business Management)",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 30
+          "fee": "₹60,000/yr",
+          "fees": "₹60,000/yr",
+          "seats": 30,
+          "eligibility": "Graduation in Agriculture / Allied or Any Stream"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -110657,10 +110670,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_6.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=REGIONAL%20INSTITUTE%20OF%20COOPERATIVE%20MANAGEMENT%20CHANDIGARH%20Chandigarh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "ricmchd@gmail.com"
     },
     {
       "id": 1764,
@@ -110827,16 +110841,16 @@
     },
     {
       "id": 1767,
-      "name": "DEPARTMENT OF MANAGEMENT STUDIES",
+      "name": "Department of Management Studies, Islamia College of Science and Commerce, Srinagar",
       "shortName": "Course Institute-1",
       "location": "SRINAGAR",
       "state": "Jammu & Kashmir",
-      "address": "ISLAMIA COLLEGE OF SCIENCE AND COMMERCE, HAWAL",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofman.edu.in",
+      "address": "Islamia College Campus, Hawal, Srinagar - 190002, Jammu & Kashmir, India",
+      "phone": "+91-194-2426819 / 0194-2429014",
+      "website": "https://www.islamiacollege.edu.in",
       "rating": 4.9,
       "reviews": 146,
-      "type": "Private",
+      "type": "Public/Government (Autonomous State College)",
       "about": "Welcome to DEPARTMENT OF MANAGEMENT STUDIES, a premier institute located in SRINAGAR. We offer world-class education and facilities for our students.",
       "ranking": 2,
       "facebook": "#",
@@ -110845,7 +110859,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20MANAGEMENT%20STUDIES%20SRINAGAR%20Jammu%20%26%20Kashmir",
       "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://www.scrolldroll.com/wp-content/uploads/2015/11/NIT-Srinagar-2-1024x683.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
@@ -110853,13 +110867,13 @@
       ],
       "courses": [
         {
-          "title": "MBA(GENERAL MANAGEMENT)",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE",
+          "name": "MBA (General Management)",
+          "title": "MBA (General Management)",
           "duration": "2 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fee": "₹35,000/yr",
+          "fees": "₹35,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50%"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -110879,10 +110893,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 146,
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_7.jpg",
+      "ownership": "Government",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20MANAGEMENT%20STUDIES%20SRINAGAR%20Jammu%20%26%20Kashmir",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "email": "principal@islamiacollege.edu.in",
+      "affiliation": "Higher Education Department, Government of Jammu & Kashmir, UGC Autonomous College, Affiliated with University of Kashmir"
     },
     {
       "id": 1768,
@@ -111052,16 +111068,16 @@
     },
     {
       "id": 1771,
-      "name": "PG DEPARTMENT OF COMPUTER SCIENCES",
+      "name": "Department of Computer Sciences, University of Kashmir, Srinagar",
       "shortName": "Course Institute-1",
       "location": "SRINAGAR",
       "state": "Jammu & Kashmir",
-      "address": "UNIVERSITY OF KASHMIR",
-      "phone": "0123-456789",
-      "website": "https://www.pgdepartmentofc.edu.in",
+      "address": "Hazratbal, Srinagar - 190006, Jammu & Kashmir, India",
+      "phone": "+91-194-2272006 / 0194-2272317",
+      "website": "https://kashmiruniversity.net",
       "rating": 4.5,
       "reviews": 171,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to PG DEPARTMENT OF COMPUTER SCIENCES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 43,
       "facebook": "#",
@@ -111070,21 +111086,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=PG%20DEPARTMENT%20OF%20COMPUTER%20SCIENCES%20SRINAGAR%20Jammu%20%26%20Kashmir",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://nitsri.ac.in/upload/slider-1-2.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://nitsri.ac.in/upload/slider-1-2.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Kashmir (NAAC Grade A+ State Government University), Approved by UGC & AICTE",
       "courses": [
         {
+          "name": "MCA",
           "title": "MCA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 62
+          "fee": "₹22,000/yr",
+          "fees": "₹22,000/yr",
+          "seats": 60,
+          "eligibility": "BCA/B.Sc IT or Computer Science with min 50%"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -111100,9 +111117,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://nitsri.ac.in/upload/slider-1-2.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PG%20DEPARTMENT%20OF%20COMPUTER%20SCIENCES%20SRINAGAR%20Jammu%20%26%20Kashmir"
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PG%20DEPARTMENT%20OF%20COMPUTER%20SCIENCES%20SRINAGAR%20Jammu%20%26%20Kashmir",
+      "email": "cs@kashmiruniversity.ac.in"
     },
     {
       "id": 1772,
@@ -112250,16 +112268,16 @@
     },
     {
       "id": 1793,
-      "name": "THE BUSINESS SCHOOL",
+      "name": "The Business School (TBS), University of Jammu",
       "shortName": "Course Institute-1",
       "location": "JAMMU",
       "state": "Jammu & Kashmir",
-      "address": "THE BUSINESS SCHOOL, UNIVERSITY OF JAMMU ,BABA SAHEB AMBEDKAR ROAD, BAHU WALI RAKH ,JAMMU",
-      "phone": "0123-456789",
-      "website": "https://www.thebusinessscho.edu.in",
+      "address": "Baba Saheb Ambedkar Road, New Campus, University of Jammu, Jammu - 180006, Jammu & Kashmir, India",
+      "phone": "+91-191-2452827 / 0191-2435248",
+      "website": "https://tbs.jammuuniversity.ac.in",
       "rating": 4.5,
       "reviews": 172,
-      "type": "Private",
+      "type": "Public/Government (State University Department)",
       "about": "Welcome to THE BUSINESS SCHOOL, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 31,
       "facebook": "#",
@@ -112268,21 +112286,22 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=THE%20BUSINESS%20SCHOOL%20JAMMU%20Jammu%20%26%20Kashmir",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/28200_TBS_New.jpg",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/appImage/28200_TBS_New.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "affiliation": "",
+      "affiliation": "University of Jammu (NAAC Grade A+ State Government University), Approved by AICTE",
       "courses": [
         {
+          "name": "MBA",
           "title": "MBA",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 60
+          "fee": "₹45,000/yr",
+          "fees": "₹45,000/yr",
+          "seats": 60,
+          "eligibility": "Graduation with min 50% + CAT/AIMA MAT"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -112298,9 +112317,10 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/28200_TBS_New.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE%20BUSINESS%20SCHOOL%20JAMMU%20Jammu%20%26%20Kashmir"
+      "image": "/images/campuses/campus_architecture_10.jpg",
+      "ownership": "Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE%20BUSINESS%20SCHOOL%20JAMMU%20Jammu%20%26%20Kashmir",
+      "email": "director.tbsju@gmail.com"
     },
     {
       "id": 1794,
