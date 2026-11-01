@@ -9,3 +9,4 @@ const batch178 = colleges.filter(c => batch178Ids.includes(c.id));
 
 fs.writeFileSync(path.join(__dirname, '..', 'reports', 'verification', 'batch-178-candidates.json'), JSON.stringify(batch178, null, 2), 'utf8');
 console.log(`Extracted ${batch178.length} colleges for Batch 178.`);
+
