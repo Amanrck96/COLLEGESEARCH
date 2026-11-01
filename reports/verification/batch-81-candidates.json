@@ -1,0 +1,122 @@
+[
+  {
+    "id": 401,
+    "name": "SHANTI BUSINESS SCHOOL",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://shantibschool.edu.in/bca/assets/img/bca1.png",
+    "website": "https://www.shantibusinesss.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 402,
+    "name": "VIVEKANAND INSTITUTE OF MANAGEMENT",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.vivekanandinsti.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 403,
+    "name": "SHREE PAREKH ENGINEERING COLLEGE",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.shreeparekhengi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 406,
+    "name": "\"SHRI SATSANGI SAKETDHAM 'RAM ASHRAM' GROUP OF INSTITUTIONS\"",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/primus_bangalore.jpg",
+    "website": "https://www.shrisatsangisak.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 408,
+    "name": "DR. JIVRAJ MEHTA INSTITUTE OF TECHNOLOGY",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.drjivrajmehtain.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 409,
+    "name": "BHAGWAN ARIHANT INSTITUTE OF TECHNOLOGY",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://bmusurat.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 410,
+    "name": "SHRI LABHUBHAI TRIVEDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2024/March/1432024/Campus view of Shri Labhubhai Trivedi Institute of Engineering and Technology Rajkot_Campus-view.jpg",
+    "website": "https://www.bhu.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 413,
+    "name": "S.S.AGRAWAL INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/ss-agrawal-institute-of-management-technology-navsari-203346.webp",
+    "website": "https://www.ssagrawalinstit.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 414,
+    "name": "NOBLE GROUP OF INSTITUTIONS",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/noble-university-junagadh-354531.webp",
+    "website": "https://www.noblegroupofins.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 415,
+    "name": "GOVERNMENT POLYTECHNIC HALOL",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

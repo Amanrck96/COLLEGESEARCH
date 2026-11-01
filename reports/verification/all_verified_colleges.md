@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **800 / 12,660**  
-**Roadmap Progress**: **80.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **810 / 12,660**  
+**Roadmap Progress**: **81.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1209,4 +1209,19 @@
 | **398** | AAERT & SSB Faculty of Architecture, SCET (Sarvajanik University, Surat) | Private | ATHWALINES, SURAT | [scetarch.ac.in](https://scetarch.ac.in) |
 | **399** | Dr. V. R. Godhania College of Engineering and Technology (DRVRGCET Porbandar) | Private | OPP. NEW AIR PORT,' RAJKOT PORBANDAR NATIONAL HIGHWAY | [www.drvrgcet.ac.in](https://www.drvrgcet.ac.in) |
 | **400** | Gujarat Maritime Board Polytechnic (GMB Polytechnic Rajula, Amreli) | Public/Government | NEAR MODEL HIGH SCHOOL -RAJULA PINCODE-365560 DISTRICT;- AMRELI ,STATE ;- GUJARAT | [gmbpolytechnic.ac.in](https://gmbpolytechnic.ac.in) |
+
+### Batch 81 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **401** | Shanti Business School (SBS Ahmedabad) | Private | OPP. VRAJ GARDEN, OFF. S.P. RING ROAD | [shantibschool.edu.in](https://shantibschool.edu.in) |
+| **402** | Vivekanand Institute of Management (VIM Ahmedabad) | Private | NAVA VADAJ, AHMEDABAD | [www.vimanand.org](http://www.vimanand.org) |
+| **403** | Shree Parekh Engineering College (SPEC Mahuva, Bhavnagar) | Private | PAREKH COLLEGE GAYATRINAGAR ROAD | [spec.edu.in](http://spec.edu.in) |
+| **406** | Shri Satsangi Saketdham 'Ram Ashram' Group of Institutions (Vadasma, Mehsana) | Private | AT. & PO. VADASMA | [www.saketdham.org](http://www.saketdham.org) |
+| **408** | Dr. Jivraj Mehta Institute of Technology (DJMIT Mogar, Anand) | Private | NEAR SANKARA EYE HOSPITAL, | [www.djmit.ac.in](https://www.djmit.ac.in) |
+| **409** | Bhagwan Arihant Institute of Technology (BAIT BMU Surat) | Private | VESU - BHARTHANA, SURAT | [bmusurat.ac.in](https://bmusurat.ac.in) |
+| **410** | Shri Labhubhai Trivedi Institute of Engineering and Technology (SLTIET Rajkot) | Private | KALAWAD ROAD, RAJKOT | [sltiet.edu.in](https://sltiet.edu.in) |
+| **413** | S. S. Agrawal Institute of Management and Technology (SSAITM Navsari) | Private | GANDEVI ROAD, NAVSARI-396445 | [ssagrawal.org](https://ssagrawal.org) |
+| **414** | Noble Group of Institutions (Noble University, Junagadh) | Private | NR. BAMANGAM, DIST. - JUNAGADH. | [nobleuniversity.ac.in](https://nobleuniversity.ac.in) |
+| **415** | Government Polytechnic Halol (Panchmahal) | Public/Government | KANJARI ROAD, HALOL | [gphalol.ac.in](https://gphalol.ac.in) |
 

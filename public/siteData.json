@@ -34303,14 +34303,14 @@
     },
     {
       "id": 401,
-      "name": "SHANTI BUSINESS SCHOOL",
+      "name": "Shanti Business School (SBS Ahmedabad)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
       "address": "OPP. VRAJ GARDEN, OFF. S.P. RING ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.shantibusinesss.edu.in",
-      "rating": 4.5,
+      "phone": "079-66779999",
+      "website": "https://shantibschool.edu.in",
+      "rating": 4.3,
       "reviews": 99,
       "type": "Private",
       "about": "Welcome to SHANTI BUSINESS SCHOOL, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -34330,12 +34330,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "title": "Post Graduate Diploma in Management (PGDM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹3,75,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / XAT / CMAT / ATMA",
+          "exams": "CAT, MAT, XAT, CMAT",
+          "intake": "180"
+        },
+        {
+          "title": "PGDM in Marketing & Digital Media",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹3,75,000/Year",
+          "eligibility": "Graduation (50%+) + Entrance Exam",
+          "exams": "CAT, CMAT",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "10+2 in any stream + Merit",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -34353,18 +34372,20 @@
       ],
       "image": "https://shantibschool.edu.in/bca/assets/img/bca1.png",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHANTI%20BUSINESS%20SCHOOL%20AHMEDABAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHANTI%20BUSINESS%20SCHOOL%20AHMEDABAD%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 2010
     },
     {
       "id": 402,
-      "name": "VIVEKANAND INSTITUTE OF MANAGEMENT",
+      "name": "Vivekanand Institute of Management (VIM Ahmedabad)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
       "address": "VIM CAMPUS, FP 752, TPS28-NAVA WADAJ, NEAR SHREENATH APARTMENT, BEHIND SHIVAM APARTMENT, NEAR VYASWADI, AKHBARNAGAR, NAVA VADAJ, AHMEDABAD",
-      "phone": "0123-456789",
-      "website": "https://www.vivekanandinsti.edu.in",
-      "rating": 4.5,
+      "phone": "079-26861214",
+      "website": "http://www.vimanand.org",
+      "rating": 4,
       "reviews": 375,
       "type": "Private",
       "about": "Welcome to VIVEKANAND INSTITUTE OF MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -34384,12 +34405,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "HOTEL MANAGEMENT & CATERING TECHNOLOGY",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "HOTEL MANAGEMENT AND CATERING",
-          "intake": 60
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation (50%+) + CMAT / ACPC Gujarat",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Integrated MBA",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with English + ACPC Gujarat",
+          "exams": "ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Post Graduate Diploma in Management (PGDM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹70,000/Year",
+          "eligibility": "Graduation in any stream",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -34408,18 +34448,20 @@
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIVEKANAND%20INSTITUTE%20OF%20MANAGEMENT%20AHMEDABAD%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Ahmedabad",
+      "established": 2008
     },
     {
       "id": 403,
-      "name": "SHREE PAREKH ENGINEERING COLLEGE",
+      "name": "Shree Parekh Engineering College (SPEC Mahuva, Bhavnagar)",
       "shortName": "Course Institute-1",
       "location": "BHAVNAGAR",
       "state": "Gujarat",
       "address": "PAREKH COLLEGE GAYATRINAGAR ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.shreeparekhengi.edu.in",
-      "rating": 4.5,
+      "phone": "02844-228300",
+      "website": "http://spec.edu.in",
+      "rating": 3.9,
       "reviews": 178,
       "type": "Private",
       "about": "Welcome to SHREE PAREKH ENGINEERING COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -34439,12 +34481,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER ENGINEERING",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹62,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹62,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹62,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -34460,10 +34530,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHREE%20PAREKH%20ENGINEERING%20COLLEGE%20BHAVNAGAR%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Bhavnagar",
+      "established": 2012
     },
     {
       "id": 404,
@@ -34579,14 +34651,14 @@
     },
     {
       "id": 406,
-      "name": "\"SHRI SATSANGI SAKETDHAM 'RAM ASHRAM' GROUP OF INSTITUTIONS\"",
+      "name": "Shri Satsangi Saketdham 'Ram Ashram' Group of Institutions (Vadasma, Mehsana)",
       "shortName": "Course Institute-1",
       "location": "MEHSANA",
       "state": "Gujarat",
       "address": "AT. & PO. VADASMA",
-      "phone": "0123-456789",
-      "website": "https://www.shrisatsangisak.edu.in",
-      "rating": 4.5,
+      "phone": "02762-282400",
+      "website": "http://www.saketdham.org",
+      "rating": 4,
       "reviews": 438,
       "type": "Private",
       "about": "Welcome to \"SHRI SATSANGI SAKETDHAM 'RAM ASHRAM' GROUP OF INSTITUTIONS\", a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -34606,12 +34678,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCB/PCM + GUJCET",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹58,000/Year",
+          "eligibility": "Graduation (50%+) + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -34627,9 +34727,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/primus_bangalore.jpg",
+      "image": "",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%22SHRI%20SATSANGI%20SAKETDHAM%20'RAM%20ASHRAM'%20GROUP%20OF%20INSTITUTIONS%22%20MEHSANA%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%22SHRI%20SATSANGI%20SAKETDHAM%20'RAM%20ASHRAM'%20GROUP%20OF%20INSTITUTIONS%22%20MEHSANA%20Gujarat",
+      "city": "Mehsana",
+      "established": 2009
     },
     {
       "id": 407,
@@ -34688,14 +34790,14 @@
     },
     {
       "id": 408,
-      "name": "DR. JIVRAJ MEHTA INSTITUTE OF TECHNOLOGY",
+      "name": "Dr. Jivraj Mehta Institute of Technology (DJMIT Mogar, Anand)",
       "shortName": "Course Institute-1",
       "location": "ANAND",
       "state": "Gujarat",
       "address": "NH 8, NEAR SANKARA EYE HOSPITAL,",
-      "phone": "0123-456789",
-      "website": "https://www.drjivrajmehtain.edu.in",
-      "rating": 4.5,
+      "phone": "02692-280105",
+      "website": "https://www.djmit.ac.in",
+      "rating": 4.1,
       "reviews": 293,
       "type": "Private",
       "about": "Welcome to DR. JIVRAJ MEHTA INSTITUTE OF TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -34715,12 +34817,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 6
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -34739,18 +34869,20 @@
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20JIVRAJ%20MEHTA%20INSTITUTE%20OF%20TECHNOLOGY%20ANAND%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Anand",
+      "established": 2010
     },
     {
       "id": 409,
-      "name": "BHAGWAN ARIHANT INSTITUTE OF TECHNOLOGY",
+      "name": "Bhagwan Arihant Institute of Technology (BAIT BMU Surat)",
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
       "address": "SURVEY NO:149, NR,VIP ROAD, B/H.SHYAM MANDIR , VESU - BHARTHANA, SURAT",
-      "phone": "0123-456789",
+      "phone": "0261-6770100",
       "website": "https://bmusurat.ac.in",
-      "rating": 4.5,
+      "rating": 4.2,
       "reviews": 366,
       "type": "Private",
       "about": "Welcome to BHAGWAN ARIHANT INSTITUTE OF TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -34770,12 +34902,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CHEMICAL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹76,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Aeronautical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Chemical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹76,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹76,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -34794,18 +34954,20 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BHAGWAN%20ARIHANT%20INSTITUTE%20OF%20TECHNOLOGY%20SURAT%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Surat",
+      "established": 2019
     },
     {
       "id": 410,
-      "name": "SHRI LABHUBHAI TRIVEDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "name": "Shri Labhubhai Trivedi Institute of Engineering and Technology (SLTIET Rajkot)",
       "shortName": "Course Institute-1",
       "location": "RAJKOT",
       "state": "Gujarat",
       "address": "AT VILLAGE MAVDI, NEAR GOVERNMENT ENGINEERING COLLEGE, KALAWAD ROAD, RAJKOT",
-      "phone": "0123-456789",
-      "website": "https://www.bhu.ac.in",
-      "rating": 4.5,
+      "phone": "0281-2924151",
+      "website": "https://sltiet.edu.in",
+      "rating": 4.3,
       "reviews": 386,
       "type": "Private",
       "about": "Welcome to SHRI LABHUBHAI TRIVEDI INSTITUTE OF ENGINEERING AND TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -34825,12 +34987,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "fees": "₹71,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹71,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹71,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -34848,7 +35038,9 @@
       ],
       "image": "https://img.jagranjosh.com/images/2024/March/1432024/Campus view of Shri Labhubhai Trivedi Institute of Engineering and Technology Rajkot_Campus-view.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRI%20LABHUBHAI%20TRIVEDI%20INSTITUTE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20RAJKOT%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRI%20LABHUBHAI%20TRIVEDI%20INSTITUTE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20RAJKOT%20Gujarat",
+      "city": "Rajkot",
+      "established": 2010
     },
     {
       "id": 411,
@@ -34964,14 +35156,14 @@
     },
     {
       "id": 413,
-      "name": "S.S.AGRAWAL INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+      "name": "S. S. Agrawal Institute of Management and Technology (SSAITM Navsari)",
       "shortName": "Course Institute-1",
       "location": "NAVSARI",
       "state": "Gujarat",
       "address": "VEERANJALI MARG, OPP. VIDYAKUNJ HIGH SCHOOL, NEAR DEVINA PARK SOCIETY, GANDEVI ROAD, NAVSARI-396445",
-      "phone": "0123-456789",
-      "website": "https://www.ssagrawalinstit.edu.in",
-      "rating": 4.5,
+      "phone": "02637-232667",
+      "website": "https://ssagrawal.org",
+      "rating": 4.2,
       "reviews": 518,
       "type": "Private",
       "about": "Welcome to S.S.AGRAWAL INSTITUTE OF MANAGEMENT & TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -34991,12 +35183,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹70,000/Year",
+          "eligibility": "Graduation (50%+) + CMAT / ACPC Gujarat",
+          "exams": "CMAT, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹72,000/Year",
+          "eligibility": "BCA / B.Sc with Math + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Integrated MBA",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with English + ACPC",
+          "exams": "ACPC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35014,18 +35225,20 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/ss-agrawal-institute-of-management-technology-navsari-203346.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=S.S.AGRAWAL%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20NAVSARI%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=S.S.AGRAWAL%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20NAVSARI%20Gujarat",
+      "city": "Navsari",
+      "established": 2010
     },
     {
       "id": 414,
-      "name": "NOBLE GROUP OF INSTITUTIONS",
+      "name": "Noble Group of Institutions (Noble University, Junagadh)",
       "shortName": "Course Institute-1",
       "location": "JUNAGADH",
       "state": "Gujarat",
       "address": "\"PARTH - VATIKA\", JUNAGADH - BHESAN ROAD, VIA - VADAL , NR. BAMANGAM, DIST. - JUNAGADH.",
-      "phone": "0123-456789",
-      "website": "https://www.noblegroupofins.edu.in",
-      "rating": 4.5,
+      "phone": "0285-2611200",
+      "website": "https://nobleuniversity.ac.in",
+      "rating": 4.3,
       "reviews": 533,
       "type": "Private",
       "about": "Welcome to NOBLE GROUP OF INSTITUTIONS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -35045,12 +35258,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 12
+          "fees": "₹69,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCB/PCM + GUJCET",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹62,000/Year",
+          "eligibility": "Graduation (50%+) + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35068,20 +35309,22 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/noble-university-junagadh-354531.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NOBLE%20GROUP%20OF%20INSTITUTIONS%20JUNAGADH%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NOBLE%20GROUP%20OF%20INSTITUTIONS%20JUNAGADH%20Gujarat",
+      "city": "Junagadh",
+      "established": 2007
     },
     {
       "id": 415,
-      "name": "GOVERNMENT POLYTECHNIC HALOL",
+      "name": "Government Polytechnic Halol (Panchmahal)",
       "shortName": "Course Institute-1",
       "location": "PANCHMAHAL",
       "state": "Gujarat",
       "address": "BESIDE PRANT OFFICE, KANJARI ROAD, HALOL",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "02676-224400",
+      "website": "https://gphalol.ac.in",
+      "rating": 4.2,
       "reviews": 278,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC HALOL, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 78,
       "facebook": "#",
@@ -35099,12 +35342,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC Gujarat (Tuition Free for Girls)",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35123,7 +35394,9 @@
       "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20HALOL%20PANCHMAHAL%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Panchmahal",
+      "established": 2013
     },
     {
       "id": 416,

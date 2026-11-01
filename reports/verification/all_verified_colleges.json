@@ -5998,5 +5998,80 @@
         "website": "https://gmbpolytechnic.ac.in"
       }
     ]
+  },
+  {
+    "batch": 81,
+    "items": [
+      {
+        "id": 401,
+        "name": "Shanti Business School (SBS Ahmedabad)",
+        "type": "Private",
+        "location": "OPP. VRAJ GARDEN, OFF. S.P. RING ROAD",
+        "website": "https://shantibschool.edu.in"
+      },
+      {
+        "id": 402,
+        "name": "Vivekanand Institute of Management (VIM Ahmedabad)",
+        "type": "Private",
+        "location": "NAVA VADAJ, AHMEDABAD",
+        "website": "http://www.vimanand.org"
+      },
+      {
+        "id": 403,
+        "name": "Shree Parekh Engineering College (SPEC Mahuva, Bhavnagar)",
+        "type": "Private",
+        "location": "PAREKH COLLEGE GAYATRINAGAR ROAD",
+        "website": "http://spec.edu.in"
+      },
+      {
+        "id": 406,
+        "name": "Shri Satsangi Saketdham 'Ram Ashram' Group of Institutions (Vadasma, Mehsana)",
+        "type": "Private",
+        "location": "AT. & PO. VADASMA",
+        "website": "http://www.saketdham.org"
+      },
+      {
+        "id": 408,
+        "name": "Dr. Jivraj Mehta Institute of Technology (DJMIT Mogar, Anand)",
+        "type": "Private",
+        "location": "NEAR SANKARA EYE HOSPITAL,",
+        "website": "https://www.djmit.ac.in"
+      },
+      {
+        "id": 409,
+        "name": "Bhagwan Arihant Institute of Technology (BAIT BMU Surat)",
+        "type": "Private",
+        "location": "VESU - BHARTHANA, SURAT",
+        "website": "https://bmusurat.ac.in"
+      },
+      {
+        "id": 410,
+        "name": "Shri Labhubhai Trivedi Institute of Engineering and Technology (SLTIET Rajkot)",
+        "type": "Private",
+        "location": "KALAWAD ROAD, RAJKOT",
+        "website": "https://sltiet.edu.in"
+      },
+      {
+        "id": 413,
+        "name": "S. S. Agrawal Institute of Management and Technology (SSAITM Navsari)",
+        "type": "Private",
+        "location": "GANDEVI ROAD, NAVSARI-396445",
+        "website": "https://ssagrawal.org"
+      },
+      {
+        "id": 414,
+        "name": "Noble Group of Institutions (Noble University, Junagadh)",
+        "type": "Private",
+        "location": "NR. BAMANGAM, DIST. - JUNAGADH.",
+        "website": "https://nobleuniversity.ac.in"
+      },
+      {
+        "id": 415,
+        "name": "Government Polytechnic Halol (Panchmahal)",
+        "type": "Public/Government",
+        "location": "KANJARI ROAD, HALOL",
+        "website": "https://gphalol.ac.in"
+      }
+    ]
   }
 ]
