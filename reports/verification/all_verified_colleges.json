@@ -6073,5 +6073,80 @@
         "website": "https://gphalol.ac.in"
       }
     ]
+  },
+  {
+    "batch": 82,
+    "items": [
+      {
+        "id": 416,
+        "name": "Dr. Jivraj Mehta Institute of Polytechnic (DJMIP Mogar, Anand)",
+        "type": "Private",
+        "location": "MOGAR, ANAND",
+        "website": "https://www.djmit.ac.in"
+      },
+      {
+        "id": 417,
+        "name": "Khyati School of Design (Khyati Foundation, Ahmedabad)",
+        "type": "Private",
+        "location": "NR. VRAJ GOPI SOCIETY, AT & PO: PALODIA",
+        "website": "https://khyatischoolofdesign.com"
+      },
+      {
+        "id": 418,
+        "name": "HJD Institute of Technical Education and Research (Kera-Kutch)",
+        "type": "Private",
+        "location": "KERA - MUNDRA ROAD",
+        "website": "https://hjdinstitute.org"
+      },
+      {
+        "id": 419,
+        "name": "Parul Institute of Technology (Parul University, Vadodara)",
+        "type": "Private",
+        "location": "TAL. WAGHODIA, DIST. VADODARA-391760 GUJARAT STATE",
+        "website": "https://paruluniversity.ac.in"
+      },
+      {
+        "id": 421,
+        "name": "Dadhichi Diploma Polytechnic College (Sukhsar, Dahod)",
+        "type": "Private",
+        "location": "TA:- MALIYA (HATINA), DIST.:- JUNAGADH",
+        "website": "http://dadhichipolytechnic.com"
+      },
+      {
+        "id": 422,
+        "name": "Dr. Natubhai P. Patel Polytechnic (DNPP Visnagar, Mehsana)",
+        "type": "Private",
+        "location": "NEAR RAILWAY STATION, JOTANA TA. JOTANA",
+        "website": "https://spu.ac.in"
+      },
+      {
+        "id": 423,
+        "name": "Government Polytechnic for Girls (GPG Ahmedabad)",
+        "type": "Public/Government",
+        "location": "OPP. PHYSICAL RESEARCH LABORATORY, NR. ATIRA NAVRANGPURA",
+        "website": "https://gpgahmedabad.ac.in"
+      },
+      {
+        "id": 424,
+        "name": "A. Y. Dadabhai Technical Institute (AYDTI Kosamba, Surat)",
+        "type": "Private",
+        "location": "KOSAMBA- MAHUVEJ ROAD, NEAR OLD MARIYAMBAI HOSPITAL",
+        "website": "http://aydti.ac.in"
+      },
+      {
+        "id": 425,
+        "name": "Indo-German Tool Room (IGTR Ahmedabad)",
+        "type": "Public/Government",
+        "location": "GIDC VATVA, MEHMEDABAD ROAD",
+        "website": "https://www.igtrahd.com"
+      },
+      {
+        "id": 426,
+        "name": "Government Polytechnic, Kheda (GP Kheda)",
+        "type": "Public/Government",
+        "location": "DI.KHEDA, PIN.387120",
+        "website": "https://gpkheda.ac.in"
+      }
+    ]
   }
 ]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 416,
+    "name": "DR. JIVRAJ MEHTA INSTITUTE OF POLYTECHNIC",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1596192323107765455_676458639601751_339142948502097216_o.jpg",
+    "website": "https://www.drjivrajmehtain.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 417,
+    "name": "KHYATI SCHOOL OF DESIGN",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.khyatischoolofd.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 418,
+    "name": "HJD INSTITUTE OF TECHNICAL EDUCATION AND RESERCH",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/gnims_matunga.png",
+    "website": "https://www.hjdinstituteoft.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 419,
+    "name": "PARUL INSTITUTE OF TECHNOLOGY",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.parulinstituteo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 421,
+    "name": "DADHICHI DIPLOMA POLYTECHNIC COLLEGE",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.dadhichidiploma.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 422,
+    "name": "DR.NATUBHAI.P.PATEL POLYTECHNIC",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/gnims_matunga.png",
+    "website": "https://www.drnatubhaippate.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 423,
+    "name": "GOVERNMENT POLYTECHNIC FOR GIRLS",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 424,
+    "name": "A. Y. DADABHAI TECHNICAL INSTITUTE",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/ay-dadabhai-technical-institute-surat-347935.webp",
+    "website": "https://www.aydadabhaitechn.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 425,
+    "name": "INDO GERMAN TOOL ROOM",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.indogermantoolr.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 426,
+    "name": "GOVERNMENT POLYTECHNIC,KHEDA",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://img.studyclap.com/img/institute/college/773x343/15660/gpk-kheda-ae4c936e58.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

@@ -35400,14 +35400,14 @@
     },
     {
       "id": 416,
-      "name": "DR. JIVRAJ MEHTA INSTITUTE OF POLYTECHNIC",
+      "name": "Dr. Jivraj Mehta Institute of Polytechnic (DJMIP Mogar, Anand)",
       "shortName": "Course Institute-1",
       "location": "ANAND",
       "state": "Gujarat",
       "address": "DJMIT COLLEGE CAMPUS, NH-8, NR. SANKARA EYE HOSPITAL, MOGAR, ANAND",
-      "phone": "0123-456789",
-      "website": "https://www.drjivrajmehtain.edu.in",
-      "rating": 4.5,
+      "phone": "02692-280105",
+      "website": "https://www.djmit.ac.in",
+      "rating": 4,
       "reviews": 116,
       "type": "Private",
       "about": "Welcome to DR. JIVRAJ MEHTA INSTITUTE OF POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -35427,12 +35427,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC Gujarat",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35450,18 +35478,20 @@
       ],
       "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1596192323107765455_676458639601751_339142948502097216_o.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20JIVRAJ%20MEHTA%20INSTITUTE%20OF%20POLYTECHNIC%20ANAND%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20JIVRAJ%20MEHTA%20INSTITUTE%20OF%20POLYTECHNIC%20ANAND%20Gujarat",
+      "city": "Anand",
+      "established": 2013
     },
     {
       "id": 417,
-      "name": "KHYATI SCHOOL OF DESIGN",
+      "name": "Khyati School of Design (Khyati Foundation, Ahmedabad)",
       "shortName": "Course Institute-1",
       "location": "GANDHINAGAR",
       "state": "Gujarat",
       "address": "B/H. ELECTROTHERM INDUSTRIES, NR. VRAJ GOPI SOCIETY, AT & PO: PALODIA",
-      "phone": "0123-456789",
-      "website": "https://www.khyatischoolofd.edu.in",
-      "rating": 4.5,
+      "phone": "079-27770000",
+      "website": "https://khyatischoolofdesign.com",
+      "rating": 4.1,
       "reviews": 446,
       "type": "Private",
       "about": "Welcome to KHYATI SCHOOL OF DESIGN, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -35481,12 +35511,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMMUNICATION DESIGN",
+          "title": "Bachelor of Design (B.Des) in Communication Design",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "DESIGN",
-          "intake": 30
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 in any stream + Design Aptitude Test",
+          "exams": "DAT, Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Design (B.Des) in Interior Design",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 in any stream + Aptitude Test",
+          "exams": "DAT, Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Design (B.Des) in Fashion Design",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 in any stream + Aptitude Test",
+          "exams": "DAT, Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Graphic Design & Animation",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹45,000 Total",
+          "eligibility": "10th or 10+2 Pass",
+          "exams": "Direct Admission",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35502,20 +35560,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KHYATI%20SCHOOL%20OF%20DESIGN%20GANDHINAGAR%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KHYATI%20SCHOOL%20OF%20DESIGN%20GANDHINAGAR%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 2018
     },
     {
       "id": 418,
-      "name": "HJD INSTITUTE OF TECHNICAL EDUCATION AND RESERCH",
+      "name": "HJD Institute of Technical Education and Research (Kera-Kutch)",
       "shortName": "Course Institute-1",
       "location": "KUTCH",
       "state": "Gujarat",
       "address": "KERA - MUNDRA ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.hjdinstituteoft.edu.in",
-      "rating": 4.5,
+      "phone": "02832-281085",
+      "website": "https://hjdinstitute.org",
+      "rating": 4.2,
       "reviews": 118,
       "type": "Private",
       "about": "Welcome to HJD INSTITUTE OF TECHNICAL EDUCATION AND RESERCH, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -35535,12 +35595,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35556,20 +35644,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/gnims_matunga.png",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=HJD%20INSTITUTE%20OF%20TECHNICAL%20EDUCATION%20AND%20RESERCH%20KUTCH%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Kutch",
+      "established": 2010
     },
     {
       "id": 419,
-      "name": "PARUL INSTITUTE OF TECHNOLOGY",
+      "name": "Parul Institute of Technology (Parul University, Vadodara)",
       "shortName": "Course Institute-1",
       "location": "VADODARA",
       "state": "Gujarat",
       "address": "P.O.LIMDA, TAL. WAGHODIA, DIST. VADODARA-391760 GUJARAT STATE",
-      "phone": "0123-456789",
-      "website": "https://www.parulinstituteo.edu.in",
+      "phone": "02668-260300",
+      "website": "https://paruluniversity.ac.in",
       "rating": 4.5,
       "reviews": 313,
       "type": "Private",
@@ -35590,20 +35680,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PRODUCTION ENGINEERING",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 24
+          "fees": "₹1,49,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+          "exams": "GUJCET, JEE Main",
+          "intake": "180"
         },
         {
-          "title": "BCA",
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "fees": "₹1,49,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+          "exams": "GUJCET, JEE Main",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,49,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+          "exams": "GUJCET, JEE Main",
+          "intake": "60"
+        },
+        {
+          "title": "M.Tech in Computer Engineering",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "B.Tech in CSE/IT + GATE / PGCET",
+          "exams": "GATE, PGCET",
+          "intake": "18"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35622,7 +35732,9 @@
       "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PARUL%20INSTITUTE%20OF%20TECHNOLOGY%20VADODARA%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Vadodara",
+      "established": 2003
     },
     {
       "id": 420,
@@ -35681,14 +35793,14 @@
     },
     {
       "id": 421,
-      "name": "DADHICHI DIPLOMA POLYTECHNIC COLLEGE",
+      "name": "Dadhichi Diploma Polytechnic College (Sukhsar, Dahod)",
       "shortName": "Course Institute-1",
       "location": "JUNAGADH",
       "state": "Gujarat",
       "address": "GADU - CHORWAD ROAD, NEAR G.E.B., POST:-GADU, TA:- MALIYA (HATINA), DIST.:- JUNAGADH",
-      "phone": "0123-456789",
-      "website": "https://www.dadhichidiploma.edu.in",
-      "rating": 4.5,
+      "phone": "02677-224100",
+      "website": "http://dadhichipolytechnic.com",
+      "rating": 3.8,
       "reviews": 523,
       "type": "Private",
       "about": "Welcome to DADHICHI DIPLOMA POLYTECHNIC COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -35708,12 +35820,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "AUTOMOBILE ENGINEERING",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 45
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC Gujarat",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35729,21 +35869,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bangalore_university.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DADHICHI%20DIPLOMA%20POLYTECHNIC%20COLLEGE%20JUNAGADH%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Dahod",
+      "established": 2014
     },
     {
       "id": 422,
-      "name": "DR.NATUBHAI.P.PATEL POLYTECHNIC",
+      "name": "Dr. Natubhai P. Patel Polytechnic (DNPP Visnagar, Mehsana)",
       "shortName": "Course Institute-1",
       "location": "MEHSANA",
       "state": "Gujarat",
       "address": "NEAR RAILWAY STATION, JOTANA TA. JOTANA",
-      "phone": "0123-456789",
-      "website": "https://www.drnatubhaippate.edu.in",
-      "rating": 4.5,
+      "phone": "02765-224400",
+      "website": "https://spu.ac.in",
+      "rating": 4.1,
       "reviews": 199,
       "type": "Private",
       "about": "Welcome to DR.NATUBHAI.P.PATEL POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -35763,12 +35905,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Information Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35784,23 +35954,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/gnims_matunga.png",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.NATUBHAI.P.PATEL%20POLYTECHNIC%20MEHSANA%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Mehsana",
+      "established": 2000
     },
     {
       "id": 423,
-      "name": "GOVERNMENT POLYTECHNIC FOR GIRLS",
+      "name": "Government Polytechnic for Girls (GPG Ahmedabad)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
       "address": "OPP. PHYSICAL RESEARCH LABORATORY, NR. ATIRA NAVRANGPURA",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "079-27912440",
+      "website": "https://gpgahmedabad.ac.in",
+      "rating": 4.4,
       "reviews": 317,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC FOR GIRLS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 27,
       "facebook": "#",
@@ -35818,12 +35990,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹500/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC Gujarat (Tuition Free for Girls)",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Information Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹500/Year",
+          "eligibility": "10th Standard Pass + ACPDC (Tuition Free for Girls)",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Biomedical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹500/Year",
+          "eligibility": "10th Standard Pass + ACPDC (Tuition Free for Girls)",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Commercial Practice",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹500/Year",
+          "eligibility": "10th Standard Pass + ACPDC (Tuition Free for Girls)",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35841,18 +36041,20 @@
       ],
       "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20FOR%20GIRLS%20AHMEDABAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20FOR%20GIRLS%20AHMEDABAD%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 1964
     },
     {
       "id": 424,
-      "name": "A. Y. DADABHAI TECHNICAL INSTITUTE",
+      "name": "A. Y. Dadabhai Technical Institute (AYDTI Kosamba, Surat)",
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
       "address": "KOSAMBA- MAHUVEJ ROAD, NEAR OLD MARIYAMBAI HOSPITAL",
-      "phone": "0123-456789",
-      "website": "https://www.aydadabhaitechn.edu.in",
-      "rating": 4.5,
+      "phone": "0261-286280",
+      "website": "http://aydti.ac.in",
+      "rating": 4.1,
       "reviews": 429,
       "type": "Private",
       "about": "Welcome to A. Y. DADABHAI TECHNICAL INSTITUTE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -35872,12 +36074,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35895,20 +36125,22 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/ay-dadabhai-technical-institute-surat-347935.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=A.%20Y.%20DADABHAI%20TECHNICAL%20INSTITUTE%20SURAT%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=A.%20Y.%20DADABHAI%20TECHNICAL%20INSTITUTE%20SURAT%20Gujarat",
+      "city": "Surat",
+      "established": 2008
     },
     {
       "id": 425,
-      "name": "INDO GERMAN TOOL ROOM",
+      "name": "Indo-German Tool Room (IGTR Ahmedabad)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
       "address": "PLOT NO. 5003-09 PHASE - IV, GIDC VATVA, MEHMEDABAD ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.indogermantoolr.edu.in",
+      "phone": "079-25843159",
+      "website": "https://www.igtrahd.com",
       "rating": 4.5,
       "reviews": 432,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to INDO GERMAN TOOL ROOM, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 94,
       "facebook": "#",
@@ -35926,12 +36158,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "TOOL AND DIE MAKING",
+          "title": "Diploma in Tool & Die Making",
+          "division": "Diploma",
+          "duration": "4 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard with Science & Math (50%+) + IGTR Entrance Exam",
+          "exams": "IGTR Test",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechatronics",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard with Science & Math + IGTR Entrance",
+          "exams": "IGTR Test",
+          "intake": "60"
+        },
+        {
+          "title": "Post Diploma in Tool Design & CAD/CAM",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹50,000 Total",
+          "eligibility": "Diploma in Mechanical / Production Engineering",
+          "exams": "Merit",
+          "intake": "40"
+        },
+        {
+          "title": "Certificate in CNC Machining & MasterCAM",
+          "division": "Certificate",
+          "duration": "6 Months",
+          "fees": "₹25,000 Total",
+          "eligibility": "ITI / 10th Standard Pass",
+          "exams": "Direct Admission",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -35949,20 +36209,22 @@
       ],
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDO%20GERMAN%20TOOL%20ROOM%20AHMEDABAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDO%20GERMAN%20TOOL%20ROOM%20AHMEDABAD%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 1990
     },
     {
       "id": 426,
-      "name": "GOVERNMENT POLYTECHNIC,KHEDA",
+      "name": "Government Polytechnic, Kheda (GP Kheda)",
       "shortName": "Course Institute-1",
       "location": "KHEDA",
       "state": "Gujarat",
       "address": "OPP. RASKA CHECK POST, NR. WEIR, AT & PO. RASKA, TA. MAHEMDAVAD, DI.KHEDA, PIN.387120",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "02694-224400",
+      "website": "https://gpkheda.ac.in",
+      "rating": 4.2,
       "reviews": 98,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC,KHEDA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 25,
       "facebook": "#",
@@ -35980,12 +36242,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC Gujarat (Tuition Free for Girls)",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -36003,7 +36293,9 @@
       ],
       "image": "https://img.studyclap.com/img/institute/college/773x343/15660/gpk-kheda-ae4c936e58.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2CKHEDA%20KHEDA%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2CKHEDA%20KHEDA%20Gujarat",
+      "city": "Kheda",
+      "established": 2013
     },
     {
       "id": 427,

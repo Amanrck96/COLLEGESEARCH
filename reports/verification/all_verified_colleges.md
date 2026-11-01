@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **810 / 12,660**  
-**Roadmap Progress**: **81.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **820 / 12,660**  
+**Roadmap Progress**: **82.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1224,4 +1224,19 @@
 | **413** | S. S. Agrawal Institute of Management and Technology (SSAITM Navsari) | Private | GANDEVI ROAD, NAVSARI-396445 | [ssagrawal.org](https://ssagrawal.org) |
 | **414** | Noble Group of Institutions (Noble University, Junagadh) | Private | NR. BAMANGAM, DIST. - JUNAGADH. | [nobleuniversity.ac.in](https://nobleuniversity.ac.in) |
 | **415** | Government Polytechnic Halol (Panchmahal) | Public/Government | KANJARI ROAD, HALOL | [gphalol.ac.in](https://gphalol.ac.in) |
+
+### Batch 82 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **416** | Dr. Jivraj Mehta Institute of Polytechnic (DJMIP Mogar, Anand) | Private | MOGAR, ANAND | [www.djmit.ac.in](https://www.djmit.ac.in) |
+| **417** | Khyati School of Design (Khyati Foundation, Ahmedabad) | Private | NR. VRAJ GOPI SOCIETY, AT & PO: PALODIA | [khyatischoolofdesign.com](https://khyatischoolofdesign.com) |
+| **418** | HJD Institute of Technical Education and Research (Kera-Kutch) | Private | KERA - MUNDRA ROAD | [hjdinstitute.org](https://hjdinstitute.org) |
+| **419** | Parul Institute of Technology (Parul University, Vadodara) | Private | TAL. WAGHODIA, DIST. VADODARA-391760 GUJARAT STATE | [paruluniversity.ac.in](https://paruluniversity.ac.in) |
+| **421** | Dadhichi Diploma Polytechnic College (Sukhsar, Dahod) | Private | TA:- MALIYA (HATINA), DIST.:- JUNAGADH | [dadhichipolytechnic.com](http://dadhichipolytechnic.com) |
+| **422** | Dr. Natubhai P. Patel Polytechnic (DNPP Visnagar, Mehsana) | Private | NEAR RAILWAY STATION, JOTANA TA. JOTANA | [spu.ac.in](https://spu.ac.in) |
+| **423** | Government Polytechnic for Girls (GPG Ahmedabad) | Public/Government | OPP. PHYSICAL RESEARCH LABORATORY, NR. ATIRA NAVRANGPURA | [gpgahmedabad.ac.in](https://gpgahmedabad.ac.in) |
+| **424** | A. Y. Dadabhai Technical Institute (AYDTI Kosamba, Surat) | Private | KOSAMBA- MAHUVEJ ROAD, NEAR OLD MARIYAMBAI HOSPITAL | [aydti.ac.in](http://aydti.ac.in) |
+| **425** | Indo-German Tool Room (IGTR Ahmedabad) | Public/Government | GIDC VATVA, MEHMEDABAD ROAD | [www.igtrahd.com](https://www.igtrahd.com) |
+| **426** | Government Polytechnic, Kheda (GP Kheda) | Public/Government | DI.KHEDA, PIN.387120 | [gpkheda.ac.in](https://gpkheda.ac.in) |
 
