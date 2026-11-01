@@ -9223,5 +9223,80 @@
         "website": "https://gpdhamlawas.ac.in"
       }
     ]
+  },
+  {
+    "batch": 124,
+    "items": [
+      {
+        "id": 897,
+        "name": "Mahagyani Rishi Ashtavakra Kendra Govt. Polytechnic Sector 26 Panchkula",
+        "type": "Public/Government",
+        "location": "Panchkula, Haryana - 134116",
+        "website": "https://mrakgpp.edu.in"
+      },
+      {
+        "id": 898,
+        "name": "Lingaya's Vidyapeeth (Deemed-to-be University, Faridabad)",
+        "type": "Private",
+        "location": "Old Faridabad, Haryana - 121002",
+        "website": "https://www.lingayasvidyapeeth.edu.in"
+      },
+      {
+        "id": 901,
+        "name": "Government Polytechnic Shergarh (Kaithal)",
+        "type": "Public/Government",
+        "location": "Kaithal, Haryana - 136027",
+        "website": "https://gpshergarh.ac.in"
+      },
+      {
+        "id": 902,
+        "name": "Government Polytechnic Dhangar (Fatehabad)",
+        "type": "Public/Government",
+        "location": "Fatehabad, Haryana - 125048",
+        "website": "https://www.gpdhangar.ac.in"
+      },
+      {
+        "id": 903,
+        "name": "Government Polytechnic Rajpur (Sadhaura, Yamunanagar)",
+        "type": "Public/Government",
+        "location": "Yamunanagar, Haryana - 133204",
+        "website": "https://gprajpur.ac.in"
+      },
+      {
+        "id": 904,
+        "name": "Manav Rachna International Institute of Research and Studies (MRIIRS Faridabad)",
+        "type": "Private",
+        "location": "Faridabad, Haryana - 121004",
+        "website": "https://manavrachna.edu.in/mriirs"
+      },
+      {
+        "id": 905,
+        "name": "Guru Brahmanand Ji Govt. Polytechnic, Nilokheri",
+        "type": "Public/Government",
+        "location": "Karnal, Haryana - 132117",
+        "website": "https://gbgpnilokheri.ac.in"
+      },
+      {
+        "id": 907,
+        "name": "Shri Sanatan Dharam Institute of Pharmacy & Medical Technology (SSDIPMT Jhajjar)",
+        "type": "Private",
+        "location": "Jhajjar, Haryana - 124103",
+        "website": "https://ssdipmt.org"
+      },
+      {
+        "id": 908,
+        "name": "SD Shanti Niketan Institute of Engineering & Technology (Ladwa Hisar)",
+        "type": "Private",
+        "location": "Hisar, Haryana - 125005",
+        "website": "https://www.snladwa.org"
+      },
+      {
+        "id": 909,
+        "name": "Government Polytechnic for Women, Sirsa",
+        "type": "Public/Government",
+        "location": "Sirsa, Haryana - 125055",
+        "website": "https://gpwsirsa.edu.in"
+      }
+    ]
   }
 ]

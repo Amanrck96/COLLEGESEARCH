@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1230 / 12,660**  
-**Roadmap Progress**: **123.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1240 / 12,660**  
+**Roadmap Progress**: **124.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1854,4 +1854,19 @@
 | **892** | DPG Degree College (Gurugram) | Private | Gurugram, Haryana - 122001 | [dpgdegreecollege.com](https://dpgdegreecollege.com) |
 | **895** | Government Polytechnic Panchkula | Public/Government | Panchkula, Haryana - 134116 | [gppanchkula.ac.in](https://gppanchkula.ac.in) |
 | **896** | Govt. Polytechnic cum Multi Skill Training Centre Dhamlawas | Public/Government | Rewari, Haryana - 123101 | [gpdhamlawas.ac.in](https://gpdhamlawas.ac.in) |
+
+### Batch 124 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **897** | Mahagyani Rishi Ashtavakra Kendra Govt. Polytechnic Sector 26 Panchkula | Public/Government | Panchkula, Haryana - 134116 | [mrakgpp.edu.in](https://mrakgpp.edu.in) |
+| **898** | Lingaya's Vidyapeeth (Deemed-to-be University, Faridabad) | Private | Old Faridabad, Haryana - 121002 | [www.lingayasvidyapeeth.edu.in](https://www.lingayasvidyapeeth.edu.in) |
+| **901** | Government Polytechnic Shergarh (Kaithal) | Public/Government | Kaithal, Haryana - 136027 | [gpshergarh.ac.in](https://gpshergarh.ac.in) |
+| **902** | Government Polytechnic Dhangar (Fatehabad) | Public/Government | Fatehabad, Haryana - 125048 | [www.gpdhangar.ac.in](https://www.gpdhangar.ac.in) |
+| **903** | Government Polytechnic Rajpur (Sadhaura, Yamunanagar) | Public/Government | Yamunanagar, Haryana - 133204 | [gprajpur.ac.in](https://gprajpur.ac.in) |
+| **904** | Manav Rachna International Institute of Research and Studies (MRIIRS Faridabad) | Private | Faridabad, Haryana - 121004 | [manavrachna.edu.in](https://manavrachna.edu.in/mriirs) |
+| **905** | Guru Brahmanand Ji Govt. Polytechnic, Nilokheri | Public/Government | Karnal, Haryana - 132117 | [gbgpnilokheri.ac.in](https://gbgpnilokheri.ac.in) |
+| **907** | Shri Sanatan Dharam Institute of Pharmacy & Medical Technology (SSDIPMT Jhajjar) | Private | Jhajjar, Haryana - 124103 | [ssdipmt.org](https://ssdipmt.org) |
+| **908** | SD Shanti Niketan Institute of Engineering & Technology (Ladwa Hisar) | Private | Hisar, Haryana - 125005 | [www.snladwa.org](https://www.snladwa.org) |
+| **909** | Government Polytechnic for Women, Sirsa | Public/Government | Sirsa, Haryana - 125055 | [gpwsirsa.edu.in](https://gpwsirsa.edu.in) |
 
