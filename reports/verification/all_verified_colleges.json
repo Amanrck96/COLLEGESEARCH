@@ -5848,5 +5848,80 @@
         "website": "https://www.apihm.com"
       }
     ]
+  },
+  {
+    "batch": 79,
+    "items": [
+      {
+        "id": 373,
+        "name": "State Institute of Hotel Management Siddhpur (SIHM Siddhpur, Patan)",
+        "type": "Public/Government",
+        "location": "DIST:PATAN,GUJARAT",
+        "website": "https://sihmsiddhpur.org"
+      },
+      {
+        "id": 374,
+        "name": "New L J Institute of Engineering and Technology (New LJIET, Ahmedabad)",
+        "type": "Private",
+        "location": "BEHIND RAJPATH CLUB, S.G. HIGHWAY",
+        "website": "https://www.ljku.edu.in"
+      },
+      {
+        "id": 375,
+        "name": "Shankersinh Vaghela Bapu Technical Campus (Bapu GKV, Gandhinagar)",
+        "type": "Private",
+        "location": "GANDHINAGAR MANSA HIGHWAY ROAD NR. RANDHEJA RLY CROSSING",
+        "website": "https://bapugkv.ac.in"
+      },
+      {
+        "id": 376,
+        "name": "Smt. Vanitaben Bachubhai Nandola MCA College (Una, Gir Somnath)",
+        "type": "Private",
+        "location": "TAL.UNA, DIST.JUNAGADH",
+        "website": "https://www.nandolacolleges.org"
+      },
+      {
+        "id": 377,
+        "name": "Tatva Institute of Technological Studies (TITS Modasa, Aravalli)",
+        "type": "Private",
+        "location": "MODASA- SHAMLAJI ROAD,MODASA.",
+        "website": "http://www.tits.ac.in"
+      },
+      {
+        "id": 378,
+        "name": "Vidush Somany Institute of Technology and Research (VSITR, KSV Gandhinagar)",
+        "type": "Private",
+        "location": "BEHIND RAILWAY STATION, KADI",
+        "website": "https://vsitr.ac.in"
+      },
+      {
+        "id": 379,
+        "name": "Dr. Subhash University (Junagadh)",
+        "type": "Private",
+        "location": "KHAMDHROL ROAD",
+        "website": "https://drsubhashuniversity.edu.in"
+      },
+      {
+        "id": 380,
+        "name": "Patel Group of Institutions (PGI Rampura, Kadi, Mehsana)",
+        "type": "Private",
+        "location": "VILLAGE-MOTI DAU,TAL-DIST-MEHSANA MEHSANA UNJHA HIGHWAY ROAD",
+        "website": "https://patelgroupe.edu.in"
+      },
+      {
+        "id": 381,
+        "name": "Dharmsinh Desai University (DDU Nadiad)",
+        "type": "Public/Government",
+        "location": "COLLEGE ROAD",
+        "website": "https://www.ddu.ac.in"
+      },
+      {
+        "id": 384,
+        "name": "Devang Patel Institute of Advance Technology and Research (DEPSTAR CHARUSAT, Anand)",
+        "type": "Private",
+        "location": "OFF. NADIAD-PETLAD HIGHWAY, GUJARAT-388421",
+        "website": "https://www.charusat.ac.in/depstar"
+      }
+    ]
   }
 ]

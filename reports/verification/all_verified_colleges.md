@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **780 / 12,660**  
-**Roadmap Progress**: **78.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **790 / 12,660**  
+**Roadmap Progress**: **79.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1179,4 +1179,19 @@
 | **370** | Vidyabharti Trust College of MCA (Umrakh, Bardoli) | Private | BARDOLI-MOTA ROAD UMRAKH, TA:BARDOLI DIST:SURAT PIN:394345 | [vbtcollegeofmca.ac.in](http://vbtcollegeofmca.ac.in) |
 | **371** | Veerayatan Institute of Engineering (VIE Mandvi, Kutch) | Private | BHUJ-MANDVI ROAD | [veerayataninstitutes.org](https://veerayataninstitutes.org) |
 | **372** | Asia Pacific Institute of Hotel Management (APIHM Bhoyani) | Private | VILLAGE BHOYANI | [www.apihm.com](https://www.apihm.com) |
+
+### Batch 79 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **373** | State Institute of Hotel Management Siddhpur (SIHM Siddhpur, Patan) | Public/Government | DIST:PATAN,GUJARAT | [sihmsiddhpur.org](https://sihmsiddhpur.org) |
+| **374** | New L J Institute of Engineering and Technology (New LJIET, Ahmedabad) | Private | BEHIND RAJPATH CLUB, S.G. HIGHWAY | [www.ljku.edu.in](https://www.ljku.edu.in) |
+| **375** | Shankersinh Vaghela Bapu Technical Campus (Bapu GKV, Gandhinagar) | Private | GANDHINAGAR MANSA HIGHWAY ROAD NR. RANDHEJA RLY CROSSING | [bapugkv.ac.in](https://bapugkv.ac.in) |
+| **376** | Smt. Vanitaben Bachubhai Nandola MCA College (Una, Gir Somnath) | Private | TAL.UNA, DIST.JUNAGADH | [www.nandolacolleges.org](https://www.nandolacolleges.org) |
+| **377** | Tatva Institute of Technological Studies (TITS Modasa, Aravalli) | Private | MODASA- SHAMLAJI ROAD,MODASA. | [www.tits.ac.in](http://www.tits.ac.in) |
+| **378** | Vidush Somany Institute of Technology and Research (VSITR, KSV Gandhinagar) | Private | BEHIND RAILWAY STATION, KADI | [vsitr.ac.in](https://vsitr.ac.in) |
+| **379** | Dr. Subhash University (Junagadh) | Private | KHAMDHROL ROAD | [drsubhashuniversity.edu.in](https://drsubhashuniversity.edu.in) |
+| **380** | Patel Group of Institutions (PGI Rampura, Kadi, Mehsana) | Private | VILLAGE-MOTI DAU,TAL-DIST-MEHSANA MEHSANA UNJHA HIGHWAY ROAD | [patelgroupe.edu.in](https://patelgroupe.edu.in) |
+| **381** | Dharmsinh Desai University (DDU Nadiad) | Public/Government | COLLEGE ROAD | [www.ddu.ac.in](https://www.ddu.ac.in) |
+| **384** | Devang Patel Institute of Advance Technology and Research (DEPSTAR CHARUSAT, Anand) | Private | OFF. NADIAD-PETLAD HIGHWAY, GUJARAT-388421 | [www.charusat.ac.in](https://www.charusat.ac.in/depstar) |
 

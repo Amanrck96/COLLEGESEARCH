@@ -1,0 +1,112 @@
+[
+  {
+    "id": 373,
+    "name": "STATE INSTITUTE OF HOTEL MANAGMENT GUJARAT",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.stateinstituteo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 374,
+    "name": "NEW L J INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://www.studyplaces.co.in/wp-content/uploads/2025/07/new-l-j-institute-of-engineering-and-technology.jpg",
+    "website": "https://www.newljinstituteo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 375,
+    "name": "SHANKERSINH VAGHELA BAPU TECHNICAL CAMPUS",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/shankersinh-vaghela-bapu-institute-of-technology-gandhinagar-322095.webp",
+    "website": "https://www.shankersinhvagh.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 376,
+    "name": "SMT. VANITABEN BACHUBHAI NANDOLA MCA COLLEGE",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/395684/building.jpg?width=640",
+    "website": "https://www.smtvanitabenbac.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 377,
+    "name": "TATVA INSTITUTE OF TECHNOLOGICAL STUDIE,(TITS),MODASA.",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/tatva-institute-of-technological-studies-modasa-325627.webp",
+    "website": "https://www.tatvainstituteo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 378,
+    "name": "VIDUSH SOMANY INSTITUTE OF TECHNOLOGY AND RESEARCH",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://vsitr.ac.in/wp-content/uploads/2024/04/SAG_1229-1.jpg",
+    "website": "https://www.vidushsomanyins.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 379,
+    "name": "DR. SUBHASH UNIVERSITY",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://media.getmyuni.com/azure/college-images-test/dr-subhash-university-junagadh/exterior-images-49efda4441d15ccd7ed2fd9141557ae6.webp",
+    "website": "https://www.drsubhashuniver.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 380,
+    "name": "PATEL GROUP OF INSTITUTIONS",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.patelgroupofins.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 381,
+    "name": "DHARMSINH DESAI UNIVERSITY",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://media.getmyuni.com/azure/college-images-test/dharmsinh-desai-university-ddu-nadiad/5bad70eeaca244428a8dcdf553c00a8a.jpeg",
+    "website": "https://www.dharmsinhdesaiu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 384,
+    "name": "DEVANG PATEL INSTITUTE OF ADVANCE TECHNOLOGY AND RESEARCH",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.devangpatelinst.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

@@ -32197,16 +32197,16 @@
     },
     {
       "id": 373,
-      "name": "STATE INSTITUTE OF HOTEL MANAGMENT GUJARAT",
+      "name": "State Institute of Hotel Management Siddhpur (SIHM Siddhpur, Patan)",
       "shortName": "Course Institute-1",
       "location": "PATAN",
       "state": "Gujarat",
       "address": "SURVEY NO 76/1,VIL:KHOLWADA,TA:SIDDHPUR, DIST:PATAN,GUJARAT",
-      "phone": "0123-456789",
-      "website": "https://www.stateinstituteo.edu.in",
-      "rating": 4.5,
+      "phone": "02767-224422",
+      "website": "https://sihmsiddhpur.org",
+      "rating": 4.3,
       "reviews": 252,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to STATE INSTITUTE OF HOTEL MANAGMENT GUJARAT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 98,
       "facebook": "#",
@@ -32224,12 +32224,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "HOTEL MANAGEMENT AND CATERING TECHNOLOGY",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "HOTEL MANAGEMENT AND CATERING",
-          "intake": 60
+          "title": "B.Sc. in Hospitality and Hotel Administration",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with English + NCHM JEE",
+          "exams": "NCHM JEE",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Food Production",
+          "division": "Diploma",
+          "duration": "1.5 Years",
+          "fees": "₹35,000 Total",
+          "eligibility": "10th or 10+2 Pass",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Food & Beverage Service",
+          "division": "Diploma",
+          "duration": "1.5 Years",
+          "fees": "₹30,000 Total",
+          "eligibility": "10th or 10+2 Pass",
+          "exams": "Merit",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32245,21 +32264,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=STATE%20INSTITUTE%20OF%20HOTEL%20MANAGMENT%20GUJARAT%20PATAN%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Patan",
+      "established": 2014
     },
     {
       "id": 374,
-      "name": "NEW L J INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "name": "New L J Institute of Engineering and Technology (New LJIET, Ahmedabad)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
       "address": "FP 372, TP 50, BODAKDEV, GHATLODIA, BEHIND RAJPATH CLUB, S.G. HIGHWAY",
-      "phone": "0123-456789",
-      "website": "https://www.newljinstituteo.edu.in",
-      "rating": 4.5,
+      "phone": "079-29708000",
+      "website": "https://www.ljku.edu.in",
+      "rating": 4.4,
       "reviews": 154,
       "type": "Private",
       "about": "Welcome to NEW L J INSTITUTE OF ENGINEERING AND TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -32279,12 +32300,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE & ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING )",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 180
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Artificial Intelligence and Data Science",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil / Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32302,18 +32351,20 @@
       ],
       "image": "https://www.studyplaces.co.in/wp-content/uploads/2025/07/new-l-j-institute-of-engineering-and-technology.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEW%20L%20J%20INSTITUTE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20AHMEDABAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEW%20L%20J%20INSTITUTE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20AHMEDABAD%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 2019
     },
     {
       "id": 375,
-      "name": "SHANKERSINH VAGHELA BAPU TECHNICAL CAMPUS",
+      "name": "Shankersinh Vaghela Bapu Technical Campus (Bapu GKV, Gandhinagar)",
       "shortName": "Course Institute-1",
       "location": "GANDHINAGAR",
       "state": "Gujarat",
       "address": "GANDHINAGAR MANSA HIGHWAY ROAD NR. RANDHEJA RLY CROSSING",
-      "phone": "0123-456789",
-      "website": "https://www.shankersinhvagh.edu.in",
-      "rating": 4.5,
+      "phone": "079-23976170",
+      "website": "https://bapugkv.ac.in",
+      "rating": 4.2,
       "reviews": 488,
       "type": "Private",
       "about": "Welcome to SHANKERSINH VAGHELA BAPU TECHNICAL CAMPUS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -32333,12 +32384,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER ENGINEERING(SOFTWARE ENGINEERING)",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 24
+          "fees": "₹68,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹68,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹68,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32356,18 +32435,20 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/shankersinh-vaghela-bapu-institute-of-technology-gandhinagar-322095.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHANKERSINH%20VAGHELA%20BAPU%20TECHNICAL%20CAMPUS%20GANDHINAGAR%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHANKERSINH%20VAGHELA%20BAPU%20TECHNICAL%20CAMPUS%20GANDHINAGAR%20Gujarat",
+      "city": "Gandhinagar",
+      "established": 2009
     },
     {
       "id": 376,
-      "name": "SMT. VANITABEN BACHUBHAI NANDOLA MCA COLLEGE",
+      "name": "Smt. Vanitaben Bachubhai Nandola MCA College (Una, Gir Somnath)",
       "shortName": "Course Institute-1",
       "location": "JUNAGADH",
       "state": "Gujarat",
       "address": "AT.BHACHA, TAL.UNA, DIST.JUNAGADH",
-      "phone": "0123-456789",
-      "website": "https://www.smtvanitabenbac.edu.in",
-      "rating": 4.5,
+      "phone": "02875-223400",
+      "website": "https://www.nandolacolleges.org",
+      "rating": 4.1,
       "reviews": 498,
       "type": "Private",
       "about": "Welcome to SMT. VANITABEN BACHUBHAI NANDOLA MCA COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -32387,12 +32468,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 30
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "BCA / B.Sc IT or Graduation with Math + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 in any stream + Merit",
+          "exams": "Merit",
+          "intake": "120"
+        },
+        {
+          "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹20,000 Total",
+          "eligibility": "Graduation in any stream",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32410,18 +32510,20 @@
       ],
       "image": "https://media.collegedekho.com/media/img/institute/crawled_images/395684/building.jpg?width=640",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SMT.%20VANITABEN%20BACHUBHAI%20NANDOLA%20MCA%20COLLEGE%20JUNAGADH%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SMT.%20VANITABEN%20BACHUBHAI%20NANDOLA%20MCA%20COLLEGE%20JUNAGADH%20Gujarat",
+      "city": "Gir Somnath",
+      "established": 2008
     },
     {
       "id": 377,
-      "name": "TATVA INSTITUTE OF TECHNOLOGICAL STUDIE,(TITS),MODASA.",
+      "name": "Tatva Institute of Technological Studies (TITS Modasa, Aravalli)",
       "shortName": "Course Institute-1",
       "location": "SABARKANTHA",
       "state": "Gujarat",
       "address": "NEAR KARNA PUMP,MODASA- SHAMLAJI ROAD,MODASA.",
-      "phone": "0123-456789",
-      "website": "https://www.tatvainstituteo.edu.in",
-      "rating": 4.5,
+      "phone": "02774-249500",
+      "website": "http://www.tits.ac.in",
+      "rating": 4,
       "reviews": 400,
       "type": "Private",
       "about": "Welcome to TATVA INSTITUTE OF TECHNOLOGICAL STUDIE,(TITS),MODASA., a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -32441,12 +32543,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING (TRANSPORTATION ENGINEERING)",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 12
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil / Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32464,18 +32594,20 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/tatva-institute-of-technological-studies-modasa-325627.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TATVA%20INSTITUTE%20OF%20TECHNOLOGICAL%20STUDIE%2C(TITS)%2CMODASA.%20SABARKANTHA%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TATVA%20INSTITUTE%20OF%20TECHNOLOGICAL%20STUDIE%2C(TITS)%2CMODASA.%20SABARKANTHA%20Gujarat",
+      "city": "Aravalli",
+      "established": 2010
     },
     {
       "id": 378,
-      "name": "VIDUSH SOMANY INSTITUTE OF TECHNOLOGY AND RESEARCH",
+      "name": "Vidush Somany Institute of Technology and Research (VSITR, KSV Gandhinagar)",
       "shortName": "Course Institute-1",
       "location": "MEHSANA",
       "state": "Gujarat",
       "address": "SARVA VIDYALAYA CAMPUS, BEHIND RAILWAY STATION, KADI",
-      "phone": "0123-456789",
-      "website": "https://www.vidushsomanyins.edu.in",
-      "rating": 4.5,
+      "phone": "079-23245129",
+      "website": "https://vsitr.ac.in",
+      "rating": 4.3,
       "reviews": 529,
       "type": "Private",
       "about": "Welcome to VIDUSH SOMANY INSTITUTE OF TECHNOLOGY AND RESEARCH, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -32495,12 +32627,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "INFORMATION TECHNOLOGY",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹70,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "M.Tech in Computer Engineering",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "B.Tech in relevant discipline + GATE / PGCET",
+          "exams": "GATE, PGCET",
+          "intake": "18"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32518,18 +32678,20 @@
       ],
       "image": "https://vsitr.ac.in/wp-content/uploads/2024/04/SAG_1229-1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIDUSH%20SOMANY%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20RESEARCH%20MEHSANA%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIDUSH%20SOMANY%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20RESEARCH%20MEHSANA%20Gujarat",
+      "city": "Gandhinagar",
+      "established": 2019
     },
     {
       "id": 379,
-      "name": "DR. SUBHASH UNIVERSITY",
+      "name": "Dr. Subhash University (Junagadh)",
       "shortName": "Course Institute-1",
       "location": "JUNAGADH",
       "state": "Gujarat",
       "address": "KHAMDHROL ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.drsubhashuniver.edu.in",
-      "rating": 4.5,
+      "phone": "0285-2610055",
+      "website": "https://drsubhashuniversity.edu.in",
+      "rating": 4.3,
       "reviews": 286,
       "type": "Private",
       "about": "Welcome to DR. SUBHASH UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -32549,12 +32711,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 90
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCB/PCM + GUJCET",
+          "exams": "GUJCET, ACPC",
+          "intake": "100"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation (50%+) + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32572,18 +32762,20 @@
       ],
       "image": "https://media.getmyuni.com/azure/college-images-test/dr-subhash-university-junagadh/exterior-images-49efda4441d15ccd7ed2fd9141557ae6.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20SUBHASH%20UNIVERSITY%20JUNAGADH%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20SUBHASH%20UNIVERSITY%20JUNAGADH%20Gujarat",
+      "city": "Junagadh",
+      "established": 2010
     },
     {
       "id": 380,
-      "name": "PATEL GROUP OF INSTITUTIONS",
+      "name": "Patel Group of Institutions (PGI Rampura, Kadi, Mehsana)",
       "shortName": "Course Institute-1",
       "location": "MEHSANA",
       "state": "Gujarat",
       "address": "VILLAGE-MOTI DAU,TAL-DIST-MEHSANA MEHSANA UNJHA HIGHWAY ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.patelgroupofins.edu.in",
-      "rating": 4.5,
+      "phone": "02764-262244",
+      "website": "https://patelgroupe.edu.in",
+      "rating": 4.1,
       "reviews": 365,
       "type": "Private",
       "about": "Welcome to PATEL GROUP OF INSTITUTIONS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -32603,12 +32795,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "Graduation (50%+) + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical / Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32627,20 +32847,22 @@
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PATEL%20GROUP%20OF%20INSTITUTIONS%20MEHSANA%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Mehsana",
+      "established": 2010
     },
     {
       "id": 381,
-      "name": "DHARMSINH DESAI UNIVERSITY",
+      "name": "Dharmsinh Desai University (DDU Nadiad)",
       "shortName": "Course Institute-1",
       "location": "KHEDA",
       "state": "Gujarat",
       "address": "COLLEGE ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.dharmsinhdesaiu.edu.in",
-      "rating": 4.5,
+      "phone": "0268-2520502",
+      "website": "https://www.ddu.ac.in",
+      "rating": 4.6,
       "reviews": 281,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to DHARMSINH DESAI UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 69,
       "facebook": "#",
@@ -32658,12 +32880,49 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "fees": "₹1,68,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main + ACPC Gujarat",
+          "exams": "GUJCET, JEE Main, ACPC",
+          "intake": "150"
+        },
+        {
+          "title": "B.Tech in Chemical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,68,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main + ACPC",
+          "exams": "GUJCET, JEE Main, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,55,000/Year",
+          "eligibility": "10+2 with PCB/PCM + GUJCET",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "BCA / B.Sc with Math + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "Graduation (50%+) + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32681,7 +32940,9 @@
       ],
       "image": "https://media.getmyuni.com/azure/college-images-test/dharmsinh-desai-university-ddu-nadiad/5bad70eeaca244428a8dcdf553c00a8a.jpeg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DHARMSINH%20DESAI%20UNIVERSITY%20KHEDA%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DHARMSINH%20DESAI%20UNIVERSITY%20KHEDA%20Gujarat",
+      "city": "Nadiad",
+      "established": 1968
     },
     {
       "id": 382,
@@ -32795,13 +33056,13 @@
     },
     {
       "id": 384,
-      "name": "DEVANG PATEL INSTITUTE OF ADVANCE TECHNOLOGY AND RESEARCH",
+      "name": "Devang Patel Institute of Advance Technology and Research (DEPSTAR CHARUSAT, Anand)",
       "shortName": "Course Institute-1",
       "location": "ANAND",
       "state": "Gujarat",
       "address": "CHARUSAT CAMPUS-CHANGA, OFF. NADIAD-PETLAD HIGHWAY, GUJARAT-388421",
-      "phone": "0123-456789",
-      "website": "https://www.devangpatelinst.edu.in",
+      "phone": "02697-265271",
+      "website": "https://www.charusat.ac.in/depstar",
       "rating": 4.5,
       "reviews": 138,
       "type": "Private",
@@ -32822,12 +33083,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER ENGINEERING",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main + ACPC",
+          "exams": "GUJCET, JEE Main, ACPC",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+          "exams": "GUJCET, ACPC",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "M.Tech in Computer Science & Engineering",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "B.Tech in CSE/IT + GATE / PGCET",
+          "exams": "GATE, PGCET",
+          "intake": "18"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -32843,10 +33132,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEVANG%20PATEL%20INSTITUTE%20OF%20ADVANCE%20TECHNOLOGY%20AND%20RESEARCH%20ANAND%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Anand",
+      "established": 2017
     },
     {
       "id": 385,
