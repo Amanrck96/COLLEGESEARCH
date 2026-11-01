@@ -47,3 +47,4 @@ Batch 36 targeted 10 technical and management institutions across Andhra Pradesh
 - **Verified in Batch 36**: 10 Institutions
 - **Total Officially Verified**: 360 / 12,660 (36.0% of 1,000 Milestone)
 - **Pending to 1,000 Milestone**: 640 Institutions
+

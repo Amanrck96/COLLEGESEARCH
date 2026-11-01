@@ -94,3 +94,4 @@
   - `Maulana Mazharul Haque Arabic and Persian University` (ID: 3347): Established 1998 by Bihar State Universities Act. Corrected from `Private` to `Public/Government`.
 - **Raw Google Search Query String Purged**:
   - Purged crawler string `https://www.google.com/search?q=MAA%20KANTI...` from Maa Kanti College (ID: 3367) and restored official domain `http://mkcohe.com`.
+

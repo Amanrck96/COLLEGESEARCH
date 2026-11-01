@@ -46,3 +46,4 @@ Batch 38 targeted 10 institutions across Andhra Pradesh, advancing the verified 
 - **Verified in Batch 38**: 10 Institutions
 - **Total Officially Verified**: 380 / 12,660 (38.0% of 1,000 Milestone)
 - **Pending to 1,000 Milestone**: 620 Institutions
+

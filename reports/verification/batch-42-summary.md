@@ -95,3 +95,4 @@
   - `Institute of Rural Management Anand (IRMA, ID 3566)`: Established 1979 under NDDB. Restored Autonomous Public Institute status.
 - **Raw Google Search Query Strings Purged**:
   - Purged crawler URLs from ID 3512 (FIIB Delhi) and ID 3563 (FMS Baroda), replacing them with official portals.
+

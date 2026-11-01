@@ -47,3 +47,4 @@ Batch 37 targeted 10 technical, engineering, and management institutions across 
 - **Verified in Batch 37**: 10 Institutions
 - **Total Officially Verified**: 370 / 12,660 (37.0% of 1,000 Milestone)
 - **Pending to 1,000 Milestone**: 630 Institutions
+

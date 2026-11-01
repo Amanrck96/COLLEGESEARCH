@@ -202,3 +202,4 @@ colleges.forEach(col => {
 
 fs.writeFileSync(SITE_DATA_PATH, JSON.stringify(rawData, null, 2), 'utf8');
 console.log(`Successfully updated ${updatedCount} colleges in ${SITE_DATA_PATH}`);
+

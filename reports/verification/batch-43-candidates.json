@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3586,
+    "name": "ARRDEKTA INSTITUTE OF TECHNOLOGY",
+    "address": "AHMEDABAD-AMBAJI STATE HIGHWAY NO. 09, OPP. EKTA INSTITUTE., AT: RADHIWAD, PO.: NAVI METRAL TAL. KHEDBRAHMA, DIST. SABARKANTHA, GUJARAT- 383270",
+    "state": "Gujarat",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.arrdektainstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3592,
+    "name": "SHIVAM INSTITUTE OF MANAGEMENT, VALASAN (ANAND)",
+    "address": "OPP. SWAMINARAYAN VIDYAPITH, ANAND- SOJITRA ROAD",
+    "state": "Gujarat",
+    "img": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.shivaminstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA(GENERAL MANAGEMENT)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3593,
+    "name": "SHREE H.N. SHUKLA COLLEGE OF MANAGEMENT STUDIES",
+    "address": "SHREE H.N. SHUKLA COLLEGE CAMPUS, NR. LALPARI LAKE, B/H MARKETING YARD, AMARGADH(BHICHARI),RAJKOT-03",
+    "state": "Gujarat",
+    "img": "https://www.campusoption.com/images/colleges/gallery/31_03_17_022111_College.jpg",
+    "website": "https://www.shreehnshuklaco.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3599,
+    "name": "S. R. LUTHRA INSTITUTE OF MANAGEMENT",
+    "address": "MTB COLLEGE CAMPUS, NEAR ADARSH SOCIETY, ATHWALINES, SURAT. GUJARAT.",
+    "state": "Gujarat",
+    "img": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.srluthrainstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3602,
+    "name": "SMT. SHANTABEN HARIBHAI GAJERA MBA MAHILA COLLEGE",
+    "address": "SMT. SHANTABEN HARIBHAI GAJERA SHAKSHANIK SANKUL CHAKKARGADH ROAD, NR. BYPASS AMRELI - 365601",
+    "state": "Gujarat",
+    "img": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.smtshantabenhar.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3603,
+    "name": "SOM-LALIT INSTITUTE OF MANAGEMENT STUDIES(SLIMS)",
+    "address": "SLIMS CAMPUS, NR. ST. XAIVERS COLLEGE CORNER, NAVRANGPURA,",
+    "state": "Gujarat",
+    "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.somlalitinstitu.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3607,
+    "name": "C K SHAH VIJAPURWALA INSTITUTE OF MANAGEMENT",
+    "address": "SHRI MAHAVIRA JAINA VIDYALAYA PREMISES, R V DESAI ROAD, PRATAPNAGAR, VADODARA 390004",
+    "state": "Gujarat",
+    "img": "https://www.joonsquare.com/usermanage/image/business/c-k-shah-vijapurwala-institute-of-management-vadodara-14427/c-k-shah-vijapurwala-institute-of-management-vadodara-c.-k.-shah-vijapurwala-institute-of-management-1.jpg",
+    "website": "https://www.ckshahvijapurwa.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3634,
+    "name": "ST. KABIR INSTITUTE OF PROFESSIONAL STUDIES",
+    "address": "NEAR SAL HOSPITAL, OFF DRIVE-IN-ROAD",
+    "state": "Gujarat",
+    "img": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.google.com/search?q=ST.%20KABIR%20INSTITUTE%20OF%20PROFESSIONAL%20STUDIES%20AHMEDABAD%20Gujarat%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3654,
+    "name": "CHIMANBHAI PATEL INTITUTE OF MANAGEMENT & RESEARCH",
+    "address": "OPP. KARNAVATI CLUB, S.G. HIGHWAY, AHMEDABAD",
+    "state": "Gujarat",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1594203457Cover.png",
+    "website": "https://www.chimanbhaipatel.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3656,
+    "name": "ENTREPRENEURSHIP DEVELOPMENT INSTITUTE OF INDIA",
+    "address": "VIA AHMEDABAD AIRPORT & INDIRA BRIDGE, P.O. BHAT-382 428, DIST. GANDHINAGAR, GUJARAT (INDIA) (INDIA)",
+    "state": "Gujarat",
+    "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.entrepreneurshi.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "PGDM (ENTREPRENEURSHIP)",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  }
+]

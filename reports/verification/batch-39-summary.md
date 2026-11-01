@@ -48,3 +48,4 @@ Batch 39 marks the expansion of the verification pipeline into Bihar, alongside 
 - **Verified in Batch 39**: 10 Institutions
 - **Total Officially Verified**: 390 / 12,660 (39.0% of 1,000 Milestone)
 - **Pending to 1,000 Milestone**: 610 Institutions
+
