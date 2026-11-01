@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **640 / 12,660**  
-**Roadmap Progress**: **64.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **650 / 12,660**  
+**Roadmap Progress**: **65.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -969,4 +969,19 @@
 | **211** | COEP Technological University (College of Engineering Pune) | Public/Government | Maharashtra, India | [www.coep.org.in](https://www.coep.org.in) |
 | **212** | Universal SkillTech University, Mumbai | Private | near Bhajanlal Dairy and Punyadham, Kaman Bhiwandi Road | [ustu.edu.in](https://ustu.edu.in/) |
 | **213** | Symbiosis Institute of Technology, Pune (SIT Pune) | Deemed | Maharashtra, India | [www.sitpune.edu.in](https://www.sitpune.edu.in/) |
+
+### Batch 65 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **214** | Pillai College of Engineering, Panvel | Private | Maharashtra, India | [pce.ac.in](https://pce.ac.in) |
+| **215** | RC Patel Institute of Technology, Shirpur, Dhule | Private | Maharashtra, India | [www.rcpit.ac.in](https://www.rcpit.ac.in) |
+| **216** | Trinity College of Engineering and Research, Pune | Private | Maharashtra, India | [www.kjei.edu.in](https://www.kjei.edu.in/tcoer/) |
+| **217** | Sardar Patel Institute of Technology, Andheri West, Mumbai | Private | Maharashtra, India | [www.spit.ac.in](https://www.spit.ac.in) |
+| **218** | Institute of Chemical Technology, Mumbai | Public/Government | near Khalsa College, Matunga East | [www.ictmumbai.edu.in](https://www.ictmumbai.edu.in/) |
+| **219** | Visvesvaraya National Institute of Technology, Nagpur (VNIT Nagpur) | Public/Government | Visvesvaraya National Institute of Technology, South Ambazari Road | [www.vnit.ac.in](https://www.vnit.ac.in) |
+| **220** | Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai | Private | Lakhamsi Napoo Road, Nr. Matunga (Central Rly) | [www.welingkar.org](https://www.welingkar.org/) |
+| **221** | Faculty of Management Studies, University of Delhi (FMS Delhi) | Public/Government | University of Delhi, Kamla Nagar | [fms.edu](https://fms.edu) |
+| **222** | National Institute of Bank Management, Pune (NIBM Pune) | Private | NIBM Post Office, Kondhwa Khurd | [www.nibmindia.org](https://www.nibmindia.org/) |
+| **223** | Amity University Mumbai | Private | Maharashtra, India | [www.amity.edu](https://www.amity.edu/mumbai/) |
 

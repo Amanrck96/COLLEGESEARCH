@@ -4798,5 +4798,80 @@
         "website": "https://www.sitpune.edu.in/"
       }
     ]
+  },
+  {
+    "batch": 65,
+    "items": [
+      {
+        "id": 214,
+        "name": "Pillai College of Engineering, Panvel",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://pce.ac.in"
+      },
+      {
+        "id": 215,
+        "name": "RC Patel Institute of Technology, Shirpur, Dhule",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://www.rcpit.ac.in"
+      },
+      {
+        "id": 216,
+        "name": "Trinity College of Engineering and Research, Pune",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://www.kjei.edu.in/tcoer/"
+      },
+      {
+        "id": 217,
+        "name": "Sardar Patel Institute of Technology, Andheri West, Mumbai",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://www.spit.ac.in"
+      },
+      {
+        "id": 218,
+        "name": "Institute of Chemical Technology, Mumbai",
+        "type": "Public/Government",
+        "location": "near Khalsa College, Matunga East",
+        "website": "https://www.ictmumbai.edu.in/"
+      },
+      {
+        "id": 219,
+        "name": "Visvesvaraya National Institute of Technology, Nagpur (VNIT Nagpur)",
+        "type": "Public/Government",
+        "location": "Visvesvaraya National Institute of Technology, South Ambazari Road",
+        "website": "https://www.vnit.ac.in"
+      },
+      {
+        "id": 220,
+        "name": "Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
+        "type": "Private",
+        "location": "Lakhamsi Napoo Road, Nr. Matunga (Central Rly)",
+        "website": "https://www.welingkar.org/"
+      },
+      {
+        "id": 221,
+        "name": "Faculty of Management Studies, University of Delhi (FMS Delhi)",
+        "type": "Public/Government",
+        "location": "University of Delhi, Kamla Nagar",
+        "website": "https://fms.edu"
+      },
+      {
+        "id": 222,
+        "name": "National Institute of Bank Management, Pune (NIBM Pune)",
+        "type": "Private",
+        "location": "NIBM Post Office, Kondhwa Khurd",
+        "website": "https://www.nibmindia.org/"
+      },
+      {
+        "id": 223,
+        "name": "Amity University Mumbai",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://www.amity.edu/mumbai/"
+      }
+    ]
   }
 ]

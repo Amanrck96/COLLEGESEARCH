@@ -18450,16 +18450,16 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/pillai-college-of-engineering-panvel-mumbai-54066/compare",
-      "name": "Pillai College of Engineering ,Panvel, Mumbai",
+      "name": "Pillai College of Engineering, Panvel",
       "shortName": "CPCOEM",
       "location": "Maharashtra",
       "state": "Maharashtra",
       "country": "India",
       "address": "Maharashtra, Maharashtra, India",
-      "phone": "080-26597135",
+      "phone": "022-27456030",
       "email": "admissions@cpcoem.edu.in",
-      "website": "https://www.google.com/search?q=Pillai%20College%20of%20Engineering%20%2CPanvel%2C%20Mumbai%20official%20website%20Maharashtra%20Maharashtra",
-      "rating": 4.5,
+      "website": "https://pce.ac.in",
+      "rating": 4.4,
       "reviews": 215,
       "type": "Private",
       "ownership": "Private",
@@ -18481,31 +18481,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Electronics & Computer Science",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
           "intake": "60"
-        },
-        {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -18530,20 +18530,22 @@
       "id": 214,
       "reviewsCount": 215,
       "image": "/images/campuses/campus_architecture_8.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pillai%20College%20of%20Engineering%20%2CPanvel%2C%20Mumbai%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pillai%20College%20of%20Engineering%20%2CPanvel%2C%20Mumbai%20Maharashtra%20Maharashtra",
+      "city": "Navi Mumbai",
+      "established": 1999
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/r-c-patel-institute-of-technology-dhule-25057/compare",
-      "name": "RC Patel College of Engineering Shirpur ,Dhule",
+      "name": "RC Patel Institute of Technology, Shirpur, Dhule",
       "shortName": "CRPCOE",
       "location": "Maharashtra",
       "state": "Maharashtra",
       "country": "India",
       "address": "Maharashtra, Maharashtra, India",
-      "phone": "080-26597135",
+      "phone": "02563-259600",
       "email": "admissions@crpcoe.edu.in",
-      "website": "https://www.google.com/search?q=RC%20Patel%20College%20of%20Engineering%20Shirpur%20%2CDhule%20official%20website%20Maharashtra%20Maharashtra",
-      "rating": 4.5,
+      "website": "https://www.rcpit.ac.in",
+      "rating": 4.3,
       "reviews": 292,
       "type": "Private",
       "ownership": "Private",
@@ -18565,31 +18567,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in Data Science & Artificial Intelligence",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Electrical / Mechanical Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
-        },
-        {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -18614,7 +18616,9 @@
       "id": 215,
       "reviewsCount": 292,
       "image": "https://www.rcpcoep.ac.in/images/about.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RC%20Patel%20College%20of%20Engineering%20Shirpur%20%2CDhule%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RC%20Patel%20College%20of%20Engineering%20Shirpur%20%2CDhule%20Maharashtra%20Maharashtra",
+      "city": "Dhule",
+      "established": 2001
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/trinity-college-of-engineering-and-research-kondhwa-pune-52368/compare",
@@ -18624,12 +18628,12 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "Maharashtra, Maharashtra, India",
-      "phone": "080-26597135",
+      "phone": "020-26934422",
       "email": "admissions@tcoear.edu.in",
-      "website": "https://www.google.com/search?q=Trinity%20College%20of%20Engineering%20and%20Research%2C%20Pune%20official%20website%20Maharashtra%20Maharashtra",
-      "rating": 4.5,
+      "website": "https://www.kjei.edu.in/tcoer/",
+      "rating": 4.2,
       "reviews": 297,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Government",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -18649,31 +18653,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.E. in Computer Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹98,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.E. in Information Technology",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹98,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹85,000/Year",
+          "eligibility": "Graduation with 50% + MAH MBA CET / CMAT",
+          "exams": "MAH MBA CET, CMAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -18698,20 +18702,22 @@
       "id": 216,
       "reviewsCount": 297,
       "image": "/images/campuses/campus_trinity_pune.png",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trinity%20College%20of%20Engineering%20and%20Research%2C%20Pune%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trinity%20College%20of%20Engineering%20and%20Research%2C%20Pune%20Maharashtra%20Maharashtra",
+      "city": "Pune",
+      "established": 2008
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/sardar-patel-institute-of-technology-andheri-west-mumbai-48091/compare",
-      "name": "Sardar Patel Institute of Technology ,Andheri West, Mumbai",
+      "name": "Sardar Patel Institute of Technology, Andheri West, Mumbai",
       "shortName": "CSPIOT",
       "location": "Maharashtra",
       "state": "Maharashtra",
       "country": "India",
       "address": "Maharashtra, Maharashtra, India",
-      "phone": "080-26597135",
+      "phone": "022-26707440",
       "email": "admissions@cspiot.edu.in",
-      "website": "https://www.google.com/search?q=Sardar%20Patel%20Institute%20of%20Technology%20%2CAndheri%20West%2C%20Mumbai%20official%20website%20Maharashtra%20Maharashtra",
-      "rating": 4.5,
+      "website": "https://www.spit.ac.in",
+      "rating": 4.7,
       "reviews": 367,
       "type": "Private",
       "ownership": "Private",
@@ -18733,31 +18739,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,72,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET (99.6+ %ile) / JEE Main",
+          "exams": "MHT CET, JEE Main",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Computer Science and Engineering (Data Science)",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,72,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "B.Tech in Electronics & Telecommunication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,72,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,40,000/Year",
+          "eligibility": "Graduation with BCA/B.Sc/B.Com + MAH MCA CET",
+          "exams": "MAH MCA CET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -18781,9 +18796,11 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 217,
       "reviewsCount": 367,
-      "image": "/images/campuses/vjti_mumbai.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sardar%20Patel%20Institute%20of%20Technology%20%2CAndheri%20West%2C%20Mumbai%20Maharashtra%20Maharashtra",
-      "imageUrl": "/images/campuses/vjti_mumbai.jpg"
+      "imageUrl": "/images/campuses/vjti_mumbai.jpg",
+      "city": "Mumbai",
+      "established": 2005
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/institute-of-chemical-technology-mumbai-36791",
@@ -18793,12 +18810,12 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "2VF4+GX4, Nathalal Parekh Marg, near Khalsa College, Matunga East",
-      "phone": "02233611111",
+      "phone": "022-33611111",
       "email": "admission@ictmumbai.edu.in",
       "website": "https://www.ictmumbai.edu.in/",
-      "rating": 4.5,
+      "rating": 4.9,
       "reviews": 261,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -18818,22 +18835,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "Bachelor of Chemical Engineering (B.Chem.Engg.)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹89,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
+          "intake": "75"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "B.Tech in Food Engineering and Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹89,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
+          "intake": "30"
+        },
+        {
+          "title": "B.Tech in Pharmaceutical Chemistry & Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹89,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
+          "intake": "30"
+        },
+        {
+          "title": "M.Chem.Engg. / M.Tech in Chemical Engineering",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹70,000/Year",
+          "eligibility": "B.Chem.Engg / B.Tech in Chemical branch + GATE",
+          "exams": "GATE",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -18857,21 +18892,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 218,
       "reviewsCount": 261,
-      "image": "/images/campuses/pibm_pune.webp",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Institute%20of%20Chemical%20Technology%2C%20Mumbai%20Maharashtra%20Maharashtra"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Institute%20of%20Chemical%20Technology%2C%20Mumbai%20Maharashtra%20Maharashtra",
+      "city": "Mumbai",
+      "established": 1933
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/vnit-nagpur-visvesvaraya-national-institute-of-technology-24399",
-      "name": "VNIT Nagpur",
+      "name": "Visvesvaraya National Institute of Technology, Nagpur (VNIT Nagpur)",
       "shortName": "VN",
       "location": "Maharashtra",
       "state": "Maharashtra",
       "country": "India",
       "address": "Visvesvaraya National Institute of Technology, South Ambazari Road",
-      "phone": "07122801423",
+      "phone": "0712-2801423",
       "email": "rryerpude@mng.vnit.ac.in",
       "website": "https://www.vnit.ac.in",
-      "rating": 4.5,
+      "rating": 4.8,
       "reviews": 276,
       "type": "Public/Government",
       "ownership": "Government",
@@ -18893,31 +18930,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / JoSAA Counseling",
+          "exams": "JEE Main",
+          "intake": "115"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Mechanical / Electrical / Civil Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / JoSAA",
+          "exams": "JEE Main",
+          "intake": "340"
+        },
+        {
+          "title": "Bachelor of Architecture (B.Arch)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main Paper 2",
+          "exams": "JEE Main Paper 2",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "M.Tech in Structural Dynamics / CAD-CAM / VLSI",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹90,000/Year",
+          "eligibility": "B.Tech in relevant branch + GATE / CCMT",
+          "exams": "GATE",
+          "intake": "250"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -18946,7 +18992,9 @@
       "id": 219,
       "reviewsCount": 276,
       "image": "/images/campuses/campus_vnit_nagpur.jpeg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VNIT%20Nagpur%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VNIT%20Nagpur%20Maharashtra%20Maharashtra",
+      "city": "Nagpur",
+      "established": 1960
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/prin-l-n-welingkar-institute-of-management-development-and-research-mumbai-matunga-west-28589/ranking",
@@ -18956,10 +19004,10 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "Lakhamsi Napoo Road, Nr. Matunga (Central Rly)",
-      "phone": "02224198300",
+      "phone": "022-24198300",
       "email": "pgapp@welingkarmail.org",
       "website": "https://www.welingkar.org/",
-      "rating": 4.5,
+      "rating": 4.6,
       "reviews": 283,
       "type": "Private",
       "ownership": "Private",
@@ -18981,22 +19029,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Post Graduate Diploma in Management (PGDM)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
+          "fees": "₹7,00,000/Year",
+          "eligibility": "Bachelor degree with minimum 50% + CAT/XAT/CMAT",
+          "exams": "CAT, XAT, CMAT, ATMA, GMAT",
           "intake": "180"
         },
         {
-          "title": "Executive MBA",
+          "title": "PGDM in E-Business / Business Design",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "duration": "2 Years",
+          "fees": "₹7,00,000/Year",
+          "eligibility": "Bachelor degree with minimum 50% + Entrance",
+          "exams": "CAT, XAT, CMAT",
+          "intake": "120"
+        },
+        {
+          "title": "Masters in Management Studies (MMS)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹3,45,000/Year",
+          "eligibility": "Graduation with 50% + MAH MBA CET",
+          "exams": "MAH MBA CET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹40 LPA",
@@ -19028,20 +19085,22 @@
       "id": 220,
       "reviewsCount": 283,
       "image": "/images/campuses/weschool_matunga_mumbai.jpeg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Prin.%20L.%20N.%20Welingkar%20Institute%20of%20Management%20Development%20and%20Research%2C%20Mumbai%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Prin.%20L.%20N.%20Welingkar%20Institute%20of%20Management%20Development%20and%20Research%2C%20Mumbai%20Maharashtra%20Maharashtra",
+      "city": "Mumbai",
+      "established": 1977
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/faculty-of-management-studies-university-of-delhi-north-campus-28361/questions",
-      "name": "Faculty of Management Studies, University of Delhi",
+      "name": "Faculty of Management Studies, University of Delhi (FMS Delhi)",
       "shortName": "FOMSUO",
       "location": "Maharashtra",
-      "state": "Maharashtra",
+      "state": "Delhi NCR",
       "country": "India",
       "address": "University of Delhi, Kamla Nagar",
-      "phone": "01127666382",
+      "phone": "011-27666382",
       "email": "adminoffice@fms.edu",
-      "website": "https://www.du.ac.in",
-      "rating": 4.5,
+      "website": "https://fms.edu",
+      "rating": 4.9,
       "reviews": 255,
       "type": "Public/Government",
       "ownership": "Private",
@@ -19063,22 +19122,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Master of Business Administration (MBA - Full Time)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹1,00,000/Year",
+          "eligibility": "Graduation in any discipline with 50% + CAT (99.2+ %ile) + PI",
+          "exams": "CAT",
+          "intake": "251"
         },
         {
-          "title": "Executive MBA",
+          "title": "MBA in Healthcare Administration (Executive)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "duration": "2 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "Graduation with 5 yrs experience + Assessment",
+          "exams": "Work Experience + PI",
+          "intake": "53"
+        },
+        {
+          "title": "Ph.D in Management Studies",
+          "division": "Doctoral",
+          "duration": "3-5 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "Master degree with 55% + UGC-NET (JRF)",
+          "exams": "UGC NET",
+          "intake": "20"
         }
       ],
       "highestPackage": "₹1 Cr",
@@ -19111,21 +19179,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 221,
       "reviewsCount": 255,
-      "image": "/images/campuses/pibm_pune.webp",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Faculty%20of%20Management%20Studies%2C%20University%20of%20Delhi%20Maharashtra%20Maharashtra"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Faculty%20of%20Management%20Studies%2C%20University%20of%20Delhi%20Maharashtra%20Maharashtra",
+      "city": "New Delhi",
+      "established": 1954
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/national-institute-of-bank-management-nibm-rd-pune-24474/ranking",
-      "name": "National Institute of Bank Management, Pune",
+      "name": "National Institute of Bank Management, Pune (NIBM Pune)",
       "shortName": "NIOBMP",
       "location": "Maharashtra",
       "state": "Maharashtra",
       "country": "India",
       "address": "NIBM Post Office, Kondhwa Khurd",
-      "phone": "02069046000",
+      "phone": "020-69046000",
       "email": "helpdesk@nibmindia.org",
       "website": "https://www.nibmindia.org/",
-      "rating": 4.5,
+      "rating": 4.6,
       "reviews": 390,
       "type": "Private",
       "ownership": "Private",
@@ -19147,22 +19217,22 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "PGDM in Banking and Financial Services (PGDM-B&FS)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹8,00,000/Year",
+          "eligibility": "Graduation with 50% + CAT/XAT/CMAT/GMAT + WAT/PI",
+          "exams": "CAT, XAT, CMAT, GMAT",
+          "intake": "120"
         },
         {
-          "title": "Executive MBA",
+          "title": "Executive Program in Banking Technology",
           "division": "Postgraduate",
           "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "fees": "₹3,50,000 Total",
+          "eligibility": "Graduation + Banking sector experience",
+          "exams": "Direct Assessment",
+          "intake": "45"
         }
       ],
       "highestPackage": "₹23.5 LPA",
@@ -19190,8 +19260,10 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 222,
       "reviewsCount": 390,
-      "image": "/images/campuses/chetana_bandra.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Bank%20Management%2C%20Pune%20Maharashtra%20Maharashtra"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Bank%20Management%2C%20Pune%20Maharashtra%20Maharashtra",
+      "city": "Pune",
+      "established": 1969
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/amity-university-mumbai-46905",
@@ -19201,12 +19273,12 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "Maharashtra, Maharashtra, India",
-      "phone": "080-26597135",
+      "phone": "02143-205037",
       "email": "admissions@aum.edu.in",
-      "website": "https://www.amity.edu",
-      "rating": 4.5,
+      "website": "https://www.amity.edu/mumbai/",
+      "rating": 4.3,
       "reviews": 438,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -19226,21 +19298,30 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
+          "title": "B.Tech in Computer Science & Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,40,000/Year",
+          "eligibility": "10+2 with PCM + Amity JEE / JEE Main / MHT CET",
+          "exams": "Amity JEE, JEE Main, MHT CET",
           "intake": "180"
         },
         {
-          "title": "Executive MBA",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "2 Years",
+          "fees": "₹3,60,000/Year",
+          "eligibility": "Graduation with 50% + CAT/MAT/XAT/Amity Test",
+          "exams": "CAT, MAT, XAT",
+          "intake": "120"
+        },
+        {
+          "title": "B.Des in Fashion Design / Interior Design",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,60,000/Year",
+          "eligibility": "10+2 with 50% + Design Aptitude Test",
+          "exams": "Design Test",
           "intake": "60"
         }
       ],
@@ -19272,8 +19353,10 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 223,
       "reviewsCount": 438,
-      "image": "/images/campuses/weschool_matunga_mumbai.jpeg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Amity%20University%20Mumbai%20Maharashtra%20Maharashtra"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Amity%20University%20Mumbai%20Maharashtra%20Maharashtra",
+      "city": "Mumbai",
+      "established": 2014
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/unipune-savitribai-phule-pune-university-sppu-25004",
