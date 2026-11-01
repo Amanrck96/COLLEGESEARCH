@@ -8623,5 +8623,80 @@
         "website": "https://www.amu.ac.in/colleges/zhcet"
       }
     ]
+  },
+  {
+    "batch": 116,
+    "items": [
+      {
+        "id": 806,
+        "name": "Lalsa Institute of Engineering & Rural Technology (LIERT Ghazipur)",
+        "type": "Private",
+        "location": "Ghazipur, Uttar Pradesh - 275203",
+        "website": "https://www.liert.co.in"
+      },
+      {
+        "id": 807,
+        "name": "ACCMAN Business School (Knowledge Park III, Greater Noida)",
+        "type": "Private",
+        "location": "Gautam Buddha Nagar, Uttar Pradesh - 201306",
+        "website": "https://accmanbusinessschool.in"
+      },
+      {
+        "id": 809,
+        "name": "Delhi Institute of Higher Education (DIHE Greater Noida West)",
+        "type": "Private",
+        "location": "Gautam Buddha Nagar, Uttar Pradesh - 201306",
+        "website": "https://www.dihe.co.in"
+      },
+      {
+        "id": 810,
+        "name": "Government Polytechnic, Kulpahar (Mahoba, Uttar Pradesh)",
+        "type": "Public/Government",
+        "location": "Mahoba, Uttar Pradesh - 210426",
+        "website": "https://gpkulpahad.org"
+      },
+      {
+        "id": 811,
+        "name": "Meerut Institute of Engineering & Technology (MIET Meerut)",
+        "type": "Private",
+        "location": "Meerut, Uttar Pradesh - 250005",
+        "website": "https://www.miet.ac.in"
+      },
+      {
+        "id": 812,
+        "name": "Baijnath Ramnaresh College of Technology (Chiraiyakot, Azamgarh)",
+        "type": "Private",
+        "location": "Azamgarh, Uttar Pradesh - 276129",
+        "website": "https://brct.in"
+      },
+      {
+        "id": 813,
+        "name": "IEC College of Engineering and Technology (IEC Greater Noida)",
+        "type": "Private",
+        "location": "Gautam Buddha Nagar, Uttar Pradesh - 201310",
+        "website": "https://iec.edu.in"
+      },
+      {
+        "id": 815,
+        "name": "Government Polytechnic, Baheri (Bareilly, Uttar Pradesh)",
+        "type": "Public/Government",
+        "location": "Bareilly, Uttar Pradesh - 243201",
+        "website": "http://www.gpbaheribly.com"
+      },
+      {
+        "id": 816,
+        "name": "Trinity Institute of Innovations in Professional Studies (TIIPS Greater Noida)",
+        "type": "Private",
+        "location": "Gautam Buddha Nagar, Uttar Pradesh - 201306",
+        "website": "https://tiips.ac.in"
+      },
+      {
+        "id": 817,
+        "name": "Government Polytechnic, Chariyaon Bujurg (Deoria, Uttar Pradesh)",
+        "type": "Public/Government",
+        "location": "Deoria, Uttar Pradesh - 274202",
+        "website": "https://gpchariyaondeoria.in"
+      }
+    ]
   }
 ]

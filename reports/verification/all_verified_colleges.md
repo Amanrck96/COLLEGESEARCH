@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1150 / 12,660**  
-**Roadmap Progress**: **115.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1160 / 12,660**  
+**Roadmap Progress**: **116.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1734,4 +1734,19 @@
 | **803** | Rajkiya Engineering College, Mainpuri (REC Mainpuri) | Public/Government | NOUNER, UTTAR PRADESH | [recmainpuri.in](https://recmainpuri.in) |
 | **804** | Mahamaya Polytechnic of Information Technology (Government Polytechnic, Kushinagar) | Public/Government | ALIGARH | [dte.up.gov.in](https://dte.up.gov.in) |
 | **805** | Zakir Husain College of Engineering and Technology (ZHCET, AMU Aligarh) | Public/Government | ZAKIR HUSAIN COLLEGE OF ENGINEERIING & TECHNOLOGY ALIGARH MUSLIM UNIVERSITY ALIGARH - 202002 | [www.amu.ac.in](https://www.amu.ac.in/colleges/zhcet) |
+
+### Batch 116 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **806** | Lalsa Institute of Engineering & Rural Technology (LIERT Ghazipur) | Private | Ghazipur, Uttar Pradesh - 275203 | [www.liert.co.in](https://www.liert.co.in) |
+| **807** | ACCMAN Business School (Knowledge Park III, Greater Noida) | Private | Gautam Buddha Nagar, Uttar Pradesh - 201306 | [accmanbusinessschool.in](https://accmanbusinessschool.in) |
+| **809** | Delhi Institute of Higher Education (DIHE Greater Noida West) | Private | Gautam Buddha Nagar, Uttar Pradesh - 201306 | [www.dihe.co.in](https://www.dihe.co.in) |
+| **810** | Government Polytechnic, Kulpahar (Mahoba, Uttar Pradesh) | Public/Government | Mahoba, Uttar Pradesh - 210426 | [gpkulpahad.org](https://gpkulpahad.org) |
+| **811** | Meerut Institute of Engineering & Technology (MIET Meerut) | Private | Meerut, Uttar Pradesh - 250005 | [www.miet.ac.in](https://www.miet.ac.in) |
+| **812** | Baijnath Ramnaresh College of Technology (Chiraiyakot, Azamgarh) | Private | Azamgarh, Uttar Pradesh - 276129 | [brct.in](https://brct.in) |
+| **813** | IEC College of Engineering and Technology (IEC Greater Noida) | Private | Gautam Buddha Nagar, Uttar Pradesh - 201310 | [iec.edu.in](https://iec.edu.in) |
+| **815** | Government Polytechnic, Baheri (Bareilly, Uttar Pradesh) | Public/Government | Bareilly, Uttar Pradesh - 243201 | [www.gpbaheribly.com](http://www.gpbaheribly.com) |
+| **816** | Trinity Institute of Innovations in Professional Studies (TIIPS Greater Noida) | Private | Gautam Buddha Nagar, Uttar Pradesh - 201306 | [tiips.ac.in](https://tiips.ac.in) |
+| **817** | Government Polytechnic, Chariyaon Bujurg (Deoria, Uttar Pradesh) | Public/Government | Deoria, Uttar Pradesh - 274202 | [gpchariyaondeoria.in](https://gpchariyaondeoria.in) |
 
