@@ -2903,3 +2903,19 @@
 | 1938 | Himachal Pradesh Technical University (HPTU), Hamirpur | Hamirpur | Himachal Pradesh | Public/Government (State University) | [Portal](https://www.himtu.ac.in) |
 | 1939 | L.R. Institute of Engineering & Technology, Solan | Solan | Himachal Pradesh | Private | [Portal](https://www.lrinstitutes.edu.in) |
 | 1940 | CIPET: Centre for Skilling and Technical Support (CSTS) - Baddi | Solan | Himachal Pradesh | Public/Government | [Portal](https://www.cipet.gov.in) |
+
+
+### Batch 195 (Colleges 1,941–1,950)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1941 | Rajiv Gandhi Government Engineering College (RGGEC) Kangra | Kangra | Himachal Pradesh | Public/Government | [Portal](https://rggec.ac.in) |
+| 1942 | MSME Technology Centre, Baddi | Solan | Himachal Pradesh | Public/Government | [Portal](https://msmetcbaddi.org) |
+| 1943 | Government Polytechnic for Women, Rehan | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gpwrehan.ac.in) |
+| 1944 | Mahatma Gandhi Government Engineering College (MGGEC), Kotla (Jeori) | Shimla | Himachal Pradesh | Public/Government | [Portal](https://mggec.ac.in) |
+| 1945 | Government Polytechnic, Jandaur | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gpjandaur.org) |
+| 1946 | Vaishno College of Engineering, Kangra | Kangra | Himachal Pradesh | Private | [Portal](https://vaishno.edu.in) |
+| 1947 | Himachal Institute of Engineering and Technology (HIET), Shahpur | Kangra | Himachal Pradesh | Private | [Portal](https://hiet.co.in) |
+| 1948 | Government College Dharamshala (Centre of Computer Applications & IT) | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcdharamshala.ac.in) |
+| 1949 | Hydro Engineering College Bandla, Bilaspur | Bilaspur | Himachal Pradesh | Public/Government | [Portal](https://ghec.ac.in) |
+| 1950 | Dreamz Polytechnic, Mandi | Mandi | Himachal Pradesh | Private | [Portal](https://dreamztechnology.in) |
