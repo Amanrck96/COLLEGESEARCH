@@ -5023,5 +5023,80 @@
         "website": "https://mkdit.edu.in/"
       }
     ]
+  },
+  {
+    "batch": 68,
+    "items": [
+      {
+        "id": 248,
+        "name": "Jagannath International Management School, Kalkaji, New Delhi",
+        "type": "Private",
+        "location": "VASANT KUNJ, NEW DELHI",
+        "website": "https://www.jagannath.org/"
+      },
+      {
+        "id": 249,
+        "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+        "type": "Public/Government",
+        "location": "KASHMERE GATE",
+        "website": "https://www.igdtuw.ac.in/"
+      },
+      {
+        "id": 250,
+        "name": "International Management Institute, New Delhi (IMI New Delhi)",
+        "type": "Private",
+        "location": "B-10 QUTAB INSTITUTIONAL AREA TARA CRESCENT NEW DELHI-110016",
+        "website": "https://www.imi.edu/"
+      },
+      {
+        "id": 252,
+        "name": "Indian Institute of Mass Communication, New Delhi (IIMC New Delhi)",
+        "type": "Public/Government",
+        "location": "Delhi NCR, India",
+        "website": "https://iimc.gov.in/"
+      },
+      {
+        "id": 253,
+        "name": "Ayurvedic and Unani Tibbia College, Karol Bagh, New Delhi",
+        "type": "Public/Government",
+        "location": "Delhi, India",
+        "website": "http://autc.delhi.gov.in/"
+      },
+      {
+        "id": 254,
+        "name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital",
+        "type": "Public/Government",
+        "location": "Delhi, India",
+        "website": "https://abvims-rmlh.gov.in/"
+      },
+      {
+        "id": 255,
+        "name": "Hamdard Institute of Medical Sciences And Research (HIMSR New Delhi)",
+        "type": "Deemed",
+        "location": "Hamdard Nagar, Guru Ravidas Marg",
+        "website": "https://www.himsr.co.in/"
+      },
+      {
+        "id": 256,
+        "name": "Impact Paramedical and Health Institute, Delhi (IPHI Delhi)",
+        "type": "Private",
+        "location": "Laxmi Park, Near Peer Baba Road Nangloi",
+        "website": "https://iphi.edu.in/"
+      },
+      {
+        "id": 257,
+        "name": "Institute of Clinical Research India, New Delhi (ICRI New Delhi)",
+        "type": "Private",
+        "location": "Road No. 201, Dwarka Sector-3",
+        "website": "https://www.icriindia.com/"
+      },
+      {
+        "id": 258,
+        "name": "DIT University, Dehradun",
+        "type": "Private",
+        "location": "East of Kailash, Near Spring Meadows Hospital",
+        "website": "https://www.dituniversity.edu.in/"
+      }
+    ]
   }
 ]

@@ -21336,14 +21336,14 @@
     },
     {
       "id": 248,
-      "name": "JAGANNATH INTERNATIONAL MANAGEMENT SCHOOL",
+      "name": "Jagannath International Management School, Kalkaji, New Delhi",
       "shortName": "Course Institute-1",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
       "address": "JAGANNATH INTERNATIONAL MANAGEMENT SCHOOL, OCF, POCKET 9, SECTOR B, VASANT KUNJ, NEW DELHI",
-      "phone": "0123-456789",
-      "website": "https://www.jagannathintern.edu.in",
-      "rating": 4.8,
+      "phone": "011-40619300",
+      "website": "https://www.jagannath.org/",
+      "rating": 4.5,
       "reviews": 806,
       "type": "Private",
       "about": "Welcome to JAGANNATH INTERNATIONAL MANAGEMENT SCHOOL, a premier institute located in SOUTH DELHI. We offer world-class education and facilities for our students.",
@@ -21362,13 +21362,31 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "title": "Post Graduate Diploma in Management (PGDM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,35,000/Year",
+          "eligibility": "Graduation with 50% + CAT/MAT/XAT/CMAT/ATMA",
+          "exams": "CAT, MAT, XAT, CMAT",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with 50% + GGSIPU CET / CUET UG",
+          "exams": "IPU CET, CUET UG",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with Mathematics/CS + GGSIPU CET",
+          "exams": "IPU CET, CUET UG",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -21391,20 +21409,22 @@
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAGANNATH%20INTERNATIONAL%20MANAGEMENT%20SCHOOL%20SOUTH%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "New Delhi",
+      "established": 1997
     },
     {
       "id": 249,
-      "name": "INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN",
+      "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
       "shortName": "Course Institute-1",
       "location": "CENTRAL DELHI",
       "state": "Delhi NCR",
       "address": "KASHMERE GATE",
-      "phone": "0123-456789",
-      "website": "https://www.indiragandhidel.edu.in",
+      "phone": "011-23900220",
+      "website": "https://www.igdtuw.ac.in/",
       "rating": 4.8,
       "reviews": 532,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN, a premier institute located in CENTRAL DELHI. We offer world-class education and facilities for our students.",
       "ranking": 12,
       "facebook": "#",
@@ -21421,13 +21441,40 @@
       ],
       "courses": [
         {
-          "title": "BBA",
-          "type": "MANAGEMENT",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Computer Science and Engineering (CSE / AI)",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 90,
-          "eligibility": "As per norms"
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM (60%+) + JEE Main / JAC Delhi",
+          "exams": "JEE Main, JAC Delhi",
+          "intake": "240"
+        },
+        {
+          "title": "B.Tech in Information Technology / ECE",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / JAC Delhi",
+          "exams": "JEE Main, JAC Delhi",
+          "intake": "240"
+        },
+        {
+          "title": "Bachelor of Architecture (B.Arch)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹1,40,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main Paper 2 / JAC Delhi",
+          "exams": "JEE Main Paper 2",
+          "intake": "40"
+        },
+        {
+          "title": "M.Tech in Artificial Intelligence / Information Security",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "B.Tech in relevant branch + GATE",
+          "exams": "GATE",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -21447,20 +21494,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 532,
-      "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIRA%20GANDHI%20DELHI%20TECHNICAL%20UNIVERSITY%20FOR%20WOMEN%20CENTRAL%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "New Delhi",
+      "established": 1998
     },
     {
       "id": 250,
-      "name": "IMI DELHI",
+      "name": "International Management Institute, New Delhi (IMI New Delhi)",
       "shortName": "Course Institute-1",
       "location": "SOUTH DELHI",
       "state": "Delhi NCR",
       "address": "B-10 QUTAB INSTITUTIONAL AREA TARA CRESCENT NEW DELHI-110016",
-      "phone": "0123-456789",
-      "website": "https://www.imidelhi.edu.in",
+      "phone": "011-47194100",
+      "website": "https://www.imi.edu/",
       "rating": 4.7,
       "reviews": 1912,
       "type": "Private",
@@ -21480,13 +21529,31 @@
       ],
       "courses": [
         {
-          "title": "PGDM",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE DIPLOMA",
-          "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 300,
-          "eligibility": "As per norms"
+          "title": "Post Graduate Diploma in Management (PGDM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹10,25,000/Year",
+          "eligibility": "Graduation with 50% + CAT (90+ %ile) / GMAT",
+          "exams": "CAT, GMAT",
+          "intake": "360"
+        },
+        {
+          "title": "PGDM in Human Resource Management (PGDM-HRM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹10,25,000/Year",
+          "eligibility": "Graduation with 50% + CAT / GMAT",
+          "exams": "CAT, GMAT",
+          "intake": "60"
+        },
+        {
+          "title": "PGDM in Banking and Financial Services (PGDM-B&FS)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹10,25,000/Year",
+          "eligibility": "Graduation with 50% + CAT / GMAT",
+          "exams": "CAT, GMAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -21508,7 +21575,9 @@
       "reviewsCount": 1912,
       "image": "https://media.collegedekho.com/media/img/institute/crawled_images/international-management-institute-imi-new-delhi.jpg?width=1080",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IMI%20DELHI%20SOUTH%20DELHI%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IMI%20DELHI%20SOUTH%20DELHI%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 1981
     },
     {
       "id": 251,
@@ -21579,16 +21648,16 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/indian-institute-of-mass-communication-new-delhi/iimc-entrance-exam",
-      "name": "IIMC Entrance Exam 2026",
+      "name": "Indian Institute of Mass Communication, New Delhi (IIMC New Delhi)",
       "shortName": "IEE2",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi NCR, India",
-      "phone": "080-26597135",
+      "phone": "011-26742920",
       "email": "info@college.edu.in",
-      "website": "https://www.google.com/search?q=IIMC%20Entrance%20Exam%202026%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://iimc.gov.in/",
+      "rating": 4.8,
       "reviews": 343,
       "type": "Public/Government",
       "ownership": "Government",
@@ -21616,10 +21685,40 @@
       ],
       "courses": [
         {
-          "title": "MBA / PGDM",
+          "title": "PG Diploma in English Journalism",
           "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs"
+          "duration": "1 Year",
+          "fees": "₹95,000 Total",
+          "eligibility": "Bachelor degree in any discipline + CUET PG",
+          "exams": "CUET PG",
+          "intake": "68"
+        },
+        {
+          "title": "PG Diploma in Advertising and Public Relations",
+          "division": "Postgraduate",
+          "duration": "1 Year",
+          "fees": "₹1,35,000 Total",
+          "eligibility": "Bachelor degree in any discipline + CUET PG",
+          "exams": "CUET PG",
+          "intake": "77"
+        },
+        {
+          "title": "PG Diploma in Radio & TV Journalism",
+          "division": "Postgraduate",
+          "duration": "1 Year",
+          "fees": "₹1,60,000 Total",
+          "eligibility": "Bachelor degree in any discipline + CUET PG",
+          "exams": "CUET PG",
+          "intake": "68"
+        },
+        {
+          "title": "PG Diploma in Hindi Journalism",
+          "division": "Postgraduate",
+          "duration": "1 Year",
+          "fees": "₹55,000 Total",
+          "eligibility": "Bachelor degree in any discipline + CUET PG",
+          "exams": "CUET PG",
+          "intake": "68"
         }
       ],
       "id": 252,
@@ -21633,22 +21732,24 @@
       "image": "/images/campuses/campus_architecture_9.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIMC%20Entrance%20Exam%202026%20Delhi%20Delhi%20NCR",
       "map_url": "https://www.google.com/maps/search/?api=1&query=IIMC%20Entrance%20Exam%202026%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "New Delhi",
+      "established": 1965
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/ayurvedic-and-unani-tibbia-college-delhi-87527",
-      "name": "Ayurvedic and Unani Tibbia College",
+      "name": "Ayurvedic and Unani Tibbia College, Karol Bagh, New Delhi",
       "shortName": "AAUTC",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi, India",
-      "phone": "080-26597135",
+      "phone": "011-25722421",
       "email": "admissions@aautc.edu.in",
-      "website": "https://www.google.com/search?q=Ayurvedic%20and%20Unani%20Tibbia%20College%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "http://autc.delhi.gov.in/",
+      "rating": 4.6,
       "reviews": 375,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -21668,22 +21769,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "Bachelor of Ayurvedic Medicine and Surgery (BAMS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+          "fees": "₹3,500/Year",
           "eligibility": "10+2 with 50% in PCB + NEET UG",
           "exams": "NEET UG",
-          "intake": "150"
+          "intake": "75"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "Bachelor of Unani Medicine and Surgery (BUMS)",
+          "division": "Undergraduate",
+          "duration": "5.5 Years",
+          "fees": "₹3,500/Year",
+          "eligibility": "10+2 with 50% in PCB + Urdu + NEET UG",
+          "exams": "NEET UG",
+          "intake": "75"
+        },
+        {
+          "title": "MD / MS (Ayurveda & Unani Postgraduate)",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹12,000/Year",
+          "eligibility": "BAMS/BUMS degree + AIAPGET",
+          "exams": "AIAPGET",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -21708,24 +21818,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 253,
       "reviewsCount": 375,
-      "image": "/images/campuses/koshys_bangalore.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ayurvedic%20and%20Unani%20Tibbia%20College%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "New Delhi",
+      "established": 1921
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/atal-bihari-vajpayee-institute-of-medical-sciences-and-dr-ram-manohar-lohia-hospital-connaught-place-delhi-65923",
-      "name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia Hospital",
+      "name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital",
       "shortName": "ABVIOM",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi, India",
-      "phone": "080-26597135",
+      "phone": "011-23404286",
       "email": "admissions@abviom.edu.in",
-      "website": "https://www.google.com/search?q=Atal%20Bihari%20Vajpayee%20Institute%20of%20Medical%20Sciences%20and%20Dr.%20Ram%20Manohar%20Lohia%20Hospital%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://abvims-rmlh.gov.in/",
+      "rating": 4.8,
       "reviews": 372,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -21748,19 +21860,28 @@
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
+          "fees": "₹38,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET UG (99.8+ %ile)",
           "exams": "NEET UG",
-          "intake": "150"
+          "intake": "100"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "MD / MS Postgraduate Medical Programs",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
+          "fees": "₹26,000/Year",
+          "eligibility": "MBBS degree + NEET PG",
           "exams": "NEET PG",
-          "intake": "40"
+          "intake": "140"
+        },
+        {
+          "title": "DM / M.Ch Super-specialty Programs",
+          "division": "Super-specialty",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "MD/MS in relevant branch + NEET SS",
+          "exams": "NEET SS",
+          "intake": "45"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -21784,24 +21905,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 254,
       "reviewsCount": 372,
-      "image": "/images/campuses/campus_architecture_9.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Atal%20Bihari%20Vajpayee%20Institute%20of%20Medical%20Sciences%20and%20Dr.%20Ram%20Manohar%20Lohia%20Hospital%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "New Delhi",
+      "established": 2008
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/hamdard-institute-of-medical-sciences-and-research-new-delhi-62965",
-      "name": "Hamdard Institute of Medical Sciences And Research, New Delhi",
+      "name": "Hamdard Institute of Medical Sciences And Research (HIMSR New Delhi)",
       "shortName": "HIOMSA",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "G772+M2X, Block D, Hamdard Nagar, Guru Ravidas Marg",
-      "phone": "9013817019",
+      "phone": "011-29901074",
       "email": "admission@himsr.co.in",
       "website": "https://www.himsr.co.in/",
-      "rating": 4.5,
+      "rating": 4.6,
       "reviews": 130,
-      "type": "Private",
+      "type": "Deemed",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -21824,19 +21947,28 @@
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+          "fees": "₹16,00,000/Year",
           "eligibility": "10+2 with 50% in PCB + NEET UG",
           "exams": "NEET UG",
           "intake": "150"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "MD / MS Postgraduate Medical Programs",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
+          "fees": "₹25,00,000/Year",
           "eligibility": "MBBS Degree + NEET PG",
           "exams": "NEET PG",
-          "intake": "40"
+          "intake": "45"
+        },
+        {
+          "title": "B.Sc Medical Laboratory Techniques / Emergency Care",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with PCB",
+          "exams": "Merit / NEET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹1 cr",
@@ -21860,21 +21992,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 255,
       "reviewsCount": 130,
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hamdard%20Institute%20of%20Medical%20Sciences%20And%20Research%2C%20New%20Delhi%20Delhi%20Delhi%20NCR"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hamdard%20Institute%20of%20Medical%20Sciences%20And%20Research%2C%20New%20Delhi%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 2012
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/impact-paramedical-and-health-institute-paschim-vihar-delhi-52665",
-      "name": "Impact Paramedical and Health Institute, Delhi",
+      "name": "Impact Paramedical and Health Institute, Delhi (IPHI Delhi)",
       "shortName": "IPAHID",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "G-99, Laxmi Park, Near Peer Baba Road Nangloi",
-      "phone": "910335982",
+      "phone": "+91 9910335982",
       "email": "iphiadmission@gmail.com",
       "website": "https://iphi.edu.in/",
-      "rating": 4.5,
+      "rating": 4.2,
       "reviews": 451,
       "type": "Private",
       "ownership": "Private",
@@ -21896,22 +22030,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "B.Sc in Medical Laboratory Technology (BMLT)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "3 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCB/PCM with 45%",
+          "exams": "Merit",
+          "intake": "60"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
+          "title": "B.Sc in Radiology and Imaging Technology (BRIT)",
+          "division": "Undergraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with PCB",
+          "exams": "Merit",
           "intake": "40"
+        },
+        {
+          "title": "Diploma in Operation Theatre Technology (DOTT)",
+          "division": "Diploma",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 in Science stream",
+          "exams": "Merit",
+          "intake": "50"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -21938,20 +22081,22 @@
       "id": 256,
       "reviewsCount": 451,
       "image": "/images/campuses/campus_architecture_5.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Impact%20Paramedical%20and%20Health%20Institute%2C%20Delhi%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Impact%20Paramedical%20and%20Health%20Institute%2C%20Delhi%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 2007
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/icri-akash-hospital-new-delhi-dwarka-212267",
-      "name": "ICRI- Akash Hospital, New Delhi",
+      "name": "Institute of Clinical Research India, New Delhi (ICRI New Delhi)",
       "shortName": "IAHND",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Hospital Plot, Road No. 201, Dwarka Sector-3",
-      "phone": "1204638200",
+      "phone": "011-46006000",
       "email": "Infoicriindia@gmail.com",
-      "website": "https://www.google.com/search?q=ICRI-%20Akash%20Hospital%2C%20New%20Delhi%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://www.icriindia.com/",
+      "rating": 4.1,
       "reviews": 347,
       "type": "Private",
       "ownership": "Private",
@@ -21973,21 +22118,30 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "title": "M.Sc in Clinical Research & Pharmacovigilance",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,75,000/Year",
+          "eligibility": "B.Sc in Life Sciences/MBBS/B.Pharm with 50%",
+          "exams": "Entrance / PI",
+          "intake": "40"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "MBA in Healthcare and Hospital Management",
           "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,25,000/Year",
+          "eligibility": "Graduation in any discipline with 50%",
+          "exams": "CAT, MAT, CMAT",
+          "intake": "60"
+        },
+        {
+          "title": "B.Sc in Clinical Research & Healthcare",
+          "division": "Undergraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCB",
+          "exams": "Merit",
           "intake": "40"
         }
       ],
@@ -22017,22 +22171,24 @@
       "id": 257,
       "reviewsCount": 347,
       "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/ICRI_New_Delhi_Akash_Hospital-_New_Delhi_.jpg?width=640",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ICRI-%20Akash%20Hospital%2C%20New%20Delhi%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ICRI-%20Akash%20Hospital%2C%20New%20Delhi%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 2004
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/dit-university-admission-office-delhi-46944",
-      "name": "DIT University",
+      "name": "DIT University, Dehradun",
       "shortName": "DU",
       "location": "Delhi",
-      "state": "Delhi NCR",
+      "state": "Uttarakhand",
       "country": "India",
       "address": "Unison House, F-35, East of Kailash, Near Spring Meadows Hospital",
-      "phone": "01146571122",
+      "phone": "0135-7144000",
       "email": "admissions@dituniversity.edu.in",
-      "website": "https://www.google.com/search?q=DIT%20University%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://www.dituniversity.edu.in/",
+      "rating": 4.4,
       "reviews": 352,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -22052,22 +22208,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹2,25,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / Merit",
+          "exams": "JEE Main",
+          "intake": "360"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
+          "title": "Bachelor of Architecture (B.Arch)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹1,85,000/Year",
+          "eligibility": "10+2 with PCM + NATA / JEE Main Paper 2",
+          "exams": "NATA, JEE Main Paper 2",
           "intake": "40"
+        },
+        {
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,55,000/Year",
+          "eligibility": "10+2 with PCB/PCM",
+          "exams": "Merit",
+          "intake": "100"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "Graduation with BCA/B.Sc with Math",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹58 LPA",
@@ -22097,7 +22271,9 @@
       "id": 258,
       "reviewsCount": 352,
       "image": "https://img.studyclap.com/img/institute/university/original/7809/dit-new-delhi-01576f4c58.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DIT%20University%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DIT%20University%20Delhi%20Delhi%20NCR",
+      "city": "Dehradun",
+      "established": 1998
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/delhi-pharmaceutical-sciences-and-research-university-64427",

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **670 / 12,660**  
-**Roadmap Progress**: **67.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **680 / 12,660**  
+**Roadmap Progress**: **68.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1014,4 +1014,19 @@
 | **243** | MGMs College of Computer Science and IT, Nanded | Private | MAHARASHTRA, 431602 | [mgmcsit.org](https://mgmcsit.org/) |
 | **244** | MSS Arts, Science and Commerce College, Ambad, Jalna | Private | AT.AMBAD TAL.AMBAD DIST.JALNA | [mssambad.org](https://mssambad.org/) |
 | **246** | MKD Institute of Technology, Nadgaon, Jalgaon | Private | WAGHALE PHATA, VIRCHAK | [mkdit.edu.in](https://mkdit.edu.in/) |
+
+### Batch 68 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **248** | Jagannath International Management School, Kalkaji, New Delhi | Private | VASANT KUNJ, NEW DELHI | [www.jagannath.org](https://www.jagannath.org/) |
+| **249** | Indira Gandhi Delhi Technical University for Women (IGDTUW) | Public/Government | KASHMERE GATE | [www.igdtuw.ac.in](https://www.igdtuw.ac.in/) |
+| **250** | International Management Institute, New Delhi (IMI New Delhi) | Private | B-10 QUTAB INSTITUTIONAL AREA TARA CRESCENT NEW DELHI-110016 | [www.imi.edu](https://www.imi.edu/) |
+| **252** | Indian Institute of Mass Communication, New Delhi (IIMC New Delhi) | Public/Government | Delhi NCR, India | [iimc.gov.in](https://iimc.gov.in/) |
+| **253** | Ayurvedic and Unani Tibbia College, Karol Bagh, New Delhi | Public/Government | Delhi, India | [autc.delhi.gov.in](http://autc.delhi.gov.in/) |
+| **254** | Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital | Public/Government | Delhi, India | [abvims-rmlh.gov.in](https://abvims-rmlh.gov.in/) |
+| **255** | Hamdard Institute of Medical Sciences And Research (HIMSR New Delhi) | Deemed | Hamdard Nagar, Guru Ravidas Marg | [www.himsr.co.in](https://www.himsr.co.in/) |
+| **256** | Impact Paramedical and Health Institute, Delhi (IPHI Delhi) | Private | Laxmi Park, Near Peer Baba Road Nangloi | [iphi.edu.in](https://iphi.edu.in/) |
+| **257** | Institute of Clinical Research India, New Delhi (ICRI New Delhi) | Private | Road No. 201, Dwarka Sector-3 | [www.icriindia.com](https://www.icriindia.com/) |
+| **258** | DIT University, Dehradun | Private | East of Kailash, Near Spring Meadows Hospital | [www.dituniversity.edu.in](https://www.dituniversity.edu.in/) |
 

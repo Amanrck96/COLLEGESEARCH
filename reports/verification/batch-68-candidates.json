@@ -1,0 +1,112 @@
+[
+  {
+    "id": 248,
+    "name": "JAGANNATH INTERNATIONAL MANAGEMENT SCHOOL",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.jagannathintern.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 249,
+    "name": "INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.indiragandhidel.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 250,
+    "name": "IMI DELHI",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/international-management-institute-imi-new-delhi.jpg?width=1080",
+    "website": "https://www.imidelhi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "coursesCount": 1
+  },
+  {
+    "id": 252,
+    "name": "IIMC Entrance Exam 2026",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.google.com/search?q=IIMC%20Entrance%20Exam%202026%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 253,
+    "name": "Ayurvedic and Unani Tibbia College",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.google.com/search?q=Ayurvedic%20and%20Unani%20Tibbia%20College%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 254,
+    "name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia Hospital",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.google.com/search?q=Atal%20Bihari%20Vajpayee%20Institute%20of%20Medical%20Sciences%20and%20Dr.%20Ram%20Manohar%20Lohia%20Hospital%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 255,
+    "name": "Hamdard Institute of Medical Sciences And Research, New Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/sheila_raheja_bandra.webp",
+    "website": "https://www.himsr.co.in/",
+    "phone": "9013817019",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 256,
+    "name": "Impact Paramedical and Health Institute, Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://iphi.edu.in/",
+    "phone": "910335982",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 257,
+    "name": "ICRI- Akash Hospital, New Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/ICRI_New_Delhi_Akash_Hospital-_New_Delhi_.jpg?width=640",
+    "website": "https://www.google.com/search?q=ICRI-%20Akash%20Hospital%2C%20New%20Delhi%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "1204638200",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 258,
+    "name": "DIT University",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "https://img.studyclap.com/img/institute/university/original/7809/dit-new-delhi-01576f4c58.jpg",
+    "website": "https://www.google.com/search?q=DIT%20University%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "01146571122",
+    "rating": 4.5,
+    "coursesCount": 2
+  }
+]

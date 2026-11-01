@@ -1,9 +1,9 @@
 {
   "total_colleges": 12660,
   "completed_count": 620,
-  "current_batch": 67,
+  "current_batch": 68,
   "backup_sha256": "404ba7dcd11ac08bd38081e64fe400f1d68c0d752f12a3ebef3a88fa6859bd53",
-  "last_updated": "2026-11-01T09:07:59.094Z",
+  "last_updated": "2026-11-01T09:10:53.728Z",
   "completed_ids": [
     1439,
     165,
@@ -674,8 +674,18 @@
     242,
     243,
     244,
-    246
+    246,
+    248,
+    249,
+    250,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258
   ],
   "verified_count": 620,
-  "total_verified": 670
+  "total_verified": 680
 }
