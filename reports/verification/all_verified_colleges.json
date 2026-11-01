@@ -11248,5 +11248,80 @@
         "website": "https://gecgopalganj.ac.in"
       }
     ]
+  },
+  {
+    "batch": 151,
+    "items": [
+      {
+        "id": 1184,
+        "name": "Government Engineering College, Lakhisarai",
+        "type": "Public/Government",
+        "location": "Lakhisarai, Bihar - 811311",
+        "website": "https://geclakhisarai.ac.in"
+      },
+      {
+        "id": 1185,
+        "name": "Government Engineering College, Vaishali",
+        "type": "Public/Government",
+        "location": "District - Vaishali, Bihar - 844115",
+        "website": "https://gecvaishali.ac.in"
+      },
+      {
+        "id": 1186,
+        "name": "Government Polytechnic, Sitamarhi",
+        "type": "Public/Government",
+        "location": "District - Sitamarhi, Bihar - 843331",
+        "website": "https://gpsitamarhi.org.in"
+      },
+      {
+        "id": 1187,
+        "name": "Government Polytechnic, Kaimur",
+        "type": "Public/Government",
+        "location": "District - Kaimur, Bihar - 821101",
+        "website": "https://gpkaimur.org.in"
+      },
+      {
+        "id": 1188,
+        "name": "Hi Tech Polytechnic College, Bettiah",
+        "type": "Private",
+        "location": "West Champaran, Bihar - 845438",
+        "website": "http://hitechpolytechnic.org"
+      },
+      {
+        "id": 1189,
+        "name": "Indu Devi Ranjeet Kumar Prakash Professional College, Hajipur",
+        "type": "Private",
+        "location": "District - Vaishali, Bihar - 844101",
+        "website": "https://idrkppcollege.com"
+      },
+      {
+        "id": 1190,
+        "name": "Mother's Institute of Technology, Patna",
+        "type": "Private",
+        "location": "Patna, Bihar - 801103",
+        "website": "http://mothersinstitute.in"
+      },
+      {
+        "id": 1191,
+        "name": "Saharsa College of Engineering, Saharsa",
+        "type": "Public/Government",
+        "location": "Saharsa, Bihar - 852201",
+        "website": "https://scesaharsa.org"
+      },
+      {
+        "id": 1192,
+        "name": "Supaul College of Engineering, Supaul",
+        "type": "Public/Government",
+        "location": "Supaul, Bihar - 852131",
+        "website": "https://scesupaul.org"
+      },
+      {
+        "id": 1193,
+        "name": "Government Polytechnic, Munger",
+        "type": "Public/Government",
+        "location": "District - Munger, Bihar - 811213",
+        "website": "https://gpmunger.org.in"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1500 / 12,660**  
-**Roadmap Progress**: **150.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1510 / 12,660**  
+**Roadmap Progress**: **151.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2259,4 +2259,19 @@
 | **1181** | Jinvani Management College, Bhojpur | Private | District - Bhojpur, Bihar - 802152 | [jinvanicollege.org](http://jinvanicollege.org) |
 | **1182** | Jamui Polytechnic, Jamui | Private | Jamui, Bihar - 811307 | [jamuipolytechnic.org](http://jamuipolytechnic.org) |
 | **1183** | Government Engineering College, Gopalganj | Public/Government | District - Gopalganj, Bihar - 841505 | [gecgopalganj.ac.in](https://gecgopalganj.ac.in) |
+
+### Batch 151 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1184** | Government Engineering College, Lakhisarai | Public/Government | Lakhisarai, Bihar - 811311 | [geclakhisarai.ac.in](https://geclakhisarai.ac.in) |
+| **1185** | Government Engineering College, Vaishali | Public/Government | District - Vaishali, Bihar - 844115 | [gecvaishali.ac.in](https://gecvaishali.ac.in) |
+| **1186** | Government Polytechnic, Sitamarhi | Public/Government | District - Sitamarhi, Bihar - 843331 | [gpsitamarhi.org.in](https://gpsitamarhi.org.in) |
+| **1187** | Government Polytechnic, Kaimur | Public/Government | District - Kaimur, Bihar - 821101 | [gpkaimur.org.in](https://gpkaimur.org.in) |
+| **1188** | Hi Tech Polytechnic College, Bettiah | Private | West Champaran, Bihar - 845438 | [hitechpolytechnic.org](http://hitechpolytechnic.org) |
+| **1189** | Indu Devi Ranjeet Kumar Prakash Professional College, Hajipur | Private | District - Vaishali, Bihar - 844101 | [idrkppcollege.com](https://idrkppcollege.com) |
+| **1190** | Mother's Institute of Technology, Patna | Private | Patna, Bihar - 801103 | [mothersinstitute.in](http://mothersinstitute.in) |
+| **1191** | Saharsa College of Engineering, Saharsa | Public/Government | Saharsa, Bihar - 852201 | [scesaharsa.org](https://scesaharsa.org) |
+| **1192** | Supaul College of Engineering, Supaul | Public/Government | Supaul, Bihar - 852131 | [scesupaul.org](https://scesupaul.org) |
+| **1193** | Government Polytechnic, Munger | Public/Government | District - Munger, Bihar - 811213 | [gpmunger.org.in](https://gpmunger.org.in) |
 
