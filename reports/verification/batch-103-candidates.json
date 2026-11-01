@@ -1,0 +1,212 @@
+[
+  {
+    "id": 662,
+    "name": "NATIONAL COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/national-college-tiruchirappalli-363035.webp",
+    "website": "https://www.google.com/search?q=NATIONAL%20COLLEGE%20official%20website%20TIRUCHIRAPPALLI%20Tamil%20Nadu",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 170,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "name": "UNIVERSITY COLLEGE OF ENGINEERING",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://cdn.universitykart.com/Content/upload/admin/2jn4eq3y.2jo.jpg",
+    "website": "https://www.universitycolle.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 30,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "name": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.indianinstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "HANDLOOM AND TEXTILE TECHNOLOGY",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 75,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "name": "SHRI KRISHNA POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.shrikrishnapoly.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING AND TECHNOLOGY",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.cipet.gov.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "PLASTICS TECHNOLOGY",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "name": "THIRUVALLUVAR POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.thiruvalluvarpo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 30,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "name": "SSM COLLEGE OF ENGINEERING",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.ssmcollegeofeng.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 18,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "name": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.srivenkateswara.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "BIOTECHNOLOGY",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "name": "SRI RAMACHANDRA POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.sriramachandrap.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 30,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "name": "VIVEKANANDA POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://vptc.edu.in/assets/img/bg/footer.jpg",
+    "website": "https://www.vivekanandapoly.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  }
+]

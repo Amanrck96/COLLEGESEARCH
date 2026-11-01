@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1020 / 12,660**  
-**Roadmap Progress**: **102.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1030 / 12,660**  
+**Roadmap Progress**: **103.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1539,4 +1539,19 @@
 | **655** | Sri Venkateswara Polytechnic College (Adukkamparai, Vellore) | Private | NEXT TO GOVT.MEDICAL COLLEGE & HOSPITAL. ADUKKAMPARAI, VELLORE -632011 | [svpvellore.ac.in](https://svpvellore.ac.in) |
 | **657** | Sri Krishna Institute of Technology (Padappai, Chennai) | Private | NAVANEEDHAM NAGAR PANAPAKKAM NEAR PADAPPAI | [skit.edu.in](https://skit.edu.in) |
 | **659** | Department of Computer Science & Engineering, Manonmaniam Sundaranar University (MSU Tirunelveli) | Public/Government | MANONMANIAM SUNDARANAR UVIVERSITY | [www.msuniv.ac.in](https://www.msuniv.ac.in) |
+
+### Batch 103 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **662** | National College (Autonomous, Karumandapam, Tiruchirappalli) | Private | DINDUGAL MAIN ROAD , KARUMANDAPAM | [www.nct.ac.in](https://www.nct.ac.in) |
+| **663** | University College of Engineering, Dindigul (Anna University Constituent College) | Public/Government | REDDIYARCHATRAM(PO), DINDIGUL | [ucedgl.edu.in](http://ucedgl.edu.in) |
+| **664** | Indian Institute of Handloom Technology (IIHT Salem) | Public/Government | FOULKE'S COMPOUND,THILLAI NAGAR | [iihtsalem.edu.in](http://iihtsalem.edu.in) |
+| **665** | Shri Krishna Polytechnic College (Gobinathampatty, Harur, Dharmapuri) | Private | HARUR TALUK, DHARMAPURI DISTRICT | [shrikrishnapolytechnic.com](http://shrikrishnapolytechnic.com) |
+| **666** | Central Institute of Petrochemicals Engineering & Technology (CIPET: IPT Chennai, Guindy) | Public/Government | T.V.K INDUSUTRIAL ESTATE, GUINDY | [www.cipet.gov.in](https://www.cipet.gov.in) |
+| **667** | Thiruvalluvar Polytechnic College (Soolappuram, Elumalai, Madurai) | Private | ELUMALAI, MADURAI DIST | [thiruvalluvarpolytechnic.com](http://thiruvalluvarpolytechnic.com) |
+| **668** | SSM College of Engineering (Komarapalayam, Namakkal) | Private | NH-47 SALEM MAIN ROAD, KOMARAPALAYAM NAMKKAL DISTRICT | [www.ssmce.ac.in](https://www.ssmce.ac.in) |
+| **670** | Sri Venkateswara College of Engineering (SVCE Sriperumbudur, Chennai) | Private | SRIPERUMBUDUR,TAMIL NADUPIN - 602 117 | [www.svce.ac.in](https://www.svce.ac.in) |
+| **672** | Sri Ramachandra Polytechnic College (Pappireddipatti, Dharmapuri) | Private | 104/7 ALAMELUPURAM(PO) PAPPIREDDIPATI (TK) DHARMAPURI (DT) | [sriramachandrapolytechnic.com](http://sriramachandrapolytechnic.com) |
+| **673** | Vivekananda Polytechnic College (Agasteeswaram, Kanyakumari) | Private | COLLEGE ROAD, AGASTEESWARAM KANYAKUMARI DIST PIN-629701 | [vptc.edu.in](https://vptc.edu.in) |
 

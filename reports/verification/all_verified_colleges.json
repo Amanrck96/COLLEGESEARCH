@@ -7648,5 +7648,80 @@
         "website": "https://www.msuniv.ac.in"
       }
     ]
+  },
+  {
+    "batch": 103,
+    "items": [
+      {
+        "id": 662,
+        "name": "National College (Autonomous, Karumandapam, Tiruchirappalli)",
+        "type": "Private",
+        "location": "DINDUGAL MAIN ROAD , KARUMANDAPAM",
+        "website": "https://www.nct.ac.in"
+      },
+      {
+        "id": 663,
+        "name": "University College of Engineering, Dindigul (Anna University Constituent College)",
+        "type": "Public/Government",
+        "location": "REDDIYARCHATRAM(PO), DINDIGUL",
+        "website": "http://ucedgl.edu.in"
+      },
+      {
+        "id": 664,
+        "name": "Indian Institute of Handloom Technology (IIHT Salem)",
+        "type": "Public/Government",
+        "location": "FOULKE'S COMPOUND,THILLAI NAGAR",
+        "website": "http://iihtsalem.edu.in"
+      },
+      {
+        "id": 665,
+        "name": "Shri Krishna Polytechnic College (Gobinathampatty, Harur, Dharmapuri)",
+        "type": "Private",
+        "location": "HARUR TALUK, DHARMAPURI DISTRICT",
+        "website": "http://shrikrishnapolytechnic.com"
+      },
+      {
+        "id": 666,
+        "name": "Central Institute of Petrochemicals Engineering & Technology (CIPET: IPT Chennai, Guindy)",
+        "type": "Public/Government",
+        "location": "T.V.K INDUSUTRIAL ESTATE, GUINDY",
+        "website": "https://www.cipet.gov.in"
+      },
+      {
+        "id": 667,
+        "name": "Thiruvalluvar Polytechnic College (Soolappuram, Elumalai, Madurai)",
+        "type": "Private",
+        "location": "ELUMALAI, MADURAI DIST",
+        "website": "http://thiruvalluvarpolytechnic.com"
+      },
+      {
+        "id": 668,
+        "name": "SSM College of Engineering (Komarapalayam, Namakkal)",
+        "type": "Private",
+        "location": "NH-47 SALEM MAIN ROAD, KOMARAPALAYAM NAMKKAL DISTRICT",
+        "website": "https://www.ssmce.ac.in"
+      },
+      {
+        "id": 670,
+        "name": "Sri Venkateswara College of Engineering (SVCE Sriperumbudur, Chennai)",
+        "type": "Private",
+        "location": "SRIPERUMBUDUR,TAMIL NADUPIN - 602 117",
+        "website": "https://www.svce.ac.in"
+      },
+      {
+        "id": 672,
+        "name": "Sri Ramachandra Polytechnic College (Pappireddipatti, Dharmapuri)",
+        "type": "Private",
+        "location": "104/7 ALAMELUPURAM(PO) PAPPIREDDIPATI (TK) DHARMAPURI (DT)",
+        "website": "http://sriramachandrapolytechnic.com"
+      },
+      {
+        "id": 673,
+        "name": "Vivekananda Polytechnic College (Agasteeswaram, Kanyakumari)",
+        "type": "Private",
+        "location": "COLLEGE ROAD, AGASTEESWARAM KANYAKUMARI DIST PIN-629701",
+        "website": "https://vptc.edu.in"
+      }
+    ]
   }
 ]

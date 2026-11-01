@@ -55911,14 +55911,14 @@
     },
     {
       "id": 662,
-      "name": "NATIONAL COLLEGE",
+      "name": "National College (Autonomous, Karumandapam, Tiruchirappalli)",
       "shortName": "Course Institute-1",
       "location": "TIRUCHIRAPPALLI",
       "state": "Tamil Nadu",
       "address": "DINDUGAL MAIN ROAD , KARUMANDAPAM",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=NATIONAL%20COLLEGE%20official%20website%20TIRUCHIRAPPALLI%20Tamil%20Nadu",
-      "rating": 4.8,
+      "phone": "0431-2482995",
+      "website": "https://www.nct.ac.in",
+      "rating": 4.5,
       "reviews": 1426,
       "type": "Private",
       "about": "Welcome to NATIONAL COLLEGE, a premier institute located in TIRUCHIRAPPALLI. We offer world-class education and facilities for our students.",
@@ -55937,13 +55937,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 170,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "170"
+        },
+        {
+          "name": "B.Sc in Computer Science",
+          "title": "B.Sc in Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 with Commerce/Maths",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "BCA / B.Sc with Maths + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -55965,20 +55996,22 @@
       "reviewsCount": 1426,
       "image": "https://www.collegebatch.com/static/clg-gallery/national-college-tiruchirappalli-363035.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20COLLEGE%20TIRUCHIRAPPALLI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20COLLEGE%20TIRUCHIRAPPALLI%20Tamil%20Nadu",
+      "city": "Tiruchirappalli",
+      "established": 1919
     },
     {
       "id": 663,
-      "name": "UNIVERSITY COLLEGE OF ENGINEERING",
+      "name": "University College of Engineering, Dindigul (Anna University Constituent College)",
       "shortName": "Course Institute-1",
       "location": "DINDIGUL",
       "state": "Tamil Nadu",
       "address": "MANGARAI PIRIVU, REDDIYARCHATRAM(PO), DINDIGUL",
-      "phone": "0123-456789",
-      "website": "https://www.universitycolle.edu.in",
-      "rating": 4.7,
+      "phone": "0451-2554066",
+      "website": "http://ucedgl.edu.in",
+      "rating": 4.3,
       "reviews": 374,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to UNIVERSITY COLLEGE OF ENGINEERING, a premier institute located in DINDIGUL. We offer world-class education and facilities for our students.",
       "ranking": 70,
       "facebook": "#",
@@ -55995,13 +56028,54 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "B.E. in Civil Engineering",
+          "title": "B.E. in Civil Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 30,
-          "eligibility": "As per norms"
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Mechanical Engineering",
+          "title": "B.E. in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Electrical & Electronics Engineering",
+          "title": "B.E. in Electrical & Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Electronics & Communication Engineering",
+          "title": "B.E. in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Computer Science and Engineering",
+          "title": "B.E. in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -56023,20 +56097,22 @@
       "reviewsCount": 374,
       "image": "https://cdn.universitykart.com/Content/upload/admin/2jn4eq3y.2jo.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20COLLEGE%20OF%20ENGINEERING%20DINDIGUL%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20COLLEGE%20OF%20ENGINEERING%20DINDIGUL%20Tamil%20Nadu",
+      "city": "Dindigul",
+      "established": 2009
     },
     {
       "id": 664,
-      "name": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY",
+      "name": "Indian Institute of Handloom Technology (IIHT Salem)",
       "shortName": "Course Institute-1",
       "location": "SALEM",
       "state": "Tamil Nadu",
       "address": "FOULKE'S COMPOUND,THILLAI NAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.indianinstitute.edu.in",
-      "rating": 4.7,
+      "phone": "0427-2296943",
+      "website": "http://iihtsalem.edu.in",
+      "rating": 4.6,
       "reviews": 786,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY, a premier institute located in SALEM. We offer world-class education and facilities for our students.",
       "ranking": 15,
       "facebook": "#",
@@ -56053,13 +56129,34 @@
       ],
       "courses": [
         {
-          "title": "HANDLOOM AND TEXTILE TECHNOLOGY",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Handloom and Textile Technology (DHTT)",
+          "title": "Diploma in Handloom and Textile Technology (DHTT)",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 75,
-          "eligibility": "As per norms"
+          "fees": "₹4,000/Year",
+          "eligibility": "10th Standard / SSLC with Science & Math",
+          "exams": "Merit Based",
+          "intake": "75"
+        },
+        {
+          "name": "Post Diploma in Textile Processing (PDTP)",
+          "title": "Post Diploma in Textile Processing (PDTP)",
+          "division": "Post Diploma",
+          "duration": "1.5 Years",
+          "fees": "₹6,000/Year",
+          "eligibility": "DHTT / Diploma in Textile Chemistry",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "B.Tech in Handloom and Textile Technology",
+          "title": "B.Tech in Handloom and Textile Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -56081,18 +56178,20 @@
       "reviewsCount": 786,
       "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20HANDLOOM%20TECHNOLOGY%20SALEM%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20HANDLOOM%20TECHNOLOGY%20SALEM%20Tamil%20Nadu",
+      "city": "Salem",
+      "established": 1960
     },
     {
       "id": 665,
-      "name": "SHRI KRISHNA POLYTECHNIC COLLEGE",
+      "name": "Shri Krishna Polytechnic College (Gobinathampatty, Harur, Dharmapuri)",
       "shortName": "Course Institute-1",
       "location": "DHARMAPURI",
       "state": "Tamil Nadu",
       "address": "R.GOBINATHAMPATTY POST, HARUR TALUK, DHARMAPURI DISTRICT",
-      "phone": "0123-456789",
-      "website": "https://www.shrikrishnapoly.edu.in",
-      "rating": 4.7,
+      "phone": "04346-242277",
+      "website": "http://shrikrishnapolytechnic.com",
+      "rating": 4,
       "reviews": 1346,
       "type": "Private",
       "about": "Welcome to SHRI KRISHNA POLYTECHNIC COLLEGE, a premier institute located in DHARMAPURI. We offer world-class education and facilities for our students.",
@@ -56111,13 +56210,44 @@
       ],
       "courses": [
         {
-          "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Automobile Engineering",
+          "title": "Diploma in Automobile Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -56139,20 +56269,22 @@
       "reviewsCount": 1346,
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRI%20KRISHNA%20POLYTECHNIC%20COLLEGE%20DHARMAPURI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRI%20KRISHNA%20POLYTECHNIC%20COLLEGE%20DHARMAPURI%20Tamil%20Nadu",
+      "city": "Dharmapuri",
+      "established": 2008
     },
     {
       "id": 666,
-      "name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING AND TECHNOLOGY",
+      "name": "Central Institute of Petrochemicals Engineering & Technology (CIPET: IPT Chennai, Guindy)",
       "shortName": "Course Institute-1",
       "location": "CHENNAI",
       "state": "Tamil Nadu",
       "address": "T.V.K INDUSUTRIAL ESTATE, GUINDY",
-      "phone": "0123-456789",
+      "phone": "044-22254701",
       "website": "https://www.cipet.gov.in",
       "rating": 4.7,
       "reviews": 1249,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING AND TECHNOLOGY, a premier institute located in CHENNAI. We offer world-class education and facilities for our students.",
       "ranking": 14,
       "facebook": "#",
@@ -56169,13 +56301,54 @@
       ],
       "courses": [
         {
-          "title": "PLASTICS TECHNOLOGY",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "B.Tech in Plastics Technology",
+          "title": "B.Tech in Plastics Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with PCM + TNEA / JEE Main",
+          "exams": "TNEA, JEE Main",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Manufacturing Engineering",
+          "title": "B.Tech in Manufacturing Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "M.Tech in Plastics Technology",
+          "title": "M.Tech in Plastics Technology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "B.Tech in Plastics / Chemical / Mech + GATE",
+          "exams": "GATE, TANCET",
+          "intake": "18"
+        },
+        {
+          "name": "Diploma in Plastics Technology (DPT)",
+          "title": "Diploma in Plastics Technology (DPT)",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹20,000/Semester",
+          "eligibility": "10th Standard / SSLC + CIPET JEE",
+          "exams": "CIPET JEE",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Plastics Mould Technology (DPMT)",
+          "title": "Diploma in Plastics Mould Technology (DPMT)",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹20,000/Semester",
+          "eligibility": "10th Standard / SSLC + CIPET JEE",
+          "exams": "CIPET JEE",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -56197,18 +56370,20 @@
       "reviewsCount": 1249,
       "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTRAL%20INSTITUTE%20OF%20PETROCHEMICALS%20ENGINEERING%20AND%20TECHNOLOGY%20CHENNAI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTRAL%20INSTITUTE%20OF%20PETROCHEMICALS%20ENGINEERING%20AND%20TECHNOLOGY%20CHENNAI%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 1968
     },
     {
       "id": 667,
-      "name": "THIRUVALLUVAR POLYTECHNIC COLLEGE",
+      "name": "Thiruvalluvar Polytechnic College (Soolappuram, Elumalai, Madurai)",
       "shortName": "Course Institute-1",
       "location": "MADURAI",
       "state": "Tamil Nadu",
       "address": "SOOLAPPURAM, ELUMALAI, MADURAI DIST",
-      "phone": "0123-456789",
-      "website": "https://www.thiruvalluvarpo.edu.in",
-      "rating": 4.7,
+      "phone": "04535-244222",
+      "website": "http://thiruvalluvarpolytechnic.com",
+      "rating": 4.1,
       "reviews": 1303,
       "type": "Private",
       "about": "Welcome to THIRUVALLUVAR POLYTECHNIC COLLEGE, a premier institute located in MADURAI. We offer world-class education and facilities for our students.",
@@ -56227,13 +56402,44 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 30,
-          "eligibility": "As per norms"
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Automobile Engineering",
+          "title": "Diploma in Automobile Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -56255,18 +56461,20 @@
       "reviewsCount": 1303,
       "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=THIRUVALLUVAR%20POLYTECHNIC%20COLLEGE%20MADURAI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=THIRUVALLUVAR%20POLYTECHNIC%20COLLEGE%20MADURAI%20Tamil%20Nadu",
+      "city": "Madurai",
+      "established": 2008
     },
     {
       "id": 668,
-      "name": "SSM COLLEGE OF ENGINEERING",
+      "name": "SSM College of Engineering (Komarapalayam, Namakkal)",
       "shortName": "Course Institute-1",
       "location": "NAMAKKAL",
       "state": "Tamil Nadu",
       "address": "NH-47 SALEM MAIN ROAD, KOMARAPALAYAM NAMKKAL DISTRICT",
-      "phone": "0123-456789",
-      "website": "https://www.ssmcollegeofeng.edu.in",
-      "rating": 4.7,
+      "phone": "04288-267703",
+      "website": "https://www.ssmce.ac.in",
+      "rating": 4.2,
       "reviews": 1619,
       "type": "Private",
       "about": "Welcome to SSM COLLEGE OF ENGINEERING, a premier institute located in NAMAKKAL. We offer world-class education and facilities for our students.",
@@ -56285,13 +56493,54 @@
       ],
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "POST GRADUATE",
+          "name": "B.E. in Computer Science and Engineering",
+          "title": "B.E. in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 18,
-          "eligibility": "As per norms"
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Textile Chemistry",
+          "title": "B.Tech in Textile Chemistry",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Information Technology",
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "M.E. in Computer Science and Engineering",
+          "title": "M.E. in Computer Science and Engineering",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "B.E. in CSE/IT + TANCET / GATE",
+          "exams": "TANCET, GATE",
+          "intake": "18"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "Graduation (50%+) + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -56313,7 +56562,9 @@
       "reviewsCount": 1619,
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SSM%20COLLEGE%20OF%20ENGINEERING%20NAMAKKAL%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SSM%20COLLEGE%20OF%20ENGINEERING%20NAMAKKAL%20Tamil%20Nadu",
+      "city": "Namakkal",
+      "established": 1998
     },
     {
       "id": 669,
@@ -56377,14 +56628,14 @@
     },
     {
       "id": 670,
-      "name": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+      "name": "Sri Venkateswara College of Engineering (SVCE Sriperumbudur, Chennai)",
       "shortName": "Course Institute-1",
       "location": "KANCHIPURAM",
       "state": "Tamil Nadu",
       "address": "POST BAG NO 3,PENNALUR,SRIPERUMBUDUR,TAMIL NADUPIN - 602 117",
-      "phone": "0123-456789",
-      "website": "https://www.srivenkateswara.edu.in",
-      "rating": 4.7,
+      "phone": "044-27152000",
+      "website": "https://www.svce.ac.in",
+      "rating": 4.6,
       "reviews": 893,
       "type": "Private",
       "about": "Welcome to SRI VENKATESWARA COLLEGE OF ENGINEERING, a premier institute located in KANCHIPURAM. We offer world-class education and facilities for our students.",
@@ -56403,13 +56654,64 @@
       ],
       "courses": [
         {
-          "title": "BIOTECHNOLOGY",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "B.Tech in Biotechnology",
+          "title": "B.Tech in Biotechnology",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM/PCB + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Computer Science and Engineering",
+          "title": "B.E. in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in Information Technology",
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "120"
+        },
+        {
+          "name": "B.E. in Electronics and Communication Engineering",
+          "title": "B.E. in Electronics and Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "120"
+        },
+        {
+          "name": "M.Tech in Biotechnology",
+          "title": "M.Tech in Biotechnology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "B.Tech Biotechnology + GATE / TANCET",
+          "exams": "GATE, TANCET",
+          "intake": "18"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -56431,7 +56733,9 @@
       "reviewsCount": 893,
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20VENKATESWARA%20COLLEGE%20OF%20ENGINEERING%20KANCHIPURAM%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20VENKATESWARA%20COLLEGE%20OF%20ENGINEERING%20KANCHIPURAM%20Tamil%20Nadu",
+      "city": "Kanchipuram",
+      "established": 1985
     },
     {
       "id": 671,
@@ -56495,14 +56799,14 @@
     },
     {
       "id": 672,
-      "name": "SRI RAMACHANDRA POLYTECHNIC COLLEGE",
+      "name": "Sri Ramachandra Polytechnic College (Pappireddipatti, Dharmapuri)",
       "shortName": "Course Institute-1",
       "location": "DHARMAPURI",
       "state": "Tamil Nadu",
       "address": "104/7 ALAMELUPURAM(PO) PAPPIREDDIPATI (TK) DHARMAPURI (DT)",
-      "phone": "0123-456789",
-      "website": "https://www.sriramachandrap.edu.in",
-      "rating": 4.6,
+      "phone": "04346-247555",
+      "website": "http://sriramachandrapolytechnic.com",
+      "rating": 4,
       "reviews": 950,
       "type": "Private",
       "about": "Welcome to SRI RAMACHANDRA POLYTECHNIC COLLEGE, a premier institute located in DHARMAPURI. We offer world-class education and facilities for our students.",
@@ -56521,13 +56825,44 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 30,
-          "eligibility": "As per norms"
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Automobile Engineering",
+          "title": "Diploma in Automobile Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -56550,18 +56885,20 @@
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20RAMACHANDRA%20POLYTECHNIC%20COLLEGE%20DHARMAPURI%20Tamil%20Nadu",
-      "imageUrl": "/images/campuses/srinivasan_perambalur.jpg"
+      "imageUrl": "/images/campuses/srinivasan_perambalur.jpg",
+      "city": "Dharmapuri",
+      "established": 2008
     },
     {
       "id": 673,
-      "name": "VIVEKANANDA POLYTECHNIC COLLEGE",
+      "name": "Vivekananda Polytechnic College (Agasteeswaram, Kanyakumari)",
       "shortName": "Course Institute-1",
       "location": "KANYAKUMARI",
       "state": "Tamil Nadu",
       "address": "COLLEGE ROAD, AGASTEESWARAM KANYAKUMARI DIST PIN-629701",
-      "phone": "0123-456789",
-      "website": "https://www.vivekanandapoly.edu.in",
-      "rating": 4.6,
+      "phone": "04652-270275",
+      "website": "https://vptc.edu.in",
+      "rating": 4.3,
       "reviews": 1719,
       "type": "Private",
       "about": "Welcome to VIVEKANANDA POLYTECHNIC COLLEGE, a premier institute located in KANYAKUMARI. We offer world-class education and facilities for our students.",
@@ -56580,13 +56917,54 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹32,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electronics & Communication Engineering",
+          "title": "Diploma in Electronics & Communication Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Computer Engineering",
+          "title": "Diploma in Computer Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -56608,7 +56986,9 @@
       "reviewsCount": 1719,
       "image": "https://vptc.edu.in/assets/img/bg/footer.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIVEKANANDA%20POLYTECHNIC%20COLLEGE%20KANYAKUMARI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIVEKANANDA%20POLYTECHNIC%20COLLEGE%20KANYAKUMARI%20Tamil%20Nadu",
+      "city": "Kanyakumari",
+      "established": 1984
     },
     {
       "id": 674,
