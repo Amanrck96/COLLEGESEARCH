@@ -686,3 +686,4 @@ mdContent += batchMdHeader + batchMdRows;
 fs.writeFileSync(allVerifiedMdPath, mdContent, 'utf8');
 
 console.log(`Batch 160 applied successfully! Total verified: ${progress.verifiedColleges}`);
+
