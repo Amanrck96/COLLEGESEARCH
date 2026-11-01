@@ -7423,5 +7423,80 @@
         "website": "https://ada.edu.in"
       }
     ]
+  },
+  {
+    "batch": 100,
+    "items": [
+      {
+        "id": 624,
+        "name": "Chaitanya Deemed to be University (CDU, Hanamkonda, Warangal)",
+        "type": "Private",
+        "location": "HYDERABAD, TELANGANA",
+        "website": "https://chaitanya.edu.in"
+      },
+      {
+        "id": 625,
+        "name": "GITAM Deemed to be University, Hyderabad Campus (Rudraram, Sangareddy)",
+        "type": "Private",
+        "location": "RUDRARAM",
+        "website": "https://www.gitam.edu"
+      },
+      {
+        "id": 626,
+        "name": "Aurora's School of Art and Design (Panjagutta, Hyderabad)",
+        "type": "Private",
+        "location": "BANDLAGUDA, HYDERABAD",
+        "website": "https://ada.edu.in"
+      },
+      {
+        "id": 627,
+        "name": "St. John's Institute of Science & Technology (Peerzadiguda, Ghatkesar, Hyderabad)",
+        "type": "Private",
+        "location": "AP, 501510",
+        "website": "https://stjohns.edu.in"
+      },
+      {
+        "id": 628,
+        "name": "Government Polytechnic, Nandipet (Nizamabad)",
+        "type": "Public/Government",
+        "location": "NANDIPET",
+        "website": "http://polytechnicnandipet.ac.in"
+      },
+      {
+        "id": 629,
+        "name": "Government Polytechnic, Adilabad (Dasnapur)",
+        "type": "Public/Government",
+        "location": "NEAR NEW BUS STAND",
+        "website": "http://polytechnicadilabad.ac.in"
+      },
+      {
+        "id": 632,
+        "name": "Government Polytechnic, Nizamabad (Kanteshwar)",
+        "type": "Public/Government",
+        "location": "KANTESHWAR",
+        "website": "http://gpnzb.ac.in"
+      },
+      {
+        "id": 633,
+        "name": "Government Polytechnic, Vikarabad",
+        "type": "Public/Government",
+        "location": "RANGAREDDY DIST, ANDHRAPRADESH",
+        "website": "http://polytechnicvikarabad.ac.in"
+      },
+      {
+        "id": 635,
+        "name": "Government Polytechnic, Chegunta (Medak)",
+        "type": "Public/Government",
+        "location": "MEDAK(DISTRICT), ANDHRA PRADESH PIN:-502255",
+        "website": "http://polytechnicchegunta.ac.in"
+      },
+      {
+        "id": 636,
+        "name": "Periyar University (Salem, Tamil Nadu)",
+        "type": "Public/Government",
+        "location": "PERIYAR PALKALAI NAGAR",
+        "website": "https://www.periyaruniversity.ac.in"
+      }
+    ]
   }
 ]

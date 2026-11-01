@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **990 / 12,660**  
-**Roadmap Progress**: **99.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1000 / 12,660**  
+**Roadmap Progress**: **100.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1494,4 +1494,19 @@
 | **621** | Keshav Memorial Institute of Management (KMIM, Narayanaguda, Hyderabad) | Private | 3-5-1026, NARAYANGUDA | [kmim.ac.in](https://kmim.ac.in) |
 | **622** | Aurora's Film and Television Institute (AFTI, Chikkadpally, Hyderabad) | Private | CHIKKADPALLY, HYDERABAD | [afti.edu.in](https://afti.edu.in) |
 | **623** | Aurora's Design Academy (School of Fashion Design, Panjagutta, Hyderabad) | Private | NAMPALLY, HYDERABAD | [ada.edu.in](https://ada.edu.in) |
+
+### Batch 100 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **624** | Chaitanya Deemed to be University (CDU, Hanamkonda, Warangal) | Private | HYDERABAD, TELANGANA | [chaitanya.edu.in](https://chaitanya.edu.in) |
+| **625** | GITAM Deemed to be University, Hyderabad Campus (Rudraram, Sangareddy) | Private | RUDRARAM | [www.gitam.edu](https://www.gitam.edu) |
+| **626** | Aurora's School of Art and Design (Panjagutta, Hyderabad) | Private | BANDLAGUDA, HYDERABAD | [ada.edu.in](https://ada.edu.in) |
+| **627** | St. John's Institute of Science & Technology (Peerzadiguda, Ghatkesar, Hyderabad) | Private | AP, 501510 | [stjohns.edu.in](https://stjohns.edu.in) |
+| **628** | Government Polytechnic, Nandipet (Nizamabad) | Public/Government | NANDIPET | [polytechnicnandipet.ac.in](http://polytechnicnandipet.ac.in) |
+| **629** | Government Polytechnic, Adilabad (Dasnapur) | Public/Government | NEAR NEW BUS STAND | [polytechnicadilabad.ac.in](http://polytechnicadilabad.ac.in) |
+| **632** | Government Polytechnic, Nizamabad (Kanteshwar) | Public/Government | KANTESHWAR | [gpnzb.ac.in](http://gpnzb.ac.in) |
+| **633** | Government Polytechnic, Vikarabad | Public/Government | RANGAREDDY DIST, ANDHRAPRADESH | [polytechnicvikarabad.ac.in](http://polytechnicvikarabad.ac.in) |
+| **635** | Government Polytechnic, Chegunta (Medak) | Public/Government | MEDAK(DISTRICT), ANDHRA PRADESH PIN:-502255 | [polytechnicchegunta.ac.in](http://polytechnicchegunta.ac.in) |
+| **636** | Periyar University (Salem, Tamil Nadu) | Public/Government | PERIYAR PALKALAI NAGAR | [www.periyaruniversity.ac.in](https://www.periyaruniversity.ac.in) |
 

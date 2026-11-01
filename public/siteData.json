@@ -52769,14 +52769,14 @@
     },
     {
       "id": 624,
-      "name": "CHAITANYA (DEEMED TO BE UNIVERSITY)",
+      "name": "Chaitanya Deemed to be University (CDU, Hanamkonda, Warangal)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "CHAITANYA (DEEMED TO BE UNIVERSITY), HIMAYATNAGAR (V), MOINABAD (M), RANGA REDDY (DIST.), HYDERABAD, TELANGANA",
-      "phone": "0123-456789",
-      "website": "https://www.chaitanyadeemed.edu.in",
-      "rating": 4.5,
+      "phone": "0870-2578880",
+      "website": "https://chaitanya.edu.in",
+      "rating": 4.3,
       "reviews": 323,
       "type": "Private",
       "about": "Welcome to CHAITANYA (DEEMED TO BE UNIVERSITY), a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52796,12 +52796,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "Graduation with Math + TS ICET",
+          "exams": "TS ICET",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET / CDUEEE",
+          "exams": "TS EAMCET, CDUEEE",
+          "intake": "240"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹90,000/Year",
+          "eligibility": "10+2 with PCB/PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "100"
+        },
+        {
+          "name": "Doctor of Pharmacy (Pharm.D)",
+          "title": "Doctor of Pharmacy (Pharm.D)",
+          "division": "Doctoral Professional",
+          "duration": "6 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCB/PCM",
+          "exams": "TS EAMCET",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52819,17 +52861,19 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/chaitanya-deemed-to-be-university-hyderabad-360968.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHAITANYA%20(DEEMED%20TO%20BE%20UNIVERSITY)%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHAITANYA%20(DEEMED%20TO%20BE%20UNIVERSITY)%20RANGAREDDI%20Telangana",
+      "city": "Warangal",
+      "established": 1991
     },
     {
       "id": 625,
-      "name": "GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT GITAM OFF CAMPUS HYDERABAD",
+      "name": "GITAM Deemed to be University, Hyderabad Campus (Rudraram, Sangareddy)",
       "shortName": "Course Institute-1",
       "location": "MEDAK",
       "state": "Telangana",
       "address": "RUDRARAM",
-      "phone": "0123-456789",
-      "website": "https://www.gandhiinstitute.edu.in",
+      "phone": "08455-221200",
+      "website": "https://www.gitam.edu",
       "rating": 4.5,
       "reviews": 269,
       "type": "Private",
@@ -52850,12 +52894,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "AERO SPACE ENGINEERING",
+          "name": "B.Tech in Aerospace Engineering",
+          "title": "B.Tech in Aerospace Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹2,90,000/Year",
+          "eligibility": "10+2 with 60% in PCM + GAT / JEE Main / TS EAMCET",
+          "exams": "GAT, JEE Main, TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹3,60,000/Year",
+          "eligibility": "10+2 with PCM + GAT / JEE Main",
+          "exams": "GAT, JEE Main",
+          "intake": "480"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹3,60,000/Year",
+          "eligibility": "10+2 with PCM + GAT",
+          "exams": "GAT",
+          "intake": "240"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,50,000/Year",
+          "eligibility": "Graduation (50%+) + GAT / CAT / MAT / XAT",
+          "exams": "GAT, CAT, MAT",
+          "intake": "180"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52871,21 +52947,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pibm_pune.webp",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GANDHI%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20GITAM%20OFF%20CAMPUS%20HYDERABAD%20MEDAK%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 2009
     },
     {
       "id": 626,
-      "name": "AURORA'S SCHOOL OF ART AND DESIGN",
+      "name": "Aurora's School of Art and Design (Panjagutta, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "BANDLAGUDA, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.aurorasschoolof.edu.in",
-      "rating": 4.5,
+      "phone": "040-23405722",
+      "website": "https://ada.edu.in",
+      "rating": 4.1,
       "reviews": 96,
       "type": "Private",
       "about": "Welcome to AURORA'S SCHOOL OF ART AND DESIGN, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52905,12 +52983,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "INTERIOR DESIGN AND DECORATION",
+          "name": "B.Des in Interior Design & Decoration",
+          "title": "B.Des in Interior Design & Decoration",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 in any stream (50%+)",
+          "exams": "DAT, Merit Based",
+          "intake": "90"
+        },
+        {
+          "name": "B.Des in Visual Communication & Graphic Design",
+          "title": "B.Des in Visual Communication & Graphic Design",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "DAT",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Interior Architecture",
+          "title": "Diploma in Interior Architecture",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹50,000/Year",
           "eligibility": "10+2 / Graduation",
-          "type": "APPLIED ARTS AND CRAFTS",
-          "intake": 90
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52929,18 +53029,20 @@
       "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20SCHOOL%20OF%20ART%20AND%20DESIGN%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Hyderabad",
+      "established": 2016
     },
     {
       "id": 627,
-      "name": "ST.JOHN'S INSTITUTE OF SCIENCE AND TECNOLIGY",
+      "name": "St. John's Institute of Science & Technology (Peerzadiguda, Ghatkesar, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "RAGANNAGUDA(VIL), TURKAYAMJAL, HAYATHNAGAR(MANDAL),R.R.DIST,AP, 501510",
-      "phone": "0123-456789",
-      "website": "https://stjohnsinstitute.edu.in",
-      "rating": 4.5,
+      "phone": "040-27202338",
+      "website": "https://stjohns.edu.in",
+      "rating": 4,
       "reviews": 395,
       "type": "Private",
       "about": "Welcome to ST.JOHN'S INSTITUTE OF SCIENCE AND TECNOLIGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52960,12 +53062,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation with Maths + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹48,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52981,22 +53095,24 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.JOHN'S%20INSTITUTE%20OF%20SCIENCE%20AND%20TECNOLIGY%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.JOHN'S%20INSTITUTE%20OF%20SCIENCE%20AND%20TECNOLIGY%20RANGAREDDI%20Telangana",
+      "city": "Medchal-Malkajgiri",
+      "established": 2001
     },
     {
       "id": 628,
-      "name": "GOVERNMENT POLYTECHNIC NANDIPET",
+      "name": "Government Polytechnic, Nandipet (Nizamabad)",
       "shortName": "Course Institute-1",
       "location": "NIZAMABAD",
       "state": "Telangana",
       "address": "NANDIPET",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "08463-270055",
+      "website": "http://polytechnicnandipet.ac.in",
+      "rating": 4.2,
       "reviews": 297,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC NANDIPET, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 91,
       "facebook": "#",
@@ -53014,12 +53130,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical and Electronics Engineering (EEE)",
+          "title": "Diploma in Electrical and Electronics Engineering (EEE)",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -53037,20 +53175,22 @@
       ],
       "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-27-8-12-12-57_nandipet.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20NANDIPET%20NIZAMABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20NANDIPET%20NIZAMABAD%20Telangana",
+      "city": "Nizamabad",
+      "established": 2014
     },
     {
       "id": 629,
-      "name": "GOVERNMENT POLYTCHNIC",
+      "name": "Government Polytechnic, Adilabad (Dasnapur)",
       "shortName": "Course Institute-1",
       "location": "ADILABAD",
       "state": "Telangana",
       "address": "NEAR NEW BUS STAND",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "08732-226688",
+      "website": "http://polytechnicadilabad.ac.in",
+      "rating": 4.3,
       "reviews": 338,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTCHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 6,
       "facebook": "#",
@@ -53068,12 +53208,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+          "name": "Diploma in Electronics and Instrumentation Engineering (EIE)",
+          "title": "Diploma in Electronics and Instrumentation Engineering (EIE)",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -53089,10 +53251,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTCHNIC%20ADILABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Adilabad",
+      "established": 2008
     },
     {
       "id": 630,
@@ -53206,16 +53370,16 @@
     },
     {
       "id": 632,
-      "name": "GOVERNMENT POLYTECHNIC NIZAMABAD",
+      "name": "Government Polytechnic, Nizamabad (Kanteshwar)",
       "shortName": "Course Institute-1",
       "location": "NIZAMABAD",
       "state": "Telangana",
       "address": "KANTESHWAR",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
+      "phone": "08462-222380",
+      "website": "http://gpnzb.ac.in",
       "rating": 4.5,
       "reviews": 155,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC NIZAMABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 98,
       "facebook": "#",
@@ -53233,12 +53397,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "name": "Diploma in Electrical and Electronics Engineering (EEE)",
+          "title": "Diploma in Electrical and Electronics Engineering (EEE)",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "120"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Computer Engineering",
+          "title": "Diploma in Computer Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -53254,23 +53450,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bms_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20NIZAMABAD%20NIZAMABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Nizamabad",
+      "established": 1959
     },
     {
       "id": 633,
-      "name": "GOVERNMENT POLYTECHNIC, VIKARABAD",
+      "name": "Government Polytechnic, Vikarabad",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "GOVERNMENT POLYTECHNIC,VIKARABAD,RANGAREDDY DIST, ANDHRAPRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "08416-252066",
+      "website": "http://polytechnicvikarabad.ac.in",
+      "rating": 4.2,
       "reviews": 106,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC, VIKARABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 100,
       "facebook": "#",
@@ -53288,12 +53486,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -53309,10 +53529,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pibm_pune.webp",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2C%20VIKARABAD%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Vikarabad",
+      "established": 2014
     },
     {
       "id": 634,
@@ -53371,16 +53593,16 @@
     },
     {
       "id": 635,
-      "name": "GOVERNMENT POLYTECHNIC CHEGUNTA",
+      "name": "Government Polytechnic, Chegunta (Medak)",
       "shortName": "Course Institute-1",
       "location": "MEDAK",
       "state": "Telangana",
       "address": "BESIDE GOVERNMENT JUNIOR COLLEGE, CHEGUNTA(POST&MANDAL), MEDAK(DISTRICT), ANDHRA PRADESH PIN:-502255",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "08452-234055",
+      "website": "http://polytechnicchegunta.ac.in",
+      "rating": 4.1,
       "reviews": 185,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC CHEGUNTA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 54,
       "facebook": "#",
@@ -53398,12 +53620,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -53419,23 +53663,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_architecture_6.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20CHEGUNTA%20MEDAK%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Medak",
+      "established": 2014
     },
     {
       "id": 636,
-      "name": "PERIYAR UNIVERSITY",
+      "name": "Periyar University (Salem, Tamil Nadu)",
       "shortName": "Course Institute-1",
       "location": "SALEM",
       "state": "Tamil Nadu",
       "address": "PERIYAR PALKALAI NAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.periyaruniversi.edu.in",
-      "rating": 4.9,
+      "phone": "0427-2345766",
+      "website": "https://www.periyaruniversity.ac.in",
+      "rating": 4.6,
       "reviews": 1905,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to PERIYAR UNIVERSITY, a premier institute located in SALEM. We offer world-class education and facilities for our students.",
       "ranking": 98,
       "facebook": "#",
@@ -53452,13 +53698,54 @@
       ],
       "courses": [
         {
-          "title": "ENERGY TECHNOLOGY",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "POST GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 12,
-          "eligibility": "As per norms"
+          "name": "M.Tech in Energy Technology",
+          "title": "M.Tech in Energy Technology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "B.E./B.Tech in Mechanical / Chemical / Electrical / Energy + TANCET / GATE",
+          "exams": "TANCET, GATE",
+          "intake": "18"
+        },
+        {
+          "name": "M.Sc in Computer Science & Data Science",
+          "title": "M.Sc in Computer Science & Data Science",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "B.Sc CS / BCA (50%+)",
+          "exams": "Merit Based",
+          "intake": "40"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "Graduation (50%+) + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹22,000/Year",
+          "eligibility": "BCA / B.Sc with Maths + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
+        },
+        {
+          "name": "Ph.D. in Sciences and Engineering",
+          "title": "Ph.D. in Sciences and Engineering",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹12,000/Year",
+          "eligibility": "Master's degree with 55%+ + UGC-NET / CSIR-NET / SET",
+          "exams": "UGC-NET, CSIR-NET",
+          "intake": "50"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -53480,7 +53767,9 @@
       "reviewsCount": 1905,
       "image": "https://www.periyaruniversity.ac.in/Need/images/main_building1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PERIYAR%20UNIVERSITY%20SALEM%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PERIYAR%20UNIVERSITY%20SALEM%20Tamil%20Nadu",
+      "city": "Salem",
+      "established": 1997
     },
     {
       "id": 637,

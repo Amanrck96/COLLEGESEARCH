@@ -1,0 +1,203 @@
+[
+  {
+    "id": 624,
+    "name": "CHAITANYA (DEEMED TO BE UNIVERSITY)",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/chaitanya-deemed-to-be-university-hyderabad-360968.webp",
+    "website": "https://www.chaitanyadeemed.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 180
+      }
+    ]
+  },
+  {
+    "id": 625,
+    "name": "GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT GITAM OFF CAMPUS HYDERABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/pibm_pune.webp",
+    "website": "https://www.gandhiinstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "AERO SPACE ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 626,
+    "name": "AURORA'S SCHOOL OF ART AND DESIGN",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.aurorasschoolof.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "INTERIOR DESIGN AND DECORATION",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "APPLIED ARTS AND CRAFTS",
+        "intake": 90
+      }
+    ]
+  },
+  {
+    "id": 627,
+    "name": "ST.JOHN'S INSTITUTE OF SCIENCE AND TECNOLIGY",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://stjohnsinstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MASTER OF COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 628,
+    "name": "GOVERNMENT POLYTECHNIC NANDIPET",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-27-8-12-12-57_nandipet.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MECHANICAL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "name": "GOVERNMENT POLYTCHNIC",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "name": "GOVERNMENT POLYTECHNIC NIZAMABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "name": "GOVERNMENT POLYTECHNIC, VIKARABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/pibm_pune.webp",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 635,
+    "name": "GOVERNMENT POLYTECHNIC CHEGUNTA",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MECHANICAL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 636,
+    "name": "PERIYAR UNIVERSITY",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://www.periyaruniversity.ac.in/Need/images/main_building1.jpg",
+    "website": "https://www.periyaruniversi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "ENERGY TECHNOLOGY",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 12,
+        "eligibility": "As per norms"
+      }
+    ]
+  }
+]
