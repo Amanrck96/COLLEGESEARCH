@@ -2887,3 +2887,19 @@
 | 1928 | Swami Shri Swaroopanand Saraswati Mahavidyalaya, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://ssssmv.ac.in) |
 | 1929 | Babu Chhotelal Shrivastava Government P.G. College, Dhamtari | Dhamtari | Chhattisgarh | Public/Government | [Portal](https://www.pgcollegedhamtari.com) |
 | 1930 | Dr. B.B.A. Government Polytechnic, Karvad (Silvassa) | Dadra and Nagar Haveli | Dadra & Nagar Haveli and Daman & Diu | Public/Government | [Portal](https://drbbagpks.org) |
+
+
+### Batch 194 (Colleges 1,931–1,940)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1931 | SSR Institute of Management & Research (SSR IMR), Silvassa | Silvassa | Dadra & Nagar Haveli and Daman & Diu | Private | [Portal](https://www.ssrimr.edu.in) |
+| 1932 | SSR College of Arts, Commerce and Science (SSR ACSC), Silvassa | Silvassa | Dadra & Nagar Haveli and Daman & Diu | Private | [Portal](https://ssracs.edu.in) |
+| 1933 | Government Engineering College, Daman (GEC Daman) | Daman | Dadra & Nagar Haveli and Daman & Diu | Public/Government | [Portal](https://gecdaman.org.in) |
+| 1934 | Government Polytechnic, Diu | Diu | Dadra & Nagar Haveli and Daman & Diu | Public/Government | [Portal](https://www.gpdiu.ac.in) |
+| 1935 | Government Polytechnic, Daman | Daman | Dadra & Nagar Haveli and Daman & Diu | Public/Government | [Portal](https://gpdaman.org.in) |
+| 1936 | Shrinathji College of Business Administration (SCBA), Daman | Daman | Dadra & Nagar Haveli and Daman & Diu | Private | [Portal](https://shrinathjicollege.org) |
+| 1937 | Maharaja Agrasen Institute of Technology, Solan (MAU) | Solan | Himachal Pradesh | Private | [Portal](https://www.mau.ac.in) |
+| 1938 | Himachal Pradesh Technical University (HPTU), Hamirpur | Hamirpur | Himachal Pradesh | Public/Government (State University) | [Portal](https://www.himtu.ac.in) |
+| 1939 | L.R. Institute of Engineering & Technology, Solan | Solan | Himachal Pradesh | Private | [Portal](https://www.lrinstitutes.edu.in) |
+| 1940 | CIPET: Centre for Skilling and Technical Support (CSTS) - Baddi | Solan | Himachal Pradesh | Public/Government | [Portal](https://www.cipet.gov.in) |

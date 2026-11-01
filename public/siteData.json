@@ -151748,23 +151748,23 @@
   },
   {
     "id": 1927,
-    "name": "SSR Institute of Management & Research",
-    "shortName": "Course Institute-1",
-    "location": "DADRA AND NAGAR HAVELI",
+    "name": "SSR Institute of Management & Research (SSR IMR), Silvassa",
+    "shortName": "SSR IMR Silvassa",
+    "location": "Silvassa",
     "state": "Dadra & Nagar Haveli and Daman & Diu",
-    "address": "Sayli-Silvassa Road, Sayli, Silvassa - 396230, Dadra & Nagar Haveli and Daman & Diu",
-    "phone": "+91-9081160002",
+    "address": "SSR Campus, Sayli Road, Silvassa, Dadra and Nagar Haveli - 396230",
+    "phone": "0260-2681115",
     "website": "https://www.ssrimr.edu.in",
     "rating": 4.5,
     "reviews": 146,
     "type": "Private",
-    "about": "Welcome to SSR INSTITUTE OF MANAGEMENT & RESEARCH, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "SSR Institute of Management & Research (SSR IMR), Silvassa, established in 2008 by Swargeeya Sanjibhai Rupjibhai Memorial Trust, is an AICTE-approved management institute permanently affiliated to SPPU Pune, offering premier postgraduate business administration programs.",
     "ranking": 17,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=SSR%20INSTITUTE%20OF%20MANAGEMENT%20%26%20RESEARCH%20DADRA%20AND%20NAGAR%20HAVELI%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹80,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_7.jpg",
     "gallery": [
@@ -151772,15 +151772,13 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Savitribai Phule Pune University (SPPU), Pune",
     "courses": [
       {
-        "name": "MBA",
-        "title": "Master of Business Administration",
+        "title": "Master of Business Administration (MBA)",
         "duration": "2 Years",
-        "fees": "₹1.6 Lakhs",
-        "fee": "₹1.6 Lakhs",
-        "eligibility": "Graduation with 50% + MAH-CET/CMAT/CAT",
+        "fees": "₹80,000/Yr",
+        "eligibility": "Graduation with 50% + CMAT/MAH-CET/CAT",
         "type": "MANAGEMENT",
         "intake": 60
       }
@@ -151804,27 +151802,28 @@
     "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
     "city": "Silvassa",
     "email": "director@ssrimr.edu.in",
-    "verified": true
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.204Z"
   },
   {
     "id": 1928,
-    "name": "SWARGEEYA SANJIBHAI RUPJIBHAI MEMORIAL TRUST'S SSR COLLEGE OF ARTS COMMERCE AND SCIENCE",
-    "shortName": "Course Institute-1",
-    "location": "DADRA AND NAGAR HAVELI",
+    "name": "SSR College of Arts, Commerce and Science (SSR ACSC), Silvassa",
+    "shortName": "SSR ACSC Silvassa",
+    "location": "Silvassa",
     "state": "Dadra & Nagar Haveli and Daman & Diu",
-    "address": "PRINCIPAL, SSR COLLEGE OF ARTS, COMMERCE AND SCIENCE, SAYLI ROAD, SILVASSA, DADRA AND NAGAR HAVELI",
-    "phone": "0123-456789",
-    "website": "https://www.swargeeyasanjib.edu.in",
+    "address": "Sayli Road, Silvassa, Dadra and Nagar Haveli - 396230",
+    "phone": "0260-2681114",
+    "website": "https://ssracs.edu.in",
     "rating": 4.5,
     "reviews": 294,
     "type": "Private",
-    "about": "Welcome to SWARGEEYA SANJIBHAI RUPJIBHAI MEMORIAL TRUST'S SSR COLLEGE OF ARTS COMMERCE AND SCIENCE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "SSR College of Arts, Commerce and Science Silvassa, established in 2006 by SSR Memorial Trust, is NAAC-accredited and affiliated with Savitribai Phule Pune University, offering undergraduate courses in business administration, computer science, and commerce.",
     "ranking": 91,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=SWARGEEYA%20SANJIBHAI%20RUPJIBHAI%20MEMORIAL%20TRUST'S%20SSR%20COLLEGE%20OF%20ARTS%20COMMERCE%20AND%20SCIENCE%20DADRA%20AND%20NAGAR%20HAVELI%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹35,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://ssreducollege.edu.in/wp-content/uploads/2023/12/ssr-banner3.jpg",
     "gallery": [
@@ -151832,14 +151831,30 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Savitribai Phule Pune University (SPPU), Pune",
     "courses": [
       {
-        "title": "BBA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 in any stream with English",
         "type": "MANAGEMENT",
+        "intake": 120
+      },
+      {
+        "title": "Bachelor of Science in Computer Science (B.Sc CS)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with Mathematics",
+        "type": "SCIENCE",
+        "intake": 80
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹20,000/Yr",
+        "eligibility": "10+2 with Commerce / Science",
+        "type": "COMMERCE",
         "intake": 120
       }
     ],
@@ -151858,27 +151873,29 @@
     ],
     "image": "https://ssreducollege.edu.in/wp-content/uploads/2023/12/ssr-banner3.jpg",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SWARGEEYA%20SANJIBHAI%20RUPJIBHAI%20MEMORIAL%20TRUST'S%20SSR%20COLLEGE%20OF%20ARTS%20COMMERCE%20AND%20SCIENCE%20DADRA%20AND%20NAGAR%20HAVELI%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SWARGEEYA%20SANJIBHAI%20RUPJIBHAI%20MEMORIAL%20TRUST'S%20SSR%20COLLEGE%20OF%20ARTS%20COMMERCE%20AND%20SCIENCE%20DADRA%20AND%20NAGAR%20HAVELI%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.206Z"
   },
   {
     "id": 1929,
-    "name": "GOVERNMENT ENGINEERING COLLEGE DAMAN",
-    "shortName": "Course Institute-1",
-    "location": "DAMAN",
+    "name": "Government Engineering College, Daman (GEC Daman)",
+    "shortName": "GEC Daman",
+    "location": "Daman",
     "state": "Dadra & Nagar Haveli and Daman & Diu",
-    "address": "VARKUND, MOTA FALIYA, NANI DAMAN",
-    "phone": "0123-456789",
-    "website": "https://www.governmentengin.edu.in",
+    "address": "Varkund, Nani Daman, Daman - 396210",
+    "phone": "0260-2244111",
+    "website": "https://gecdaman.org.in",
     "rating": 4.5,
     "reviews": 169,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT ENGINEERING COLLEGE DAMAN, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Engineering College Daman, established in 2018 by the Administration of UT of Dadra & Nagar Haveli and Daman & Diu, is an AICTE-approved premier public engineering institute providing high-quality, subsidized technical education across key disciplines.",
     "ranking": 78,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20ENGINEERING%20COLLEGE%20DAMAN%20DAMAN%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹6,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_2.jpg",
     "gallery": [
@@ -151886,13 +151903,45 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Gujarat Technological University (GTU), Ahmedabad",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "B.Tech in Civil Engineering",
         "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹6,000/Yr",
+        "eligibility": "10+2 with Physics, Mathematics & Chemistry + GUJCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Engineering",
+        "duration": "4 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electrical Engineering",
+        "duration": "4 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Biomedical Engineering",
+        "duration": "4 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "10+2 with PCM/PCB + GUJCET / JEE Main",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
@@ -151911,29 +151960,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_2.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20ENGINEERING%20COLLEGE%20DAMAN%20DAMAN%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.206Z"
   },
   {
     "id": 1930,
-    "name": "GOVERNMENT POLYTECHNIC,DIU",
-    "shortName": "Course Institute-1",
-    "location": "DIU",
+    "name": "Government Polytechnic, Diu",
+    "shortName": "GP Diu",
+    "location": "Diu",
     "state": "Dadra & Nagar Haveli and Daman & Diu",
-    "address": "GOVERNMENT POLYTECHNIC DIU, EDUCATATION HUB, KEVDI, DIU",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Education Hub, Kevdi - Diu, UT of DNH & DD - 362520",
+    "phone": "02875-252255",
+    "website": "https://www.gpdiu.ac.in",
     "rating": 4.5,
     "reviews": 528,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC,DIU, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Diu, established in 2014 under the Administration of UT of Dadra and Nagar Haveli and Daman and Diu, is an AICTE-approved technical diploma institute delivering subsidized professional diploma courses in civil, mechanical, and electrical engineering.",
     "ranking": 23,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2CDIU%20DIU%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹3,400/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_9.jpg",
     "gallery": [
@@ -151941,13 +151992,29 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Gujarat Technological University (GTU), Ahmedabad",
     "courses": [
       {
-        "title": "ELECTRICAL ENGINEERING",
+        "title": "Diploma in Electrical Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹3,400/Yr",
+        "eligibility": "Class 10th pass with ACPDC Gujarat counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 54
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹3,400/Yr",
+        "eligibility": "Class 10th pass with ACPDC Gujarat counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 54
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹3,400/Yr",
+        "eligibility": "Class 10th pass with ACPDC Gujarat counseling",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 54
       }
@@ -151966,29 +152033,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_9.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2CDIU%20DIU%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.206Z"
   },
   {
     "id": 1931,
-    "name": "GOVERNMENT POLYTECHNIC DAMAN",
-    "shortName": "Course Institute-1",
-    "location": "DAMAN",
+    "name": "Government Polytechnic, Daman",
+    "shortName": "GP Daman",
+    "location": "Daman",
     "state": "Dadra & Nagar Haveli and Daman & Diu",
-    "address": "VARKUND, MOTA FALIA, NANI DAMAN DAMAN",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Varkund, Nani Daman, Daman - 396210",
+    "phone": "0260-2244111",
+    "website": "https://gpdaman.org.in",
     "rating": 4.5,
     "reviews": 470,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC DAMAN, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Daman, established in 1989, is an AICTE-approved premier polytechnic college run by the UT Administration of Dadra and Nagar Haveli & Daman and Diu, offering accredited technical diploma courses.",
     "ranking": 14,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20DAMAN%20DAMAN%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹3,400/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/atharva_complex_malad.jpg",
     "gallery": [
@@ -151996,13 +152065,45 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Gujarat Technological University (GTU), Ahmedabad",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹3,400/Yr",
+        "eligibility": "Class 10th pass with Science and Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹3,400/Yr",
+        "eligibility": "Class 10th pass with Science and Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Chemical Engineering",
+        "duration": "3 Years",
+        "fees": "₹3,400/Yr",
+        "eligibility": "Class 10th pass with Science and Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fees": "₹3,400/Yr",
+        "eligibility": "Class 10th pass with Science and Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Information Technology",
+        "duration": "3 Years",
+        "fees": "₹3,400/Yr",
+        "eligibility": "Class 10th pass with Science and Mathematics",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
@@ -152021,29 +152122,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/atharva_complex_malad.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20DAMAN%20DAMAN%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.206Z"
   },
   {
     "id": 1932,
-    "name": "SHRINATHJI COLLEGE OF BUSINESS ADMINISTRATION",
-    "shortName": "Course Institute-1",
-    "location": "DAMAN",
+    "name": "Shrinathji College of Business Administration (SCBA), Daman",
+    "shortName": "SCBA Daman",
+    "location": "Daman",
     "state": "Dadra & Nagar Haveli and Daman & Diu",
-    "address": "69/1, VARKUND,VAPI DAMAN MAIN ROAD",
-    "phone": "0123-456789",
-    "website": "https://www.shrinathjicolle.edu.in",
+    "address": "Kunta Road, Nani Daman, Daman - 396210",
+    "phone": "0260-2260111",
+    "website": "https://shrinathjicollege.org",
     "rating": 4.5,
     "reviews": 292,
     "type": "Private",
-    "about": "Welcome to SHRINATHJI COLLEGE OF BUSINESS ADMINISTRATION, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Shrinathji College of Business Administration Daman is an affiliated college under Veer Narmad South Gujarat University, providing professional undergraduate education in computer applications and business administration.",
     "ranking": 22,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=SHRINATHJI%20COLLEGE%20OF%20BUSINESS%20ADMINISTRATION%20DAMAN%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹35,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://img.studyclap.com/img/institute/college/773x343/860/860_1srinath1.png",
     "gallery": [
@@ -152051,15 +152154,23 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Veer Narmad South Gujarat University (VNSGU), Surat",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with English and Mathematics / Statistics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 120
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -152077,27 +152188,29 @@
     ],
     "image": "https://img.studyclap.com/img/institute/college/773x343/860/860_1srinath1.png",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRINATHJI%20COLLEGE%20OF%20BUSINESS%20ADMINISTRATION%20DAMAN%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRINATHJI%20COLLEGE%20OF%20BUSINESS%20ADMINISTRATION%20DAMAN%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.206Z"
   },
   {
     "id": 1933,
-    "name": "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY",
-    "shortName": "Course Institute-1",
-    "location": "SOLAN",
+    "name": "Maharaja Agrasen Institute of Technology, Solan (MAU)",
+    "shortName": "MAIT / MAU Solan",
+    "location": "Solan",
     "state": "Himachal Pradesh",
-    "address": "ATAL SHIKSHA KUNJ ATAL NAGAR VILLAGE KALUJHANDA, NEAR BROTIWALA, BADDI DISTT. SOLAN, PIN CODE 174103 (H.P)",
-    "phone": "0123-456789",
-    "website": "https://www.maharajaagrasen.edu.in",
+    "address": "Atal Shiksha Kunj, Village Kalujhanda, Baddi, Solan, Himachal Pradesh - 174103",
+    "phone": "01795-246200",
+    "website": "https://www.mau.ac.in",
     "rating": 4.6,
     "reviews": 1150,
     "type": "Private",
-    "about": "Welcome to MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY, a premier institute located in SOLAN. We offer world-class education and facilities for our students.",
+    "about": "Maharaja Agrasen Institute of Technology, situated within Maharaja Agrasen University Baddi-Solan, is an AICTE-approved engineering school established in 2013, offering engineering degrees with cutting-edge laboratories and industry linkages.",
     "ranking": 30,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20AGRASEN%20INSTITUTE%20OF%20TECHNOLOGY%20SOLAN%20Himachal%20Pradesh",
-    "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
+    "fees": "₹1,15,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://img.studyclap.com/img/institute/college/original/560/560_1mait1.png",
     "gallery": [
@@ -152107,13 +152220,28 @@
     ],
     "courses": [
       {
-        "title": "COMPUTER SCIENCE & ENGINEERING",
-        "type": "ENGINEERING AND TECHNOLOGY",
-        "division": "UNDER GRADUATE",
+        "title": "B.Tech in Computer Science and Engineering",
         "duration": "4 Years",
-        "fees": "Contact for details",
-        "intake": 120,
-        "eligibility": "As per norms"
+        "fees": "₹1,15,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / HPCET",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹95,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / HPCET",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹95,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / HPCET",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
       }
     ],
     "highestPackage": "₹18 LPA",
@@ -152135,27 +152263,30 @@
     "reviewsCount": 1150,
     "image": "https://img.studyclap.com/img/institute/college/original/560/560_1mait1.png",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20AGRASEN%20INSTITUTE%20OF%20TECHNOLOGY%20SOLAN%20Himachal%20Pradesh"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20AGRASEN%20INSTITUTE%20OF%20TECHNOLOGY%20SOLAN%20Himachal%20Pradesh",
+    "affiliation": "Maharaja Agrasen University, Solan (Private University)",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.206Z"
   },
   {
     "id": 1934,
-    "name": "Himachal Pradesh Technical University",
-    "shortName": "Course Institute-1",
-    "location": "HAMIRPUR",
+    "name": "Himachal Pradesh Technical University (HPTU), Hamirpur",
+    "shortName": "HPTU Hamirpur",
+    "location": "Hamirpur",
     "state": "Himachal Pradesh",
-    "address": "Village & Post Office Daruhi, Hamirpur, Himachal Pradesh - 177001",
-    "phone": "+91-1972-226902",
+    "address": "Gandhi Chowk, Hamirpur, Himachal Pradesh - 177001",
+    "phone": "01972-226902",
     "website": "https://www.himtu.ac.in",
     "rating": 4.5,
     "reviews": 382,
     "type": "Public/Government (State University)",
-    "about": "Welcome to HIMACHAL PRADESH TECHNICAL UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Himachal Pradesh Technical University Hamirpur, established in 2010 by the Government of Himachal Pradesh, is the apex affiliating state technical university administering professional technical and management colleges across Himachal Pradesh.",
     "ranking": 61,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=HIMACHAL%20PRADESH%20TECHNICAL%20UNIVERSITY%20HAMIRPUR%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹65,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_8.jpg",
     "gallery": [
@@ -152163,26 +152294,30 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "State Public Technical University established by Govt. of HP",
     "courses": [
       {
-        "name": "MCA",
-        "title": "Master of Computer Applications",
+        "title": "Master of Computer Applications (MCA)",
         "duration": "2 Years",
-        "fees": "₹1.2 Lakhs",
-        "fee": "₹1.2 Lakhs",
-        "eligibility": "BCA/B.Sc/B.Com with Mathematics + HPCET/NIMCET",
+        "fees": "₹60,000/Yr",
+        "eligibility": "BCA / B.Sc / B.Com with Mathematics + HPCET / NIMCET",
         "type": "COMPUTER APPLICATIONS",
         "intake": 60
       },
       {
-        "name": "MBA",
-        "title": "Master of Business Administration",
+        "title": "Master of Business Administration (MBA)",
         "duration": "2 Years",
-        "fees": "₹1.2 Lakhs",
-        "fee": "₹1.2 Lakhs",
-        "eligibility": "Graduation with 50% + HPCET/CAT/CMAT",
+        "fees": "₹65,000/Yr",
+        "eligibility": "Graduation with 50% + HPCET / CAT / CMAT / MAT",
         "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
     ],
@@ -152200,31 +152335,32 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_8.jpg",
-    "ownership": "Government",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMACHAL%20PRADESH%20TECHNICAL%20UNIVERSITY%20HAMIRPUR%20Himachal%20Pradesh",
     "city": "Hamirpur",
     "email": "registrarhimtu@gmail.com",
-    "verified": true
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.206Z"
   },
   {
     "id": 1935,
-    "name": "LR ENGINEERING AND TECHNOLOGY",
-    "shortName": "Course Institute-1",
-    "location": "SOLAN",
+    "name": "L.R. Institute of Engineering & Technology, Solan",
+    "shortName": "LRIET Solan",
+    "location": "Solan",
     "state": "Himachal Pradesh",
-    "address": "VILLAGE JABLI-KYAR, P.O. OACHGHAT,",
-    "phone": "0123-456789",
-    "website": "https://www.lrengineeringan.edu.in",
+    "address": "Jabli-Kyar, P.O. Sultanpur, Oachghat, Solan, Himachal Pradesh - 173223",
+    "phone": "01792-252851",
+    "website": "https://www.lrinstitutes.edu.in",
     "rating": 4.5,
     "reviews": 413,
     "type": "Private",
-    "about": "Welcome to LR ENGINEERING AND TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "L.R. Institute of Engineering & Technology Solan, established in 2008 by Lala Lilu Ram Educational Trust, is an AICTE-approved engineering institute affiliated to HPTU Hamirpur, providing undergraduate engineering education in scenic Solan valley.",
     "ranking": 61,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=LR%20ENGINEERING%20AND%20TECHNOLOGY%20SOLAN%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹75,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15949856973.jpg",
     "gallery": [
@@ -152232,13 +152368,29 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Technical University (HPTU), Hamirpur",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "B.Tech in Computer Science & Engineering",
         "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹75,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / HPCET",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / HPCET",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / HPCET",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 30
       }
@@ -152258,27 +152410,29 @@
     ],
     "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15949856973.jpg",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=LR%20ENGINEERING%20AND%20TECHNOLOGY%20SOLAN%20Himachal%20Pradesh"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=LR%20ENGINEERING%20AND%20TECHNOLOGY%20SOLAN%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.206Z"
   },
   {
     "id": 1936,
-    "name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET) BADDI",
-    "shortName": "Course Institute-1",
-    "location": "SOLAN",
+    "name": "CIPET: Centre for Skilling and Technical Support (CSTS) - Baddi",
+    "shortName": "CIPET CSTS Baddi",
+    "location": "Solan",
     "state": "Himachal Pradesh",
-    "address": "CIPET PLOT NO.198/201 NEAR BIOGENETIC PVT. LTD. JHARMAJRI BADDI DIST SOLAN H.P",
-    "phone": "0123-456789",
+    "address": "Plot No. 198/201, Jharmajri, Baddi, District Solan, Himachal Pradesh - 173205",
+    "phone": "01795-271040",
     "website": "https://www.cipet.gov.in",
     "rating": 4.5,
     "reviews": 320,
-    "type": "Private",
-    "about": "Welcome to CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET) BADDI, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Central Institute of Petrochemicals Engineering & Technology (CIPET: CSTS) Baddi, established under the Department of Chemicals & Petrochemicals, Ministry of Chemicals & Fertilizers, Government of India, is an apex public technology centre providing specialized diploma and postgraduate programs in plastics mould engineering and petrochemical technology.",
     "ranking": 10,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=CENTRAL%20INSTITUTE%20OF%20PETROCHEMICALS%20ENGINEERING%20%26%20TECHNOLOGY%20(CIPET)%20BADDI%20SOLAN%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹38,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_7.jpg",
     "gallery": [
@@ -152286,15 +152440,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Autonomous Institute under Ministry of Chemicals & Fertilizers, Govt. of India",
     "courses": [
       {
-        "title": "PLASTIC TECHNOLOGY",
+        "title": "Diploma in Plastics Mould Technology (DPMT)",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹38,000/Yr",
+        "eligibility": "Class 10th pass + CIPET JEE",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
+      },
+      {
+        "title": "Diploma in Plastics Technology (DPT)",
+        "duration": "3 Years",
+        "fees": "₹38,000/Yr",
+        "eligibility": "Class 10th pass + CIPET JEE",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Plastics Processing & Testing (PGD-PPT)",
+        "duration": "2 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "3-year Degree in Science with Chemistry",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -152311,9 +152481,11 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_7.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTRAL%20INSTITUTE%20OF%20PETROCHEMICALS%20ENGINEERING%20%26%20TECHNOLOGY%20(CIPET)%20BADDI%20SOLAN%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:26:49.206Z"
   },
   {
     "id": 1937,

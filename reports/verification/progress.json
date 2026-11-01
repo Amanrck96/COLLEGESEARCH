@@ -1672,7 +1672,15 @@
     1923,
     1924,
     1925,
-    1926
+    1926,
+    1928,
+    1929,
+    1930,
+    1931,
+    1932,
+    1933,
+    1935,
+    1936
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -2071,6 +2079,24 @@
         1926
       ],
       "verifiedAt": "2026-11-01T21:19:58.299Z"
+    },
+    "194": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "1931-1940",
+      "ids": [
+        1927,
+        1928,
+        1929,
+        1930,
+        1931,
+        1932,
+        1933,
+        1934,
+        1935,
+        1936
+      ],
+      "verifiedAt": "2026-11-01T21:26:50.018Z"
     }
   },
   "all_verified_ids": [
@@ -2085,11 +2111,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 193,
-  "verifiedColleges": 1930,
-  "lastUpdated": "2026-11-01T21:19:57.922Z",
+  "last_batch_completed": 194,
+  "verifiedColleges": 1940,
+  "lastUpdated": "2026-11-01T21:26:50.018Z",
   "batchesCompleted": 172,
-  "currentBatch": 193,
+  "currentBatch": 194,
   "batchHistory": [
     {
       "batch": 160,
@@ -2467,6 +2493,24 @@
         1924,
         1925,
         1926
+      ]
+    },
+    {
+      "batch": 194,
+      "verifiedCount": 10,
+      "totalVerified": 1940,
+      "timestamp": "2026-11-01T21:26:50.034Z",
+      "collegeIds": [
+        1927,
+        1928,
+        1929,
+        1930,
+        1931,
+        1932,
+        1933,
+        1934,
+        1935,
+        1936
       ]
     }
   ]
