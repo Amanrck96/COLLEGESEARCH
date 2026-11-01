@@ -9523,5 +9523,80 @@
         "website": "https://braptc.py.gov.in"
       }
     ]
+  },
+  {
+    "batch": 128,
+    "items": [
+      {
+        "id": 940,
+        "name": "Rajiv Gandhi College of Engineering and Technology (RGCET Puducherry)",
+        "type": "Private",
+        "location": "Kirumampakkam, Puducherry - 607402",
+        "website": "https://rgcetpdy.ac.in"
+      },
+      {
+        "id": 941,
+        "name": "Puducherry Technological University (PTU Puducherry)",
+        "type": "Public/Government",
+        "location": "Pillaichavadi, Puducherry - 605014",
+        "website": "https://ptupuducherry.ac.in"
+      },
+      {
+        "id": 942,
+        "name": "Manakula Vinayagar Institute of Technology (MVIT Puducherry)",
+        "type": "Private",
+        "location": "Madagadipet, Puducherry - 605107",
+        "website": "https://mvit.edu.in"
+      },
+      {
+        "id": 943,
+        "name": "Christ College of Engineering and Technology (CCET Puducherry)",
+        "type": "Private",
+        "location": "Oulgaret Municipality, Puducherry - 605010",
+        "website": "https://christcet.edu.in"
+      },
+      {
+        "id": 944,
+        "name": "Christ Institute of Technology (CIT Puducherry)",
+        "type": "Private",
+        "location": "Villianur Commune, Puducherry - 605502",
+        "website": "https://citpt.edu.in"
+      },
+      {
+        "id": 945,
+        "name": "Sri Manakula Vinayagar Engineering College (Autonomous)",
+        "type": "Private",
+        "location": "Madagadipet, Puducherry - 605107",
+        "website": "https://smvec.ac.in"
+      },
+      {
+        "id": 946,
+        "name": "Pope John Paul II College of Education (Puducherry)",
+        "type": "Private",
+        "location": "Reddiarpalayam, Puducherry - 605010",
+        "website": "https://popejohnpaul2college.edu.in"
+      },
+      {
+        "id": 947,
+        "name": "Perunthalaivar Kamarajar Institute of Engineering and Technology (PKIET Karaikal)",
+        "type": "Public/Government",
+        "location": "Karaikal, Puducherry - 609603",
+        "website": "https://pkiet.edu.in"
+      },
+      {
+        "id": 948,
+        "name": "Saradha Gangadharan College (SGC Puducherry)",
+        "type": "Private",
+        "location": "Velrampet, Puducherry - 605004",
+        "website": "https://sgc.edu.in"
+      },
+      {
+        "id": 949,
+        "name": "PSV College of Arts and Science (Puducherry)",
+        "type": "Private",
+        "location": "Kanniyakoil, Puducherry - 607402",
+        "website": "https://psvcas.org"
+      }
+    ]
   }
 ]

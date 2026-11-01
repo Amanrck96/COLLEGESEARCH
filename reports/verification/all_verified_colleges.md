@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1270 / 12,660**  
-**Roadmap Progress**: **127.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1280 / 12,660**  
+**Roadmap Progress**: **128.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1914,4 +1914,19 @@
 | **937** | Women's Polytechnic College, Government of Puducherry | Public/Government | Lawspet, Puducherry - 605008 | [wptc.py.gov.in](https://wptc.py.gov.in) |
 | **938** | Sri Venkateshwaraa College of Engineering & Technology (SVCET Puducherry) | Private | Ariyur, Puducherry - 605102 | [svcetpondy.com](https://svcetpondy.com) |
 | **939** | Dr. B.R. Ambedkar Polytechnic College (Yanam) | Public/Government | Yanam, UT of Puducherry - 533464 | [braptc.py.gov.in](https://braptc.py.gov.in) |
+
+### Batch 128 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **940** | Rajiv Gandhi College of Engineering and Technology (RGCET Puducherry) | Private | Kirumampakkam, Puducherry - 607402 | [rgcetpdy.ac.in](https://rgcetpdy.ac.in) |
+| **941** | Puducherry Technological University (PTU Puducherry) | Public/Government | Pillaichavadi, Puducherry - 605014 | [ptupuducherry.ac.in](https://ptupuducherry.ac.in) |
+| **942** | Manakula Vinayagar Institute of Technology (MVIT Puducherry) | Private | Madagadipet, Puducherry - 605107 | [mvit.edu.in](https://mvit.edu.in) |
+| **943** | Christ College of Engineering and Technology (CCET Puducherry) | Private | Oulgaret Municipality, Puducherry - 605010 | [christcet.edu.in](https://christcet.edu.in) |
+| **944** | Christ Institute of Technology (CIT Puducherry) | Private | Villianur Commune, Puducherry - 605502 | [citpt.edu.in](https://citpt.edu.in) |
+| **945** | Sri Manakula Vinayagar Engineering College (Autonomous) | Private | Madagadipet, Puducherry - 605107 | [smvec.ac.in](https://smvec.ac.in) |
+| **946** | Pope John Paul II College of Education (Puducherry) | Private | Reddiarpalayam, Puducherry - 605010 | [popejohnpaul2college.edu.in](https://popejohnpaul2college.edu.in) |
+| **947** | Perunthalaivar Kamarajar Institute of Engineering and Technology (PKIET Karaikal) | Public/Government | Karaikal, Puducherry - 609603 | [pkiet.edu.in](https://pkiet.edu.in) |
+| **948** | Saradha Gangadharan College (SGC Puducherry) | Private | Velrampet, Puducherry - 605004 | [sgc.edu.in](https://sgc.edu.in) |
+| **949** | PSV College of Arts and Science (Puducherry) | Private | Kanniyakoil, Puducherry - 607402 | [psvcas.org](https://psvcas.org) |
 
