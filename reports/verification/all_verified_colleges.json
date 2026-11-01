@@ -9898,5 +9898,80 @@
         "website": "https://www.mewaruniversity.org/pages/Polytechnic.aspx"
       }
     ]
+  },
+  {
+    "batch": 133,
+    "items": [
+      {
+        "id": 991,
+        "name": "Government Polytechnic College, Udaipur",
+        "type": "Public/Government",
+        "location": "Udaipur, Rajasthan - 313002",
+        "website": "https://hte.rajasthan.gov.in/college/gpcudaipur"
+      },
+      {
+        "id": 992,
+        "name": "Government Engineering College Karauli (GEC Karauli)",
+        "type": "Public/Government",
+        "location": "Karauli, Rajasthan - 322241",
+        "website": "https://geckarauli.ac.in"
+      },
+      {
+        "id": 993,
+        "name": "IPS College of Technical Education (Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303904",
+        "website": "https://ipsjaipur.com"
+      },
+      {
+        "id": 994,
+        "name": "Faculty of Dairy Technology, Jodhpur (AU Jodhpur)",
+        "type": "Public/Government",
+        "location": "Jodhpur, Rajasthan - 342304",
+        "website": "https://www.aujodhpur.ac.in"
+      },
+      {
+        "id": 996,
+        "name": "Aryabhatta College of Engineering and Research Center (ACERC Ajmer)",
+        "type": "Private",
+        "location": "Ajmer, Rajasthan - 305004",
+        "website": "https://aryabhattaajmer.com"
+      },
+      {
+        "id": 997,
+        "name": "Government Engineering College Dholpur (GEC Dholpur)",
+        "type": "Public/Government",
+        "location": "Dholpur, Rajasthan - 328001",
+        "website": "https://www.ecdholpur.ac.in"
+      },
+      {
+        "id": 998,
+        "name": "Raj Engineering College (Jodhpur)",
+        "type": "Private",
+        "location": "Jodhpur, Rajasthan - 342027",
+        "website": "https://rajengg.org"
+      },
+      {
+        "id": 999,
+        "name": "Government Polytechnic College Kelwara (Baran)",
+        "type": "Public/Government",
+        "location": "Baran, Rajasthan - 325216",
+        "website": "https://hte.rajasthan.gov.in/college/gpckelwara"
+      },
+      {
+        "id": 1000,
+        "name": "Government Engineering College Baran (GEC Baran)",
+        "type": "Public/Government",
+        "location": "Baran, Rajasthan - 325206",
+        "website": "https://gecbaran.ac.in"
+      },
+      {
+        "id": 1001,
+        "name": "Keystone Group of Institutions (Surajgarh, Jhunjhunu)",
+        "type": "Private",
+        "location": "Jhunjhunu, Rajasthan - 333031",
+        "website": "https://keystonegroup.edu.in"
+      }
+    ]
   }
 ]

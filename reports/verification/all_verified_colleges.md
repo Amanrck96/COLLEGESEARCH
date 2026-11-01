@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1320 / 12,660**  
-**Roadmap Progress**: **132.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1330 / 12,660**  
+**Roadmap Progress**: **133.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1989,4 +1989,19 @@
 | **988** | Maharani Girls Engineering College (MGEC Jaipur) | Private | Jaipur, Rajasthan - 302037 | [mgecjaipur.com](https://mgecjaipur.com) |
 | **989** | MSME Technology Centre Bhiwadi | Public/Government | Bhiwadi, Rajasthan - 301019 | [msmetcbhiwadi.org](https://msmetcbhiwadi.org) |
 | **990** | Mewar Polytechnic College (Gangrar, Chittorgarh) | Private | Chittorgarh, Rajasthan - 312901 | [www.mewaruniversity.org](https://www.mewaruniversity.org/pages/Polytechnic.aspx) |
+
+### Batch 133 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **991** | Government Polytechnic College, Udaipur | Public/Government | Udaipur, Rajasthan - 313002 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcudaipur) |
+| **992** | Government Engineering College Karauli (GEC Karauli) | Public/Government | Karauli, Rajasthan - 322241 | [geckarauli.ac.in](https://geckarauli.ac.in) |
+| **993** | IPS College of Technical Education (Jaipur) | Private | Jaipur, Rajasthan - 303904 | [ipsjaipur.com](https://ipsjaipur.com) |
+| **994** | Faculty of Dairy Technology, Jodhpur (AU Jodhpur) | Public/Government | Jodhpur, Rajasthan - 342304 | [www.aujodhpur.ac.in](https://www.aujodhpur.ac.in) |
+| **996** | Aryabhatta College of Engineering and Research Center (ACERC Ajmer) | Private | Ajmer, Rajasthan - 305004 | [aryabhattaajmer.com](https://aryabhattaajmer.com) |
+| **997** | Government Engineering College Dholpur (GEC Dholpur) | Public/Government | Dholpur, Rajasthan - 328001 | [www.ecdholpur.ac.in](https://www.ecdholpur.ac.in) |
+| **998** | Raj Engineering College (Jodhpur) | Private | Jodhpur, Rajasthan - 342027 | [rajengg.org](https://rajengg.org) |
+| **999** | Government Polytechnic College Kelwara (Baran) | Public/Government | Baran, Rajasthan - 325216 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpckelwara) |
+| **1000** | Government Engineering College Baran (GEC Baran) | Public/Government | Baran, Rajasthan - 325206 | [gecbaran.ac.in](https://gecbaran.ac.in) |
+| **1001** | Keystone Group of Institutions (Surajgarh, Jhunjhunu) | Private | Jhunjhunu, Rajasthan - 333031 | [keystonegroup.edu.in](https://keystonegroup.edu.in) |
 
