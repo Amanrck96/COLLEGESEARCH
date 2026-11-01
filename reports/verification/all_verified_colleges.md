@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **500 / 12,660**  
-**Roadmap Progress**: **50.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **510 / 12,660**  
+**Roadmap Progress**: **51.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -759,4 +759,19 @@
 | **64** | International Institute of Technology & Management (IITM Murthal) | Private (Self-Financed Technical Institute) | Sonipat - 131039, Haryana | [www.iitm.ac.in](https://www.iitm.ac.in) |
 | **65** | Barrister Ranjit Mohanty International Institute of Technology (BRMIIT Bhubaneswar) | Private (Engineering College) | Bhubaneswar - 751010, Odisha | [brmiit.ac.in](https://brmiit.ac.in) |
 | **66** | Indian Institute of Management and Science (IIMS Bhubaneswar / Khordha) | Private (Management & IT Institute) | Khordha - 752054, Odisha | [iimats.com](https://iimats.com) |
+
+### Batch 51 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **67** | Sine International Institute of Technology (SIIT Jaipur) | Private (Engineering College) | Jaipur - 302029, Rajasthan | [siitjaipur.org](https://siitjaipur.org) |
+| **68** | SR International Institute of Technology (SRIIT Hyderabad) | Private (Engineering College) | Hyderabad - 501301, Telangana | [sriit.ac.in](https://sriit.ac.in) |
+| **69** | Indian Institute of Management and Commerce (IIMC Hyderabad) | Private (Autonomous Degree College) | Hyderabad - 500004, Telangana | [www.iimchyderabad.com](https://www.iimchyderabad.com) |
+| **70** | Meerut International Institute of Technology (MIIT Meerut) | Private (Technical Institute) | Meerut - 250005, Uttar Pradesh | [miitmeerut.com](https://miitmeerut.com) |
+| **71** | Nagpur Institute of Technology Polytechnic (NIT Polytechnic Nagpur) | Private (Polytechnic College) | Nagpur - 441501, Maharashtra | [www.nitpolytechnic.edu.in](https://www.nitpolytechnic.edu.in) |
+| **72** | Nagpur Institute of Technology Graduate School of Management (NIT GSM Nagpur) | Private (Management Institute) | Nagpur - 441501, Maharashtra | [www.nit.edu.in](https://www.nit.edu.in) |
+| **73** | Indian Institute of Management Mumbai (IIM Mumbai) | Institute of National Importance | Mumbai - 400087, Maharashtra | [iimmumbai.ac.in](https://iimmumbai.ac.in) |
+| **74** | National Institute of Technology Calicut (NIT Calicut) | Institute of National Importance | Kozhikode - 673601, Kerala | [www.nitc.ac.in](https://www.nitc.ac.in) |
+| **75** | Indian Institute of Technology Kharagpur (IIT Kharagpur) | Institute of National Importance | Paschim Medinipur District, West Bengal | [www.iitkgp.ac.in](https://www.iitkgp.ac.in) |
+| **76** | Indian Institute of Management Kozhikode (IIM Kozhikode) | Institute of National Importance | Kozhikode - 673570, Kerala | [www.iimk.ac.in](https://www.iimk.ac.in) |
 

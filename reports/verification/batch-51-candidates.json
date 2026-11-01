@@ -1,0 +1,192 @@
+[
+  {
+    "id": 67,
+    "name": "SINE INTERNATIONAL INSTITUTE OF TECHNOLOGY",
+    "address": "BALAWALA- LAKHNA ROAD, VIA SANGANER BAZAR",
+    "state": "Rajasthan",
+    "img": "https://img.jagranjosh.com/images/2024/February/722024/Campus0.jpg",
+    "website": "https://siitjaipur.org",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "SR INTERNATIONAL INSTITUTE OF TECHNOLOGY",
+    "address": "VILLAGE: RAMPALLY DAYARA, MANDAL: KEESARA, RANGA REDDY DIST. AP.",
+    "state": "Telangana",
+    "img": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://sriit.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "INDIAN INSTITUTE OF MANAGEMENT AND COMMERCE",
+    "address": "6-1-91, ADJ. TO TELEPHONE BHAVAN, KHAIRATABAD",
+    "state": "Telangana",
+    "img": "/images/campuses/bunts_sangha_mumbai.jpeg",
+    "website": "https://www.indianinstitute.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "MEERUT INTERNATIONAL INSTITUTE OF TECHNOLOGY",
+    "address": "GHAT ROAD NEAR SUBHARTI MEDICAL COLLEGE N.H. 58 (PARTAPUR BYE PASS)",
+    "state": "Uttar Pradesh",
+    "img": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://miitmeerut.com",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "NIT POLYTECHNIC",
+    "address": "SURVEY NO. 13/2, MAHURZARI, NEAR FETRI, KATOL ROAD, NAGPUR",
+    "state": "Maharashtra",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.nitpolytechnic.edu.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "NIT GRADUATE SCHOOL OF MANAGEMENT",
+    "address": "SURVEY NO. 13/2, MAHURZARI, KATOL ROAD, NAGPUR",
+    "state": "Maharashtra",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1478863322NIT1.jpg",
+    "website": "https://www.nitgraduatescho.edu.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Indian Institute of Management Mumbai",
+    "address": "Vihar Lake Rd, near The Residence Hotel, Powai",
+    "state": "Maharashtra",
+    "img": "/images/campuses/weschool_matunga.jpeg",
+    "website": "https://iimmumbai.ac.in/",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "NIT Calicut",
+    "address": "NIT Calicut Campus- Kozhikode, India",
+    "state": "Kerala",
+    "img": "https://nitc.ac.in/xc-assets/images/header/header-facilities.webp",
+    "website": "https://www.nitc.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
+    "address": "Indian Institute of Technology, Kharagpur",
+    "state": "West Bengal",
+    "img": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.iitkgp.ac.in",
+    "type": "Institute of National Importance",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "IIM Kozhikode",
+    "address": "Indian Institute of Management Kozhikode Campus",
+    "state": "Kerala",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/25641_IIM_New.jpg",
+    "website": "https://www.iimk.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  }
+]

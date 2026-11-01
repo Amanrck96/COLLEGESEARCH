@@ -3748,5 +3748,80 @@
         "website": "https://iimats.com"
       }
     ]
+  },
+  {
+    "batch": 51,
+    "items": [
+      {
+        "id": 67,
+        "name": "Sine International Institute of Technology (SIIT Jaipur)",
+        "type": "Private (Engineering College)",
+        "location": "Jaipur - 302029, Rajasthan",
+        "website": "https://siitjaipur.org"
+      },
+      {
+        "id": 68,
+        "name": "SR International Institute of Technology (SRIIT Hyderabad)",
+        "type": "Private (Engineering College)",
+        "location": "Hyderabad - 501301, Telangana",
+        "website": "https://sriit.ac.in"
+      },
+      {
+        "id": 69,
+        "name": "Indian Institute of Management and Commerce (IIMC Hyderabad)",
+        "type": "Private (Autonomous Degree College)",
+        "location": "Hyderabad - 500004, Telangana",
+        "website": "https://www.iimchyderabad.com"
+      },
+      {
+        "id": 70,
+        "name": "Meerut International Institute of Technology (MIIT Meerut)",
+        "type": "Private (Technical Institute)",
+        "location": "Meerut - 250005, Uttar Pradesh",
+        "website": "https://miitmeerut.com"
+      },
+      {
+        "id": 71,
+        "name": "Nagpur Institute of Technology Polytechnic (NIT Polytechnic Nagpur)",
+        "type": "Private (Polytechnic College)",
+        "location": "Nagpur - 441501, Maharashtra",
+        "website": "https://www.nitpolytechnic.edu.in"
+      },
+      {
+        "id": 72,
+        "name": "Nagpur Institute of Technology Graduate School of Management (NIT GSM Nagpur)",
+        "type": "Private (Management Institute)",
+        "location": "Nagpur - 441501, Maharashtra",
+        "website": "https://www.nit.edu.in"
+      },
+      {
+        "id": 73,
+        "name": "Indian Institute of Management Mumbai (IIM Mumbai)",
+        "type": "Institute of National Importance",
+        "location": "Mumbai - 400087, Maharashtra",
+        "website": "https://iimmumbai.ac.in"
+      },
+      {
+        "id": 74,
+        "name": "National Institute of Technology Calicut (NIT Calicut)",
+        "type": "Institute of National Importance",
+        "location": "Kozhikode - 673601, Kerala",
+        "website": "https://www.nitc.ac.in"
+      },
+      {
+        "id": 75,
+        "name": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
+        "type": "Institute of National Importance",
+        "location": "Paschim Medinipur District, West Bengal",
+        "website": "https://www.iitkgp.ac.in"
+      },
+      {
+        "id": 76,
+        "name": "Indian Institute of Management Kozhikode (IIM Kozhikode)",
+        "type": "Institute of National Importance",
+        "location": "Kozhikode - 673570, Kerala",
+        "website": "https://www.iimk.ac.in"
+      }
+    ]
   }
 ]
