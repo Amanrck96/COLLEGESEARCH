@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1240 / 12,660**  
-**Roadmap Progress**: **124.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1250 / 12,660**  
+**Roadmap Progress**: **125.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1869,4 +1869,19 @@
 | **907** | Shri Sanatan Dharam Institute of Pharmacy & Medical Technology (SSDIPMT Jhajjar) | Private | Jhajjar, Haryana - 124103 | [ssdipmt.org](https://ssdipmt.org) |
 | **908** | SD Shanti Niketan Institute of Engineering & Technology (Ladwa Hisar) | Private | Hisar, Haryana - 125005 | [www.snladwa.org](https://www.snladwa.org) |
 | **909** | Government Polytechnic for Women, Sirsa | Public/Government | Sirsa, Haryana - 125055 | [gpwsirsa.edu.in](https://gpwsirsa.edu.in) |
+
+### Batch 125 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **910** | South Point School of Polytechnic (Sonipat) | Private | Sonipat, Haryana - 131001 | [www.southpoint.org.in](https://www.southpoint.org.in) |
+| **911** | Modish Institute of Polytechnic (Punhana Mewat) | Private | District Nuh (Mewat), Haryana - 122508 | [mip.modishgroup.org](https://mip.modishgroup.org) |
+| **912** | International Institute of Engineering & Technology (IIET Kurukshetra) | Private | Kurukshetra, Haryana - 136118 | [iiet.co.in](https://iiet.co.in) |
+| **913** | Shree Ram Institute of Technical Education (Barwala Panchkula) | Private | Panchkula, Haryana - 134118 | [www.shreeram.edu.in](https://www.shreeram.edu.in) |
+| **914** | Government Polytechnic Education Society Uttawar (Palwal) | Public/Government | Palwal, Haryana - 121103 | [gputtawar.ac.in](https://gputtawar.ac.in) |
+| **915** | DPG Institute of Technology and Management (DPGITM Gurugram) | Private | Gurugram, Haryana - 122001 | [www.dpgitm.ac.in](https://www.dpgitm.ac.in) |
+| **916** | Ambala College of Engineering & Applied Research (ACE Ambala) | Private | Ambala, Haryana - 133101 | [www.ambalacollege.com](https://www.ambalacollege.com) |
+| **917** | Lala Birkha Ram College of Pharmacy (Barwala Panchkula) | Private | Panchkula, Haryana - 134118 | [www.lbrpharmacycollege.com](https://www.lbrpharmacycollege.com) |
+| **918** | Government Post Graduate College, Sector-9, Gurgaon | Public/Government | Gurugram, Haryana - 122001 | [gcsector9gurugram.ac.in](https://gcsector9gurugram.ac.in) |
+| **919** | GVN Polytechnic College, Deeghot Palwal | Private | Palwal, Haryana - 121105 | [www.gvnpolytechnic.com](https://www.gvnpolytechnic.com) |
 

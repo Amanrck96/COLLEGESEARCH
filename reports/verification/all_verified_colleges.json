@@ -9298,5 +9298,80 @@
         "website": "https://gpwsirsa.edu.in"
       }
     ]
+  },
+  {
+    "batch": 125,
+    "items": [
+      {
+        "id": 910,
+        "name": "South Point School of Polytechnic (Sonipat)",
+        "type": "Private",
+        "location": "Sonipat, Haryana - 131001",
+        "website": "https://www.southpoint.org.in"
+      },
+      {
+        "id": 911,
+        "name": "Modish Institute of Polytechnic (Punhana Mewat)",
+        "type": "Private",
+        "location": "District Nuh (Mewat), Haryana - 122508",
+        "website": "https://mip.modishgroup.org"
+      },
+      {
+        "id": 912,
+        "name": "International Institute of Engineering & Technology (IIET Kurukshetra)",
+        "type": "Private",
+        "location": "Kurukshetra, Haryana - 136118",
+        "website": "https://iiet.co.in"
+      },
+      {
+        "id": 913,
+        "name": "Shree Ram Institute of Technical Education (Barwala Panchkula)",
+        "type": "Private",
+        "location": "Panchkula, Haryana - 134118",
+        "website": "https://www.shreeram.edu.in"
+      },
+      {
+        "id": 914,
+        "name": "Government Polytechnic Education Society Uttawar (Palwal)",
+        "type": "Public/Government",
+        "location": "Palwal, Haryana - 121103",
+        "website": "https://gputtawar.ac.in"
+      },
+      {
+        "id": 915,
+        "name": "DPG Institute of Technology and Management (DPGITM Gurugram)",
+        "type": "Private",
+        "location": "Gurugram, Haryana - 122001",
+        "website": "https://www.dpgitm.ac.in"
+      },
+      {
+        "id": 916,
+        "name": "Ambala College of Engineering & Applied Research (ACE Ambala)",
+        "type": "Private",
+        "location": "Ambala, Haryana - 133101",
+        "website": "https://www.ambalacollege.com"
+      },
+      {
+        "id": 917,
+        "name": "Lala Birkha Ram College of Pharmacy (Barwala Panchkula)",
+        "type": "Private",
+        "location": "Panchkula, Haryana - 134118",
+        "website": "https://www.lbrpharmacycollege.com"
+      },
+      {
+        "id": 918,
+        "name": "Government Post Graduate College, Sector-9, Gurgaon",
+        "type": "Public/Government",
+        "location": "Gurugram, Haryana - 122001",
+        "website": "https://gcsector9gurugram.ac.in"
+      },
+      {
+        "id": 919,
+        "name": "GVN Polytechnic College, Deeghot Palwal",
+        "type": "Private",
+        "location": "Palwal, Haryana - 121105",
+        "website": "https://www.gvnpolytechnic.com"
+      }
+    ]
   }
 ]
