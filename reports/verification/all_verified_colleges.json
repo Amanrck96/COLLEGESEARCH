@@ -6823,5 +6823,80 @@
         "website": "http://gpcm.co.in"
       }
     ]
+  },
+  {
+    "batch": 92,
+    "items": [
+      {
+        "id": 526,
+        "name": "National Institute of Technical Teachers' Training & Research, Kolkata (NITTTR Kolkata)",
+        "type": "Public/Government",
+        "location": "SECTOR - III, SALTLAKE CITY",
+        "website": "https://www.nitttrkol.ac.in"
+      },
+      {
+        "id": 527,
+        "name": "Jnan Chandra Ghosh Polytechnic (JCGP Kolkata)",
+        "type": "Public/Government",
+        "location": "7, MAYURBHANJ ROAD KOLKATA - 23 WEST BENGAL",
+        "website": "http://jcgpolytechnic.in"
+      },
+      {
+        "id": 528,
+        "name": "Luthfaa Polytechnic Institute (LPI Durgapur)",
+        "type": "Private",
+        "location": "P.S: KANKSA, DURGAPUR",
+        "website": "https://lpi.ac.in"
+      },
+      {
+        "id": 529,
+        "name": "Falakata Polytechnic",
+        "type": "Public/Government",
+        "location": "BAGANBARI",
+        "website": "http://www.falakatapolytechnic.in"
+      },
+      {
+        "id": 530,
+        "name": "Malda Polytechnic",
+        "type": "Public/Government",
+        "location": "P.O-MALIHA,DIST-MALDA.",
+        "website": "https://polytechnic.wbtetsd.gov.in/maldapoly"
+      },
+      {
+        "id": 531,
+        "name": "Islampur Government Polytechnic",
+        "type": "Public/Government",
+        "location": "UTTAR DINAJPUR,WEST BENGAL 733207",
+        "website": "https://polytechnic.wbtetsd.gov.in/islampurgovpoly"
+      },
+      {
+        "id": 532,
+        "name": "Asansol Institute of Engineering and Management - Polytechnic (AIEM-P Asansol)",
+        "type": "Private",
+        "location": "BAGBANDI ROAD, NEAR RADHYASWAMI SATSANG",
+        "website": "https://aiemp.in"
+      },
+      {
+        "id": 533,
+        "name": "Department of Jute & Fibre Technology, University of Calcutta (DJFT CU Kolkata)",
+        "type": "Public/Government",
+        "location": "BALLYGUNGE CIRCULAR ROAD, KOLKATA-700019",
+        "website": "http://www.ijtindia.org"
+      },
+      {
+        "id": 534,
+        "name": "Jakir Hossain Institute of Polytechnic (JHIP Murshidabad)",
+        "type": "Private",
+        "location": "DIST- MURSHIDABAD, PIN- 742224",
+        "website": "https://www.jhiop.in"
+      },
+      {
+        "id": 535,
+        "name": "The New Horizons Institute of Technology (NHIT Durgapur)",
+        "type": "Private",
+        "location": "NEAR GANDHI MORE, CITY CENTRE",
+        "website": "https://nhit.in"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **910 / 12,660**  
-**Roadmap Progress**: **91.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **920 / 12,660**  
+**Roadmap Progress**: **92.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1374,4 +1374,19 @@
 | **523** | Central Tool Room & Training Centre (CTTC Kolkata) | Public/Government | BONHOOGHLY INDUSTRIAL AREA | [msmetoolroomkolkata.com](https://msmetoolroomkolkata.com) |
 | **524** | Institute of Advanced Management (IAM Kolkata) | Private | AN 1 SECTOR V, SALT LAKE KOLKATA 102 | [iam.ac.in](https://iam.ac.in) |
 | **525** | Gobindapur Polytechnic College | Private | DUMKAL, MURSHIDABAD | [gpcm.co.in](http://gpcm.co.in) |
+
+### Batch 92 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **526** | National Institute of Technical Teachers' Training & Research, Kolkata (NITTTR Kolkata) | Public/Government | SECTOR - III, SALTLAKE CITY | [www.nitttrkol.ac.in](https://www.nitttrkol.ac.in) |
+| **527** | Jnan Chandra Ghosh Polytechnic (JCGP Kolkata) | Public/Government | 7, MAYURBHANJ ROAD KOLKATA - 23 WEST BENGAL | [jcgpolytechnic.in](http://jcgpolytechnic.in) |
+| **528** | Luthfaa Polytechnic Institute (LPI Durgapur) | Private | P.S: KANKSA, DURGAPUR | [lpi.ac.in](https://lpi.ac.in) |
+| **529** | Falakata Polytechnic | Public/Government | BAGANBARI | [www.falakatapolytechnic.in](http://www.falakatapolytechnic.in) |
+| **530** | Malda Polytechnic | Public/Government | P.O-MALIHA,DIST-MALDA. | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/maldapoly) |
+| **531** | Islampur Government Polytechnic | Public/Government | UTTAR DINAJPUR,WEST BENGAL 733207 | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/islampurgovpoly) |
+| **532** | Asansol Institute of Engineering and Management - Polytechnic (AIEM-P Asansol) | Private | BAGBANDI ROAD, NEAR RADHYASWAMI SATSANG | [aiemp.in](https://aiemp.in) |
+| **533** | Department of Jute & Fibre Technology, University of Calcutta (DJFT CU Kolkata) | Public/Government | BALLYGUNGE CIRCULAR ROAD, KOLKATA-700019 | [www.ijtindia.org](http://www.ijtindia.org) |
+| **534** | Jakir Hossain Institute of Polytechnic (JHIP Murshidabad) | Private | DIST- MURSHIDABAD, PIN- 742224 | [www.jhiop.in](https://www.jhiop.in) |
+| **535** | The New Horizons Institute of Technology (NHIT Durgapur) | Private | NEAR GANDHI MORE, CITY CENTRE | [nhit.in](https://nhit.in) |
 

@@ -44329,16 +44329,16 @@
     },
     {
       "id": 526,
-      "name": "NATIONAL INSTITUTE OF TECHNICAL TEACHERS' TRAINING & RESEARCH, KOLKATA",
+      "name": "National Institute of Technical Teachers' Training & Research, Kolkata (NITTTR Kolkata)",
       "shortName": "Course Institute-1",
       "location": "NORTH 24 PARGANAS",
       "state": "West Bengal",
       "address": "BLOCK - FC, SECTOR - III, SALTLAKE CITY",
-      "phone": "0123-456789",
-      "website": "https://www.nationalinstitu.edu.in",
-      "rating": 4.5,
+      "phone": "033-23370479",
+      "website": "https://www.nitttrkol.ac.in",
+      "rating": 4.6,
       "reviews": 91,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to NATIONAL INSTITUTE OF TECHNICAL TEACHERS' TRAINING & RESEARCH, KOLKATA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 11,
       "facebook": "#",
@@ -44356,12 +44356,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ADVANCED MANUFACTURING WITH PEDAGOGY",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "title": "M.Tech in Manufacturing Technology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "B.Tech in Mechanical / Production + GATE",
+          "exams": "GATE",
+          "intake": "30"
+        },
+        {
+          "title": "M.Tech in Multimedia & Software Systems",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "B.Tech in CSE / IT / ECE + GATE",
+          "exams": "GATE",
+          "intake": "30"
+        },
+        {
+          "title": "M.Tech in Mechatronics Engineering",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "B.Tech in Mech / EEE / ECE + GATE",
+          "exams": "GATE",
+          "intake": "30"
+        },
+        {
+          "title": "Ph.D. in Engineering / Technology",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "Master's in Engineering with NET / GATE",
+          "exams": "NET, GATE",
+          "intake": "20"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44379,20 +44407,22 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/national-institute-of-technical-teachers-training-research-kolkata-316314.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20TECHNICAL%20TEACHERS'%20TRAINING%20%26%20RESEARCH%2C%20KOLKATA%20NORTH%2024%20PARGANAS%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20TECHNICAL%20TEACHERS'%20TRAINING%20%26%20RESEARCH%2C%20KOLKATA%20NORTH%2024%20PARGANAS%20West%20Bengal",
+      "city": "Kolkata",
+      "established": 1965
     },
     {
       "id": 527,
-      "name": "JNAN CHANDRA GHOSH POLYTECHNIC",
+      "name": "Jnan Chandra Ghosh Polytechnic (JCGP Kolkata)",
       "shortName": "Course Institute-1",
       "location": "KOLKATA",
       "state": "West Bengal",
       "address": "7, MAYURBHANJ ROAD KOLKATA - 23 WEST BENGAL",
-      "phone": "0123-456789",
-      "website": "https://www.jnanchandraghos.edu.in",
-      "rating": 4.5,
+      "phone": "033-24496015",
+      "website": "http://jcgpolytechnic.in",
+      "rating": 4.3,
       "reviews": 171,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to JNAN CHANDRA GHOSH POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 16,
       "facebook": "#",
@@ -44410,12 +44440,49 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electronics & Telecommunication",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Pharmacy (D.Pharm)",
+          "division": "Diploma",
+          "duration": "2 Years",
+          "fees": "₹2,500/Year",
+          "eligibility": "10+2 with Science (PCB/PCM)",
+          "exams": "State Pharmacy Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44433,18 +44500,20 @@
       ],
       "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1596109828jcg1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JNAN%20CHANDRA%20GHOSH%20POLYTECHNIC%20KOLKATA%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JNAN%20CHANDRA%20GHOSH%20POLYTECHNIC%20KOLKATA%20West%20Bengal",
+      "city": "Kolkata",
+      "established": 1959
     },
     {
       "id": 528,
-      "name": "LUTHFAA POLYTECHNIC INSTITUTE",
+      "name": "Luthfaa Polytechnic Institute (LPI Durgapur)",
       "shortName": "Course Institute-1",
       "location": "BARDHAMAN",
       "state": "West Bengal",
       "address": "P.O: MOLANDIGHI, P.S: KANKSA, DURGAPUR",
-      "phone": "0123-456789",
-      "website": "https://www.luthfaapolytech.edu.in",
-      "rating": 4.5,
+      "phone": "081700-61232",
+      "website": "https://lpi.ac.in",
+      "rating": 4.1,
       "reviews": 191,
       "type": "Private",
       "about": "Welcome to LUTHFAA POLYTECHNIC INSTITUTE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -44464,12 +44533,49 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mining Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Computer Science & Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44487,20 +44593,22 @@
       ],
       "image": "https://assets.kollegeapply.com/images/1751546276643-1533637265phpj73Hoe.jpeg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LUTHFAA%20POLYTECHNIC%20INSTITUTE%20BARDHAMAN%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LUTHFAA%20POLYTECHNIC%20INSTITUTE%20BARDHAMAN%20West%20Bengal",
+      "city": "Paschim Bardhaman",
+      "established": 2012
     },
     {
       "id": 529,
-      "name": "FALAKATA POLYTECHNIC",
+      "name": "Falakata Polytechnic",
       "shortName": "Course Institute-1",
       "location": "JALPAIGURI",
       "state": "West Bengal",
       "address": "BAGANBARI",
-      "phone": "0123-456789",
-      "website": "https://www.falakatapolytec.edu.in",
-      "rating": 4.5,
+      "phone": "03563-260642",
+      "website": "http://www.falakatapolytechnic.in",
+      "rating": 4.2,
       "reviews": 317,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to FALAKATA POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 68,
       "facebook": "#",
@@ -44518,12 +44626,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electronics & Telecommunication",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44541,20 +44677,22 @@
       ],
       "image": "https://media.getmyuni.com/azure/college-images-test/falakata-college-jalpaiguri/606fb21d08504de5ba4b8c5d48911a63.jpeg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=FALAKATA%20POLYTECHNIC%20JALPAIGURI%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=FALAKATA%20POLYTECHNIC%20JALPAIGURI%20West%20Bengal",
+      "city": "Alipurduar",
+      "established": 2001
     },
     {
       "id": 530,
-      "name": "MALDA POLYTECHNIC",
+      "name": "Malda Polytechnic",
       "shortName": "Course Institute-1",
       "location": "MALDA",
       "state": "West Bengal",
       "address": "P.O-MALIHA,DIST-MALDA.",
-      "phone": "0123-456789",
-      "website": "https://www.maldapolytechni.edu.in",
-      "rating": 4.5,
+      "phone": "03512-266434",
+      "website": "https://polytechnic.wbtetsd.gov.in/maldapoly",
+      "rating": 4.4,
       "reviews": 426,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to MALDA POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 63,
       "facebook": "#",
@@ -44572,12 +44710,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Automobile Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44593,23 +44759,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/saraswati_kharghar.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MALDA%20POLYTECHNIC%20MALDA%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Malda",
+      "established": 1962
     },
     {
       "id": 531,
-      "name": "ISLAMPUR GOVERNMENT POLYTECHNIC",
+      "name": "Islampur Government Polytechnic",
       "shortName": "Course Institute-1",
       "location": "UTTER DINAJPUR",
       "state": "West Bengal",
       "address": "BARHAT,ISLAMPUR,UTTAR DINAJPUR,WEST BENGAL 733207",
-      "phone": "0123-456789",
-      "website": "https://www.islampurgovernm.edu.in",
-      "rating": 4.5,
+      "phone": "03526-256171",
+      "website": "https://polytechnic.wbtetsd.gov.in/islampurgovpoly",
+      "rating": 4.1,
       "reviews": 351,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to ISLAMPUR GOVERNMENT POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 60,
       "facebook": "#",
@@ -44627,12 +44795,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44650,18 +44837,20 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Islampur_Government_Polytechnic_1.jpg/500px-Islampur_Government_Polytechnic_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ISLAMPUR%20GOVERNMENT%20POLYTECHNIC%20UTTER%20DINAJPUR%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ISLAMPUR%20GOVERNMENT%20POLYTECHNIC%20UTTER%20DINAJPUR%20West%20Bengal",
+      "city": "Uttar Dinajpur",
+      "established": 2019
     },
     {
       "id": 532,
-      "name": "ASANSOL INSTITUTE OF ENGINEERING AND MANAGEMENT - POLYTECHNIC",
+      "name": "Asansol Institute of Engineering and Management - Polytechnic (AIEM-P Asansol)",
       "shortName": "Course Institute-1",
       "location": "BARDHAMAN",
       "state": "West Bengal",
       "address": "BAGBANDI ROAD, NEAR RADHYASWAMI SATSANG",
-      "phone": "0123-456789",
-      "website": "https://aiem.edu.in",
-      "rating": 4.5,
+      "phone": "0341-2270030",
+      "website": "https://aiemp.in",
+      "rating": 4.1,
       "reviews": 382,
       "type": "Private",
       "about": "Welcome to ASANSOL INSTITUTE OF ENGINEERING AND MANAGEMENT - POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -44681,12 +44870,49 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Computer Science & Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mining Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44704,20 +44930,22 @@
       ],
       "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1597927939CampusViewofAsansolInstituteofEngineeringandManagementAsansolCampusView.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASANSOL%20INSTITUTE%20OF%20ENGINEERING%20AND%20MANAGEMENT%20-%20POLYTECHNIC%20BARDHAMAN%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASANSOL%20INSTITUTE%20OF%20ENGINEERING%20AND%20MANAGEMENT%20-%20POLYTECHNIC%20BARDHAMAN%20West%20Bengal",
+      "city": "Paschim Bardhaman",
+      "established": 2014
     },
     {
       "id": 533,
-      "name": "DEPARTMENT OF JUTE & FIBRE TECHNOLOGY,INSTITUTE OF JUTE TECHNOLOGY,UNIVERSITY OF CALCUTTA",
+      "name": "Department of Jute & Fibre Technology, University of Calcutta (DJFT CU Kolkata)",
       "shortName": "Course Institute-1",
       "location": "KOLKATA",
       "state": "West Bengal",
       "address": "35, BALLYGUNGE CIRCULAR ROAD, KOLKATA-700019",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofjut.edu.in",
+      "phone": "033-24751985",
+      "website": "http://www.ijtindia.org",
       "rating": 4.5,
       "reviews": 216,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to DEPARTMENT OF JUTE & FIBRE TECHNOLOGY,INSTITUTE OF JUTE TECHNOLOGY,UNIVERSITY OF CALCUTTA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 78,
       "facebook": "#",
@@ -44735,12 +44963,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "TEXTILE TECHNOLOGY",
+          "title": "B.Tech in Jute and Fibre Technology",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 5
+          "fees": "₹24,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE / JEE Main",
+          "exams": "WBJEE, JEE Main",
+          "intake": "60"
+        },
+        {
+          "title": "M.Tech in Textile Technology (Technical Textiles)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "B.Tech in Textile / Fibre Tech + GATE / CU Entrance",
+          "exams": "GATE",
+          "intake": "18"
+        },
+        {
+          "title": "Post Graduate Diploma in Jute Technology & Management (PGDJTM)",
+          "division": "Postgraduate Diploma",
+          "duration": "1 Year",
+          "fees": "₹25,000/Year",
+          "eligibility": "B.Sc with Chemistry / Physics or B.Tech",
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44758,18 +45005,20 @@
       ],
       "image": "https://media.getmyuni.com/azure/college-images-test/institute-of-jute-technology-kolkata/bb58d1d6de814d5fa628ae0aa91a158f.png",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20JUTE%20%26%20FIBRE%20TECHNOLOGY%2CINSTITUTE%20OF%20JUTE%20TECHNOLOGY%2CUNIVERSITY%20OF%20CALCUTTA%20KOLKATA%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20JUTE%20%26%20FIBRE%20TECHNOLOGY%2CINSTITUTE%20OF%20JUTE%20TECHNOLOGY%2CUNIVERSITY%20OF%20CALCUTTA%20KOLKATA%20West%20Bengal",
+      "city": "Kolkata",
+      "established": 1951
     },
     {
       "id": 534,
-      "name": "JAKIR HOSSAIN INSTITUTE OF POLYTECHNIC",
+      "name": "Jakir Hossain Institute of Polytechnic (JHIP Murshidabad)",
       "shortName": "Course Institute-1",
       "location": "MURSHIDABAD",
       "state": "West Bengal",
       "address": "VILL-HAPANIA, PO- DAFAHAT, PS- SUTI, DIST- MURSHIDABAD, PIN- 742224",
-      "phone": "0123-456789",
-      "website": "https://www.jakirhossainins.edu.in",
-      "rating": 4.5,
+      "phone": "03485-263921",
+      "website": "https://www.jhiop.in",
+      "rating": 3.9,
       "reviews": 468,
       "type": "Private",
       "about": "Welcome to JAKIR HOSSAIN INSTITUTE OF POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -44789,12 +45038,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Computer Science & Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44813,18 +45090,20 @@
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAKIR%20HOSSAIN%20INSTITUTE%20OF%20POLYTECHNIC%20MURSHIDABAD%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Murshidabad",
+      "established": 2014
     },
     {
       "id": 535,
-      "name": "THE NEW HORIZONS INSTITUTE OF TECHNOLOGY",
+      "name": "The New Horizons Institute of Technology (NHIT Durgapur)",
       "shortName": "Course Institute-1",
       "location": "BARDHAMAN",
       "state": "West Bengal",
       "address": "PHASE II, SOUTH G.T. ROAD, NEAR GANDHI MORE, CITY CENTRE",
-      "phone": "0123-456789",
-      "website": "https://www.thenewhorizonsi.edu.in",
-      "rating": 4.5,
+      "phone": "0343-2550100",
+      "website": "https://nhit.in",
+      "rating": 4.2,
       "reviews": 168,
       "type": "Private",
       "about": "Welcome to THE NEW HORIZONS INSTITUTE OF TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -44844,12 +45123,49 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Computer Science & Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Automobile Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -44867,7 +45183,9 @@
       ],
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE%20NEW%20HORIZONS%20INSTITUTE%20OF%20TECHNOLOGY%20BARDHAMAN%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE%20NEW%20HORIZONS%20INSTITUTE%20OF%20TECHNOLOGY%20BARDHAMAN%20West%20Bengal",
+      "city": "Paschim Bardhaman",
+      "established": 2007
     },
     {
       "id": 536,

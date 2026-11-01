@@ -1,0 +1,122 @@
+[
+  {
+    "id": 526,
+    "name": "NATIONAL INSTITUTE OF TECHNICAL TEACHERS' TRAINING & RESEARCH, KOLKATA",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/national-institute-of-technical-teachers-training-research-kolkata-316314.webp",
+    "website": "https://www.nationalinstitu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 527,
+    "name": "JNAN CHANDRA GHOSH POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1596109828jcg1.jpg",
+    "website": "https://www.jnanchandraghos.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 528,
+    "name": "LUTHFAA POLYTECHNIC INSTITUTE",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://assets.kollegeapply.com/images/1751546276643-1533637265phpj73Hoe.jpeg",
+    "website": "https://www.luthfaapolytech.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 529,
+    "name": "FALAKATA POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://media.getmyuni.com/azure/college-images-test/falakata-college-jalpaiguri/606fb21d08504de5ba4b8c5d48911a63.jpeg",
+    "website": "https://www.falakatapolytec.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 530,
+    "name": "MALDA POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.maldapolytechni.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 531,
+    "name": "ISLAMPUR GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Islampur_Government_Polytechnic_1.jpg/500px-Islampur_Government_Polytechnic_1.jpg",
+    "website": "https://www.islampurgovernm.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 532,
+    "name": "ASANSOL INSTITUTE OF ENGINEERING AND MANAGEMENT - POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1597927939CampusViewofAsansolInstituteofEngineeringandManagementAsansolCampusView.jpg",
+    "website": "https://aiem.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 533,
+    "name": "DEPARTMENT OF JUTE & FIBRE TECHNOLOGY,INSTITUTE OF JUTE TECHNOLOGY,UNIVERSITY OF CALCUTTA",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://media.getmyuni.com/azure/college-images-test/institute-of-jute-technology-kolkata/bb58d1d6de814d5fa628ae0aa91a158f.png",
+    "website": "https://www.departmentofjut.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 534,
+    "name": "JAKIR HOSSAIN INSTITUTE OF POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.jakirhossainins.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 535,
+    "name": "THE NEW HORIZONS INSTITUTE OF TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.thenewhorizonsi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]
