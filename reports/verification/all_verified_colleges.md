@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1410 / 12,660**  
-**Roadmap Progress**: **141.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1420 / 12,660**  
+**Roadmap Progress**: **142.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2124,4 +2124,19 @@
 | **1082** | PSG College of Arts and Science (PSGCAS Coimbatore) | Public/Government | Coimbatore, Tamil Nadu - 641014 | [www.psgcas.ac.in](https://www.psgcas.ac.in) |
 | **1083** | Galgotias Institute of Management and Technology | Private | Gautam Buddha Nagar, Uttar Pradesh - 201306 | [www.galgotias.edu.in](https://www.galgotias.edu.in) |
 | **1084** | Dr. Vishwanath Karad MIT World Peace University | Private | Pune, Maharashtra - 411038 | [mitwpu.edu.in](https://mitwpu.edu.in) |
+
+### Batch 142 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1085** | Parul University, Vadodara | Private | District Vadodara, Gujarat - 391760 | [paruluniversity.ac.in](https://paruluniversity.ac.in) |
+| **1086** | Jamnalal Bajaj Institute of Management Studies (JBIMS Mumbai) | Public/Government | Mumbai, Maharashtra - 400020 | [jbims.edu](https://jbims.edu) |
+| **1087** | Rajiv Gandhi Aviation Academy, Hyderabad | Private | Hyderabad, Telangana - 500011 | [www.wingsaviation.in](http://www.wingsaviation.in) |
+| **1088** | Lady Shri Ram College for Women, University of Delhi | Public/Government | New Delhi, Delhi - 110024 | [lsr.edu.in](https://lsr.edu.in) |
+| **1089** | Arena Animation, Borivali | Private | Mumbai, Maharashtra - 400092 | [www.arena-multimedia.com](https://www.arena-multimedia.com) |
+| **1090** | Christ University, Bangalore | Private | Bengaluru, Karnataka - 560029 | [christuniversity.in](https://christuniversity.in) |
+| **1091** | Chanakya College of Higher Studies, Patna | Private | Patna, Bihar - 801503 | [chanakyacollege.in](https://chanakyacollege.in) |
+| **1092** | Muzaffarpur College of Professional Education | Private | Muzaffarpur, Bihar - 842003 | [muzaffarpurcollege.com](https://muzaffarpurcollege.com) |
+| **1094** | MGM College, Patna | Private | Patna, Bihar - 800020 | [mgmcollegepatna.org](https://mgmcollegepatna.org) |
+| **1095** | Prabhu Kailash Institute of Management | Private | District Aurangabad, Bihar - 824143 | [pkim.edu.in](https://pkim.edu.in) |
 

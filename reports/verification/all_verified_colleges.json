@@ -10573,5 +10573,80 @@
         "website": "https://mitwpu.edu.in"
       }
     ]
+  },
+  {
+    "batch": 142,
+    "items": [
+      {
+        "id": 1085,
+        "name": "Parul University, Vadodara",
+        "type": "Private",
+        "location": "District Vadodara, Gujarat - 391760",
+        "website": "https://paruluniversity.ac.in"
+      },
+      {
+        "id": 1086,
+        "name": "Jamnalal Bajaj Institute of Management Studies (JBIMS Mumbai)",
+        "type": "Public/Government",
+        "location": "Mumbai, Maharashtra - 400020",
+        "website": "https://jbims.edu"
+      },
+      {
+        "id": 1087,
+        "name": "Rajiv Gandhi Aviation Academy, Hyderabad",
+        "type": "Private",
+        "location": "Hyderabad, Telangana - 500011",
+        "website": "http://www.wingsaviation.in"
+      },
+      {
+        "id": 1088,
+        "name": "Lady Shri Ram College for Women, University of Delhi",
+        "type": "Public/Government",
+        "location": "New Delhi, Delhi - 110024",
+        "website": "https://lsr.edu.in"
+      },
+      {
+        "id": 1089,
+        "name": "Arena Animation, Borivali",
+        "type": "Private",
+        "location": "Mumbai, Maharashtra - 400092",
+        "website": "https://www.arena-multimedia.com"
+      },
+      {
+        "id": 1090,
+        "name": "Christ University, Bangalore",
+        "type": "Private",
+        "location": "Bengaluru, Karnataka - 560029",
+        "website": "https://christuniversity.in"
+      },
+      {
+        "id": 1091,
+        "name": "Chanakya College of Higher Studies, Patna",
+        "type": "Private",
+        "location": "Patna, Bihar - 801503",
+        "website": "https://chanakyacollege.in"
+      },
+      {
+        "id": 1092,
+        "name": "Muzaffarpur College of Professional Education",
+        "type": "Private",
+        "location": "Muzaffarpur, Bihar - 842003",
+        "website": "https://muzaffarpurcollege.com"
+      },
+      {
+        "id": 1094,
+        "name": "MGM College, Patna",
+        "type": "Private",
+        "location": "Patna, Bihar - 800020",
+        "website": "https://mgmcollegepatna.org"
+      },
+      {
+        "id": 1095,
+        "name": "Prabhu Kailash Institute of Management",
+        "type": "Private",
+        "location": "District Aurangabad, Bihar - 824143",
+        "website": "https://pkim.edu.in"
+      }
+    ]
   }
 ]
