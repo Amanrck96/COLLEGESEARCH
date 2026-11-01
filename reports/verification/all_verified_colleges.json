@@ -28060,5 +28060,734 @@
     "image": "https://www.collegebatch.com/static/clg-gallery/seth-rcs-college-of-art-commerce-durg-341945.webp",
     "ownership": "Private",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=SETH%20R.%20C.%20S.%20ARTS%20AND%20COMMERCE%20COLLEGE%20DURG%20Chhattisgarh"
+  },
+  {
+    "id": 1917,
+    "name": "Bhilai Nair Samajam College, Bhilai",
+    "shortName": "BNS College Bhilai",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Street 7, Sector 8, Bhilai Nagar, Durg, Chhattisgarh - 490006",
+    "phone": "0788-2262400",
+    "website": "https://bnscollege.com",
+    "rating": 4.5,
+    "reviews": 191,
+    "type": "Private",
+    "about": "Bhilai Nair Samajam College (BNS College) Bhilai, managed by the Bhilai Nair Samajam, is an affiliated degree college under Hemchand Yadav Vishwavidyalaya, Durg, providing courses in computer applications, commerce, and science.",
+    "ranking": 33,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=BHILAI%20NAIR%20SAMAJAM%20COLLEGE%20DURG%20Chhattisgarh",
+    "fees": "₹25,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_1.jpg",
+    "gallery": [
+      "https://career.webindia123.com/career/institutes/aspupload/Uploads/chhattisgarh/23511/1_main.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
+    ],
+    "affiliation": "Hemchand Yadav Vishwavidyalaya, Durg (State University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹15,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Commerce / Science",
+        "type": "COMMERCE",
+        "intake": 120
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 191,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=BHILAI%20NAIR%20SAMAJAM%20COLLEGE%20DURG%20Chhattisgarh"
+  },
+  {
+    "id": 1918,
+    "name": "St. Vincent Pallotti College, Raipur",
+    "shortName": "Pallotti College Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Lodhi Para, Kapa, Raipur, Chhattisgarh - 492005",
+    "phone": "0771-2283334",
+    "website": "https://pallotticollege.com",
+    "rating": 4.5,
+    "reviews": 211,
+    "type": "Private",
+    "about": "St. Vincent Pallotti College Raipur, established in 1995 by the Pallottine Fathers, is a NAAC-accredited minority educational institution affiliated to Pt. Ravishankar Shukla University, offering education in IT, business, and pedagogy.",
+    "ranking": 99,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=ST.%20VINCENT%20PALLOTTI%20COLLEGE%20RAIPUR%20Chhattisgarh",
+    "fees": "₹35,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/atharva_complex_malad.jpg",
+    "gallery": [
+      "https://www.nagpurtoday.in/wp-content/uploads/2025/08/Building3.jpg_College-at-a-Glance-scaled.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (NAAC Accredited)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹38,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Education (B.Ed)",
+        "duration": "2 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "Graduation with 50% + Pre-B.Ed",
+        "type": "EDUCATION",
+        "intake": 100
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 211,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/atharva_complex_malad.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20VINCENT%20PALLOTTI%20COLLEGE%20RAIPUR%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+  },
+  {
+    "id": 1919,
+    "name": "Govt. Dr. Waman Wasudev Patankar Girls' PG College, Durg",
+    "shortName": "Govt Girls PG College Durg",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Beside Kendriya Vidyalaya, Jail Road, Durg, Chhattisgarh - 491001",
+    "phone": "0788-2323773",
+    "website": "https://www.govtgirlspgcollegedurg.com",
+    "rating": 4.5,
+    "reviews": 427,
+    "type": "Public/Government",
+    "about": "Government Dr. Waman Wasudev Patankar Girls' PG College Durg, established in 1982, is an autonomous premier women's postgraduate institution accredited with NAAC 'A' Grade, affiliated to Hemchand Yadav Vishwavidyalaya, Durg.",
+    "ranking": 52,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT.%20DR.%20WAMAN%20WASUDEV%20PATANKAR%20GIRLS'%20PG%20COLLEGE%20DURG%20DURG%20Chhattisgarh",
+    "fees": "₹1,850/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_6.jpg",
+    "gallery": [
+      "https://pbs.twimg.com/media/FgpGu7hUYAAU3KO?format=jpg&name=4096x4096",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
+    ],
+    "affiliation": "Hemchand Yadav Vishwavidyalaya, Durg (Autonomous NAAC 'A' Grade)",
+    "courses": [
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹5,500/Yr",
+        "eligibility": "10+2 in any stream + Merit",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹5,500/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹1,850/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 300
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹3,500/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 427,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20DR.%20WAMAN%20WASUDEV%20PATANKAR%20GIRLS'%20PG%20COLLEGE%20DURG%20DURG%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+  },
+  {
+    "id": 1920,
+    "name": "RITEE College of Management, Raipur",
+    "shortName": "RITEE Management",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Dumartalab, Near Kaanger Valley Academy, Behind PRSU Gymnasium, Raipur, Chhattisgarh - 492010",
+    "phone": "0771-3208888",
+    "website": "https://ritee.ac.in/management",
+    "rating": 4.5,
+    "reviews": 254,
+    "type": "Private",
+    "about": "RITEE College of Management Raipur, part of the RITEE Group under Mahanadi Education Society, offers undergraduate programs in business administration and computer science affiliated to PRSU Raipur.",
+    "ranking": 91,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=RITEE%20COLLEGE%20OF%20MANAGEMENT%20RAIPUR%20Chhattisgarh",
+    "fees": "₹38,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/RITEE_College_of_Managemen.jpg?width=640",
+    "gallery": [
+      "https://media.collegedekho.com/media/img/institute/crawled_images/RITEE_College_of_Managemen.jpg?width=640",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (State Public University)",
+    "courses": [
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹38,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹18,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 254,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/RITEE_College_of_Managemen.jpg?width=640",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=RITEE%20COLLEGE%20OF%20MANAGEMENT%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1921,
+    "name": "Sant Shiromani Guru Ghasidas College, Pamgarh",
+    "shortName": "SSGG College Pamgarh",
+    "location": "Janjgir-Champa",
+    "state": "Chhattisgarh",
+    "address": "Main Road, Pamgarh, District Janjgir-Champa, Chhattisgarh - 495554",
+    "phone": "07818-242200",
+    "website": "https://ssggcollege.in",
+    "rating": 4.5,
+    "reviews": 145,
+    "type": "Private",
+    "about": "Sant Shiromani Guru Ghasidas College Pamgarh is an established private degree college in Janjgir-Champa district, offering undergraduate courses in IT, commerce, and humanities affiliated to Shaheed Nandkumar Patel Vishwavidyalaya.",
+    "ranking": 72,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SANT%20SHIROMANI%20GURU%20GHASIDAS%20COLLEGE%20PAMGARH%20JANJGIR-CHAMPA%20Chhattisgarh",
+    "fees": "₹25,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "gallery": [
+      "https://www.dmpspamgarh.in/storage/slideshow/1726124027.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
+    ],
+    "affiliation": "Shaheed Nandkumar Patel Vishwavidyalaya, Raigarh (State University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹15,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹14,000/Yr",
+        "eligibility": "10+2 with Commerce / Science",
+        "type": "COMMERCE",
+        "intake": 120
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 145,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SANT%20SHIROMANI%20GURU%20GHASIDAS%20COLLEGE%20PAMGARH%20JANJGIR-CHAMPA%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+  },
+  {
+    "id": 1922,
+    "name": "Kalyan Post Graduate College, Bhilai Nagar",
+    "shortName": "Kalyan PG College Bhilai",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Sector 7, Bhilai Nagar, Durg, Chhattisgarh - 490006",
+    "phone": "0788-2224773",
+    "website": "https://kalyanpgcollege.org",
+    "rating": 4.5,
+    "reviews": 167,
+    "type": "Private",
+    "about": "Kalyan Post Graduate College Bhilai Nagar, founded in 1963 by the Chhattisgarh Kalyan Samiti, is an autonomous NAAC 'A' accredited institution affiliated to Hemchand Yadav Vishwavidyalaya, known for academic excellence in higher education.",
+    "ranking": 75,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=KALYAN%20POST%20GRADUATE%20COLLEGE%20BHILAI%20NAGAR%20CHHATTISGARH%20DURG%20Chhattisgarh",
+    "fees": "₹25,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/kalyan-post-graduate-college-durg-335719.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/kalyan-post-graduate-college-durg-335719.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
+    ],
+    "affiliation": "Hemchand Yadav Vishwavidyalaya, Durg (Autonomous NAAC 'A')",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹28,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹15,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 167,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/kalyan-post-graduate-college-durg-335719.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=KALYAN%20POST%20GRADUATE%20COLLEGE%20BHILAI%20NAGAR%20CHHATTISGARH%20DURG%20Chhattisgarh"
+  },
+  {
+    "id": 1923,
+    "name": "Durga Mahavidyalaya, Raipur",
+    "shortName": "Durga College Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "K.K. Road, Moudhapara, Raipur, Chhattisgarh - 492001",
+    "phone": "0771-4043100",
+    "website": "https://durgacollege.in",
+    "rating": 4.5,
+    "reviews": 366,
+    "type": "Private",
+    "about": "Durga Mahavidyalaya Raipur, established in 1951, is the oldest higher education college established in post-independence Raipur. Managed by the Durga Education Society and affiliated to PRSU Raipur, it has a rich historic legacy.",
+    "ranking": 59,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=DURGA%20MAHAVIDYALAYA%20RAIPUR%20RAIPUR%20Chhattisgarh",
+    "fees": "₹26,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Durga_Mahavidyalaya1.jpg",
+    "gallery": [
+      "https://media.collegedekho.com/media/img/institute/crawled_images/Durga_Mahavidyalaya1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (NAAC Accredited)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹26,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹28,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 366,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Durga_Mahavidyalaya1.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=DURGA%20MAHAVIDYALAYA%20RAIPUR%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1924,
+    "name": "Swami Shri Swaroopanand Saraswati Mahavidyalaya, Bhilai",
+    "shortName": "SSSSMV Bhilai",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Amdi Nagar, HUDCO, Sector 10, Bhilai, Durg, Chhattisgarh - 490009",
+    "phone": "0788-2291888",
+    "website": "https://ssssmv.ac.in",
+    "rating": 4.5,
+    "reviews": 232,
+    "type": "Private",
+    "about": "Swami Shri Swaroopanand Saraswati Mahavidyalaya (SSSSMV Bhilai), established in 1999 under Ganga Jyoti Education Society at HUDCO, Bhilai, is a NAAC-accredited institution affiliated to Hemchand Yadav Vishwavidyalaya.",
+    "ranking": 93,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SWAMI%20SHRI%20SWAROOPANAND%20SARASWATI%20MAHAVIDYALAYA%20DURG%20Chhattisgarh",
+    "fees": "₹30,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/sailee_college_borivali.jpg",
+    "gallery": [
+      "https://daqwpj7vq235r.cloudfront.net/images/bba/swami-shri-swaroopanand-saraswati-mahavidyalaya-campus.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
+    ],
+    "affiliation": "Hemchand Yadav Vishwavidyalaya, Durg (NAAC Accredited)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹30,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹32,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Education (B.Ed)",
+        "duration": "2 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "Graduation with 50% + Pre-B.Ed",
+        "type": "EDUCATION",
+        "intake": 100
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 232,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/sailee_college_borivali.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SWAMI%20SHRI%20SWAROOPANAND%20SARASWATI%20MAHAVIDYALAYA%20DURG%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+  },
+  {
+    "id": 1925,
+    "name": "Babu Chhotelal Shrivastava Government P.G. College, Dhamtari",
+    "shortName": "BCS Govt PG College",
+    "location": "Dhamtari",
+    "state": "Chhattisgarh",
+    "address": "Rudri Road, Jodjapur Ward, Dhamtari, Chhattisgarh - 493773",
+    "phone": "07722-237933",
+    "website": "https://www.pgcollegedhamtari.com",
+    "rating": 4.5,
+    "reviews": 410,
+    "type": "Public/Government",
+    "about": "Babu Chhotelal Shrivastava Government Post Graduate College Dhamtari (BCS Govt PG College), established in 1963, is an autonomous lead government institution in Dhamtari district, accredited with NAAC 'B++' Grade and affiliated to PRSU Raipur.",
+    "ranking": 33,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=B.C.S.%20GOVT.%20P.G.%20COLLEGE%20DHAMTARI%20DHAMTARI%20Chhattisgarh",
+    "fees": "₹1,850/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/gnims_matunga.png",
+    "gallery": [
+      "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/22594/2018/12/9/Campus view of BCS Government Post Graduate College Dhamtari_Campus-view.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (Autonomous NAAC 'B++')",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹5,500/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹1,850/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 300
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹1,850/Yr",
+        "eligibility": "10+2 with Commerce / Mathematics",
+        "type": "COMMERCE",
+        "intake": 240
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹3,500/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 410,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/gnims_matunga.png",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B.C.S.%20GOVT.%20P.G.%20COLLEGE%20DHAMTARI%20DHAMTARI%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+  },
+  {
+    "id": 1926,
+    "name": "Dr. B.B.A. Government Polytechnic, Karvad (Silvassa)",
+    "shortName": "Dr BBA Govt Polytechnic",
+    "location": "Dadra and Nagar Haveli",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "address": "Behind Sub Station, Madhuban Dam Road, Karvad, Silvassa, Dadra & Nagar Haveli - 396230",
+    "phone": "0260-2640101",
+    "website": "https://drbbagpks.org",
+    "rating": 4.5,
+    "reviews": 161,
+    "type": "Public/Government",
+    "about": "Dr. B.B.A. Government Polytechnic Karvad, established in 1994 by the Administration of Dadra and Nagar Haveli and Daman and Diu, is an AICTE-approved premier public polytechnic affiliated to Gujarat Technological University (GTU), offering subsidized technical diplomas.",
+    "ranking": 58,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=DR.%20B.B.A.GOVERNMENT%20POLYTECHNIC%2C%20KARAD(D.P.)%20DADRA%20AND%20NAGAR%20HAVELI%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu",
+    "fees": "₹3,250/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "gallery": [
+      "https://www.drbbagpks.org/sites/default/files/IMG-20200124-WA0025.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
+    ],
+    "affiliation": "Gujarat Technological University (GTU), Ahmedabad",
+    "courses": [
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹3,250/Yr",
+        "eligibility": "Class 10th with ACPDC Merit",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹3,250/Yr",
+        "eligibility": "Class 10th with ACPDC Merit",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Electrical Engineering",
+        "duration": "3 Years",
+        "fees": "₹3,250/Yr",
+        "eligibility": "Class 10th with ACPDC Merit",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Electronics and Communication Engineering",
+        "duration": "3 Years",
+        "fees": "₹3,250/Yr",
+        "eligibility": "Class 10th with ACPDC Merit",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 161,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20B.B.A.GOVERNMENT%20POLYTECHNIC%2C%20KARAD(D.P.)%20DADRA%20AND%20NAGAR%20HAVELI%20Dadra%20%26%20Nagar%20Haveli%20and%20Daman%20%26%20Diu"
   }
 ]

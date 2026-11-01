@@ -2871,3 +2871,19 @@
 | 1918 | Vipra Kala Vanijya Avam Sharirik Shiksha Mahavidyalaya, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://vipracollege.in) |
 | 1919 | Netaji Subhas College, Abhanpur | Raipur | Chhattisgarh | Private | [Portal](https://nscraipur.in) |
 | 1920 | Seth R. C. S. Arts and Commerce College, Durg | Durg | Chhattisgarh | Private | [Portal](https://sethrcscollege.in) |
+
+
+### Batch 193 (Colleges 1,921–1,930)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1921 | Bhilai Nair Samajam College, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://bnscollege.com) |
+| 1922 | St. Vincent Pallotti College, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://pallotticollege.com) |
+| 1923 | Govt. Dr. Waman Wasudev Patankar Girls' PG College, Durg | Durg | Chhattisgarh | Public/Government | [Portal](https://www.govtgirlspgcollegedurg.com) |
+| 1924 | RITEE College of Management, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://ritee.ac.in/management) |
+| 1925 | Sant Shiromani Guru Ghasidas College, Pamgarh | Janjgir-Champa | Chhattisgarh | Private | [Portal](https://ssggcollege.in) |
+| 1926 | Kalyan Post Graduate College, Bhilai Nagar | Durg | Chhattisgarh | Private | [Portal](https://kalyanpgcollege.org) |
+| 1927 | Durga Mahavidyalaya, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://durgacollege.in) |
+| 1928 | Swami Shri Swaroopanand Saraswati Mahavidyalaya, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://ssssmv.ac.in) |
+| 1929 | Babu Chhotelal Shrivastava Government P.G. College, Dhamtari | Dhamtari | Chhattisgarh | Public/Government | [Portal](https://www.pgcollegedhamtari.com) |
+| 1930 | Dr. B.B.A. Government Polytechnic, Karvad (Silvassa) | Dadra and Nagar Haveli | Dadra & Nagar Haveli and Daman & Diu | Public/Government | [Portal](https://drbbagpks.org) |
