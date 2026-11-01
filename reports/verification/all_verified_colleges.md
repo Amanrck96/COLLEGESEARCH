@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1420 / 12,660**  
-**Roadmap Progress**: **142.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1430 / 12,660**  
+**Roadmap Progress**: **143.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2139,4 +2139,19 @@
 | **1092** | Muzaffarpur College of Professional Education | Private | Muzaffarpur, Bihar - 842003 | [muzaffarpurcollege.com](https://muzaffarpurcollege.com) |
 | **1094** | MGM College, Patna | Private | Patna, Bihar - 800020 | [mgmcollegepatna.org](https://mgmcollegepatna.org) |
 | **1095** | Prabhu Kailash Institute of Management | Private | District Aurangabad, Bihar - 824143 | [pkim.edu.in](https://pkim.edu.in) |
+
+### Batch 143 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1096** | Bakhtiyarpur College of Engineering, Patna | Public/Government | District Patna, Bihar - 803212 | [www.bcepatna.ac.in](https://www.bcepatna.ac.in) |
+| **1097** | L.N. Mishra College of Business Management, Muzaffarpur | Private | Muzaffarpur, Bihar - 842001 | [lnmcbm.ac.in](https://lnmcbm.ac.in) |
+| **1098** | National Degree College, Purnia | Private | Purnea, Bihar - 854301 | [ndcpurnea.org](https://ndcpurnea.org) |
+| **1099** | Ambedkar Institute of Higher Education, Patna | Private | Patna, Bihar - 801503 | [aihe.in](https://aihe.in) |
+| **1101** | Darbhanga College of Engineering, Darbhanga | Public/Government | Darbhanga, Bihar - 846005 | [www.dcedarbhanga.ac.in](https://www.dcedarbhanga.ac.in) |
+| **1102** | Nalanda College of Engineering, Chandi | Public/Government | District Nalanda, Bihar - 803108 | [www.ncechandi.ac.in](https://www.ncechandi.ac.in) |
+| **1103** | Bhagalpur College of Engineering | Public/Government | Bhagalpur, Bihar - 813210 | [www.bcebhagalpur.ac.in](https://www.bcebhagalpur.ac.in) |
+| **1104** | Maulana Azad College of Engineering and Technology, Patna | Private | Patna, Bihar - 801115 | [www.macet.net.in](https://www.macet.net.in) |
+| **1105** | Muzaffarpur Institute of Technology | Public/Government | Muzaffarpur, Bihar - 842003 | [www.mitmuzaffarpur.org](https://www.mitmuzaffarpur.org) |
+| **1106** | Mahatma Gandhi Central University, Bihar | Public/Government | District East Champaran, Bihar - 845401 | [mgcub.ac.in](https://mgcub.ac.in/) |
 

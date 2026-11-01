@@ -10648,5 +10648,80 @@
         "website": "https://pkim.edu.in"
       }
     ]
+  },
+  {
+    "batch": 143,
+    "items": [
+      {
+        "id": 1096,
+        "name": "Bakhtiyarpur College of Engineering, Patna",
+        "type": "Public/Government",
+        "location": "District Patna, Bihar - 803212",
+        "website": "https://www.bcepatna.ac.in"
+      },
+      {
+        "id": 1097,
+        "name": "L.N. Mishra College of Business Management, Muzaffarpur",
+        "type": "Private",
+        "location": "Muzaffarpur, Bihar - 842001",
+        "website": "https://lnmcbm.ac.in"
+      },
+      {
+        "id": 1098,
+        "name": "National Degree College, Purnia",
+        "type": "Private",
+        "location": "Purnea, Bihar - 854301",
+        "website": "https://ndcpurnea.org"
+      },
+      {
+        "id": 1099,
+        "name": "Ambedkar Institute of Higher Education, Patna",
+        "type": "Private",
+        "location": "Patna, Bihar - 801503",
+        "website": "https://aihe.in"
+      },
+      {
+        "id": 1101,
+        "name": "Darbhanga College of Engineering, Darbhanga",
+        "type": "Public/Government",
+        "location": "Darbhanga, Bihar - 846005",
+        "website": "https://www.dcedarbhanga.ac.in"
+      },
+      {
+        "id": 1102,
+        "name": "Nalanda College of Engineering, Chandi",
+        "type": "Public/Government",
+        "location": "District Nalanda, Bihar - 803108",
+        "website": "https://www.ncechandi.ac.in"
+      },
+      {
+        "id": 1103,
+        "name": "Bhagalpur College of Engineering",
+        "type": "Public/Government",
+        "location": "Bhagalpur, Bihar - 813210",
+        "website": "https://www.bcebhagalpur.ac.in"
+      },
+      {
+        "id": 1104,
+        "name": "Maulana Azad College of Engineering and Technology, Patna",
+        "type": "Private",
+        "location": "Patna, Bihar - 801115",
+        "website": "https://www.macet.net.in"
+      },
+      {
+        "id": 1105,
+        "name": "Muzaffarpur Institute of Technology",
+        "type": "Public/Government",
+        "location": "Muzaffarpur, Bihar - 842003",
+        "website": "https://www.mitmuzaffarpur.org"
+      },
+      {
+        "id": 1106,
+        "name": "Mahatma Gandhi Central University, Bihar",
+        "type": "Public/Government",
+        "location": "District East Champaran, Bihar - 845401",
+        "website": "https://mgcub.ac.in/"
+      }
+    ]
   }
 ]
