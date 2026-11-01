@@ -2437,3 +2437,17 @@
 | 1318 | A.S. Group of Institutions (ASGOI), Khanna | Ludhiana | Punjab | Private | [https://asinstitutes.com](https://asinstitutes.com) |
 | 1319 | Department of Mechanical Engineering, Punjabi University | Patiala | Punjab | Public/Government | [https://pupdepartments.ac.in](https://pupdepartments.ac.in) |
 | 1320 | Anand College of Engineering & Management, Kapurthala | Kapurthala | Punjab | Private | [http://acem.org.in](http://acem.org.in) |
+
+### Batch 163 (Colleges 1,621–1,630) — Punjab Engineering, Management & Polytechnic Institutions
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1321 | Aman Bhalla Institute of Management and Technology | Pathankot | Punjab | Private | [https://amanbhallagroup.in](https://amanbhallagroup.in) |
+| 1322 | Guru Nanak College, Budhlada | Mansa | Punjab | Public/Government | [https://gncbudhlada.org](https://gncbudhlada.org) |
+| 1323 | Guru Teg Bahadur Institute of Management and Technology | Ludhiana | Punjab | Private | [https://gtbimt.com](https://gtbimt.com) |
+| 1324 | S. Amarjit Singh Sahi Government Polytechnic College, Talwara | Hoshiarpur | Punjab | Public/Government | [https://gpctalwara.ac.in](https://gpctalwara.ac.in) |
+| 1325 | PCTE Institute of Engineering and Technology, Ludhiana | Ludhiana | Punjab | Private | [https://pcte.edu.in](https://pcte.edu.in) |
+| 1326 | M.K. Group of Institutes, Amritsar | Amritsar | Punjab | Private | [https://mkeducation.in](https://mkeducation.in) |
+| 1327 | DIPS Institute of Management & Technology, Jalandhar | Jalandhar | Punjab | Private | [https://dipsimt.com](https://dipsimt.com) |
+| 1328 | SFC Institute of Pharmacy, Moga | Moga | Punjab | Private | [https://sfcinstitute.in](https://sfcinstitute.in) |
+| 1329 | Innocent Hearts Group of Institutions, Loharan, Jalandhar | Jalandhar | Punjab | Private | [https://ihgi.in](https://ihgi.in) |
+| 1330 | Government Polytechnic College, Rupnagar (Ropar) | Rupnagar | Punjab | Public/Government | [https://gpcrupnagar.org](https://gpcrupnagar.org) |

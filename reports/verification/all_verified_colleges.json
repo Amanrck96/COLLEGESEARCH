@@ -12193,5 +12193,95 @@
     "type": "Private",
     "website": "http://acem.org.in",
     "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1321,
+    "name": "Aman Bhalla Institute of Management and Technology",
+    "location": "Pathankot",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://amanbhallagroup.in",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1322,
+    "name": "Guru Nanak College, Budhlada",
+    "location": "Mansa",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gncbudhlada.org",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1323,
+    "name": "Guru Teg Bahadur Institute of Management and Technology",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://gtbimt.com",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1324,
+    "name": "S. Amarjit Singh Sahi Government Polytechnic College, Talwara",
+    "location": "Hoshiarpur",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpctalwara.ac.in",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1325,
+    "name": "PCTE Institute of Engineering and Technology, Ludhiana",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://pcte.edu.in",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1326,
+    "name": "M.K. Group of Institutes, Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://mkeducation.in",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1327,
+    "name": "DIPS Institute of Management & Technology, Jalandhar",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://dipsimt.com",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1328,
+    "name": "SFC Institute of Pharmacy, Moga",
+    "location": "Moga",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://sfcinstitute.in",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1329,
+    "name": "Innocent Hearts Group of Institutions, Loharan, Jalandhar",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://ihgi.in",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1330,
+    "name": "Government Polytechnic College, Rupnagar (Ropar)",
+    "location": "Rupnagar",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpcrupnagar.org",
+    "verifiedAt": "2026-11-01T18:50:09.279Z"
   }
 ]
