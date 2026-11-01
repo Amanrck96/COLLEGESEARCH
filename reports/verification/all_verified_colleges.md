@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1170 / 12,660**  
-**Roadmap Progress**: **117.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1180 / 12,660**  
+**Roadmap Progress**: **118.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1764,4 +1764,19 @@
 | **826** | Department of Computer Science and Applications, Chaudhary Devi Lal University (CDLU Sirsa) | Public/Government | CDLU SIRSA HARYANA | [cdlu.ac.in](https://cdlu.ac.in) |
 | **827** | FORE School of Management (FSM Delhi / Gurugram) | Private | PLOT NO. 47, SECTOR - 32 | [www.fsm.ac.in](https://www.fsm.ac.in) |
 | **828** | Jhankar Group of Colleges (Jhankar College Gurugram) | Private | VILLAGE BABRABAKIPUR | [jhankargroupofcolleges.com](https://jhankargroupofcolleges.com) |
+
+### Batch 118 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **829** | Dev Polytechnic College (Khatkar, Jind) | Private | VILL. KHATKAR TEH. UCHANA DISST. JIND | [www.devpoly.com](http://www.devpoly.com) |
+| **830** | MERI College of Engineering and Technology (MERI Delhi-NCR, Jhajjar) | Private | ROHTAK ROAD, DELHI NCR | [meri.edu.in](https://meri.edu.in) |
+| **831** | Rao Neki Ram Memorial College (RNRM College, Turkapur) | Private | VILLAGE TURKAPUR | [rnrmcollege.in](https://rnrmcollege.in) |
+| **832** | World Institute of Technology (WIT Sohna, Gurugram) | Private | SOHNA-PALWAL ROAD, SOHNA | [wit.net.in](https://wit.net.in) |
+| **833** | Guru Nanak Khalsa College (GNKC Karnal) | Private | RAILWAY ROAD | [www.gnkckarnal.ac.in](https://www.gnkckarnal.ac.in) |
+| **834** | Manav Rachna University (MRU Faridabad) | Private | Aravalli Hills, Delhi – Surajkund Road | [manavrachna.edu.in](https://manavrachna.edu.in/university) |
+| **835** | Panipat Institute of Engineering and Technology (PIET Panipat) | Private | Milestone GT Road, Samalkha | [www.piet.co.in](https://www.piet.co.in) |
+| **836** | School of Engineering & Technology, BML Munjal University (BMU Gurugram) | Private | Haryana, India | [www.bmu.edu.in](https://www.bmu.edu.in) |
+| **837** | Guru Jambheshwar University of Science and Technology (GJUST Hisar) | Public/Government | Guru Jambheshwar University of Science & Technology, Hisar-Delhi Bypass Rd | [www.gjust.ac.in](https://www.gjust.ac.in) |
+| **838** | J.C. Bose University of Science and Technology, YMCA (YMCA Faridabad) | Public/Government | Sector-6, Mathura Road | [jcboseust.ac.in](https://jcboseust.ac.in) |
 

@@ -8773,5 +8773,80 @@
         "website": "https://jhankargroupofcolleges.com"
       }
     ]
+  },
+  {
+    "batch": 118,
+    "items": [
+      {
+        "id": 829,
+        "name": "Dev Polytechnic College (Khatkar, Jind)",
+        "type": "Private",
+        "location": "VILL. KHATKAR TEH. UCHANA DISST. JIND",
+        "website": "http://www.devpoly.com"
+      },
+      {
+        "id": 830,
+        "name": "MERI College of Engineering and Technology (MERI Delhi-NCR, Jhajjar)",
+        "type": "Private",
+        "location": "ROHTAK ROAD, DELHI NCR",
+        "website": "https://meri.edu.in"
+      },
+      {
+        "id": 831,
+        "name": "Rao Neki Ram Memorial College (RNRM College, Turkapur)",
+        "type": "Private",
+        "location": "VILLAGE TURKAPUR",
+        "website": "https://rnrmcollege.in"
+      },
+      {
+        "id": 832,
+        "name": "World Institute of Technology (WIT Sohna, Gurugram)",
+        "type": "Private",
+        "location": "SOHNA-PALWAL ROAD, SOHNA",
+        "website": "https://wit.net.in"
+      },
+      {
+        "id": 833,
+        "name": "Guru Nanak Khalsa College (GNKC Karnal)",
+        "type": "Private",
+        "location": "RAILWAY ROAD",
+        "website": "https://www.gnkckarnal.ac.in"
+      },
+      {
+        "id": 834,
+        "name": "Manav Rachna University (MRU Faridabad)",
+        "type": "Private",
+        "location": "Aravalli Hills, Delhi – Surajkund Road",
+        "website": "https://manavrachna.edu.in/university"
+      },
+      {
+        "id": 835,
+        "name": "Panipat Institute of Engineering and Technology (PIET Panipat)",
+        "type": "Private",
+        "location": "Milestone GT Road, Samalkha",
+        "website": "https://www.piet.co.in"
+      },
+      {
+        "id": 836,
+        "name": "School of Engineering & Technology, BML Munjal University (BMU Gurugram)",
+        "type": "Private",
+        "location": "Haryana, India",
+        "website": "https://www.bmu.edu.in"
+      },
+      {
+        "id": 837,
+        "name": "Guru Jambheshwar University of Science and Technology (GJUST Hisar)",
+        "type": "Public/Government",
+        "location": "Guru Jambheshwar University of Science & Technology, Hisar-Delhi Bypass Rd",
+        "website": "https://www.gjust.ac.in"
+      },
+      {
+        "id": 838,
+        "name": "J.C. Bose University of Science and Technology, YMCA (YMCA Faridabad)",
+        "type": "Public/Government",
+        "location": "Sector-6, Mathura Road",
+        "website": "https://jcboseust.ac.in"
+      }
+    ]
   }
 ]
