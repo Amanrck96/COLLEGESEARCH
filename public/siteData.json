@@ -58105,16 +58105,16 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/psg-institute-of-medical-sciences-and-research-coimbatore-65631",
-      "name": "PSG IMSR",
+      "name": "PSG Institute of Medical Sciences and Research (PSG IMSR, Peelamedu, Coimbatore)",
       "shortName": "PI",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "0422-2570170",
       "email": "admissions@pi.edu.in",
-      "website": "https://www.google.com/search?q=PSG%20IMSR%20official%20website%20Tamil%20Tamil%20Nadu",
-      "rating": 4.5,
+      "website": "https://psgimsr.ac.in",
+      "rating": 4.6,
       "reviews": 185,
       "type": "Private",
       "ownership": "Private",
@@ -58136,22 +58136,44 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "fees": "₹4,50,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "250"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "MD in General Medicine",
+          "title": "MD in General Medicine",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹8,50,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "16"
+        },
+        {
+          "name": "MS in General Surgery",
+          "title": "MS in General Surgery",
+          "division": "Postgraduate",
+          "duration": "3 Years",
+          "fees": "₹8,50,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "12"
+        },
+        {
+          "name": "B.Sc in Allied Health Sciences",
+          "title": "B.Sc in Allied Health Sciences",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "10+2 with Science (PCB)",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -58176,22 +58198,24 @@
       "id": 685,
       "reviewsCount": 185,
       "image": "/images/campuses/campus_architecture_2.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PSG%20IMSR%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PSG%20IMSR%20Tamil%20Tamil%20Nadu",
+      "city": "Coimbatore",
+      "established": 1985
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/vels-institute-of-science-technology-and-advanced-studies-vistas-chennai-32583",
-      "name": "VELS University Chennai",
+      "name": "Vels Institute of Science, Technology & Advanced Studies (VISTAS Deemed University, Pallavaram, Chennai)",
       "shortName": "VUC",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "044-22662500",
       "email": "admissions@vuc.edu.in",
-      "website": "https://www.google.com/search?q=VELS%20University%20Chennai%20official%20website%20Tamil%20Tamil%20Nadu",
-      "rating": 4.5,
+      "website": "https://vistas.ac.in",
+      "rating": 4.3,
       "reviews": 204,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -58211,22 +58235,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹1,40,000/Year",
+          "eligibility": "10+2 with PCM + VEE / Merit",
+          "exams": "VEE, Merit",
+          "intake": "240"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "B.Tech in CSE (AI & Machine Learning)",
+          "title": "B.Tech in CSE (AI & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "10+2 with PCM + VEE",
+          "exams": "VEE",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 with PCB/PCM",
+          "exams": "Merit Based",
+          "intake": "100"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / VEE",
+          "exams": "CAT, MAT, VEE",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "BCA / B.Sc with Maths",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹33 LPA",
@@ -58254,21 +58310,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 686,
       "reviewsCount": 204,
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VELS%20University%20Chennai%20Tamil%20Tamil%20Nadu"
+      "image": "/images/campuses/campus_architecture_7.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VELS%20University%20Chennai%20Tamil%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 1992
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/sri-ramachandra-institute-of-higher-education-and-research-chennai-24265",
-      "name": "SRIHER Chennai",
+      "name": "Sri Ramachandra Institute of Higher Education and Research (SRIHER Deemed University, Porur, Chennai)",
       "shortName": "SC",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "044-45928500",
       "email": "admissions@sc.edu.in",
-      "website": "https://www.google.com/search?q=SRIHER%20Chennai%20official%20website%20Tamil%20Tamil%20Nadu",
-      "rating": 4.5,
+      "website": "https://www.sriramachandra.edu.in",
+      "rating": 4.7,
       "reviews": 374,
       "type": "Private",
       "ownership": "Private",
@@ -58290,22 +58348,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "fees": "₹25,00,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "250"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "Bachelor of Dental Surgery (BDS)",
+          "title": "Bachelor of Dental Surgery (BDS)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹6,00,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "100"
+        },
+        {
+          "name": "Doctor of Pharmacy (Pharm.D)",
+          "title": "Doctor of Pharmacy (Pharm.D)",
+          "division": "Doctoral Professional",
+          "duration": "6 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "10+2 with PCB/PCM",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "B.Tech in Computer Science and Medical Engineering",
+          "title": "B.Tech in Computer Science and Medical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,50,000/Year",
+          "eligibility": "10+2 with PCM",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "MD / MS Postgraduate Medical Specializations",
+          "title": "MD / MS Postgraduate Medical Specializations",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹22,00,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹70 LPA",
@@ -58334,22 +58424,24 @@
       "id": 687,
       "reviewsCount": 374,
       "image": "https://img.jagranjosh.com/images/2023/June/2062023/Campus View..jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRIHER%20Chennai%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRIHER%20Chennai%20Tamil%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 1985
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/madras-medical-college-chennai-park-town-63021",
-      "name": "Madras Medical College",
+      "name": "Madras Medical College & Rajiv Gandhi Government General Hospital (MMC Chennai, Park Town)",
       "shortName": "MMC",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "044-25305000",
       "email": "admissions@mmc.edu.in",
-      "website": "https://www.google.com/search?q=Madras%20Medical%20College%20official%20website%20Tamil%20Tamil%20Nadu",
-      "rating": 4.5,
+      "website": "https://mmc.ac.in",
+      "rating": 4.9,
       "reviews": 374,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -58369,22 +58461,44 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "fees": "₹13,610/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "250"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "MD / MS Postgraduate Medical Specializations",
+          "title": "MD / MS Postgraduate Medical Specializations",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹30,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "225"
+        },
+        {
+          "name": "DM / M.Ch Super Specialty Degrees",
+          "title": "DM / M.Ch Super Specialty Degrees",
+          "division": "Super Specialty",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "MD/MS in relevant branch + NEET-SS",
+          "exams": "NEET-SS",
+          "intake": "100"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹8,000/Year",
+          "eligibility": "10+2 with PCB/PCM",
+          "exams": "TN Paramedical",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -58410,17 +58524,19 @@
       "id": 688,
       "reviewsCount": 374,
       "image": "/images/campuses/campus_architecture_2.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Madras%20Medical%20College%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Madras%20Medical%20College%20Tamil%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 1835
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/college-of-pharmacy-srm-ist-kattankulathur-tamil-nadu-other-24766",
-      "name": "College of Pharmacy, SRM IST, Kattankulathur, Tamil Nadu",
+      "name": "SRM College of Pharmacy (SRM Institute of Science and Technology, Kattankulathur)",
       "shortName": "COPSIK",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "SRM Nagar, Kattankulathur, Chengalpattu District, Tamil Nadu.",
-      "phone": "4427453160",
+      "phone": "044-27453160",
       "email": "dean.pharmacy.ktr@srmist.edu.in",
       "website": "https://www.srmist.edu.in/department/college-of-pharmacy/",
       "rating": 4.5,
@@ -58445,22 +58561,44 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "name": "Bachelor of Pharmacy (B.Pharm)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹1,75,000/Year",
+          "eligibility": "10+2 with PCB/PCM (50%+)",
+          "exams": "Merit Based",
+          "intake": "100"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "Doctor of Pharmacy (Pharm.D)",
+          "title": "Doctor of Pharmacy (Pharm.D)",
+          "division": "Doctoral Professional",
+          "duration": "6 Years",
+          "fees": "₹2,50,000/Year",
+          "eligibility": "10+2 with PCB/PCM",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Master of Pharmacy (M.Pharm in Pharmaceutics)",
+          "title": "Master of Pharmacy (M.Pharm in Pharmaceutics)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "B.Pharm (55%+)",
+          "exams": "GPAT, Merit",
+          "intake": "30"
+        },
+        {
+          "name": "M.Pharm in Pharmacology",
+          "title": "M.Pharm in Pharmacology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "B.Pharm (55%+)",
+          "exams": "GPAT, Merit",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹9 Lakhs",
@@ -58489,20 +58627,22 @@
       "id": 689,
       "reviewsCount": 190,
       "image": "https://img.studyclap.com/img/institute/college/773x343/10179/cp-chengalpattu-466798a898.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=College%20of%20Pharmacy%2C%20SRM%20IST%2C%20Kattankulathur%2C%20Tamil%20Nadu%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=College%20of%20Pharmacy%2C%20SRM%20IST%2C%20Kattankulathur%2C%20Tamil%20Nadu%20Tamil%20Tamil%20Nadu",
+      "city": "Chengalpattu",
+      "established": 1992
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/srm-institute-of-science-and-technology-chennai-ramapuram-campus-51992",
-      "name": "SRM Institute of Science and Technology, Chennai",
+      "name": "SRM Institute of Science and Technology (SRMIST Ramapuram Campus, Chennai)",
       "shortName": "SIOSAT",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "SRM Institute of Science and Technology, Bharathi Salai",
-      "phone": "18001021525",
+      "phone": "044-43923042",
       "email": "helpdesk@srmrmp.edu.in",
-      "website": "https://www.srmist.edu.in",
-      "rating": 4.5,
+      "website": "https://srmrmp.edu.in",
+      "rating": 4.6,
       "reviews": 157,
       "type": "Private",
       "ownership": "Private",
@@ -58525,22 +58665,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹2,60,000/Year",
+          "eligibility": "10+2 with 60% PCM + SRMJEEE",
+          "exams": "SRMJEEE",
+          "intake": "360"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,60,000/Year",
+          "eligibility": "10+2 with PCM + SRMJEEE",
+          "exams": "SRMJEEE",
+          "intake": "180"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 with 50%+",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,25,000/Year",
+          "eligibility": "Graduation (50%+) + SRMJEEM / CAT",
+          "exams": "SRMJEEM, CAT",
+          "intake": "180"
         }
       ],
       "highestPackage": "₹1.1 cr",
@@ -58570,20 +58742,22 @@
       "id": 690,
       "reviewsCount": 157,
       "image": "/images/campuses/campus_architecture_9.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRM%20Institute%20of%20Science%20and%20Technology%2C%20Chennai%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRM%20Institute%20of%20Science%20and%20Technology%2C%20Chennai%20Tamil%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 2004
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/srm-medical-college-hospital-and-research-centre-srm-ist-kattankulathur-chennai-63159",
-      "name": "SRM Medical College Hospital and Research Centre, Chennai",
+      "name": "SRM Medical College Hospital and Research Centre (Kattankulathur, Chengalpattu)",
       "shortName": "SMCHAR",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "044-47432333",
       "email": "admissions@smchar.edu.in",
-      "website": "https://www.google.com/search?q=SRM%20Medical%20College%20Hospital%20and%20Research%20Centre%2C%20Chennai%20official%20website%20Tamil%20Tamil%20Nadu",
-      "rating": 4.5,
+      "website": "https://www.srmist.edu.in/college/medical-college/",
+      "rating": 4.6,
       "reviews": 94,
       "type": "Private",
       "ownership": "Private",
@@ -58605,22 +58779,44 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "fees": "₹25,00,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "250"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "MD in General Medicine",
+          "title": "MD in General Medicine",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹28,00,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "20"
+        },
+        {
+          "name": "MS in General Surgery",
+          "title": "MS in General Surgery",
+          "division": "Postgraduate",
+          "duration": "3 Years",
+          "fees": "₹28,00,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "16"
+        },
+        {
+          "name": "B.Sc in Nursing",
+          "title": "B.Sc in Nursing",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with Science (PCB)",
+          "exams": "Merit Based",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹15 LPA",
@@ -58648,20 +58844,22 @@
       "id": 691,
       "reviewsCount": 94,
       "image": "/images/campuses/campus_architecture_8.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRM%20Medical%20College%20Hospital%20and%20Research%20Centre%2C%20Chennai%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRM%20Medical%20College%20Hospital%20and%20Research%20Centre%2C%20Chennai%20Tamil%20Tamil%20Nadu",
+      "city": "Chengalpattu",
+      "established": 2005
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/srm-dental-college-ramapuram-campus-chennai-ramapuram-155545",
-      "name": "SRM Dental College, Ramapuram",
+      "name": "SRM Dental College (Ramapuram Campus, Chennai)",
       "shortName": "SDCR",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "044-22490526",
       "email": "admissions@sdcr.edu.in",
-      "website": "https://www.google.com/search?q=SRM%20Dental%20College%2C%20Ramapuram%20official%20website%20Tamil%20Tamil%20Nadu",
-      "rating": 4.5,
+      "website": "https://srmdentalcollege.ac.in",
+      "rating": 4.6,
       "reviews": 265,
       "type": "Private",
       "ownership": "Private",
@@ -58683,22 +58881,34 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "name": "Bachelor of Dental Surgery (BDS)",
+          "title": "Bachelor of Dental Surgery (BDS)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "5 Years",
+          "fees": "₹4,10,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "100"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "Master of Dental Surgery (MDS in Orthodontics)",
+          "title": "Master of Dental Surgery (MDS in Orthodontics)",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹12,00,000/Year",
+          "eligibility": "BDS + NEET-MDS",
+          "exams": "NEET-MDS",
+          "intake": "9"
+        },
+        {
+          "name": "MDS in Oral and Maxillofacial Surgery",
+          "title": "MDS in Oral and Maxillofacial Surgery",
+          "division": "Postgraduate",
+          "duration": "3 Years",
+          "fees": "₹12,00,000/Year",
+          "eligibility": "BDS + NEET-MDS",
+          "exams": "NEET-MDS",
+          "intake": "9"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -58724,20 +58934,22 @@
       "id": 692,
       "reviewsCount": 265,
       "image": "/images/campuses/campus_architecture_4.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRM%20Dental%20College%2C%20Ramapuram%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRM%20Dental%20College%2C%20Ramapuram%20Tamil%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 1996
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/christian-medical-college-vellore-24644",
-      "name": "CMC Vellore",
+      "name": "Christian Medical College (CMC Vellore - Bagayam Campus & Chittoor Centre)",
       "shortName": "CV",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "0416-2281000",
       "email": "admissions@cv.edu.in",
-      "website": "https://www.google.com/search?q=CMC%20Vellore%20official%20website%20Tamil%20Tamil%20Nadu",
-      "rating": 4.5,
+      "website": "https://www.cmch-vellore.edu",
+      "rating": 4.9,
       "reviews": 296,
       "type": "Private",
       "ownership": "Private",
@@ -58759,22 +58971,34 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "fees": "₹52,830/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "100"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
+          "name": "B.Sc in Medical Radiation Technology",
+          "title": "B.Sc in Medical Radiation Technology",
+          "division": "Undergraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹32,000/Year",
+          "eligibility": "10+2 with PCB",
+          "exams": "CMC Entrance",
+          "intake": "20"
+        },
+        {
+          "name": "Master of Public Health (MPH)",
+          "title": "Master of Public Health (MPH)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "Graduation in Health Sciences / Medicine",
+          "exams": "Test & Interview",
+          "intake": "15"
         }
       ],
       "highestPackage": "₹3.3 LPA",
@@ -58802,20 +59026,22 @@
       "id": 693,
       "reviewsCount": 296,
       "image": "https://www.cmcvellorechittoorcampus.ac.in/wp-content/uploads/2020/04/cmc-front-view-latif-cropped.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CMC%20Vellore%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CMC%20Vellore%20Tamil%20Tamil%20Nadu",
+      "city": "Vellore",
+      "established": 1900
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/amrita-school-of-engineering-amrita-vishwa-vidyapeetham-coimbatore-36898",
-      "name": "Amrita School of Engineering Coimbatore",
+      "name": "Amrita School of Engineering (Amrita Vishwa Vidyapeetham, Ettimadai, Coimbatore)",
       "shortName": "ASOEC",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "0422-2685000",
       "email": "admissions@asoec.edu.in",
-      "website": "https://www.google.com/search?q=Amrita%20School%20of%20Engineering%20Coimbatore%20official%20website%20Tamil%20Tamil%20Nadu",
-      "rating": 4.5,
+      "website": "https://www.amrita.edu/school/engineering/coimbatore/",
+      "rating": 4.7,
       "reviews": 263,
       "type": "Private",
       "ownership": "Private",
@@ -58838,30 +59064,53 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹3,50,000/Year",
+          "eligibility": "10+2 with 60% PCM + AEEE / JEE Main",
+          "exams": "AEEE, JEE Main",
+          "intake": "360"
         },
         {
+          "name": "B.Tech in Artificial Intelligence & Data Science",
           "title": "B.Tech in Artificial Intelligence & Data Science",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹3,50,000/Year",
+          "eligibility": "10+2 with PCM + AEEE",
+          "exams": "AEEE",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Electronics and Communication Engineering",
+          "title": "B.Tech in Electronics and Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹3,00,000/Year",
+          "eligibility": "10+2 with PCM + AEEE",
+          "exams": "AEEE",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in Aerospace Engineering",
+          "title": "B.Tech in Aerospace Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹3,00,000/Year",
+          "eligibility": "10+2 with PCM + AEEE",
+          "exams": "AEEE",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "name": "M.Tech in Artificial Intelligence & Robotics",
+          "title": "M.Tech in Artificial Intelligence & Robotics",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
+          "fees": "₹1,80,000/Year",
+          "eligibility": "B.Tech + GATE",
+          "exams": "GATE",
           "intake": "30"
         }
       ],
@@ -58895,7 +59144,9 @@
       "id": 694,
       "reviewsCount": 263,
       "image": "/images/campuses/campus_architecture_2.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Amrita%20School%20of%20Engineering%20Coimbatore%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Amrita%20School%20of%20Engineering%20Coimbatore%20Tamil%20Tamil%20Nadu",
+      "city": "Coimbatore",
+      "established": 1994
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/p-k-das-university-coimbatore-247284",

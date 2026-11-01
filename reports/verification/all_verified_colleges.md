@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1040 / 12,660**  
-**Roadmap Progress**: **104.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1050 / 12,660**  
+**Roadmap Progress**: **105.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1569,4 +1569,19 @@
 | **682** | Takshashila University (Ongur, Tindivanam, Villupuram) | Private | Takshashila University, Ongur Tindivanam Taluk | [www.takshashilauniv.ac.in](https://www.takshashilauniv.ac.in) |
 | **683** | SRM Institute of Science and Technology, Tiruchirappalli Campus (SRMIST Trichy) | Private | SRM Nagar Trichy – Chennai Highways, near Samayapuram | [ist.srmtrichy.edu.in](https://ist.srmtrichy.edu.in) |
 | **684** | Chettinad Academy of Research and Education (CARE Deemed University, Kelambakkam, Chennai) | Private | Rajiv Gandhi Salai, Chengalpattu District | [care.edu.in](https://care.edu.in) |
+
+### Batch 105 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **685** | PSG Institute of Medical Sciences and Research (PSG IMSR, Peelamedu, Coimbatore) | Private | Tamil Nadu, India | [psgimsr.ac.in](https://psgimsr.ac.in) |
+| **686** | Vels Institute of Science, Technology & Advanced Studies (VISTAS Deemed University, Pallavaram, Chennai) | Private | Tamil Nadu, India | [vistas.ac.in](https://vistas.ac.in) |
+| **687** | Sri Ramachandra Institute of Higher Education and Research (SRIHER Deemed University, Porur, Chennai) | Private | Tamil Nadu, India | [www.sriramachandra.edu.in](https://www.sriramachandra.edu.in) |
+| **688** | Madras Medical College & Rajiv Gandhi Government General Hospital (MMC Chennai, Park Town) | Public/Government | Tamil Nadu, India | [mmc.ac.in](https://mmc.ac.in) |
+| **689** | SRM College of Pharmacy (SRM Institute of Science and Technology, Kattankulathur) | Private | Chengalpattu District, Tamil Nadu. | [www.srmist.edu.in](https://www.srmist.edu.in/department/college-of-pharmacy/) |
+| **690** | SRM Institute of Science and Technology (SRMIST Ramapuram Campus, Chennai) | Private | SRM Institute of Science and Technology, Bharathi Salai | [srmrmp.edu.in](https://srmrmp.edu.in) |
+| **691** | SRM Medical College Hospital and Research Centre (Kattankulathur, Chengalpattu) | Private | Tamil Nadu, India | [www.srmist.edu.in](https://www.srmist.edu.in/college/medical-college/) |
+| **692** | SRM Dental College (Ramapuram Campus, Chennai) | Private | Tamil Nadu, India | [srmdentalcollege.ac.in](https://srmdentalcollege.ac.in) |
+| **693** | Christian Medical College (CMC Vellore - Bagayam Campus & Chittoor Centre) | Private | Tamil Nadu, India | [www.cmch-vellore.edu](https://www.cmch-vellore.edu) |
+| **694** | Amrita School of Engineering (Amrita Vishwa Vidyapeetham, Ettimadai, Coimbatore) | Private | Tamil Nadu, India | [www.amrita.edu](https://www.amrita.edu/school/engineering/coimbatore/) |
 

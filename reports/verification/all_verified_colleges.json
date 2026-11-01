@@ -7798,5 +7798,80 @@
         "website": "https://care.edu.in"
       }
     ]
+  },
+  {
+    "batch": 105,
+    "items": [
+      {
+        "id": 685,
+        "name": "PSG Institute of Medical Sciences and Research (PSG IMSR, Peelamedu, Coimbatore)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://psgimsr.ac.in"
+      },
+      {
+        "id": 686,
+        "name": "Vels Institute of Science, Technology & Advanced Studies (VISTAS Deemed University, Pallavaram, Chennai)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://vistas.ac.in"
+      },
+      {
+        "id": 687,
+        "name": "Sri Ramachandra Institute of Higher Education and Research (SRIHER Deemed University, Porur, Chennai)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.sriramachandra.edu.in"
+      },
+      {
+        "id": 688,
+        "name": "Madras Medical College & Rajiv Gandhi Government General Hospital (MMC Chennai, Park Town)",
+        "type": "Public/Government",
+        "location": "Tamil Nadu, India",
+        "website": "https://mmc.ac.in"
+      },
+      {
+        "id": 689,
+        "name": "SRM College of Pharmacy (SRM Institute of Science and Technology, Kattankulathur)",
+        "type": "Private",
+        "location": "Chengalpattu District, Tamil Nadu.",
+        "website": "https://www.srmist.edu.in/department/college-of-pharmacy/"
+      },
+      {
+        "id": 690,
+        "name": "SRM Institute of Science and Technology (SRMIST Ramapuram Campus, Chennai)",
+        "type": "Private",
+        "location": "SRM Institute of Science and Technology, Bharathi Salai",
+        "website": "https://srmrmp.edu.in"
+      },
+      {
+        "id": 691,
+        "name": "SRM Medical College Hospital and Research Centre (Kattankulathur, Chengalpattu)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.srmist.edu.in/college/medical-college/"
+      },
+      {
+        "id": 692,
+        "name": "SRM Dental College (Ramapuram Campus, Chennai)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://srmdentalcollege.ac.in"
+      },
+      {
+        "id": 693,
+        "name": "Christian Medical College (CMC Vellore - Bagayam Campus & Chittoor Centre)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.cmch-vellore.edu"
+      },
+      {
+        "id": 694,
+        "name": "Amrita School of Engineering (Amrita Vishwa Vidyapeetham, Ettimadai, Coimbatore)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.amrita.edu/school/engineering/coimbatore/"
+      }
+    ]
   }
 ]
