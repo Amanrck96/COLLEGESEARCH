@@ -9973,5 +9973,80 @@
         "website": "https://keystonegroup.edu.in"
       }
     ]
+  },
+  {
+    "batch": 134,
+    "items": [
+      {
+        "id": 1002,
+        "name": "Mahila Technical and Management College",
+        "type": "Private",
+        "location": "Jodhpur, Rajasthan - 342008",
+        "website": "https://mahilapgcollege.org"
+      },
+      {
+        "id": 1003,
+        "name": "Government Polytechnic College Mandore, Jodhpur",
+        "type": "Public/Government",
+        "location": "Jodhpur, Rajasthan - 342001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcjodhpur"
+      },
+      {
+        "id": 1004,
+        "name": "Bikaner Technical University",
+        "type": "Public/Government",
+        "location": "Bikaner, Rajasthan - 334004",
+        "website": "https://btu.ac.in"
+      },
+      {
+        "id": 1005,
+        "name": "National Institute of Electronics and Information Technology, Ajmer",
+        "type": "Public/Government",
+        "location": "Ajmer, Rajasthan - 305001",
+        "website": "https://nielit.gov.in/ajmer/"
+      },
+      {
+        "id": 1006,
+        "name": "Surendera Group of Institutions",
+        "type": "Private",
+        "location": "Sri Ganganagar, Rajasthan - 335001",
+        "website": "https://sgi.edu.in"
+      },
+      {
+        "id": 1007,
+        "name": "CLG Institute of Engineering and Technology",
+        "type": "Private",
+        "location": "District Pali, Rajasthan - 306902",
+        "website": "https://clginstitute.ac.in"
+      },
+      {
+        "id": 1008,
+        "name": "Jaipur Institute of Engineering and Management",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302022",
+        "website": "https://jiemjaipur.com"
+      },
+      {
+        "id": 1009,
+        "name": "Northern Institute of Engineering Technical Campus",
+        "type": "Private",
+        "location": "Alwar, Rajasthan - 301028",
+        "website": "https://nietalwar.com"
+      },
+      {
+        "id": 1010,
+        "name": "Khatu Naresh Institute of Technology",
+        "type": "Private",
+        "location": "Dausa, Rajasthan - 303303",
+        "website": "https://knitdausa.org"
+      },
+      {
+        "id": 1011,
+        "name": "Rajasthan Engineering College",
+        "type": "Private",
+        "location": "Dausa, Rajasthan - 303303",
+        "website": "https://recdausa.com"
+      }
+    ]
   }
 ]

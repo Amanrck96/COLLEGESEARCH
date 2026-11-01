@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1330 / 12,660**  
-**Roadmap Progress**: **133.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1340 / 12,660**  
+**Roadmap Progress**: **134.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2004,4 +2004,19 @@
 | **999** | Government Polytechnic College Kelwara (Baran) | Public/Government | Baran, Rajasthan - 325216 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpckelwara) |
 | **1000** | Government Engineering College Baran (GEC Baran) | Public/Government | Baran, Rajasthan - 325206 | [gecbaran.ac.in](https://gecbaran.ac.in) |
 | **1001** | Keystone Group of Institutions (Surajgarh, Jhunjhunu) | Private | Jhunjhunu, Rajasthan - 333031 | [keystonegroup.edu.in](https://keystonegroup.edu.in) |
+
+### Batch 134 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1002** | Mahila Technical and Management College | Private | Jodhpur, Rajasthan - 342008 | [mahilapgcollege.org](https://mahilapgcollege.org) |
+| **1003** | Government Polytechnic College Mandore, Jodhpur | Public/Government | Jodhpur, Rajasthan - 342001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcjodhpur) |
+| **1004** | Bikaner Technical University | Public/Government | Bikaner, Rajasthan - 334004 | [btu.ac.in](https://btu.ac.in) |
+| **1005** | National Institute of Electronics and Information Technology, Ajmer | Public/Government | Ajmer, Rajasthan - 305001 | [nielit.gov.in](https://nielit.gov.in/ajmer/) |
+| **1006** | Surendera Group of Institutions | Private | Sri Ganganagar, Rajasthan - 335001 | [sgi.edu.in](https://sgi.edu.in) |
+| **1007** | CLG Institute of Engineering and Technology | Private | District Pali, Rajasthan - 306902 | [clginstitute.ac.in](https://clginstitute.ac.in) |
+| **1008** | Jaipur Institute of Engineering and Management | Private | Jaipur, Rajasthan - 302022 | [jiemjaipur.com](https://jiemjaipur.com) |
+| **1009** | Northern Institute of Engineering Technical Campus | Private | Alwar, Rajasthan - 301028 | [nietalwar.com](https://nietalwar.com) |
+| **1010** | Khatu Naresh Institute of Technology | Private | Dausa, Rajasthan - 303303 | [knitdausa.org](https://knitdausa.org) |
+| **1011** | Rajasthan Engineering College | Private | Dausa, Rajasthan - 303303 | [recdausa.com](https://recdausa.com) |
 
