@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **830 / 12,660**  
-**Roadmap Progress**: **83.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **840 / 12,660**  
+**Roadmap Progress**: **84.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1254,4 +1254,19 @@
 | **435** | Saroj Mohan Institute of Technology (SMIT Hooghly, West Bengal) | Private | BADHAGACHI, GUPTIPARA HOOGHLY PIN-712512 | [smitgp.edu.in](https://smitgp.edu.in) |
 | **436** | Maulana Abul Kalam Azad University of Technology (MAKAUT, West Bengal) | Public/Government | NH-12, | [makautwb.ac.in](https://makautwb.ac.in) |
 | **437** | The West Bengal National University of Juridical Sciences (WBNUJS Kolkata) | Public/Government | West Bengal, India | [www.nujs.edu](https://www.nujs.edu) |
+
+### Batch 84 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **438** | Techno India University (Salt Lake, Sector V, Kolkata) | Private | JOKA, KOLKATA | [www.technoindiauniversity.ac.in](https://www.technoindiauniversity.ac.in) |
+| **439** | Central Institute of Petrochemicals Engineering and Technology (CIPET: IPT Haldia) | Public/Government | CITY CENTRE, P.O- DEBHOG | [www.cipet.gov.in](https://www.cipet.gov.in) |
+| **440** | International Management Institute Kolkata (IMI Kolkata, Alipore) | Private | JUDGES COURT ROAD, ALIPORE | [www.imi-k.edu.in](https://www.imi-k.edu.in) |
+| **441** | Calcutta Business School (CBS Kolkata, South 24 Parganas) | Private | JL NO 30 RS NO 153 BISHNUPUR 24 PARGANAS SOUTH | [calcuttabusinessschool.org](https://calcuttabusinessschool.org) |
+| **442** | Guru Nanak Institute of Technology (GNIT Kolkata, Sodepur) | Private | West Bengal, India | [gnit.ac.in](https://gnit.ac.in) |
+| **443** | Indian Institute of Information Technology, Kalyani (IIIT Kalyani) | Public/Government | Nadia, WB | [iiitkalyani.ac.in](https://iiitkalyani.ac.in) |
+| **444** | Maulana Abul Kalam Azad University of Technology Main Campus (MAKAUT Haringhata) | Public/Government | West Bengal, India | [makautwb.ac.in](https://makautwb.ac.in) |
+| **445** | Narula Institute of Technology (NiT Agarpara, Kolkata) | Private | West Bengal, India | [www.nit.ac.in](https://www.nit.ac.in) |
+| **446** | JIS College of Engineering (JISCE Kalyani, Nadia) | Private | Block A5, Block A | [www.jiscollege.ac.in](https://www.jiscollege.ac.in) |
+| **447** | Haldia Institute of Technology (HIT Haldia, Purba Medinipur) | Private | West Bengal, India | [hithaldia.ac.in](https://hithaldia.ac.in) |
 

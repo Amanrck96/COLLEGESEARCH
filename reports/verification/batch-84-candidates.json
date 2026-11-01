@@ -1,0 +1,122 @@
+[
+  {
+    "id": 438,
+    "name": "TECHNO INDIA UNIVERSITY, WEST BENGAL",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.technoindiauniv.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 439,
+    "name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING AND TECHNOLOGY (CIPET)",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/primus_bangalore.jpg",
+    "website": "https://www.cipet.gov.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "coursesCount": 1
+  },
+  {
+    "id": 440,
+    "name": "IMI KOLKATA",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.imikolkata.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "coursesCount": 1
+  },
+  {
+    "id": 441,
+    "name": "CALCUTTA BUSINESS SCHOOL",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.calcuttabusines.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "coursesCount": 1
+  },
+  {
+    "id": 442,
+    "name": "Guru Nanak Institute of Technology",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://assets.kollegeapply.com/images/1751563790634-1652252517phpfEBcxg.jpeg",
+    "website": "https://www.google.com/search?q=Guru%20Nanak%20Institute%20of%20Technology%20official%20website%20West%20West%20Bengal",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 443,
+    "name": "Indian Institute of Information Technology, Kalyani",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bangalore_university.jpg",
+    "website": "https://website@iiitkalyani.ac.in",
+    "phone": "9832377258",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 444,
+    "name": "MAKAUT",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.google.com/search?q=MAKAUT%20official%20website%20West%20West%20Bengal",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 5
+  },
+  {
+    "id": 445,
+    "name": "Narula Institute of Technology",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.google.com/search?q=Narula%20Institute%20of%20Technology%20official%20website%20West%20West%20Bengal",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 4
+  },
+  {
+    "id": 446,
+    "name": "JIS College of Engineering, Kolkata",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.jiscollege.ac.in/assets/images/slider/2.jpg",
+    "website": "https://www.jiscollege.ac.in",
+    "phone": "9432011490 ",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 447,
+    "name": "Haldia Institute of Technology",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.google.com/search?q=Haldia%20Institute%20of%20Technology%20official%20website%20West%20West%20Bengal",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  }
+]

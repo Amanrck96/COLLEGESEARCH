@@ -6223,5 +6223,80 @@
         "website": "https://www.nujs.edu"
       }
     ]
+  },
+  {
+    "batch": 84,
+    "items": [
+      {
+        "id": 438,
+        "name": "Techno India University (Salt Lake, Sector V, Kolkata)",
+        "type": "Private",
+        "location": "JOKA, KOLKATA",
+        "website": "https://www.technoindiauniversity.ac.in"
+      },
+      {
+        "id": 439,
+        "name": "Central Institute of Petrochemicals Engineering and Technology (CIPET: IPT Haldia)",
+        "type": "Public/Government",
+        "location": "CITY CENTRE, P.O- DEBHOG",
+        "website": "https://www.cipet.gov.in"
+      },
+      {
+        "id": 440,
+        "name": "International Management Institute Kolkata (IMI Kolkata, Alipore)",
+        "type": "Private",
+        "location": "JUDGES COURT ROAD, ALIPORE",
+        "website": "https://www.imi-k.edu.in"
+      },
+      {
+        "id": 441,
+        "name": "Calcutta Business School (CBS Kolkata, South 24 Parganas)",
+        "type": "Private",
+        "location": "JL NO 30 RS NO 153 BISHNUPUR 24 PARGANAS SOUTH",
+        "website": "https://calcuttabusinessschool.org"
+      },
+      {
+        "id": 442,
+        "name": "Guru Nanak Institute of Technology (GNIT Kolkata, Sodepur)",
+        "type": "Private",
+        "location": "West Bengal, India",
+        "website": "https://gnit.ac.in"
+      },
+      {
+        "id": 443,
+        "name": "Indian Institute of Information Technology, Kalyani (IIIT Kalyani)",
+        "type": "Public/Government",
+        "location": "Nadia, WB",
+        "website": "https://iiitkalyani.ac.in"
+      },
+      {
+        "id": 444,
+        "name": "Maulana Abul Kalam Azad University of Technology Main Campus (MAKAUT Haringhata)",
+        "type": "Public/Government",
+        "location": "West Bengal, India",
+        "website": "https://makautwb.ac.in"
+      },
+      {
+        "id": 445,
+        "name": "Narula Institute of Technology (NiT Agarpara, Kolkata)",
+        "type": "Private",
+        "location": "West Bengal, India",
+        "website": "https://www.nit.ac.in"
+      },
+      {
+        "id": 446,
+        "name": "JIS College of Engineering (JISCE Kalyani, Nadia)",
+        "type": "Private",
+        "location": "Block A5, Block A",
+        "website": "https://www.jiscollege.ac.in"
+      },
+      {
+        "id": 447,
+        "name": "Haldia Institute of Technology (HIT Haldia, Purba Medinipur)",
+        "type": "Private",
+        "location": "West Bengal, India",
+        "website": "https://hithaldia.ac.in"
+      }
+    ]
   }
 ]
