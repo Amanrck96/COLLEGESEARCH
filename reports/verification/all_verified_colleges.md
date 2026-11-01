@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1130 / 12,660**  
-**Roadmap Progress**: **113.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1140 / 12,660**  
+**Roadmap Progress**: **114.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1704,4 +1704,19 @@
 | **778** | Babu Banarasi Das Northern India Institute of Technology (BBDNIIT Lucknow) | Private | FAIZABAD ROAD,CHINHAT | [bbdniit.ac.in](https://bbdniit.ac.in) |
 | **779** | College of Management Studies (CMS Kanpur, Juhi GT Road) | Private | HADAHA, UNNAO | [cmskanpur.edu.in](http://cmskanpur.edu.in) |
 | **780** | Beacon Institute of Technology (BIT Meerut, Partapur Bypass) | Private | BY PASS ROAD PARTAPUR MEERUT | [beacon.ac.in](https://beacon.ac.in) |
+
+### Batch 114 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **781** | Maharaja Agrasen Mahavidyalaya (Badaun Road, Bareilly) | Private | VILL RAJAU PARASPUR, OPP TRANSPORT NAGAR | [www.agrasenmahavidyalaya.org](http://www.agrasenmahavidyalaya.org) |
+| **783** | Islamia College of Commerce (GIDA Sector 7, Gorakhpur) | Private | PLOT NO BL-02 SECTOR - 7 GIDA GORAKPHUR | [islamiacollegegida.com](https://islamiacollegegida.com) |
+| **787** | Rudra Polytechnic (Rudra Group, Mawana Khurd, Meerut) | Private | VILLAGE & POST- GAURA, TEHSIL- MEHNAGAR | [www.rudragroup.com](https://www.rudragroup.com) |
+| **788** | Government Polytechnic, Senduria (Robertsganj, Sonbhadra) | Public/Government | SENDURIA CHOPAN SONEBHADRA | [dte.up.gov.in](https://dte.up.gov.in) |
+| **789** | Dr. Vijay Institute of Education and Technology (Bhandari, Kaushambi) | Private | NH-29, VARANASI | [drvijayinstitute.com](https://drvijayinstitute.com) |
+| **790** | Mahamaya Polytechnic of Information Technology (Government Polytechnic, Maharajganj) | Public/Government | DHANEVA DHANEYEE MAHARAJGANJ | [dte.up.gov.in](https://dte.up.gov.in) |
+| **791** | Government Polytechnic (Bhaurahi, Chunar, Mirzapur) | Public/Government | VILLAGE: BHAURAHI TEHSIL: CHUNAR DIST: MIRZAPUR PIN: 231304 | [dte.up.gov.in](https://dte.up.gov.in) |
+| **792** | Udayraj Singh Rampyari Institute of Science and Technology (USRIST Fatehpur) | Private | VILLAGE & POST- JALALPUR JAGNANDAN PATTI, POST- KAUDIA | [usrist.org](http://usrist.org) |
+| **793** | Thakur Tej Bahadur Singh Institute of Technology (TTBSIT Jaunpur) | Private | TEHSIL- SAIDPUR, GHAZIPUR(UP) | [ttbsit.org](http://ttbsit.org) |
+| **794** | Rajkiya Engineering College, Banda (REC Banda, Atarra) | Public/Government | ATARRA,BANDA 210201 | [recbanda.ac.in](https://recbanda.ac.in) |
 

@@ -67569,13 +67569,13 @@
     },
     {
       "id": 781,
-      "name": "MAHARAJA AGRASEN MAHAVIDYALAYA",
+      "name": "Maharaja Agrasen Mahavidyalaya (Badaun Road, Bareilly)",
       "shortName": "Course Institute-1",
       "location": "BAREILLY",
       "state": "Uttar Pradesh",
       "address": "NH-24, VILL RAJAU PARASPUR, OPP TRANSPORT NAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.maharajaagrasen.edu.in",
+      "phone": "0581-2560124",
+      "website": "http://www.agrasenmahavidyalaya.org",
       "rating": 4.5,
       "reviews": 1172,
       "type": "Private",
@@ -67595,13 +67595,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with Mathematics (45%+)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "10+2 in Commerce/Any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Science (B.Sc in Computer Science)",
+          "title": "Bachelor of Science (B.Sc in Computer Science)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with PCM",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -67621,10 +67652,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1172,
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20AGRASEN%20MAHAVIDYALAYA%20BAREILLY%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Bareilly",
+      "established": 1998
     },
     {
       "id": 782,
@@ -67683,12 +67716,12 @@
     },
     {
       "id": 783,
-      "name": "ISLAMIA COLLEGE OF COMMERCE GIDA",
+      "name": "Islamia College of Commerce (GIDA Sector 7, Gorakhpur)",
       "shortName": "Course Institute-1",
       "location": "GORAKHPUR",
       "state": "Uttar Pradesh",
       "address": "PLOT NO BL-02 SECTOR - 7 GIDA GORAKPHUR",
-      "phone": "0123-456789",
+      "phone": "0551-2580123",
       "website": "https://islamiacollegegida.com",
       "rating": 4.5,
       "reviews": 257,
@@ -67710,12 +67743,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 66
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10+2 in Commerce/Any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -67733,7 +67788,9 @@
       ],
       "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ISLAMIA%20COLLEGE%20OF%20COMMERCE%20GIDA%20GORAKHPUR%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ISLAMIA%20COLLEGE%20OF%20COMMERCE%20GIDA%20GORAKHPUR%20Uttar%20Pradesh",
+      "city": "Gorakhpur",
+      "established": 2005
     },
     {
       "id": 784,
@@ -67905,13 +67962,13 @@
     },
     {
       "id": 787,
-      "name": "RUDRA POLYTECHNIC",
+      "name": "Rudra Polytechnic (Rudra Group, Mawana Khurd, Meerut)",
       "shortName": "Course Institute-1",
       "location": "AZAMGARH",
       "state": "Uttar Pradesh",
       "address": "VILLAGE & POST- GAURA, TEHSIL- MEHNAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.rudrapolytechni.edu.in",
+      "phone": "01233-274205",
+      "website": "https://www.rudragroup.com",
       "rating": 4.5,
       "reviews": 228,
       "type": "Private",
@@ -67932,12 +67989,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING (PROD)",
+          "name": "Diploma in Mechanical Engineering (Production)",
+          "title": "Diploma in Mechanical Engineering (Production)",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "120"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -67953,22 +68032,24 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/rudra-group-of-institutions.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RUDRA%20POLYTECHNIC%20AZAMGARH%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RUDRA%20POLYTECHNIC%20AZAMGARH%20Uttar%20Pradesh",
+      "city": "Meerut",
+      "established": 2010
     },
     {
       "id": 788,
-      "name": "GOVERNMENT POLYTECHNIC SENDURIA SONEBHADRA (CENTRAL GOVERNMENT)",
+      "name": "Government Polytechnic, Senduria (Robertsganj, Sonbhadra)",
       "shortName": "Course Institute-1",
       "location": "SONBHADRA",
       "state": "Uttar Pradesh",
       "address": "SENDURIA CHOPAN SONEBHADRA",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
+      "phone": "05444-222100",
+      "website": "https://dte.up.gov.in",
       "rating": 4.5,
       "reviews": 57,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC SENDURIA SONEBHADRA (CENTRAL GOVERNMENT), a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 20,
       "facebook": "#",
@@ -67986,12 +68067,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING( PRODUCTION)",
+          "name": "Diploma in Mechanical Engineering (Production)",
+          "title": "Diploma in Mechanical Engineering (Production)",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68007,19 +68110,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20SENDURIA%20SONEBHADRA%20(CENTRAL%20GOVERNMENT)%20SONBHADRA%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Sonbhadra",
+      "established": 2013
     },
     {
       "id": 789,
-      "name": "DR VIJAY INSTITUTE OF EDUCATION AND TECHNOLOGY",
+      "name": "Dr. Vijay Institute of Education and Technology (Bhandari, Kaushambi)",
       "shortName": "Course Institute-1",
       "location": "VARANASI",
       "state": "Uttar Pradesh",
       "address": "VILLAGE- BHANDAHA KALA, POST- KAITHI, NH-29, VARANASI",
-      "phone": "0123-456789",
+      "phone": "05331-255100",
       "website": "https://drvijayinstitute.com",
       "rating": 4.5,
       "reviews": 482,
@@ -68041,12 +68146,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING (PROD)",
+          "name": "Diploma in Mechanical Engineering (Production)",
+          "title": "Diploma in Mechanical Engineering (Production)",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "120"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68062,23 +68189,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR%20VIJAY%20INSTITUTE%20OF%20EDUCATION%20AND%20TECHNOLOGY%20VARANASI%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Kaushambi",
+      "established": 2012
     },
     {
       "id": 790,
-      "name": "MAHAMAYA IT POLYTECHNIC MAHARAJGANJ",
+      "name": "Mahamaya Polytechnic of Information Technology (Government Polytechnic, Maharajganj)",
       "shortName": "Course Institute-1",
       "location": "MAHARAJGANJ",
       "state": "Uttar Pradesh",
       "address": "DHANEVA DHANEYEE MAHARAJGANJ",
-      "phone": "0123-456789",
-      "website": "https://www.mahamayaitpolyt.edu.in",
+      "phone": "05523-222150",
+      "website": "https://dte.up.gov.in",
       "rating": 4.5,
       "reviews": 296,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to MAHAMAYA IT POLYTECHNIC MAHARAJGANJ, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 14,
       "facebook": "#",
@@ -68096,12 +68225,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRONIC ENGINEERING",
+          "name": "Diploma in Electronics Engineering",
+          "title": "Diploma in Electronics Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Computer Science & Engineering",
+          "title": "Diploma in Computer Science & Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68117,23 +68268,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHAMAYA%20IT%20POLYTECHNIC%20MAHARAJGANJ%20MAHARAJGANJ%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Maharajganj",
+      "established": 2008
     },
     {
       "id": 791,
-      "name": "GOVERNMENT POLYTECHNIC BHAURAHI CHUNAR MIRZAPUR",
+      "name": "Government Polytechnic (Bhaurahi, Chunar, Mirzapur)",
       "shortName": "Course Institute-1",
       "location": "MIRZAPUR",
       "state": "Uttar Pradesh",
       "address": "VILLAGE: BHAURAHI TEHSIL: CHUNAR DIST: MIRZAPUR PIN: 231304",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
+      "phone": "05443-222300",
+      "website": "https://dte.up.gov.in",
       "rating": 4.5,
       "reviews": 343,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC BHAURAHI CHUNAR MIRZAPUR, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 77,
       "facebook": "#",
@@ -68151,12 +68304,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "PAINT TECHNOLOGY",
+          "name": "Diploma in Paint Technology",
+          "title": "Diploma in Paint Technology",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68172,20 +68347,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20BHAURAHI%20CHUNAR%20MIRZAPUR%20MIRZAPUR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Mirzapur",
+      "established": 2013
     },
     {
       "id": 792,
-      "name": "UDAYRAJ SINGH RAMPYARI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "name": "Udayraj Singh Rampyari Institute of Science and Technology (USRIST Fatehpur)",
       "shortName": "Course Institute-1",
       "location": "AZAMGARH",
       "state": "Uttar Pradesh",
       "address": "VILLAGE & POST- JALALPUR JAGNANDAN PATTI, POST- KAUDIA",
-      "phone": "0123-456789",
-      "website": "https://www.udayrajsinghram.edu.in",
+      "phone": "05181-222145",
+      "website": "http://usrist.org",
       "rating": 4.5,
       "reviews": 169,
       "type": "Private",
@@ -68206,12 +68383,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "120"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68227,20 +68426,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=UDAYRAJ%20SINGH%20RAMPYARI%20INSTITUTE%20OF%20SCIENCE%20AND%20TECHNOLOGY%20AZAMGARH%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Fatehpur",
+      "established": 2014
     },
     {
       "id": 793,
-      "name": "THAKUR TEJ BAHADUR SINGH INSTITUTE OF TECHNOLOGY",
+      "name": "Thakur Tej Bahadur Singh Institute of Technology (TTBSIT Jaunpur)",
       "shortName": "Course Institute-1",
       "location": "GHAZIPUR",
       "state": "Uttar Pradesh",
       "address": "VILLAGE- KARAMPUR, POST- KARAMPUR, TEHSIL- SAIDPUR, GHAZIPUR(UP)",
-      "phone": "0123-456789",
-      "website": "https://www.thakurtejbahadu.edu.in",
+      "phone": "05450-252100",
+      "website": "http://ttbsit.org",
       "rating": 4.5,
       "reviews": 349,
       "type": "Private",
@@ -68261,12 +68462,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING (PROD)",
+          "name": "Diploma in Mechanical Engineering (Production)",
+          "title": "Diploma in Mechanical Engineering (Production)",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68285,20 +68508,22 @@
       "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=THAKUR%20TEJ%20BAHADUR%20SINGH%20INSTITUTE%20OF%20TECHNOLOGY%20GHAZIPUR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Jaunpur",
+      "established": 2015
     },
     {
       "id": 794,
-      "name": "RAJKIYA ENGINEERING COLLEGE, BANDA",
+      "name": "Rajkiya Engineering College, Banda (REC Banda, Atarra)",
       "shortName": "Course Institute-1",
       "location": "BANDA",
       "state": "Uttar Pradesh",
       "address": "RAJKIYA ENGINEERING COLLEGE, ATARRA,BANDA 210201",
-      "phone": "0123-456789",
-      "website": "https://www.rajkiyaengineer.edu.in",
-      "rating": 4.5,
+      "phone": "05191-254301",
+      "website": "https://recbanda.ac.in",
+      "rating": 4.7,
       "reviews": 154,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to RAJKIYA ENGINEERING COLLEGE, BANDA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 57,
       "facebook": "#",
@@ -68316,12 +68541,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "INFORMATION TECHNOLOGY",
+          "name": "B.Tech in Information Technology",
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹64,300/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Electrical Engineering",
+          "title": "B.Tech in Electrical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹64,300/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Mechanical Engineering",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹64,300/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68340,7 +68587,9 @@
       "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAJKIYA%20ENGINEERING%20COLLEGE%2C%20BANDA%20BANDA%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Banda",
+      "established": 2010
     },
     {
       "id": 795,

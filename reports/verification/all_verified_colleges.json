@@ -8473,5 +8473,80 @@
         "website": "https://beacon.ac.in"
       }
     ]
+  },
+  {
+    "batch": 114,
+    "items": [
+      {
+        "id": 781,
+        "name": "Maharaja Agrasen Mahavidyalaya (Badaun Road, Bareilly)",
+        "type": "Private",
+        "location": "VILL RAJAU PARASPUR, OPP TRANSPORT NAGAR",
+        "website": "http://www.agrasenmahavidyalaya.org"
+      },
+      {
+        "id": 783,
+        "name": "Islamia College of Commerce (GIDA Sector 7, Gorakhpur)",
+        "type": "Private",
+        "location": "PLOT NO BL-02 SECTOR - 7 GIDA GORAKPHUR",
+        "website": "https://islamiacollegegida.com"
+      },
+      {
+        "id": 787,
+        "name": "Rudra Polytechnic (Rudra Group, Mawana Khurd, Meerut)",
+        "type": "Private",
+        "location": "VILLAGE & POST- GAURA, TEHSIL- MEHNAGAR",
+        "website": "https://www.rudragroup.com"
+      },
+      {
+        "id": 788,
+        "name": "Government Polytechnic, Senduria (Robertsganj, Sonbhadra)",
+        "type": "Public/Government",
+        "location": "SENDURIA CHOPAN SONEBHADRA",
+        "website": "https://dte.up.gov.in"
+      },
+      {
+        "id": 789,
+        "name": "Dr. Vijay Institute of Education and Technology (Bhandari, Kaushambi)",
+        "type": "Private",
+        "location": "NH-29, VARANASI",
+        "website": "https://drvijayinstitute.com"
+      },
+      {
+        "id": 790,
+        "name": "Mahamaya Polytechnic of Information Technology (Government Polytechnic, Maharajganj)",
+        "type": "Public/Government",
+        "location": "DHANEVA DHANEYEE MAHARAJGANJ",
+        "website": "https://dte.up.gov.in"
+      },
+      {
+        "id": 791,
+        "name": "Government Polytechnic (Bhaurahi, Chunar, Mirzapur)",
+        "type": "Public/Government",
+        "location": "VILLAGE: BHAURAHI TEHSIL: CHUNAR DIST: MIRZAPUR PIN: 231304",
+        "website": "https://dte.up.gov.in"
+      },
+      {
+        "id": 792,
+        "name": "Udayraj Singh Rampyari Institute of Science and Technology (USRIST Fatehpur)",
+        "type": "Private",
+        "location": "VILLAGE & POST- JALALPUR JAGNANDAN PATTI, POST- KAUDIA",
+        "website": "http://usrist.org"
+      },
+      {
+        "id": 793,
+        "name": "Thakur Tej Bahadur Singh Institute of Technology (TTBSIT Jaunpur)",
+        "type": "Private",
+        "location": "TEHSIL- SAIDPUR, GHAZIPUR(UP)",
+        "website": "http://ttbsit.org"
+      },
+      {
+        "id": 794,
+        "name": "Rajkiya Engineering College, Banda (REC Banda, Atarra)",
+        "type": "Public/Government",
+        "location": "ATARRA,BANDA 210201",
+        "website": "https://recbanda.ac.in"
+      }
+    ]
   }
 ]

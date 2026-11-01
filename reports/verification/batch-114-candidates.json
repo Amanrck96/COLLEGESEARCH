@@ -1,0 +1,203 @@
+[
+  {
+    "id": 781,
+    "name": "MAHARAJA AGRASEN MAHAVIDYALAYA",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.maharajaagrasen.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 783,
+    "name": "ISLAMIA COLLEGE OF COMMERCE GIDA",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://islamiacollegegida.com",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 66
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "name": "RUDRA POLYTECHNIC",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/rudra-group-of-institutions.jpg",
+    "website": "https://www.rudrapolytechni.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MECHANICAL ENGINEERING (PROD)",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "name": "GOVERNMENT POLYTECHNIC SENDURIA SONEBHADRA (CENTRAL GOVERNMENT)",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MECHANICAL ENGINEERING( PRODUCTION)",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 789,
+    "name": "DR VIJAY INSTITUTE OF EDUCATION AND TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/sheila_raheja_bandra.webp",
+    "website": "https://drvijayinstitute.com",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MECHANICAL ENGINEERING (PROD)",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "name": "MAHAMAYA IT POLYTECHNIC MAHARAJGANJ",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/sheila_raheja_bandra.webp",
+    "website": "https://www.mahamayaitpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRONIC ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "name": "GOVERNMENT POLYTECHNIC BHAURAHI CHUNAR MIRZAPUR",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "PAINT TECHNOLOGY",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 792,
+    "name": "UDAYRAJ SINGH RAMPYARI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.udayrajsinghram.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRICAL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "name": "THAKUR TEJ BAHADUR SINGH INSTITUTE OF TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.thakurtejbahadu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MECHANICAL ENGINEERING (PROD)",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "name": "RAJKIYA ENGINEERING COLLEGE, BANDA",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.rajkiyaengineer.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "INFORMATION TECHNOLOGY",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  }
+]
