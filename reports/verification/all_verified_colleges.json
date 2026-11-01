@@ -3598,5 +3598,80 @@
         "website": "https://www.nitt.edu"
       }
     ]
+  },
+  {
+    "batch": 49,
+    "items": [
+      {
+        "id": 45,
+        "name": "Indian Institute of Technology Dharwad (IIT Dharwad)",
+        "type": "Institute of National Importance",
+        "location": "Dharwad - 580007, Karnataka",
+        "website": "https://www.iitdh.ac.in"
+      },
+      {
+        "id": 46,
+        "name": "National Institute of Technology Karnataka (NIT Surathkal - Core Engineering)",
+        "type": "Institute of National Importance",
+        "location": "Mangalore - 575025, Karnataka",
+        "website": "https://www.nitk.ac.in"
+      },
+      {
+        "id": 47,
+        "name": "Indian Institute of Management Bodh Gaya (IIM Bodh Gaya)",
+        "type": "Institute of National Importance",
+        "location": "Bodh Gaya - 824234, Bihar",
+        "website": "https://www.iimbg.ac.in"
+      },
+      {
+        "id": 49,
+        "name": "Dr. B.R. Ambedkar National Institute of Technology Jalandhar (NIT Jalandhar)",
+        "type": "Institute of National Importance",
+        "location": "Jalandhar - 144008, Punjab",
+        "website": "https://www.nitj.ac.in"
+      },
+      {
+        "id": 50,
+        "name": "Indian Institute of Management Amritsar (IIM Amritsar)",
+        "type": "Institute of National Importance",
+        "location": "Amritsar - 143105, Punjab",
+        "website": "https://www.iimamritsar.ac.in"
+      },
+      {
+        "id": 51,
+        "name": "Indian Institute of Management Visakhapatnam (IIM Visakhapatnam)",
+        "type": "Institute of National Importance",
+        "location": "Visakhapatnam - 531163, Andhra Pradesh",
+        "website": "https://www.iimv.ac.in"
+      },
+      {
+        "id": 52,
+        "name": "National Institute of Technology Warangal (NIT Warangal)",
+        "type": "Institute of National Importance",
+        "location": "Warangal - 506004, Telangana",
+        "website": "https://www.nitw.ac.in"
+      },
+      {
+        "id": 53,
+        "name": "Indian Institute of Management Indore (IIM Indore)",
+        "type": "Institute of National Importance",
+        "location": "Indore - 453556, Madhya Pradesh",
+        "website": "https://www.iimidr.ac.in"
+      },
+      {
+        "id": 54,
+        "name": "National Institute of Technology Delhi (NIT Delhi)",
+        "type": "Institute of National Importance",
+        "location": "GT Karnal Road, Delhi - 110036",
+        "website": "https://nitdelhi.ac.in"
+      },
+      {
+        "id": 55,
+        "name": "Indian Institute of Management Tiruchirappalli (IIM Trichy)",
+        "type": "Institute of National Importance",
+        "location": "Tiruchirappalli - 620024, Tamil Nadu",
+        "website": "https://www.iimtrichy.ac.in"
+      }
+    ]
   }
 ]

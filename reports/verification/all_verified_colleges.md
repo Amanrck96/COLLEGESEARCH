@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **480 / 12,660**  
-**Roadmap Progress**: **48.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **490 / 12,660**  
+**Roadmap Progress**: **49.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -729,4 +729,19 @@
 | **42** | Indian Institute of Technology (BHU) Varanasi (IIT BHU) | Institute of National Importance | Varanasi - 221005, Uttar Pradesh | [www.iitbhu.ac.in](https://www.iitbhu.ac.in) |
 | **43** | Indian Institute of Technology Kanpur (IIT Kanpur) | Institute of National Importance | Kanpur - 208016, Uttar Pradesh | [www.iitk.ac.in](https://www.iitk.ac.in) |
 | **44** | National Institute of Technology Tiruchirappalli (NIT Trichy - PG & Management) | Institute of National Importance | Tiruchirappalli - 620015, Tamil Nadu | [www.nitt.edu](https://www.nitt.edu) |
+
+### Batch 49 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **45** | Indian Institute of Technology Dharwad (IIT Dharwad) | Institute of National Importance | Dharwad - 580007, Karnataka | [www.iitdh.ac.in](https://www.iitdh.ac.in) |
+| **46** | National Institute of Technology Karnataka (NIT Surathkal - Core Engineering) | Institute of National Importance | Mangalore - 575025, Karnataka | [www.nitk.ac.in](https://www.nitk.ac.in) |
+| **47** | Indian Institute of Management Bodh Gaya (IIM Bodh Gaya) | Institute of National Importance | Bodh Gaya - 824234, Bihar | [www.iimbg.ac.in](https://www.iimbg.ac.in) |
+| **49** | Dr. B.R. Ambedkar National Institute of Technology Jalandhar (NIT Jalandhar) | Institute of National Importance | Jalandhar - 144008, Punjab | [www.nitj.ac.in](https://www.nitj.ac.in) |
+| **50** | Indian Institute of Management Amritsar (IIM Amritsar) | Institute of National Importance | Amritsar - 143105, Punjab | [www.iimamritsar.ac.in](https://www.iimamritsar.ac.in) |
+| **51** | Indian Institute of Management Visakhapatnam (IIM Visakhapatnam) | Institute of National Importance | Visakhapatnam - 531163, Andhra Pradesh | [www.iimv.ac.in](https://www.iimv.ac.in) |
+| **52** | National Institute of Technology Warangal (NIT Warangal) | Institute of National Importance | Warangal - 506004, Telangana | [www.nitw.ac.in](https://www.nitw.ac.in) |
+| **53** | Indian Institute of Management Indore (IIM Indore) | Institute of National Importance | Indore - 453556, Madhya Pradesh | [www.iimidr.ac.in](https://www.iimidr.ac.in) |
+| **54** | National Institute of Technology Delhi (NIT Delhi) | Institute of National Importance | GT Karnal Road, Delhi - 110036 | [nitdelhi.ac.in](https://nitdelhi.ac.in) |
+| **55** | Indian Institute of Management Tiruchirappalli (IIM Trichy) | Institute of National Importance | Tiruchirappalli - 620024, Tamil Nadu | [www.iimtrichy.ac.in](https://www.iimtrichy.ac.in) |
 

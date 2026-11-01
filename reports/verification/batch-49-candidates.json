@@ -1,0 +1,247 @@
+[
+  {
+    "id": 45,
+    "name": "IIT Dharwad",
+    "address": "Permanent Campus, Chikkamalligawad",
+    "state": "Karnataka",
+    "img": "https://iitdh.ac.in/sites/default/files/2023-10/slide-01-new_1.jpg",
+    "website": "https://www.iitdh.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "NIT Surathkal",
+    "address": "NH 66, Srinivasnagar, Surathkal, Mangalore, Karnataka",
+    "state": "Karnataka",
+    "img": "/images/campuses/campus_nit_surathkal.jpg",
+    "website": "https://www.nitk.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "IIM Bodh Gaya",
+    "address": "Indian Institute of Management, Uruvela, Prabandh Vihar, Bodh Gaya",
+    "state": "Bihar",
+    "img": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.iimbg.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "National Institute of Technology, Jalandhar",
+    "address": "Grand Trunk Road, Barnala - Amritsar Bypass Rd",
+    "state": "Punjab",
+    "img": "https://v1.nitj.ac.in/ITEP/img/02.jpg",
+    "website": "https://www.nitj.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "IIM Amritsar",
+    "address": "Village  Manawala, P.O - Jandiala Guru SO",
+    "state": "Haryana",
+    "img": "https://img.jagranjosh.com/images/2022/April/1142022/t11.jpg",
+    "website": "https://www.iimamritsar.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "IIM Visakhapatnam",
+    "address": "Andhra, Andhra Pradesh, India",
+    "state": "Andhra Pradesh",
+    "img": "https://img.jagranjosh.com/images/2023/January/1012023/Indian-Institute-of-Management-Visakhapatnam-Campus-View-1.jpeg",
+    "website": "https://www.iimv.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "National Institute of Technology Warangal (NIT Warangal)",
+    "address": "National Institute of Technology Campus, Hanamkonda",
+    "state": "Telangana",
+    "img": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.nitw.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "IIM Indore",
+    "address": "Prabandh Shikhar, Rau - Pithampur Road",
+    "state": "Madhya Pradesh",
+    "img": "https://img.jagranjosh.com/images/2022/April/1342022/199841475_4215011705216651_6591468295272082194_n.jpg",
+    "website": "https://www.iimidr.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "NIT Delhi",
+    "address": "Delhi, Delhi NCR, India",
+    "state": "Delhi NCR",
+    "img": "https://nitdelhi.ac.in/_next/image?url=%2Fnit_front_gate.png&w=1200&q=75",
+    "website": "https://nitdelhi.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "IIM Trichy",
+    "address": "Pudukkottai Main Road, Chinna Sooriyur Village,",
+    "state": "Tamil Nadu",
+    "img": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.iimtrichy.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  }
+]
