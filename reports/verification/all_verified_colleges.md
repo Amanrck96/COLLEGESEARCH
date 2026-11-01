@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **760 / 12,660**  
-**Roadmap Progress**: **76.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **770 / 12,660**  
+**Roadmap Progress**: **77.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1149,4 +1149,19 @@
 | **348** | Birla Institute of Management Technology - Online (BIMTECH Online, Greater Noida) | Private | Knowledge Park II, | [bimtechonline.ac.in](https://bimtechonline.ac.in) |
 | **349** | Parul University Online, Vadodara | Private | P.O. Limda, Ta.Waghodia | [paruluniversity.online](https://paruluniversity.online) |
 | **350** | Indian Institute of Materials Management (IIMM Ahmedabad) | Private | Gujarat, India | [www.iimm.org](https://www.iimm.org) |
+
+### Batch 77 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **351** | MIT School of Distance Education (MITSDE Ahmedabad Centre) | Private | Citilite, Megani Nagar | [www.mitsde.com](https://www.mitsde.com) |
+| **352** | Symbiosis Centre for Distance Learning (SCDL Ahmedabad Centre) | Private | Kampus Landing 415 , B "Wing" Maradia Plaza | [www.scdl.net](https://www.scdl.net) |
+| **353** | Dr. Babasaheb Ambedkar Open University (BAOU Ahmedabad) | Public/Government | Gujarat, India | [baou.edu.in](https://baou.edu.in) |
+| **354** | Indira Gandhi National Open University - Regional Centre Ahmedabad (IGNOU Ahmedabad) | Public/Government | Gujarat, India | [rcahmedabad.ignou.ac.in](http://rcahmedabad.ignou.ac.in) |
+| **355** | School of Petroleum Management, Pandit Deendayal Energy University (SPM PDEU Gandhinagar) | Private | Knowledge Corridor, Raisan Village | [spm.pdeu.ac.in](https://spm.pdeu.ac.in) |
+| **356** | Institute of Rural Management Anand (IRMA Anand) | Private | Mangalpura Road, Near Anandalaya School | [www.irma.ac.in](https://www.irma.ac.in) |
+| **357** | MICA Online & Executive Education (MICA Ahmedabad) | Private | Gujarat, India | [www.mica.ac.in](https://www.mica.ac.in/executive-education) |
+| **358** | Lukhdhirji Engineering College (LEC Morbi) | Public/Government | LUKHDHIRJI ENGINEERING COLLEGE SAMA KANTHA MORBI DISTRICT RAJKOT STATE GUJARAT PIN CODE 363642 | [www.lecmorbi.in](http://www.lecmorbi.in) |
+| **359** | Navyug Group of Colleges, Morbi | Private | TAL. TANKARA, DIST. MORBI- 363650 | [navyugcollege.org](http://navyugcollege.org) |
+| **360** | Shree Patel Vidhyamandir College of Computer Science, Keshod | Private | VERAVAL ROAD, KESHOD | [www.pkmcollege.edu.in](https://www.pkmcollege.edu.in) |
 

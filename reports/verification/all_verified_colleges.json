@@ -5698,5 +5698,80 @@
         "website": "https://www.iimm.org"
       }
     ]
+  },
+  {
+    "batch": 77,
+    "items": [
+      {
+        "id": 351,
+        "name": "MIT School of Distance Education (MITSDE Ahmedabad Centre)",
+        "type": "Private",
+        "location": "Citilite, Megani Nagar",
+        "website": "https://www.mitsde.com"
+      },
+      {
+        "id": 352,
+        "name": "Symbiosis Centre for Distance Learning (SCDL Ahmedabad Centre)",
+        "type": "Private",
+        "location": "Kampus Landing 415 , B \"Wing\" Maradia Plaza",
+        "website": "https://www.scdl.net"
+      },
+      {
+        "id": 353,
+        "name": "Dr. Babasaheb Ambedkar Open University (BAOU Ahmedabad)",
+        "type": "Public/Government",
+        "location": "Gujarat, India",
+        "website": "https://baou.edu.in"
+      },
+      {
+        "id": 354,
+        "name": "Indira Gandhi National Open University - Regional Centre Ahmedabad (IGNOU Ahmedabad)",
+        "type": "Public/Government",
+        "location": "Gujarat, India",
+        "website": "http://rcahmedabad.ignou.ac.in"
+      },
+      {
+        "id": 355,
+        "name": "School of Petroleum Management, Pandit Deendayal Energy University (SPM PDEU Gandhinagar)",
+        "type": "Private",
+        "location": "Knowledge Corridor, Raisan Village",
+        "website": "https://spm.pdeu.ac.in"
+      },
+      {
+        "id": 356,
+        "name": "Institute of Rural Management Anand (IRMA Anand)",
+        "type": "Private",
+        "location": "Mangalpura Road, Near Anandalaya School",
+        "website": "https://www.irma.ac.in"
+      },
+      {
+        "id": 357,
+        "name": "MICA Online & Executive Education (MICA Ahmedabad)",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://www.mica.ac.in/executive-education"
+      },
+      {
+        "id": 358,
+        "name": "Lukhdhirji Engineering College (LEC Morbi)",
+        "type": "Public/Government",
+        "location": "LUKHDHIRJI ENGINEERING COLLEGE SAMA KANTHA MORBI DISTRICT RAJKOT STATE GUJARAT PIN CODE 363642",
+        "website": "http://www.lecmorbi.in"
+      },
+      {
+        "id": 359,
+        "name": "Navyug Group of Colleges, Morbi",
+        "type": "Private",
+        "location": "TAL. TANKARA, DIST. MORBI- 363650",
+        "website": "http://navyugcollege.org"
+      },
+      {
+        "id": 360,
+        "name": "Shree Patel Vidhyamandir College of Computer Science, Keshod",
+        "type": "Private",
+        "location": "VERAVAL ROAD, KESHOD",
+        "website": "https://www.pkmcollege.edu.in"
+      }
+    ]
   }
 ]

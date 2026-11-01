@@ -30390,16 +30390,16 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/mit-school-of-distance-education-ahmedabad-ellis-bridge-32230",
-      "name": "MIT School of Distance Education, Ahmedabad",
+      "name": "MIT School of Distance Education (MITSDE Ahmedabad Centre)",
       "shortName": "MSODEA",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "U-37, Conen Point, Citilite, Megani Nagar",
-      "phone": "9028079707",
+      "phone": "090280-79707",
       "email": "vishaln@mitsde.com",
       "website": "https://www.mitsde.com",
-      "rating": 4.5,
+      "rating": 4.1,
       "reviews": 332,
       "type": "Private",
       "ownership": "Private",
@@ -30421,22 +30421,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Post Graduate Diploma in Business Administration (PGDBA - ODL)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation with 50% in any discipline",
+          "exams": "Direct Admission",
+          "intake": "500"
         },
         {
-          "title": "Executive MBA",
+          "title": "Executive PGDM in Digital Marketing & Supply Chain",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "duration": "15 Months",
+          "fees": "₹65,000 Total",
+          "eligibility": "Graduation + 2 Years Corporate Experience",
+          "exams": "Work Exp + PI",
+          "intake": "200"
+        },
+        {
+          "title": "Post Graduate Diploma in IT & Software Project Management",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation with Science/IT",
+          "exams": "Direct Admission",
+          "intake": "150"
         }
       ],
       "highestPackage": "₹22 LPA",
@@ -30463,20 +30472,22 @@
       "reviewsCount": 332,
       "image": "/images/campuses/campus_architecture_5.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MIT%20School%20of%20Distance%20Education%2C%20Ahmedabad%20Gujarat%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Ahmedabad",
+      "established": 2008
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/symbiosis-centre-for-distance-learning-ahmedabad-c-g-road-37309",
-      "name": "Symbiosis Centre for Distance Learning, Ahmedabad",
+      "name": "Symbiosis Centre for Distance Learning (SCDL Ahmedabad Centre)",
       "shortName": "SCFDLA",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Kampus Landing 415 , B \"Wing\" Maradia Plaza",
-      "phone": "02066211000",
+      "phone": "020-66211000",
       "email": "newadmissions@scdl.net",
       "website": "https://www.scdl.net",
-      "rating": 4.5,
+      "rating": 4.2,
       "reviews": 386,
       "type": "Private",
       "ownership": "Private",
@@ -30498,22 +30509,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Post Graduate Diploma in Business Administration (PGDBA - ODL)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹40,000/Year",
+          "eligibility": "Graduation with 50% in any stream",
+          "exams": "Direct Admission",
+          "intake": "Open"
         },
         {
-          "title": "Executive MBA",
+          "title": "Post Graduate Diploma in Human Resource Management (PGDHRM)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "duration": "2 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "Graduation in any discipline",
+          "exams": "Direct Admission",
+          "intake": "Open"
+        },
+        {
+          "title": "Post Graduate Diploma in Data Science & Business Analytics",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation with Math/Stats/IT",
+          "exams": "Direct Admission",
+          "intake": "Open"
         }
       ],
       "highestPackage": "₹22 LPA",
@@ -30539,21 +30559,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 352,
       "reviewsCount": 386,
-      "image": "/images/campuses/koshys_bangalore.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Symbiosis%20Centre%20for%20Distance%20Learning%2C%20Ahmedabad%20Gujarat%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Ahmedabad",
+      "established": 2001
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/dr-babasaheb-ambedkar-open-university-baou-ahmedabad-58563",
-      "name": "Ambedkar Open University",
+      "name": "Dr. Babasaheb Ambedkar Open University (BAOU Ahmedabad)",
       "shortName": "AOU",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Gujarat, Gujarat, India",
-      "phone": "080-26597135",
+      "phone": "079-29796225",
       "email": "admissions@aou.edu.in",
-      "website": "https://www.google.com/search?q=Ambedkar%20Open%20University%20official%20website%20Gujarat%20Gujarat",
+      "website": "https://baou.edu.in",
       "rating": 4.5,
       "reviews": 144,
       "type": "Public/Government",
@@ -30576,22 +30598,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Master of Business Administration (MBA - ODL Distance)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹15,000/Year",
+          "eligibility": "Graduation with 50% from recognized university",
+          "exams": "Direct Admission",
+          "intake": "Open"
         },
         {
-          "title": "Executive MBA",
+          "title": "Master of Computer Applications (MCA - ODL)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "duration": "2 Years",
+          "fees": "₹17,000/Year",
+          "eligibility": "BCA / B.Sc with CS / Math",
+          "exams": "Direct Admission",
+          "intake": "Open"
+        },
+        {
+          "title": "Bachelor of Computer Applications (BCA - ODL)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹12,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Direct Admission",
+          "intake": "Open"
+        },
+        {
+          "title": "Bachelor of Arts (BA) / Bachelor of Commerce (B.Com - ODL)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹3,600/Year",
+          "eligibility": "10+2 or equivalent",
+          "exams": "Direct Admission",
+          "intake": "Open"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -30618,22 +30658,24 @@
       "id": 353,
       "reviewsCount": 144,
       "image": "/images/campuses/campus_architecture_3.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ambedkar%20Open%20University%20Gujarat%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ambedkar%20Open%20University%20Gujarat%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 1994
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/ignou-regional-centre-ahmedabad-60967",
-      "name": "IGNOU Ahmedabad Regional Centre",
+      "name": "Indira Gandhi National Open University - Regional Centre Ahmedabad (IGNOU Ahmedabad)",
       "shortName": "IARC",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Gujarat, Gujarat, India",
-      "phone": "080-26597135",
+      "phone": "079-27553724",
       "email": "admissions@iarc.edu.in",
-      "website": "https://www.google.com/search?q=IGNOU%20Ahmedabad%20Regional%20Centre%20official%20website%20Gujarat%20Gujarat",
-      "rating": 4.5,
+      "website": "http://rcahmedabad.ignou.ac.in",
+      "rating": 4.4,
       "reviews": 448,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -30653,22 +30695,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Master of Business Administration (MBA - Distance Open Care)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹15,500/Year",
+          "eligibility": "Graduation with 50%",
+          "exams": "Direct Admission",
+          "intake": "Open"
         },
         {
-          "title": "Executive MBA",
+          "title": "Master of Computer Applications (MCA - ODL)",
           "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹16,000/Year",
+          "eligibility": "BCA/Graduation with Mathematics",
+          "exams": "Direct Admission",
+          "intake": "Open"
+        },
+        {
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Direct Admission",
+          "intake": "Open"
+        },
+        {
+          "title": "Post Graduate Diploma in Rural Development (PGDRD)",
+          "division": "Diploma",
           "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "fees": "₹6,000 Total",
+          "eligibility": "Bachelor Degree in any discipline",
+          "exams": "Direct Admission",
+          "intake": "Open"
         }
       ],
       "highestPackage": "₹22 LPA",
@@ -30692,24 +30752,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 354,
       "reviewsCount": 448,
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IGNOU%20Ahmedabad%20Regional%20Centre%20Gujarat%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Ahmedabad",
+      "established": 1988
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/pandit-deendayal-energy-university-pdeu-gandhinagar-54332/ranking",
-      "name": "Pandit Deendayal Energy University (PDEU), Gandhinagar",
+      "name": "School of Petroleum Management, Pandit Deendayal Energy University (SPM PDEU Gandhinagar)",
       "shortName": "PDEU",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Knowledge Corridor, Raisan Village",
-      "phone": "9924133225",
+      "phone": "079-23275100",
       "email": "slsadmission@pdpu.ac.in",
-      "website": "https://pdpu.ac.in/",
-      "rating": 4.5,
+      "website": "https://spm.pdeu.ac.in",
+      "rating": 4.6,
       "reviews": 318,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -30729,22 +30791,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "MBA in Energy & Infrastructure (Flagship)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹4,80,000/Year",
+          "eligibility": "Graduation with 50% + CAT/XAT/NMAT",
+          "exams": "CAT, XAT, NMAT",
+          "intake": "120"
         },
         {
-          "title": "Executive MBA",
+          "title": "MBA in General Management (Finance / Marketing / HR)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "2 Years",
+          "fees": "₹4,40,000/Year",
+          "eligibility": "Graduation with 50% + CAT/XAT",
+          "exams": "CAT, XAT",
           "intake": "60"
+        },
+        {
+          "title": "Executive MBA in Petroleum & Energy Management",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,50,000/Year",
+          "eligibility": "Graduation + 3 Years Corporate Experience",
+          "exams": "Work Exp + PI",
+          "intake": "30"
+        },
+        {
+          "title": "Ph.D. in Management Studies",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "Master Degree in Management/Allied + Test & PI",
+          "exams": "Interview",
+          "intake": "10"
         }
       ],
       "highestPackage": "₹6 LPA",
@@ -30772,22 +30852,24 @@
       "id": 355,
       "reviewsCount": 318,
       "image": "https://www.collegebatch.com/static/clg-gallery/pandit-deendayal-petroleum-university-gandhinagar-229281.webp",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pandit%20Deendayal%20Energy%20University%20(PDEU)%2C%20Gandhinagar%20Gujarat%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pandit%20Deendayal%20Energy%20University%20(PDEU)%2C%20Gandhinagar%20Gujarat%20Gujarat",
+      "city": "Gandhinagar",
+      "established": 2006
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/institute-of-rural-management-anand-28620/compare",
-      "name": "Tribhuvan Sahkari University, Anand",
+      "name": "Institute of Rural Management Anand (IRMA Anand)",
       "shortName": "TSUA",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Post Box No. 60, IRMA Campus, Mangalpura Road, Near Anandalaya School",
-      "phone": "9910654961",
+      "phone": "02692-260391",
       "email": "admis1@irma.ac.in",
-      "website": "https://www.bhu.ac.in",
-      "rating": 4.5,
+      "website": "https://www.irma.ac.in",
+      "rating": 4.8,
       "reviews": 242,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -30807,22 +30889,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Post Graduate Diploma in Management - Rural Management (PGDM-RM)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹8,50,000/Year",
+          "eligibility": "Graduation with 50% + CAT / XAT / CMAT",
+          "exams": "CAT, XAT, CMAT",
+          "intake": "240"
         },
         {
-          "title": "Executive MBA",
+          "title": "PGDM (Executive - Rural Management)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "15 Months",
+          "fees": "₹10,80,000 Total",
+          "eligibility": "Graduation + 5 Years Corporate / Development Experience",
+          "exams": "Work Exp + PI",
           "intake": "60"
+        },
+        {
+          "title": "Fellow Programme in Management - Rural Management (FPM-RM)",
+          "division": "Doctoral",
+          "duration": "4 Years",
+          "fees": "Subsidized Fellowship",
+          "eligibility": "Master Degree with 55% + CAT / UGC NET",
+          "exams": "CAT, UGC NET",
+          "intake": "10"
         }
       ],
       "highestPackage": "₹22 LPA",
@@ -30848,20 +30939,22 @@
       "reviewsCount": 242,
       "image": "/images/campuses/campus_architecture_2.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tribhuvan%20Sahkari%20University%2C%20Anand%20Gujarat%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Anand",
+      "established": 1979
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/mica-shela-ahmedabad-3796/ranking",
-      "name": "MICA MICA",
+      "name": "MICA Online & Executive Education (MICA Ahmedabad)",
       "shortName": "MMR2",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Gujarat, Gujarat, India",
-      "phone": "080-26597135",
+      "phone": "02717-308250",
       "email": "admissions@mmr2.edu.in",
-      "website": "https://www.google.com/search?q=MICA%20MICA%20official%20website%20Gujarat%20Gujarat",
-      "rating": 4.5,
+      "website": "https://www.mica.ac.in/executive-education",
+      "rating": 4.6,
       "reviews": 475,
       "type": "Private",
       "ownership": "Private",
@@ -30883,22 +30976,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "title": "Post Graduate Certificate in Digital Marketing and Communication",
+          "division": "Certificate",
+          "duration": "1 Year",
+          "fees": "₹1,75,000 Total",
+          "eligibility": "Graduation in any discipline",
+          "exams": "Direct Admission",
+          "intake": "200"
         },
         {
-          "title": "Executive MBA",
-          "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "title": "Executive Development Programme in Strategic Marketing",
+          "division": "Certificate",
+          "duration": "6 Months",
+          "fees": "₹1,20,000 Total",
+          "eligibility": "Graduation + 3 Years Experience",
+          "exams": "Direct Admission",
+          "intake": "100"
+        },
+        {
+          "title": "Post Graduate Certificate in Advertising and Public Relations",
+          "division": "Certificate",
+          "duration": "11 Months",
+          "fees": "₹1,50,000 Total",
+          "eligibility": "Graduation in any discipline",
+          "exams": "Direct Admission",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -30925,22 +31027,24 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 357,
       "reviewsCount": 475,
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MICA%20MICA%20Gujarat%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Ahmedabad",
+      "established": 1991
     },
     {
       "id": 358,
-      "name": "LUKHDHIRJI ENGINEERING COLLEGE",
+      "name": "Lukhdhirji Engineering College (LEC Morbi)",
       "shortName": "Course Institute-1",
       "location": "RAJKOT",
       "state": "Gujarat",
       "address": "LUKHDHIRJI ENGINEERING COLLEGE SAMA KANTHA MORBI DISTRICT RAJKOT STATE GUJARAT PIN CODE 363642",
-      "phone": "0123-456789",
-      "website": "https://www.lukhdhirjiengin.edu.in",
-      "rating": 4.5,
+      "phone": "02822-240743",
+      "website": "http://www.lecmorbi.in",
+      "rating": 4.4,
       "reviews": 1139,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to LUKHDHIRJI ENGINEERING COLLEGE, a premier institute located in RAJKOT. We offer world-class education and facilities for our students.",
       "ranking": 28,
       "facebook": "#",
@@ -30957,13 +31061,40 @@
       ],
       "courses": [
         {
-          "title": "INFORMATION TECHNOLOGY",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "title": "B.E. in Information Technology",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 30,
-          "eligibility": "As per norms"
+          "fees": "₹1,500/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.E. in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.E. in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Ceramic Technology / Chemical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC Gujarat",
+          "exams": "ACPDC",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -30983,21 +31114,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1139,
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=LUKHDHIRJI%20ENGINEERING%20COLLEGE%20RAJKOT%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Morbi",
+      "established": 1951
     },
     {
       "id": 359,
-      "name": "NAVYUG COLLEGE",
+      "name": "Navyug Group of Colleges, Morbi",
       "shortName": "Course Institute-1",
       "location": "MORBI",
       "state": "Gujarat",
       "address": "B/H âBAâ NI VADI, MORBI â RAJKOT HIGHWAY, VIRPAR, TAL. TANKARA, DIST. MORBI- 363650",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=NAVYUG%20COLLEGE%20official%20website%20MORBI%20Gujarat",
-      "rating": 4.5,
+      "phone": "02822-287777",
+      "website": "http://navyugcollege.org",
+      "rating": 4.2,
       "reviews": 1873,
       "type": "Private",
       "about": "Welcome to NAVYUG COLLEGE, a premier institute located in MORBI. We offer world-class education and facilities for our students.",
@@ -31016,13 +31149,40 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Science (B.Sc. in Chemistry / Physics / IT)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with Science",
+          "exams": "Merit",
+          "intake": "180"
+        },
+        {
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "10+2 in Commerce/General",
+          "exams": "Merit",
+          "intake": "240"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -31042,21 +31202,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1873,
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NAVYUG%20COLLEGE%20MORBI%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Morbi",
+      "established": 2000
     },
     {
       "id": 360,
-      "name": "SHREE PATEL VIDHYA MANDIR COMPUTER SCIENCE COLLEGE",
+      "name": "Shree Patel Vidhyamandir College of Computer Science, Keshod",
       "shortName": "Course Institute-1",
       "location": "JUNAGADH",
       "state": "Gujarat",
       "address": "B/H MARUTISHOWROOM, VERAVAL ROAD, KESHOD",
-      "phone": "0123-456789",
-      "website": "https://www.shreepatelvidhy.edu.in",
-      "rating": 4.5,
+      "phone": "02871-236488",
+      "website": "https://www.pkmcollege.edu.in",
+      "rating": 4.1,
       "reviews": 257,
       "type": "Private",
       "about": "Welcome to SHREE PATEL VIDHYA MANDIR COMPUTER SCIENCE COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31076,12 +31238,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Science in Information Technology (B.Sc. IT)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 with Science/Math",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹22,000 Total",
+          "eligibility": "Graduation in any stream",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31099,7 +31280,9 @@
       ],
       "image": "https://www.pkmcollege.edu.in/images/24.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHREE%20PATEL%20VIDHYA%20MANDIR%20COMPUTER%20SCIENCE%20COLLEGE%20JUNAGADH%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHREE%20PATEL%20VIDHYA%20MANDIR%20COMPUTER%20SCIENCE%20COLLEGE%20JUNAGADH%20Gujarat",
+      "city": "Junagadh",
+      "established": 2008
     },
     {
       "id": 361,

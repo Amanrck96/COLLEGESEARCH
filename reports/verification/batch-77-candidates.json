@@ -1,0 +1,112 @@
+[
+  {
+    "id": 351,
+    "name": "MIT School of Distance Education, Ahmedabad",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.mitsde.com",
+    "phone": "9028079707",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 352,
+    "name": "Symbiosis Centre for Distance Learning, Ahmedabad",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.scdl.net",
+    "phone": "02066211000",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 353,
+    "name": "Ambedkar Open University",
+    "state": "Gujarat",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.google.com/search?q=Ambedkar%20Open%20University%20official%20website%20Gujarat%20Gujarat",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 354,
+    "name": "IGNOU Ahmedabad Regional Centre",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.google.com/search?q=IGNOU%20Ahmedabad%20Regional%20Centre%20official%20website%20Gujarat%20Gujarat",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 355,
+    "name": "Pandit Deendayal Energy University (PDEU), Gandhinagar",
+    "state": "Gujarat",
+    "type": "Public/Government",
+    "image": "https://www.collegebatch.com/static/clg-gallery/pandit-deendayal-petroleum-university-gandhinagar-229281.webp",
+    "website": "https://pdpu.ac.in/",
+    "phone": "9924133225",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 356,
+    "name": "Tribhuvan Sahkari University, Anand",
+    "state": "Gujarat",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.bhu.ac.in",
+    "phone": "9910654961",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 357,
+    "name": "MICA MICA",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.google.com/search?q=MICA%20MICA%20official%20website%20Gujarat%20Gujarat",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 358,
+    "name": "LUKHDHIRJI ENGINEERING COLLEGE",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+    "website": "https://www.lukhdhirjiengin.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 359,
+    "name": "NAVYUG COLLEGE",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://www.google.com/search?q=NAVYUG%20COLLEGE%20official%20website%20MORBI%20Gujarat",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 360,
+    "name": "SHREE PATEL VIDHYA MANDIR COMPUTER SCIENCE COLLEGE",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://www.pkmcollege.edu.in/images/24.jpg",
+    "website": "https://www.shreepatelvidhy.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]
