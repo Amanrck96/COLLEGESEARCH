@@ -1,0 +1,302 @@
+[
+  {
+    "id": 750,
+    "name": "INSTITUTE OF MANAGEMENT SCIENCES",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.instituteofmana.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "BBA",
+        "type": "MANAGEMENT",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 300,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "name": "Innovative College of Pharmacy, Greater Noida",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/innovative-college-of-pharmacy-greater-noida-247884.webp",
+    "website": "http://www.innovativepharmacy.in/",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/innovative-college-of-pharmacy-greater-noida-65339",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 752,
+    "name": "University of Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.lkouniv.ac.in/",
+    "phone": "05222740412",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/university-of-lucknow-21456",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 753,
+    "name": "United Institute of Medical Sciences, Prayagraj",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "https://www.collegebatch.com/static/clg-gallery/united-institute-of-medical-sciences-prayagraj-362869.webp",
+    "website": "https://www.unitedmedicity.com/",
+    "phone": "6390903006",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/united-institute-of-medical-sciences-prayagraj-149495",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 754,
+    "name": "TMU",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://www.tmu.ac.in/assets/img/banner/navbar/navbar-banner.webp",
+    "website": "https://www.google.com/search?q=TMU%20official%20website%20Uttar%20Uttar%20Pradesh",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/teerthanker-mahaveer-university-moradabad-38056",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 755,
+    "name": "Amity University, Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.amity.edu",
+    "phone": "8176050073",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/amity-university-lucknow-38047",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 756,
+    "name": "Emversity School of Hospitality & Allied Health Sciences, Bareilly",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1774090651IMG20251028170847.jpg",
+    "website": "https://emversity.com/",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/emversity-school-of-hospitality-allied-health-sciences-bareilly-240448",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "name": "Integral University",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.iul.ac.in/",
+    "phone": "9335177775",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/integral-university-iul-lucknow-21870",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 758,
+    "name": "IFTM University, Moradabad",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/gnims_matunga.png",
+    "website": "http://www.iftmuniversity.ac.in/iftmuniversity/index.php",
+    "phone": "9639004077",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/iftm-university-moradabad-52958",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 759,
+    "name": "GLA University, Mathura",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.gla.ac.in/",
+    "phone": "9027068068",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/gla-university-mathura-36995",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  }
+]

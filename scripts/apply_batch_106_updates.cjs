@@ -288,3 +288,4 @@ const summaryMd = `# Batch 106 Verification Summary (Colleges 1,051–1,060)
 
 fs.writeFileSync(path.join(__dirname, '..', 'reports', 'verification', 'batch-106-summary.md'), summaryMd, 'utf8');
 console.log('Saved reports/verification/batch-106-summary.md');
+
