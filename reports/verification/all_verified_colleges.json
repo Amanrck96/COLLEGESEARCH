@@ -8173,5 +8173,80 @@
         "website": "http://www.rmlau.ac.in/iet"
       }
     ]
+  },
+  {
+    "batch": 110,
+    "items": [
+      {
+        "id": 738,
+        "name": "Institute of Management Studies (IMS Ghaziabad, Lal Quan)",
+        "type": "Private",
+        "location": "C-238, BULANDSHAHR ROAD LAL QUAN",
+        "website": "https://www.ims-ghaziabad.ac.in"
+      },
+      {
+        "id": 740,
+        "name": "Accurate Institute of Management and Technology (AIMT Greater Noida)",
+        "type": "Private",
+        "location": "KNOWLEDGE PARK-III, GREATER NOIDA",
+        "website": "https://www.accurate.in"
+      },
+      {
+        "id": 741,
+        "name": "Shivdan Singh Institute of Technology and Management (SSITM Aligarh)",
+        "type": "Private",
+        "location": "10TH KM STONE ALIGARH MATHURA ROAD, ALIGARH",
+        "website": "http://www.ssitm.org"
+      },
+      {
+        "id": 742,
+        "name": "Faculty of Engineering and Technology, MJPRU (FET Bareilly)",
+        "type": "Public/Government",
+        "location": "MANDHANA,KANPUR",
+        "website": "https://www.mjpru.ac.in"
+      },
+      {
+        "id": 743,
+        "name": "School of Management Sciences (SMS Varanasi, Khushipur)",
+        "type": "Private",
+        "location": "TEHSIL - MOHANLAL GANJ, LUCKNOW 227125",
+        "website": "https://smsvaranasi.com"
+      },
+      {
+        "id": 744,
+        "name": "Microtek College of Management and Technology (MCMT Varanasi)",
+        "type": "Private",
+        "location": "BARAGAON, VARANASI",
+        "website": "https://www.microtek.ac.in"
+      },
+      {
+        "id": 746,
+        "name": "Institute of Engineering and Technology (IET Lucknow, Sitapur Road)",
+        "type": "Public/Government",
+        "location": "KANPUR ROAD, JHANSI",
+        "website": "https://ietlucknow.ac.in"
+      },
+      {
+        "id": 747,
+        "name": "Kalka Institute for Research and Advanced Studies (KIRAS Meerut)",
+        "type": "Private",
+        "location": "PARTA PUR BYEPASS ROAD MEERUT",
+        "website": "https://kalka.org"
+      },
+      {
+        "id": 748,
+        "name": "Institute of Management Education (IME Ghaziabad, Sahibabad)",
+        "type": "Private",
+        "location": "178, MAIN G.T. ROAD",
+        "website": "https://ime.in"
+      },
+      {
+        "id": 749,
+        "name": "Institute of Technology and Science (I.T.S Mohan Nagar, Ghaziabad)",
+        "type": "Private",
+        "location": "GOODWILL BUILDING MAIN G.T ROAD MOHAN NAGAR GAHAZIABAD",
+        "website": "https://its.edu.in"
+      }
+    ]
   }
 ]

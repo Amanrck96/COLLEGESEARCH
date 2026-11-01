@@ -63336,14 +63336,14 @@
     },
     {
       "id": 738,
-      "name": "INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Institute of Management Studies (IMS Ghaziabad, Lal Quan)",
       "shortName": "Course Institute-1",
       "location": "GHAZIABAD",
       "state": "Uttar Pradesh",
       "address": "C-238, BULANDSHAHR ROAD LAL QUAN",
-      "phone": "0123-456789",
-      "website": "https://www.jimsindia.org",
-      "rating": 4.7,
+      "phone": "0120-4170600",
+      "website": "https://www.ims-ghaziabad.ac.in",
+      "rating": 4.8,
       "reviews": 1589,
       "type": "Private",
       "about": "Welcome to INSTITUTE OF MANAGEMENT STUDIES, a premier institute located in GHAZIABAD. We offer world-class education and facilities for our students.",
@@ -63362,13 +63362,34 @@
       ],
       "courses": [
         {
-          "title": "PGDM",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE DIPLOMA",
-          "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 360,
-          "eligibility": "As per norms"
+          "name": "Post Graduate Diploma in Management (PGDM - 2 Year AICTE Approved)",
+          "title": "Post Graduate Diploma in Management (PGDM - 2 Year AICTE Approved)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,75,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / XAT / MAT / CMAT",
+          "exams": "CAT, XAT, MAT, CMAT",
+          "intake": "360"
+        },
+        {
+          "name": "PGDM in Big Data Analytics",
+          "title": "PGDM in Big Data Analytics",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,75,000/Year",
+          "eligibility": "Graduation with Maths/Stats + CAT/MAT",
+          "exams": "CAT, MAT, CMAT",
+          "intake": "60"
+        },
+        {
+          "name": "PGDM in Banking and Financial Services",
+          "title": "PGDM in Banking and Financial Services",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,75,000/Year",
+          "eligibility": "Graduation (50%+) + CAT/MAT",
+          "exams": "CAT, MAT, CMAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63388,10 +63409,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1589,
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20GHAZIABAD%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Ghaziabad",
+      "established": 1990
     },
     {
       "id": 739,
@@ -63455,14 +63478,14 @@
     },
     {
       "id": 740,
-      "name": "ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+      "name": "Accurate Institute of Management and Technology (AIMT Greater Noida)",
       "shortName": "Course Institute-1",
       "location": "GAUTAM BUDDHA NAGAR",
       "state": "Uttar Pradesh",
       "address": "PLOT NO. 49, KNOWLEDGE PARK-III, GREATER NOIDA",
-      "phone": "0123-456789",
-      "website": "https://www.accurateinstitu.edu.in",
-      "rating": 4.7,
+      "phone": "0120-2326451",
+      "website": "https://www.accurate.in",
+      "rating": 4.6,
       "reviews": 708,
       "type": "Private",
       "about": "Welcome to ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY, a premier institute located in GAUTAM BUDDHA NAGAR. We offer world-class education and facilities for our students.",
@@ -63481,13 +63504,44 @@
       ],
       "courses": [
         {
-          "title": "PGDM",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE DIPLOMA",
-          "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 240,
-          "eligibility": "As per norms"
+          "name": "Post Graduate Diploma in Management (PGDM)",
+          "title": "Post Graduate Diploma in Management (PGDM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹3,50,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / CMAT",
+          "exams": "CAT, MAT, CMAT",
+          "intake": "240"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "Graduation + CUET-PG / MAT",
+          "exams": "CUET-PG, MAT",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "BCA/B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63507,21 +63561,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 708,
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ACCURATE%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20GAUTAM%20BUDDHA%20NAGAR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Greater Noida",
+      "established": 2006
     },
     {
       "id": 741,
-      "name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+      "name": "Shivdan Singh Institute of Technology and Management (SSITM Aligarh)",
       "shortName": "Course Institute-1",
       "location": "ALIGARH",
       "state": "Uttar Pradesh",
       "address": "10TH KM STONE ALIGARH MATHURA ROAD, ALIGARH",
-      "phone": "0123-456789",
-      "website": "https://www.shivdansinghins.edu.in",
-      "rating": 4.7,
+      "phone": "0571-2970086",
+      "website": "http://www.ssitm.org",
+      "rating": 4.5,
       "reviews": 1228,
       "type": "Private",
       "about": "Welcome to SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT, a premier institute located in ALIGARH. We offer world-class education and facilities for our students.",
@@ -63540,13 +63596,44 @@
       ],
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "BCA/B.Sc with Maths + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "90"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹70,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM/PCB",
+          "exams": "CUET, Merit",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63566,22 +63653,24 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1228,
-      "image": "https://images.careerindia.com/college-photos/6106/college-building-of-shivdan-singh-institute-of-technology-and-management-aligarh-campus-view_1635177547.png",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHIVDAN%20SINGH%20INSTITUTE%20OF%20TECHNOLOGY%20%26%20MANAGEMENT%20ALIGARH%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHIVDAN%20SINGH%20INSTITUTE%20OF%20TECHNOLOGY%20%26%20MANAGEMENT%20ALIGARH%20Uttar%20Pradesh",
+      "city": "Aligarh",
+      "established": 1997
     },
     {
       "id": 742,
-      "name": "FACULTY OF ENGINEERING AND TECHNOLOGY",
+      "name": "Faculty of Engineering and Technology, MJPRU (FET Bareilly)",
       "shortName": "Course Institute-1",
       "location": "KANPUR NAGAR",
       "state": "Uttar Pradesh",
       "address": "G.T. ROAD, MANDHANA,KANPUR",
-      "phone": "0123-456789",
-      "website": "https://www.facultyofengine.edu.in",
+      "phone": "0581-2527261",
+      "website": "https://www.mjpru.ac.in",
       "rating": 4.7,
       "reviews": 1260,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to FACULTY OF ENGINEERING AND TECHNOLOGY, a premier institute located in KANPUR NAGAR. We offer world-class education and facilities for our students.",
       "ranking": 51,
       "facebook": "#",
@@ -63598,13 +63687,44 @@
       ],
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "B.Tech in Computer Science and Information Technology",
+          "title": "B.Tech in Computer Science and Information Technology",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹76,500/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Chemical Engineering",
+          "title": "B.Tech in Chemical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹76,500/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Mechanical Engineering",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹76,500/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "BCA/B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63624,19 +63744,21 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1260,
-      "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/16486364391595668753MEDICALCOLLEGE.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=FACULTY%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20KANPUR%20NAGAR%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=FACULTY%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20KANPUR%20NAGAR%20Uttar%20Pradesh",
+      "city": "Bareilly",
+      "established": 1995
     },
     {
       "id": 743,
-      "name": "SCHOOL OF MANAGEMENT SCIENCES",
+      "name": "School of Management Sciences (SMS Varanasi, Khushipur)",
       "shortName": "Course Institute-1",
       "location": "LUCKNOW",
       "state": "Uttar Pradesh",
       "address": "KASIMPUR BIRUHA, POST - KASIMPUR, GOSAINGANJ, LUCKNOW SULTANPUR ROAD, TEHSIL - MOHANLAL GANJ, LUCKNOW 227125",
-      "phone": "0123-456789",
-      "website": "https://www.schoolofmanagem.edu.in",
+      "phone": "0542-2622751",
+      "website": "https://smsvaranasi.com",
       "rating": 4.7,
       "reviews": 1239,
       "type": "Private",
@@ -63656,13 +63778,54 @@
       ],
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "Post Graduate Diploma in Management (PGDM - AICTE Approved)",
+          "title": "Post Graduate Diploma in Management (PGDM - AICTE Approved)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹3,50,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / XAT / MAT / CMAT",
+          "exams": "CAT, XAT, MAT, CMAT",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Business Administration (MBA - AKTU Affiliated)",
+          "title": "Master of Business Administration (MBA - AKTU Affiliated)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "Graduation + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "SMS Online Test / Merit",
+          "intake": "180"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "SMS Online Test / Merit",
+          "intake": "180"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63685,18 +63848,20 @@
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20MANAGEMENT%20SCIENCES%20LUCKNOW%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Varanasi",
+      "established": 1995
     },
     {
       "id": 744,
-      "name": "MICROTEK COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+      "name": "Microtek College of Management and Technology (MCMT Varanasi)",
       "shortName": "Course Institute-1",
       "location": "VARANASI",
       "state": "Uttar Pradesh",
       "address": "VILLAGE-BARAI POST-NAYEPUR, BARAGAON, VARANASI",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=MICROTEK%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20official%20website%20VARANASI%20Uttar%20Pradesh",
-      "rating": 4.7,
+      "phone": "0542-2207000",
+      "website": "https://www.microtek.ac.in",
+      "rating": 4.5,
       "reviews": 1452,
       "type": "Private",
       "about": "Welcome to MICROTEK COLLEGE OF MANAGEMENT AND TECHNOLOGY, a premier institute located in VARANASI. We offer world-class education and facilities for our students.",
@@ -63715,13 +63880,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 360,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "360"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "240"
+        },
+        {
+          "name": "Bachelor of Science (B.Sc in Information Technology)",
+          "title": "Bachelor of Science (B.Sc in Information Technology)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with Science (PCM)",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 in Commerce/Any stream",
+          "exams": "Merit Based",
+          "intake": "180"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63741,9 +63937,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1452,
-      "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1487250486jklrglkmts.png",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MICROTEK%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20VARANASI%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MICROTEK%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20VARANASI%20Uttar%20Pradesh",
+      "city": "Varanasi",
+      "established": 2000
     },
     {
       "id": 745,
@@ -63808,16 +64006,16 @@
     },
     {
       "id": 746,
-      "name": "INSTITUTE OF ENGINEERING & TECHNOLOGY",
+      "name": "Institute of Engineering and Technology (IET Lucknow, Sitapur Road)",
       "shortName": "Course Institute-1",
       "location": "JHANSI",
       "state": "Uttar Pradesh",
       "address": "BUNDELKHAND UNIVERSITY CAMPUS, KANPUR ROAD, JHANSI",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofengi.edu.in",
-      "rating": 4.6,
+      "phone": "0522-2733027",
+      "website": "https://ietlucknow.ac.in",
+      "rating": 4.8,
       "reviews": 765,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to INSTITUTE OF ENGINEERING & TECHNOLOGY, a premier institute located in JHANSI. We offer world-class education and facilities for our students.",
       "ranking": 84,
       "facebook": "#",
@@ -63834,13 +64032,54 @@
       ],
       "courses": [
         {
-          "title": "BIOTECHNOLOGY",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹89,775/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Electronics and Communication Engineering",
+          "title": "B.Tech in Electronics and Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹89,775/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Biotechnology",
+          "title": "B.Tech in Biotechnology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹89,775/Year",
+          "eligibility": "10+2 with PCM/PCB + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹64,775/Year",
+          "eligibility": "BCA/B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹64,775/Year",
+          "eligibility": "Graduation + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63860,21 +64099,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 765,
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20JHANSI%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Lucknow",
+      "established": 1984
     },
     {
       "id": 747,
-      "name": "KALKA INSTITUTE FOR RESEARCH AND ADVANCED STUDIES",
+      "name": "Kalka Institute for Research and Advanced Studies (KIRAS Meerut)",
       "shortName": "Course Institute-1",
       "location": "MEERUT",
       "state": "Uttar Pradesh",
       "address": "PARTA PUR BYEPASS ROAD MEERUT",
-      "phone": "0123-456789",
-      "website": "https://www.kalkainstitutef.edu.in",
-      "rating": 4.6,
+      "phone": "0121-2440315",
+      "website": "https://kalka.org",
+      "rating": 4.5,
       "reviews": 1801,
       "type": "Private",
       "about": "Welcome to KALKA INSTITUTE FOR RESEARCH AND ADVANCED STUDIES, a premier institute located in MEERUT. We offer world-class education and facilities for our students.",
@@ -63893,13 +64134,44 @@
       ],
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "BCA/B.Sc with Maths + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Education (B.Ed)",
+          "title": "Bachelor of Education (B.Ed)",
+          "division": "Undergraduate",
+          "duration": "2 Years",
+          "fees": "₹51,250/Year",
+          "eligibility": "Graduation (50%+) + UP B.Ed JEE",
+          "exams": "UP B.Ed JEE",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63919,19 +64191,21 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1801,
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/kalka.jpg?width=640",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KALKA%20INSTITUTE%20FOR%20RESEARCH%20AND%20ADVANCED%20STUDIES%20MEERUT%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KALKA%20INSTITUTE%20FOR%20RESEARCH%20AND%20ADVANCED%20STUDIES%20MEERUT%20Uttar%20Pradesh",
+      "city": "Meerut",
+      "established": 1999
     },
     {
       "id": 748,
-      "name": "INSTITUTE OF MANAGEMENT EDUCATION",
+      "name": "Institute of Management Education (IME Ghaziabad, Sahibabad)",
       "shortName": "Course Institute-1",
       "location": "GHAZIABAD",
       "state": "Uttar Pradesh",
       "address": "178, MAIN G.T. ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofmana.edu.in",
+      "phone": "0120-2621424",
+      "website": "https://ime.in",
       "rating": 4.6,
       "reviews": 1073,
       "type": "Private",
@@ -63951,13 +64225,54 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 180,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "name": "Bachelor of Laws (LL.B 3 Years)",
+          "title": "Bachelor of Laws (LL.B 3 Years)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation with 45%+",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "B.A. LL.B (5 Year Integrated)",
+          "title": "B.A. LL.B (5 Year Integrated)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with 45%+",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 in Commerce/Any stream",
+          "exams": "Merit Based",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63980,18 +64295,20 @@
       "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20EDUCATION%20GHAZIABAD%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Ghaziabad",
+      "established": 1995
     },
     {
       "id": 749,
-      "name": "INSTITUTE OF TECHNOLOGY AND SCIENCE",
+      "name": "Institute of Technology and Science (I.T.S Mohan Nagar, Ghaziabad)",
       "shortName": "Course Institute-1",
       "location": "GHAZIABAD",
       "state": "Uttar Pradesh",
       "address": "GOODWILL BUILDING MAIN G.T ROAD MOHAN NAGAR GAHAZIABAD",
-      "phone": "0123-456789",
-      "website": "https://www.instituteoftech.edu.in",
-      "rating": 4.6,
+      "phone": "0120-2800000",
+      "website": "https://its.edu.in",
+      "rating": 4.7,
       "reviews": 434,
       "type": "Private",
       "about": "Welcome to INSTITUTE OF TECHNOLOGY AND SCIENCE, a premier institute located in GHAZIABAD. We offer world-class education and facilities for our students.",
@@ -64010,13 +64327,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 360,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "360"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "360"
+        },
+        {
+          "name": "Post Graduate Diploma in Management (PGDM - AICTE Approved)",
+          "title": "Post Graduate Diploma in Management (PGDM - AICTE Approved)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹3,85,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / CMAT",
+          "exams": "CAT, MAT, CMAT",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "BCA/B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -64038,7 +64386,9 @@
       "reviewsCount": 434,
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20TECHNOLOGY%20AND%20SCIENCE%20GHAZIABAD%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20TECHNOLOGY%20AND%20SCIENCE%20GHAZIABAD%20Uttar%20Pradesh",
+      "city": "Ghaziabad",
+      "established": 1995
     },
     {
       "id": 750,

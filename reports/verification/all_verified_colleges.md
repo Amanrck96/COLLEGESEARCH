@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1090 / 12,660**  
-**Roadmap Progress**: **109.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1100 / 12,660**  
+**Roadmap Progress**: **110.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1644,4 +1644,19 @@
 | **735** | Disha Bharti College of Management and Education (DBCME Saharanpur) | Private | CHIDBANA LANE DELHI ROAD | [dishabharti.org](http://dishabharti.org) |
 | **736** | Islamia Degree College (Deoband, Saharanpur) | Private | NEAR INDRA PARK DEOBAND | [islamiacollege.org](http://islamiacollege.org) |
 | **737** | Institute of Engineering and Technology, RMLAU (IET Ayodhya) | Public/Government | SITAPUR ROAD, LUCKNOW | [www.rmlau.ac.in](http://www.rmlau.ac.in/iet) |
+
+### Batch 110 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **738** | Institute of Management Studies (IMS Ghaziabad, Lal Quan) | Private | C-238, BULANDSHAHR ROAD LAL QUAN | [www.ims-ghaziabad.ac.in](https://www.ims-ghaziabad.ac.in) |
+| **740** | Accurate Institute of Management and Technology (AIMT Greater Noida) | Private | KNOWLEDGE PARK-III, GREATER NOIDA | [www.accurate.in](https://www.accurate.in) |
+| **741** | Shivdan Singh Institute of Technology and Management (SSITM Aligarh) | Private | 10TH KM STONE ALIGARH MATHURA ROAD, ALIGARH | [www.ssitm.org](http://www.ssitm.org) |
+| **742** | Faculty of Engineering and Technology, MJPRU (FET Bareilly) | Public/Government | MANDHANA,KANPUR | [www.mjpru.ac.in](https://www.mjpru.ac.in) |
+| **743** | School of Management Sciences (SMS Varanasi, Khushipur) | Private | TEHSIL - MOHANLAL GANJ, LUCKNOW 227125 | [smsvaranasi.com](https://smsvaranasi.com) |
+| **744** | Microtek College of Management and Technology (MCMT Varanasi) | Private | BARAGAON, VARANASI | [www.microtek.ac.in](https://www.microtek.ac.in) |
+| **746** | Institute of Engineering and Technology (IET Lucknow, Sitapur Road) | Public/Government | KANPUR ROAD, JHANSI | [ietlucknow.ac.in](https://ietlucknow.ac.in) |
+| **747** | Kalka Institute for Research and Advanced Studies (KIRAS Meerut) | Private | PARTA PUR BYEPASS ROAD MEERUT | [kalka.org](https://kalka.org) |
+| **748** | Institute of Management Education (IME Ghaziabad, Sahibabad) | Private | 178, MAIN G.T. ROAD | [ime.in](https://ime.in) |
+| **749** | Institute of Technology and Science (I.T.S Mohan Nagar, Ghaziabad) | Private | GOODWILL BUILDING MAIN G.T ROAD MOHAN NAGAR GAHAZIABAD | [its.edu.in](https://its.edu.in) |
 

@@ -1,0 +1,212 @@
+[
+  {
+    "id": 738,
+    "name": "INSTITUTE OF MANAGEMENT STUDIES",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.jimsindia.org",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "PGDM",
+        "type": "MANAGEMENT",
+        "division": "POST GRADUATE DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 360,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "name": "ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://www.accurateinstitu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "PGDM",
+        "type": "MANAGEMENT",
+        "division": "POST GRADUATE DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 240,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 741,
+    "name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://images.careerindia.com/college-photos/6106/college-building-of-shivdan-singh-institute-of-technology-and-management-aligarh-campus-view_1635177547.png",
+    "website": "https://www.shivdansinghins.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "name": "FACULTY OF ENGINEERING AND TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/16486364391595668753MEDICALCOLLEGE.jpg",
+    "website": "https://www.facultyofengine.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 743,
+    "name": "SCHOOL OF MANAGEMENT SCIENCES",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.schoolofmanagem.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 120,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 744,
+    "name": "MICROTEK COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1487250486jklrglkmts.png",
+    "website": "https://www.google.com/search?q=MICROTEK%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20official%20website%20VARANASI%20Uttar%20Pradesh",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 360,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 746,
+    "name": "INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.instituteofengi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "BIOTECHNOLOGY",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 747,
+    "name": "KALKA INSTITUTE FOR RESEARCH AND ADVANCED STUDIES",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/kalka.jpg?width=640",
+    "website": "https://www.kalkainstitutef.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 748,
+    "name": "INSTITUTE OF MANAGEMENT EDUCATION",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.instituteofmana.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 180,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 749,
+    "name": "INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.instituteoftech.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 360,
+        "eligibility": "As per norms"
+      }
+    ]
+  }
+]
