@@ -1,0 +1,122 @@
+[
+  {
+    "id": 557,
+    "name": "CVR College of Engineering, Ranga Reddy",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/cvr-college-of-engineering-ranga-reddy-248740.webp",
+    "website": "http://cvr.ac.in",
+    "phone": "9989823424",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 558,
+    "name": "Anurag University, Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "https://img.jagranjosh.com/images/2022/November/30112022/Anurag-University-Hyderabad-Campus-View-2.jpg",
+    "website": "https://anurag.edu.in/",
+    "phone": " 8181057057",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 559,
+    "name": "IIIT Hyderabad IIIT Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.iith.ac.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 560,
+    "name": "Ranking",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.google.com/search?q=Ranking%20official%20website%20Telangana%20Telangana",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 561,
+    "name": "National Institute of Agricultural Extension Management (MANAGE)",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.google.com/search?q=National%20Institute%20of%20Agricultural%20Extension%20Management%20(MANAGE)%20official%20website%20Telangana%20Telangana",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 562,
+    "name": "Osmania University, Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_osmania_university.jpg",
+    "website": "https://www.osmania.ac.in/",
+    "phone": "8331041286",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 563,
+    "name": "Woxsen University, Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://woxsen.edu.in/",
+    "phone": "04044448888",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 564,
+    "name": "Koneru Lakshmaiah Education Foundation, Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "http://www.klh.edu.in",
+    "phone": "7997079970",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 565,
+    "name": "University of Hyderabad ,Gachibowli",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1767001667Campus.jpg",
+    "website": "https://www.google.com/search?q=University%20of%20Hyderabad%20%2CGachibowli%20official%20website%20Telangana%20Telangana",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 566,
+    "name": "University College of Commerce and Business Management, Osmania University, Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_osmania_university.jpg",
+    "website": "https://www.osmania.ac.in/uccbm/",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  }
+]

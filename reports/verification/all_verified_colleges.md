@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **940 / 12,660**  
-**Roadmap Progress**: **94.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **950 / 12,660**  
+**Roadmap Progress**: **95.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1419,4 +1419,19 @@
 | **554** | University College of Engineering, Osmania University (UCEOU Hyderabad) | Public/Government | Telangana, India | [www.uceou.edu](https://www.uceou.edu) |
 | **555** | JNTUH University College of Engineering, Hyderabad (JNTUH UCEH) | Public/Government | Ashok Nagar,  Kukatpally Housing Board Colony | [jntuhceh.ac.in](https://jntuhceh.ac.in) |
 | **556** | Institute of Aeronautical Engineering (IARE Dundigal, Hyderabad) | Private | Institute of Aeronautical Engineering, Dundigal | [www.iare.ac.in](https://www.iare.ac.in) |
+
+### Batch 95 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **557** | CVR College of Engineering (CVRCE Ibrahimpatnam, Ranga Reddy) | Private | Mangalpalli (V), Ibrahimpatnam (M) | [cvr.ac.in](https://cvr.ac.in) |
+| **558** | Anurag University, Hyderabad | Private | Venkatapur, Medchal–Malkajgiri district | [anurag.edu.in](https://anurag.edu.in) |
+| **559** | IIIT Hyderabad - Center for Visual Information Technology (CVIT, Gachibowli) | Private | Telangana, India | [cvit.iiit.ac.in](https://cvit.iiit.ac.in) |
+| **560** | SR University (formerly SR Engineering College, Warangal) | Private | Telangana, India | [sru.edu.in](https://sru.edu.in) |
+| **561** | National Institute of Agricultural Extension Management (MANAGE Hyderabad) | Public/Government | Telangana, India | [www.manage.gov.in](https://www.manage.gov.in) |
+| **562** | Osmania University, Hyderabad | Public/Government | Osmania University Main Rd, Amberpet | [www.osmania.ac.in](https://www.osmania.ac.in) |
+| **563** | Woxsen University, Hyderabad | Private | Sadasivpet, Sangareddy District | [woxsen.edu.in](https://woxsen.edu.in) |
+| **564** | Koneru Lakshmaiah Education Foundation, Hyderabad (KL University Hyderabad) | Private | Moinabad Road, Near TS Police Academy | [www.klh.edu.in](https://www.klh.edu.in) |
+| **565** | University of Hyderabad (UoH / HCU, Gachibowli) | Public/Government | Telangana, India | [uohyd.ac.in](https://uohyd.ac.in) |
+| **566** | University College of Commerce and Business Management, Osmania University (UCCBM OU) | Public/Government | Osmania University Main Rd, Osmania University | [www.osmania.ac.in](https://www.osmania.ac.in/uccbm/) |
 

@@ -7048,5 +7048,80 @@
         "website": "https://www.iare.ac.in"
       }
     ]
+  },
+  {
+    "batch": 95,
+    "items": [
+      {
+        "id": 557,
+        "name": "CVR College of Engineering (CVRCE Ibrahimpatnam, Ranga Reddy)",
+        "type": "Private",
+        "location": "Mangalpalli (V), Ibrahimpatnam (M)",
+        "website": "https://cvr.ac.in"
+      },
+      {
+        "id": 558,
+        "name": "Anurag University, Hyderabad",
+        "type": "Private",
+        "location": "Venkatapur, Medchal–Malkajgiri district",
+        "website": "https://anurag.edu.in"
+      },
+      {
+        "id": 559,
+        "name": "IIIT Hyderabad - Center for Visual Information Technology (CVIT, Gachibowli)",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://cvit.iiit.ac.in"
+      },
+      {
+        "id": 560,
+        "name": "SR University (formerly SR Engineering College, Warangal)",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://sru.edu.in"
+      },
+      {
+        "id": 561,
+        "name": "National Institute of Agricultural Extension Management (MANAGE Hyderabad)",
+        "type": "Public/Government",
+        "location": "Telangana, India",
+        "website": "https://www.manage.gov.in"
+      },
+      {
+        "id": 562,
+        "name": "Osmania University, Hyderabad",
+        "type": "Public/Government",
+        "location": "Osmania University Main Rd, Amberpet",
+        "website": "https://www.osmania.ac.in"
+      },
+      {
+        "id": 563,
+        "name": "Woxsen University, Hyderabad",
+        "type": "Private",
+        "location": "Sadasivpet, Sangareddy District",
+        "website": "https://woxsen.edu.in"
+      },
+      {
+        "id": 564,
+        "name": "Koneru Lakshmaiah Education Foundation, Hyderabad (KL University Hyderabad)",
+        "type": "Private",
+        "location": "Moinabad Road, Near TS Police Academy",
+        "website": "https://www.klh.edu.in"
+      },
+      {
+        "id": 565,
+        "name": "University of Hyderabad (UoH / HCU, Gachibowli)",
+        "type": "Public/Government",
+        "location": "Telangana, India",
+        "website": "https://uohyd.ac.in"
+      },
+      {
+        "id": 566,
+        "name": "University College of Commerce and Business Management, Osmania University (UCCBM OU)",
+        "type": "Public/Government",
+        "location": "Osmania University Main Rd, Osmania University",
+        "website": "https://www.osmania.ac.in/uccbm/"
+      }
+    ]
   }
 ]

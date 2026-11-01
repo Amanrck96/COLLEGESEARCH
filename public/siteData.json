@@ -47162,16 +47162,16 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/cvr-college-of-engineering-ranga-reddy-25365/admission",
-      "name": "CVR College of Engineering, Ranga Reddy",
+      "name": "CVR College of Engineering (CVRCE Ibrahimpatnam, Ranga Reddy)",
       "shortName": "CCOERR",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Vastunagar, Mangalpalli (V), Ibrahimpatnam (M)",
-      "phone": "9989823424",
+      "phone": "08414-661661",
       "email": "snreddy@cvr.ac.in",
-      "website": "http://cvr.ac.in",
-      "rating": 4.5,
+      "website": "https://cvr.ac.in",
+      "rating": 4.4,
       "reviews": 172,
       "type": "Private",
       "ownership": "Private",
@@ -47193,31 +47193,49 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "240"
+        },
+        {
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in CSE (Data Science)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Electronics & Communication Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "title": "B.Tech in Electrical & Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹55 LPA",
@@ -47248,7 +47266,9 @@
       "id": 557,
       "reviewsCount": 172,
       "image": "https://www.collegebatch.com/static/clg-gallery/cvr-college-of-engineering-ranga-reddy-248740.webp",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CVR%20College%20of%20Engineering%2C%20Ranga%20Reddy%20Telangana%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CVR%20College%20of%20Engineering%2C%20Ranga%20Reddy%20Telangana%20Telangana",
+      "city": "Ranga Reddy",
+      "established": 2001
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/anurag-university-hyderabad-138335/admission",
@@ -47258,12 +47278,12 @@
       "state": "Telangana",
       "country": "India",
       "address": "Venkatapur, Medchal–Malkajgiri district",
-      "phone": " 8181057057",
+      "phone": "08415-255309",
       "email": "info@anurag.edu.in",
-      "website": "https://anurag.edu.in/",
-      "rating": 4.5,
+      "website": "https://anurag.edu.in",
+      "rating": 4.3,
       "reviews": 434,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -47283,31 +47303,49 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + Anurag CET / TS EAMCET",
+          "exams": "Anurag CET, TS EAMCET",
+          "intake": "240"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCB/PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "100"
+        },
+        {
+          "title": "Doctor of Pharmacy (Pharm.D)",
+          "division": "Doctoral Professional",
+          "duration": "6 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with Science (PCB/PCM)",
+          "exams": "TS EAMCET",
+          "intake": "30"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹75,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹53 LPA",
@@ -47339,22 +47377,24 @@
       "id": 558,
       "reviewsCount": 434,
       "image": "https://img.jagranjosh.com/images/2022/November/30112022/Anurag-University-Hyderabad-Campus-View-2.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anurag%20University%2C%20Hyderabad%20Telangana%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anurag%20University%2C%20Hyderabad%20Telangana%20Telangana",
+      "city": "Hyderabad",
+      "established": 2002
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/international-institute-of-information-technology-hyderabad-53885/ranking",
-      "name": "IIIT Hyderabad IIIT Hyderabad",
+      "name": "IIIT Hyderabad - Center for Visual Information Technology (CVIT, Gachibowli)",
       "shortName": "IHIHR2",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Telangana, Telangana, India",
-      "phone": "080-26597135",
+      "phone": "040-66531000",
       "email": "admissions@ihihr2.edu.in",
-      "website": "https://www.iith.ac.in",
-      "rating": 4.5,
+      "website": "https://cvit.iiit.ac.in",
+      "rating": 4.9,
       "reviews": 151,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Government",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -47374,31 +47414,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
-        },
-        {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
-        },
-        {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
+          "title": "M.S. by Research in Computer Vision and Machine Learning",
+          "division": "Postgraduate Research",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹3,80,000/Year",
+          "eligibility": "B.Tech in CSE / ECE / Math + PGEE",
+          "exams": "PGEE",
+          "intake": "25"
+        },
+        {
+          "title": "Ph.D. in Computer Vision and Pattern Recognition",
+          "division": "Doctoral",
+          "duration": "4 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "Master's in Engineering / CS + Research Interview",
+          "exams": "PGEE, Interview",
+          "intake": "15"
+        },
+        {
+          "title": "Post Graduate Certificate in Computer Vision & Deep Learning",
+          "division": "Executive Certificate",
+          "duration": "1 Year",
+          "fees": "₹2,00,000/Year",
+          "eligibility": "Bachelor's degree with programming background",
+          "exams": "Merit Based",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹128 LPA",
@@ -47425,20 +47465,22 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 559,
       "reviewsCount": 151,
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIIT%20Hyderabad%20IIIT%20Hyderabad%20Telangana%20Telangana"
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIIT%20Hyderabad%20IIIT%20Hyderabad%20Telangana%20Telangana",
+      "city": "Hyderabad",
+      "established": 2001
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/sr-engineering-college-warangal-37766/ranking",
-      "name": "Ranking",
+      "name": "SR University (formerly SR Engineering College, Warangal)",
       "shortName": "R",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Telangana, Telangana, India",
-      "phone": "080-26597135",
+      "phone": "0870-2818333",
       "email": "admissions@r.edu.in",
-      "website": "https://www.google.com/search?q=Ranking%20official%20website%20Telangana%20Telangana",
+      "website": "https://sru.edu.in",
       "rating": 4.5,
       "reviews": 98,
       "type": "Private",
@@ -47461,31 +47503,49 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + SRUJEE / TS EAMCET / JEE Main",
+          "exams": "SRUJEE, TS EAMCET, JEE Main",
+          "intake": "240"
+        },
+        {
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
-        },
-        {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹85,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET / CAT",
+          "exams": "TS ICET, CAT",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -47510,22 +47570,24 @@
       "id": 560,
       "reviewsCount": 98,
       "image": "/images/campuses/campus_architecture_3.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ranking%20Telangana%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ranking%20Telangana%20Telangana",
+      "city": "Warangal",
+      "established": 2002
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/national-institute-of-agricultural-extension-management-manage-rajendra-nagar-hyderabad-2825",
-      "name": "National Institute of Agricultural Extension Management (MANAGE)",
+      "name": "National Institute of Agricultural Extension Management (MANAGE Hyderabad)",
       "shortName": "MANAGE",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Telangana, Telangana, India",
-      "phone": "080-26597135",
+      "phone": "040-24016702",
       "email": "admissions@manage.edu.in",
-      "website": "https://www.google.com/search?q=National%20Institute%20of%20Agricultural%20Extension%20Management%20(MANAGE)%20official%20website%20Telangana%20Telangana",
-      "rating": 4.5,
+      "website": "https://www.manage.gov.in",
+      "rating": 4.7,
       "reviews": 275,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -47545,22 +47607,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
+          "title": "Post Graduate Diploma in Management (Agri-Business Management) - PGDM (ABM)",
+          "division": "Postgraduate Diploma",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹4,25,000/Year",
+          "eligibility": "Bachelor's degree in Agriculture / Allied Science (50%+) + CAT",
+          "exams": "CAT",
+          "intake": "120"
         },
         {
-          "title": "Executive MBA",
-          "division": "Postgraduate",
+          "title": "Post Graduate Diploma in Agricultural Extension Management (PGDAEM)",
+          "division": "Postgraduate Diploma",
           "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "fees": "₹15,000/Year",
+          "eligibility": "Graduation in Agriculture / Allied Sectors",
+          "exams": "Merit Based",
           "intake": "60"
+        },
+        {
+          "title": "Fellow Program in Management (FPM)",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "Master's degree in Agri-Business / Management with UGC NET",
+          "exams": "UGC NET, Interview",
+          "intake": "10"
         }
       ],
       "highestPackage": "₹20 LPA",
@@ -47586,9 +47657,11 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 561,
       "reviewsCount": 275,
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Agricultural%20Extension%20Management%20(MANAGE)%20Telangana%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 1987
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/osmania-university-hyderabad-25100",
@@ -47598,10 +47671,10 @@
       "state": "Telangana",
       "country": "India",
       "address": "Osmania University Main Rd, Amberpet",
-      "phone": "8331041286",
+      "phone": "040-27682444",
       "email": "admissions@osmania.ac.in",
-      "website": "https://www.osmania.ac.in/",
-      "rating": 4.5,
+      "website": "https://www.osmania.ac.in",
+      "rating": 4.6,
       "reviews": 110,
       "type": "Public/Government",
       "ownership": "Private",
@@ -47623,22 +47696,49 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹35,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
         },
         {
-          "title": "Executive MBA",
+          "title": "Master of Computer Applications (MCA)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "2 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "BCA / B.Sc with Math + TS ICET",
+          "exams": "TS ICET",
           "intake": "60"
+        },
+        {
+          "title": "M.Sc in Computer Science",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "B.Sc with CS / Math + CPGET",
+          "exams": "CPGET",
+          "intake": "40"
+        },
+        {
+          "title": "Master of Laws (LL.M.)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "LL.B. (50%+) + TS LAWCET",
+          "exams": "TS LAWCET",
+          "intake": "60"
+        },
+        {
+          "title": "Ph.D. in Arts, Science & Management",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "Master's degree with UGC NET / CSIR NET",
+          "exams": "UGC NET",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹18.2 LPA",
@@ -47672,7 +47772,9 @@
       "reviewsCount": 110,
       "image": "/images/campuses/campus_osmania_university.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Osmania%20University%2C%20Hyderabad%20Telangana%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 1918
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/woxsen-university-hyderabad-138295/compare",
@@ -47682,12 +47784,12 @@
       "state": "Telangana",
       "country": "India",
       "address": "Kamkole, Sadasivpet, Sangareddy District",
-      "phone": "04044448888",
+      "phone": "040-44448888",
       "email": "admissions@woxsen.edu.in",
-      "website": "https://woxsen.edu.in/",
-      "rating": 4.5,
+      "website": "https://woxsen.edu.in",
+      "rating": 4.6,
       "reviews": 140,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -47707,22 +47809,49 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
+          "fees": "₹6,50,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / XAT / NMAT / GMAT / WAT",
+          "exams": "CAT, XAT, NMAT, GMAT, WAT",
           "intake": "180"
         },
         {
-          "title": "Executive MBA",
-          "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,85,000/Year",
+          "eligibility": "10+2 with PCM + W-JEET / JEE Main / TS EAMCET",
+          "exams": "W-JEET, JEE Main, TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "title": "Bachelor of Design (B.Des)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,60,000/Year",
+          "eligibility": "10+2 in any stream + Woxsen Design Test",
+          "exams": "Woxsen Design Test",
+          "intake": "80"
+        },
+        {
+          "title": "B.A. LL.B. (Hons.)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹2,25,000/Year",
+          "eligibility": "10+2 (50%+) + CLAT / LSAT / WLAT",
+          "exams": "CLAT, LSAT, WLAT",
           "intake": "60"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA Hons.)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹2,50,000/Year",
+          "eligibility": "10+2 in any stream + WAT",
+          "exams": "WAT",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹22 LPA",
@@ -47746,22 +47875,24 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 563,
       "reviewsCount": 140,
-      "image": "/images/campuses/atharva_complex_malad.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Woxsen%20University%2C%20Hyderabad%20Telangana%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Sangareddy",
+      "established": 2014
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/koneru-lakshmaiah-education-foundation-hyderabad-58005/compare",
-      "name": "Koneru Lakshmaiah Education Foundation, Hyderabad",
+      "name": "Koneru Lakshmaiah Education Foundation, Hyderabad (KL University Hyderabad)",
       "shortName": "KLEFH",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Aziznagar, Moinabad Road, Near TS Police Academy",
-      "phone": "7997079970",
+      "phone": "040-23542127",
       "email": "veejay.lucky@klh.edu.in",
-      "website": "http://www.klh.edu.in",
-      "rating": 4.5,
+      "website": "https://www.klh.edu.in",
+      "rating": 4.4,
       "reviews": 201,
       "type": "Private",
       "ownership": "Private",
@@ -47783,21 +47914,48 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,40,000/Year",
+          "eligibility": "10+2 with PCM + KLEEE / JEE Main / TS EAMCET",
+          "exams": "KLEEE, JEE Main, TS EAMCET",
+          "intake": "240"
         },
         {
-          "title": "Executive MBA",
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,40,000/Year",
+          "eligibility": "10+2 with PCM + KLEEE",
+          "exams": "KLEEE",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "2 Years",
+          "fees": "₹2,25,000/Year",
+          "eligibility": "Graduation (50%+) + KLMAT / CAT / MAT",
+          "exams": "KLMAT, CAT, MAT",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with Math / CS",
+          "exams": "Merit Based",
           "intake": "60"
         }
       ],
@@ -47824,20 +47982,22 @@
       "reviewsCount": 201,
       "image": "/images/campuses/campus_architecture_6.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Koneru%20Lakshmaiah%20Education%20Foundation%2C%20Hyderabad%20Telangana%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 2017
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/uoh-university-of-hyderabad-23069/compare",
-      "name": "University of Hyderabad ,Gachibowli",
+      "name": "University of Hyderabad (UoH / HCU, Gachibowli)",
       "shortName": "CUOH",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Telangana, Telangana, India",
-      "phone": "080-26597135",
+      "phone": "040-23130000",
       "email": "admissions@cuoh.edu.in",
-      "website": "https://www.google.com/search?q=University%20of%20Hyderabad%20%2CGachibowli%20official%20website%20Telangana%20Telangana",
-      "rating": 4.5,
+      "website": "https://uohyd.ac.in",
+      "rating": 4.8,
       "reviews": 179,
       "type": "Public/Government",
       "ownership": "Private",
@@ -47859,31 +48019,58 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "title": "Integrated M.Sc in Mathematical Sciences",
+          "division": "Integrated",
+          "duration": "5 Years",
+          "fees": "₹14,000/Year",
+          "eligibility": "10+2 with Science (PCM) + CUET UG",
+          "exams": "CUET UG",
+          "intake": "40"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "title": "Integrated M.Sc in Physics",
+          "division": "Integrated",
+          "duration": "5 Years",
+          "fees": "₹14,000/Year",
+          "eligibility": "10+2 with Science (PCM) + CUET UG",
+          "exams": "CUET UG",
+          "intake": "40"
+        },
+        {
+          "title": "M.Tech in Computer Science",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "B.Tech in CSE / IT + GATE Score",
+          "exams": "GATE",
+          "intake": "45"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "Graduation (50%+) + CAT Score",
+          "exams": "CAT",
+          "intake": "75"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "BCA / B.Sc with Math + NIMCET Rank",
+          "exams": "NIMCET",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "M.A. in Economics",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹12,000/Year",
+          "eligibility": "Bachelor's degree with Economics + CUET PG",
+          "exams": "CUET PG",
+          "intake": "65"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -47908,20 +48095,22 @@
       "id": 565,
       "reviewsCount": 179,
       "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1767001667Campus.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Hyderabad%20%2CGachibowli%20Telangana%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Hyderabad%20%2CGachibowli%20Telangana%20Telangana",
+      "city": "Hyderabad",
+      "established": 1974
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/university-college-of-commerce-and-business-management-osmania-university-tarnaka-hyderabad-53677/admission",
-      "name": "University College of Commerce and Business Management, Osmania University, Hyderabad",
+      "name": "University College of Commerce and Business Management, Osmania University (UCCBM OU)",
       "shortName": "UCOCAB",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Osmania University Main Rd, Osmania University",
-      "phone": "080-26597135",
+      "phone": "040-27097693",
       "email": "admissions@ucocab.edu.in",
       "website": "https://www.osmania.ac.in/uccbm/",
-      "rating": 4.5,
+      "rating": 4.6,
       "reviews": 316,
       "type": "Public/Government",
       "ownership": "Private",
@@ -47943,22 +48132,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹35,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET Rank",
+          "exams": "TS ICET",
+          "intake": "120"
         },
         {
-          "title": "Executive MBA",
+          "title": "Master of Commerce (M.Com)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "duration": "2 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "B.Com degree + CPGET Rank",
+          "exams": "CPGET",
+          "intake": "80"
+        },
+        {
+          "title": "MBA in Technology Management (Evening)",
+          "division": "Postgraduate Executive",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation + Minimum 2 Years Work Experience",
+          "exams": "TS ICET",
+          "intake": "40"
+        },
+        {
+          "title": "Ph.D. in Business Management",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "MBA with UGC NET / JRF",
+          "exams": "UGC NET",
+          "intake": "25"
         }
       ],
       "highestPackage": "₹15 LPA",
@@ -47989,7 +48196,9 @@
       "id": 566,
       "reviewsCount": 316,
       "image": "/images/campuses/campus_osmania_university.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=University%20College%20of%20Commerce%20and%20Business%20Management%2C%20Osmania%20University%2C%20Hyderabad%20Telangana%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=University%20College%20of%20Commerce%20and%20Business%20Management%2C%20Osmania%20University%2C%20Hyderabad%20Telangana%20Telangana",
+      "city": "Hyderabad",
+      "established": 1975
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/uoh-university-of-hyderabad-23069/admission",
