@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1490 / 12,660**  
-**Roadmap Progress**: **149.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1500 / 12,660**  
+**Roadmap Progress**: **150.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2244,4 +2244,19 @@
 | **1169** | Government Engineering College, Siwan | Public/Government | Siwan, Bihar - 841226 | [gecsiwan.org](https://gecsiwan.org) |
 | **1170** | Aryabhatt Polytechnic, Gaya | Private | District - Gaya, Bihar - 824231 | [aryabhattpolytechnic.com](http://aryabhattpolytechnic.com) |
 | **1171** | Government Engineering College, West Champaran | Public/Government | West Champaran, Bihar - 845438 | [gecwestchamparan.nic.in](https://gecwestchamparan.nic.in) |
+
+### Batch 150 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1172** | Government Polytechnic, Nawada | Public/Government | Nawada, Bihar - 805122 | [gpnawada.org.in](https://gpnawada.org.in) |
+| **1173** | Millia Kishanganj College of Engineering & Technology | Private | Kishanganj, Bihar - 855107 | [kcet.in](https://kcet.in) |
+| **1174** | Government Polytechnic, Arwal | Public/Government | Arwal, Bihar - 804428 | [gparwal.org.in](https://gparwal.org.in) |
+| **1175** | Government Polytechnic, Kishanganj | Public/Government | Kishanganj, Bihar - 855116 | [gpkishanganj.ac.in](https://gpkishanganj.ac.in) |
+| **1176** | Government Polytechnic, Buxar | Public/Government | Buxar, Bihar - 802103 | [gpbuxar.ac.in](https://gpbuxar.ac.in) |
+| **1177** | Chanakya Institute of Polytechnic and Technology, Bhojpur | Private | District - Bhojpur, Bihar - 802160 | [chanakyapolytechnic.com](http://chanakyapolytechnic.com) |
+| **1179** | Bradford International Business School, Patna | Private | Patna, Bihar - 800009 | [www.bradford.org.in](http://www.bradford.org.in) |
+| **1181** | Jinvani Management College, Bhojpur | Private | District - Bhojpur, Bihar - 802152 | [jinvanicollege.org](http://jinvanicollege.org) |
+| **1182** | Jamui Polytechnic, Jamui | Private | Jamui, Bihar - 811307 | [jamuipolytechnic.org](http://jamuipolytechnic.org) |
+| **1183** | Government Engineering College, Gopalganj | Public/Government | District - Gopalganj, Bihar - 841505 | [gecgopalganj.ac.in](https://gecgopalganj.ac.in) |
 

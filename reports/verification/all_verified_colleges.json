@@ -11173,5 +11173,80 @@
         "website": "https://gecwestchamparan.nic.in"
       }
     ]
+  },
+  {
+    "batch": 150,
+    "items": [
+      {
+        "id": 1172,
+        "name": "Government Polytechnic, Nawada",
+        "type": "Public/Government",
+        "location": "Nawada, Bihar - 805122",
+        "website": "https://gpnawada.org.in"
+      },
+      {
+        "id": 1173,
+        "name": "Millia Kishanganj College of Engineering & Technology",
+        "type": "Private",
+        "location": "Kishanganj, Bihar - 855107",
+        "website": "https://kcet.in"
+      },
+      {
+        "id": 1174,
+        "name": "Government Polytechnic, Arwal",
+        "type": "Public/Government",
+        "location": "Arwal, Bihar - 804428",
+        "website": "https://gparwal.org.in"
+      },
+      {
+        "id": 1175,
+        "name": "Government Polytechnic, Kishanganj",
+        "type": "Public/Government",
+        "location": "Kishanganj, Bihar - 855116",
+        "website": "https://gpkishanganj.ac.in"
+      },
+      {
+        "id": 1176,
+        "name": "Government Polytechnic, Buxar",
+        "type": "Public/Government",
+        "location": "Buxar, Bihar - 802103",
+        "website": "https://gpbuxar.ac.in"
+      },
+      {
+        "id": 1177,
+        "name": "Chanakya Institute of Polytechnic and Technology, Bhojpur",
+        "type": "Private",
+        "location": "District - Bhojpur, Bihar - 802160",
+        "website": "http://chanakyapolytechnic.com"
+      },
+      {
+        "id": 1179,
+        "name": "Bradford International Business School, Patna",
+        "type": "Private",
+        "location": "Patna, Bihar - 800009",
+        "website": "http://www.bradford.org.in"
+      },
+      {
+        "id": 1181,
+        "name": "Jinvani Management College, Bhojpur",
+        "type": "Private",
+        "location": "District - Bhojpur, Bihar - 802152",
+        "website": "http://jinvanicollege.org"
+      },
+      {
+        "id": 1182,
+        "name": "Jamui Polytechnic, Jamui",
+        "type": "Private",
+        "location": "Jamui, Bihar - 811307",
+        "website": "http://jamuipolytechnic.org"
+      },
+      {
+        "id": 1183,
+        "name": "Government Engineering College, Gopalganj",
+        "type": "Public/Government",
+        "location": "District - Gopalganj, Bihar - 841505",
+        "website": "https://gecgopalganj.ac.in"
+      }
+    ]
   }
 ]
