@@ -2855,3 +2855,19 @@
 | 1908 | Rungta College of Science and Technology, Durg | Durg | Chhattisgarh | Private | [Portal](https://www.rungta.ac.in/rcst) |
 | 1909 | M. J. College, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://mjcollegebhilai.org) |
 | 1910 | Krishna Institute of Science and Commerce, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://kiscbhilai.ac.in) |
+
+
+### Batch 192 (Colleges 1,911–1,920)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1911 | Shri Shankaracharya Mahavidyalaya, Junwani, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://www.ssmv.ac.in) |
+| 1912 | Government Jamuna Prasad Verma P.G. Arts & Commerce College, Bilaspur | Bilaspur | Chhattisgarh | Public/Government | [Portal](https://jpvpgc.ac.in) |
+| 1913 | Mahant Laxminarayan Das College, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://mldcollege.com) |
+| 1914 | Government Kaktiya Post Graduate College, Jagdalpur | Bastar | Chhattisgarh | Public/Government | [Portal](https://www.pgcollegejagdalpur.in) |
+| 1915 | Agrasen Mahavidyalaya, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://agrasenmahavidyalaya.edu.in) |
+| 1916 | Shri Shankaracharya Institute of Professional Studies, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://www.ssips.edu.in) |
+| 1917 | Disha College, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://dishacollege.com) |
+| 1918 | Vipra Kala Vanijya Avam Sharirik Shiksha Mahavidyalaya, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://vipracollege.in) |
+| 1919 | Netaji Subhas College, Abhanpur | Raipur | Chhattisgarh | Private | [Portal](https://nscraipur.in) |
+| 1920 | Seth R. C. S. Arts and Commerce College, Durg | Durg | Chhattisgarh | Private | [Portal](https://sethrcscollege.in) |

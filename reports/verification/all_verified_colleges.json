@@ -27342,5 +27342,723 @@
     "image": "https://media.collegedekho.com/media/img/institute/crawled_images/CSIT_Infra.JPG",
     "ownership": "Private",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=KRISHNA%20INSTITUTE%20OF%20SCIENCE%20AND%20COMMERCE%20DURG%20Chhattisgarh"
+  },
+  {
+    "id": 1907,
+    "name": "Shri Shankaracharya Mahavidyalaya, Junwani, Bhilai",
+    "shortName": "SSMV Bhilai",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "97/2, Besides Petrol Pump, Junwani, Bhilai, Durg, Chhattisgarh - 490020",
+    "phone": "0788-2284100",
+    "website": "https://www.ssmv.ac.in",
+    "rating": 4.5,
+    "reviews": 543,
+    "type": "Private",
+    "about": "Shri Shankaracharya Mahavidyalaya (SSMV Bhilai), established in 1997 under Shri Gangajali Education Society, is an 'A' Grade NAAC-accredited institution affiliated to Hemchand Yadav Vishwavidyalaya, Durg, delivering courses in IT, management, and arts.",
+    "ranking": 51,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SHRI%20SHANKARACHARYA%20MAHAVIDYALAYA%20JUNWANI%20BHILAI%20DURG%20Chhattisgarh",
+    "fees": "₹32,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/shri-shankaracharya-mahavidyalaya-bhilai-193314.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/shri-shankaracharya-mahavidyalaya-bhilai-193314.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
+    ],
+    "affiliation": "Hemchand Yadav Vishwavidyalaya, Durg (NAAC 'A' Accredited)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹32,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 120
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹18,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 543,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/shri-shankaracharya-mahavidyalaya-bhilai-193314.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRI%20SHANKARACHARYA%20MAHAVIDYALAYA%20JUNWANI%20BHILAI%20DURG%20Chhattisgarh"
+  },
+  {
+    "id": 1908,
+    "name": "Government Jamuna Prasad Verma P.G. Arts & Commerce College, Bilaspur",
+    "shortName": "JPV Govt PG College",
+    "location": "Bilaspur",
+    "state": "Chhattisgarh",
+    "address": "Raipur Road, Jarhabhatha, Bilaspur, Chhattisgarh - 495001",
+    "phone": "07752-414455",
+    "website": "https://jpvpgc.ac.in",
+    "rating": 4.5,
+    "reviews": 318,
+    "type": "Public/Government",
+    "about": "Government Jamuna Prasad Verma P.G. Arts and Commerce College Bilaspur (JPV College), established in 1972, is a premier NAAC 'A' accredited state government postgraduate institution affiliated to Atal Bihari Vajpayee Vishwavidyalaya.",
+    "ranking": 66,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERMENT%20JAMUNA%20PRASAD%20VERMA%20PG%20ARTS%20AND%20COMMERCE%20COLLEGE%20BILASPUR%20BILASPUR%20Chhattisgarh",
+    "fees": "₹1,850/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/syustaging/SYU_PREPROD/Government-Jamuna-Prasad-Verma-Post-Graduate-Arts-and-Commerce-College-_Bilaspur-_Chhattisgarh_t44CiAXKu.webp?tr=w-3840",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
+    ],
+    "affiliation": "Atal Bihari Vajpayee Vishwavidyalaya, Bilaspur (NAAC 'A' Accredited)",
+    "courses": [
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹5,500/Yr",
+        "eligibility": "10+2 in any stream + Merit",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹5,500/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹1,850/Yr",
+        "eligibility": "10+2 with Commerce / Mathematics",
+        "type": "COMMERCE",
+        "intake": 360
+      },
+      {
+        "title": "Bachelor of Arts (BA)",
+        "duration": "3 Years",
+        "fees": "₹1,650/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "ARTS",
+        "intake": 400
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 318,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/vjti_mumbai.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERMENT%20JAMUNA%20PRASAD%20VERMA%20PG%20ARTS%20AND%20COMMERCE%20COLLEGE%20BILASPUR%20BILASPUR%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+  },
+  {
+    "id": 1909,
+    "name": "Mahant Laxminarayan Das College, Raipur",
+    "shortName": "MLD College Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Near Rang Mandir, Gandhi Chowk, Chhotapara, Raipur, Chhattisgarh - 492001",
+    "phone": "0771-2227181",
+    "website": "https://mldcollege.com",
+    "rating": 4.5,
+    "reviews": 99,
+    "type": "Private",
+    "about": "Mahant Laxminarayan Das College Raipur, established in 1997, is an established degree college situated near Gandhi Chowk in Raipur, affiliated to Pt. Ravishankar Shukla University.",
+    "ranking": 64,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=MAHANT%20LAXMINARAYAN%20DAS%20COLLEGE%20RAIPUR%20Chhattisgarh",
+    "fees": "₹28,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://universitykart.com/Content/upload/admin/bhajicph.5xu.jpg",
+    "gallery": [
+      "https://universitykart.com/Content/upload/admin/bhajicph.5xu.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (State Public University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹28,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹30,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 99,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://universitykart.com/Content/upload/admin/bhajicph.5xu.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHANT%20LAXMINARAYAN%20DAS%20COLLEGE%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1910,
+    "name": "Government Kaktiya Post Graduate College, Jagdalpur",
+    "shortName": "Govt PG College Jagdalpur",
+    "location": "Bastar",
+    "state": "Chhattisgarh",
+    "address": "Dharampura No. 2, Jagdalpur, Bastar, Chhattisgarh - 494001",
+    "phone": "07782-222384",
+    "website": "https://www.pgcollegejagdalpur.in",
+    "rating": 4.5,
+    "reviews": 187,
+    "type": "Public/Government",
+    "about": "Government Kaktiya Post Graduate College Jagdalpur, established in 1954, is the historic lead autonomous college of Bastar division, accredited by NAAC and affiliated to Shaheed Mahendra Karma Vishwavidyalaya, providing higher education to students of the tribal Bastar region.",
+    "ranking": 65,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20KAKTIYA%20POST%20GRADUATE%20COLLEGE%20JAGDALPUR%20BASTAR%20Chhattisgarh",
+    "fees": "₹1,950/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/None/DSFFFHGFHT.jpg?width=640",
+    "gallery": [
+      "https://media.collegedekho.com/media/img/institute/crawled_images/None/DSFFFHGFHT.jpg?width=640",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
+    ],
+    "affiliation": "Shaheed Mahendra Karma Vishwavidyalaya, Bastar (Autonomous Lead College)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹5,500/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹1,950/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 360
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹1,850/Yr",
+        "eligibility": "10+2 with Commerce / Mathematics",
+        "type": "COMMERCE",
+        "intake": 240
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹3,500/Yr",
+        "eligibility": "Graduation in any discipline",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 187,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/DSFFFHGFHT.jpg?width=640",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20KAKTIYA%20POST%20GRADUATE%20COLLEGE%20JAGDALPUR%20BASTAR%20Chhattisgarh"
+  },
+  {
+    "id": 1911,
+    "name": "Agrasen Mahavidyalaya, Raipur",
+    "shortName": "Agrasen College Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Jaitu Sao Math Parisar, Purani Basti, Raipur, Chhattisgarh - 492001",
+    "phone": "0771-4040900",
+    "website": "https://agrasenmahavidyalaya.edu.in",
+    "rating": 4.5,
+    "reviews": 483,
+    "type": "Private",
+    "about": "Agrasen Mahavidyalaya Raipur, founded in 2005 by the Agrawal Education Society, is situated at Jaitu Sao Math Parisar in Purani Basti, affiliated to Pt. Ravishankar Shukla University.",
+    "ranking": 1,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=AGRASEN%20MAHAVIDYALAYA%20RAIPUR%20Chhattisgarh",
+    "fees": "₹28,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/16409427141612501451three.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/college_data/images/campusimage/16409427141612501451three.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (State Public University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹28,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹18,000/Yr",
+        "eligibility": "10+2 in Commerce stream",
+        "type": "COMMERCE",
+        "intake": 120
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 483,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/16409427141612501451three.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=AGRASEN%20MAHAVIDYALAYA%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1912,
+    "name": "Shri Shankaracharya Institute of Professional Studies, Raipur",
+    "shortName": "SSIPS Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Old Dhamtari Road, P.O. Sejbahar, Mujgahan, Raipur, Chhattisgarh - 492015",
+    "phone": "0771-3501600",
+    "website": "https://www.ssips.edu.in",
+    "rating": 4.5,
+    "reviews": 163,
+    "type": "Private",
+    "about": "Shri Shankaracharya Institute of Professional Studies (SSIPS Raipur) is a member of the Shankaracharya Group of Institutions, offering higher education degrees in commerce, business administration, and computer applications under PRSU Raipur.",
+    "ranking": 29,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SHRI%20SHANKARACHARYA%20INSTITUTE%20OF%20PROFESSIONAL%20STUDIES%20RAIPUR%20Chhattisgarh",
+    "fees": "₹30,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://ssips.edu.in/assets/images/gallery/campus/campus-1.png",
+    "gallery": [
+      "https://www.ssipmt.edu.in/assets/images/about/ssipmt2.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (State Public University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹30,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 90
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹20,000/Yr",
+        "eligibility": "10+2 with Commerce / Mathematics",
+        "type": "COMMERCE",
+        "intake": 120
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 163,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://ssips.edu.in/assets/images/gallery/campus/campus-1.png",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRI%20SHANKARACHARYA%20INSTITUTE%20OF%20PROFESSIONAL%20STUDIES%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1913,
+    "name": "Disha College, Raipur",
+    "shortName": "Disha College",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Disha Park, Building No. 1, Ram Nagar-Kota Marg, Raipur, Chhattisgarh - 492010",
+    "phone": "0771-4231000",
+    "website": "https://dishacollege.com",
+    "rating": 4.5,
+    "reviews": 120,
+    "type": "Private",
+    "about": "Disha College Raipur, established in 2001 under Disha Education Society, is an established institution located at Disha Park, offering recognized degrees in management, commerce, and computer science affiliated to PRSU Raipur.",
+    "ranking": 59,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=DISHA%20COLLEGE%20RAIPUR%20Chhattisgarh",
+    "fees": "₹35,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/pibm_pune.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/disha-college-raipur-217526.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (State Public University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 90
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹38,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹18,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 120,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/pibm_pune.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=DISHA%20COLLEGE%20RAIPUR%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+  },
+  {
+    "id": 1914,
+    "name": "Vipra Kala Vanijya Avam Sharirik Shiksha Mahavidyalaya, Raipur",
+    "shortName": "Vipra College Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "G.E. Road, Samta Colony, Raipur, Chhattisgarh - 492001",
+    "phone": "0771-2254400",
+    "website": "https://vipracollege.in",
+    "rating": 4.5,
+    "reviews": 206,
+    "type": "Private",
+    "about": "Vipra Kala Vanijya Avam Sharirik Shiksha Mahavidyalaya Raipur, established in 1996 by the Sarv Brahmin Samaj, is affiliated to PRSU Raipur, offering education in physical education, computer applications, and humanities.",
+    "ranking": 53,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=VIPRA%20KALA%20VANIJYA%20AVAM%20SHARIRIK%20SHIKSHA%20MAHAVIDYALAYA%20RAIPUR%20Chhattisgarh",
+    "fees": "₹26,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2025-11-9-11-23-31_gv.jpg",
+    "gallery": [
+      "https://www.vidyavision.com/CollegeUploads/Photos/2025-11-9-11-23-31_gv.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (State Public University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹26,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Physical Education (B.P.Ed)",
+        "duration": "2 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "Graduation with Physical Education / Sports Merit",
+        "type": "EDUCATION",
+        "intake": 50
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 206,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2025-11-9-11-23-31_gv.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIPRA%20KALA%20VANIJYA%20AVAM%20SHARIRIK%20SHIKSHA%20MAHAVIDYALAYA%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1915,
+    "name": "Netaji Subhas College, Abhanpur",
+    "shortName": "NSC Abhanpur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Village Belbhata, Taluka Abhanpur, Raipur, Chhattisgarh - 493661",
+    "phone": "0771-2101100",
+    "website": "https://nscraipur.in",
+    "rating": 4.5,
+    "reviews": 355,
+    "type": "Private",
+    "about": "Netaji Subhas College at Belbhata, Abhanpur is affiliated to Pt. Ravishankar Shukla University, offering education programs, IT diplomas, and undergraduate courses.",
+    "ranking": 26,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=NETAJI%20SUBHAS%20COLLEGE%20RAIPUR%20Chhattisgarh",
+    "fees": "₹25,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1427970702n1.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/college_data/images/campusimage/1427970702n1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (State Public University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹15,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Education (B.Ed)",
+        "duration": "2 Years",
+        "fees": "₹33,000/Yr",
+        "eligibility": "Graduation with 50% + Pre-B.Ed",
+        "type": "EDUCATION",
+        "intake": 100
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 355,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1427970702n1.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=NETAJI%20SUBHAS%20COLLEGE%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1916,
+    "name": "Seth R. C. S. Arts and Commerce College, Durg",
+    "shortName": "Seth RCS College Durg",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Utai Road, Kasaridih, Near Ravishankar Shukla Stadium, Durg, Chhattisgarh - 491001",
+    "phone": "0788-2322300",
+    "website": "https://sethrcscollege.in",
+    "rating": 4.5,
+    "reviews": 187,
+    "type": "Private",
+    "about": "Seth R. C. S. Arts and Commerce College Durg, established in 1964, is one of the premier private aided institutions in Durg, located near the Ravishankar Shukla Stadium and affiliated to Hemchand Yadav Vishwavidyalaya.",
+    "ranking": 57,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SETH%20R.%20C.%20S.%20ARTS%20AND%20COMMERCE%20COLLEGE%20DURG%20Chhattisgarh",
+    "fees": "₹25,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/seth-rcs-college-of-art-commerce-durg-341945.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/seth-rcs-college-of-art-commerce-durg-341945.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
+    ],
+    "affiliation": "Hemchand Yadav Vishwavidyalaya, Durg (State University)",
+    "courses": [
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹28,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Commerce / Mathematics",
+        "type": "COMMERCE",
+        "intake": 240
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 187,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/seth-rcs-college-of-art-commerce-durg-341945.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SETH%20R.%20C.%20S.%20ARTS%20AND%20COMMERCE%20COLLEGE%20DURG%20Chhattisgarh"
   }
 ]
