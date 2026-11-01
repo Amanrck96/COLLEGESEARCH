@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1380 / 12,660**  
-**Roadmap Progress**: **138.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1390 / 12,660**  
+**Roadmap Progress**: **139.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2079,4 +2079,19 @@
 | **1050** | SBS Polytechnic College | Private | Sikar, Rajasthan - 332001 | [sbspolytechnic.com](https://sbspolytechnic.com) |
 | **1052** | Rajasthan Polytechnic College, Bikaner | Private | Bikaner, Rajasthan - 334004 | [rajasthanpolytechnicbikaner.com](https://rajasthanpolytechnicbikaner.com) |
 | **1053** | Government Women Polytechnic College, Ajmer | Public/Government | Ajmer, Rajasthan - 305002 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gwpcajmer) |
+
+### Batch 139 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1054** | Government Polytechnic College, Karauli | Public/Government | Karauli, Rajasthan - 322241 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpckarauli) |
+| **1055** | Shri Gokul Verma Government Polytechnic College, Bharatpur | Public/Government | Bharatpur, Rajasthan - 321001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcbharatpur) |
+| **1056** | Shri Tirupati Balaji Polytechnic College | Private | Kota, Rajasthan - 325003 | [stbpolytechnic.com](https://stbpolytechnic.com) |
+| **1057** | Government Women Polytechnic College, Jaipur | Public/Government | Jaipur, Rajasthan - 302015 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gwpcjaipur) |
+| **1058** | Government Polytechnic College, Barmer | Public/Government | Barmer, Rajasthan - 344001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcbarmer) |
+| **1059** | Jaipur Engineering College and Research Centre | Private | Jaipur, Rajasthan - 302022 | [jecrcfoundation.com](https://jecrcfoundation.com) |
+| **1061** | Misri Devi Memorial Polytechnic College | Private | District Karauli, Rajasthan - 321610 | [mdmpolytechnic.com](https://mdmpolytechnic.com) |
+| **1062** | Vashisth Polytechnic College | Private | District Sri Ganganagar, Rajasthan - 335062 | [vashisthpolytechnic.com](https://vashisthpolytechnic.com) |
+| **1063** | Laxmi Devi Institute of Engineering & Technology | Private | Alwar, Rajasthan - 301028 | [lietalwar.org](https://lietalwar.org) |
+| **1064** | Government Polytechnic College, Jaisalmer | Public/Government | Jaisalmer, Rajasthan - 345001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcjaisalmer) |
 

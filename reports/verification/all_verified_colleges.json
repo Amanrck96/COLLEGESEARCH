@@ -10348,5 +10348,80 @@
         "website": "https://hte.rajasthan.gov.in/college/gwpcajmer"
       }
     ]
+  },
+  {
+    "batch": 139,
+    "items": [
+      {
+        "id": 1054,
+        "name": "Government Polytechnic College, Karauli",
+        "type": "Public/Government",
+        "location": "Karauli, Rajasthan - 322241",
+        "website": "https://hte.rajasthan.gov.in/college/gpckarauli"
+      },
+      {
+        "id": 1055,
+        "name": "Shri Gokul Verma Government Polytechnic College, Bharatpur",
+        "type": "Public/Government",
+        "location": "Bharatpur, Rajasthan - 321001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcbharatpur"
+      },
+      {
+        "id": 1056,
+        "name": "Shri Tirupati Balaji Polytechnic College",
+        "type": "Private",
+        "location": "Kota, Rajasthan - 325003",
+        "website": "https://stbpolytechnic.com"
+      },
+      {
+        "id": 1057,
+        "name": "Government Women Polytechnic College, Jaipur",
+        "type": "Public/Government",
+        "location": "Jaipur, Rajasthan - 302015",
+        "website": "https://hte.rajasthan.gov.in/college/gwpcjaipur"
+      },
+      {
+        "id": 1058,
+        "name": "Government Polytechnic College, Barmer",
+        "type": "Public/Government",
+        "location": "Barmer, Rajasthan - 344001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcbarmer"
+      },
+      {
+        "id": 1059,
+        "name": "Jaipur Engineering College and Research Centre",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302022",
+        "website": "https://jecrcfoundation.com"
+      },
+      {
+        "id": 1061,
+        "name": "Misri Devi Memorial Polytechnic College",
+        "type": "Private",
+        "location": "District Karauli, Rajasthan - 321610",
+        "website": "https://mdmpolytechnic.com"
+      },
+      {
+        "id": 1062,
+        "name": "Vashisth Polytechnic College",
+        "type": "Private",
+        "location": "District Sri Ganganagar, Rajasthan - 335062",
+        "website": "https://vashisthpolytechnic.com"
+      },
+      {
+        "id": 1063,
+        "name": "Laxmi Devi Institute of Engineering & Technology",
+        "type": "Private",
+        "location": "Alwar, Rajasthan - 301028",
+        "website": "https://lietalwar.org"
+      },
+      {
+        "id": 1064,
+        "name": "Government Polytechnic College, Jaisalmer",
+        "type": "Public/Government",
+        "location": "Jaisalmer, Rajasthan - 345001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcjaisalmer"
+      }
+    ]
   }
 ]
