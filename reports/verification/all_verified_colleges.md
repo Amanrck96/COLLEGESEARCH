@@ -2647,3 +2647,17 @@
 | 1468 | Indian Institute of Forest Management (IIFM), Bhopal | Bhopal | Madhya Pradesh | Public/Government (Autonomous Central Institute) | [Website](https://iifm.ac.in) |
 | 1469 | Jagran Lakecity University (JLU), Bhopal | Bhopal | Madhya Pradesh | Private (State Private University) | [Website](https://jlu.edu.in) |
 | 1470 | AKS University, Satna | Satna | Madhya Pradesh | Private (State Private University) | [Website](https://www.aksuniversity.ac.in) |
+
+### Batch 178 (Colleges 1,771–1,780, IDs: 1471–1480)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1471 | School of Management, ITM University, Gwalior | Gwalior | Madhya Pradesh | Private (State Private University) | [Website](https://itmuniversity.ac.in) |
+| 1472 | Jaipuria Institute of Management, Indore | Indore | Madhya Pradesh | Private | [Website](https://www.jaipuria.ac.in/campuses/jaipuria-indore) |
+| 1473 | Atal Bihari Vajpayee Indian Institute of Information Technology and Management (ABV-IIITM), Gwalior | Gwalior | Madhya Pradesh | Public/Government (Institute of National Importance) | [Website](https://www.iiitm.ac.in) |
+| 1474 | Jain College (Jain Group of Colleges), Lashkar, Gwalior | Gwalior | Madhya Pradesh | Private | [Website](http://www.jaincollege.net) |
+| 1475 | Shri Ravindranath Tagore Institute of Professional Studies, Sanawad | Sanawad, Khandwa | Madhya Pradesh | Private | [Website](https://srtips.in) |
+| 1476 | Lakshmi Narain College of Technology (LNCT) - School of Management, Bhopal | Bhopal | Madhya Pradesh | Private (Autonomous) | [Website](https://lnct.ac.in) |
+| 1477 | K.K. Vigyan Avam Vyavsayik Adhyayan Mahavidyalaya, Indore | Indore | Madhya Pradesh | Private | [Website](https://kkcollegeindore.com) |
+| 1478 | Colonel Fateh Jang College, Mhow, Indore | Mhow, Indore | Madhya Pradesh | Private | [Website](https://colonelfatehjangcollege.com) |
+| 1479 | Anushashan Institute of Management (AIM), Katni | Katni | Madhya Pradesh | Private | [Website](http://www.anushashangroup.in) |
+| 1480 | Sanjeev Agrawal Global Educational (SAGE) University, Bhopal | Bhopal | Madhya Pradesh | Private (State Private University) | [Website](https://sageuniversity.edu.in) |
