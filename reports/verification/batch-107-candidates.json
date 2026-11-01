@@ -1,0 +1,312 @@
+[
+  {
+    "id": 705,
+    "name": "Alagappa University, Karaikudi",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "https://www.alagappauniversity.ac.in/img/core-img/alu-slide1.jpg",
+    "website": "https://alagappauniversity.ac.in/",
+    "phone": "4565226001",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/alagappa-university-karaikudi-23417",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "name": "Amity Global Business School, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://chennai.agbs.in/",
+    "phone": "8792740357",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/amity-global-business-school-chennai-nungambakkam-36839",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "name": "Alagappa University Counselling",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "https://img.jagranjosh.com/images/2022/November/21112022/Alagappa-University-Karaikudi-Auditorium-1.jpg",
+    "website": "https://www.google.com/search?q=Alagappa%20University%20Counselling%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/alagappa-university/alagappa-university-counselling",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "name": "KalaignarKarunanidhi Institute of Technology",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Kalaignar_Karunanidhi_Institute_of_Technology_n.jpg",
+    "website": "https://www.kitcbe.com/",
+    "phone": "9965590062",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/kalaignarkarunanidhi-institute-of-technology-kit-coimbatore-48105",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "name": "PSG Institute of Management, Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.psgim.ac.in/",
+    "phone": "9894199572",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/psg-institute-of-management-coimbatore-23592",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "name": "University of Madras",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
+    "website": "https://www.unom.ac.in/",
+    "phone": "04425613722",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/university-of-madras-chennai-23679",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "name": "Loyola Institute of Business Administration, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://liba.edu/",
+    "phone": "9444028418",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/loyola-institute-of-business-administration-nungambakkam-chennai-33857/ranking",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "name": "St. Joseph's College of Engineering, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2024/March/2032024/Campus_View2,.smfc.jpg",
+    "website": "https://stjosephs.ac.in/",
+    "phone": "9940104881",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/st-joseph-s-college-of-engineering-old-mahabalipuram-road-chennai-24564/admission",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "name": "Bharathiar University",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "https://img.jagranjosh.com/images/2022/December/1122022/Bharathiar-University-Coimbatore-Campus-View-1.jpg",
+    "website": "https://www.google.com/search?q=Bharathiar%20University%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/bharathiar-university-coimbatore-1475",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "name": "IIKM",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.google.com/search?q=IIKM%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/iikm-the-corporate-b-school-kilpauk-chennai-30368/admission",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  }
+]

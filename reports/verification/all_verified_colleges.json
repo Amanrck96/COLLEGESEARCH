@@ -7948,5 +7948,80 @@
         "website": "https://www.karunya.edu/mba"
       }
     ]
+  },
+  {
+    "batch": 107,
+    "items": [
+      {
+        "id": 705,
+        "name": "Alagappa University (State Public University, Karaikudi)",
+        "type": "Public/Government",
+        "location": "College Road, Alagappa Puram",
+        "website": "https://www.alagappauniversity.ac.in"
+      },
+      {
+        "id": 706,
+        "name": "Amity Global Business School (AGBS Chennai, Nungambakkam)",
+        "type": "Private",
+        "location": "Shafee Mohammed Rd, Thousand Lights West",
+        "website": "https://chennai.agbs.in"
+      },
+      {
+        "id": 707,
+        "name": "Alagappa University (Directorate of Collaborative Programmes & Admissions, Karaikudi)",
+        "type": "Public/Government",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.alagappauniversity.ac.in"
+      },
+      {
+        "id": 708,
+        "name": "Kalaignar Karunanidhi Institute of Technology (KIT Autonomous, Coimbatore)",
+        "type": "Private",
+        "location": "Kannampalayam (Post),",
+        "website": "https://www.kitcbe.com"
+      },
+      {
+        "id": 709,
+        "name": "PSG Institute of Management (PSG IM, Peelamedu, Coimbatore)",
+        "type": "Private",
+        "location": "Peelamedu, Coimbatore",
+        "website": "https://www.psgim.ac.in"
+      },
+      {
+        "id": 710,
+        "name": "University of Madras (UNOM Chennai - Chepauk Campus)",
+        "type": "Public/Government",
+        "location": "Navalar Nagar, Triplicane",
+        "website": "https://www.unom.ac.in"
+      },
+      {
+        "id": 711,
+        "name": "Loyola Institute of Business Administration (LIBA Chennai, Nungambakkam)",
+        "type": "Private",
+        "location": "No: 1, Sterling Rd.",
+        "website": "https://liba.edu"
+      },
+      {
+        "id": 712,
+        "name": "St. Joseph's College of Engineering (OMR Semmancheri, Chennai)",
+        "type": "Private",
+        "location": "Semmancheri, Sholinganallur",
+        "website": "https://stjosephs.ac.in"
+      },
+      {
+        "id": 713,
+        "name": "Bharathiar University (BU Coimbatore - State Public University)",
+        "type": "Public/Government",
+        "location": "Tamil Nadu, India",
+        "website": "https://b-u.ac.in"
+      },
+      {
+        "id": 714,
+        "name": "IIKM Business School (Indian Institute of Knowledge Management, Chennai)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.iikm.in"
+      }
+    ]
   }
 ]

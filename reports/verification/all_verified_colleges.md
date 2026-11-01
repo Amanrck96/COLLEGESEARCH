@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1060 / 12,660**  
-**Roadmap Progress**: **106.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1070 / 12,660**  
+**Roadmap Progress**: **107.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1599,4 +1599,19 @@
 | **702** | SRM Institute of Science and Technology (SRMIST Kattankulathur Main Campus) | Private | Tamil Nadu, India | [www.srmist.edu.in](https://www.srmist.edu.in) |
 | **703** | Bharathidasan University (BDU, Tiruchirappalli) | Public/Government | Tamil Nadu, India | [www.bdu.ac.in](https://www.bdu.ac.in) |
 | **704** | Karunya School of Management (KITS Deemed University, Coimbatore) | Private | Karunya Institute of Technology and Sciences, Karunya Nagar | [www.karunya.edu](https://www.karunya.edu/mba) |
+
+### Batch 107 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **705** | Alagappa University (State Public University, Karaikudi) | Public/Government | College Road, Alagappa Puram | [www.alagappauniversity.ac.in](https://www.alagappauniversity.ac.in) |
+| **706** | Amity Global Business School (AGBS Chennai, Nungambakkam) | Private | Shafee Mohammed Rd, Thousand Lights West | [chennai.agbs.in](https://chennai.agbs.in) |
+| **707** | Alagappa University (Directorate of Collaborative Programmes & Admissions, Karaikudi) | Public/Government | Tamil Nadu, India | [www.alagappauniversity.ac.in](https://www.alagappauniversity.ac.in) |
+| **708** | Kalaignar Karunanidhi Institute of Technology (KIT Autonomous, Coimbatore) | Private | Kannampalayam (Post), | [www.kitcbe.com](https://www.kitcbe.com) |
+| **709** | PSG Institute of Management (PSG IM, Peelamedu, Coimbatore) | Private | Peelamedu, Coimbatore | [www.psgim.ac.in](https://www.psgim.ac.in) |
+| **710** | University of Madras (UNOM Chennai - Chepauk Campus) | Public/Government | Navalar Nagar, Triplicane | [www.unom.ac.in](https://www.unom.ac.in) |
+| **711** | Loyola Institute of Business Administration (LIBA Chennai, Nungambakkam) | Private | No: 1, Sterling Rd. | [liba.edu](https://liba.edu) |
+| **712** | St. Joseph's College of Engineering (OMR Semmancheri, Chennai) | Private | Semmancheri, Sholinganallur | [stjosephs.ac.in](https://stjosephs.ac.in) |
+| **713** | Bharathiar University (BU Coimbatore - State Public University) | Public/Government | Tamil Nadu, India | [b-u.ac.in](https://b-u.ac.in) |
+| **714** | IIKM Business School (Indian Institute of Knowledge Management, Chennai) | Private | Tamil Nadu, India | [www.iikm.in](https://www.iikm.in) |
 
