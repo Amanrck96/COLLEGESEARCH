@@ -1,0 +1,330 @@
+[
+  {
+    "id": 760,
+    "name": "Sharda School of Allied Health Sciences, Greater Noida",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1496464164Sharda800x414.jpg",
+    "website": "https://www.sharda.ac.in",
+    "phone": "1204570000",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/sharda-school-of-allied-health-sciences-greater-noida-52350",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 761,
+    "name": "Shri Ramswaroop Memorial University, Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.srmu.ac.in/",
+    "phone": "9838904666",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/shri-ramswaroop-memorial-university-lucknow-24759",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 762,
+    "name": "BBAU Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2022/December/1122022/Babasaheb-Bhimrao-Ambedkar-University-Lucknow-Campus-View-1.jpg",
+    "website": "https://www.google.com/search?q=BBAU%20Lucknow%20official%20website%20Uttar%20Uttar%20Pradesh",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/babasaheb-bhimrao-ambedkar-university-bbau-lucknow-26165",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 763,
+    "name": "National Institute of Pharmaceutical Education and Research, Raebareli",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/gnims_matunga.png",
+    "website": "https://www.google.com/search?q=National%20Institute%20of%20Pharmaceutical%20Education%20and%20Research%2C%20Raebareli%20official%20website%20Uttar%20Uttar%20Pradesh",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/national-institute-of-pharmaceutical-education-and-research-raebareli-lucknow-154235",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 764,
+    "name": "SHUATS",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "http://shuats.edu.in/",
+    "phone": "05322684281",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/shuats-sam-higginbottom-university-of-agriculture-technology-and-sciences-allahabad-37672",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "name": "Max Institute of Allied and Paramedical Education (MIAPE), Ghaziabad",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.google.com/search?q=Max%20Institute%20of%20Allied%20and%20Paramedical%20Education%20(MIAPE)%2C%20Ghaziabad%20official%20website%20Uttar%20Uttar%20Pradesh",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/max-institute-of-allied-and-paramedical-education-ghaziabad-203235",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 766,
+    "name": "SGPGI Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.google.com/search?q=SGPGI%20Lucknow%20official%20website%20Uttar%20Uttar%20Pradesh",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/sanjay-gandhi-postgraduate-institute-of-medical-sciences-lucknow-64281",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "name": "KGMU",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/14175121698.JPG",
+    "website": "https://www.google.com/search?q=KGMU%20official%20website%20Uttar%20Uttar%20Pradesh",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/kgmu-king-george-s-medical-university-lucknow-2102",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 768,
+    "name": "IIIT Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1707471249IIITL_building.jpg",
+    "website": "https://iiitl.ac.in",
+    "phone": "9415395066 ",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/iiit-lucknow-indian-institute-of-information-technology-53802/admission",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 769,
+    "name": "IIIT Allahabad",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1451721605gfg.png",
+    "website": "https://www.iiita.ac.in",
+    "phone": "05322922000",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/iiit-allahabad-indian-institute-of-information-technology-26486/admission",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  }
+]

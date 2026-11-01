@@ -8323,5 +8323,80 @@
         "website": "https://www.gla.ac.in"
       }
     ]
+  },
+  {
+    "batch": 112,
+    "items": [
+      {
+        "id": 760,
+        "name": "Sharda School of Allied Health Sciences (Sharda University, Greater Noida)",
+        "type": "Private",
+        "location": "Plot No. 32-34, Knowledge Park III",
+        "website": "https://www.sharda.ac.in/schools/allied-health-sciences"
+      },
+      {
+        "id": 761,
+        "name": "Shri Ramswaroop Memorial University (SRMU Lucknow-Deva Road)",
+        "type": "Private",
+        "location": "Lucknow-Deva Road, Barabanki",
+        "website": "https://www.srmu.ac.in"
+      },
+      {
+        "id": 762,
+        "name": "Babasaheb Bhimrao Ambedkar University (BBAU Central University, Lucknow)",
+        "type": "Public/Government",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.bbau.ac.in"
+      },
+      {
+        "id": 763,
+        "name": "National Institute of Pharmaceutical Education and Research (NIPER Raebareli, Lucknow Transit Campus)",
+        "type": "Public/Government",
+        "location": "Uttar Pradesh, India",
+        "website": "https://niperraebareli.edu.in"
+      },
+      {
+        "id": 764,
+        "name": "Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS Prayagraj)",
+        "type": "Private",
+        "location": "Naini,",
+        "website": "https://shuats.edu.in"
+      },
+      {
+        "id": 765,
+        "name": "Max Institute of Allied and Paramedical Education (MIAPE - Max Hospital, Vaishali, Ghaziabad)",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.maxhealthcare.in/education/allied-health-sciences"
+      },
+      {
+        "id": 766,
+        "name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS Lucknow)",
+        "type": "Public/Government",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.sgpgims.org.in"
+      },
+      {
+        "id": 767,
+        "name": "King George's Medical University (Faculty of Dental Sciences & Nursing, KGMU Lucknow)",
+        "type": "Public/Government",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.kgmu.org"
+      },
+      {
+        "id": 768,
+        "name": "Indian Institute of Information Technology, Lucknow (IIIT Lucknow)",
+        "type": "Public/Government",
+        "location": "C.G. City, Lucknow",
+        "website": "https://iiitl.ac.in"
+      },
+      {
+        "id": 769,
+        "name": "Indian Institute of Information Technology, Allahabad (IIIT Allahabad, Jhalwa Campus)",
+        "type": "Public/Government",
+        "location": "Jhalwa, Prayagraj",
+        "website": "https://www.iiita.ac.in"
+      }
+    ]
   }
 ]

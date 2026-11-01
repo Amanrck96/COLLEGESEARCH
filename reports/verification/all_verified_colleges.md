@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1110 / 12,660**  
-**Roadmap Progress**: **111.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1120 / 12,660**  
+**Roadmap Progress**: **112.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1674,4 +1674,19 @@
 | **757** | Integral University (Kursi Road, Lucknow) | Private | Bas-ha Kursi Road, | [www.iul.ac.in](https://www.iul.ac.in) |
 | **758** | IFTM University (Lodhipur Rajput, Moradabad) | Private | Lodhipur Rajput, Delhi Road NH-24 | [www.iftmuniversity.ac.in](https://www.iftmuniversity.ac.in) |
 | **759** | GLA University (NH-2, Chaumuhan, Mathura) | Private | P.O. Chaumuhan, | [www.gla.ac.in](https://www.gla.ac.in) |
+
+### Batch 112 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **760** | Sharda School of Allied Health Sciences (Sharda University, Greater Noida) | Private | Plot No. 32-34, Knowledge Park III | [www.sharda.ac.in](https://www.sharda.ac.in/schools/allied-health-sciences) |
+| **761** | Shri Ramswaroop Memorial University (SRMU Lucknow-Deva Road) | Private | Lucknow-Deva Road, Barabanki | [www.srmu.ac.in](https://www.srmu.ac.in) |
+| **762** | Babasaheb Bhimrao Ambedkar University (BBAU Central University, Lucknow) | Public/Government | Uttar Pradesh, India | [www.bbau.ac.in](https://www.bbau.ac.in) |
+| **763** | National Institute of Pharmaceutical Education and Research (NIPER Raebareli, Lucknow Transit Campus) | Public/Government | Uttar Pradesh, India | [niperraebareli.edu.in](https://niperraebareli.edu.in) |
+| **764** | Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS Prayagraj) | Private | Naini, | [shuats.edu.in](https://shuats.edu.in) |
+| **765** | Max Institute of Allied and Paramedical Education (MIAPE - Max Hospital, Vaishali, Ghaziabad) | Private | Uttar Pradesh, India | [www.maxhealthcare.in](https://www.maxhealthcare.in/education/allied-health-sciences) |
+| **766** | Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS Lucknow) | Public/Government | Uttar Pradesh, India | [www.sgpgims.org.in](https://www.sgpgims.org.in) |
+| **767** | King George's Medical University (Faculty of Dental Sciences & Nursing, KGMU Lucknow) | Public/Government | Uttar Pradesh, India | [www.kgmu.org](https://www.kgmu.org) |
+| **768** | Indian Institute of Information Technology, Lucknow (IIIT Lucknow) | Public/Government | C.G. City, Lucknow | [iiitl.ac.in](https://iiitl.ac.in) |
+| **769** | Indian Institute of Information Technology, Allahabad (IIIT Allahabad, Jhalwa Campus) | Public/Government | Jhalwa, Prayagraj | [www.iiita.ac.in](https://www.iiita.ac.in) |
 
