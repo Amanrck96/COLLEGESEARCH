@@ -5473,5 +5473,80 @@
         "website": "https://www.terisas.ac.in"
       }
     ]
+  },
+  {
+    "batch": 74,
+    "items": [
+      {
+        "id": 317,
+        "name": "University Polytechnic, Jamia Millia Islamia (New Delhi)",
+        "type": "Public/Government",
+        "location": "MMAJ MARG JAMIA NAGAR NEW DELHI",
+        "website": "https://www.jmi.ac.in/polytechnic"
+      },
+      {
+        "id": 318,
+        "name": "Vivekananda Institute of Professional Studies - Technical Campus (VIPS-TC Pitampura)",
+        "type": "Private",
+        "location": "PITAMPURA, DELHI- 110088",
+        "website": "https://vips.edu"
+      },
+      {
+        "id": 319,
+        "name": "Indraprastha Institute of Information Technology Delhi (IIIT-Delhi)",
+        "type": "Public/Government",
+        "location": "INDRAPRASTHA INSTITUTE OF INFORMATION TECHNOLOGY - DELHI (IIIT-DELHI) OKHLA INDUSTRIAL ESTATE,PHASE III (NEAR GOVIND PURI METRO STATION)",
+        "website": "https://www.iiitd.ac.in"
+      },
+      {
+        "id": 322,
+        "name": "The National Institute of Health and Family Welfare (NIHFW New Delhi)",
+        "type": "Public/Government",
+        "location": "Munirka, New Delhi 110067",
+        "website": "https://www.nihfw.org"
+      },
+      {
+        "id": 323,
+        "name": "AIMA Centre for Management Education (CME Lajpat Nagar, New Delhi)",
+        "type": "Private",
+        "location": "LAJPAT NAGAR 3, NEW DELHI-1100024",
+        "website": "https://www.aima.in"
+      },
+      {
+        "id": 324,
+        "name": "Guru Tegh Bahadur 4th Centenary Engineering College (GTB4CEC Rajouri Garden)",
+        "type": "Private",
+        "location": "RAJOURI GARDEN, NEW DELHI-110027",
+        "website": "https://www.gtbit.ac.in"
+      },
+      {
+        "id": 325,
+        "name": "Faculty of Engineering and Technology, Jamia Millia Islamia (FET JMI New Delhi)",
+        "type": "Public/Government",
+        "location": "FACULTY OF ENGINEERING & TECHONOLOGY JAMIA MILLIA ISLAMIA MAULANA MOHAMMED ALI JAUHAR MARG JAMIA NAGAR, NEW DELHI-110025",
+        "website": "https://www.jmi.ac.in/fet"
+      },
+      {
+        "id": 326,
+        "name": "Netaji Subhas University of Technology - West Campus (NSUT West Campus Jaffarpur)",
+        "type": "Public/Government",
+        "location": "BEHIND RAO TULA RAM HOSPITAL JAFFARPUR DELHI-110073",
+        "website": "https://www.nsut.ac.in"
+      },
+      {
+        "id": 329,
+        "name": "National Institute of Design (NID Ahmedabad)",
+        "type": "Public/Government",
+        "location": "Gujarat, India",
+        "website": "https://www.nid.edu"
+      },
+      {
+        "id": 330,
+        "name": "Polytechnic, The Maharaja Sayajirao University of Baroda (MSU Baroda)",
+        "type": "Public/Government",
+        "location": "NEAR SHASTRI BRDIGE FATEHGUNJ",
+        "website": "https://www.msubaroda.ac.in/Polytechnic"
+      }
+    ]
   }
 ]

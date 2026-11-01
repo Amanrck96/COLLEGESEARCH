@@ -1,0 +1,111 @@
+[
+  {
+    "id": 317,
+    "name": "UNIVERSITY POLYTECHNIC JAMIA MILLIA ISLAMIA",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+    "website": "https://www.jmi.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 318,
+    "name": "VIVEKANANDA INSTITUTE OF PROFESSIONAL STUDIES- TECHNICAL CAMPUS",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/05/vivekananda-institute-of-professional-studies-technical-campus.jpg",
+    "website": "https://www.vivekanandainst.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 319,
+    "name": "Indraprastha Institute of Information Technology Delhi (IIIT-Delhi)",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2022/October/17102022/Campus5.jpg",
+    "website": "https://www.iiitd.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 322,
+    "name": "THE NATIONAL INSTITUTE OF HEALTH AND FAMILY WELFARE",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.thenationalinst.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 323,
+    "name": "CENTRE FOR MANAGEMENT EDUCATION AIMA",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/aima1.jpg?width=1080",
+    "website": "https://www.centreformanage.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 324,
+    "name": "GURU TEGH BAHADUR 4TH CENTENARY ENGINEERING COLLEGE",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.guruteghbahadur.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 325,
+    "name": "JAMIA MILLIA ISLAMIA (A CENTRAL UNIVERSITY)",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.jmi.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 326,
+    "name": "Netaji Subhas University of Technology (NSUT, Delhi)",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/sheila_raheja_bandra.webp",
+    "website": "http://www.nsut.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 329,
+    "name": "NID Ahmedabad - National Institute of Design",
+    "state": "Gujarat",
+    "type": "Public/Government",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.nid.edu",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 330,
+    "name": "POLYTECHNIC, THE MAHARAJA SAYAJIRAO UNIVERSITY OF BARODA",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://www.polytechnicthem.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "coursesCount": 1
+  }
+]

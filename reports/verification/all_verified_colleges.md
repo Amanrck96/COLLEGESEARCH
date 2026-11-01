@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **730 / 12,660**  
-**Roadmap Progress**: **73.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **740 / 12,660**  
+**Roadmap Progress**: **74.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1104,4 +1104,19 @@
 | **310** | Delhi School of Business (DSB VIPS-TC Pitampura, New Delhi) | Private | AU BLOCK OUTER RING ROAD PITAMPURA | [dsb.edu.in](https://dsb.edu.in) |
 | **312** | Maharaja Surajmal Institute (MSI Janakpuri, New Delhi) | Private | C-4, JANAKPURI | [www.msi-ggsip.org](https://www.msi-ggsip.org) |
 | **313** | TERI School of Advanced Studies (TERI SAS New Delhi) | Deemed | Vasant Kunj, New Delhi 110070 | [www.terisas.ac.in](https://www.terisas.ac.in) |
+
+### Batch 74 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **317** | University Polytechnic, Jamia Millia Islamia (New Delhi) | Public/Government | MMAJ MARG JAMIA NAGAR NEW DELHI | [www.jmi.ac.in](https://www.jmi.ac.in/polytechnic) |
+| **318** | Vivekananda Institute of Professional Studies - Technical Campus (VIPS-TC Pitampura) | Private | PITAMPURA, DELHI- 110088 | [vips.edu](https://vips.edu) |
+| **319** | Indraprastha Institute of Information Technology Delhi (IIIT-Delhi) | Public/Government | INDRAPRASTHA INSTITUTE OF INFORMATION TECHNOLOGY - DELHI (IIIT-DELHI) OKHLA INDUSTRIAL ESTATE,PHASE III (NEAR GOVIND PURI METRO STATION) | [www.iiitd.ac.in](https://www.iiitd.ac.in) |
+| **322** | The National Institute of Health and Family Welfare (NIHFW New Delhi) | Public/Government | Munirka, New Delhi 110067 | [www.nihfw.org](https://www.nihfw.org) |
+| **323** | AIMA Centre for Management Education (CME Lajpat Nagar, New Delhi) | Private | LAJPAT NAGAR 3, NEW DELHI-1100024 | [www.aima.in](https://www.aima.in) |
+| **324** | Guru Tegh Bahadur 4th Centenary Engineering College (GTB4CEC Rajouri Garden) | Private | RAJOURI GARDEN, NEW DELHI-110027 | [www.gtbit.ac.in](https://www.gtbit.ac.in) |
+| **325** | Faculty of Engineering and Technology, Jamia Millia Islamia (FET JMI New Delhi) | Public/Government | FACULTY OF ENGINEERING & TECHONOLOGY JAMIA MILLIA ISLAMIA MAULANA MOHAMMED ALI JAUHAR MARG JAMIA NAGAR, NEW DELHI-110025 | [www.jmi.ac.in](https://www.jmi.ac.in/fet) |
+| **326** | Netaji Subhas University of Technology - West Campus (NSUT West Campus Jaffarpur) | Public/Government | BEHIND RAO TULA RAM HOSPITAL JAFFARPUR DELHI-110073 | [www.nsut.ac.in](https://www.nsut.ac.in) |
+| **329** | National Institute of Design (NID Ahmedabad) | Public/Government | Gujarat, India | [www.nid.edu](https://www.nid.edu) |
+| **330** | Polytechnic, The Maharaja Sayajirao University of Baroda (MSU Baroda) | Public/Government | NEAR SHASTRI BRDIGE FATEHGUNJ | [www.msubaroda.ac.in](https://www.msubaroda.ac.in/Polytechnic) |
 
