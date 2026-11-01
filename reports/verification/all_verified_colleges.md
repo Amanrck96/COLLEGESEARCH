@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **560 / 12,660**  
-**Roadmap Progress**: **56.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **570 / 12,660**  
+**Roadmap Progress**: **57.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -849,4 +849,19 @@
 | **126** | Krishnadevaraya College of Dental Sciences and Hospital (KCDSH Bengaluru) | Private (Dental College & Hospital / RGUHS Affiliated) | Bengaluru - 562157, Karnataka | [kcdsh.org](https://kcdsh.org) |
 | **127** | Sri Devaraj Urs Academy of Higher Education and Research (SDUAHER Kolar) | Deemed to be University (Medical Academy) | Kolar - 563103, Karnataka | [sduaher.ac.in](https://sduaher.ac.in) |
 | **128** | Adichunchanagiri Institute of Medical Sciences (AIMS Mandya) | Private (Constituent Medical College of Adichunchanagiri University) | Mandya District - 571448, Karnataka | [www.bgsaims.edu.in](https://www.bgsaims.edu.in) |
+
+### Batch 57 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **129** | A.J. Institute of Medical Sciences and Research Centre (AJIMS Mangaluru) | Private (Medical College & Research Centre / RGUHS Affiliated) | Dakshina Kannada, Karnataka | [www.ajims.edu.in](https://www.ajims.edu.in) |
+| **130** | Bharath Institute of Medical Sciences (BIMS Mysuru - Emversity) | Private (Allied Health Sciences Institute) | Mysuru - 570016, Karnataka | [www.bims-india.com](https://www.bims-india.com) |
+| **131** | HCG College of Allied Health Sciences (HCG AHS Bengaluru) | Private (Specialized Oncology & Allied Health Institute) | Bengaluru - 560027, Karnataka | [www.hcgoncology.com](https://www.hcgoncology.com) |
+| **132** | Adichunchanagiri University (ACU Mandya) | Private University (State Private University) | Mandya District - 571448, Karnataka | [acu.edu.in](https://acu.edu.in) |
+| **133** | KLE Society's College of Pharmacy, Belagavi (KLE College of Pharmacy) | Private (Constituent College of KAHER) | Belagavi - 590010, Karnataka | [www.klepharm.edu](https://www.klepharm.edu) |
+| **134** | Ramaiah Medical College, Bangalore (MSRMC Bengaluru) | Private (Autonomous Medical College / Gokula Foundation) | Bengaluru - 560054, Karnataka | [www.msrmc.ac.in](https://www.msrmc.ac.in) |
+| **135** | Srinivas University, Mangalore (SU Mangaluru) | Private University (State Private University) | Mangaluru - 574146, Karnataka | [srinivasuniversity.edu.in](https://srinivasuniversity.edu.in) |
+| **136** | Jawaharlal Nehru Medical College, Belagavi (JNMC KAHER) | Deemed to be University (Constituent Medical College of KAHER) | Belagavi - 590010, Karnataka | [www.jnmc.edu](https://www.jnmc.edu) |
+| **137** | JSS Medical College, Mysuru (JSSMC JSSAHER) | Deemed to be University (Constituent College of JSS AHER, NIRF Top 35 Medical) | Mysuru - 570015, Karnataka | [jssuni.edu.in](https://jssuni.edu.in) |
+| **138** | Kasturba Medical College, Manipal (KMC Manipal - MAHE) | Deemed to be University (Constituent of MAHE - IoE, NIRF Top 10 Medical) | Udupi District - 576104, Karnataka | [manipal.edu](https://manipal.edu/kmc-manipal.html) |
 

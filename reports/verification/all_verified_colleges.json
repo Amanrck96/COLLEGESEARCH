@@ -4198,5 +4198,80 @@
         "website": "https://www.bgsaims.edu.in"
       }
     ]
+  },
+  {
+    "batch": 57,
+    "items": [
+      {
+        "id": 129,
+        "name": "A.J. Institute of Medical Sciences and Research Centre (AJIMS Mangaluru)",
+        "type": "Private (Medical College & Research Centre / RGUHS Affiliated)",
+        "location": "Dakshina Kannada, Karnataka",
+        "website": "https://www.ajims.edu.in"
+      },
+      {
+        "id": 130,
+        "name": "Bharath Institute of Medical Sciences (BIMS Mysuru - Emversity)",
+        "type": "Private (Allied Health Sciences Institute)",
+        "location": "Mysuru - 570016, Karnataka",
+        "website": "https://www.bims-india.com"
+      },
+      {
+        "id": 131,
+        "name": "HCG College of Allied Health Sciences (HCG AHS Bengaluru)",
+        "type": "Private (Specialized Oncology & Allied Health Institute)",
+        "location": "Bengaluru - 560027, Karnataka",
+        "website": "https://www.hcgoncology.com"
+      },
+      {
+        "id": 132,
+        "name": "Adichunchanagiri University (ACU Mandya)",
+        "type": "Private University (State Private University)",
+        "location": "Mandya District - 571448, Karnataka",
+        "website": "https://acu.edu.in"
+      },
+      {
+        "id": 133,
+        "name": "KLE Society's College of Pharmacy, Belagavi (KLE College of Pharmacy)",
+        "type": "Private (Constituent College of KAHER)",
+        "location": "Belagavi - 590010, Karnataka",
+        "website": "https://www.klepharm.edu"
+      },
+      {
+        "id": 134,
+        "name": "Ramaiah Medical College, Bangalore (MSRMC Bengaluru)",
+        "type": "Private (Autonomous Medical College / Gokula Foundation)",
+        "location": "Bengaluru - 560054, Karnataka",
+        "website": "https://www.msrmc.ac.in"
+      },
+      {
+        "id": 135,
+        "name": "Srinivas University, Mangalore (SU Mangaluru)",
+        "type": "Private University (State Private University)",
+        "location": "Mangaluru - 574146, Karnataka",
+        "website": "https://srinivasuniversity.edu.in"
+      },
+      {
+        "id": 136,
+        "name": "Jawaharlal Nehru Medical College, Belagavi (JNMC KAHER)",
+        "type": "Deemed to be University (Constituent Medical College of KAHER)",
+        "location": "Belagavi - 590010, Karnataka",
+        "website": "https://www.jnmc.edu"
+      },
+      {
+        "id": 137,
+        "name": "JSS Medical College, Mysuru (JSSMC JSSAHER)",
+        "type": "Deemed to be University (Constituent College of JSS AHER, NIRF Top 35 Medical)",
+        "location": "Mysuru - 570015, Karnataka",
+        "website": "https://jssuni.edu.in"
+      },
+      {
+        "id": 138,
+        "name": "Kasturba Medical College, Manipal (KMC Manipal - MAHE)",
+        "type": "Deemed to be University (Constituent of MAHE - IoE, NIRF Top 10 Medical)",
+        "location": "Udupi District - 576104, Karnataka",
+        "website": "https://manipal.edu/kmc-manipal.html"
+      }
+    ]
   }
 ]

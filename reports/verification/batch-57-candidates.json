@@ -1,0 +1,102 @@
+[
+  {
+    "id": 129,
+    "name": "A.J. Institute of Medical Sciences and Research Centre, Mangalore",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "http://ajims.edu.in/WebPages/Default.aspx",
+    "phone": "080-26597135",
+    "email": "admissions@aiomsa.edu.in"
+  },
+  {
+    "id": 130,
+    "name": "Bharath Institute of Medical Sciences Powered by Emversity, Mysore",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/iim_bangalore.jpg",
+    "website": "https://www.bims-india.com/",
+    "phone": "7358733602",
+    "email": "info@bims-india.com"
+  },
+  {
+    "id": 131,
+    "name": "HCG College of Allied Health Sciences powered by Emversity, Bangalore",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1773218719c-6.jpg",
+    "website": "https://hcgcare.org/",
+    "phone": "7760547676",
+    "email": "admissions@hcgcare.org"
+  },
+  {
+    "id": 132,
+    "name": "Adichunchanagiri University",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://acu.edu.in",
+    "phone": "080-26597135",
+    "email": "admissions@au.edu.in"
+  },
+  {
+    "id": 133,
+    "name": "KLE Society's College of Pharmacy, Belgaum",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/iim_bangalore.jpg",
+    "website": "http://www.klepharm.edu/",
+    "phone": "080-26597135",
+    "email": "admissions@kscopb.edu.in"
+  },
+  {
+    "id": 134,
+    "name": "M S Ramaiah Medical College, Bangalore",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "http://www.msrmc.ac.in",
+    "phone": "8023605190",
+    "email": "admissions.rmc@msruas.ac.in"
+  },
+  {
+    "id": 135,
+    "name": "Srinivas University, Mangalore",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "/images/campuses/iim_bangalore.jpg",
+    "website": "https://www.google.com/search?q=Srinivas%20University%2C%20Mangalore%20official%20website%20Karnataka%20Karnataka",
+    "phone": "080-26597135",
+    "email": "admissions@sum.edu.in"
+  },
+  {
+    "id": 136,
+    "name": "Jawaharlal Nehru Medical College, KLE Academy of Higher Education and Research, Belgaum",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/iim_bangalore.jpg",
+    "website": "https://www.jnmc.edu",
+    "phone": "08312471350",
+    "email": "principal@jnmc.edu"
+  },
+  {
+    "id": 137,
+    "name": "JSS Medical College",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/iim_bangalore.jpg",
+    "website": "https://jssuni.edu.in",
+    "phone": "080-26597135",
+    "email": "admissions@jmc.edu.in"
+  },
+  {
+    "id": 138,
+    "name": "Kasturba Medical College (KMC Manipal)",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.manipal.edu/kmc-manipal.html",
+    "phone": "9243777733",
+    "email": "admissions@manipal.edu"
+  }
+]
