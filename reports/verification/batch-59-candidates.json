@@ -1,0 +1,98 @@
+[
+  {
+    "id": 149,
+    "name": "R.V. College of Engineering, Bangalore",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2022/December/27122022/RV-College-of-Engineering-RVCE-Bangalore-Campus-View-2.jpg",
+    "website": "https://www.rvce.edu.in",
+    "phone": "08068188100",
+    "email": "principal@rvce.edu.in"
+  },
+  {
+    "id": 150,
+    "name": "IIIT Bangalore ,Hosur Road",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.iiitb.ac.in",
+    "phone": "080-26597135",
+    "email": "admissions@cibr.edu.in"
+  },
+  {
+    "id": 151,
+    "name": "Ramaiah Institute of Technology, Bangalore",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/vjti_mumbai.jpg",
+    "website": "http://www.msrit.edu",
+    "phone": "8023607902",
+    "email": "admn@msrit.edu"
+  },
+  {
+    "id": 152,
+    "name": "IIIT Bangalore IIIT Bangalore",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.iiitb.ac.in",
+    "phone": "080-26597135",
+    "email": "admissions@ibibr2.edu.in"
+  },
+  {
+    "id": 153,
+    "name": "Manipal Institute of Technology, MAHE",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.manipal.edu/mit.html",
+    "phone": "080-26597135",
+    "email": "admissions@miotm.edu.in"
+  },
+  {
+    "id": 154,
+    "name": "University of Agricultural Sciences, Bangalore",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.uasbangalore.edu.in/",
+    "phone": "08023330153",
+    "email": "registrar@uasbangalore.edu.in"
+  },
+  {
+    "id": 156,
+    "name": "INSTITUTE OF INFORMATION TECHNOLOGY & MANAGEMENT",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/weschool_matunga_mumbai.jpeg",
+    "website": "https://www.instituteofinfo.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 157,
+    "name": "UNIVERSAL AI UNIVERSITY, KARJAT",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://assets.collegedunia.com/public/college_data/images/campusimage/1701753704CAMPUS.jpg",
+    "website": "https://www.universalaiuniv.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 158,
+    "name": "SYMBIOSIS INTERNATIONAL (DEEMED UNIVERSITY)",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/symbiosis-international-university-nashik-366025.webp",
+    "website": "https://www.symbiosisintern.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 159,
+    "name": "BHAGWANT INSTITUTE OF TECHNOLOGY",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/bharati_vidyapeeth_navimumbai.jpg",
+    "website": "https://www.bhagwantinstitu.edu.in",
+    "phone": "0123-456789"
+  }
+]

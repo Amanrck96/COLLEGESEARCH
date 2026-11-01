@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **580 / 12,660**  
-**Roadmap Progress**: **58.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **590 / 12,660**  
+**Roadmap Progress**: **59.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -879,4 +879,19 @@
 | **146** | PES University (PESU Bengaluru - RR Campus) | Private University (State Private University) | Bengaluru - 560085, Karnataka | [pes.edu](https://pes.edu) |
 | **147** | Nitte Meenakshi Institute of Technology (NMIT Bengaluru) | Private Autonomous (Engineering College / VTU Affiliated) | Bengaluru - 560064, Karnataka | [www.nmit.ac.in](https://www.nmit.ac.in) |
 | **148** | BMS College of Engineering (BMSCE Basavanagudi, Bengaluru) | Private / Grant-in-Aid (First Private Engineering College in India - 1946) | Bengaluru - 560019, Karnataka | [www.bmsce.ac.in](https://www.bmsce.ac.in) |
+
+### Batch 59 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **149** | R.V. College of Engineering (RVCE Bengaluru) | Private / Grant-in-Aid (Autonomous Engineering College) | Bengaluru - 560059, Karnataka | [www.rvce.edu.in](https://www.rvce.edu.in) |
+| **150** | IIIT Bangalore - Centre for Information Technology & Public Policy (CITAPP) | Deemed to be University (Specialized Research & Interdisciplinary Centre) | Bengaluru - 560100, Karnataka | [www.iiitb.ac.in](https://www.iiitb.ac.in/citapp) |
+| **151** | Ramaiah Institute of Technology (MSRIT Bengaluru) | Private Autonomous (Gokula Education Foundation, NIRF Top 70) | Bengaluru - 560054, Karnataka | [www.msrit.edu](https://www.msrit.edu) |
+| **152** | IIIT Bangalore - Innovation & Incubation Centre (IIIT-B Innovation Centre) | Deemed to be University (Innovation & Deep Tech Incubator) | Bengaluru - 560100, Karnataka | [www.iiitb.ac.in](https://www.iiitb.ac.in) |
+| **153** | Manipal Institute of Technology (MIT Manipal - MAHE) | Deemed to be University (Faculty of Technology, MAHE - IoE) | Udupi District - 576104, Karnataka | [manipal.edu](https://manipal.edu/mit.html) |
+| **154** | University of Agricultural Sciences, Bangalore (UAS GKVK) | Public/Government (State Agricultural University - 1964) | Bengaluru - 560065, Karnataka | [www.uasbangalore.edu.in](https://www.uasbangalore.edu.in) |
+| **156** | Institute of Information Technology & Management (IITM Janakpuri) | Private (Management & IT Institute / GGSIPU Affiliated) | New Delhi - 110058, Delhi NCR | [www.iitmjanakpuri.com](https://www.iitmjanakpuri.com) |
+| **157** | Universal AI University (UAIU Karjat) | Private University (India's First Artificial Intelligence University) | Raigad District - 410201, Maharashtra | [universalai.in](https://universalai.in) |
+| **158** | Symbiosis International (Deemed University) - SIU Pune | Deemed to be University (Section 3 UGC Act / NAAC A++, NIRF Top 35) | Pune - 412115, Maharashtra | [siu.edu.in](https://siu.edu.in) |
+| **159** | Bhagwant Institute of Technology (BIT Muzaffarnagar) | Private (Engineering Institute / AKTU Affiliated) | Dist. Muzaffarnagar - 251315, Uttar Pradesh | [bit.bhagwantgroup.com](https://bit.bhagwantgroup.com) |
 
