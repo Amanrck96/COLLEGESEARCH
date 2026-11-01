@@ -2591,3 +2591,17 @@
 | 1428 | Sir C R Reddy College (Autonomous) | Eluru, West Godavari | Andhra Pradesh | Private (Aided Autonomous) | [Website](https://sircrreddycollege.ac.in) |
 | 1429 | Rajiv Gandhi Degree College, Rajahmundry | Rajahmundry, East Godavari | Andhra Pradesh | Private | [Website](https://rajivgandhidegreecollege.in) |
 | 1430 | Government Polytechnic, Madakasira | Madakasira, Sri Sathya Sai | Andhra Pradesh | Public/Government | [Website](https://polytechnic.ap.gov.in) |
+
+### Batch 174 (Colleges 1,731–1,740, IDs: 1431–1440)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1431 | K.G.R.L. College (Autonomous) - PG Courses | Bhimavaram, West Godavari | Andhra Pradesh | Private (Aided Autonomous) | [Website](https://kgrlcollege.in) |
+| 1432 | Sri Venkateswara Degree College, Punganur | Punganur, Chittoor | Andhra Pradesh | Private | [Website](https://svdcpunganur.in) |
+| 1433 | Vikram Degree College, Sullurpeta | Sullurpeta, Tirupati | Andhra Pradesh | Private | [Website](https://vikramdegreecollegespt.in) |
+| 1434 | Adarsh Degree College, Visakhapatnam | Visakhapatnam | Andhra Pradesh | Private | [Website](https://adarshdc.com) |
+| 1435 | Sree Sai MBA College, Nandikotkur | Nandikotkur, Nandyal | Andhra Pradesh | Private | [Website](https://sreesaimbacollege.org) |
+| 1436 | Sri G Pulla Reddy Government Polytechnic, Kurnool | Kurnool | Andhra Pradesh | Public/Government | [Website](https://polytechnic.ap.gov.in) |
+| 1437 | Parvathaneni Brahmayya Siddhartha College of Arts & Science (PG Centre) | Vijayawada, Krishna | Andhra Pradesh | Private (Aided Autonomous) | [Website](https://pbsiddhartha.ac.in) |
+| 1438 | Dr. Lankapalli Bullayya College (Autonomous) | Visakhapatnam | Andhra Pradesh | Private (Aided Autonomous) | [Website](https://bullayyacollege.info) |
+| 1439 | Gyanodaya Institute of Professional Studies, Neemuch | Neemuch | Madhya Pradesh | Private | [Website](https://gyanodayanmh.in) |
+| 1440 | Syna International College of Management Studies, Katni | Katni | Madhya Pradesh | Private | [Website](https://synacollege.com) |
