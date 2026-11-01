@@ -7273,5 +7273,80 @@
         "website": "https://www.ifheindia.org"
       }
     ]
+  },
+  {
+    "batch": 98,
+    "items": [
+      {
+        "id": 597,
+        "name": "Government Polytechnic, Husnabad (Siddipet)",
+        "type": "Public/Government",
+        "location": "THOTAPALLI VILLEGE, HUSNABAD MANDAL",
+        "website": "http://polytechnichusnabad.ac.in"
+      },
+      {
+        "id": 598,
+        "name": "Aurora's Business School, Himayathnagar, Hyderabad",
+        "type": "Private",
+        "location": "HIMAYATH NAGAR, HYDERABAD",
+        "website": "https://www.absi.edu.in"
+      },
+      {
+        "id": 600,
+        "name": "Neil Gogte Institute of Technology (NGIT Hyderabad, Kachhavanisingaram)",
+        "type": "Private",
+        "location": "KACHVANI SINGARAM VILLAGE,UPPAL",
+        "website": "https://ngit.ac.in"
+      },
+      {
+        "id": 604,
+        "name": "Aurora's Culinary Academy, Panjagutta, Hyderabad",
+        "type": "Private",
+        "location": "BANDLAGUDA, HYDERABAD",
+        "website": "https://aurora.edu.in"
+      },
+      {
+        "id": 606,
+        "name": "C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS, UoH Campus)",
+        "type": "Public/Government",
+        "location": "STATISTICS AND COMPUTER SCIENCE (AIMSCS) UNIVERSITY OF HYDERABAD CAMPUS, PROF.CRRAO ROAD",
+        "website": "https://www.crraoaimscs.org"
+      },
+      {
+        "id": 607,
+        "name": "St. Mary's Group of Institutions, Hyderabad (Deshmukhi)",
+        "type": "Private",
+        "location": "GREATER HYDERABAD, UNDER HMDA",
+        "website": "https://stmarysgroup.com"
+      },
+      {
+        "id": 608,
+        "name": "Birla Institute of Technology and Science, Pilani - Hyderabad Campus (BITS Pilani Hyderabad)",
+        "type": "Private",
+        "location": "KAPRA MANDAL, HYDERABAD-500078",
+        "website": "https://www.bits-pilani.ac.in/hyderabad/"
+      },
+      {
+        "id": 610,
+        "name": "Sree Dattha Institute of Engineering and Science (Sheriguda, Ibrahimpatnam)",
+        "type": "Private",
+        "location": "R.R DISTRICT, ANDHRA PRADESH",
+        "website": "https://sreedattha.ac.in"
+      },
+      {
+        "id": 611,
+        "name": "Kommuri Pratap Reddy Institute of Technology (KPRIT, Ghatkesar, Hyderabad)",
+        "type": "Private",
+        "location": "EDULABAD(V), GHANPUR GRAMPANCHAYAT",
+        "website": "https://kpritech.ac.in"
+      },
+      {
+        "id": 612,
+        "name": "CMR Engineering College (CMREC, Kandlakoya, Medchal, Hyderabad)",
+        "type": "Private",
+        "location": "KANDLAKOYA (V) MEDCHAL (M)",
+        "website": "https://cmrec.ac.in"
+      }
+    ]
   }
 ]

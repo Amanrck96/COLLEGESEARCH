@@ -50654,16 +50654,16 @@
     },
     {
       "id": 597,
-      "name": "GOVERNMENT POLYTECHNIC, HUSNABAD",
+      "name": "Government Polytechnic, Husnabad (Siddipet)",
       "shortName": "Course Institute-1",
       "location": "KARIMNAGAR",
       "state": "Telangana",
       "address": "SURVEY NO-124, THOTAPALLI VILLEGE, HUSNABAD MANDAL",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "08721-255599",
+      "website": "http://polytechnichusnabad.ac.in",
+      "rating": 4.1,
       "reviews": 154,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC, HUSNABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 9,
       "facebook": "#",
@@ -50681,12 +50681,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering (EEE)",
+          "title": "Diploma in Electrical & Electronics Engineering (EEE)",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -50704,18 +50726,20 @@
       ],
       "image": "https://after10thwhat.com/wp-content/uploads/2018/06/govtpolykushalnagar01.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2C%20HUSNABAD%20KARIMNAGAR%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2C%20HUSNABAD%20KARIMNAGAR%20Telangana",
+      "city": "Siddipet",
+      "established": 2014
     },
     {
       "id": 598,
-      "name": "AURORA'S BUSINESS SCHOOL, HIMAYATH NAGAR, HYDERABAD",
+      "name": "Aurora's Business School, Himayathnagar, Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "3-6-751, HIMAYATH NAGAR, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.aurorasbusiness.edu.in",
-      "rating": 4.5,
+      "phone": "040-23228300",
+      "website": "https://www.absi.edu.in",
+      "rating": 4.2,
       "reviews": 149,
       "type": "Private",
       "about": "Welcome to AURORA'S BUSINESS SCHOOL, HIMAYATH NAGAR, HYDERABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -50735,12 +50759,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "POST GRADUATE DIPLOMA IN MANAGEMENT",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 360
+          "name": "Post Graduate Diploma in Management (PGDM - Executive)",
+          "title": "Post Graduate Diploma in Management (PGDM - Executive)",
+          "division": "Executive Postgraduate",
+          "duration": "15 Months",
+          "fees": "₹2,20,000/Year",
+          "eligibility": "Graduation + 2 yrs experience",
+          "exams": "CAT, MAT, CMAT",
+          "intake": "180"
+        },
+        {
+          "name": "PGDM in Marketing & HR",
+          "title": "PGDM in Marketing & HR",
+          "division": "Postgraduate Diploma",
+          "duration": "2 Years",
+          "fees": "₹2,40,000/Year",
+          "eligibility": "Bachelor's degree (50%+) + CAT/MAT/ATMA",
+          "exams": "CAT, MAT, XAT, CMAT",
+          "intake": "180"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -50758,7 +50794,9 @@
       ],
       "image": "https://img.studyclap.com/img/institute/college/773x343/9370/abs-hyderabad-2681bde211.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20BUSINESS%20SCHOOL%2C%20HIMAYATH%20NAGAR%2C%20HYDERABAD%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20BUSINESS%20SCHOOL%2C%20HIMAYATH%20NAGAR%2C%20HYDERABAD%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 2005
     },
     {
       "id": 599,
@@ -50817,14 +50855,14 @@
     },
     {
       "id": 600,
-      "name": "NEIL GOGTE INSTITUTE OF TECHNOLOGY",
+      "name": "Neil Gogte Institute of Technology (NGIT Hyderabad, Kachhavanisingaram)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "SURVEY NO 35,KACHVANI SINGARAM VILLAGE,UPPAL",
-      "phone": "0123-456789",
-      "website": "https://www.neilgogteinstit.edu.in",
-      "rating": 4.5,
+      "phone": "040-29705282",
+      "website": "https://ngit.ac.in",
+      "rating": 4.3,
       "reviews": 141,
       "type": "Private",
       "about": "Welcome to NEIL GOGTE INSTITUTE OF TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -50844,12 +50882,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE & ENGINEERING",
+          "name": "B.Tech in Computer Science and Engineering (CSE)",
+          "title": "B.Tech in Computer Science and Engineering (CSE)",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 300
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "300"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in CSE (Data Science)",
+          "title": "B.Tech in CSE (Data Science)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Information Technology (IT)",
+          "title": "B.Tech in Information Technology (IT)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -50868,7 +50938,9 @@
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEIL%20GOGTE%20INSTITUTE%20OF%20TECHNOLOGY%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 2017
     },
     {
       "id": 601,
@@ -51039,14 +51111,14 @@
     },
     {
       "id": 604,
-      "name": "AURORA'S CULINARY ACADEMY",
+      "name": "Aurora's Culinary Academy, Panjagutta, Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "BANDLAGUDA, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.aurorasculinary.edu.in",
-      "rating": 4.5,
+      "phone": "040-23405721",
+      "website": "https://aurora.edu.in",
+      "rating": 4.2,
       "reviews": 197,
       "type": "Private",
       "about": "Welcome to AURORA'S CULINARY ACADEMY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -51066,12 +51138,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BACHELOR IN CULINARY ARTS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "HOTEL MANAGEMENT AND CATERING",
-          "intake": 60
+          "name": "Bachelor in Culinary Arts (BCA)",
+          "title": "Bachelor in Culinary Arts (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 in any stream (45%+)",
+          "exams": "Merit, NCHMCT JEE",
+          "intake": "60"
+        },
+        {
+          "name": "B.Sc in Catering Science and Hotel Management",
+          "title": "B.Sc in Catering Science and Hotel Management",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹90,000/Year",
+          "eligibility": "10+2 in any discipline",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Craftsmanship Course in Food Production",
+          "title": "Craftsmanship Course in Food Production",
+          "division": "Diploma",
+          "duration": "1.5 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10th Standard pass",
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -51087,10 +51181,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_coep_pune.png",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20CULINARY%20ACADEMY%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Hyderabad",
+      "established": 2017
     },
     {
       "id": 605,
@@ -51149,16 +51245,16 @@
     },
     {
       "id": 606,
-      "name": "C R RAO ADVANCED INSTITUTE OF MATHEMATICS STATISTICS AND COMPUTER SCIENCE",
+      "name": "C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS, UoH Campus)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "C.R.RAO ADVANCED INSTITUTE OF MATHEMATICS, STATISTICS AND COMPUTER SCIENCE (AIMSCS) UNIVERSITY OF HYDERABAD CAMPUS, PROF.CRRAO ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.crraoadvancedin.edu.in",
-      "rating": 4.5,
+      "phone": "040-29806495",
+      "website": "https://www.crraoaimscs.org",
+      "rating": 4.7,
       "reviews": 513,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to C R RAO ADVANCED INSTITUTE OF MATHEMATICS STATISTICS AND COMPUTER SCIENCE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 63,
       "facebook": "#",
@@ -51176,12 +51272,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "INFORMATION SECURITY",
+          "name": "M.Tech in Information Security",
+          "title": "M.Tech in Information Security",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "B.Tech in CSE / IT / ECE or M.Sc Math/CS + GATE",
+          "exams": "GATE, PGEE",
+          "intake": "18"
+        },
+        {
+          "name": "Ph.D. in Computer Science & Cryptology",
+          "title": "Ph.D. in Computer Science & Cryptology",
+          "division": "Doctoral",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 18
+          "fees": "₹25,000/Year",
+          "eligibility": "Master's in CS / IT / Math with CSIR/UGC-NET JRF",
+          "exams": "UGC-NET, CSIR-NET",
+          "intake": "10"
+        },
+        {
+          "name": "Ph.D. in Applied Statistics & Machine Learning",
+          "title": "Ph.D. in Applied Statistics & Machine Learning",
+          "division": "Doctoral",
+          "duration": "4 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "Master's in Statistics / Math with NET JRF",
+          "exams": "CSIR-NET",
+          "intake": "10"
+        },
+        {
+          "name": "Advanced PG Diploma in Big Data Analytics & Cyber Security",
+          "title": "Advanced PG Diploma in Big Data Analytics & Cyber Security",
+          "division": "Postgraduate Diploma",
+          "duration": "1 Year",
+          "fees": "₹80,000/Year",
+          "eligibility": "B.Tech / M.Sc / MCA",
+          "exams": "Entrance & Interview",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -51199,18 +51327,20 @@
       ],
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%20R%20RAO%20ADVANCED%20INSTITUTE%20OF%20MATHEMATICS%20STATISTICS%20AND%20COMPUTER%20SCIENCE%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%20R%20RAO%20ADVANCED%20INSTITUTE%20OF%20MATHEMATICS%20STATISTICS%20AND%20COMPUTER%20SCIENCE%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 2007
     },
     {
       "id": 607,
-      "name": "ST. MARY'S GROUP OF INSTITUTIONS HYDERABAD",
+      "name": "St. Mary's Group of Institutions, Hyderabad (Deshmukhi)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "NEAR RAMOJI FILM CITY, BEHIND MOUNT OPERA, DESHMUKHI (V), POCHAMPALLY (M), NALGONDA (DT) & BATASINGARAM (V), HAYATHNAGAR (M), RANGA REDDY DISTRICT, GREATER HYDERABAD, UNDER HMDA",
-      "phone": "0123-456789",
-      "website": "https://www.stmarysgroupofi.edu.in",
-      "rating": 4.5,
+      "phone": "08685-201255",
+      "website": "https://stmarysgroup.com",
+      "rating": 4.1,
       "reviews": 147,
       "type": "Private",
       "about": "Welcome to ST. MARY'S GROUP OF INSTITUTIONS HYDERABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -51230,12 +51360,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "Computer science and Engineering",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 240
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "240"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence and Data Science)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Data Science)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Mechanical Engineering",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation with Math + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -51251,20 +51423,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20MARY'S%20GROUP%20OF%20INSTITUTIONS%20HYDERABAD%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20MARY'S%20GROUP%20OF%20INSTITUTIONS%20HYDERABAD%20RANGAREDDI%20Telangana",
+      "city": "Hyderabad",
+      "established": 2007
     },
     {
       "id": 608,
-      "name": "BIRLA INSTIUTTE OF TECHNOLOGY AND SCIENCE PILANI HYDERABAD CAMPUS",
+      "name": "Birla Institute of Technology and Science, Pilani - Hyderabad Campus (BITS Pilani Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "BITS PILANI HYDERABAD CAMPUS, JAWAHARNAGAR, KAPRA MANDAL, HYDERABAD-500078",
-      "phone": "0123-456789",
-      "website": "https://www.birlainstiutteo.edu.in",
-      "rating": 4.5,
+      "phone": "040-66303999",
+      "website": "https://www.bits-pilani.ac.in/hyderabad/",
+      "rating": 4.8,
       "reviews": 165,
       "type": "Private",
       "about": "Welcome to BIRLA INSTIUTTE OF TECHNOLOGY AND SCIENCE PILANI HYDERABAD CAMPUS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -51284,12 +51458,64 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CHEMICAL ENGINEERING",
+          "name": "B.E. (Hons) in Computer Science",
+          "title": "B.E. (Hons) in Computer Science",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹5,41,000/Year",
+          "eligibility": "10+2 with 75% aggregate in PCM + BITSAT",
+          "exams": "BITSAT",
+          "intake": "180"
+        },
+        {
+          "name": "B.E. (Hons) in Chemical Engineering",
+          "title": "B.E. (Hons) in Chemical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹5,41,000/Year",
+          "eligibility": "10+2 with 75% aggregate in PCM + BITSAT",
+          "exams": "BITSAT",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. (Hons) in Electronics & Communication Engineering",
+          "title": "B.E. (Hons) in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹5,41,000/Year",
+          "eligibility": "10+2 with 75% in PCM + BITSAT",
+          "exams": "BITSAT",
+          "intake": "120"
+        },
+        {
+          "name": "B.E. (Hons) in Mechanical Engineering",
+          "title": "B.E. (Hons) in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹5,41,000/Year",
+          "eligibility": "10+2 with 75% in PCM + BITSAT",
+          "exams": "BITSAT",
+          "intake": "90"
+        },
+        {
+          "name": "B.Pharm (Hons)",
+          "title": "B.Pharm (Hons)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹5,41,000/Year",
+          "eligibility": "10+2 with 75% in PCB/PCM + BITSAT",
+          "exams": "BITSAT",
+          "intake": "60"
+        },
+        {
+          "name": "M.E. in Computer Science",
+          "title": "M.E. in Computer Science",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹5,41,000/Year",
+          "eligibility": "B.E./B.Tech with 60%+ + BITS HD / GATE",
+          "exams": "BITS HD, GATE",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -51307,7 +51533,9 @@
       ],
       "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-21-8-12-08-53_brila.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BIRLA%20INSTIUTTE%20OF%20TECHNOLOGY%20AND%20SCIENCE%20PILANI%20HYDERABAD%20CAMPUS%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BIRLA%20INSTIUTTE%20OF%20TECHNOLOGY%20AND%20SCIENCE%20PILANI%20HYDERABAD%20CAMPUS%20RANGAREDDI%20Telangana",
+      "city": "Hyderabad",
+      "established": 2008
     },
     {
       "id": 609,
@@ -51367,14 +51595,14 @@
     },
     {
       "id": 610,
-      "name": "SREE DATTHA GROUP OF INSTITUTIONS",
+      "name": "Sree Dattha Institute of Engineering and Science (Sheriguda, Ibrahimpatnam)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "SHERIGUDA (VILLAGE), IBRAHIMPATNAM(MANDAL), R.R DISTRICT, ANDHRA PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.sreedatthagroup.edu.in",
-      "rating": 4.5,
+      "phone": "08414-202206",
+      "website": "https://sreedattha.ac.in",
+      "rating": 4.2,
       "reviews": 88,
       "type": "Private",
       "about": "Welcome to SREE DATTHA GROUP OF INSTITUTIONS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -51394,12 +51622,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹78,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹78,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Electrical & Electronics Engineering",
+          "title": "B.Tech in Electrical & Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹68,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "30"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation with Maths + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -51415,21 +51685,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SREE%20DATTHA%20GROUP%20OF%20INSTITUTIONS%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Ranga Reddy",
+      "established": 2001
     },
     {
       "id": 611,
-      "name": "KPRIT COLLEGE OF ENGINEERING",
+      "name": "Kommuri Pratap Reddy Institute of Technology (KPRIT, Ghatkesar, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "EDULABAD(V), GHANPUR GRAMPANCHAYAT",
-      "phone": "0123-456789",
-      "website": "https://www.kpritcollegeofe.edu.in",
-      "rating": 4.5,
+      "phone": "08415-200305",
+      "website": "https://kpritech.ac.in",
+      "rating": 4.2,
       "reviews": 102,
       "type": "Private",
       "about": "Welcome to KPRIT COLLEGE OF ENGINEERING, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -51449,12 +51721,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 240
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "240"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in CSE (Data Science)",
+          "title": "B.Tech in CSE (Data Science)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Civil Engineering",
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -51472,18 +51786,20 @@
       ],
       "image": "https://media.getmyuni.com/azure/college-image/big/kommuri-pratap-reddy-institute-of-technology-kprit-rangareddi.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KPRIT%20COLLEGE%20OF%20ENGINEERING%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KPRIT%20COLLEGE%20OF%20ENGINEERING%20RANGAREDDI%20Telangana",
+      "city": "Medchal-Malkajgiri",
+      "established": 2008
     },
     {
       "id": 612,
-      "name": "CMR ENGINEERING COLLEGE",
+      "name": "CMR Engineering College (CMREC, Kandlakoya, Medchal, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "KANDLAKOYA (V) MEDCHAL (M)",
-      "phone": "0123-456789",
-      "website": "https://www.cmrengineeringc.edu.in",
-      "rating": 4.5,
+      "phone": "08418-200037",
+      "website": "https://cmrec.ac.in",
+      "rating": 4.3,
       "reviews": 274,
       "type": "Private",
       "about": "Welcome to CMR ENGINEERING COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -51503,12 +51819,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "VLSI SYSTEM DESIGN",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 12
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "240"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in CSE (Data Science)",
+          "title": "B.Tech in CSE (Data Science)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Electronics & Communication Engineering",
+          "title": "B.Tech in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "M.Tech in VLSI System Design",
+          "title": "M.Tech in VLSI System Design",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹57,000/Year",
+          "eligibility": "B.Tech in ECE + GATE / TS PGECET",
+          "exams": "GATE, TS PGECET",
+          "intake": "18"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -51526,7 +51884,9 @@
       ],
       "image": "https://media.getmyuni.com/azure/college-images-test/cmr-college-of-engineering-technology-cmrcet-rangareddi/08f8f4646aa2486fbf499ddb2381dba7.jpeg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CMR%20ENGINEERING%20COLLEGE%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CMR%20ENGINEERING%20COLLEGE%20RANGAREDDI%20Telangana",
+      "city": "Medchal-Malkajgiri",
+      "established": 2010
     },
     {
       "id": 613,

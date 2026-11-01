@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **970 / 12,660**  
-**Roadmap Progress**: **97.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **980 / 12,660**  
+**Roadmap Progress**: **98.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1464,4 +1464,19 @@
 | **593** | Government Polytechnic for Women, Secunderabad | Public/Government | EAST MARREDPALLY, SECUNDERABAD | [gpwsecunderabad.ac.in](http://gpwsecunderabad.ac.in) |
 | **594** | KL University Hyderabad (Koneru Lakshmaiah Education Foundation, Aziznagar Campus) | Private | AZIZNAGAR, HYDERABAD | [www.kluniversity.in](https://www.kluniversity.in) |
 | **596** | The ICFAI Foundation for Higher Education (IFHE Deemed to be University, Shankarpally, Hyderabad) | Private | TELANGANA, PIN 501 203 | [www.ifheindia.org](https://www.ifheindia.org) |
+
+### Batch 98 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **597** | Government Polytechnic, Husnabad (Siddipet) | Public/Government | THOTAPALLI VILLEGE, HUSNABAD MANDAL | [polytechnichusnabad.ac.in](http://polytechnichusnabad.ac.in) |
+| **598** | Aurora's Business School, Himayathnagar, Hyderabad | Private | HIMAYATH NAGAR, HYDERABAD | [www.absi.edu.in](https://www.absi.edu.in) |
+| **600** | Neil Gogte Institute of Technology (NGIT Hyderabad, Kachhavanisingaram) | Private | KACHVANI SINGARAM VILLAGE,UPPAL | [ngit.ac.in](https://ngit.ac.in) |
+| **604** | Aurora's Culinary Academy, Panjagutta, Hyderabad | Private | BANDLAGUDA, HYDERABAD | [aurora.edu.in](https://aurora.edu.in) |
+| **606** | C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS, UoH Campus) | Public/Government | STATISTICS AND COMPUTER SCIENCE (AIMSCS) UNIVERSITY OF HYDERABAD CAMPUS, PROF.CRRAO ROAD | [www.crraoaimscs.org](https://www.crraoaimscs.org) |
+| **607** | St. Mary's Group of Institutions, Hyderabad (Deshmukhi) | Private | GREATER HYDERABAD, UNDER HMDA | [stmarysgroup.com](https://stmarysgroup.com) |
+| **608** | Birla Institute of Technology and Science, Pilani - Hyderabad Campus (BITS Pilani Hyderabad) | Private | KAPRA MANDAL, HYDERABAD-500078 | [www.bits-pilani.ac.in](https://www.bits-pilani.ac.in/hyderabad/) |
+| **610** | Sree Dattha Institute of Engineering and Science (Sheriguda, Ibrahimpatnam) | Private | R.R DISTRICT, ANDHRA PRADESH | [sreedattha.ac.in](https://sreedattha.ac.in) |
+| **611** | Kommuri Pratap Reddy Institute of Technology (KPRIT, Ghatkesar, Hyderabad) | Private | EDULABAD(V), GHANPUR GRAMPANCHAYAT | [kpritech.ac.in](https://kpritech.ac.in) |
+| **612** | CMR Engineering College (CMREC, Kandlakoya, Medchal, Hyderabad) | Private | KANDLAKOYA (V) MEDCHAL (M) | [cmrec.ac.in](https://cmrec.ac.in) |
 

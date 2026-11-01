@@ -1,0 +1,202 @@
+[
+  {
+    "id": 597,
+    "name": "GOVERNMENT POLYTECHNIC, HUSNABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://after10thwhat.com/wp-content/uploads/2018/06/govtpolykushalnagar01.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "name": "AURORA'S BUSINESS SCHOOL, HIMAYATH NAGAR, HYDERABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://img.studyclap.com/img/institute/college/773x343/9370/abs-hyderabad-2681bde211.jpg",
+    "website": "https://www.aurorasbusiness.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "POST GRADUATE DIPLOMA IN MANAGEMENT",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "MANAGEMENT",
+        "intake": 360
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "name": "NEIL GOGTE INSTITUTE OF TECHNOLOGY",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.neilgogteinstit.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE & ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 300
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "name": "AURORA'S CULINARY ACADEMY",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.aurorasculinary.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "BACHELOR IN CULINARY ARTS",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "HOTEL MANAGEMENT AND CATERING",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 606,
+    "name": "C R RAO ADVANCED INSTITUTE OF MATHEMATICS STATISTICS AND COMPUTER SCIENCE",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.crraoadvancedin.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "INFORMATION SECURITY",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 18
+      }
+    ]
+  },
+  {
+    "id": 607,
+    "name": "ST. MARY'S GROUP OF INSTITUTIONS HYDERABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.stmarysgroupofi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "Computer science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 240
+      }
+    ]
+  },
+  {
+    "id": 608,
+    "name": "BIRLA INSTIUTTE OF TECHNOLOGY AND SCIENCE PILANI HYDERABAD CAMPUS",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-21-8-12-08-53_brila.jpg",
+    "website": "https://www.birlainstiutteo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CHEMICAL ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "name": "SREE DATTHA GROUP OF INSTITUTIONS",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.sreedatthagroup.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "name": "KPRIT COLLEGE OF ENGINEERING",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://media.getmyuni.com/azure/college-image/big/kommuri-pratap-reddy-institute-of-technology-kprit-rangareddi.jpg",
+    "website": "https://www.kpritcollegeofe.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 240
+      }
+    ]
+  },
+  {
+    "id": 612,
+    "name": "CMR ENGINEERING COLLEGE",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://media.getmyuni.com/azure/college-images-test/cmr-college-of-engineering-technology-cmrcet-rangareddi/08f8f4646aa2486fbf499ddb2381dba7.jpeg",
+    "website": "https://www.cmrengineeringc.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "VLSI SYSTEM DESIGN",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 12
+      }
+    ]
+  }
+]
