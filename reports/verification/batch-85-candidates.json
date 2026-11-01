@@ -1,0 +1,122 @@
+[
+  {
+    "id": 448,
+    "name": "Amity University, Kolkata",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.amity.edu",
+    "phone": "3371020304",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 449,
+    "name": "IIEST Shibpur",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.iiests.ac.in",
+    "phone": "03326684561",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 450,
+    "name": "Jadavpur University, Kolkata",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://jadavpuruniversity.in/",
+    "phone": "03324146666",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 451,
+    "name": "Kalyani University",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.google.com/search?q=Kalyani%20University%20official%20website%20West%20West%20Bengal",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 452,
+    "name": "Heritage Business School, Kolkata",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://hbs.edu.in/#",
+    "phone": "3366270630",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 453,
+    "name": "Praxis Business School, Kolkata",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/praxis-business-school-kolkata-301595.webp",
+    "website": "https://praxis.ac.in/",
+    "phone": "9230459052",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 454,
+    "name": "BIRLA INSTITUTE OF TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.birlainstituteo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 455,
+    "name": "GLOBAL INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.yuvamind.com/colleges/images/college/global-institute-of-management-and-technology-nadia-campus.png",
+    "website": "https://www.globalinstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 456,
+    "name": "SALBANI INSTITUTE OF TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://salbaniinstitute.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 459,
+    "name": "CANNING GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/canning-government-polytechnic-south-24-parganas-311801.webp",
+    "website": "https://www.canninggovernme.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

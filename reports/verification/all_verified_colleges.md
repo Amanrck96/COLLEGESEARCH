@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **840 / 12,660**  
-**Roadmap Progress**: **84.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **850 / 12,660**  
+**Roadmap Progress**: **85.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1269,4 +1269,19 @@
 | **445** | Narula Institute of Technology (NiT Agarpara, Kolkata) | Private | West Bengal, India | [www.nit.ac.in](https://www.nit.ac.in) |
 | **446** | JIS College of Engineering (JISCE Kalyani, Nadia) | Private | Block A5, Block A | [www.jiscollege.ac.in](https://www.jiscollege.ac.in) |
 | **447** | Haldia Institute of Technology (HIT Haldia, Purba Medinipur) | Private | West Bengal, India | [hithaldia.ac.in](https://hithaldia.ac.in) |
+
+### Batch 85 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **448** | Amity University Kolkata (Rajarhat, New Town) | Private | Rajarhat, New Town | [www.amity.edu](https://www.amity.edu/kolkata) |
+| **449** | Indian Institute of Engineering Science and Technology, Shibpur (IIEST Shibpur) | Public/Government | IIEST Shibpur, Botanic Garden | [www.iiests.ac.in](https://www.iiests.ac.in) |
+| **450** | Jadavpur University, Kolkata (JU Kolkata) | Public/Government | 188, Raja S.C. Mallick Road | [jadavpuruniversity.in](https://jadavpuruniversity.in) |
+| **451** | University of Kalyani (Kalyani, Nadia) | Public/Government | West Bengal, India | [klyuniv.ac.in](https://klyuniv.ac.in) |
+| **452** | Heritage Business School (HBS Kolkata, Anandapur) | Private | Chowbaga Road, Anandapur | [hbs.edu.in](https://hbs.edu.in) |
+| **453** | Praxis Business School (Praxis Kolkata) | Private | Rasapunja, 24 Parganas South | [praxis.ac.in](https://praxis.ac.in) |
+| **454** | Birla Institute of Technology Extension Centre Kolkata (BIT Mesra Kolkata) | Private | 56 B.T. ROAD | [www.bitmesra.ac.in](https://www.bitmesra.ac.in) |
+| **455** | Global Institute of Management and Technology (GIMT Krishnanagar, Nadia) | Private | KRISHNAGAR,NADIA | [www.gimt-india.com](https://www.gimt-india.com) |
+| **456** | Salbani Institute of Technology (SIT Salbani, Paschim Medinipur) | Private | PIN-721147, WEST BENGAL | [salbaniinstitute.in](https://salbaniinstitute.in) |
+| **459** | Canning Government Polytechnic (CGP Canning, South 24 Parganas) | Public/Government | PS:- JIBANTALA, PIN:-743363 | [canningpolytechnic.in](https://canningpolytechnic.in) |
 

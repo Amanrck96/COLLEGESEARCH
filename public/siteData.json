@@ -38111,18 +38111,18 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/amity-university-kolkata-46908/admission",
-      "name": "Amity University, Kolkata",
+      "name": "Amity University Kolkata (Rajarhat, New Town)",
       "shortName": "AUK",
       "location": "West",
       "state": "West Bengal",
       "country": "India",
       "address": "Major Arterial Road, Action Area II, Rajarhat, New Town",
-      "phone": "3371020304",
+      "phone": "033-71020304",
       "email": "admissions@kol.amity.edu",
-      "website": "https://www.amity.edu",
-      "rating": 4.5,
+      "website": "https://www.amity.edu/kolkata",
+      "rating": 4.4,
       "reviews": 470,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -38142,31 +38142,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹2,10,000/Year",
+          "eligibility": "10+2 with PCM (60%+) + Amity JEE / Merit",
+          "exams": "Amity JEE, Merit",
+          "intake": "180"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,15,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / XAT / Amity Test",
+          "exams": "CAT, MAT, XAT",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "Bachelor of Business Administration (BBA)",
           "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "duration": "3 Years",
+          "fees": "₹1,40,000/Year",
+          "eligibility": "10+2 in any stream (55%+)",
+          "exams": "Merit",
+          "intake": "120"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "title": "B.A. LL.B. (Hons.)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹1,85,000/Year",
+          "eligibility": "10+2 in any stream (50%+) + CLAT / Amity Test",
+          "exams": "CLAT, Merit",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹32 LPA",
@@ -38198,24 +38207,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 448,
       "reviewsCount": 470,
-      "image": "/images/campuses/bangalore_university.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Amity%20University%2C%20Kolkata%20West%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Kolkata",
+      "established": 2015
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/iiest-shibpur-indian-institute-of-engineering-science-and-technology-howrah-24176/compare",
-      "name": "IIEST Shibpur",
+      "name": "Indian Institute of Engineering Science and Technology, Shibpur (IIEST Shibpur)",
       "shortName": "IS",
       "location": "West",
       "state": "West Bengal",
       "country": "India",
       "address": "IIEST Shibpur, Botanic Garden",
-      "phone": "03326684561",
+      "phone": "033-26684561",
       "email": "pro@iiests.ac.in",
       "website": "https://www.iiests.ac.in",
-      "rating": 4.5,
+      "rating": 4.6,
       "reviews": 97,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -38235,30 +38246,39 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Technology",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹1,40,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main + JoSAA / CSAB",
+          "exams": "JEE Main, JoSAA",
+          "intake": "90"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Mechanical Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹1,40,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main + JoSAA",
+          "exams": "JEE Main, JoSAA",
+          "intake": "90"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "B.Tech in Aerospace Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,40,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main + JoSAA",
+          "exams": "JEE Main, JoSAA",
+          "intake": "40"
+        },
+        {
+          "title": "M.Tech in Computer Science & Engineering",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
+          "fees": "₹85,000/Year",
+          "eligibility": "B.Tech in CSE/IT + GATE / CCMT",
+          "exams": "GATE, CCMT",
           "intake": "30"
         }
       ],
@@ -38283,22 +38303,24 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 449,
       "reviewsCount": 97,
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIEST%20Shibpur%20West%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Howrah",
+      "established": 1856
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/jadavpur-university-kolkata-19992/admission",
-      "name": "Jadavpur University, Kolkata",
+      "name": "Jadavpur University, Kolkata (JU Kolkata)",
       "shortName": "JUK",
       "location": "West",
       "state": "West Bengal",
       "country": "India",
       "address": "188, Raja S.C. Mallick Road",
-      "phone": "03324146666",
+      "phone": "033-24146666",
       "email": "registrar@jadavpuruniversity.in",
-      "website": "https://jadavpuruniversity.in/",
-      "rating": 4.5,
+      "website": "https://jadavpuruniversity.in",
+      "rating": 4.8,
       "reviews": 396,
       "type": "Public/Government",
       "ownership": "Private",
@@ -38320,31 +38342,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹2,400/Year",
+          "eligibility": "10+2 with PCM + WBJEE Rank Top 100",
+          "exams": "WBJEE",
+          "intake": "65"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Mechanical Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹2,400/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "110"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "Master of Computer Applications (MCA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹5,000/Year",
+          "eligibility": "BCA / B.Sc with Math + WB JECA",
+          "exams": "JECA",
+          "intake": "50"
+        },
+        {
+          "title": "B.A. (Hons.) in English",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10+2 with English + JU Admission Test",
+          "exams": "JU Test",
+          "intake": "50"
         }
       ],
       "highestPackage": "₹1.8 cr",
@@ -38376,20 +38407,22 @@
       "reviewsCount": 396,
       "image": "/images/campuses/campus_architecture_1.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jadavpur%20University%2C%20Kolkata%20West%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Kolkata",
+      "established": 1955
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/university-of-kalyani-kolkata-21452/admission",
-      "name": "Kalyani University",
+      "name": "University of Kalyani (Kalyani, Nadia)",
       "shortName": "KUCA2",
       "location": "West",
       "state": "West Bengal",
       "country": "India",
       "address": "West, West Bengal, India",
-      "phone": "080-26597135",
+      "phone": "033-25828750",
       "email": "admissions@kuca2.edu.in",
-      "website": "https://www.google.com/search?q=Kalyani%20University%20official%20website%20West%20West%20Bengal",
-      "rating": 4.5,
+      "website": "https://klyuniv.ac.in",
+      "rating": 4.4,
       "reviews": 125,
       "type": "Public/Government",
       "ownership": "Private",
@@ -38411,21 +38444,39 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
         },
         {
-          "title": "Executive MBA",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "2 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "BCA / B.Sc with Math + WB JECA",
+          "exams": "JECA",
+          "intake": "40"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation (50%+) + MAT / CAT / CMAT",
+          "exams": "MAT, CAT, CMAT",
           "intake": "60"
         }
       ],
@@ -38455,20 +38506,22 @@
       "reviewsCount": 125,
       "image": "/images/campuses/campus_architecture_2.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kalyani%20University%20West%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Nadia",
+      "established": 1960
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/heritage-business-school-east-calcutta-township-kolkata-28781/admission",
-      "name": "Heritage Business School, Kolkata",
+      "name": "Heritage Business School (HBS Kolkata, Anandapur)",
       "shortName": "HBSK",
       "location": "West",
       "state": "West Bengal",
       "country": "India",
       "address": "994 Madurdaha, Chowbaga Road, Anandapur",
-      "phone": "3366270630",
+      "phone": "033-66270630",
       "email": "admissions@hbs.edu.in",
-      "website": "https://hbs.edu.in/#",
-      "rating": 4.5,
+      "website": "https://hbs.edu.in",
+      "rating": 4.3,
       "reviews": 145,
       "type": "Private",
       "ownership": "Private",
@@ -38490,21 +38543,21 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
+          "fees": "₹3,25,000/Year",
+          "eligibility": "Graduation (50%+) + MAT / JEMAT / CAT / CMAT",
+          "exams": "MAT, JEMAT, CAT, CMAT",
           "intake": "180"
         },
         {
-          "title": "Executive MBA",
+          "title": "MBA in Business Analytics",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "2 Years",
+          "fees": "₹3,50,000/Year",
+          "eligibility": "Graduation with Math/Stats + JEMAT / MAT",
+          "exams": "JEMAT, MAT",
           "intake": "60"
         }
       ],
@@ -38534,20 +38587,22 @@
       "reviewsCount": 145,
       "image": "/images/campuses/campus_architecture_3.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Heritage%20Business%20School%2C%20Kolkata%20West%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Kolkata",
+      "established": 2003
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/praxis-business-school-joka-kolkata-28686/admission",
-      "name": "Praxis Business School, Kolkata",
+      "name": "Praxis Business School (Praxis Kolkata)",
       "shortName": "PBSK",
       "location": "West",
       "state": "West Bengal",
       "country": "India",
       "address": "Bakrahat Road, Rasapunja, 24 Parganas South",
-      "phone": "9230459052",
+      "phone": "033-24980553",
       "email": "pgdm.admissions@praxis.ac.in",
-      "website": "https://praxis.ac.in/",
-      "rating": 4.5,
+      "website": "https://praxis.ac.in",
+      "rating": 4.4,
       "reviews": 287,
       "type": "Private",
       "ownership": "Private",
@@ -38569,22 +38624,22 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "title": "Post Graduate Diploma in Management (PGDM)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹4,75,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / XAT / CMAT / GMAT",
+          "exams": "CAT, XAT, CMAT, GMAT",
+          "intake": "120"
         },
         {
-          "title": "Executive MBA",
-          "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "title": "Post Graduate Program in Data Science (PGPDS)",
+          "division": "Diploma",
+          "duration": "9 Months",
+          "fees": "₹6,05,000 Total",
+          "eligibility": "Graduation with Math/Stats (60%+) + Praxis Test",
+          "exams": "Praxis Test",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹20 LPA",
@@ -38612,18 +38667,20 @@
       "id": 453,
       "reviewsCount": 287,
       "image": "https://www.collegebatch.com/static/clg-gallery/praxis-business-school-kolkata-301595.webp",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Praxis%20Business%20School%2C%20Kolkata%20West%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Praxis%20Business%20School%2C%20Kolkata%20West%20West%20Bengal",
+      "city": "South 24 Parganas",
+      "established": 2007
     },
     {
       "id": 454,
-      "name": "BIRLA INSTITUTE OF TECHNOLOGY",
+      "name": "Birla Institute of Technology Extension Centre Kolkata (BIT Mesra Kolkata)",
       "shortName": "Course Institute-1",
       "location": "KOLKATA",
       "state": "West Bengal",
       "address": "56 B.T. ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.birlainstituteo.edu.in",
-      "rating": 4.5,
+      "phone": "033-24414542",
+      "website": "https://www.bitmesra.ac.in",
+      "rating": 4.3,
       "reviews": 936,
       "type": "Private",
       "about": "Welcome to BIRLA INSTITUTE OF TECHNOLOGY, a premier institute located in KOLKATA. We offer world-class education and facilities for our students.",
@@ -38642,13 +38699,31 @@
       ],
       "courses": [
         {
-          "title": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹78,000/Year",
+          "eligibility": "10+2 with Math/CS (50%+) + Merit",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹78,000/Year",
+          "eligibility": "10+2 in any stream (50%+) + Merit",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "BCA / B.Sc with Math + BIT MCA Test",
+          "exams": "BIT MCA Test",
+          "intake": "45"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -38671,18 +38746,20 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BIRLA%20INSTITUTE%20OF%20TECHNOLOGY%20KOLKATA%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Kolkata",
+      "established": 1995
     },
     {
       "id": 455,
-      "name": "GLOBAL INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+      "name": "Global Institute of Management and Technology (GIMT Krishnanagar, Nadia)",
       "shortName": "Course Institute-1",
       "location": "NADIA",
       "state": "West Bengal",
       "address": "PALPARA MORE,NH-34,BHATJANGLA,KRISHNAGAR,NADIA",
-      "phone": "0123-456789",
-      "website": "https://www.globalinstitute.edu.in",
-      "rating": 4.5,
+      "phone": "03472-271211",
+      "website": "https://www.gimt-india.com",
+      "rating": 4,
       "reviews": 1107,
       "type": "Private",
       "about": "Welcome to GLOBAL INSTITUTE OF MANAGEMENT AND TECHNOLOGY, a premier institute located in NADIA. We offer world-class education and facilities for our students.",
@@ -38701,13 +38778,40 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "fees": "₹78,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE / JEE Main",
+          "exams": "WBJEE, JEE Main",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil / Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -38729,18 +38833,20 @@
       "reviewsCount": 1107,
       "image": "https://www.yuvamind.com/colleges/images/college/global-institute-of-management-and-technology-nadia-campus.png",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GLOBAL%20INSTITUTE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20NADIA%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GLOBAL%20INSTITUTE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20NADIA%20West%20Bengal",
+      "city": "Nadia",
+      "established": 2009
     },
     {
       "id": 456,
-      "name": "SALBANI INSTITUTE OF TECHNOLOGY",
+      "name": "Salbani Institute of Technology (SIT Salbani, Paschim Medinipur)",
       "shortName": "Course Institute-1",
       "location": "PASCHIM MEDINIPUR",
       "state": "West Bengal",
       "address": "VILL-BANKIBANDH, P.O-SAIYEDPUR, P.S-SALBONI, DIST-PASCHIM MEDINIPUR, PIN-721147, WEST BENGAL",
-      "phone": "0123-456789",
+      "phone": "03227-284300",
       "website": "https://salbaniinstitute.in",
-      "rating": 4.5,
+      "rating": 3.9,
       "reviews": 417,
       "type": "Private",
       "about": "Welcome to SALBANI INSTITUTE OF TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -38760,12 +38866,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -38784,7 +38909,9 @@
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SALBANI%20INSTITUTE%20OF%20TECHNOLOGY%20PASCHIM%20MEDINIPUR%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Paschim Medinipur",
+      "established": 2012
     },
     {
       "id": 457,
@@ -38900,16 +39027,16 @@
     },
     {
       "id": 459,
-      "name": "CANNING GOVERNMENT POLYTECHNIC",
+      "name": "Canning Government Polytechnic (CGP Canning, South 24 Parganas)",
       "shortName": "Course Institute-1",
       "location": "SOUTH 24 PARGANAS",
       "state": "West Bengal",
       "address": "VILLAGE:- NARAYANPUR, P.O:- NARAYANPUR, PS:- JIBANTALA, PIN:-743363",
-      "phone": "0123-456789",
-      "website": "https://www.canninggovernme.edu.in",
-      "rating": 4.5,
+      "phone": "03218-255100",
+      "website": "https://canningpolytechnic.in",
+      "rating": 4.2,
       "reviews": 84,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to CANNING GOVERNMENT POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 87,
       "facebook": "#",
@@ -38927,12 +39054,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND TECHNOLOGY",
+          "title": "Diploma in Computer Science and Technology",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -38950,7 +39096,9 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/canning-government-polytechnic-south-24-parganas-311801.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CANNING%20GOVERNMENT%20POLYTECHNIC%20SOUTH%2024%20PARGANAS%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CANNING%20GOVERNMENT%20POLYTECHNIC%20SOUTH%2024%20PARGANAS%20West%20Bengal",
+      "city": "South 24 Parganas",
+      "established": 2017
     },
     {
       "id": 460,

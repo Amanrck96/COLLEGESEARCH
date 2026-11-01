@@ -6298,5 +6298,80 @@
         "website": "https://hithaldia.ac.in"
       }
     ]
+  },
+  {
+    "batch": 85,
+    "items": [
+      {
+        "id": 448,
+        "name": "Amity University Kolkata (Rajarhat, New Town)",
+        "type": "Private",
+        "location": "Rajarhat, New Town",
+        "website": "https://www.amity.edu/kolkata"
+      },
+      {
+        "id": 449,
+        "name": "Indian Institute of Engineering Science and Technology, Shibpur (IIEST Shibpur)",
+        "type": "Public/Government",
+        "location": "IIEST Shibpur, Botanic Garden",
+        "website": "https://www.iiests.ac.in"
+      },
+      {
+        "id": 450,
+        "name": "Jadavpur University, Kolkata (JU Kolkata)",
+        "type": "Public/Government",
+        "location": "188, Raja S.C. Mallick Road",
+        "website": "https://jadavpuruniversity.in"
+      },
+      {
+        "id": 451,
+        "name": "University of Kalyani (Kalyani, Nadia)",
+        "type": "Public/Government",
+        "location": "West Bengal, India",
+        "website": "https://klyuniv.ac.in"
+      },
+      {
+        "id": 452,
+        "name": "Heritage Business School (HBS Kolkata, Anandapur)",
+        "type": "Private",
+        "location": "Chowbaga Road, Anandapur",
+        "website": "https://hbs.edu.in"
+      },
+      {
+        "id": 453,
+        "name": "Praxis Business School (Praxis Kolkata)",
+        "type": "Private",
+        "location": "Rasapunja, 24 Parganas South",
+        "website": "https://praxis.ac.in"
+      },
+      {
+        "id": 454,
+        "name": "Birla Institute of Technology Extension Centre Kolkata (BIT Mesra Kolkata)",
+        "type": "Private",
+        "location": "56 B.T. ROAD",
+        "website": "https://www.bitmesra.ac.in"
+      },
+      {
+        "id": 455,
+        "name": "Global Institute of Management and Technology (GIMT Krishnanagar, Nadia)",
+        "type": "Private",
+        "location": "KRISHNAGAR,NADIA",
+        "website": "https://www.gimt-india.com"
+      },
+      {
+        "id": 456,
+        "name": "Salbani Institute of Technology (SIT Salbani, Paschim Medinipur)",
+        "type": "Private",
+        "location": "PIN-721147, WEST BENGAL",
+        "website": "https://salbaniinstitute.in"
+      },
+      {
+        "id": 459,
+        "name": "Canning Government Polytechnic (CGP Canning, South 24 Parganas)",
+        "type": "Public/Government",
+        "location": "PS:- JIBANTALA, PIN:-743363",
+        "website": "https://canningpolytechnic.in"
+      }
+    ]
   }
 ]
