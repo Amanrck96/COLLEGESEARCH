@@ -70367,13 +70367,13 @@
     },
     {
       "id": 818,
-      "name": "VIVEKANANDA COLLEGE OF POLYTECHNIC",
+      "name": "Vivekananda College of Polytechnic (VCP Aligarh)",
       "shortName": "Course Institute-1",
       "location": "ALIGARH",
       "state": "Uttar Pradesh",
       "address": "MATHURA BYPASS NEAR KHAIR ROAD 500 MTRS FROM NADA PUL",
-      "phone": "0123-456789",
-      "website": "https://www.vivekanandacoll.edu.in",
+      "phone": "0571-2970100",
+      "website": "https://vcpaligarh.in",
       "rating": 4.5,
       "reviews": 159,
       "type": "Private",
@@ -70394,12 +70394,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
+          "title": "Diploma in Computer Science and Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 90
+          "fees": "₹30,150/Year",
+          "eligibility": "10th Pass with Science & Math + JEECUP",
+          "exams": "JEECUP",
+          "intake": "90"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,150/Year",
+          "eligibility": "10th Pass with Science & Math + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,150/Year",
+          "eligibility": "10th Pass with Science & Math + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,150/Year",
+          "eligibility": "10th Pass with Science & Math + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -70415,20 +70443,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIVEKANANDA%20COLLEGE%20OF%20POLYTECHNIC%20ALIGARH%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Aligarh",
+      "established": 2013
     },
     {
       "id": 819,
-      "name": "AXIS BUSINESS SCHOOL",
+      "name": "Axis Business School (Axis Colleges, Kanpur)",
       "shortName": "Course Institute-1",
       "location": "KANPUR NAGAR",
       "state": "Uttar Pradesh",
       "address": "VILL- HATHIPUR",
-      "phone": "0123-456789",
-      "website": "https://www.axisbusinesssch.edu.in",
+      "phone": "0512-2600000",
+      "website": "https://axiscolleges.in",
       "rating": 4.5,
       "reviews": 102,
       "type": "Private",
@@ -70449,12 +70479,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG / CAT",
+          "exams": "CUET-PG, CAT",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "BCA / B.Sc in CS/IT (50%+) + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 in any stream (50%+)",
+          "exams": "Merit Based",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -70470,20 +70519,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/saraswati_kharghar.webp",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AXIS%20BUSINESS%20SCHOOL%20KANPUR%20NAGAR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Kanpur",
+      "established": 2010
     },
     {
       "id": 820,
-      "name": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+      "name": "Babu Sunder Singh Institute of Technology & Management (BSSITM Lucknow)",
       "shortName": "Course Institute-1",
       "location": "LUCKNOW",
       "state": "Uttar Pradesh",
       "address": "VILL. SHERPUR LAWAL NH-24B,RAEBARELLY ROAD, NIGOHAN LUCKNOW",
-      "phone": "0123-456789",
-      "website": "https://www.babusundersingh.edu.in",
+      "phone": "0522-2972972",
+      "website": "https://bssitm.ac.in",
       "rating": 4.5,
       "reviews": 529,
       "type": "Private",
@@ -70504,12 +70555,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "AGRICULTURAL ENGINEERING",
+          "title": "B.Tech in Agricultural Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM/Agriculture + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,150/Year",
+          "eligibility": "10th Pass with Science & Math + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -70525,10 +70595,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BABU%20SUNDER%20SINGH%20INSTITUTE%20OF%20TECHNOLOGY%20%26%20MANAGEMENT%20LUCKNOW%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Lucknow",
+      "established": 2008
     },
     {
       "id": 821,
@@ -70593,14 +70665,14 @@
     },
     {
       "id": 822,
-      "name": "DEEN DAYAL RUSTAGI COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+      "name": "Deen Dayal Rustagi College of Management and Technology (DDRCMT Gurugram)",
       "shortName": "Course Institute-1",
       "location": "GURGAON",
       "state": "Haryana",
       "address": "DEEN DAYAL RUSTAGI COLLEGE OF MANAGEMENT AND TECHNOLOGY, VILLAGE KHANDWELA, DISTT GURGAON",
-      "phone": "0123-456789",
-      "website": "https://www.deendayalrustag.edu.in",
-      "rating": 4.9,
+      "phone": "0124-2015500",
+      "website": "https://www.ddrcolleges.edu.in",
+      "rating": 4.6,
       "reviews": 811,
       "type": "Private",
       "about": "Welcome to DEEN DAYAL RUSTAGI COLLEGE OF MANAGEMENT AND TECHNOLOGY, a premier institute located in GURGAON. We offer world-class education and facilities for our students.",
@@ -70619,13 +70691,31 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 160,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Math/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "160"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 in any stream (45%+)",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation (50%+) + MAT / CMAT",
+          "exams": "MAT, CMAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -70645,21 +70735,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 811,
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEEN%20DAYAL%20RUSTAGI%20COLLEGE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20GURGAON%20Haryana",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Gurugram",
+      "established": 2007
     },
     {
       "id": 823,
-      "name": "YADUVANSHI DEGREE COLLEGE",
+      "name": "Yaduvanshi Degree College (Patikara, Narnaul)",
       "shortName": "Course Institute-1",
       "location": "MAHENDERGARH",
       "state": "Haryana",
       "address": "VILLAGE PATIKARA, TEHSIL NARNAUL, DISTT. MAHENDERGARH",
-      "phone": "0123-456789",
-      "website": "https://www.yaduvanshidegre.edu.in",
-      "rating": 4.9,
+      "phone": "01282-250000",
+      "website": "https://ydcnnl.yaduvanshigroup.edu.in",
+      "rating": 4.5,
       "reviews": 519,
       "type": "Private",
       "about": "Welcome to YADUVANSHI DEGREE COLLEGE, a premier institute located in MAHENDERGARH. We offer world-class education and facilities for our students.",
@@ -70678,13 +70770,40 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with Math/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Science (B.Sc Non-Medical)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10+2 with PCM (45%+)",
+          "exams": "Merit Based",
+          "intake": "80"
+        },
+        {
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 in any stream (40%+)",
+          "exams": "Merit Based",
+          "intake": "80"
+        },
+        {
+          "title": "Bachelor of Arts (BA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹20,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -70704,15 +70823,17 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 519,
-      "image": "/images/campuses/campus_architecture_8.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=YADUVANSHI%20DEGREE%20COLLEGE%20MAHENDERGARH%20Haryana",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Mahendergarh",
+      "established": 2008
     },
     {
       "id": 824,
       "shikshaUrl": "https://www.shiksha.com/college/management-development-institute-gurgaon-28362",
-      "name": "MDI Gurgaon - Management Development Institute",
+      "name": "Management Development Institute (MDI Gurgaon)",
       "shortName": "MDI Gurgaon",
       "location": "Gurgaon",
       "state": "Haryana",
@@ -70720,7 +70841,7 @@
       "rating": 4.8,
       "reviews": 350,
       "type": "Public/Government",
-      "ownership": "Government",
+      "ownership": "Public/Government",
       "ranking": 1,
       "about": "MDI Gurgaon - Management Development Institute is one of India's foremost apex premier institutions in Gurgaon, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹12.5 Lakhs - ₹25.0 Lakhs",
@@ -70749,10 +70870,40 @@
       ],
       "courses": [
         {
-          "title": "MBA / PGDM",
+          "title": "Post Graduate Diploma in Management (PGDM)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹12.5 Lakhs - ₹25.0 Lakhs"
+          "fees": "₹12,08,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / GMAT",
+          "exams": "CAT, GMAT",
+          "intake": "240"
+        },
+        {
+          "title": "PGDM in Human Resource Management (PGDM-HRM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹12,08,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / GMAT",
+          "exams": "CAT, GMAT",
+          "intake": "60"
+        },
+        {
+          "title": "PGDM in International Business (PGDM-IB)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹14,25,000/Year",
+          "eligibility": "Graduation (50%+) + Minimum 1 Yr Work Ex + CAT / GMAT",
+          "exams": "CAT, GMAT",
+          "intake": "120"
+        },
+        {
+          "title": "Executive PGDM (National Management Programme)",
+          "division": "Postgraduate",
+          "duration": "15 Months",
+          "fees": "₹16,50,000 Total",
+          "eligibility": "Graduation (50%+) + Min 5 Yrs Work Ex",
+          "exams": "CAT, GMAT",
+          "intake": "60"
         }
       ],
       "reviewsCount": 350,
@@ -70762,22 +70913,25 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
-      "website": "https://www.mdigurgaonmanagement.edu.in",
+      "website": "https://www.mdi.ac.in",
       "image": "/images/campuses/campus_architecture_6.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MDI%20Gurgaon%20-%20Management%20Development%20Institute%20Gurgaon%20Haryana",
       "map_url": "https://www.google.com/maps/search/?api=1&query=MDI%20Gurgaon%20-%20Management%20Development%20Institute%20Gurgaon%20Haryana",
       "address": "Gurgaon, Haryana, India",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Gurugram",
+      "phone": "0124-4560000",
+      "established": 1973
     },
     {
       "id": 825,
-      "name": "GREAT LAKES INSTITUTE OF MANAGEMENT, GURGAON",
+      "name": "Great Lakes Institute of Management, Gurgaon",
       "shortName": "Course Institute-1",
       "location": "GURGAON",
       "state": "Haryana",
       "address": "BILASPUR TAURU ROAD, BILASPUR",
-      "phone": "0123-456789",
-      "website": "https://www.greatlakesinsti.edu.in",
+      "phone": "0124-2865800",
+      "website": "https://www.greatlakes.edu.in/gurgaon",
       "rating": 4.8,
       "reviews": 1647,
       "type": "Private",
@@ -70797,13 +70951,22 @@
       ],
       "courses": [
         {
-          "title": "PGCM",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE CERTIFICATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 180,
-          "eligibility": "As per norms"
+          "title": "Post Graduate Program in Management (PGPM)",
+          "division": "Postgraduate",
+          "duration": "1 Year",
+          "fees": "₹17,50,000 Total",
+          "eligibility": "Graduation (50%+) + Min 2 Yrs Work Ex + CAT/XAT/GMAT",
+          "exams": "CAT, XAT, GMAT",
+          "intake": "180"
+        },
+        {
+          "title": "Post Graduate Diploma in Management (PGDM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹9,00,000/Year",
+          "eligibility": "Graduation (50%+) + CAT/XAT/CMAT/GMAT",
+          "exams": "CAT, XAT, CMAT, GMAT",
+          "intake": "180"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -70823,22 +70986,24 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1647,
-      "image": "https://www.greatlakes.edu.in/gurgaon/assets/greatlakes/slider/gurgaon-campus-slider.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GREAT%20LAKES%20INSTITUTE%20OF%20MANAGEMENT%2C%20GURGAON%20GURGAON%20Haryana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GREAT%20LAKES%20INSTITUTE%20OF%20MANAGEMENT%2C%20GURGAON%20GURGAON%20Haryana",
+      "city": "Gurugram",
+      "established": 2010
     },
     {
       "id": 826,
-      "name": "DEPARTMENT OF COMPUTER SCIENCE AND APPLICATIONS",
+      "name": "Department of Computer Science and Applications, Chaudhary Devi Lal University (CDLU Sirsa)",
       "shortName": "Course Institute-1",
       "location": "SIRSA",
       "state": "Haryana",
       "address": "CDLU SIRSA HARYANA",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofcom.edu.in",
-      "rating": 4.8,
+      "phone": "01666-248052",
+      "website": "https://cdlu.ac.in",
+      "rating": 4.6,
       "reviews": 106,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to DEPARTMENT OF COMPUTER SCIENCE AND APPLICATIONS, a premier institute located in SIRSA. We offer world-class education and facilities for our students.",
       "ranking": 49,
       "facebook": "#",
@@ -70855,13 +71020,31 @@
       ],
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 36,
-          "eligibility": "As per norms"
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "BCA / B.Sc in CS/IT / Mathematics (50%+)",
+          "exams": "University Entrance",
+          "intake": "60"
+        },
+        {
+          "title": "M.Sc in Computer Science",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "B.Sc with CS / Math (50%+)",
+          "exams": "University Entrance",
+          "intake": "40"
+        },
+        {
+          "title": "Ph.D in Computer Science",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹20,000/Year",
+          "eligibility": "Master's Degree in CS/IT (55%+) + UGC-NET",
+          "exams": "UGC-NET, RAT",
+          "intake": "10"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -70882,18 +71065,20 @@
       "country": "India",
       "reviewsCount": 106,
       "image": "/images/campuses/campus_architecture_8.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMPUTER%20SCIENCE%20AND%20APPLICATIONS%20SIRSA%20Haryana"
+      "ownership": "Public/Government",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMPUTER%20SCIENCE%20AND%20APPLICATIONS%20SIRSA%20Haryana",
+      "city": "Sirsa",
+      "established": 2003
     },
     {
       "id": 827,
-      "name": "FORE SCHOOL OF MANAGEMENT",
+      "name": "FORE School of Management (FSM Delhi / Gurugram)",
       "shortName": "Course Institute-1",
       "location": "GURGAON",
       "state": "Haryana",
       "address": "PLOT NO. 47, SECTOR - 32",
-      "phone": "0123-456789",
-      "website": "https://www.foreschoolofman.edu.in",
+      "phone": "011-41242424",
+      "website": "https://www.fsm.ac.in",
       "rating": 4.8,
       "reviews": 1483,
       "type": "Private",
@@ -70913,13 +71098,40 @@
       ],
       "courses": [
         {
-          "title": "PGDM (BIG DATA ANALYTICS)",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE DIPLOMA",
-          "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "title": "Post Graduate Diploma in Management (PGDM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹9,12,500/Year",
+          "eligibility": "Graduation (50%+) + CAT/XAT/GMAT",
+          "exams": "CAT, XAT, GMAT",
+          "intake": "180"
+        },
+        {
+          "title": "PGDM in Big Data Analytics (PGDM-BDA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹9,12,500/Year",
+          "eligibility": "Graduation (50%+) + CAT/XAT/GMAT",
+          "exams": "CAT, XAT, GMAT",
+          "intake": "60"
+        },
+        {
+          "title": "PGDM in International Business (PGDM-IB)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹9,12,500/Year",
+          "eligibility": "Graduation (50%+) + CAT/XAT/GMAT",
+          "exams": "CAT, XAT, GMAT",
+          "intake": "120"
+        },
+        {
+          "title": "PGDM in Financial Management (PGDM-FM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹9,12,500/Year",
+          "eligibility": "Graduation (50%+) + CAT/XAT/GMAT",
+          "exams": "CAT, XAT, GMAT",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -70939,21 +71151,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1483,
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=FORE%20SCHOOL%20OF%20MANAGEMENT%20GURGAON%20Haryana",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Gurugram",
+      "established": 1992
     },
     {
       "id": 828,
-      "name": "JHANKAR COLLEGE",
+      "name": "Jhankar Group of Colleges (Jhankar College Gurugram)",
       "shortName": "Course Institute-1",
       "location": "GURGAON",
       "state": "Haryana",
       "address": "VILLAGE BABRABAKIPUR",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=JHANKAR%20COLLEGE%20official%20website%20GURGAON%20Haryana",
-      "rating": 4.8,
+      "phone": "0124-2015000",
+      "website": "https://jhankargroupofcolleges.com",
+      "rating": 4.5,
       "reviews": 607,
       "type": "Private",
       "about": "Welcome to JHANKAR COLLEGE, a premier institute located in GURGAON. We offer world-class education and facilities for our students.",
@@ -70972,13 +71186,31 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Math/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 in any stream (45%+)",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Education (B.Ed)",
+          "division": "Undergraduate",
+          "duration": "2 Years",
+          "fees": "₹44,000/Year",
+          "eligibility": "Graduation (50%+)",
+          "exams": "State B.Ed Entrance",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -70998,9 +71230,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 607,
-      "image": "https://www.collegebatch.com/static/clg-gallery/jhankar-group-of-colleges-gurgaon-355413.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JHANKAR%20COLLEGE%20GURGAON%20Haryana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JHANKAR%20COLLEGE%20GURGAON%20Haryana",
+      "city": "Gurugram",
+      "established": 2007
     },
     {
       "id": 829,

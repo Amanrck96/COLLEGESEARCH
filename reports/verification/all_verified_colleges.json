@@ -8698,5 +8698,80 @@
         "website": "https://gpchariyaondeoria.in"
       }
     ]
+  },
+  {
+    "batch": 117,
+    "items": [
+      {
+        "id": 818,
+        "name": "Vivekananda College of Polytechnic (VCP Aligarh)",
+        "type": "Private",
+        "location": "MATHURA BYPASS NEAR KHAIR ROAD 500 MTRS FROM NADA PUL",
+        "website": "https://vcpaligarh.in"
+      },
+      {
+        "id": 819,
+        "name": "Axis Business School (Axis Colleges, Kanpur)",
+        "type": "Private",
+        "location": "VILL- HATHIPUR",
+        "website": "https://axiscolleges.in"
+      },
+      {
+        "id": 820,
+        "name": "Babu Sunder Singh Institute of Technology & Management (BSSITM Lucknow)",
+        "type": "Private",
+        "location": "RAEBARELLY ROAD, NIGOHAN LUCKNOW",
+        "website": "https://bssitm.ac.in"
+      },
+      {
+        "id": 822,
+        "name": "Deen Dayal Rustagi College of Management and Technology (DDRCMT Gurugram)",
+        "type": "Private",
+        "location": "VILLAGE KHANDWELA, DISTT GURGAON",
+        "website": "https://www.ddrcolleges.edu.in"
+      },
+      {
+        "id": 823,
+        "name": "Yaduvanshi Degree College (Patikara, Narnaul)",
+        "type": "Private",
+        "location": "TEHSIL NARNAUL, DISTT. MAHENDERGARH",
+        "website": "https://ydcnnl.yaduvanshigroup.edu.in"
+      },
+      {
+        "id": 824,
+        "name": "Management Development Institute (MDI Gurgaon)",
+        "type": "Public/Government",
+        "location": "Haryana, India",
+        "website": "https://www.mdi.ac.in"
+      },
+      {
+        "id": 825,
+        "name": "Great Lakes Institute of Management, Gurgaon",
+        "type": "Private",
+        "location": "BILASPUR TAURU ROAD, BILASPUR",
+        "website": "https://www.greatlakes.edu.in/gurgaon"
+      },
+      {
+        "id": 826,
+        "name": "Department of Computer Science and Applications, Chaudhary Devi Lal University (CDLU Sirsa)",
+        "type": "Public/Government",
+        "location": "CDLU SIRSA HARYANA",
+        "website": "https://cdlu.ac.in"
+      },
+      {
+        "id": 827,
+        "name": "FORE School of Management (FSM Delhi / Gurugram)",
+        "type": "Private",
+        "location": "PLOT NO. 47, SECTOR - 32",
+        "website": "https://www.fsm.ac.in"
+      },
+      {
+        "id": 828,
+        "name": "Jhankar Group of Colleges (Jhankar College Gurugram)",
+        "type": "Private",
+        "location": "VILLAGE BABRABAKIPUR",
+        "website": "https://jhankargroupofcolleges.com"
+      }
+    ]
   }
 ]

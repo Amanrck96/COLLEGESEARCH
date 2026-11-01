@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1160 / 12,660**  
-**Roadmap Progress**: **116.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1170 / 12,660**  
+**Roadmap Progress**: **117.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1749,4 +1749,19 @@
 | **815** | Government Polytechnic, Baheri (Bareilly, Uttar Pradesh) | Public/Government | Bareilly, Uttar Pradesh - 243201 | [www.gpbaheribly.com](http://www.gpbaheribly.com) |
 | **816** | Trinity Institute of Innovations in Professional Studies (TIIPS Greater Noida) | Private | Gautam Buddha Nagar, Uttar Pradesh - 201306 | [tiips.ac.in](https://tiips.ac.in) |
 | **817** | Government Polytechnic, Chariyaon Bujurg (Deoria, Uttar Pradesh) | Public/Government | Deoria, Uttar Pradesh - 274202 | [gpchariyaondeoria.in](https://gpchariyaondeoria.in) |
+
+### Batch 117 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **818** | Vivekananda College of Polytechnic (VCP Aligarh) | Private | MATHURA BYPASS NEAR KHAIR ROAD 500 MTRS FROM NADA PUL | [vcpaligarh.in](https://vcpaligarh.in) |
+| **819** | Axis Business School (Axis Colleges, Kanpur) | Private | VILL- HATHIPUR | [axiscolleges.in](https://axiscolleges.in) |
+| **820** | Babu Sunder Singh Institute of Technology & Management (BSSITM Lucknow) | Private | RAEBARELLY ROAD, NIGOHAN LUCKNOW | [bssitm.ac.in](https://bssitm.ac.in) |
+| **822** | Deen Dayal Rustagi College of Management and Technology (DDRCMT Gurugram) | Private | VILLAGE KHANDWELA, DISTT GURGAON | [www.ddrcolleges.edu.in](https://www.ddrcolleges.edu.in) |
+| **823** | Yaduvanshi Degree College (Patikara, Narnaul) | Private | TEHSIL NARNAUL, DISTT. MAHENDERGARH | [ydcnnl.yaduvanshigroup.edu.in](https://ydcnnl.yaduvanshigroup.edu.in) |
+| **824** | Management Development Institute (MDI Gurgaon) | Public/Government | Haryana, India | [www.mdi.ac.in](https://www.mdi.ac.in) |
+| **825** | Great Lakes Institute of Management, Gurgaon | Private | BILASPUR TAURU ROAD, BILASPUR | [www.greatlakes.edu.in](https://www.greatlakes.edu.in/gurgaon) |
+| **826** | Department of Computer Science and Applications, Chaudhary Devi Lal University (CDLU Sirsa) | Public/Government | CDLU SIRSA HARYANA | [cdlu.ac.in](https://cdlu.ac.in) |
+| **827** | FORE School of Management (FSM Delhi / Gurugram) | Private | PLOT NO. 47, SECTOR - 32 | [www.fsm.ac.in](https://www.fsm.ac.in) |
+| **828** | Jhankar Group of Colleges (Jhankar College Gurugram) | Private | VILLAGE BABRABAKIPUR | [jhankargroupofcolleges.com](https://jhankargroupofcolleges.com) |
 
