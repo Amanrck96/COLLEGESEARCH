@@ -1,0 +1,112 @@
+[
+  {
+    "id": 290,
+    "name": "Hindustan Aviation Academy",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Hindustan_Aviation_Academygalore.jpg",
+    "website": "https://www.google.com/search?q=Hindustan%20Aviation%20Academy%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 291,
+    "name": "Gujarat University",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.google.com/search?q=Gujarat%20University%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 292,
+    "name": "CCSU",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/dashboard_upload/1770043394_IMG-20250925-WA0062-AasthaSharma.jpg",
+    "website": "https://ccsuniversity.ac.in",
+    "phone": "01212763539",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 293,
+    "name": "University of Mumbai (Mumbai University)",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/pibm_pune.webp",
+    "website": "https://www.google.com/search?q=University%20of%20Mumbai%20(Mumbai%20University)%20official%20website%20Mumbai%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 294,
+    "name": "Anna University, Chennai",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://www.annauniv.edu/",
+    "phone": "04422358314",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 295,
+    "name": "Banaras Hindu University",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.bhu.ac.in",
+    "phone": "05422307222",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 296,
+    "name": "IGNOU",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "http://ignou.ac.in/",
+    "phone": "01129571301",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 297,
+    "name": "Jawaharlal Nehru University, Delhi",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.jnu.ac.in",
+    "phone": "01126704054",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 298,
+    "name": "Delhi University",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.du.ac.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 299,
+    "name": "Loreto College, Kolkata",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15045163632591_LCE.jpg",
+    "website": "https://www.loretocollegeko.edu.in",
+    "phone": "03322640952",
+    "rating": 4.5,
+    "coursesCount": 3
+  }
+]

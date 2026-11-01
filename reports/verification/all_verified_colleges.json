@@ -5323,5 +5323,80 @@
         "website": "https://www.frankfinn.com"
       }
     ]
+  },
+  {
+    "batch": 72,
+    "items": [
+      {
+        "id": 290,
+        "name": "Hindustan Aviation Academy, Bengaluru",
+        "type": "Private",
+        "location": "Delhi NCR, India",
+        "website": "https://www.hindustanacademy.edu.in"
+      },
+      {
+        "id": 291,
+        "name": "Gujarat University, Ahmedabad",
+        "type": "Public/Government",
+        "location": "Delhi NCR, India",
+        "website": "https://www.gujaratuniversity.ac.in"
+      },
+      {
+        "id": 292,
+        "name": "Chaudhary Charan Singh University (CCSU Meerut)",
+        "type": "Public/Government",
+        "location": "Chaudhary Charan Singh University, Main Road",
+        "website": "https://www.ccsuniversity.ac.in"
+      },
+      {
+        "id": 293,
+        "name": "University of Mumbai (Mumbai University - MU)",
+        "type": "Public/Government",
+        "location": "Mumbai, Maharashtra 400098",
+        "website": "https://mu.ac.in"
+      },
+      {
+        "id": 294,
+        "name": "Anna University, Chennai",
+        "type": "Public/Government",
+        "location": "Anna University, Sardar Patel Road",
+        "website": "https://www.annauniv.edu"
+      },
+      {
+        "id": 295,
+        "name": "Banaras Hindu University (BHU Varanasi)",
+        "type": "Public/Government",
+        "location": "Banaras Hindu University, Ajagara",
+        "website": "https://www.bhu.ac.in"
+      },
+      {
+        "id": 296,
+        "name": "Indira Gandhi National Open University (IGNOU New Delhi)",
+        "type": "Public/Government",
+        "location": "Indira Gandhi National Open University, Maidan Garhi",
+        "website": "http://www.ignou.ac.in"
+      },
+      {
+        "id": 297,
+        "name": "Jawaharlal Nehru University (JNU New Delhi)",
+        "type": "Public/Government",
+        "location": "New Mehrauli Road",
+        "website": "https://www.jnu.ac.in"
+      },
+      {
+        "id": 298,
+        "name": "University of Delhi (DU New Delhi)",
+        "type": "Public/Government",
+        "location": "Delhi NCR, India",
+        "website": "https://www.du.ac.in"
+      },
+      {
+        "id": 299,
+        "name": "Loreto College, Kolkata",
+        "type": "Private",
+        "location": "Sir William Jones Sarani,Middletown Street",
+        "website": "https://www.loretocollege.in"
+      }
+    ]
   }
 ]

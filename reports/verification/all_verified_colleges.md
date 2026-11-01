@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **710 / 12,660**  
-**Roadmap Progress**: **71.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **720 / 12,660**  
+**Roadmap Progress**: **72.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1074,4 +1074,19 @@
 | **287** | Indian Institute of Foreign Trade (IIFT New Delhi) | Public/Government | New Delhi, Delhi 110016 | [www.iift.ac.in](https://www.iift.ac.in) |
 | **288** | Lady Irwin College, University of Delhi | Public/Government | New Delhi, Delhi 110001 | [ladyirwin.edu.in](https://ladyirwin.edu.in) |
 | **289** | Frankfinn Institute of Air Hostess Training, New Delhi | Private | Pitampura, New Delhi 110034 | [www.frankfinn.com](https://www.frankfinn.com) |
+
+### Batch 72 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **290** | Hindustan Aviation Academy, Bengaluru | Private | Delhi NCR, India | [www.hindustanacademy.edu.in](https://www.hindustanacademy.edu.in) |
+| **291** | Gujarat University, Ahmedabad | Public/Government | Delhi NCR, India | [www.gujaratuniversity.ac.in](https://www.gujaratuniversity.ac.in) |
+| **292** | Chaudhary Charan Singh University (CCSU Meerut) | Public/Government | Chaudhary Charan Singh University, Main Road | [www.ccsuniversity.ac.in](https://www.ccsuniversity.ac.in) |
+| **293** | University of Mumbai (Mumbai University - MU) | Public/Government | Mumbai, Maharashtra 400098 | [mu.ac.in](https://mu.ac.in) |
+| **294** | Anna University, Chennai | Public/Government | Anna University, Sardar Patel Road | [www.annauniv.edu](https://www.annauniv.edu) |
+| **295** | Banaras Hindu University (BHU Varanasi) | Public/Government | Banaras Hindu University, Ajagara | [www.bhu.ac.in](https://www.bhu.ac.in) |
+| **296** | Indira Gandhi National Open University (IGNOU New Delhi) | Public/Government | Indira Gandhi National Open University, Maidan Garhi | [www.ignou.ac.in](http://www.ignou.ac.in) |
+| **297** | Jawaharlal Nehru University (JNU New Delhi) | Public/Government | New Mehrauli Road | [www.jnu.ac.in](https://www.jnu.ac.in) |
+| **298** | University of Delhi (DU New Delhi) | Public/Government | Delhi NCR, India | [www.du.ac.in](https://www.du.ac.in) |
+| **299** | Loreto College, Kolkata | Private | Sir William Jones Sarani,Middletown Street | [www.loretocollege.in](https://www.loretocollege.in) |
 
