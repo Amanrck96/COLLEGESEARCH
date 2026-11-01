@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1140 / 12,660**  
-**Roadmap Progress**: **114.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1150 / 12,660**  
+**Roadmap Progress**: **115.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1719,4 +1719,19 @@
 | **792** | Udayraj Singh Rampyari Institute of Science and Technology (USRIST Fatehpur) | Private | VILLAGE & POST- JALALPUR JAGNANDAN PATTI, POST- KAUDIA | [usrist.org](http://usrist.org) |
 | **793** | Thakur Tej Bahadur Singh Institute of Technology (TTBSIT Jaunpur) | Private | TEHSIL- SAIDPUR, GHAZIPUR(UP) | [ttbsit.org](http://ttbsit.org) |
 | **794** | Rajkiya Engineering College, Banda (REC Banda, Atarra) | Public/Government | ATARRA,BANDA 210201 | [recbanda.ac.in](https://recbanda.ac.in) |
+
+### Batch 115 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **795** | Government Polytechnic, Kotvan (NH-2, Mathura) | Public/Government | KOSI , MATHURA | [dte.up.gov.in](https://dte.up.gov.in) |
+| **796** | M.G. Institute of Management and Technology (MGIMT Lucknow) | Private | GRAM KHANDEDEV | [mgimt.edu.in](http://mgimt.edu.in) |
+| **798** | Modern College of Engineering (Sikandrabad, Bulandshahr) | Private | POST-KOCHHABHANWAR, JHANSI | [modernpolytechnic.org](http://modernpolytechnic.org) |
+| **799** | Government Polytechnic, Sahaswan (Badaun, Uttar Pradesh) | Public/Government | SAHASWAN, BUDAUN | [dte.up.gov.in](https://dte.up.gov.in) |
+| **800** | Ashoka Institute of Technology and Management (Paharia, Varanasi) | Private | SARNATH,VARANASI. | [ashokainstitute.com](https://ashokainstitute.com) |
+| **801** | Prayag Institute of Technology and Management (PITM Prayagraj) | Private | ALLAHABAD - MIRZAPUR ROAD BENDO, KARCHHANA | [pitm.co.in](http://pitm.co.in) |
+| **802** | Rajiv Gandhi Polytechnic (Melhan, Gonda) | Private | MUSAFIRKHANA DISTRICT AMETHI UP PIN 227813 | [rgpgonda.org](http://rgpgonda.org) |
+| **803** | Rajkiya Engineering College, Mainpuri (REC Mainpuri) | Public/Government | NOUNER, UTTAR PRADESH | [recmainpuri.in](https://recmainpuri.in) |
+| **804** | Mahamaya Polytechnic of Information Technology (Government Polytechnic, Kushinagar) | Public/Government | ALIGARH | [dte.up.gov.in](https://dte.up.gov.in) |
+| **805** | Zakir Husain College of Engineering and Technology (ZHCET, AMU Aligarh) | Public/Government | ZAKIR HUSAIN COLLEGE OF ENGINEERIING & TECHNOLOGY ALIGARH MUSLIM UNIVERSITY ALIGARH - 202002 | [www.amu.ac.in](https://www.amu.ac.in/colleges/zhcet) |
 

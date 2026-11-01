@@ -1,0 +1,202 @@
+[
+  {
+    "id": 795,
+    "name": "GOVERNMENT POLYTECHNIC , KOTVAN , MATHURA",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CHEMICAL ENGINEERING SPECIALIZATION IN PETROCHEMICALS",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 796,
+    "name": "M.G. INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/mg-institute-of-management-technology-lucknow-255468.webp",
+    "website": "https://www.mginstituteofma.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRICAL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 798,
+    "name": "MODERN COLLEGE OF ENGINEERING",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.moderncollegeof.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MECHANICAL ENGINEERING (AUTO)",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "name": "GOVERNMENT POLYTECHNIC SAHASWAN BUDAUN",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 800,
+    "name": "ASHOKA INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/ashoka-institute-of-technology-management-varanasi-259068.webp",
+    "website": "https://www.ashokainstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 801,
+    "name": "PRAYAG INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://www.mnnit.ac.in/dic2020/aboutus.png",
+    "website": "https://www.prayaginstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "name": "RAJIV GANDHI POLYTECHNIC",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://rgipt.ac.in/site/writereaddata/uploadedImages/Image/I_202505311359012369.jpg",
+    "website": "https://www.rajivgandhipoly.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      }
+    ]
+  },
+  {
+    "id": 803,
+    "name": "RAJKIYA ENGINEERING COLLEGE MAINPURI",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1611313893main building.jpg",
+    "website": "https://www.rajkiyaengineer.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRICAL ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "name": "MAHAMAYA POLYTECHNIC FOR INFORMATION TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.mahamayapolytec.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 805,
+    "name": "ZAKIR HUSAIN COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/SDFGSSFGFSGF.jpg?width=640",
+    "website": "https://www.zakirhusaincoll.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 150
+      }
+    ]
+  }
+]

@@ -8548,5 +8548,80 @@
         "website": "https://recbanda.ac.in"
       }
     ]
+  },
+  {
+    "batch": 115,
+    "items": [
+      {
+        "id": 795,
+        "name": "Government Polytechnic, Kotvan (NH-2, Mathura)",
+        "type": "Public/Government",
+        "location": "KOSI , MATHURA",
+        "website": "https://dte.up.gov.in"
+      },
+      {
+        "id": 796,
+        "name": "M.G. Institute of Management and Technology (MGIMT Lucknow)",
+        "type": "Private",
+        "location": "GRAM KHANDEDEV",
+        "website": "http://mgimt.edu.in"
+      },
+      {
+        "id": 798,
+        "name": "Modern College of Engineering (Sikandrabad, Bulandshahr)",
+        "type": "Private",
+        "location": "POST-KOCHHABHANWAR, JHANSI",
+        "website": "http://modernpolytechnic.org"
+      },
+      {
+        "id": 799,
+        "name": "Government Polytechnic, Sahaswan (Badaun, Uttar Pradesh)",
+        "type": "Public/Government",
+        "location": "SAHASWAN, BUDAUN",
+        "website": "https://dte.up.gov.in"
+      },
+      {
+        "id": 800,
+        "name": "Ashoka Institute of Technology and Management (Paharia, Varanasi)",
+        "type": "Private",
+        "location": "SARNATH,VARANASI.",
+        "website": "https://ashokainstitute.com"
+      },
+      {
+        "id": 801,
+        "name": "Prayag Institute of Technology and Management (PITM Prayagraj)",
+        "type": "Private",
+        "location": "ALLAHABAD - MIRZAPUR ROAD BENDO, KARCHHANA",
+        "website": "http://pitm.co.in"
+      },
+      {
+        "id": 802,
+        "name": "Rajiv Gandhi Polytechnic (Melhan, Gonda)",
+        "type": "Private",
+        "location": "MUSAFIRKHANA DISTRICT AMETHI UP PIN 227813",
+        "website": "http://rgpgonda.org"
+      },
+      {
+        "id": 803,
+        "name": "Rajkiya Engineering College, Mainpuri (REC Mainpuri)",
+        "type": "Public/Government",
+        "location": "NOUNER, UTTAR PRADESH",
+        "website": "https://recmainpuri.in"
+      },
+      {
+        "id": 804,
+        "name": "Mahamaya Polytechnic of Information Technology (Government Polytechnic, Kushinagar)",
+        "type": "Public/Government",
+        "location": "ALIGARH",
+        "website": "https://dte.up.gov.in"
+      },
+      {
+        "id": 805,
+        "name": "Zakir Husain College of Engineering and Technology (ZHCET, AMU Aligarh)",
+        "type": "Public/Government",
+        "location": "ZAKIR HUSAIN COLLEGE OF ENGINEERIING & TECHNOLOGY ALIGARH MUSLIM UNIVERSITY ALIGARH - 202002",
+        "website": "https://www.amu.ac.in/colleges/zhcet"
+      }
+    ]
   }
 ]

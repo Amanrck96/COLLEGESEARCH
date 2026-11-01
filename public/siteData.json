@@ -68593,16 +68593,16 @@
     },
     {
       "id": 795,
-      "name": "GOVERNMENT POLYTECHNIC , KOTVAN , MATHURA",
+      "name": "Government Polytechnic, Kotvan (NH-2, Mathura)",
       "shortName": "Course Institute-1",
       "location": "MATHURA",
       "state": "Uttar Pradesh",
       "address": "KOTVAN , KOSI , MATHURA",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
+      "phone": "05662-232100",
+      "website": "https://dte.up.gov.in",
       "rating": 4.5,
       "reviews": 492,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC , KOTVAN , MATHURA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 13,
       "facebook": "#",
@@ -68620,12 +68620,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CHEMICAL ENGINEERING SPECIALIZATION IN PETROCHEMICALS",
+          "name": "Diploma in Chemical Engineering (Petrochemicals)",
+          "title": "Diploma in Chemical Engineering (Petrochemicals)",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68644,17 +68666,19 @@
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20%2C%20KOTVAN%20%2C%20MATHURA%20MATHURA%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Mathura",
+      "established": 2014
     },
     {
       "id": 796,
-      "name": "M.G. INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+      "name": "M.G. Institute of Management and Technology (MGIMT Lucknow)",
       "shortName": "Course Institute-1",
       "location": "LUCKNOW",
       "state": "Uttar Pradesh",
       "address": "GRAM KHANDEDEV",
-      "phone": "0123-456789",
-      "website": "https://www.mginstituteofma.edu.in",
+      "phone": "0522-2998822",
+      "website": "http://mgimt.edu.in",
       "rating": 4.5,
       "reviews": 291,
       "type": "Private",
@@ -68675,12 +68699,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "name": "B.Tech in Electrical Engineering",
+          "title": "B.Tech in Electrical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68696,9 +68742,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/mg-institute-of-management-technology-lucknow-255468.webp",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=M.G.%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20LUCKNOW%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=M.G.%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%20LUCKNOW%20Uttar%20Pradesh",
+      "city": "Lucknow",
+      "established": 2010
     },
     {
       "id": 797,
@@ -68757,13 +68805,13 @@
     },
     {
       "id": 798,
-      "name": "MODERN COLLEGE OF ENGINEERING",
+      "name": "Modern College of Engineering (Sikandrabad, Bulandshahr)",
       "shortName": "Course Institute-1",
       "location": "JHANSI",
       "state": "Uttar Pradesh",
       "address": "VILLAGE-KOCHHABHANWAR, POST-KOCHHABHANWAR, JHANSI",
-      "phone": "0123-456789",
-      "website": "https://www.moderncollegeof.edu.in",
+      "phone": "05735-222450",
+      "website": "http://modernpolytechnic.org",
       "rating": 4.5,
       "reviews": 526,
       "type": "Private",
@@ -68784,12 +68832,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING (AUTO)",
+          "name": "Diploma in Mechanical Engineering (Automobile)",
+          "title": "Diploma in Mechanical Engineering (Automobile)",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68805,23 +68875,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MODERN%20COLLEGE%20OF%20ENGINEERING%20JHANSI%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Bulandshahr",
+      "established": 2011
     },
     {
       "id": 799,
-      "name": "GOVERNMENT POLYTECHNIC SAHASWAN BUDAUN",
+      "name": "Government Polytechnic, Sahaswan (Badaun, Uttar Pradesh)",
       "shortName": "Course Institute-1",
       "location": "BUDAUN",
       "state": "Uttar Pradesh",
       "address": "VILL- SAMDA, KACHHLA ROAD, SAHASWAN, BUDAUN",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
+      "phone": "05833-222120",
+      "website": "https://dte.up.gov.in",
       "rating": 4.5,
       "reviews": 54,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC SAHASWAN BUDAUN, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 12,
       "facebook": "#",
@@ -68839,12 +68911,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68863,18 +68957,20 @@
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20SAHASWAN%20BUDAUN%20BUDAUN%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Badaun",
+      "established": 2014
     },
     {
       "id": 800,
-      "name": "ASHOKA INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+      "name": "Ashoka Institute of Technology and Management (Paharia, Varanasi)",
       "shortName": "Course Institute-1",
       "location": "VARANASI",
       "state": "Uttar Pradesh",
       "address": "AKTHA,SARNATH,VARANASI.",
-      "phone": "0123-456789",
-      "website": "https://www.ashokainstitute.edu.in",
-      "rating": 4.5,
+      "phone": "0542-2580100",
+      "website": "https://ashokainstitute.com",
+      "rating": 4.6,
       "reviews": 281,
       "type": "Private",
       "about": "Welcome to ASHOKA INSTITUTE OF TECHNOLOGY AND MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -68894,12 +68990,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM/PCB (45%+)",
+          "exams": "CUET, Merit",
+          "intake": "100"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68915,19 +69043,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.collegebatch.com/static/clg-gallery/ashoka-institute-of-technology-management-varanasi-259068.webp",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASHOKA%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20VARANASI%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASHOKA%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20VARANASI%20Uttar%20Pradesh",
+      "city": "Varanasi",
+      "established": 2010
     },
     {
       "id": 801,
-      "name": "PRAYAG INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+      "name": "Prayag Institute of Technology and Management (PITM Prayagraj)",
       "shortName": "Course Institute-1",
       "location": "ALLAHABAD",
       "state": "Uttar Pradesh",
       "address": "ALLAHABAD - MIRZAPUR ROAD BENDO, KARCHHANA",
-      "phone": "0123-456789",
-      "website": "https://www.prayaginstitute.edu.in",
+      "phone": "05333-222100",
+      "website": "http://pitm.co.in",
       "rating": 4.5,
       "reviews": 331,
       "type": "Private",
@@ -68948,12 +69078,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "B.Tech in Civil Engineering",
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -68969,19 +69121,21 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.mnnit.ac.in/dic2020/aboutus.png",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRAYAG%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20ALLAHABAD%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRAYAG%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20ALLAHABAD%20Uttar%20Pradesh",
+      "city": "Prayagraj",
+      "established": 2009
     },
     {
       "id": 802,
-      "name": "RAJIV GANDHI POLYTECHNIC",
+      "name": "Rajiv Gandhi Polytechnic (Melhan, Gonda)",
       "shortName": "Course Institute-1",
       "location": "AMETHI",
       "state": "Uttar Pradesh",
       "address": "MUSAFIRKHANA DISTRICT AMETHI UP PIN 227813",
-      "phone": "0123-456789",
-      "website": "https://www.rajivgandhipoly.edu.in",
+      "phone": "05262-260100",
+      "website": "http://rgpgonda.org",
       "rating": 4.5,
       "reviews": 499,
       "type": "Private",
@@ -69002,12 +69156,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -69023,22 +69199,24 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://rgipt.ac.in/site/writereaddata/uploadedImages/Image/I_202505311359012369.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAJIV%20GANDHI%20POLYTECHNIC%20AMETHI%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAJIV%20GANDHI%20POLYTECHNIC%20AMETHI%20Uttar%20Pradesh",
+      "city": "Gonda",
+      "established": 2011
     },
     {
       "id": 803,
-      "name": "RAJKIYA ENGINEERING COLLEGE MAINPURI",
+      "name": "Rajkiya Engineering College, Mainpuri (REC Mainpuri)",
       "shortName": "Course Institute-1",
       "location": "MAINPURI",
       "state": "Uttar Pradesh",
       "address": "NH 84 ROAD NAUNER, BHONGOAN â MAINPURI â SHIKOHABAD RD, NOUNER, UTTAR PRADESH",
-      "phone": "0123-456789",
-      "website": "https://www.rajkiyaengineer.edu.in",
-      "rating": 4.5,
+      "phone": "05672-241241",
+      "website": "https://recmainpuri.in",
+      "rating": 4.7,
       "reviews": 297,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to RAJKIYA ENGINEERING COLLEGE MAINPURI, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 50,
       "facebook": "#",
@@ -69056,12 +69234,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "name": "B.Tech in Electrical Engineering",
+          "title": "B.Tech in Electrical Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹64,300/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Civil Engineering",
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹64,300/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Mechanical Engineering",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹64,300/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -69077,22 +69277,24 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1611313893main building.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAJKIYA%20ENGINEERING%20COLLEGE%20MAINPURI%20MAINPURI%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAJKIYA%20ENGINEERING%20COLLEGE%20MAINPURI%20MAINPURI%20Uttar%20Pradesh",
+      "city": "Mainpuri",
+      "established": 2015
     },
     {
       "id": 804,
-      "name": "MAHAMAYA POLYTECHNIC FOR INFORMATION TECHNOLOGY",
+      "name": "Mahamaya Polytechnic of Information Technology (Government Polytechnic, Kushinagar)",
       "shortName": "Course Institute-1",
       "location": "ALIGARH",
       "state": "Uttar Pradesh",
       "address": "ALIGARH",
-      "phone": "0123-456789",
-      "website": "https://www.mahamayapolytec.edu.in",
+      "phone": "05564-222150",
+      "website": "https://dte.up.gov.in",
       "rating": 4.5,
       "reviews": 329,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to MAHAMAYA POLYTECHNIC FOR INFORMATION TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 45,
       "facebook": "#",
@@ -69110,12 +69312,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
+          "name": "Diploma in Computer Science and Engineering",
+          "title": "Diploma in Computer Science and Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electronics Engineering",
+          "title": "Diploma in Electronics Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -69131,22 +69355,24 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHAMAYA%20POLYTECHNIC%20FOR%20INFORMATION%20TECHNOLOGY%20ALIGARH%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHAMAYA%20POLYTECHNIC%20FOR%20INFORMATION%20TECHNOLOGY%20ALIGARH%20Uttar%20Pradesh",
+      "city": "Kushinagar",
+      "established": 2008
     },
     {
       "id": 805,
-      "name": "ZAKIR HUSAIN COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "name": "Zakir Husain College of Engineering and Technology (ZHCET, AMU Aligarh)",
       "shortName": "Course Institute-1",
       "location": "ALIGARH",
       "state": "Uttar Pradesh",
       "address": "ZAKIR HUSAIN COLLEGE OF ENGINEERIING & TECHNOLOGY ALIGARH MUSLIM UNIVERSITY ALIGARH - 202002",
-      "phone": "0123-456789",
-      "website": "https://www.zakirhusaincoll.edu.in",
-      "rating": 4.5,
+      "phone": "0571-2700920",
+      "website": "https://www.amu.ac.in/colleges/zhcet",
+      "rating": 4.8,
       "reviews": 349,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to ZAKIR HUSAIN COLLEGE OF ENGINEERING & TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 94,
       "facebook": "#",
@@ -69164,12 +69390,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "B.Tech in Civil Engineering",
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 150
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with 50% PCM + AMU Engineering Entrance",
+          "exams": "AMU Test",
+          "intake": "150"
+        },
+        {
+          "name": "B.Tech in Computer Engineering",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with 50% PCM + AMU Test",
+          "exams": "AMU Test",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Electrical Engineering",
+          "title": "B.Tech in Electrical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with 50% PCM + AMU Test",
+          "exams": "AMU Test",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Mechanical Engineering",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with 50% PCM + AMU Test",
+          "exams": "AMU Test",
+          "intake": "120"
+        },
+        {
+          "name": "M.Tech in Structural Engineering",
+          "title": "M.Tech in Structural Engineering",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹20,000/Year",
+          "eligibility": "B.Tech in Civil + GATE / AMU Test",
+          "exams": "GATE, AMU Test",
+          "intake": "25"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -69185,9 +69453,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/SDFGSSFGFSGF.jpg?width=640",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ZAKIR%20HUSAIN%20COLLEGE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20ALIGARH%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ZAKIR%20HUSAIN%20COLLEGE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20ALIGARH%20Uttar%20Pradesh",
+      "city": "Aligarh",
+      "established": 1935
     },
     {
       "id": 806,
