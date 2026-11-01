@@ -9373,5 +9373,80 @@
         "website": "https://www.gvnpolytechnic.com"
       }
     ]
+  },
+  {
+    "batch": 126,
+    "items": [
+      {
+        "id": 920,
+        "name": "Government Polytechnic Sirsa",
+        "type": "Public/Government",
+        "location": "Sirsa, Haryana - 125055",
+        "website": "https://gpsirsa.ac.in"
+      },
+      {
+        "id": 921,
+        "name": "AERP Institute of Technology & Management (Palwal)",
+        "type": "Private",
+        "location": "Palwal, Haryana - 121106",
+        "website": "https://www.aerp.co.in"
+      },
+      {
+        "id": 922,
+        "name": "Jind Institute of Engineering & Technology (JIET Jind)",
+        "type": "Private",
+        "location": "Jind, Haryana - 126102",
+        "website": "https://www.jietjind.ac.in"
+      },
+      {
+        "id": 923,
+        "name": "MD College of Polytechnic (Panipat)",
+        "type": "Private",
+        "location": "Panipat, Haryana - 132103",
+        "website": "https://www.mdpolytechnic.com"
+      },
+      {
+        "id": 924,
+        "name": "Om Institute of Polytechnic (Hisar)",
+        "type": "Private",
+        "location": "Hisar, Haryana - 125001",
+        "website": "https://ompolytechnic.omgroup.edu.in"
+      },
+      {
+        "id": 925,
+        "name": "JIPMER Puducherry - Jawaharlal Institute of Postgraduate Medical Education and Research",
+        "type": "Public/Government",
+        "location": "Gorimedu, Puducherry - 605006",
+        "website": "https://jipmer.edu.in"
+      },
+      {
+        "id": 926,
+        "name": "Alpha College of Engineering & Technology (Puducherry)",
+        "type": "Private",
+        "location": "Bahour, Puducherry - 607402",
+        "website": "https://www.alphacet.in"
+      },
+      {
+        "id": 927,
+        "name": "Pondicherry University (Central University)",
+        "type": "Public/Government",
+        "location": "Kalapet, Puducherry - 605014",
+        "website": "https://www.pondiuni.edu.in"
+      },
+      {
+        "id": 928,
+        "name": "Achariya College of Engineering Technology (Puducherry)",
+        "type": "Private",
+        "location": "Villianur, Puducherry - 605110",
+        "website": "https://acet.achariya.in"
+      },
+      {
+        "id": 929,
+        "name": "Sri Balaji Vidyapeeth (Deemed to be University, Puducherry)",
+        "type": "Private",
+        "location": "Pillaiyarkuppam, Puducherry - 607402",
+        "website": "https://sbvu.ac.in"
+      }
+    ]
   }
 ]

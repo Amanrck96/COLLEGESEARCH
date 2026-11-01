@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1250 / 12,660**  
-**Roadmap Progress**: **125.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1260 / 12,660**  
+**Roadmap Progress**: **126.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1884,4 +1884,19 @@
 | **917** | Lala Birkha Ram College of Pharmacy (Barwala Panchkula) | Private | Panchkula, Haryana - 134118 | [www.lbrpharmacycollege.com](https://www.lbrpharmacycollege.com) |
 | **918** | Government Post Graduate College, Sector-9, Gurgaon | Public/Government | Gurugram, Haryana - 122001 | [gcsector9gurugram.ac.in](https://gcsector9gurugram.ac.in) |
 | **919** | GVN Polytechnic College, Deeghot Palwal | Private | Palwal, Haryana - 121105 | [www.gvnpolytechnic.com](https://www.gvnpolytechnic.com) |
+
+### Batch 126 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **920** | Government Polytechnic Sirsa | Public/Government | Sirsa, Haryana - 125055 | [gpsirsa.ac.in](https://gpsirsa.ac.in) |
+| **921** | AERP Institute of Technology & Management (Palwal) | Private | Palwal, Haryana - 121106 | [www.aerp.co.in](https://www.aerp.co.in) |
+| **922** | Jind Institute of Engineering & Technology (JIET Jind) | Private | Jind, Haryana - 126102 | [www.jietjind.ac.in](https://www.jietjind.ac.in) |
+| **923** | MD College of Polytechnic (Panipat) | Private | Panipat, Haryana - 132103 | [www.mdpolytechnic.com](https://www.mdpolytechnic.com) |
+| **924** | Om Institute of Polytechnic (Hisar) | Private | Hisar, Haryana - 125001 | [ompolytechnic.omgroup.edu.in](https://ompolytechnic.omgroup.edu.in) |
+| **925** | JIPMER Puducherry - Jawaharlal Institute of Postgraduate Medical Education and Research | Public/Government | Gorimedu, Puducherry - 605006 | [jipmer.edu.in](https://jipmer.edu.in) |
+| **926** | Alpha College of Engineering & Technology (Puducherry) | Private | Bahour, Puducherry - 607402 | [www.alphacet.in](https://www.alphacet.in) |
+| **927** | Pondicherry University (Central University) | Public/Government | Kalapet, Puducherry - 605014 | [www.pondiuni.edu.in](https://www.pondiuni.edu.in) |
+| **928** | Achariya College of Engineering Technology (Puducherry) | Private | Villianur, Puducherry - 605110 | [acet.achariya.in](https://acet.achariya.in) |
+| **929** | Sri Balaji Vidyapeeth (Deemed to be University, Puducherry) | Private | Pillaiyarkuppam, Puducherry - 607402 | [sbvu.ac.in](https://sbvu.ac.in) |
 
