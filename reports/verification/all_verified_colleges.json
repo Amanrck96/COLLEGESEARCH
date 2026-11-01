@@ -8248,5 +8248,80 @@
         "website": "https://its.edu.in"
       }
     ]
+  },
+  {
+    "batch": 111,
+    "items": [
+      {
+        "id": 750,
+        "name": "Institute of Management Sciences, University of Lucknow (IMS Lucknow)",
+        "type": "Public/Government",
+        "location": "2ND CAMPUS UNIVERSITY OF LUCKNOW JANKIPUR PURAM",
+        "website": "https://www.lkouniv.ac.in/en/page/institute-of-management-sciences"
+      },
+      {
+        "id": 751,
+        "name": "Innovative College of Pharmacy (Knowledge Park II, Greater Noida)",
+        "type": "Private",
+        "location": "PLOT NO. 6, KNOWLEDGE PARK - II",
+        "website": "https://www.innovativepharmacy.in"
+      },
+      {
+        "id": 752,
+        "name": "University of Lucknow (LU Main Campus, Badshah Bagh, Lucknow)",
+        "type": "Public/Government",
+        "location": "Hasanganj, Acharya Narendra Dev Marg",
+        "website": "https://www.lkouniv.ac.in"
+      },
+      {
+        "id": 753,
+        "name": "United Institute of Medical Sciences (United Medicity, Prayagraj)",
+        "type": "Private",
+        "location": "Rawatpur, Near Prayagraj Airport",
+        "website": "https://www.unitedmedicity.com"
+      },
+      {
+        "id": 754,
+        "name": "Teerthanker Mahaveer University (TMU Moradabad)",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.tmu.ac.in"
+      },
+      {
+        "id": 755,
+        "name": "Amity University (Lucknow Campus, Gomti Nagar Extension)",
+        "type": "Private",
+        "location": "Malhaur (Near Railway Station), Post Office: Chinhut",
+        "website": "https://www.amity.edu/lucknow/"
+      },
+      {
+        "id": 756,
+        "name": "Emversity School of Hospitality & Allied Health Sciences, Bareilly",
+        "type": "Private",
+        "location": "opposite BSNL Telephone Tower, FCI Colony",
+        "website": "https://emversity.com"
+      },
+      {
+        "id": 757,
+        "name": "Integral University (Kursi Road, Lucknow)",
+        "type": "Private",
+        "location": "Bas-ha Kursi Road,",
+        "website": "https://www.iul.ac.in"
+      },
+      {
+        "id": 758,
+        "name": "IFTM University (Lodhipur Rajput, Moradabad)",
+        "type": "Private",
+        "location": "Lodhipur Rajput, Delhi Road NH-24",
+        "website": "https://www.iftmuniversity.ac.in"
+      },
+      {
+        "id": 759,
+        "name": "GLA University (NH-2, Chaumuhan, Mathura)",
+        "type": "Private",
+        "location": "P.O. Chaumuhan,",
+        "website": "https://www.gla.ac.in"
+      }
+    ]
   }
 ]

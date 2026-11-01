@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1100 / 12,660**  
-**Roadmap Progress**: **110.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1110 / 12,660**  
+**Roadmap Progress**: **111.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1659,4 +1659,19 @@
 | **747** | Kalka Institute for Research and Advanced Studies (KIRAS Meerut) | Private | PARTA PUR BYEPASS ROAD MEERUT | [kalka.org](https://kalka.org) |
 | **748** | Institute of Management Education (IME Ghaziabad, Sahibabad) | Private | 178, MAIN G.T. ROAD | [ime.in](https://ime.in) |
 | **749** | Institute of Technology and Science (I.T.S Mohan Nagar, Ghaziabad) | Private | GOODWILL BUILDING MAIN G.T ROAD MOHAN NAGAR GAHAZIABAD | [its.edu.in](https://its.edu.in) |
+
+### Batch 111 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **750** | Institute of Management Sciences, University of Lucknow (IMS Lucknow) | Public/Government | 2ND CAMPUS UNIVERSITY OF LUCKNOW JANKIPUR PURAM | [www.lkouniv.ac.in](https://www.lkouniv.ac.in/en/page/institute-of-management-sciences) |
+| **751** | Innovative College of Pharmacy (Knowledge Park II, Greater Noida) | Private | PLOT NO. 6, KNOWLEDGE PARK - II | [www.innovativepharmacy.in](https://www.innovativepharmacy.in) |
+| **752** | University of Lucknow (LU Main Campus, Badshah Bagh, Lucknow) | Public/Government | Hasanganj, Acharya Narendra Dev Marg | [www.lkouniv.ac.in](https://www.lkouniv.ac.in) |
+| **753** | United Institute of Medical Sciences (United Medicity, Prayagraj) | Private | Rawatpur, Near Prayagraj Airport | [www.unitedmedicity.com](https://www.unitedmedicity.com) |
+| **754** | Teerthanker Mahaveer University (TMU Moradabad) | Private | Uttar Pradesh, India | [www.tmu.ac.in](https://www.tmu.ac.in) |
+| **755** | Amity University (Lucknow Campus, Gomti Nagar Extension) | Private | Malhaur (Near Railway Station), Post Office: Chinhut | [www.amity.edu](https://www.amity.edu/lucknow/) |
+| **756** | Emversity School of Hospitality & Allied Health Sciences, Bareilly | Private | opposite BSNL Telephone Tower, FCI Colony | [emversity.com](https://emversity.com) |
+| **757** | Integral University (Kursi Road, Lucknow) | Private | Bas-ha Kursi Road, | [www.iul.ac.in](https://www.iul.ac.in) |
+| **758** | IFTM University (Lodhipur Rajput, Moradabad) | Private | Lodhipur Rajput, Delhi Road NH-24 | [www.iftmuniversity.ac.in](https://www.iftmuniversity.ac.in) |
+| **759** | GLA University (NH-2, Chaumuhan, Mathura) | Private | P.O. Chaumuhan, | [www.gla.ac.in](https://www.gla.ac.in) |
 
