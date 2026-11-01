@@ -2507,3 +2507,17 @@
 | 1368 | Mai Bhago Government Polytechnic College for Girls, Amritsar | Amritsar | Punjab | Public/Government | [https://mbgpc.in](https://mbgpc.in) |
 | 1369 | Sant Baba Attar Singh Government Polytechnic College, Badbar, Barnala | Barnala | Punjab | Public/Government | [https://gpcbadbar.org.in](https://gpcbadbar.org.in) |
 | 1370 | Adesh Polytechnic College, Muktsar | Muktsar | Punjab | Private | [https://adesh.in](https://adesh.in) |
+
+### Batch 168 (Colleges 1,671–1,680) — Punjab Government & Private Technical Institutions
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1371 | Lala Lajpat Rai Memorial Polytechnic College, Ajitwal, Moga | Moga | Punjab | Private | [https://llrmgoi.com](https://llrmgoi.com) |
+| 1372 | New Punjab Polytechnic College, Talwandi Sabo, Bathinda | Bathinda | Punjab | Private | [https://newpunjabpolytechnic.com](https://newpunjabpolytechnic.com) |
+| 1373 | Saint Kabir Polytechnic College, Fazilka | Fazilka | Punjab | Private | [https://saintkabirpolytechnic.com](https://saintkabirpolytechnic.com) |
+| 1374 | Satguru Ram Singh Government Polytechnic College, Ludhiana | Ludhiana | Punjab | Public/Government | [https://lpcldh.com](https://lpcldh.com) |
+| 1375 | Government Polytechnic College, Ferozepur | Ferozepur | Punjab | Public/Government | [https://gpcferozepur.org.in](https://gpcferozepur.org.in) |
+| 1376 | Doaba Institute of Engineering & Technology (DIET), Kharar, Mohali | Mohali | Punjab | Private | [https://www.dgc.edu.in](https://www.dgc.edu.in) |
+| 1377 | S.S.D. Women's Institute of Technology (SSDWIT), Bathinda | Bathinda | Punjab | Private | [https://ssdwit.ac.in](https://ssdwit.ac.in) |
+| 1378 | Ludhiana Group of Colleges - Polytechnic, Chowkimann, Ludhiana | Ludhiana | Punjab | Private | [http://lgc.edu.in](http://lgc.edu.in) |
+| 1379 | Maharaja Aggarsain Institute of Technology, Abohar | Fazilka | Punjab | Private | [https://maitabohar.com](https://maitabohar.com) |
+| 1380 | Vidya Rattan Polytechnic, Khokhar, Lehragaga, Sangrur | Sangrur | Punjab | Private | [https://www.vidyarattan.com](https://www.vidyarattan.com) |

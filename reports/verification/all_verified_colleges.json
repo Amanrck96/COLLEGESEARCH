@@ -12643,5 +12643,95 @@
     "type": "Private",
     "website": "https://adesh.in",
     "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1371,
+    "name": "Lala Lajpat Rai Memorial Polytechnic College, Ajitwal, Moga",
+    "location": "Moga",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://llrmgoi.com",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1372,
+    "name": "New Punjab Polytechnic College, Talwandi Sabo, Bathinda",
+    "location": "Bathinda",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://newpunjabpolytechnic.com",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1373,
+    "name": "Saint Kabir Polytechnic College, Fazilka",
+    "location": "Fazilka",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://saintkabirpolytechnic.com",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1374,
+    "name": "Satguru Ram Singh Government Polytechnic College, Ludhiana",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://lpcldh.com",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1375,
+    "name": "Government Polytechnic College, Ferozepur",
+    "location": "Ferozepur",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpcferozepur.org.in",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1376,
+    "name": "Doaba Institute of Engineering & Technology (DIET), Kharar, Mohali",
+    "location": "Mohali",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.dgc.edu.in",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1377,
+    "name": "S.S.D. Women's Institute of Technology (SSDWIT), Bathinda",
+    "location": "Bathinda",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://ssdwit.ac.in",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1378,
+    "name": "Ludhiana Group of Colleges - Polytechnic, Chowkimann, Ludhiana",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "http://lgc.edu.in",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1379,
+    "name": "Maharaja Aggarsain Institute of Technology, Abohar",
+    "location": "Fazilka",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://maitabohar.com",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1380,
+    "name": "Vidya Rattan Polytechnic, Khokhar, Lehragaga, Sangrur",
+    "location": "Sangrur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.vidyarattan.com",
+    "verifiedAt": "2026-11-01T19:19:33.759Z"
   }
 ]
