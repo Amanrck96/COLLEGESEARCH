@@ -1,0 +1,121 @@
+[
+  {
+    "id": 427,
+    "name": "THE MANDVI EDUCATION SOCIETY INSTITUTE OF COMPUTER STUDIES",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.themandvieducat.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 428,
+    "name": "SMT. R.S PATEL INSTITUTE OF DIPLOMA ENGINEERING",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.smtrspatelinsti.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 429,
+    "name": "D A DEGREE ENGINEERING AND TECHNOLOGY",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.joonsquare.com/usermanage/image/business/d-a-degree-engineering-and-technology-kheda-14215/d-a-degree-engineering-and-technology-kheda-d-a-degree-engineering-and-technology-1.jpg",
+    "website": "https://www.dadegreeenginee.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 431,
+    "name": "GIDC DEGREE ENGINERING COLLEGE",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.gidcdegreeengin.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 432,
+    "name": "GOVERNMENT POLYTECHNIC PALANPUR",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 433,
+    "name": "A. V. PAREKH TECHNICAL INSTITUTE",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://images.careerindia.com/college-photos/6845/01-main-building_1654511892.JPG",
+    "website": "https://www.avparekhtechnic.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 434,
+    "name": "GOVERNMENT POLYTECHNIC, DAHOD",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2024/March/1832024/Campus View of Government Polytechnic Dahod_Campus-View.png",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 435,
+    "name": "SAROJ MOHAN INSTITUTE OF TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/saroj-mohan-institute-of-technology-hooghly-294740.webp",
+    "website": "https://www.sarojmohaninsti.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "coursesCount": 1
+  },
+  {
+    "id": 436,
+    "name": "MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY WEST BENGAL",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.maulanaabulkala.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "coursesCount": 1
+  },
+  {
+    "id": 437,
+    "name": "The West Bengal National University of Juridical Sciences (WBNUJS Kolkata)",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/pibm_pune.webp",
+    "website": "https://www.nujs.edu",
+    "rating": 4.8,
+    "coursesCount": 1
+  }
+]

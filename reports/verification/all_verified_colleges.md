@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **820 / 12,660**  
-**Roadmap Progress**: **82.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **830 / 12,660**  
+**Roadmap Progress**: **83.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1239,4 +1239,19 @@
 | **424** | A. Y. Dadabhai Technical Institute (AYDTI Kosamba, Surat) | Private | KOSAMBA- MAHUVEJ ROAD, NEAR OLD MARIYAMBAI HOSPITAL | [aydti.ac.in](http://aydti.ac.in) |
 | **425** | Indo-German Tool Room (IGTR Ahmedabad) | Public/Government | GIDC VATVA, MEHMEDABAD ROAD | [www.igtrahd.com](https://www.igtrahd.com) |
 | **426** | Government Polytechnic, Kheda (GP Kheda) | Public/Government | DI.KHEDA, PIN.387120 | [gpkheda.ac.in](https://gpkheda.ac.in) |
+
+### Batch 83 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **427** | The Mandvi Education Society Institute of Computer Studies (TMESICS Mandvi, Surat) | Private | GUJARAT,394160 | [mandviedusociety.org](https://mandviedusociety.org) |
+| **428** | Smt. R. S. Patel Institute of Diploma Engineering (Shelavi, Patan) | Private | SHELAVI STATION, P.O PALASAR TAL. CHANSMA DIST. PATAN (N.G) | [srspide.org](http://srspide.org) |
+| **429** | D. A. Degree Engineering and Technology (DADET Mahemdavad, Kheda) | Private | HIRABA KELAVANI TRUST EDUCATION CAMPUS, NR KHATRAJ CHOKDI | [dadet.org](https://dadet.org) |
+| **431** | GIDC Degree Engineering College (GDEC Abrama, Navsari) | Public/Government | DISTRICT, NAVSARI | [gdec.in](https://gdec.in) |
+| **432** | Government Polytechnic, Palanpur (GP Palanpur, Banaskantha) | Public/Government | GOVERNMENT POLYTECHNIC PALANPUR OUTSIDE MALAN GATE AMBAJI ROAD | [gppalanpur.ac.in](https://gppalanpur.ac.in) |
+| **433** | A. V. Parekh Technical Institute (AVPTI Rajkot) | Public/Government | DR. YAGNIK ROAD OPP. HEMU GADHAVI HALL | [avpti.ac.in](https://avpti.ac.in) |
+| **434** | Government Polytechnic, Dahod (GP Dahod) | Public/Government | ZALOD ROAD, DAHOD-389151 | [gpdahod.ac.in](https://gpdahod.ac.in) |
+| **435** | Saroj Mohan Institute of Technology (SMIT Hooghly, West Bengal) | Private | BADHAGACHI, GUPTIPARA HOOGHLY PIN-712512 | [smitgp.edu.in](https://smitgp.edu.in) |
+| **436** | Maulana Abul Kalam Azad University of Technology (MAKAUT, West Bengal) | Public/Government | NH-12, | [makautwb.ac.in](https://makautwb.ac.in) |
+| **437** | The West Bengal National University of Juridical Sciences (WBNUJS Kolkata) | Public/Government | West Bengal, India | [www.nujs.edu](https://www.nujs.edu) |
 

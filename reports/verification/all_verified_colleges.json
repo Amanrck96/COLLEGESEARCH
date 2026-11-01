@@ -6148,5 +6148,80 @@
         "website": "https://gpkheda.ac.in"
       }
     ]
+  },
+  {
+    "batch": 83,
+    "items": [
+      {
+        "id": 427,
+        "name": "The Mandvi Education Society Institute of Computer Studies (TMESICS Mandvi, Surat)",
+        "type": "Private",
+        "location": "GUJARAT,394160",
+        "website": "https://mandviedusociety.org"
+      },
+      {
+        "id": 428,
+        "name": "Smt. R. S. Patel Institute of Diploma Engineering (Shelavi, Patan)",
+        "type": "Private",
+        "location": "SHELAVI STATION, P.O PALASAR TAL. CHANSMA DIST. PATAN (N.G)",
+        "website": "http://srspide.org"
+      },
+      {
+        "id": 429,
+        "name": "D. A. Degree Engineering and Technology (DADET Mahemdavad, Kheda)",
+        "type": "Private",
+        "location": "HIRABA KELAVANI TRUST EDUCATION CAMPUS, NR KHATRAJ CHOKDI",
+        "website": "https://dadet.org"
+      },
+      {
+        "id": 431,
+        "name": "GIDC Degree Engineering College (GDEC Abrama, Navsari)",
+        "type": "Public/Government",
+        "location": "DISTRICT, NAVSARI",
+        "website": "https://gdec.in"
+      },
+      {
+        "id": 432,
+        "name": "Government Polytechnic, Palanpur (GP Palanpur, Banaskantha)",
+        "type": "Public/Government",
+        "location": "GOVERNMENT POLYTECHNIC PALANPUR OUTSIDE MALAN GATE AMBAJI ROAD",
+        "website": "https://gppalanpur.ac.in"
+      },
+      {
+        "id": 433,
+        "name": "A. V. Parekh Technical Institute (AVPTI Rajkot)",
+        "type": "Public/Government",
+        "location": "DR. YAGNIK ROAD OPP. HEMU GADHAVI HALL",
+        "website": "https://avpti.ac.in"
+      },
+      {
+        "id": 434,
+        "name": "Government Polytechnic, Dahod (GP Dahod)",
+        "type": "Public/Government",
+        "location": "ZALOD ROAD, DAHOD-389151",
+        "website": "https://gpdahod.ac.in"
+      },
+      {
+        "id": 435,
+        "name": "Saroj Mohan Institute of Technology (SMIT Hooghly, West Bengal)",
+        "type": "Private",
+        "location": "BADHAGACHI, GUPTIPARA HOOGHLY PIN-712512",
+        "website": "https://smitgp.edu.in"
+      },
+      {
+        "id": 436,
+        "name": "Maulana Abul Kalam Azad University of Technology (MAKAUT, West Bengal)",
+        "type": "Public/Government",
+        "location": "NH-12,",
+        "website": "https://makautwb.ac.in"
+      },
+      {
+        "id": 437,
+        "name": "The West Bengal National University of Juridical Sciences (WBNUJS Kolkata)",
+        "type": "Public/Government",
+        "location": "West Bengal, India",
+        "website": "https://www.nujs.edu"
+      }
+    ]
   }
 ]

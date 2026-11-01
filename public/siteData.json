@@ -36299,14 +36299,14 @@
     },
     {
       "id": 427,
-      "name": "THE MANDVI EDUCATION SOCIETY INSTITUTE OF COMPUTER STUDIES",
+      "name": "The Mandvi Education Society Institute of Computer Studies (TMESICS Mandvi, Surat)",
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
       "address": "NEAR BUS STATION, AT & POST-MANDVI, DIST-SURAT,GUJARAT,394160",
-      "phone": "0123-456789",
-      "website": "https://www.themandvieducat.edu.in",
-      "rating": 4.5,
+      "phone": "02623-221085",
+      "website": "https://mandviedusociety.org",
+      "rating": 4,
       "reviews": 459,
       "type": "Private",
       "about": "Welcome to THE MANDVI EDUCATION SOCIETY INSTITUTE OF COMPUTER STUDIES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -36327,12 +36327,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 in any stream + VNSGU Centralized Admission",
+          "exams": "Merit",
+          "intake": "120"
+        },
+        {
+          "title": "B.Sc. in Information Technology (B.Sc. IT)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10+2 with Science/Math",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹20,000 Total",
+          "eligibility": "Graduation in any stream",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -36348,21 +36367,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/vjti_mumbai.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE%20MANDVI%20EDUCATION%20SOCIETY%20INSTITUTE%20OF%20COMPUTER%20STUDIES%20SURAT%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Surat",
+      "established": 2008
     },
     {
       "id": 428,
-      "name": "SMT. R.S PATEL INSTITUTE OF DIPLOMA ENGINEERING",
+      "name": "Smt. R. S. Patel Institute of Diploma Engineering (Shelavi, Patan)",
       "shortName": "Course Institute-1",
       "location": "PATAN",
       "state": "Gujarat",
       "address": "SHELAVI STATION, P.O PALASAR TAL. CHANSMA DIST. PATAN (N.G)",
-      "phone": "0123-456789",
-      "website": "https://www.smtrspatelinsti.edu.in",
-      "rating": 4.5,
+      "phone": "02766-261200",
+      "website": "http://srspide.org",
+      "rating": 3.9,
       "reviews": 133,
       "type": "Private",
       "about": "Welcome to SMT. R.S PATEL INSTITUTE OF DIPLOMA ENGINEERING, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -36382,12 +36403,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 90
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -36406,18 +36455,20 @@
       "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SMT.%20R.S%20PATEL%20INSTITUTE%20OF%20DIPLOMA%20ENGINEERING%20PATAN%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Patan",
+      "established": 2013
     },
     {
       "id": 429,
-      "name": "D A DEGREE ENGINEERING AND TECHNOLOGY",
+      "name": "D. A. Degree Engineering and Technology (DADET Mahemdavad, Kheda)",
       "shortName": "Course Institute-1",
       "location": "KHEDA",
       "state": "Gujarat",
       "address": "HIRABA KELAVANI TRUST EDUCATION CAMPUS, NR KHATRAJ CHOKDI",
-      "phone": "0123-456789",
-      "website": "https://www.dadegreeenginee.edu.in",
-      "rating": 4.5,
+      "phone": "02694-222300",
+      "website": "https://dadet.org",
+      "rating": 4.1,
       "reviews": 481,
       "type": "Private",
       "about": "Welcome to D A DEGREE ENGINEERING AND TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -36437,12 +36488,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -36460,7 +36539,9 @@
       ],
       "image": "https://www.joonsquare.com/usermanage/image/business/d-a-degree-engineering-and-technology-kheda-14215/d-a-degree-engineering-and-technology-kheda-d-a-degree-engineering-and-technology-1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=D%20A%20DEGREE%20ENGINEERING%20AND%20TECHNOLOGY%20KHEDA%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=D%20A%20DEGREE%20ENGINEERING%20AND%20TECHNOLOGY%20KHEDA%20Gujarat",
+      "city": "Kheda",
+      "established": 2014
     },
     {
       "id": 430,
@@ -36519,16 +36600,16 @@
     },
     {
       "id": 431,
-      "name": "GIDC DEGREE ENGINERING COLLEGE",
+      "name": "GIDC Degree Engineering College (GDEC Abrama, Navsari)",
       "shortName": "Course Institute-1",
       "location": "NAVSARI",
       "state": "Gujarat",
       "address": "BLOCK NO. 997, VILLAGE: ABRAMA, TALUKA: JALALPORE, DISTRICT, NAVSARI",
-      "phone": "0123-456789",
-      "website": "https://www.gidcdegreeengin.edu.in",
-      "rating": 4.5,
+      "phone": "02637-229040",
+      "website": "https://gdec.in",
+      "rating": 4.3,
       "reviews": 268,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GIDC DEGREE ENGINERING COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 64,
       "facebook": "#",
@@ -36546,12 +36627,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹61,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹61,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹61,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Electrical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹61,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -36567,23 +36676,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/saraswati_kharghar.webp",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GIDC%20DEGREE%20ENGINERING%20COLLEGE%20NAVSARI%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Navsari",
+      "established": 2012
     },
     {
       "id": 432,
-      "name": "GOVERNMENT POLYTECHNIC PALANPUR",
+      "name": "Government Polytechnic, Palanpur (GP Palanpur, Banaskantha)",
       "shortName": "Course Institute-1",
       "location": "BANASKANTHA",
       "state": "Gujarat",
       "address": "GOVERNMENT POLYTECHNIC PALANPUR OUTSIDE MALAN GATE AMBAJI ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "02742-262100",
+      "website": "https://gppalanpur.ac.in",
+      "rating": 4.2,
       "reviews": 81,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC PALANPUR, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 6,
       "facebook": "#",
@@ -36601,12 +36712,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC Gujarat (Tuition Free for Girls)",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -36622,23 +36761,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_coep_pune.png",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PALANPUR%20BANASKANTHA%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Banaskantha",
+      "established": 1984
     },
     {
       "id": 433,
-      "name": "A. V. PAREKH TECHNICAL INSTITUTE",
+      "name": "A. V. Parekh Technical Institute (AVPTI Rajkot)",
       "shortName": "Course Institute-1",
       "location": "RAJKOT",
       "state": "Gujarat",
       "address": "DR. YAGNIK ROAD OPP. HEMU GADHAVI HALL",
-      "phone": "0123-456789",
-      "website": "https://www.avparekhtechnic.edu.in",
-      "rating": 4.5,
+      "phone": "0281-2480175",
+      "website": "https://avpti.ac.in",
+      "rating": 4.4,
       "reviews": 186,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to A. V. PAREKH TECHNICAL INSTITUTE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 74,
       "facebook": "#",
@@ -36656,12 +36797,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER AIDED COSTUME DESIGN AND DRESS MAKING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC Gujarat (Tuition Free for Girls)",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Biomedical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electronics & Communication",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Instrumentation & Control",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -36679,20 +36848,22 @@
       ],
       "image": "https://images.careerindia.com/college-photos/6845/01-main-building_1654511892.JPG",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=A.%20V.%20PAREKH%20TECHNICAL%20INSTITUTE%20RAJKOT%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=A.%20V.%20PAREKH%20TECHNICAL%20INSTITUTE%20RAJKOT%20Gujarat",
+      "city": "Rajkot",
+      "established": 1948
     },
     {
       "id": 434,
-      "name": "GOVERNMENT POLYTECHNIC, DAHOD",
+      "name": "Government Polytechnic, Dahod (GP Dahod)",
       "shortName": "Course Institute-1",
       "location": "DAHOD",
       "state": "Gujarat",
       "address": "ZALOD ROAD, DAHOD-389151",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "02673-241500",
+      "website": "https://gpdahod.ac.in",
+      "rating": 4.2,
       "reviews": 246,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC, DAHOD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 8,
       "facebook": "#",
@@ -36710,12 +36881,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC Gujarat (Tuition Free for Girls)",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,500/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -36733,18 +36932,20 @@
       ],
       "image": "https://img.jagranjosh.com/images/2024/March/1832024/Campus View of Government Polytechnic Dahod_Campus-View.png",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2C%20DAHOD%20DAHOD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2C%20DAHOD%20DAHOD%20Gujarat",
+      "city": "Dahod",
+      "established": 1958
     },
     {
       "id": 435,
-      "name": "SAROJ MOHAN INSTITUTE OF TECHNOLOGY",
+      "name": "Saroj Mohan Institute of Technology (SMIT Hooghly, West Bengal)",
       "shortName": "Course Institute-1",
       "location": "HOOGHLY",
       "state": "West Bengal",
       "address": "BADHAGACHI, GUPTIPARA HOOGHLY PIN-712512",
-      "phone": "0123-456789",
-      "website": "https://www.sarojmohaninsti.edu.in",
-      "rating": 4.9,
+      "phone": "03213-261541",
+      "website": "https://smitgp.edu.in",
+      "rating": 4,
       "reviews": 983,
       "type": "Private",
       "about": "Welcome to SAROJ MOHAN INSTITUTE OF TECHNOLOGY, a premier institute located in HOOGHLY. We offer world-class education and facilities for our students.",
@@ -36763,13 +36964,40 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE / JEE Main",
+          "exams": "WBJEE, JEE Main",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Electronics & Communication",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil / Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -36791,20 +37019,22 @@
       "reviewsCount": 983,
       "image": "https://www.collegebatch.com/static/clg-gallery/saroj-mohan-institute-of-technology-hooghly-294740.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SAROJ%20MOHAN%20INSTITUTE%20OF%20TECHNOLOGY%20HOOGHLY%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SAROJ%20MOHAN%20INSTITUTE%20OF%20TECHNOLOGY%20HOOGHLY%20West%20Bengal",
+      "city": "Hooghly",
+      "established": 2003
     },
     {
       "id": 436,
-      "name": "MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY WEST BENGAL",
+      "name": "Maulana Abul Kalam Azad University of Technology (MAKAUT, West Bengal)",
       "shortName": "Course Institute-1",
       "location": "NADIA",
       "state": "West Bengal",
       "address": "NH-12,",
-      "phone": "0123-456789",
-      "website": "https://www.maulanaabulkala.edu.in",
-      "rating": 4.9,
+      "phone": "033-23210731",
+      "website": "https://makautwb.ac.in",
+      "rating": 4.5,
       "reviews": 698,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY WEST BENGAL, a premier institute located in NADIA. We offer world-class education and facilities for our students.",
       "ranking": 85,
       "facebook": "#",
@@ -36821,13 +37051,40 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 100,
-          "eligibility": "As per norms"
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "BCA / B.Sc with Math + WB JECA",
+          "exams": "JECA",
+          "intake": "60"
+        },
+        {
+          "title": "MBA in Business Analytics",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "Graduation (50%+) + JEMAT / CAT / MAT",
+          "exams": "JEMAT, CAT, MAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -36850,7 +37107,9 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAULANA%20ABUL%20KALAM%20AZAD%20UNIVERSITY%20OF%20TECHNOLOGY%20WEST%20BENGAL%20NADIA%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Nadia",
+      "established": 2001
     },
     {
       "id": 437,
@@ -36892,10 +37151,40 @@
       ],
       "courses": [
         {
-          "title": "BA LLB (Hons)",
+          "title": "B.A. LL.B. (Hons.)",
           "division": "Undergraduate",
           "duration": "5 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹2,75,000/Year",
+          "eligibility": "10+2 in any stream (45%+) + CLAT UG",
+          "exams": "CLAT",
+          "intake": "132"
+        },
+        {
+          "title": "B.Sc. LL.B. (Hons.)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹2,75,000/Year",
+          "eligibility": "10+2 with Science (45%+) + CLAT UG",
+          "exams": "CLAT",
+          "intake": "50"
+        },
+        {
+          "title": "Master of Laws (LL.M.)",
+          "division": "Postgraduate",
+          "duration": "1 Year",
+          "fees": "₹1,65,000 Total",
+          "eligibility": "LL.B. degree (50%+) + CLAT PG",
+          "exams": "CLAT PG",
+          "intake": "100"
+        },
+        {
+          "title": "Ph.D. in Law",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "Master degree in Law (55%+) + NUJS Entrance / UGC NET",
+          "exams": "NUJS RET, UGC NET",
+          "intake": "20"
         }
       ],
       "reviewsCount": 350,
@@ -36906,10 +37195,13 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
       "website": "https://www.nujs.edu",
-      "image": "/images/campuses/pibm_pune.webp",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=The%20West%20Bengal%20National%20University%20of%20Juridical%20Sciences%20(WBNUJS%20Kolkata)%20Salt%20Lake%2C%20Kolkata%20West%20Bengal",
       "map_url": "https://www.google.com/maps/search/?api=1&query=The%20West%20Bengal%20National%20University%20of%20Juridical%20Sciences%20(WBNUJS%20Kolkata)%20Salt%20Lake%2C%20Kolkata%20West%20Bengal",
-      "address": "Salt Lake, Kolkata, West Bengal, India"
+      "address": "Salt Lake, Kolkata, West Bengal, India",
+      "city": "Kolkata",
+      "phone": "033-23357379",
+      "established": 1999
     },
     {
       "id": 438,
