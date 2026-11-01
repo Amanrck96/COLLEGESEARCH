@@ -5623,5 +5623,80 @@
         "website": "https://pdeu.ac.in/school-of-technology"
       }
     ]
+  },
+  {
+    "batch": 76,
+    "items": [
+      {
+        "id": 341,
+        "name": "SRM Institute of Science and Technology (SRMIST Kattankulathur)",
+        "type": "Deemed",
+        "location": "Gujarat, India",
+        "website": "https://www.srmist.edu.in"
+      },
+      {
+        "id": 342,
+        "name": "SASTRA Deemed to be University, Thanjavur",
+        "type": "Deemed",
+        "location": "SASTRA Deemed University, Tirumalaisamudram",
+        "website": "https://www.sastra.edu"
+      },
+      {
+        "id": 343,
+        "name": "Kalasalingam Academy of Research and Education (KARE Virudhunagar)",
+        "type": "Deemed",
+        "location": "Krishnankoil,",
+        "website": "https://www.kalasalingam.ac.in"
+      },
+      {
+        "id": 344,
+        "name": "Mudra Institute of Communications, Ahmedabad (MICA Ahmedabad)",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://www.mica.ac.in"
+      },
+      {
+        "id": 345,
+        "name": "Chandigarh University Online (CU Online, Mohali)",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://onlinecu.in"
+      },
+      {
+        "id": 346,
+        "name": "P. P. Savani University, Surat",
+        "type": "Private",
+        "location": "Mangrol,Kosamba",
+        "website": "https://www.ppsu.ac.in"
+      },
+      {
+        "id": 347,
+        "name": "UPES Online - Centre for Continuing Education (Dehradun)",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://www.upesonline.ac.in"
+      },
+      {
+        "id": 348,
+        "name": "Birla Institute of Management Technology - Online (BIMTECH Online, Greater Noida)",
+        "type": "Private",
+        "location": "Knowledge Park II,",
+        "website": "https://bimtechonline.ac.in"
+      },
+      {
+        "id": 349,
+        "name": "Parul University Online, Vadodara",
+        "type": "Private",
+        "location": "P.O. Limda, Ta.Waghodia",
+        "website": "https://paruluniversity.online"
+      },
+      {
+        "id": 350,
+        "name": "Indian Institute of Materials Management (IIMM Ahmedabad)",
+        "type": "Private",
+        "location": "Gujarat, India",
+        "website": "https://www.iimm.org"
+      }
+    ]
   }
 ]

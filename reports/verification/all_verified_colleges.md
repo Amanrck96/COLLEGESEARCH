@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **750 / 12,660**  
-**Roadmap Progress**: **75.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **760 / 12,660**  
+**Roadmap Progress**: **76.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1134,4 +1134,19 @@
 | **338** | Indian Institute of Information Technology Surat (IIIT Surat) | Public/Government | Kholvad Campus, Kamrej | [www.iiitsurat.ac.in](https://www.iiitsurat.ac.in) |
 | **339** | Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT Gandhinagar) | Private | Dhirubhai Ambani University, DA-IICT Road | [www.daiict.ac.in](https://www.daiict.ac.in) |
 | **340** | School of Technology, Pandit Deendayal Energy University (SoT PDEU Gandhinagar) | Private | Knowledge Corridor, Raisan Village | [pdeu.ac.in](https://pdeu.ac.in/school-of-technology) |
+
+### Batch 76 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **341** | SRM Institute of Science and Technology (SRMIST Kattankulathur) | Deemed | Gujarat, India | [www.srmist.edu.in](https://www.srmist.edu.in) |
+| **342** | SASTRA Deemed to be University, Thanjavur | Deemed | SASTRA Deemed University, Tirumalaisamudram | [www.sastra.edu](https://www.sastra.edu) |
+| **343** | Kalasalingam Academy of Research and Education (KARE Virudhunagar) | Deemed | Krishnankoil, | [www.kalasalingam.ac.in](https://www.kalasalingam.ac.in) |
+| **344** | Mudra Institute of Communications, Ahmedabad (MICA Ahmedabad) | Private | Gujarat, India | [www.mica.ac.in](https://www.mica.ac.in) |
+| **345** | Chandigarh University Online (CU Online, Mohali) | Private | Gujarat, India | [onlinecu.in](https://onlinecu.in) |
+| **346** | P. P. Savani University, Surat | Private | Mangrol,Kosamba | [www.ppsu.ac.in](https://www.ppsu.ac.in) |
+| **347** | UPES Online - Centre for Continuing Education (Dehradun) | Private | Gujarat, India | [www.upesonline.ac.in](https://www.upesonline.ac.in) |
+| **348** | Birla Institute of Management Technology - Online (BIMTECH Online, Greater Noida) | Private | Knowledge Park II, | [bimtechonline.ac.in](https://bimtechonline.ac.in) |
+| **349** | Parul University Online, Vadodara | Private | P.O. Limda, Ta.Waghodia | [paruluniversity.online](https://paruluniversity.online) |
+| **350** | Indian Institute of Materials Management (IIMM Ahmedabad) | Private | Gujarat, India | [www.iimm.org](https://www.iimm.org) |
 

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 341,
+    "name": "SRM Institute of Science and Technology",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/gnims_matunga.png",
+    "website": "https://www.srmist.edu.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 342,
+    "name": "SASTRA (Deemed to be University), Thanjavur",
+    "state": "Gujarat",
+    "type": "Public/Government",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.sastra.edu/",
+    "phone": "04362264101",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 343,
+    "name": "Kalasalingam Academy of Research and Education, Virudhunagar",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.kalasalingam.ac.in/",
+    "phone": "917397760760 ",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 344,
+    "name": "MICA ,Shela, Ahmedabad",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.google.com/search?q=MICA%20%2CShela%2C%20Ahmedabad%20official%20website%20Gujarat%20Gujarat",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 345,
+    "name": "Chandigarh University Online",
+    "state": "Gujarat",
+    "type": "Public/Government",
+    "image": "/images/campuses/pibm_pune.webp",
+    "website": "https://www.cuchd.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 346,
+    "name": "P. P. Savani University, Surat",
+    "state": "Gujarat",
+    "type": "Public/Government",
+    "image": "https://www.ppsu.ac.in/img/banner1.jpg",
+    "website": "https://www.ppsu.ac.in/",
+    "phone": "9512035619",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 347,
+    "name": "UPES Online Admission",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.google.com/search?q=UPES%20Online%20Admission%20official%20website%20Gujarat%20Gujarat",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 348,
+    "name": "Birla Institute of Management Technology Online, Greater Noida",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.bimtech.ac.in",
+    "phone": "9355024501",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 349,
+    "name": "Parul University Online, Vadodara",
+    "state": "Gujarat",
+    "type": "Public/Government",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1599193361PuCampus.jpg",
+    "website": "https://paruluniversity.online/",
+    "phone": "18008899773",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 350,
+    "name": "Indian Institute of Materials Management, Ahmedabad",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.google.com/search?q=Indian%20Institute%20of%20Materials%20Management%2C%20Ahmedabad%20official%20website%20Gujarat%20Gujarat",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  }
+]
