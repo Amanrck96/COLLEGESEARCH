@@ -28450,14 +28450,14 @@
     },
     {
       "id": 331,
-      "name": "PANCHSHIL COLLEGE OF EDUCATION",
+      "name": "Panchshil College of Education, Rajkot",
       "shortName": "Course Institute-1",
       "location": "RAJKOT",
       "state": "Gujarat",
       "address": "AT. MAHIKA,NEAR AJI DAM, RAJKOT-BHAVNAGAR HIGHWAY,RAJKOT-360002",
-      "phone": "0123-456789",
-      "website": "https://www.panchshilcolleg.edu.in",
-      "rating": 4.7,
+      "phone": "0281-2384777",
+      "website": "https://panchshilschool.edu.in",
+      "rating": 4.1,
       "reviews": 381,
       "type": "Private",
       "about": "Welcome to PANCHSHIL COLLEGE OF EDUCATION, a premier institute located in RAJKOT. We offer world-class education and facilities for our students.",
@@ -28476,13 +28476,31 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 40,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Education (B.Ed.)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "Graduation with 50% + Saurashtra Univ B.Ed Admission",
+          "exams": "Saurashtra Univ Entrance",
+          "intake": "100"
+        },
+        {
+          "title": "Diploma in Elementary Education (D.El.Ed)",
+          "division": "Diploma",
+          "duration": "2 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with 50%",
+          "exams": "Merit",
+          "intake": "50"
+        },
+        {
+          "title": "Master of Education (M.Ed.)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "B.Ed degree with 50%",
+          "exams": "Merit",
+          "intake": "50"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -28504,17 +28522,19 @@
       "reviewsCount": 381,
       "image": "https://panchshilschool.edu.in/template/default/assets/images/school.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PANCHSHIL%20COLLEGE%20OF%20EDUCATION%20RAJKOT%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PANCHSHIL%20COLLEGE%20OF%20EDUCATION%20RAJKOT%20Gujarat",
+      "city": "Rajkot",
+      "established": 2005
     },
     {
       "id": 332,
-      "name": "PANDIT DEENDAYAL ENERGY UNIVERSITY",
+      "name": "Pandit Deendayal Energy University (PDEU Gandhinagar)",
       "shortName": "Course Institute-1",
       "location": "GANDHINAGAR",
       "state": "Gujarat",
       "address": "PANDIT DEENDAYAL PETROLEUM UNIVERSITY, RAISAN",
-      "phone": "0123-456789",
-      "website": "https://www.panditdeendayal.edu.in",
+      "phone": "079-23275060",
+      "website": "https://www.pdeu.ac.in",
       "rating": 4.6,
       "reviews": 924,
       "type": "Private",
@@ -28534,13 +28554,40 @@
       ],
       "courses": [
         {
-          "title": "PETROLEUM ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Petroleum Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "fees": "₹2,55,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / ACPC Gujarat",
+          "exams": "JEE Main, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Chemical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,55,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / ACPC",
+          "exams": "JEE Main, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "MBA in Energy and Infrastructure",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,80,000/Year",
+          "eligibility": "Graduation with 50% + CAT/XAT/NMAT",
+          "exams": "CAT, XAT, NMAT",
+          "intake": "120"
+        },
+        {
+          "title": "M.Tech in Energy Systems & Petroleum Technology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "B.Tech in relevant branch + GATE",
+          "exams": "GATE",
+          "intake": "36"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -28563,18 +28610,20 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PANDIT%20DEENDAYAL%20ENERGY%20UNIVERSITY%20GANDHINAGAR%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Gandhinagar",
+      "established": 2007
     },
     {
       "id": 333,
-      "name": "SHREE SWAMINARAYAN INSTITUTE OF TECHNOLOGY",
+      "name": "Shree Swaminarayan Institute of Technology (SSIT Gandhinagar)",
       "shortName": "Course Institute-1",
       "location": "GANDHINAGAR",
       "state": "Gujarat",
       "address": "NEAR EDI, BHAT CIRCLE, AHMEDABAD AIRPORT TO GANDHINAGAR HIGHWAY, BHAT, GANDHINAGAR",
-      "phone": "0123-456789",
-      "website": "https://www.shreeswaminaray.edu.in",
-      "rating": 4.6,
+      "phone": "079-23969131",
+      "website": "https://ssit.co.in",
+      "rating": 4.1,
       "reviews": 1450,
       "type": "Private",
       "about": "Welcome to SHREE SWAMINARAYAN INSTITUTE OF TECHNOLOGY, a premier institute located in GANDHINAGAR. We offer world-class education and facilities for our students.",
@@ -28593,13 +28642,40 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 30,
-          "eligibility": "As per norms"
+          "fees": "₹74,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹74,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹74,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -28619,24 +28695,26 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1450,
-      "image": "/images/campuses/primus_bangalore.jpg",
+      "image": "",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHREE%20SWAMINARAYAN%20INSTITUTE%20OF%20TECHNOLOGY%20GANDHINAGAR%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHREE%20SWAMINARAYAN%20INSTITUTE%20OF%20TECHNOLOGY%20GANDHINAGAR%20Gujarat",
+      "city": "Gandhinagar",
+      "established": 2014
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/msu-the-maharaja-sayajirao-university-of-baroda-vadodara-37071",
-      "name": "MSU",
+      "name": "The Maharaja Sayajirao University of Baroda (MSU Baroda)",
       "shortName": "M",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "The M. S. University of Baroda, Pratapgunj",
-      "phone": "02652795555",
+      "phone": "0265-2795555",
       "email": "info@msubaroda.ac.in",
-      "website": "http://www.msubaroda.ac.in/",
-      "rating": 4.5,
+      "website": "https://www.msubaroda.ac.in",
+      "rating": 4.7,
       "reviews": 157,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -28656,31 +28734,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.E. in Computer Science & Engineering (Faculty of Tech & Engg)",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
-        },
-        {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹12,500/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "Master of Business Administration (MBA - FMS Baroda)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation with 50% + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "Graduation with Math + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Com / B.A. / B.Sc Traditional Degree Programs",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹6,500/Year",
+          "eligibility": "10+2 in relevant discipline",
+          "exams": "Merit",
+          "intake": "1500"
         }
       ],
       "highestPackage": "₹16.42 LPA",
@@ -28709,22 +28796,24 @@
       "id": 334,
       "reviewsCount": 157,
       "image": "/images/campuses/campus_architecture_2.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MSU%20Gujarat%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MSU%20Gujarat%20Gujarat",
+      "city": "Vadodara",
+      "established": 1949
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/institute-of-technology-nirma-university-s-g-highway-ahmedabad-29753",
-      "name": "Institute of Technology, Nirma University, Ahmedabad",
+      "name": "Institute of Technology, Nirma University (ITNU Ahmedabad)",
       "shortName": "IOTNUA",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Institute of Technology, Nirma University, Gota",
-      "phone": "07971652585",
+      "phone": "079-71652585",
       "email": "ugadmissions.it@nirmauni.ac.in",
-      "website": "https://technology.nirmauni.ac.in/",
-      "rating": 4.5,
+      "website": "https://technology.nirmauni.ac.in",
+      "rating": 4.6,
       "reviews": 128,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -28744,48 +28833,48 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹2,15,000/Year",
+          "eligibility": "10+2 with PCM (60%+) + JEE Main / GUJCET",
+          "exams": "JEE Main, GUJCET",
+          "intake": "300"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Artificial Intelligence & Machine Learning",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹2,15,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main",
+          "exams": "JEE Main",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
-        },
-        {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
+          "title": "B.Tech in Electronics and Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,15,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / GUJCET",
+          "exams": "JEE Main, GUJCET",
           "intake": "180"
         },
         {
-          "title": "Executive MBA",
+          "title": "M.Tech in Computer Science & Engineering",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "2 Years",
+          "fees": "₹1,40,000/Year",
+          "eligibility": "B.Tech in CSE/IT + GATE",
+          "exams": "GATE",
+          "intake": "36"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,40,000/Year",
+          "eligibility": "BCA / B.Sc with Math + CMAT / ACPC",
+          "exams": "CMAT, ACPC",
           "intake": "60"
         }
       ],
@@ -28816,20 +28905,22 @@
       "id": 335,
       "reviewsCount": 128,
       "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/16255503481920x1285.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Institute%20of%20Technology%2C%20Nirma%20University%2C%20Ahmedabad%20Gujarat%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Institute%20of%20Technology%2C%20Nirma%20University%2C%20Ahmedabad%20Gujarat%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 1995
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/silver-oak-college-of-engineering-and-technology-socet-gota-ahmedabad-38270",
-      "name": "Silver Oak College of Engineering and Technology (SOCET), Ahmedabad",
+      "name": "Silver Oak College of Engineering and Technology (SOCET Ahmedabad)",
       "shortName": "SOCET",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Silver Oak University Block B,",
-      "phone": "9909002189",
+      "phone": "079-66046304",
       "email": "admission.shiksha@silveroakuni.ac.in",
-      "website": "https://silveroakuni.ac.in/faculty-of-technology_admission",
-      "rating": 4.5,
+      "website": "https://silveroakuni.ac.in",
+      "rating": 4.1,
       "reviews": 266,
       "type": "Private",
       "ownership": "Private",
@@ -28851,31 +28942,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹84,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "240"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹84,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET",
+          "exams": "GUJCET, ACPC",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Aeronautical Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹84,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET",
+          "exams": "GUJCET, ACPC",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "M.Tech in Cyber Security / Computer Engineering",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹90,000/Year",
+          "eligibility": "B.Tech in CSE/IT + GATE / ACPC",
+          "exams": "GATE, ACPC",
+          "intake": "36"
         }
       ],
       "highestPackage": "₹10 LPA",
@@ -28905,20 +29005,22 @@
       "id": 336,
       "reviewsCount": 266,
       "image": "https://www.collegebatch.com/static/clg-gallery/silver-oak-college-of-engineering-technology-ahmedabad-234078.webp",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Silver%20Oak%20College%20of%20Engineering%20and%20Technology%20(SOCET)%2C%20Ahmedabad%20Gujarat%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Silver%20Oak%20College%20of%20Engineering%20and%20Technology%20(SOCET)%2C%20Ahmedabad%20Gujarat%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 2009
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/sardar-vallabhbhai-national-institute-of-technology-surat-24414",
-      "name": "SVNIT Surat",
+      "name": "Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)",
       "shortName": "SS",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Gujarat, Gujarat, India",
-      "phone": "080-26597135",
+      "phone": "0261-2259571",
       "email": "admissions@ss.edu.in",
       "website": "https://www.svnit.ac.in",
-      "rating": 4.5,
+      "rating": 4.8,
       "reviews": 399,
       "type": "Public/Government",
       "ownership": "Government",
@@ -28940,31 +29042,49 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM (75%+) + JEE Main (JoSAA)",
+          "exams": "JEE Main",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Mechanical Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main (JoSAA)",
+          "exams": "JEE Main",
+          "intake": "120"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "B.Tech in Chemical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main (JoSAA)",
+          "exams": "JEE Main",
+          "intake": "90"
+        },
+        {
+          "title": "M.Tech in VLSI Design / Computer Engineering",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹85,000/Year",
+          "eligibility": "B.Tech degree + GATE (CCMT)",
+          "exams": "GATE",
+          "intake": "150"
+        },
+        {
+          "title": "Integrated M.Sc. in Physics / Chemistry / Mathematics",
+          "division": "Integrated",
+          "duration": "5 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with Science + JEE Main",
+          "exams": "JEE Main",
+          "intake": "90"
         }
       ],
       "highestPackage": "₹21 LPA",
@@ -28994,21 +29114,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 337,
       "reviewsCount": 399,
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SVNIT%20Surat%20Gujarat%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Surat",
+      "established": 1961
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/iiit-surat-indian-institute-of-information-technology-53849/compare",
-      "name": "IIIT Surat",
+      "name": "Indian Institute of Information Technology Surat (IIIT Surat)",
       "shortName": "IS",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Indian Institute of Information Technology, Kholvad Campus, Kamrej",
-      "phone": "02621298060",
+      "phone": "02621-298060",
       "email": "office@iiitsurat.ac.in",
-      "website": "http://www.iiitsurat.ac.in/",
+      "website": "https://www.iiitsurat.ac.in",
       "rating": 4.5,
       "reviews": 387,
       "type": "Public/Government",
@@ -29031,31 +29153,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering (CSE)",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,85,000/Year",
+          "eligibility": "10+2 with PCM (75%+) + JEE Main (JoSAA/CSAB)",
+          "exams": "JEE Main",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Electronics and Communication Engineering (ECE)",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹1,85,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main (JoSAA/CSAB)",
+          "exams": "JEE Main",
+          "intake": "75"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "title": "Ph.D. in Computer Science & Engineering",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "Master Degree in CSE/ECE + Written Test & PI",
+          "exams": "Interview",
+          "intake": "15"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -29080,20 +29202,22 @@
       "id": 338,
       "reviewsCount": 387,
       "image": "https://assets.collegedunia.com/public/image/IIIT_Surat_Campus_35812fe84390236dafd31d10b9172fb5.png",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIIT%20Surat%20Gujarat%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIIT%20Surat%20Gujarat%20Gujarat",
+      "city": "Surat",
+      "established": 2017
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/dhirubhai-ambani-institute-of-information-and-communication-technology-gandhinagar-36595",
-      "name": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar",
+      "name": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT Gandhinagar)",
       "shortName": "DAIOIA",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "Dhirubhai Ambani University, DA-IICT Road",
-      "phone": "07969080808",
+      "phone": "079-69080808",
       "email": "pg_admissions@dau.ac.in",
-      "website": "https://www.daiict.ac.in/",
-      "rating": 4.5,
+      "website": "https://www.daiict.ac.in",
+      "rating": 4.8,
       "reviews": 348,
       "type": "Private",
       "ownership": "Private",
@@ -29115,31 +29239,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Information and Communication Technology (ICT)",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹2,35,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / ACPC Gujarat",
+          "exams": "JEE Main, ACPC",
+          "intake": "300"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech (Honours in ICT with Minors in Computational Science)",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹2,35,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main",
+          "exams": "JEE Main",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "M.Sc. in Data Science",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,65,000/Year",
+          "eligibility": "Bachelor Degree with Math/Stats/CS + DA-IICT Test",
+          "exams": "DA-IICT Test",
+          "intake": "60"
+        },
+        {
+          "title": "M.Tech in Information and Communication Technology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "B.Tech/BE in relevant branch + GATE",
+          "exams": "GATE",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹19 LPA",
@@ -29168,24 +29301,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 339,
       "reviewsCount": 348,
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dhirubhai%20Ambani%20Institute%20of%20Information%20and%20Communication%20Technology%2C%20Gandhinagar%20Gujarat%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Gandhinagar",
+      "established": 2001
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/sot-pandit-deendayal-energy-university-pdeu-gandhinagar-40353",
-      "name": "SoT, Pandit Deendayal Energy University (PDEU), Gandhinagar",
+      "name": "School of Technology, Pandit Deendayal Energy University (SoT PDEU Gandhinagar)",
       "shortName": "PDEU",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
       "address": "PDEU Campus, Knowledge Corridor, Raisan Village",
-      "phone": "7567075527",
+      "phone": "079-23275060",
       "email": "btechadmission@pdpu.ac.in",
       "website": "https://pdeu.ac.in/school-of-technology",
       "rating": 4.5,
       "reviews": 182,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -29205,30 +29340,39 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹2,55,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / ACPC Gujarat",
+          "exams": "JEE Main, ACPC",
+          "intake": "240"
+        },
+        {
+          "title": "B.Tech in Information and Communication Technology (ICT)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,55,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main",
+          "exams": "JEE Main",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Civil Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹2,55,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / ACPC",
+          "exams": "JEE Main, ACPC",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "M.Tech in Data Science & Artificial Intelligence",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "B.Tech in CSE/IT + GATE",
+          "exams": "GATE",
           "intake": "30"
         }
       ],
@@ -29258,9 +29402,11 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 340,
       "reviewsCount": 182,
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SoT%2C%20Pandit%20Deendayal%20Energy%20University%20(PDEU)%2C%20Gandhinagar%20Gujarat%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Gandhinagar",
+      "established": 2010
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/srm-institute-of-science-and-technology-chennai-24749/admission",

@@ -5548,5 +5548,80 @@
         "website": "https://www.msubaroda.ac.in/Polytechnic"
       }
     ]
+  },
+  {
+    "batch": 75,
+    "items": [
+      {
+        "id": 331,
+        "name": "Panchshil College of Education, Rajkot",
+        "type": "Private",
+        "location": "RAJKOT-BHAVNAGAR HIGHWAY,RAJKOT-360002",
+        "website": "https://panchshilschool.edu.in"
+      },
+      {
+        "id": 332,
+        "name": "Pandit Deendayal Energy University (PDEU Gandhinagar)",
+        "type": "Private",
+        "location": "PANDIT DEENDAYAL PETROLEUM UNIVERSITY, RAISAN",
+        "website": "https://www.pdeu.ac.in"
+      },
+      {
+        "id": 333,
+        "name": "Shree Swaminarayan Institute of Technology (SSIT Gandhinagar)",
+        "type": "Private",
+        "location": "BHAT, GANDHINAGAR",
+        "website": "https://ssit.co.in"
+      },
+      {
+        "id": 334,
+        "name": "The Maharaja Sayajirao University of Baroda (MSU Baroda)",
+        "type": "Public/Government",
+        "location": "The M. S. University of Baroda, Pratapgunj",
+        "website": "https://www.msubaroda.ac.in"
+      },
+      {
+        "id": 335,
+        "name": "Institute of Technology, Nirma University (ITNU Ahmedabad)",
+        "type": "Private",
+        "location": "Nirma University, Gota",
+        "website": "https://technology.nirmauni.ac.in"
+      },
+      {
+        "id": 336,
+        "name": "Silver Oak College of Engineering and Technology (SOCET Ahmedabad)",
+        "type": "Private",
+        "location": "Silver Oak University Block B,",
+        "website": "https://silveroakuni.ac.in"
+      },
+      {
+        "id": 337,
+        "name": "Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)",
+        "type": "Public/Government",
+        "location": "Gujarat, India",
+        "website": "https://www.svnit.ac.in"
+      },
+      {
+        "id": 338,
+        "name": "Indian Institute of Information Technology Surat (IIIT Surat)",
+        "type": "Public/Government",
+        "location": "Kholvad Campus, Kamrej",
+        "website": "https://www.iiitsurat.ac.in"
+      },
+      {
+        "id": 339,
+        "name": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT Gandhinagar)",
+        "type": "Private",
+        "location": "Dhirubhai Ambani University, DA-IICT Road",
+        "website": "https://www.daiict.ac.in"
+      },
+      {
+        "id": 340,
+        "name": "School of Technology, Pandit Deendayal Energy University (SoT PDEU Gandhinagar)",
+        "type": "Private",
+        "location": "Knowledge Corridor, Raisan Village",
+        "website": "https://pdeu.ac.in/school-of-technology"
+      }
+    ]
   }
 ]

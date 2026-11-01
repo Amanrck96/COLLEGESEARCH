@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **740 / 12,660**  
-**Roadmap Progress**: **74.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **750 / 12,660**  
+**Roadmap Progress**: **75.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1119,4 +1119,19 @@
 | **326** | Netaji Subhas University of Technology - West Campus (NSUT West Campus Jaffarpur) | Public/Government | BEHIND RAO TULA RAM HOSPITAL JAFFARPUR DELHI-110073 | [www.nsut.ac.in](https://www.nsut.ac.in) |
 | **329** | National Institute of Design (NID Ahmedabad) | Public/Government | Gujarat, India | [www.nid.edu](https://www.nid.edu) |
 | **330** | Polytechnic, The Maharaja Sayajirao University of Baroda (MSU Baroda) | Public/Government | NEAR SHASTRI BRDIGE FATEHGUNJ | [www.msubaroda.ac.in](https://www.msubaroda.ac.in/Polytechnic) |
+
+### Batch 75 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **331** | Panchshil College of Education, Rajkot | Private | RAJKOT-BHAVNAGAR HIGHWAY,RAJKOT-360002 | [panchshilschool.edu.in](https://panchshilschool.edu.in) |
+| **332** | Pandit Deendayal Energy University (PDEU Gandhinagar) | Private | PANDIT DEENDAYAL PETROLEUM UNIVERSITY, RAISAN | [www.pdeu.ac.in](https://www.pdeu.ac.in) |
+| **333** | Shree Swaminarayan Institute of Technology (SSIT Gandhinagar) | Private | BHAT, GANDHINAGAR | [ssit.co.in](https://ssit.co.in) |
+| **334** | The Maharaja Sayajirao University of Baroda (MSU Baroda) | Public/Government | The M. S. University of Baroda, Pratapgunj | [www.msubaroda.ac.in](https://www.msubaroda.ac.in) |
+| **335** | Institute of Technology, Nirma University (ITNU Ahmedabad) | Private | Nirma University, Gota | [technology.nirmauni.ac.in](https://technology.nirmauni.ac.in) |
+| **336** | Silver Oak College of Engineering and Technology (SOCET Ahmedabad) | Private | Silver Oak University Block B, | [silveroakuni.ac.in](https://silveroakuni.ac.in) |
+| **337** | Sardar Vallabhbhai National Institute of Technology (SVNIT Surat) | Public/Government | Gujarat, India | [www.svnit.ac.in](https://www.svnit.ac.in) |
+| **338** | Indian Institute of Information Technology Surat (IIIT Surat) | Public/Government | Kholvad Campus, Kamrej | [www.iiitsurat.ac.in](https://www.iiitsurat.ac.in) |
+| **339** | Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT Gandhinagar) | Private | Dhirubhai Ambani University, DA-IICT Road | [www.daiict.ac.in](https://www.daiict.ac.in) |
+| **340** | School of Technology, Pandit Deendayal Energy University (SoT PDEU Gandhinagar) | Private | Knowledge Corridor, Raisan Village | [pdeu.ac.in](https://pdeu.ac.in/school-of-technology) |
 
