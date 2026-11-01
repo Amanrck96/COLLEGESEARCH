@@ -12733,5 +12733,95 @@
     "type": "Private",
     "website": "https://www.vidyarattan.com",
     "verifiedAt": "2026-11-01T19:19:33.759Z"
+  },
+  {
+    "id": 1381,
+    "name": "Government Polytechnic College, Patiala",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpcpatiala.ac.in",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1382,
+    "name": "Government Institute of Garment Technology (GIGT), Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gigtasr.org.in",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1383,
+    "name": "Regional Polytechnic College, Behman Diwana, Bathinda",
+    "location": "Bathinda",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.regionalinstitutes.com",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1384,
+    "name": "Khalsa College (ASR) of Technology and Business Studies, Mohali",
+    "location": "Mohali",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://kcmohali.org",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1385,
+    "name": "Tawi Engineering College, Shahpurkandi, Pathankot",
+    "location": "Pathankot",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://tawicolleges.com",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1386,
+    "name": "Government Polytechnic College, Dinanagar, Gurdaspur",
+    "location": "Gurdaspur",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpcdinanagar.ac.in",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1387,
+    "name": "R&D Centre for Bicycle & Sewing Machine, Ludhiana",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://rdcbicycle.org",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1388,
+    "name": "Satyam Polytechnic & Pharmacy College, Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://satyampolytechnic.com",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1389,
+    "name": "S.B.C.M.S. Institute of Technology, Mukerian, Hoshiarpur",
+    "location": "Hoshiarpur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://sbcmsinstitutes.com",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1390,
+    "name": "Dr. IT School of Business, Banur, Patiala",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://dritgoi.edu.in",
+    "verifiedAt": "2026-11-01T19:21:58.859Z"
   }
 ]

@@ -2521,3 +2521,17 @@
 | 1378 | Ludhiana Group of Colleges - Polytechnic, Chowkimann, Ludhiana | Ludhiana | Punjab | Private | [http://lgc.edu.in](http://lgc.edu.in) |
 | 1379 | Maharaja Aggarsain Institute of Technology, Abohar | Fazilka | Punjab | Private | [https://maitabohar.com](https://maitabohar.com) |
 | 1380 | Vidya Rattan Polytechnic, Khokhar, Lehragaga, Sangrur | Sangrur | Punjab | Private | [https://www.vidyarattan.com](https://www.vidyarattan.com) |
+
+### Batch 169 (Colleges 1,681–1,690) — Punjab Government & Private Technical Institutions
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1381 | Government Polytechnic College, Patiala | Patiala | Punjab | Public/Government | [https://gpcpatiala.ac.in](https://gpcpatiala.ac.in) |
+| 1382 | Government Institute of Garment Technology (GIGT), Amritsar | Amritsar | Punjab | Public/Government | [https://gigtasr.org.in](https://gigtasr.org.in) |
+| 1383 | Regional Polytechnic College, Behman Diwana, Bathinda | Bathinda | Punjab | Private | [https://www.regionalinstitutes.com](https://www.regionalinstitutes.com) |
+| 1384 | Khalsa College (ASR) of Technology and Business Studies, Mohali | Mohali | Punjab | Private | [https://kcmohali.org](https://kcmohali.org) |
+| 1385 | Tawi Engineering College, Shahpurkandi, Pathankot | Pathankot | Punjab | Private | [https://tawicolleges.com](https://tawicolleges.com) |
+| 1386 | Government Polytechnic College, Dinanagar, Gurdaspur | Gurdaspur | Punjab | Public/Government | [https://gpcdinanagar.ac.in](https://gpcdinanagar.ac.in) |
+| 1387 | R&D Centre for Bicycle & Sewing Machine, Ludhiana | Ludhiana | Punjab | Public/Government | [https://rdcbicycle.org](https://rdcbicycle.org) |
+| 1388 | Satyam Polytechnic & Pharmacy College, Amritsar | Amritsar | Punjab | Private | [https://satyampolytechnic.com](https://satyampolytechnic.com) |
+| 1389 | S.B.C.M.S. Institute of Technology, Mukerian, Hoshiarpur | Hoshiarpur | Punjab | Private | [https://sbcmsinstitutes.com](https://sbcmsinstitutes.com) |
+| 1390 | Dr. IT School of Business, Banur, Patiala | Patiala | Punjab | Private | [https://dritgoi.edu.in](https://dritgoi.edu.in) |
