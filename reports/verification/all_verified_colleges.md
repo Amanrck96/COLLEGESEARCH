@@ -2633,3 +2633,17 @@
 | 1458 | Lakshmi Narain College of Technology (LNCT), Bhopal | Bhopal | Madhya Pradesh | Private (Autonomous) | [Website](https://lnct.ac.in) |
 | 1459 | Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur | Jabalpur | Madhya Pradesh | Public/Government (Institute of National Importance) | [Website](https://www.iiitdmj.ac.in) |
 | 1460 | Vikrant University, Gwalior | Gwalior | Madhya Pradesh | Private (State Private University) | [Website](https://vikrantuniversity.ac.in) |
+
+### Batch 177 (Colleges 1,761–1,770, IDs: 1461–1470)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1461 | Amity University, Gwalior | Gwalior | Madhya Pradesh | Private (State Private University) | [Website](https://www.amity.edu/gwalior) |
+| 1462 | Maulana Azad National Institute of Technology (MANIT), Bhopal | Bhopal | Madhya Pradesh | Public/Government (Institute of National Importance) | [Website](https://www.manit.ac.in) |
+| 1463 | Idyllic Institute of Management, Indore | Rau, Indore | Madhya Pradesh | Private | [Website](https://idyllicinstituteofmanagement.com) |
+| 1464 | Shri Vaishnav Institute of Management (SVIM), Indore | Indore | Madhya Pradesh | Private (Autonomous) | [Website](https://www.svimi.org) |
+| 1465 | VIT Business School, Bhopal | Kothrikalan, Sehore / Bhopal | Madhya Pradesh | Private (Constituent of VIT Bhopal) | [Website](https://vitbhopal.ac.in) |
+| 1466 | Jiwaji University, Gwalior | Gwalior | Madhya Pradesh | Public/Government | [Website](https://www.jiwaji.edu) |
+| 1467 | Devi Ahilya Vishwavidyalaya (DAVV), Indore | Indore | Madhya Pradesh | Public/Government | [Website](https://www.dauniv.ac.in) |
+| 1468 | Indian Institute of Forest Management (IIFM), Bhopal | Bhopal | Madhya Pradesh | Public/Government (Autonomous Central Institute) | [Website](https://iifm.ac.in) |
+| 1469 | Jagran Lakecity University (JLU), Bhopal | Bhopal | Madhya Pradesh | Private (State Private University) | [Website](https://jlu.edu.in) |
+| 1470 | AKS University, Satna | Satna | Madhya Pradesh | Private (State Private University) | [Website](https://www.aksuniversity.ac.in) |
