@@ -11023,5 +11023,80 @@
         "website": "https://gpararia.ac.in"
       }
     ]
+  },
+  {
+    "batch": 148,
+    "items": [
+      {
+        "id": 1151,
+        "name": "B. P. Mandal College of Engineering, Madhepura",
+        "type": "Public/Government",
+        "location": "Dist- Madhepura, Bihar - 852128",
+        "website": "https://bpmce.ac.in"
+      },
+      {
+        "id": 1152,
+        "name": "Government Polytechnic of Textile Technology, Bhagalpur",
+        "type": "Public/Government",
+        "location": "Bhagalpur, Bihar - 812006",
+        "website": "https://gptextile.ac.in"
+      },
+      {
+        "id": 1153,
+        "name": "Government Engineering College, Munger",
+        "type": "Public/Government",
+        "location": "Munger, Bihar - 811201",
+        "website": "https://gecmunger.org"
+      },
+      {
+        "id": 1154,
+        "name": "Government Engineering College, Arwal",
+        "type": "Public/Government",
+        "location": "Arwal, Bihar - 804428",
+        "website": "https://gecarwal.ac.in"
+      },
+      {
+        "id": 1155,
+        "name": "Braj Kishor Narayan Singh Government Polytechnic, Gopalganj",
+        "type": "Public/Government",
+        "location": "Dist- Gopalganj, Bihar - 841409",
+        "website": "https://bknsgpgopalganj.ac.in"
+      },
+      {
+        "id": 1156,
+        "name": "Government Polytechnic, Madhepura",
+        "type": "Public/Government",
+        "location": "Dist- Madhepura, Bihar - 852213",
+        "website": "https://gpmadhepura.ac.in"
+      },
+      {
+        "id": 1157,
+        "name": "Girija Devi Polytechnic College, Bhojpur",
+        "type": "Private",
+        "location": "District - Bhojpur, Bihar - 802152",
+        "website": "https://girijadevipolytechnic.com"
+      },
+      {
+        "id": 1158,
+        "name": "Government Polytechnic, Sheikhpura",
+        "type": "Public/Government",
+        "location": "District - Sheikhpura, Bihar - 811103",
+        "website": "https://gpsheikhpura.in"
+      },
+      {
+        "id": 1159,
+        "name": "Government Polytechnic, Bhojpur",
+        "type": "Public/Government",
+        "location": "District - Bhojpur, Bihar - 802158",
+        "website": "https://gpbhojpur.ac.in"
+      },
+      {
+        "id": 1160,
+        "name": "Government Engineering College, Buxar",
+        "type": "Public/Government",
+        "location": "Buxar, Bihar - 802103",
+        "website": "https://gecbuxar.ac.in"
+      }
+    ]
   }
 ]

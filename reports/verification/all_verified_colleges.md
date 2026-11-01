@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1470 / 12,660**  
-**Roadmap Progress**: **147.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1480 / 12,660**  
+**Roadmap Progress**: **148.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2214,4 +2214,19 @@
 | **1148** | College of Commerce, Arts & Science, Patna | Public/Government | Patna, Bihar - 800020 | [cocaspatna.ac.in](https://cocaspatna.ac.in) |
 | **1149** | Government Engineering College, Sheikhpura | Public/Government | District Sheikhpura, Bihar - 811105 | [www.gecsheikhpura.org.in](https://www.gecsheikhpura.org.in) |
 | **1150** | Government Polytechnic, Araria | Public/Government | District Araria, Bihar - 854311 | [gpararia.ac.in](https://gpararia.ac.in) |
+
+### Batch 148 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1151** | B. P. Mandal College of Engineering, Madhepura | Public/Government | Dist- Madhepura, Bihar - 852128 | [bpmce.ac.in](https://bpmce.ac.in) |
+| **1152** | Government Polytechnic of Textile Technology, Bhagalpur | Public/Government | Bhagalpur, Bihar - 812006 | [gptextile.ac.in](https://gptextile.ac.in) |
+| **1153** | Government Engineering College, Munger | Public/Government | Munger, Bihar - 811201 | [gecmunger.org](https://gecmunger.org) |
+| **1154** | Government Engineering College, Arwal | Public/Government | Arwal, Bihar - 804428 | [gecarwal.ac.in](https://gecarwal.ac.in) |
+| **1155** | Braj Kishor Narayan Singh Government Polytechnic, Gopalganj | Public/Government | Dist- Gopalganj, Bihar - 841409 | [bknsgpgopalganj.ac.in](https://bknsgpgopalganj.ac.in) |
+| **1156** | Government Polytechnic, Madhepura | Public/Government | Dist- Madhepura, Bihar - 852213 | [gpmadhepura.ac.in](https://gpmadhepura.ac.in) |
+| **1157** | Girija Devi Polytechnic College, Bhojpur | Private | District - Bhojpur, Bihar - 802152 | [girijadevipolytechnic.com](https://girijadevipolytechnic.com) |
+| **1158** | Government Polytechnic, Sheikhpura | Public/Government | District - Sheikhpura, Bihar - 811103 | [gpsheikhpura.in](https://gpsheikhpura.in) |
+| **1159** | Government Polytechnic, Bhojpur | Public/Government | District - Bhojpur, Bihar - 802158 | [gpbhojpur.ac.in](https://gpbhojpur.ac.in) |
+| **1160** | Government Engineering College, Buxar | Public/Government | Buxar, Bihar - 802103 | [gecbuxar.ac.in](https://gecbuxar.ac.in) |
 

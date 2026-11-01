@@ -1,20 +1,30 @@
 const fs = require('fs');
+const path = require('path');
 
-const progress = JSON.parse(fs.readFileSync('reports/verification/progress.json', 'utf8'));
-const completedSet = new Set(progress.completed_ids);
-const data = JSON.parse(fs.readFileSync('public/siteData.json', 'utf8'));
-const colleges = Array.isArray(data) ? data : data.colleges;
-const unverified = colleges.filter(c => !completedSet.has(c.id));
+const batchNum = process.argv[2] ? parseInt(process.argv[2], 10) : 128;
+const count = process.argv[3] ? parseInt(process.argv[3], 10) : 10;
 
-console.log('Total unverified:', unverified.length);
-console.log('Current verified count:', progress.completed_ids.length);
+const siteDataPath = path.join(__dirname, '..', 'public', 'siteData.json');
+const progressPath = path.join(__dirname, '..', 'reports', 'verification', 'progress.json');
 
-const next10 = unverified.slice(0, 10);
-console.log('\nNext 10 candidates (Batch ' + (progress.current_batch + 1) + '):');
-next10.forEach((c, idx) => {
-  console.log(`${idx + 1}. ID: ${c.id} | ${c.name} | City: ${c.city || 'N/A'}, State: ${c.state || 'N/A'} | Type: ${c.type} | Web: ${c.website} | Phone: ${c.phone}`);
+const siteData = JSON.parse(fs.readFileSync(siteDataPath, 'utf8'));
+const progress = JSON.parse(fs.readFileSync(progressPath, 'utf8'));
+const completedSet = new Set(progress.completed_ids.map(Number));
+const collegeList = Array.isArray(siteData) ? siteData : siteData.colleges;
+
+const candidates = [];
+for (const c of collegeList) {
+  if (!completedSet.has(Number(c.id))) {
+    candidates.push(c);
+    if (candidates.length === count) break;
+  }
+}
+
+console.log(`Extracted ${candidates.length} candidates for Batch ${batchNum}:`);
+candidates.forEach((c, idx) => {
+  console.log(`${idx + 1}. ID: ${c.id} | Name: ${c.name} | City: ${c.city} | State: ${c.state} | Type: ${c.type} | Web: ${c.website}`);
 });
 
-fs.writeFileSync(`reports/verification/batch-${progress.current_batch + 1}-candidates.json`, JSON.stringify(next10, null, 2));
-console.log(`\nSaved candidates to reports/verification/batch-${progress.current_batch + 1}-candidates.json`);
-
+const outPath = path.join(__dirname, '..', 'reports', 'verification', `batch-${batchNum}-candidates.json`);
+fs.writeFileSync(outPath, JSON.stringify(candidates, null, 2), 'utf8');
+console.log(`Saved candidates to ${outPath}`);
