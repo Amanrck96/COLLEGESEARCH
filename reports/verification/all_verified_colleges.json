@@ -7723,5 +7723,80 @@
         "website": "https://vptc.edu.in"
       }
     ]
+  },
+  {
+    "batch": 104,
+    "items": [
+      {
+        "id": 674,
+        "name": "Sri Krishna Polytechnic College (Madurai Main Road, Batlagundu, Dindigul)",
+        "type": "Private",
+        "location": "MADURAI MAINROAD, BATLAGUNDU",
+        "website": "http://srikrishnapolytechnic.in"
+      },
+      {
+        "id": 676,
+        "name": "PSG College of Arts and Science (Autonomous, Coimbatore)",
+        "type": "Private",
+        "location": "CIVIL AERODROME POST, AVINASHI ROAD",
+        "website": "https://www.psgcas.ac.in"
+      },
+      {
+        "id": 677,
+        "name": "Apollo Arts and Science College (Guduvanchery, Chennai)",
+        "type": "Private",
+        "location": "KALVOY VILLAGE, GUDUVANCHERY",
+        "website": "https://apolloartsandscience.ac.in"
+      },
+      {
+        "id": 678,
+        "name": "Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (SCSVMV Deemed to be University, Kanchipuram)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://kanchiuniv.ac.in"
+      },
+      {
+        "id": 679,
+        "name": "Karpagam Faculty of Medical Sciences and Research (Othakkalmandapam, Coimbatore)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://karpagammedicalcollege.edu.in"
+      },
+      {
+        "id": 680,
+        "name": "Annamalai University (Annamalainagar, Chidambaram)",
+        "type": "Public/Government",
+        "location": "Annamalai University, Annamalainagar",
+        "website": "https://annamalaiuniversity.ac.in"
+      },
+      {
+        "id": 681,
+        "name": "Dhanalakshmi Srinivasan University (DSU, Samayapuram, Tiruchirappalli)",
+        "type": "Private",
+        "location": "Trichy Chennai Trunk Road, Samayapuram (Near Samayapuram Toll Plaza)",
+        "website": "https://www.dsuniversity.ac.in"
+      },
+      {
+        "id": 682,
+        "name": "Takshashila University (Ongur, Tindivanam, Villupuram)",
+        "type": "Private",
+        "location": "Takshashila University, Ongur Tindivanam Taluk",
+        "website": "https://www.takshashilauniv.ac.in"
+      },
+      {
+        "id": 683,
+        "name": "SRM Institute of Science and Technology, Tiruchirappalli Campus (SRMIST Trichy)",
+        "type": "Private",
+        "location": "SRM Nagar Trichy – Chennai Highways, near Samayapuram",
+        "website": "https://ist.srmtrichy.edu.in"
+      },
+      {
+        "id": 684,
+        "name": "Chettinad Academy of Research and Education (CARE Deemed University, Kelambakkam, Chennai)",
+        "type": "Private",
+        "location": "Rajiv Gandhi Salai, Chengalpattu District",
+        "website": "https://care.edu.in"
+      }
+    ]
   }
 ]

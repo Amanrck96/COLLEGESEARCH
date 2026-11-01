@@ -1,0 +1,282 @@
+[
+  {
+    "id": 674,
+    "name": "SRI KRISHNA POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.srikrishnapolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "name": "PSG COLLEGE OF ARTS AND SCIENCE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.psgcollegeofart.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "name": "APOLLO ARTS AND SCIENCE COLLEGE CHENNAI",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/apollo-arts-science-college-kanchipuram-260110.webp",
+    "website": "https://www.apolloartsandsc.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 100,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "name": "SCSVMV Kanchi University",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.google.com/search?q=SCSVMV%20Kanchi%20University%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/sri-chandrasekharendra-saraswathi-viswa-mahavidyalaya-chennai-36961",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "name": "Karpagam Faculty of Medical Sciences and Research",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.google.com/search?q=Karpagam%20Faculty%20of%20Medical%20Sciences%20and%20Research%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/karpagam-faculty-of-medical-sciences-and-research-coimbatore-69851",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "name": "Annamalai University, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://annamalaiuniversity.ac.in/",
+    "phone": "4144238263",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/annamalai-university-tamil-nadu-other-25297",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "name": "Dhanalakshmi Srinivasan University, Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.dsuniversity.ac.in/",
+    "phone": "7094458021",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/dhanalakshmi-srinivasan-university-tiruchirappalli-153053",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "name": "Takshashila University, Villupuram",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.takshashilauniv.ac.in/",
+    "phone": "9297623456",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/takshashila-university-villupuram-211837",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 683,
+    "name": "SRM Institute of Science and Technology, Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.srmist.edu.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/srm-institute-of-science-and-technology-tiruchirappalli-153369",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 684,
+    "name": "Chettinad Academy of Research and Education, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://care.edu.in/",
+    "phone": "8447892022",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/chettinad-academy-of-research-and-education-kelambakkam-chennai-24779",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  }
+]

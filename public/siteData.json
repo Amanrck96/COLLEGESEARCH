@@ -56992,14 +56992,14 @@
     },
     {
       "id": 674,
-      "name": "SRI KRISHNA POLYTECHNIC COLLEGE",
+      "name": "Sri Krishna Polytechnic College (Madurai Main Road, Batlagundu, Dindigul)",
       "shortName": "Course Institute-1",
       "location": "DINDIGUL",
       "state": "Tamil Nadu",
       "address": "MADURAI MAINROAD, BATLAGUNDU",
-      "phone": "0123-456789",
-      "website": "https://www.srikrishnapolyt.edu.in",
-      "rating": 4.6,
+      "phone": "04543-262222",
+      "website": "http://srikrishnapolytechnic.in",
+      "rating": 4,
       "reviews": 1591,
       "type": "Private",
       "about": "Welcome to SRI KRISHNA POLYTECHNIC COLLEGE, a premier institute located in DINDIGUL. We offer world-class education and facilities for our students.",
@@ -57018,13 +57018,34 @@
       ],
       "courses": [
         {
-          "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -57046,7 +57067,9 @@
       "reviewsCount": 1591,
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20KRISHNA%20POLYTECHNIC%20COLLEGE%20DINDIGUL%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20KRISHNA%20POLYTECHNIC%20COLLEGE%20DINDIGUL%20Tamil%20Nadu",
+      "city": "Dindigul",
+      "established": 2009
     },
     {
       "id": 675,
@@ -57110,14 +57133,14 @@
     },
     {
       "id": 676,
-      "name": "PSG COLLEGE OF ARTS AND SCIENCE",
+      "name": "PSG College of Arts and Science (Autonomous, Coimbatore)",
       "shortName": "Course Institute-1",
       "location": "COIMBATORE",
       "state": "Tamil Nadu",
       "address": "CIVIL AERODROME POST, AVINASHI ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.psgcollegeofart.edu.in",
-      "rating": 4.6,
+      "phone": "0422-4303300",
+      "website": "https://www.psgcas.ac.in",
+      "rating": 4.8,
       "reviews": 1134,
       "type": "Private",
       "about": "Welcome to PSG COLLEGE OF ARTS AND SCIENCE, a premier institute located in COIMBATORE. We offer world-class education and facilities for our students.",
@@ -57136,13 +57159,54 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (50%+)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "B.Sc in Computer Science",
+          "title": "B.Sc in Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10+2 with Commerce/Maths",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation with Maths + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "Graduation (50%+) + TANCET / MAT",
+          "exams": "TANCET, MAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -57164,18 +57228,20 @@
       "reviewsCount": 1134,
       "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PSG%20COLLEGE%20OF%20ARTS%20AND%20SCIENCE%20COIMBATORE%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PSG%20COLLEGE%20OF%20ARTS%20AND%20SCIENCE%20COIMBATORE%20Tamil%20Nadu",
+      "city": "Coimbatore",
+      "established": 1947
     },
     {
       "id": 677,
-      "name": "APOLLO ARTS AND SCIENCE COLLEGE CHENNAI",
+      "name": "Apollo Arts and Science College (Guduvanchery, Chennai)",
       "shortName": "Course Institute-1",
       "location": "KANCHIPURAM",
       "state": "Tamil Nadu",
       "address": "NELIKUPPAM MAIN ROAD, KALVOY VILLAGE, GUDUVANCHERY",
-      "phone": "0123-456789",
-      "website": "https://www.apolloartsandsc.edu.in",
-      "rating": 4.6,
+      "phone": "044-27464000",
+      "website": "https://apolloartsandscience.ac.in",
+      "rating": 4.1,
       "reviews": 691,
       "type": "Private",
       "about": "Welcome to APOLLO ARTS AND SCIENCE COLLEGE CHENNAI, a premier institute located in KANCHIPURAM. We offer world-class education and facilities for our students.",
@@ -57194,13 +57260,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 100,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "100"
+        },
+        {
+          "name": "B.Sc in Computer Science",
+          "title": "B.Sc in Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with Science/Maths",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10+2 with Commerce",
+          "exams": "Merit Based",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -57222,22 +57319,24 @@
       "reviewsCount": 691,
       "image": "https://www.collegebatch.com/static/clg-gallery/apollo-arts-science-college-kanchipuram-260110.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=APOLLO%20ARTS%20AND%20SCIENCE%20COLLEGE%20CHENNAI%20KANCHIPURAM%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=APOLLO%20ARTS%20AND%20SCIENCE%20COLLEGE%20CHENNAI%20KANCHIPURAM%20Tamil%20Nadu",
+      "city": "Kanchipuram",
+      "established": 2005
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/sri-chandrasekharendra-saraswathi-viswa-mahavidyalaya-chennai-36961",
-      "name": "SCSVMV Kanchi University",
+      "name": "Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (SCSVMV Deemed to be University, Kanchipuram)",
       "shortName": "SKU",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "044-27264301",
       "email": "admissions@sku.edu.in",
-      "website": "https://www.google.com/search?q=SCSVMV%20Kanchi%20University%20official%20website%20Tamil%20Tamil%20Nadu",
-      "rating": 4.5,
+      "website": "https://kanchiuniv.ac.in",
+      "rating": 4.4,
       "reviews": 90,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -57257,22 +57356,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 with PCM + SCSVMV EEE / JEE Main",
+          "exams": "SCSVMV EEE, JEE Main",
+          "intake": "180"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "B.Tech in CSE (Artificial Intelligence and Data Science)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Data Science)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 with PCM + Entrance",
+          "exams": "SCSVMV EEE",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Ayurvedic Medicine and Surgery (BAMS)",
+          "title": "Bachelor of Ayurvedic Medicine and Surgery (BAMS)",
+          "division": "Undergraduate Medical",
+          "duration": "5.5 Years",
+          "fees": "₹2,50,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / ATMA",
+          "exams": "CAT, MAT, ATMA",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "BCA / B.Sc with Maths",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -57302,19 +57433,21 @@
       "reviewsCount": 90,
       "image": "/images/campuses/campus_architecture_4.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCSVMV%20Kanchi%20University%20Tamil%20Tamil%20Nadu",
-      "imageUrl": "/images/campuses/rathinam_campus.jpg"
+      "imageUrl": "/images/campuses/rathinam_campus.jpg",
+      "city": "Kanchipuram",
+      "established": 1993
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/karpagam-faculty-of-medical-sciences-and-research-coimbatore-69851",
-      "name": "Karpagam Faculty of Medical Sciences and Research",
+      "name": "Karpagam Faculty of Medical Sciences and Research (Othakkalmandapam, Coimbatore)",
       "shortName": "KFOMSA",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Tamil, Tamil Nadu, India",
-      "phone": "080-26597135",
+      "phone": "0422-6452888",
       "email": "admissions@kfomsa.edu.in",
-      "website": "https://www.google.com/search?q=Karpagam%20Faculty%20of%20Medical%20Sciences%20and%20Research%20official%20website%20Tamil%20Tamil%20Nadu",
+      "website": "https://karpagammedicalcollege.edu.in",
       "rating": 4.5,
       "reviews": 464,
       "type": "Private",
@@ -57337,22 +57470,44 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
+          "fees": "₹12,50,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
           "intake": "150"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "MD in General Medicine",
+          "title": "MD in General Medicine",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹15,00,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "8"
+        },
+        {
+          "name": "MS in General Surgery",
+          "title": "MS in General Surgery",
+          "division": "Postgraduate",
+          "duration": "3 Years",
+          "fees": "₹15,00,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "6"
+        },
+        {
+          "name": "B.Sc in Medical Laboratory Technology",
+          "title": "B.Sc in Medical Laboratory Technology",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with Science (PCB)",
+          "exams": "Merit Based",
+          "intake": "20"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -57377,19 +57532,21 @@
       "id": 679,
       "reviewsCount": 464,
       "image": "/images/campuses/campus_architecture_5.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Karpagam%20Faculty%20of%20Medical%20Sciences%20and%20Research%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Karpagam%20Faculty%20of%20Medical%20Sciences%20and%20Research%20Tamil%20Tamil%20Nadu",
+      "city": "Coimbatore",
+      "established": 2012
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/annamalai-university-tamil-nadu-other-25297",
-      "name": "Annamalai University, Tamil Nadu",
+      "name": "Annamalai University (Annamalainagar, Chidambaram)",
       "shortName": "AUTN",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "The Registrar, Annamalai University, Annamalainagar",
-      "phone": "4144238263",
+      "phone": "04144-238282",
       "email": "auadmissions2022@gmail.com",
-      "website": "https://annamalaiuniversity.ac.in/",
+      "website": "https://annamalaiuniversity.ac.in",
       "rating": 4.5,
       "reviews": 456,
       "type": "Public/Government",
@@ -57412,22 +57569,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
+          "fees": "₹5,54,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
           "intake": "150"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "B.E. in Computer Science and Engineering",
+          "title": "B.E. in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.Sc (Hons) in Agriculture",
+          "title": "B.Sc (Hons) in Agriculture",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with PCB/PCM",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "Graduation (50%+) + TANCET",
+          "exams": "TANCET",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "BCA / B.Sc with Maths + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -57453,22 +57642,24 @@
       "id": 680,
       "reviewsCount": 456,
       "image": "/images/campuses/campus_architecture_6.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Annamalai%20University%2C%20Tamil%20Nadu%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Annamalai%20University%2C%20Tamil%20Nadu%20Tamil%20Tamil%20Nadu",
+      "city": "Cuddalore",
+      "established": 1929
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/dhanalakshmi-srinivasan-university-tiruchirappalli-153053",
-      "name": "Dhanalakshmi Srinivasan University, Tiruchirappalli",
+      "name": "Dhanalakshmi Srinivasan University (DSU, Samayapuram, Tiruchirappalli)",
       "shortName": "DSUT",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "NH-45, Trichy Chennai Trunk Road, Samayapuram (Near Samayapuram Toll Plaza)",
-      "phone": "7094458021",
+      "phone": "0431-2670142",
       "email": "enquiry@dsuniversity.ac.in",
-      "website": "https://www.dsuniversity.ac.in/",
-      "rating": 4.5,
+      "website": "https://www.dsuniversity.ac.in",
+      "rating": 4.4,
       "reviews": 411,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -57488,22 +57679,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
+          "fees": "₹13,50,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
           "intake": "150"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with PCM + DSU Entrance / JEE",
+          "exams": "DSUEEE, JEE Main",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with PCM + Entrance",
+          "exams": "DSUEEE",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCB/PCM",
+          "exams": "Merit Based",
+          "intake": "100"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / TANCET",
+          "exams": "CAT, MAT, TANCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹15.5 LPA",
@@ -57531,22 +57754,24 @@
       "id": 681,
       "reviewsCount": 411,
       "image": "/images/campuses/campus_architecture_7.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dhanalakshmi%20Srinivasan%20University%2C%20Tiruchirappalli%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dhanalakshmi%20Srinivasan%20University%2C%20Tiruchirappalli%20Tamil%20Tamil%20Nadu",
+      "city": "Tiruchirappalli",
+      "established": 2021
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/takshashila-university-villupuram-211837",
-      "name": "Takshashila University, Villupuram",
+      "name": "Takshashila University (Ongur, Tindivanam, Villupuram)",
       "shortName": "TUV",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Takshashila University, Ongur Tindivanam Taluk",
-      "phone": "9297623456",
+      "phone": "+91-9297623456",
       "email": "admission@takshashilauniv.ac.in",
-      "website": "https://www.takshashilauniv.ac.in/",
-      "rating": 4.5,
+      "website": "https://www.takshashilauniv.ac.in",
+      "rating": 4.3,
       "reviews": 328,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -57566,22 +57791,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with PCM + Entrance",
+          "exams": "TKUEEE, JEE Main",
+          "intake": "120"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with PCM + Entrance",
+          "exams": "TKUEEE",
+          "intake": "60"
+        },
+        {
+          "name": "B.Sc (Hons) in Agriculture",
+          "title": "B.Sc (Hons) in Agriculture",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with Science (PCB/PCM)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Physiotherapy (BPT)",
+          "title": "Bachelor of Physiotherapy (BPT)",
+          "division": "Undergraduate",
+          "duration": "4.5 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCB",
+          "exams": "Merit Based",
+          "intake": "50"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / TANCET",
+          "exams": "CAT, MAT, TANCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -57613,20 +57870,22 @@
       "id": 682,
       "reviewsCount": 328,
       "image": "/images/campuses/campus_architecture_8.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Takshashila%20University%2C%20Villupuram%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Takshashila%20University%2C%20Villupuram%20Tamil%20Tamil%20Nadu",
+      "city": "Villupuram",
+      "established": 2021
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/srm-institute-of-science-and-technology-tiruchirappalli-153369",
-      "name": "SRM Institute of Science and Technology, Tiruchirappalli",
+      "name": "SRM Institute of Science and Technology, Tiruchirappalli Campus (SRMIST Trichy)",
       "shortName": "SIOSAT",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "SRM Nagar Trichy – Chennai Highways, near Samayapuram",
-      "phone": "080-26597135",
+      "phone": "0431-2258811",
       "email": "admissions@siosat.edu.in",
-      "website": "https://www.srmist.edu.in",
-      "rating": 4.5,
+      "website": "https://ist.srmtrichy.edu.in",
+      "rating": 4.6,
       "reviews": 306,
       "type": "Private",
       "ownership": "Private",
@@ -57648,22 +57907,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "10+2 with 60% in PCM + SRMJEEE",
+          "exams": "SRMJEEE",
+          "intake": "180"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "10+2 with PCM + SRMJEEE",
+          "exams": "SRMJEEE",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with 50%+",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "Graduation (50%+) + SRMJEEM / CAT / MAT",
+          "exams": "SRMJEEM, CAT, MAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹53 LPA",
@@ -57695,21 +57986,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 683,
       "reviewsCount": 306,
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRM%20Institute%20of%20Science%20and%20Technology%2C%20Tiruchirappalli%20Tamil%20Tamil%20Nadu"
+      "image": "/images/campuses/campus_architecture_3.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRM%20Institute%20of%20Science%20and%20Technology%2C%20Tiruchirappalli%20Tamil%20Tamil%20Nadu",
+      "city": "Tiruchirappalli",
+      "established": 2014
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/chettinad-academy-of-research-and-education-kelambakkam-chennai-24779",
-      "name": "Chettinad Academy of Research and Education, Chennai",
+      "name": "Chettinad Academy of Research and Education (CARE Deemed University, Kelambakkam, Chennai)",
       "shortName": "CAORAE",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Chettinad Health City, Rajiv Gandhi Salai, Chengalpattu District",
-      "phone": "8447892022",
+      "phone": "044-47411000",
       "email": "enquiry@care.edu.in",
-      "website": "https://care.edu.in/",
-      "rating": 4.5,
+      "website": "https://care.edu.in",
+      "rating": 4.6,
       "reviews": 184,
       "type": "Private",
       "ownership": "Private",
@@ -57731,22 +58024,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "fees": "₹24,50,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "250"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "name": "MD / MS Postgraduate Medical Degrees",
+          "title": "MD / MS Postgraduate Medical Degrees",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹18,00,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "100"
+        },
+        {
+          "name": "B.Sc in Nursing",
+          "title": "B.Sc in Nursing",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with 45% in PCB",
+          "exams": "Merit Based",
+          "intake": "100"
+        },
+        {
+          "name": "B.Tech in Biotechnology",
+          "title": "B.Tech in Biotechnology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with PCM/PCB",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "B.A. LL.B. (Hons) / B.B.A. LL.B. (Hons)",
+          "title": "B.A. LL.B. (Hons) / B.B.A. LL.B. (Hons)",
+          "division": "Integrated Law",
+          "duration": "5 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "10+2 with 45%+ + CLAT / Merit",
+          "exams": "CLAT, Merit",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -57774,7 +58099,9 @@
       "id": 684,
       "reviewsCount": 184,
       "image": "/images/campuses/campus_architecture_1.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chettinad%20Academy%20of%20Research%20and%20Education%2C%20Chennai%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chettinad%20Academy%20of%20Research%20and%20Education%2C%20Chennai%20Tamil%20Tamil%20Nadu",
+      "city": "Chengalpattu",
+      "established": 2008
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/psg-institute-of-medical-sciences-and-research-coimbatore-65631",

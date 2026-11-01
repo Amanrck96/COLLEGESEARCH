@@ -1,0 +1,321 @@
+[
+  {
+    "id": 685,
+    "name": "PSG IMSR",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.google.com/search?q=PSG%20IMSR%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/psg-institute-of-medical-sciences-and-research-coimbatore-65631",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 686,
+    "name": "VELS University Chennai",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.google.com/search?q=VELS%20University%20Chennai%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/vels-institute-of-science-technology-and-advanced-studies-vistas-chennai-32583",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 687,
+    "name": "SRIHER Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2023/June/2062023/Campus View..jpg",
+    "website": "https://www.google.com/search?q=SRIHER%20Chennai%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/sri-ramachandra-institute-of-higher-education-and-research-chennai-24265",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "name": "Madras Medical College",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.google.com/search?q=Madras%20Medical%20College%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/madras-medical-college-chennai-park-town-63021",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "name": "College of Pharmacy, SRM IST, Kattankulathur, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://img.studyclap.com/img/institute/college/773x343/10179/cp-chengalpattu-466798a898.jpg",
+    "website": "https://www.srmist.edu.in/department/college-of-pharmacy/",
+    "phone": "4427453160",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/college-of-pharmacy-srm-ist-kattankulathur-tamil-nadu-other-24766",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 690,
+    "name": "SRM Institute of Science and Technology, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.srmist.edu.in",
+    "phone": "18001021525",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/srm-institute-of-science-and-technology-chennai-ramapuram-campus-51992",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 691,
+    "name": "SRM Medical College Hospital and Research Centre, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.google.com/search?q=SRM%20Medical%20College%20Hospital%20and%20Research%20Centre%2C%20Chennai%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/srm-medical-college-hospital-and-research-centre-srm-ist-kattankulathur-chennai-63159",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 692,
+    "name": "SRM Dental College, Ramapuram",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.google.com/search?q=SRM%20Dental%20College%2C%20Ramapuram%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/srm-dental-college-ramapuram-campus-chennai-ramapuram-155545",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "name": "CMC Vellore",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://www.cmcvellorechittoorcampus.ac.in/wp-content/uploads/2020/04/cmc-front-view-latif-cropped.jpg",
+    "website": "https://www.google.com/search?q=CMC%20Vellore%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/christian-medical-college-vellore-24644",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 694,
+    "name": "Amrita School of Engineering Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.google.com/search?q=Amrita%20School%20of%20Engineering%20Coimbatore%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/amrita-school-of-engineering-amrita-vishwa-vidyapeetham-coimbatore-36898",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  }
+]

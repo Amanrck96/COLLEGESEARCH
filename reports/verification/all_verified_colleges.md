@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1030 / 12,660**  
-**Roadmap Progress**: **103.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1040 / 12,660**  
+**Roadmap Progress**: **104.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1554,4 +1554,19 @@
 | **670** | Sri Venkateswara College of Engineering (SVCE Sriperumbudur, Chennai) | Private | SRIPERUMBUDUR,TAMIL NADUPIN - 602 117 | [www.svce.ac.in](https://www.svce.ac.in) |
 | **672** | Sri Ramachandra Polytechnic College (Pappireddipatti, Dharmapuri) | Private | 104/7 ALAMELUPURAM(PO) PAPPIREDDIPATI (TK) DHARMAPURI (DT) | [sriramachandrapolytechnic.com](http://sriramachandrapolytechnic.com) |
 | **673** | Vivekananda Polytechnic College (Agasteeswaram, Kanyakumari) | Private | COLLEGE ROAD, AGASTEESWARAM KANYAKUMARI DIST PIN-629701 | [vptc.edu.in](https://vptc.edu.in) |
+
+### Batch 104 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **674** | Sri Krishna Polytechnic College (Madurai Main Road, Batlagundu, Dindigul) | Private | MADURAI MAINROAD, BATLAGUNDU | [srikrishnapolytechnic.in](http://srikrishnapolytechnic.in) |
+| **676** | PSG College of Arts and Science (Autonomous, Coimbatore) | Private | CIVIL AERODROME POST, AVINASHI ROAD | [www.psgcas.ac.in](https://www.psgcas.ac.in) |
+| **677** | Apollo Arts and Science College (Guduvanchery, Chennai) | Private | KALVOY VILLAGE, GUDUVANCHERY | [apolloartsandscience.ac.in](https://apolloartsandscience.ac.in) |
+| **678** | Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (SCSVMV Deemed to be University, Kanchipuram) | Private | Tamil Nadu, India | [kanchiuniv.ac.in](https://kanchiuniv.ac.in) |
+| **679** | Karpagam Faculty of Medical Sciences and Research (Othakkalmandapam, Coimbatore) | Private | Tamil Nadu, India | [karpagammedicalcollege.edu.in](https://karpagammedicalcollege.edu.in) |
+| **680** | Annamalai University (Annamalainagar, Chidambaram) | Public/Government | Annamalai University, Annamalainagar | [annamalaiuniversity.ac.in](https://annamalaiuniversity.ac.in) |
+| **681** | Dhanalakshmi Srinivasan University (DSU, Samayapuram, Tiruchirappalli) | Private | Trichy Chennai Trunk Road, Samayapuram (Near Samayapuram Toll Plaza) | [www.dsuniversity.ac.in](https://www.dsuniversity.ac.in) |
+| **682** | Takshashila University (Ongur, Tindivanam, Villupuram) | Private | Takshashila University, Ongur Tindivanam Taluk | [www.takshashilauniv.ac.in](https://www.takshashilauniv.ac.in) |
+| **683** | SRM Institute of Science and Technology, Tiruchirappalli Campus (SRMIST Trichy) | Private | SRM Nagar Trichy – Chennai Highways, near Samayapuram | [ist.srmtrichy.edu.in](https://ist.srmtrichy.edu.in) |
+| **684** | Chettinad Academy of Research and Education (CARE Deemed University, Kelambakkam, Chennai) | Private | Rajiv Gandhi Salai, Chengalpattu District | [care.edu.in](https://care.edu.in) |
 
