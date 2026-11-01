@@ -2807,3 +2807,19 @@
 | 1878 | Shivalik Institute of Management Education & Research, Durg | Durg | Chhattisgarh | Private | [Portal](https://www.simer.in) |
 | 1879 | Chhattisgarh Institute of Technology, Jagdalpur (Govt. Polytechnic) | Bastar | Chhattisgarh | Public/Government | [Portal](http://cgdte.cgstate.gov.in) |
 | 1880 | Chouksey Engineering College, Bilaspur | Bilaspur | Chhattisgarh | Private | [Portal](https://cecbilaspur.ac.in) |
+
+
+### Batch 189 (Colleges 1,881–1,890)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1881 | RITEE Business School (RIBS), Raipur | Raipur | Chhattisgarh | Private | [Portal](https://ribs.education) |
+| 1882 | Lakhmi Chand Institute of Technology, Bilaspur | Bilaspur | Chhattisgarh | Private | [Portal](https://lcitbilaspur.edu.in) |
+| 1883 | Yugantar Institute of Technology and Management, Rajnandgaon | Rajnandgaon | Chhattisgarh | Private | [Portal](https://yugantar.org) |
+| 1884 | Raipur Institute of Technology (RITEE), Raipur | Raipur | Chhattisgarh | Private | [Portal](https://ritee.ac.in) |
+| 1885 | School of Engineering and Technology, ISBM University | Gariaband | Chhattisgarh | Private | [Portal](https://isbmuniversity.edu.in) |
+| 1886 | Department of Computer Science & Information Technology, Guru Ghasidas Vishwavidyalaya | Bilaspur | Chhattisgarh | Public/Government | [Portal](https://www.new.ggu.ac.in) |
+| 1887 | Anjaneya University, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://anjaneyauniversity.ac.in) |
+| 1888 | School of Studies in Computer Science, Pt. Ravishankar Shukla University, Raipur | Raipur | Chhattisgarh | Public/Government | [Portal](https://www.prsu.ac.in) |
+| 1889 | School of Studies of Engineering & Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur | Bilaspur | Chhattisgarh | Public/Government | [Portal](https://www.new.ggu.ac.in) |
+| 1890 | Columbia Institute of Engineering & Technology, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://cietraipur.ac.in) |

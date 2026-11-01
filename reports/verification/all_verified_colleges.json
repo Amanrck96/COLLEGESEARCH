@@ -25148,5 +25148,742 @@
     "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1656056136choukseygroupofcollegeslalkhadanbilaspurchhattisgarhcolleges2bo6m.jpg",
     "ownership": "Private",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHOUKSEY%20ENGINEERING%20COLLEGE%20BILASPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1877,
+    "name": "RITEE Business School (RIBS), Raipur",
+    "shortName": "RIBS Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Chhatauna, Mandir Hasaud, Raipur, Chhattisgarh - 492101",
+    "phone": "0771-3208888",
+    "website": "https://ribs.education",
+    "rating": 4.5,
+    "reviews": 365,
+    "type": "Private",
+    "about": "RITEE Business School (RIBS) Raipur, part of the RITEE Group established in 1995 under Mahanadi Education Society, is an AICTE-approved management institution offering specialized postgraduate business programs.",
+    "ranking": 89,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=RITEE%20BUSINESS%20SCHOOL%20(RIBS)%20RAIPUR%20RAIPUR%20Chhattisgarh",
+    "fees": "₹95,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_6.jpg",
+    "gallery": [
+      "https://www.collegesmba.in/wp-content/uploads/2015/12/RITEE-BUSINESS-SCHOOL-1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "Post Graduate Diploma in Management (PGDM)",
+        "duration": "2 Years",
+        "fees": "₹95,000/Yr",
+        "eligibility": "Graduation with 50% + MAT / CAT / CMAT / ATMA",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "Graduation with 50% + CMAT / MAT / CAT",
+        "type": "MANAGEMENT",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 365,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=RITEE%20BUSINESS%20SCHOOL%20(RIBS)%20RAIPUR%20RAIPUR%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "city": "Raipur",
+    "email": "info@rit.edu.in",
+    "verified": true
+  },
+  {
+    "id": 1878,
+    "name": "Lakhmi Chand Institute of Technology, Bilaspur",
+    "shortName": "LCIT Bilaspur",
+    "location": "Bilaspur",
+    "state": "Chhattisgarh",
+    "address": "Vidyasthali, Village Bodri, P.O. Chakarbhatha, Bilaspur, Chhattisgarh - 495220",
+    "phone": "07752-247701",
+    "website": "https://lcitbilaspur.edu.in",
+    "rating": 4.5,
+    "reviews": 59,
+    "type": "Private",
+    "about": "Lakhmi Chand Institute of Technology (LCIT Bilaspur), established in 2008 by Shree Chhotelal Education Society, is an AICTE-approved and NAAC-accredited private engineering institute affiliated to CSVTU Bhilai.",
+    "ranking": 86,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=LAKHMI%20CHAND%20INSTITUTE%20OF%20TECHNOLOGY%20BILASPUR%20Chhattisgarh",
+    "fees": "₹65,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/bunts_sangha_mumbai.jpeg",
+    "gallery": [
+      "https://www.gkseries.com/blog/wp-content/uploads/2020/04/Lakhmi-Chand-Institute-of-Technology-Bilaspur-1200x675.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹65,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹65,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹50,000/Yr",
+        "eligibility": "BCA / B.Sc with Mathematics + CG Pre-MCA",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "Graduation with 50% + CMAT / MAT / CAT",
+        "type": "MANAGEMENT",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 59,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=LAKHMI%20CHAND%20INSTITUTE%20OF%20TECHNOLOGY%20BILASPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1879,
+    "name": "Yugantar Institute of Technology and Management, Rajnandgaon",
+    "shortName": "YITM Rajnandgaon",
+    "location": "Rajnandgaon",
+    "state": "Chhattisgarh",
+    "address": "G.E. Road, Gram Thekwa, Post Somni, Rajnandgaon, Chhattisgarh - 491441",
+    "phone": "07744-281004",
+    "website": "https://yugantar.org",
+    "rating": 4.5,
+    "reviews": 514,
+    "type": "Private",
+    "about": "Yugantar Institute of Technology and Management (YITM) Rajnandgaon, established in 2007 by Yugantar Education Society, is an AICTE-approved engineering college affiliated to CSVTU Bhilai.",
+    "ranking": 42,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=YUGANTAR%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20RAJNANDGAON%20Chhattisgarh",
+    "fees": "₹55,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/yugantar-institute-of-technology-management-rajnandgaon-259680.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/yugantar-institute-of-technology-management-rajnandgaon-259680.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 514,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/yugantar-institute-of-technology-management-rajnandgaon-259680.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=YUGANTAR%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20RAJNANDGAON%20Chhattisgarh"
+  },
+  {
+    "id": 1880,
+    "name": "Raipur Institute of Technology (RITEE), Raipur",
+    "shortName": "RITEE Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "NH-06, Chhatauna, Mandir Hasaud, Raipur, Chhattisgarh - 492101",
+    "phone": "0771-3208888",
+    "website": "https://ritee.ac.in",
+    "rating": 4.5,
+    "reviews": 282,
+    "type": "Private",
+    "about": "Raipur Institute of Technology (RITEE Raipur), founded in 1995 under Mahanadi Education Society, is one of the earliest private engineering institutes in Chhattisgarh, approved by AICTE, accredited by NAAC, and affiliated to CSVTU Bhilai.",
+    "ranking": 69,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=RAIPUR%20INSTITUTE%20OF%20TECHNOLOGY%20RAIPUR%20Chhattisgarh",
+    "fees": "₹70,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://rit.edu.in/01.jpg",
+    "gallery": [
+      "https://rit.edu.in/01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "BCA / B.Sc with Mathematics + CG Pre-MCA",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "fees": "₹65,000/Yr",
+        "eligibility": "Graduation with 50% + CMAT / MAT / CAT",
+        "type": "MANAGEMENT",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 282,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://rit.edu.in/01.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAIPUR%20INSTITUTE%20OF%20TECHNOLOGY%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1881,
+    "name": "School of Engineering and Technology, ISBM University",
+    "shortName": "ISBM University Engg",
+    "location": "Gariaband",
+    "state": "Chhattisgarh",
+    "address": "Nawapara (Kosmi), Tehsil Chhura, District Gariaband, Chhattisgarh - 493996",
+    "phone": "07701-296100",
+    "website": "https://isbmuniversity.edu.in",
+    "rating": 4.5,
+    "reviews": 521,
+    "type": "Private",
+    "about": "School of Engineering and Technology is a constituent school of ISBM University, a private university established under the Chhattisgarh Private Universities Act, offering UGC-approved engineering degrees.",
+    "ranking": 8,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20ISBM%20UNIVERSITY%20RAIPUR%20Chhattisgarh",
+    "fees": "₹60,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/isbm-university-raipur-364264.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/isbm-university-raipur-364264.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
+    ],
+    "affiliation": "ISBM University, Gariaband (UGC Recognized Private University)",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹60,000/Yr",
+        "eligibility": "10+2 with PCM + University Entrance",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹60,000/Yr",
+        "eligibility": "10+2 with PCM + University Entrance",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹28,500/Yr",
+        "eligibility": "Class 10th with 40%",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 521,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/isbm-university-raipur-364264.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20ISBM%20UNIVERSITY%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1882,
+    "name": "Department of Computer Science & Information Technology, Guru Ghasidas Vishwavidyalaya",
+    "shortName": "CSIT GGV Bilaspur",
+    "location": "Bilaspur",
+    "state": "Chhattisgarh",
+    "address": "Guru Ghasidas Vishwavidyalaya (Central University), Koni, Bilaspur, Chhattisgarh - 495009",
+    "phone": "07752-260007",
+    "website": "https://www.new.ggu.ac.in",
+    "rating": 4.5,
+    "reviews": 491,
+    "type": "Public/Government",
+    "about": "The Department of Computer Science & Information Technology at Guru Ghasidas Vishwavidyalaya (Central University), Bilaspur is a premier university department established to impart advanced computer education and research with subsidized fees under the Government of India.",
+    "ranking": 84,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMPUTER%20SCIENCE%20%26%20INFORMATION%20TECHNOLOGY%20BILASPUR%20Chhattisgarh",
+    "fees": "₹18,500/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/pes_bangalore.jpg",
+    "gallery": [
+      "https://img.naidunia.com/naidunia/ndnimg/16122022/16_12_2022-cims_8.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
+    ],
+    "affiliation": "Guru Ghasidas Vishwavidyalaya (Central University, Govt. of India)",
+    "courses": [
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹18,500/Yr",
+        "eligibility": "BCA / B.Sc with Mathematics + CUET-PG",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "M.Sc in Computer Science",
+        "duration": "2 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "B.Sc Computer Science / BCA + CUET-PG",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 40
+      },
+      {
+        "title": "B.Sc (Hons) in Computer Science",
+        "duration": "3 Years",
+        "fees": "₹12,000/Yr",
+        "eligibility": "10+2 with Mathematics + CUET-UG",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 491,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/pes_bangalore.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMPUTER%20SCIENCE%20%26%20INFORMATION%20TECHNOLOGY%20BILASPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1883,
+    "name": "Anjaneya University, Raipur",
+    "shortName": "Anjaneya University",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Knowledge Village, Narardaha, P.O. Mandir Hasaud, Raipur, Chhattisgarh - 492101",
+    "phone": "0771-4770000",
+    "website": "https://anjaneyauniversity.ac.in",
+    "rating": 4.5,
+    "reviews": 350,
+    "type": "Private",
+    "about": "Anjaneya University Raipur is a state private university established under the Chhattisgarh Private Universities Act, located at Knowledge Village in Narardaha, providing programs in engineering, technology, management, and arts.",
+    "ranking": 30,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=ANJANEYA%20UNIVERSITY%20RAIPUR%20Chhattisgarh",
+    "fees": "₹65,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://anjaneyauniversity.ac.in/uploads/51ba570fe68fc088e0a942bdf8700cdce7eb8b1d/1680342925college-building.png",
+    "gallery": [
+      "https://anjaneyauniversity.ac.in/uploads/51ba570fe68fc088e0a942bdf8700cdce7eb8b1d/1680342925college-building.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
+    ],
+    "affiliation": "Anjaneya University, Raipur (State Private University)",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹65,000/Yr",
+        "eligibility": "10+2 with PCM + Entrance Test",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "fees": "₹65,000/Yr",
+        "eligibility": "Graduation with 50%",
+        "type": "MANAGEMENT",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 350,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://anjaneyauniversity.ac.in/uploads/51ba570fe68fc088e0a942bdf8700cdce7eb8b1d/1680342925college-building.png",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ANJANEYA%20UNIVERSITY%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1884,
+    "name": "School of Studies in Computer Science, Pt. Ravishankar Shukla University, Raipur",
+    "shortName": "SoS CS PRSU Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Pt. Ravishankar Shukla University Campus, Amanaka, G.E. Road, Raipur, Chhattisgarh - 492010",
+    "phone": "0771-2262837",
+    "website": "https://www.prsu.ac.in",
+    "rating": 4.5,
+    "reviews": 321,
+    "type": "Public/Government",
+    "about": "School of Studies in Computer Science at Pt. Ravishankar Shukla University (PRSU Raipur), established as a state public university teaching department, is accredited NAAC 'A' Grade and offers postgraduate and doctoral research programs in computer science.",
+    "ranking": 98,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=S.O.%20S.%20IN%20COMPUTER%20SCIENCE%2C%20PT.%20RAVISHANKAR%20SHUKLA%20UNIVERSITY%2C%20RAIPUR%20RAIPUR%20Chhattisgarh",
+    "fees": "₹25,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2025-17-12-10-44-36_sosc1.jpg",
+    "gallery": [
+      "https://www.vidyavision.com/CollegeUploads/Photos/2025-17-12-10-44-36_sosc1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
+    ],
+    "affiliation": "Pt. Ravishankar Shukla University, Raipur (State Public University, NAAC 'A')",
+    "courses": [
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "BCA / B.Sc with Mathematics + CG Pre-MCA",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "M.Tech in Computer Science",
+        "duration": "2 Years",
+        "fees": "₹30,000/Yr",
+        "eligibility": "B.Tech CSE / MCA / M.Sc CS + GATE / University Test",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 25
+      },
+      {
+        "title": "M.Sc in Computer Science",
+        "duration": "2 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "B.Sc Computer Science / BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 30
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 321,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2025-17-12-10-44-36_sosc1.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=S.O.%20S.%20IN%20COMPUTER%20SCIENCE%2C%20PT.%20RAVISHANKAR%20SHUKLA%20UNIVERSITY%2C%20RAIPUR%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1885,
+    "name": "School of Studies of Engineering & Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+    "shortName": "SoS E&T GGV Bilaspur",
+    "location": "Bilaspur",
+    "state": "Chhattisgarh",
+    "address": "Institute of Technology Campus, Guru Ghasidas Vishwavidyalaya, Koni, Bilaspur, Chhattisgarh - 495009",
+    "phone": "07752-260007",
+    "website": "https://www.new.ggu.ac.in",
+    "rating": 4.5,
+    "reviews": 343,
+    "type": "Public/Government",
+    "about": "School of Studies of Engineering and Technology (formerly Institute of Technology), Guru Ghasidas Vishwavidyalaya (GGV Bilaspur) is a premier engineering institution of a Central University under the Government of India. Admissions to B.Tech are conducted nationwide through JEE Main via JoSAA and CSAB.",
+    "ranking": 15,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20STUDIES%20OF%20ENGINEERING%20AND%20TECHNOLOGY%2C%20GURU%20GHASIDAS%20VISHWAVIDYALAYA%2C%20BILASPUR%20BILASPUR%20Chhattisgarh",
+    "fees": "₹26,550/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.ggu.ac.in/media/gallery/Dept._of_Civil_Engineering.jpg",
+    "gallery": [
+      "https://www.ggu.ac.in/media/gallery/Dept._of_Civil_Engineering.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
+    ],
+    "affiliation": "Guru Ghasidas Vishwavidyalaya (Central University, Govt. of India)",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹26,550/Yr",
+        "eligibility": "10+2 with PCM + JEE Main through JoSAA / CSAB",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Chemical Engineering",
+        "duration": "4 Years",
+        "fees": "₹26,550/Yr",
+        "eligibility": "10+2 with PCM + JEE Main through JoSAA / CSAB",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹26,550/Yr",
+        "eligibility": "10+2 with PCM + JEE Main through JoSAA / CSAB",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹26,550/Yr",
+        "eligibility": "10+2 with PCM + JEE Main through JoSAA / CSAB",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "M.Tech in Machine Design / CAD-CAM",
+        "duration": "2 Years",
+        "fees": "₹32,000/Yr",
+        "eligibility": "B.Tech in relevant discipline + GATE",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 18
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 343,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.ggu.ac.in/media/gallery/Dept._of_Civil_Engineering.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20STUDIES%20OF%20ENGINEERING%20AND%20TECHNOLOGY%2C%20GURU%20GHASIDAS%20VISHWAVIDYALAYA%2C%20BILASPUR%20BILASPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1886,
+    "name": "Columbia Institute of Engineering & Technology, Raipur",
+    "shortName": "CIET Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "Village Tekari, Near Vidhan Sabha, Mandir Hasaud Road, Raipur, Chhattisgarh - 493111",
+    "phone": "0771-4283500",
+    "website": "https://cietraipur.ac.in",
+    "rating": 4.5,
+    "reviews": 204,
+    "type": "Private",
+    "about": "Columbia Institute of Engineering & Technology (CIET Raipur), established in 2008 by Janhit Trust, is an AICTE-approved and NAAC-accredited private engineering institute located near the Vidhan Sabha on Mandir Hasaud Road, affiliated to CSVTU Bhilai.",
+    "ranking": 26,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=COLUMBIA%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20RAIPUR%20Chhattisgarh",
+    "fees": "₹68,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/saraswati_kharghar.webp",
+    "gallery": [
+      "https://th.bing.com/th/id/R.665ee57f95bddc486311964f36323039?rik=YoEJ6z4vh%2bGRhg&riu=http%3a%2f%2fcietraipur.ac.in%2fimg%2fciet_home.jpg&ehk=GzWgW5HkRgPLLQoDbOy6vTx0FRdDuF6Qmc%2fSjbnhGkA%3d&risl=&pid=ImgRaw&r=0",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹68,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      },
+      {
+        "title": "B.Tech in Electrical and Electronics Engineering",
+        "duration": "4 Years",
+        "fees": "₹68,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹68,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "fees": "₹60,000/Yr",
+        "eligibility": "Graduation with 50% + CMAT / MAT / CAT",
+        "type": "MANAGEMENT",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 204,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/saraswati_kharghar.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLUMBIA%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20RAIPUR%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
   }
 ]
