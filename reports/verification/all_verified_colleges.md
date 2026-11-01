@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **900 / 12,660**  
-**Roadmap Progress**: **90.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **910 / 12,660**  
+**Roadmap Progress**: **91.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1359,4 +1359,19 @@
 | **513** | Bengal Institute of Polytechnic (Hetampur, Birbhum) | Private | VILL-SAGAR PO-HETAMPUR PS-SADAIPUR | [bip-india.in](https://bip-india.in) |
 | **514** | Shree Ramkrishna Institute of Science & Technology (SRIST Kolkata) | Private | PS- SONARPUR, KOLKATA-700145 | [srist.in](https://srist.in) |
 | **515** | Mallabhum Institute of Polytechnic (MIP Bishnupur) | Private | P.O- GOSAIPUR. P.S -BISHNUPUR,DIST -BANKURA | [mipbishnupur.in](https://mipbishnupur.in) |
+
+### Batch 91 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **516** | Kanyapur Polytechnic (Asansol) | Public/Government | SEN-RELEIGH ROAD, ASANSOL - 5 | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/kanyapurpoly) |
+| **517** | Ramakrishna Mission Shilpapitha (Belgharia, Kolkata) | Public/Government | RAMKRISHNA MISSION ROAD. | [rkmshilpapitha.org](http://rkmshilpapitha.org) |
+| **518** | Engineering Institute for Junior Executives (EIJE Howrah) | Public/Government | DALALPUKUR, HOWRAH | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/eijehowrah) |
+| **519** | Bishnupur Public Institute of Engineering (BPIE Bishnupur) | Private | VILL : SIROMONIPUR, P.O. & P.S. BISHNUPUR | [bpie.org.in](https://bpie.org.in) |
+| **520** | Kalna Polytechnic | Public/Government | P.O.- KALNA DISTRICT - BURDWAN | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/kalnapoly) |
+| **521** | MCKV Institute of Engineering (MCKVIE Liluah, Howrah) | Private | 243, G.T. ROAD (NORTH) | [www.mckvie.edu.in](https://www.mckvie.edu.in) |
+| **522** | Central Calcutta Polytechnic (CCP Kolkata) | Public/Government | 21 CONVENT ROAD. | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/centralcalpoly) |
+| **523** | Central Tool Room & Training Centre (CTTC Kolkata) | Public/Government | BONHOOGHLY INDUSTRIAL AREA | [msmetoolroomkolkata.com](https://msmetoolroomkolkata.com) |
+| **524** | Institute of Advanced Management (IAM Kolkata) | Private | AN 1 SECTOR V, SALT LAKE KOLKATA 102 | [iam.ac.in](https://iam.ac.in) |
+| **525** | Gobindapur Polytechnic College | Private | DUMKAL, MURSHIDABAD | [gpcm.co.in](http://gpcm.co.in) |
 

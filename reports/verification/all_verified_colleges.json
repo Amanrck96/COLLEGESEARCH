@@ -6748,5 +6748,80 @@
         "website": "https://mipbishnupur.in"
       }
     ]
+  },
+  {
+    "batch": 91,
+    "items": [
+      {
+        "id": 516,
+        "name": "Kanyapur Polytechnic (Asansol)",
+        "type": "Public/Government",
+        "location": "SEN-RELEIGH ROAD, ASANSOL - 5",
+        "website": "https://polytechnic.wbtetsd.gov.in/kanyapurpoly"
+      },
+      {
+        "id": 517,
+        "name": "Ramakrishna Mission Shilpapitha (Belgharia, Kolkata)",
+        "type": "Public/Government",
+        "location": "RAMKRISHNA MISSION ROAD.",
+        "website": "http://rkmshilpapitha.org"
+      },
+      {
+        "id": 518,
+        "name": "Engineering Institute for Junior Executives (EIJE Howrah)",
+        "type": "Public/Government",
+        "location": "DALALPUKUR, HOWRAH",
+        "website": "https://polytechnic.wbtetsd.gov.in/eijehowrah"
+      },
+      {
+        "id": 519,
+        "name": "Bishnupur Public Institute of Engineering (BPIE Bishnupur)",
+        "type": "Private",
+        "location": "VILL : SIROMONIPUR, P.O. & P.S. BISHNUPUR",
+        "website": "https://bpie.org.in"
+      },
+      {
+        "id": 520,
+        "name": "Kalna Polytechnic",
+        "type": "Public/Government",
+        "location": "P.O.- KALNA DISTRICT - BURDWAN",
+        "website": "https://polytechnic.wbtetsd.gov.in/kalnapoly"
+      },
+      {
+        "id": 521,
+        "name": "MCKV Institute of Engineering (MCKVIE Liluah, Howrah)",
+        "type": "Private",
+        "location": "243, G.T. ROAD (NORTH)",
+        "website": "https://www.mckvie.edu.in"
+      },
+      {
+        "id": 522,
+        "name": "Central Calcutta Polytechnic (CCP Kolkata)",
+        "type": "Public/Government",
+        "location": "21 CONVENT ROAD.",
+        "website": "https://polytechnic.wbtetsd.gov.in/centralcalpoly"
+      },
+      {
+        "id": 523,
+        "name": "Central Tool Room & Training Centre (CTTC Kolkata)",
+        "type": "Public/Government",
+        "location": "BONHOOGHLY INDUSTRIAL AREA",
+        "website": "https://msmetoolroomkolkata.com"
+      },
+      {
+        "id": 524,
+        "name": "Institute of Advanced Management (IAM Kolkata)",
+        "type": "Private",
+        "location": "AN 1 SECTOR V, SALT LAKE KOLKATA 102",
+        "website": "https://iam.ac.in"
+      },
+      {
+        "id": 525,
+        "name": "Gobindapur Polytechnic College",
+        "type": "Private",
+        "location": "DUMKAL, MURSHIDABAD",
+        "website": "http://gpcm.co.in"
+      }
+    ]
   }
 ]

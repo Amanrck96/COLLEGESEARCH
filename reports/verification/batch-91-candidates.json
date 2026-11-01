@@ -1,0 +1,122 @@
+[
+  {
+    "id": 516,
+    "name": "KANYAPUR POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://cdn.universitykart.com/Content/upload/admin/n3xjrjdf.pjr.jpg",
+    "website": "https://www.kanyapurpolytec.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 517,
+    "name": "RAMAKRISHNA MISSION SHILPAPITHA",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/pibm_pune.webp",
+    "website": "https://www.ramakrishnamiss.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 518,
+    "name": "ENGINEERING INSTITUTE FOR JUNIOR EXECUTIVES",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15638596375.PNG",
+    "website": "https://www.engineeringinst.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 519,
+    "name": "BISHNUPUR PUBLIC INSTITUTE OF ENGINEERING (POLYTECHNIC)",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.bishnupurpublic.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 520,
+    "name": "KALNA POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.kalnapolytechni.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 521,
+    "name": "MCKV INSTITUTE OF ENGINEERING",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/kv_imis_coimbatore.jpg",
+    "website": "https://www.mckvinstituteof.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 522,
+    "name": "CENTRAL CALCUTTA POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.centralcalcutta.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 523,
+    "name": "CENTRAL TOOL ROOM & TRAINING CENTRE",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.careerindia.com/img/1200x60x675/2014/02/20-centraltoolroomtrainingcentre.jpg",
+    "website": "https://www.centraltoolroom.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 524,
+    "name": "INSTITUTE OF ADVANCED MANAGEMENT",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.instituteofadva.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 525,
+    "name": "GOBINDAPUR POLYTECHNIC COLLEGE",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.gobindapurpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]
