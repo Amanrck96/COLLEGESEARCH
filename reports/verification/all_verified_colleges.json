@@ -10723,5 +10723,80 @@
         "website": "https://mgcub.ac.in/"
       }
     ]
+  },
+  {
+    "batch": 144,
+    "items": [
+      {
+        "id": 1107,
+        "name": "Birla Institute of Technology, Mesra - Patna Extension Center",
+        "type": "Private",
+        "location": "Patna, Bihar - 800014",
+        "website": "https://www.bitmesra.ac.in"
+      },
+      {
+        "id": 1108,
+        "name": "Indian Institute of Information Technology Bhagalpur",
+        "type": "Public/Government",
+        "location": "Bhagalpur, Bihar - 813210",
+        "website": "https://www.iiitbh.ac.in"
+      },
+      {
+        "id": 1109,
+        "name": "Kishanganj College of Engineering and Technology",
+        "type": "Private",
+        "location": "Kishanganj, Bihar - 855107",
+        "website": "https://www.kcet.org.in"
+      },
+      {
+        "id": 1110,
+        "name": "Patna Sahib College of Engineering and Technology, Hajipur",
+        "type": "Private",
+        "location": "Vaishali / Hajipur, Bihar - 844114",
+        "website": "http://www.psgc.org"
+      },
+      {
+        "id": 1111,
+        "name": "Azmet Institute of Technology, Kishanganj",
+        "type": "Private",
+        "location": "Kishanganj, Bihar - 855107",
+        "website": "https://www.azmetit.com"
+      },
+      {
+        "id": 1112,
+        "name": "Adwaita Mission Institute of Technology, Banka",
+        "type": "Private",
+        "location": "Banka, Bihar - 813104",
+        "website": "https://www.amitshivdham.org"
+      },
+      {
+        "id": 1113,
+        "name": "Lalit Narayan Mishra Institute of Economic Development and Social Change, Patna",
+        "type": "Public/Government",
+        "location": "Patna, Bihar - 800001",
+        "website": "https://www.lnmipat.ac.in"
+      },
+      {
+        "id": 1114,
+        "name": "Footwear Design and Development Institute, Patna",
+        "type": "Public/Government",
+        "location": "Patna, Bihar - 801103",
+        "website": "https://www.fddiindia.com"
+      },
+      {
+        "id": 1115,
+        "name": "Amity University Patna",
+        "type": "Private",
+        "location": "Patna, Bihar - 801503",
+        "website": "https://www.amity.edu/patna"
+      },
+      {
+        "id": 1116,
+        "name": "Lalit Narayan Mithila University, Darbhanga",
+        "type": "Public/Government",
+        "location": "Darbhanga, Bihar - 846004",
+        "website": "https://lnmu.ac.in"
+      }
+    ]
   }
 ]

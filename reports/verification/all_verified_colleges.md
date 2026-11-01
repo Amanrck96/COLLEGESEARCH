@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1430 / 12,660**  
-**Roadmap Progress**: **143.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1440 / 12,660**  
+**Roadmap Progress**: **144.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2154,4 +2154,19 @@
 | **1104** | Maulana Azad College of Engineering and Technology, Patna | Private | Patna, Bihar - 801115 | [www.macet.net.in](https://www.macet.net.in) |
 | **1105** | Muzaffarpur Institute of Technology | Public/Government | Muzaffarpur, Bihar - 842003 | [www.mitmuzaffarpur.org](https://www.mitmuzaffarpur.org) |
 | **1106** | Mahatma Gandhi Central University, Bihar | Public/Government | District East Champaran, Bihar - 845401 | [mgcub.ac.in](https://mgcub.ac.in/) |
+
+### Batch 144 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1107** | Birla Institute of Technology, Mesra - Patna Extension Center | Private | Patna, Bihar - 800014 | [www.bitmesra.ac.in](https://www.bitmesra.ac.in) |
+| **1108** | Indian Institute of Information Technology Bhagalpur | Public/Government | Bhagalpur, Bihar - 813210 | [www.iiitbh.ac.in](https://www.iiitbh.ac.in) |
+| **1109** | Kishanganj College of Engineering and Technology | Private | Kishanganj, Bihar - 855107 | [www.kcet.org.in](https://www.kcet.org.in) |
+| **1110** | Patna Sahib College of Engineering and Technology, Hajipur | Private | Vaishali / Hajipur, Bihar - 844114 | [www.psgc.org](http://www.psgc.org) |
+| **1111** | Azmet Institute of Technology, Kishanganj | Private | Kishanganj, Bihar - 855107 | [www.azmetit.com](https://www.azmetit.com) |
+| **1112** | Adwaita Mission Institute of Technology, Banka | Private | Banka, Bihar - 813104 | [www.amitshivdham.org](https://www.amitshivdham.org) |
+| **1113** | Lalit Narayan Mishra Institute of Economic Development and Social Change, Patna | Public/Government | Patna, Bihar - 800001 | [www.lnmipat.ac.in](https://www.lnmipat.ac.in) |
+| **1114** | Footwear Design and Development Institute, Patna | Public/Government | Patna, Bihar - 801103 | [www.fddiindia.com](https://www.fddiindia.com) |
+| **1115** | Amity University Patna | Private | Patna, Bihar - 801503 | [www.amity.edu](https://www.amity.edu/patna) |
+| **1116** | Lalit Narayan Mithila University, Darbhanga | Public/Government | Darbhanga, Bihar - 846004 | [lnmu.ac.in](https://lnmu.ac.in) |
 
