@@ -1,0 +1,102 @@
+[
+  {
+    "id": 184,
+    "name": "ACJ Entrance Exam 2026",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.google.com/search?q=ACJ%20Entrance%20Exam%202026%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 185,
+    "name": "CUET UG 2027",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://www.google.com/search?q=CUET%20UG%202027%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 186,
+    "name": "UPES DAT 2026",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/sir_jj_art_mumbai.jpg",
+    "website": "https://www.google.com/search?q=UPES%20DAT%202026%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 187,
+    "name": "WUD Aptitude Test 2026",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.google.com/search?q=WUD%20Aptitude%20Test%202026%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 188,
+    "name": "CUCET Chandigarh University 2026",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/sir_jj_art_mumbai.jpg",
+    "website": "https://www.cuchd.in",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 189,
+    "name": "Topiwala National Medical College, Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.google.com/search?q=Topiwala%20National%20Medical%20College%2C%20Mumbai%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "email": "admissions@tnmcm.edu.in"
+  },
+  {
+    "id": 190,
+    "name": "Faculty of Pharmacy, MIT WPU, Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://mitwpu.edu.in/assets/frontend/images/about-area.jpg",
+    "website": "https://mitwpu.edu.in/",
+    "phone": "02071177104",
+    "email": "admissions@mitwpu.edu.in"
+  },
+  {
+    "id": 191,
+    "name": "Alard University Powered by Emversity, Pune",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "https://alarduniversity.edu.in/wp-content/uploads/2025/01/AGI-photo-scaled-1.jpg",
+    "website": "https://emversity.com/",
+    "phone": "080-26597135",
+    "email": "admissions@aupbep.edu.in"
+  },
+  {
+    "id": 192,
+    "name": "M.G.M. School of Physiotherapy, Navi Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.mgmsopnm.edu.in/assets/img/campus/phy1.jpg",
+    "website": "https://mgmsopnm.edu.in/",
+    "phone": "02227437866",
+    "email": "mgmschoolofphysiotherapy@mgmsopnm.edu.in"
+  },
+  {
+    "id": 193,
+    "name": "MUHS, Nashik",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/alkesh_dinesh_mody_mumbai.jpg",
+    "website": "https://www.muhs.ac.in/",
+    "phone": "02532539294",
+    "email": "registrar@muhs.ac.in"
+  }
+]

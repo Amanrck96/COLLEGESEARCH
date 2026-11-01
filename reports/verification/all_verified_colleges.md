@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **610 / 12,660**  
-**Roadmap Progress**: **61.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **620 / 12,660**  
+**Roadmap Progress**: **62.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -924,4 +924,19 @@
 | **181** | Chetana's Hazarimal Somani College of Commerce & Economics (Chetana College Bandra East, Mumbai) | Private / Grant-in-Aid (Premier Commerce & Economics College) | Mumbai - 400051, Maharashtra | [chetanacollege.in](https://chetanacollege.in) |
 | **182** | Sharda School of Business Studies, Sharda University (SUAT Greater Noida) | Private University (Sharda University) | Gautam Buddha Nagar - 201310, Uttar Pradesh | [www.sharda.ac.in](https://www.sharda.ac.in) |
 | **183** | University of Delhi (DU New Delhi) | Public/Government (Central University - 1922, NIRF #1) | New Delhi - 110007, Delhi NCR | [www.du.ac.in](https://www.du.ac.in) |
+
+### Batch 62 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **184** | Asian College of Journalism (ACJ Chennai) | Private (Premier Journalism Institute / MDF) | Chennai - 600113, Tamil Nadu | [www.asianmedia.org](https://www.asianmedia.org) |
+| **185** | Central University of Punjab (CUP Bathinda) | Public/Government (Central University - Act of Parliament 2009) | Bathinda - 151401, Punjab | [cup.edu.in](https://cup.edu.in) |
+| **186** | School of Design, UPES Dehradun (UPES DAT) | Private University (Faculty of Design, UPES) | Dehradun - 248007, Uttarakhand | [www.upes.ac.in](https://www.upes.ac.in) |
+| **187** | World University of Design (WUD Sonipat) | Private University (India's First Dedicated Design University) | Sonipat - 131029, Delhi NCR / Haryana | [worlduniversityofdesign.ac.in](https://worlduniversityofdesign.ac.in) |
+| **188** | Chandigarh University - Centre for Distance & Online Education (CU-CDOE) | Private University (UGC-DEB Approved Online & Distance Education) | Mohali - 140413, Punjab | [www.cuidol.in](https://www.cuidol.in) |
+| **189** | Topiwala National Medical College & BYL Nair Hospital (TNMC Mumbai) | Public/Government (Municipal Medical College - Est. 1921 / MCGM) | Mumbai - 400008, Maharashtra | [tnmcnair.edu.in](https://tnmcnair.edu.in) |
+| **190** | School of Pharmacy, MIT World Peace University (MIT-WPU Pune) | Private University (Faculty of Pharmacy, MIT-WPU) | Pune - 411038, Maharashtra | [mitwpu.edu.in](https://mitwpu.edu.in) |
+| **191** | Alard University Pune (AUP Hinjewadi) | Private University (State Private University) | Pune - 411057, Maharashtra | [alarduniversity.edu.in](https://alarduniversity.edu.in) |
+| **192** | MGM School of Physiotherapy, Navi Mumbai (MGMSOP) | Deemed to be University (Constituent of MGM Institute of Health Sciences) | Navi Mumbai - 410209, Maharashtra | [mgmsopnm.edu.in](https://mgmsopnm.edu.in) |
+| **193** | Maharashtra University of Health Sciences, Nashik (MUHS Nashik) | Public/Government (State Health Sciences University - 1998) | Nashik - 422004, Maharashtra | [www.muhs.ac.in](https://www.muhs.ac.in) |
 

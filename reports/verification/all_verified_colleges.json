@@ -4573,5 +4573,80 @@
         "website": "https://www.du.ac.in"
       }
     ]
+  },
+  {
+    "batch": 62,
+    "items": [
+      {
+        "id": 184,
+        "name": "Asian College of Journalism (ACJ Chennai)",
+        "type": "Private (Premier Journalism Institute / MDF)",
+        "location": "Chennai - 600113, Tamil Nadu",
+        "website": "https://www.asianmedia.org"
+      },
+      {
+        "id": 185,
+        "name": "Central University of Punjab (CUP Bathinda)",
+        "type": "Public/Government (Central University - Act of Parliament 2009)",
+        "location": "Bathinda - 151401, Punjab",
+        "website": "https://cup.edu.in"
+      },
+      {
+        "id": 186,
+        "name": "School of Design, UPES Dehradun (UPES DAT)",
+        "type": "Private University (Faculty of Design, UPES)",
+        "location": "Dehradun - 248007, Uttarakhand",
+        "website": "https://www.upes.ac.in"
+      },
+      {
+        "id": 187,
+        "name": "World University of Design (WUD Sonipat)",
+        "type": "Private University (India's First Dedicated Design University)",
+        "location": "Sonipat - 131029, Delhi NCR / Haryana",
+        "website": "https://worlduniversityofdesign.ac.in"
+      },
+      {
+        "id": 188,
+        "name": "Chandigarh University - Centre for Distance & Online Education (CU-CDOE)",
+        "type": "Private University (UGC-DEB Approved Online & Distance Education)",
+        "location": "Mohali - 140413, Punjab",
+        "website": "https://www.cuidol.in"
+      },
+      {
+        "id": 189,
+        "name": "Topiwala National Medical College & BYL Nair Hospital (TNMC Mumbai)",
+        "type": "Public/Government (Municipal Medical College - Est. 1921 / MCGM)",
+        "location": "Mumbai - 400008, Maharashtra",
+        "website": "https://tnmcnair.edu.in"
+      },
+      {
+        "id": 190,
+        "name": "School of Pharmacy, MIT World Peace University (MIT-WPU Pune)",
+        "type": "Private University (Faculty of Pharmacy, MIT-WPU)",
+        "location": "Pune - 411038, Maharashtra",
+        "website": "https://mitwpu.edu.in"
+      },
+      {
+        "id": 191,
+        "name": "Alard University Pune (AUP Hinjewadi)",
+        "type": "Private University (State Private University)",
+        "location": "Pune - 411057, Maharashtra",
+        "website": "https://alarduniversity.edu.in"
+      },
+      {
+        "id": 192,
+        "name": "MGM School of Physiotherapy, Navi Mumbai (MGMSOP)",
+        "type": "Deemed to be University (Constituent of MGM Institute of Health Sciences)",
+        "location": "Navi Mumbai - 410209, Maharashtra",
+        "website": "https://mgmsopnm.edu.in"
+      },
+      {
+        "id": 193,
+        "name": "Maharashtra University of Health Sciences, Nashik (MUHS Nashik)",
+        "type": "Public/Government (State Health Sciences University - 1998)",
+        "location": "Nashik - 422004, Maharashtra",
+        "website": "https://www.muhs.ac.in"
+      }
+    ]
   }
 ]
