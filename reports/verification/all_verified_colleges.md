@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **520 / 12,660**  
-**Roadmap Progress**: **52.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **530 / 12,660**  
+**Roadmap Progress**: **53.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -789,4 +789,19 @@
 | **86** | JSS College for Women Chamarajanagar | Private Aided (Women's Degree College) | Chamarajanagar - 571313, Karnataka | [jsscwc.edu.in](https://jsscwc.edu.in) |
 | **87** | Surana College (Peenya & South End Campus) | Private (Autonomous Degree College) | Bengaluru - 560022, Karnataka | [www.suranacollege.edu.in](https://www.suranacollege.edu.in) |
 | **88** | BGS First Grade College (BGS FGC Mandya) | Private (Degree College) | Mandya District - 571448, Karnataka | [acu.edu.in](https://acu.edu.in) |
+
+### Batch 53 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **89** | Arihant Institute of Commerce and Management (AICM Bengaluru) | Private (Commerce & Management Institute) | Bengaluru - 560004, Karnataka | [www.agiedu.in](https://www.agiedu.in) |
+| **90** | University of Mysore (UOM Mysuru) | Public/Government (State University) | Mysuru - 570005, Karnataka | [uni-mysore.ac.in](https://uni-mysore.ac.in) |
+| **91** | Kodachadri Government First Grade College Hosanagara (KGFGC Hosanagara) | Public/Government (Degree College) | Shivamogga District - 577418, Karnataka | [dce.karnataka.gov.in](https://dce.karnataka.gov.in) |
+| **92** | Government First Grade College Kunigal (GFGC Kunigal) | Public/Government (Degree College) | Tumakuru District - 572130, Karnataka | [dce.karnataka.gov.in](https://dce.karnataka.gov.in) |
+| **93** | Vijaya First Grade College Vijayapura (VFGC Devanahalli) | Private (Degree College) | Bengaluru Rural - 562135, Karnataka | [vfgc.in](https://vfgc.in) |
+| **94** | National Law School of India University (NLSIU Bangalore - Flagship) | Public/Government (Statutory National Law University) | Bengaluru - 560072, Karnataka | [www.nls.ac.in](https://www.nls.ac.in) |
+| **95** | Government Polytechnic for Women Holenarasipura (GPW Holenarasipura) | Public/Government (Women's Polytechnic) | Hassan District - 573211, Karnataka | [dte.karnataka.gov.in](https://dte.karnataka.gov.in) |
+| **96** | Government Engineering College Ramanagara (GEC Ramanagara) | Public/Government (Engineering College) | Ramanagara District - 562159, Karnataka | [gecramanagara.ac.in](https://gecramanagara.ac.in) |
+| **97** | New Horizon College (Marathahalli & Kasturinagar Campus) | Private (Degree College) | Bengaluru - 560103, Karnataka | [newhorizonindia.edu](https://newhorizonindia.edu) |
+| **98** | Government First Grade Evening College Shivamogga (GFGEC Shivamogga) | Public/Government (Evening Degree College) | Shivamogga - 577201, Karnataka | [dce.karnataka.gov.in](https://dce.karnataka.gov.in) |
 

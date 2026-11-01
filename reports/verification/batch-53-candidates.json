@@ -1,0 +1,172 @@
+[
+  {
+    "id": 89,
+    "name": "ARIHANT INSTITUTE OF COMMERCE AND MANAGEMENT",
+    "address": "NO 148, R V ROAD, V V PURAM, BENGALURU 560004",
+    "state": "Karnataka",
+    "img": "/images/campuses/iim_bangalore.jpg",
+    "website": "https://www.agiedu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BBA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "UNIVERSITY OF MYSORE",
+    "address": "UNIVERSITY OF MYSORE.",
+    "state": "Karnataka",
+    "img": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.universityofmys.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BBA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "KODACHADRI GFGC HOSANAGARA",
+    "address": "MAVINAKOPPA, SHIVAMOGGA ROAD, HOSANAGARA",
+    "state": "Karnataka",
+    "img": "https://images.careerindia.com/college-photos/1319/campus_1495195167.png",
+    "website": "https://www.kodachadrigfgch.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "GOVERNMENT FIRST GRADE COLLEGE KUNIGAL",
+    "address": "BM ROAD KUNIGAL",
+    "state": "Karnataka",
+    "img": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.governmentfirst.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "VIJAYA FIRST GRADE COLLEGE",
+    "address": "VIJAYAPURA TOWN, DEVANAHALLI TQ, BENGALURU RUAL",
+    "state": "Karnataka",
+    "img": "/images/campuses/iim_bangalore.jpg",
+    "website": "https://www.vijayafirstgrad.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "NLSIU Bangalore - National Law School of India University",
+    "address": "Bangalore, Karnataka, India",
+    "state": "Karnataka",
+    "img": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.nls.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "BA LLB (Hons)",
+        "duration": "5 Years",
+        "fee": "₹6.5 Lakhs - ₹10.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "GOVERNMENT POLYTECHNIC FOR WOMEN",
+    "address": "HOLENARASIPURA",
+    "state": "Karnataka",
+    "img": "https://after10thwhat.com/wp-content/uploads/2018/04/govtpolyhassan01-1.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "GOVERNMENT ENGINEERING COLLEGE",
+    "address": "DODDAMANNUGUDDE, RAMANAGAR, RAMANAGAR DISTRICT - 571 511",
+    "state": "Karnataka",
+    "img": "/images/campuses/iiit_bangalore_campus2.jpg",
+    "website": "https://www.governmentengin.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MECHANICAL AND SMART MANUFACTURING",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "NEW HORIZON COLLEGE",
+    "address": "KADUBHISANAHALLI, MARATHALLI RING ROAD, NEW HORIZON KNOWLEDGE PARK",
+    "state": "Karnataka",
+    "img": "/images/campuses/bangalore_university.jpg",
+    "website": "https://newhorizonindia.edu/nhengineering",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "GOVERNMENT FIRST GRADE EVENING COLLEGE",
+    "address": "BAPUJINAGARA BEHIND BEO OFFICE",
+    "state": "Karnataka",
+    "img": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.governmentfirst.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  }
+]

@@ -3898,5 +3898,80 @@
         "website": "https://acu.edu.in"
       }
     ]
+  },
+  {
+    "batch": 53,
+    "items": [
+      {
+        "id": 89,
+        "name": "Arihant Institute of Commerce and Management (AICM Bengaluru)",
+        "type": "Private (Commerce & Management Institute)",
+        "location": "Bengaluru - 560004, Karnataka",
+        "website": "https://www.agiedu.in"
+      },
+      {
+        "id": 90,
+        "name": "University of Mysore (UOM Mysuru)",
+        "type": "Public/Government (State University)",
+        "location": "Mysuru - 570005, Karnataka",
+        "website": "https://uni-mysore.ac.in"
+      },
+      {
+        "id": 91,
+        "name": "Kodachadri Government First Grade College Hosanagara (KGFGC Hosanagara)",
+        "type": "Public/Government (Degree College)",
+        "location": "Shivamogga District - 577418, Karnataka",
+        "website": "https://dce.karnataka.gov.in"
+      },
+      {
+        "id": 92,
+        "name": "Government First Grade College Kunigal (GFGC Kunigal)",
+        "type": "Public/Government (Degree College)",
+        "location": "Tumakuru District - 572130, Karnataka",
+        "website": "https://dce.karnataka.gov.in"
+      },
+      {
+        "id": 93,
+        "name": "Vijaya First Grade College Vijayapura (VFGC Devanahalli)",
+        "type": "Private (Degree College)",
+        "location": "Bengaluru Rural - 562135, Karnataka",
+        "website": "https://vfgc.in"
+      },
+      {
+        "id": 94,
+        "name": "National Law School of India University (NLSIU Bangalore - Flagship)",
+        "type": "Public/Government (Statutory National Law University)",
+        "location": "Bengaluru - 560072, Karnataka",
+        "website": "https://www.nls.ac.in"
+      },
+      {
+        "id": 95,
+        "name": "Government Polytechnic for Women Holenarasipura (GPW Holenarasipura)",
+        "type": "Public/Government (Women's Polytechnic)",
+        "location": "Hassan District - 573211, Karnataka",
+        "website": "https://dte.karnataka.gov.in"
+      },
+      {
+        "id": 96,
+        "name": "Government Engineering College Ramanagara (GEC Ramanagara)",
+        "type": "Public/Government (Engineering College)",
+        "location": "Ramanagara District - 562159, Karnataka",
+        "website": "https://gecramanagara.ac.in"
+      },
+      {
+        "id": 97,
+        "name": "New Horizon College (Marathahalli & Kasturinagar Campus)",
+        "type": "Private (Degree College)",
+        "location": "Bengaluru - 560103, Karnataka",
+        "website": "https://newhorizonindia.edu"
+      },
+      {
+        "id": 98,
+        "name": "Government First Grade Evening College Shivamogga (GFGEC Shivamogga)",
+        "type": "Public/Government (Evening Degree College)",
+        "location": "Shivamogga - 577201, Karnataka",
+        "website": "https://dce.karnataka.gov.in"
+      }
+    ]
   }
 ]
