@@ -11623,5 +11623,80 @@
         "website": "https://www.amrita.edu/school/business/amritapuri"
       }
     ]
+  },
+  {
+    "batch": 156,
+    "items": [
+      {
+        "id": 1236,
+        "name": "ICFAI University (Directorate of Distance Education), Bangalore Information Centre",
+        "type": "Private",
+        "location": "Bangalore, Karnataka - 560034",
+        "website": "https://www.icfaiuniversity.in"
+      },
+      {
+        "id": 1237,
+        "name": "Rajagiri Business School, Kochi",
+        "type": "Private",
+        "location": "Kochi, Kerala - 682039",
+        "website": "https://www.rajagiribusinessschool.edu.in"
+      },
+      {
+        "id": 1238,
+        "name": "Don Bosco Arts & Science College, Angadikadavu, Kannur",
+        "type": "Private",
+        "location": "Kannur District, Kerala - 670704",
+        "website": "https://www.donbosco.ac.in"
+      },
+      {
+        "id": 1240,
+        "name": "Chinmaya Vishwa Vidyapeeth (CVV), Ernakulam",
+        "type": "Private",
+        "location": "Ernakulam, Kerala - 686667",
+        "website": "https://www.cvv.ac.in"
+      },
+      {
+        "id": 1241,
+        "name": "Kerala University of Digital Sciences, Innovation and Technology (Digital University Kerala - DUK)",
+        "type": "Public/Government",
+        "location": "Thiruvananthapuram, Kerala - 695317",
+        "website": "https://duk.ac.in"
+      },
+      {
+        "id": 1244,
+        "name": "MGM Silver Jubilee Polytechnic College, Kannur",
+        "type": "Private",
+        "location": "Kannur, Kerala - 670501",
+        "website": "https://mgmptknr.com"
+      },
+      {
+        "id": 1245,
+        "name": "Younus College of Polytechnic, Kollam",
+        "type": "Private",
+        "location": "Kollam, Kerala - 691538",
+        "website": "http://ycp.edu.in"
+      },
+      {
+        "id": 1247,
+        "name": "Amrita Vishwa Vidyapeetham, Kochi Campus",
+        "type": "Private",
+        "location": "Kochi, Kerala - 682041",
+        "website": "https://www.amrita.edu/campus/kochi/"
+      },
+      {
+        "id": 1248,
+        "name": "M-DIT Polytechnic College, Kozhikode",
+        "type": "Private",
+        "location": "Kozhikode, Kerala - 673323",
+        "website": "https://www.mditpoly.ac.in"
+      },
+      {
+        "id": 1249,
+        "name": "Rajadhani Institute of Science and Technology (Technical Campus), Palakkad",
+        "type": "Private",
+        "location": "Palakkad, Kerala - 678613",
+        "website": "https://riet.edu.in"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1550 / 12,660**  
-**Roadmap Progress**: **155.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1560 / 12,660**  
+**Roadmap Progress**: **156.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2334,4 +2334,19 @@
 | **1233** | Amity Global Business School, Kochi | Private | Kochi, Kerala - 682035 | [kochi.agbs.in](https://kochi.agbs.in) |
 | **1234** | Cochin University of Science and Technology (CUSAT), Kochi | Public/Government | Kochi, Kerala - 682022 | [cusat.ac.in](https://cusat.ac.in) |
 | **1235** | Amrita School of Business, Amritapuri | Private | Kollam, Kerala - 690525 | [www.amrita.edu](https://www.amrita.edu/school/business/amritapuri) |
+
+### Batch 156 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1236** | ICFAI University (Directorate of Distance Education), Bangalore Information Centre | Private | Bangalore, Karnataka - 560034 | [www.icfaiuniversity.in](https://www.icfaiuniversity.in) |
+| **1237** | Rajagiri Business School, Kochi | Private | Kochi, Kerala - 682039 | [www.rajagiribusinessschool.edu.in](https://www.rajagiribusinessschool.edu.in) |
+| **1238** | Don Bosco Arts & Science College, Angadikadavu, Kannur | Private | Kannur District, Kerala - 670704 | [www.donbosco.ac.in](https://www.donbosco.ac.in) |
+| **1240** | Chinmaya Vishwa Vidyapeeth (CVV), Ernakulam | Private | Ernakulam, Kerala - 686667 | [www.cvv.ac.in](https://www.cvv.ac.in) |
+| **1241** | Kerala University of Digital Sciences, Innovation and Technology (Digital University Kerala - DUK) | Public/Government | Thiruvananthapuram, Kerala - 695317 | [duk.ac.in](https://duk.ac.in) |
+| **1244** | MGM Silver Jubilee Polytechnic College, Kannur | Private | Kannur, Kerala - 670501 | [mgmptknr.com](https://mgmptknr.com) |
+| **1245** | Younus College of Polytechnic, Kollam | Private | Kollam, Kerala - 691538 | [ycp.edu.in](http://ycp.edu.in) |
+| **1247** | Amrita Vishwa Vidyapeetham, Kochi Campus | Private | Kochi, Kerala - 682041 | [www.amrita.edu](https://www.amrita.edu/campus/kochi/) |
+| **1248** | M-DIT Polytechnic College, Kozhikode | Private | Kozhikode, Kerala - 673323 | [www.mditpoly.ac.in](https://www.mditpoly.ac.in) |
+| **1249** | Rajadhani Institute of Science and Technology (Technical Campus), Palakkad | Private | Palakkad, Kerala - 678613 | [riet.edu.in](https://riet.edu.in) |
 
