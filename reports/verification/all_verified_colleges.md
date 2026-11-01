@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1350 / 12,660**  
-**Roadmap Progress**: **135.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1360 / 12,660**  
+**Roadmap Progress**: **136.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2034,4 +2034,19 @@
 | **1019** | Anand International College of Engineering | Private | Jaipur, Rajasthan - 303012 | [anandice.ac.in](https://anandice.ac.in) |
 | **1020** | Government Polytechnic College, Neemrana | Public/Government | District Kotputli-Behror, Rajasthan - 301705 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcneemrana) |
 | **1021** | Shekhawati Polytechnic College | Private | District Jhunjhunu, Rajasthan - 333702 | [shekhawati.edu.in](https://shekhawati.edu.in) |
+
+### Batch 136 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1022** | Bhawani Institute of Technical Education | Private | Nagaur, Rajasthan - 341001 | [bitenagaur.com](https://bitenagaur.com) |
+| **1023** | Jaipur Engineering College | Private | Jaipur, Rajasthan - 302028 | [jeckukas.org.in](https://jeckukas.org.in) |
+| **1024** | Central University of Rajasthan | Public/Government | District Ajmer, Rajasthan - 305817 | [curaj.ac.in](https://curaj.ac.in) |
+| **1025** | Government Polytechnic College, Pali-Marwar | Public/Government | Pali-Marwar, Rajasthan - 306401 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcpali) |
+| **1026** | University College of Engineering, Govind Guru Tribal University Banswara | Public/Government | Banswara, Rajasthan - 327001 | [ggtu.ac.in](https://ggtu.ac.in) |
+| **1027** | Manikya Lal Verma Textile & Engineering College, Bhilwara | Public/Government | Bhilwara, Rajasthan - 311001 | [mlvtec.ac.in](https://mlvtec.ac.in) |
+| **1028** | Rajasthan Technical University, Kota | Public/Government | Kota, Rajasthan - 324010 | [rtu.ac.in](https://rtu.ac.in) |
+| **1029** | P.N.B. Polytechnic College | Private | Jaipur, Rajasthan - 303301 | [pnbpolytechnic.com](https://pnbpolytechnic.com) |
+| **1030** | Government Polytechnic College, Nagaur | Public/Government | Nagaur, Rajasthan - 341001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcnagaur) |
+| **1031** | Vidya Bhawan Polytechnic College | Public/Government | Udaipur, Rajasthan - 313004 | [vbpolytechnic.org](https://vbpolytechnic.org) |
 

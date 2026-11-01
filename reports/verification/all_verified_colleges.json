@@ -10123,5 +10123,80 @@
         "website": "https://shekhawati.edu.in"
       }
     ]
+  },
+  {
+    "batch": 136,
+    "items": [
+      {
+        "id": 1022,
+        "name": "Bhawani Institute of Technical Education",
+        "type": "Private",
+        "location": "Nagaur, Rajasthan - 341001",
+        "website": "https://bitenagaur.com"
+      },
+      {
+        "id": 1023,
+        "name": "Jaipur Engineering College",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302028",
+        "website": "https://jeckukas.org.in"
+      },
+      {
+        "id": 1024,
+        "name": "Central University of Rajasthan",
+        "type": "Public/Government",
+        "location": "District Ajmer, Rajasthan - 305817",
+        "website": "https://curaj.ac.in"
+      },
+      {
+        "id": 1025,
+        "name": "Government Polytechnic College, Pali-Marwar",
+        "type": "Public/Government",
+        "location": "Pali-Marwar, Rajasthan - 306401",
+        "website": "https://hte.rajasthan.gov.in/college/gpcpali"
+      },
+      {
+        "id": 1026,
+        "name": "University College of Engineering, Govind Guru Tribal University Banswara",
+        "type": "Public/Government",
+        "location": "Banswara, Rajasthan - 327001",
+        "website": "https://ggtu.ac.in"
+      },
+      {
+        "id": 1027,
+        "name": "Manikya Lal Verma Textile & Engineering College, Bhilwara",
+        "type": "Public/Government",
+        "location": "Bhilwara, Rajasthan - 311001",
+        "website": "https://mlvtec.ac.in"
+      },
+      {
+        "id": 1028,
+        "name": "Rajasthan Technical University, Kota",
+        "type": "Public/Government",
+        "location": "Kota, Rajasthan - 324010",
+        "website": "https://rtu.ac.in"
+      },
+      {
+        "id": 1029,
+        "name": "P.N.B. Polytechnic College",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303301",
+        "website": "https://pnbpolytechnic.com"
+      },
+      {
+        "id": 1030,
+        "name": "Government Polytechnic College, Nagaur",
+        "type": "Public/Government",
+        "location": "Nagaur, Rajasthan - 341001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcnagaur"
+      },
+      {
+        "id": 1031,
+        "name": "Vidya Bhawan Polytechnic College",
+        "type": "Public/Government",
+        "location": "Udaipur, Rajasthan - 313004",
+        "website": "https://vbpolytechnic.org"
+      }
+    ]
   }
 ]
