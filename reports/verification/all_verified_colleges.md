@@ -2759,3 +2759,19 @@
 | 1844 | Ram Krishna Rathore Government Polytechnic, Janjgir-Champa | Janjgir-Champa | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gprkrjanjgir.ac.in) |
 | 1845 | Government Polytechnic, Mungeli | Mungeli | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://govtpolymungeli.ac.in) |
 | 1846 | Government Polytechnic, Sukma | Sukma | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpsukma.ac.in) |
+
+
+### Batch 186 (Colleges 1,851–1,860)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1851 | Government Polytechnic, Korba | Korba | Chhattisgarh | Public/Government | [Portal](http://gpkorba.ac.in) |
+| 1852 | Mansa Polytechnic College, Kurud | Durg | Chhattisgarh | Private | [Portal](https://mansapolytechnic.in) |
+| 1853 | Government Engineering College, Raipur | Raipur | Chhattisgarh | Public/Government | [Portal](https://gecraipur.ac.in) |
+| 1854 | Government Girls Polytechnic, Bilaspur | Bilaspur | Chhattisgarh | Public/Government | [Portal](http://ggpbilaspur.ac.in) |
+| 1855 | Thakur Balram Singh Government Polytechnic, Takhatpur | Bilaspur | Chhattisgarh | Public/Government | [Portal](http://gptakhatpur.ac.in) |
+| 1856 | Chhattisgarh Institute of Technology, Raigarh (Govt. Polytechnic) | Raigarh | Chhattisgarh | Public/Government | [Portal](http://cgdte.cgstate.gov.in) |
+| 1857 | Government Polytechnic, Mahasamund | Mahasamund | Chhattisgarh | Public/Government | [Portal](http://gpmahasamund.ac.in) |
+| 1858 | Government Polytechnic, Ramanujganj | Balrampur | Chhattisgarh | Public/Government | [Portal](http://gpramanujganj.ac.in) |
+| 1859 | Chhattisgarh Institute of Technology, Jashpur (Govt. Polytechnic) | Jashpur | Chhattisgarh | Public/Government | [Portal](http://gpjashpur.ac.in) |
+| 1860 | Government Polytechnic, Gariaband | Gariaband | Chhattisgarh | Public/Government | [Portal](http://gpgariaband.ac.in) |
