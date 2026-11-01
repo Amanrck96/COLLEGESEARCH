@@ -2823,3 +2823,19 @@
 | 1888 | School of Studies in Computer Science, Pt. Ravishankar Shukla University, Raipur | Raipur | Chhattisgarh | Public/Government | [Portal](https://www.prsu.ac.in) |
 | 1889 | School of Studies of Engineering & Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur | Bilaspur | Chhattisgarh | Public/Government | [Portal](https://www.new.ggu.ac.in) |
 | 1890 | Columbia Institute of Engineering & Technology, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://cietraipur.ac.in) |
+
+
+### Batch 190 (Colleges 1,891–1,900)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1891 | Government Engineering College, Bilaspur | Bilaspur | Chhattisgarh | Public/Government | [Portal](https://gecbilaspur.ac.in) |
+| 1892 | Chhatrapati Shivaji Institute of Technology, Durg | Durg | Chhattisgarh | Private | [Portal](https://csitdurg.in) |
+| 1893 | Bhilai Institute of Technology, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://bitraipur.ac.in) |
+| 1894 | School of Engineering & Information Technology, MATS University, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://matsuniversity.ac.in) |
+| 1895 | Bhilai Institute of Technology, Durg (BIT Durg) | Durg | Chhattisgarh | Private | [Portal](https://bitdurg.ac.in) |
+| 1896 | Chhattisgarh Engineering College, Durg | Durg | Chhattisgarh | Private | [Portal](http://cecdurg.in) |
+| 1897 | Sai Mahavidyalaya, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://saimahavidyalaya.com) |
+| 1898 | GD Rungta College of Science and Technology, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://www.rungta.ac.in/gdrst) |
+| 1899 | Government Polytechnic, Pathariya | Mungeli | Chhattisgarh | Public/Government | [Portal](http://gppathariya.ac.in) |
+| 1900 | Government Polytechnic, Marwahi | Gaurela-Pendra-Marwahi | Chhattisgarh | Public/Government | [Portal](http://gpmarwahi.ac.in) |

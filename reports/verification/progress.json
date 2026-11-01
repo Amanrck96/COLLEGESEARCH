@@ -1632,7 +1632,17 @@
     1883,
     1884,
     1885,
-    1886
+    1886,
+    1887,
+    1888,
+    1889,
+    1890,
+    1891,
+    1892,
+    1893,
+    1894,
+    1895,
+    1896
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -1959,6 +1969,24 @@
         1886
       ],
       "verifiedAt": "2026-11-01T20:58:34.602Z"
+    },
+    "190": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "1891-1900",
+      "ids": [
+        1887,
+        1888,
+        1889,
+        1890,
+        1891,
+        1892,
+        1893,
+        1894,
+        1895,
+        1896
+      ],
+      "verifiedAt": "2026-11-01T21:02:43.917Z"
     }
   },
   "all_verified_ids": [
@@ -1973,11 +2001,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 189,
-  "verifiedColleges": 1890,
-  "lastUpdated": "2026-11-01T20:58:34.493Z",
+  "last_batch_completed": 190,
+  "verifiedColleges": 1900,
+  "lastUpdated": "2026-11-01T21:02:43.844Z",
   "batchesCompleted": 172,
-  "currentBatch": 189,
+  "currentBatch": 190,
   "batchHistory": [
     {
       "batch": 160,
@@ -2283,6 +2311,24 @@
         1884,
         1885,
         1886
+      ]
+    },
+    {
+      "batch": 190,
+      "verifiedCount": 10,
+      "totalVerified": 1900,
+      "timestamp": "2026-11-01T21:02:43.917Z",
+      "collegeIds": [
+        1887,
+        1888,
+        1889,
+        1890,
+        1891,
+        1892,
+        1893,
+        1894,
+        1895,
+        1896
       ]
     }
   ]

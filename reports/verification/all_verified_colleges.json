@@ -25885,5 +25885,760 @@
     "ownership": "Private",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLUMBIA%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20RAIPUR%20Chhattisgarh",
     "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+  },
+  {
+    "id": 1887,
+    "name": "Government Engineering College, Bilaspur",
+    "shortName": "GEC Bilaspur",
+    "location": "Bilaspur",
+    "state": "Chhattisgarh",
+    "address": "Koni, Bilaspur, Chhattisgarh - 495009",
+    "phone": "07752-260289",
+    "website": "https://gecbilaspur.ac.in",
+    "rating": 4.5,
+    "reviews": 425,
+    "type": "Public/Government",
+    "about": "Government Engineering College Bilaspur (GEC Bilaspur), established in 1964, is one of the oldest and most prestigious state government engineering institutions in Central India. Situated on a lush 179-acre campus at Koni, it is approved by AICTE and affiliated to CSVTU Bhilai.",
+    "ranking": 11,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20ENGINEERING%20COLLEGE%20BILASPUR%20BILASPUR%20Chhattisgarh",
+    "fees": "₹24,390/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_7.jpg",
+    "gallery": [
+      "https://th.bing.com/th/id/R.cc8bbfde69f90458fb32e69af502f773?rik=z3ipH3BNDK9kCg&riu=http%3a%2f%2fsingheducation.co.in%2fimages%2fCollegeImages%2f079846cool-age.jpg&ehk=MnbYQGZYhDvS707RSw71HAdlIinNfoge1jcNspcAGmQ%3d&risl=&pid=ImgRaw&r=0",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹24,390/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹24,390/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electrical Engineering",
+        "duration": "4 Years",
+        "fees": "₹24,390/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mining Engineering",
+        "duration": "4 Years",
+        "fees": "₹24,390/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "B.Tech in Information Technology",
+        "duration": "4 Years",
+        "fees": "₹24,390/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 425,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20ENGINEERING%20COLLEGE%20BILASPUR%20BILASPUR%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+  },
+  {
+    "id": 1888,
+    "name": "Chhatrapati Shivaji Institute of Technology, Durg",
+    "shortName": "CSIT Durg",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Shivaji Nagar, Balod Road, Kolihapuri, Post Pisegaon, Durg, Chhattisgarh - 491001",
+    "phone": "0788-2229902",
+    "website": "https://csitdurg.in",
+    "rating": 4.5,
+    "reviews": 87,
+    "type": "Private",
+    "about": "Chhatrapati Shivaji Institute of Technology (CSIT) Durg, established in 1999 by Chhatrapati Shivaji Education Society, is an AICTE-approved and NAAC-accredited private engineering institute affiliated to CSVTU Bhilai.",
+    "ranking": 23,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=CHHATRAPATI%20SHIVAJI%20INSTITUTE%20OF%20TECHNOLOGY%20DURG%20Chhattisgarh",
+    "fees": "₹70,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/160078079610.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/college_data/images/campusimage/160078079610.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electronics and Telecommunication",
+        "duration": "4 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "M.Tech in Computer Science",
+        "duration": "2 Years",
+        "fees": "₹60,000/Yr",
+        "eligibility": "B.Tech CSE + GATE",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 18
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 87,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/160078079610.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHHATRAPATI%20SHIVAJI%20INSTITUTE%20OF%20TECHNOLOGY%20DURG%20Chhattisgarh"
+  },
+  {
+    "id": 1889,
+    "name": "Bhilai Institute of Technology, Raipur",
+    "shortName": "BIT Raipur",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "NH-43, Village Kendri, Near Kendri Railway Station, New Raipur, Chhattisgarh - 493661",
+    "phone": "0771-2972777",
+    "website": "https://bitraipur.ac.in",
+    "rating": 4.5,
+    "reviews": 236,
+    "type": "Private",
+    "about": "Bhilai Institute of Technology Raipur (BIT Raipur), established in 2009 under the Bhilai Institute of Technology Trust, is an AICTE-approved and NAAC-accredited technical college affiliated to CSVTU Bhilai, situated on NH-43 at Kendri in New Raipur.",
+    "ranking": 54,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=BHILAI%20INSTITUTE%20OF%20TECHNOLOGY%2CRAIPUR.%20RAIPUR%20Chhattisgarh",
+    "fees": "₹75,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/gnims_matunga.png",
+    "gallery": [
+      "https://campusin.com/wp-content/uploads/BU-Durg-Hero-Banner-1.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      },
+      {
+        "title": "B.Tech in Electrical and Electronics Engineering",
+        "duration": "4 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 236,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/gnims_matunga.png",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=BHILAI%20INSTITUTE%20OF%20TECHNOLOGY%2CRAIPUR.%20RAIPUR%20Chhattisgarh"
+  },
+  {
+    "id": 1890,
+    "name": "School of Engineering & Information Technology, MATS University, Raipur",
+    "shortName": "MATS School of Engg",
+    "location": "Raipur",
+    "state": "Chhattisgarh",
+    "address": "MATS University Campus, Gullu, Aarang-Kharora Highway, Aarang, Raipur, Chhattisgarh - 493441",
+    "phone": "0771-4078995",
+    "website": "https://matsuniversity.ac.in",
+    "rating": 4.5,
+    "reviews": 337,
+    "type": "Private",
+    "about": "School of Engineering & Information Technology is a constituent school of MATS University Raipur, established under the Chhattisgarh Private Universities Act in 2006, offering AICTE- and UGC-aligned technical degree programs.",
+    "ranking": 99,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20ENGINEERING%20AND%20INFORMATION%20TECHNOLOGY%20RAIPUR%20Chhattisgarh",
+    "fees": "₹75,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/iiit_bangalore_campus.jpg",
+    "gallery": [
+      "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/20264/2020/8/21/Campus View of MATS School of Engineering and Information Technology Raipur_Campus-View.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
+    ],
+    "affiliation": "MATS University, Raipur (State Private University, UGC Recognized)",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "10+2 with PCM + MATS EEE / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "BCA / B.Sc with Mathematics",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 337,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20ENGINEERING%20AND%20INFORMATION%20TECHNOLOGY%20RAIPUR%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+  },
+  {
+    "id": 1891,
+    "name": "Bhilai Institute of Technology, Durg (BIT Durg)",
+    "shortName": "BIT Durg",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Bhilai House, G.E. Road, Durg, Chhattisgarh - 491001",
+    "phone": "0788-2359297",
+    "website": "https://bitdurg.ac.in",
+    "rating": 4.5,
+    "reviews": 175,
+    "type": "Private",
+    "about": "Bhilai Institute of Technology (BIT Durg), established in 1986 as the first self-financed engineering college in Central India, is an autonomous technical institution accredited with NAAC 'A' Grade and NBA. Affiliated to CSVTU Bhilai, it consistently ranks among the top engineering institutions in the region.",
+    "ranking": 87,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=BHILAI%20INSTITUTE%20OF%20TECHNOLOGY%20DURG%20Chhattisgarh",
+    "fees": "₹78,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/ramaiah_bangalore.jpg",
+    "gallery": [
+      "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/4791/2018/4/18/Bhilai-Institute-of-Technology-Durg-5.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
+    ],
+    "affiliation": "Autonomous (Affiliated to CSVTU, Bhilai, NAAC 'A', NBA)",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹78,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 180
+      },
+      {
+        "title": "B.Tech in Electrical Engineering",
+        "duration": "4 Years",
+        "fees": "₹78,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹78,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      },
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "BCA / B.Sc with Mathematics + CG Pre-MCA",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "fees": "₹65,000/Yr",
+        "eligibility": "Graduation with 50% + CMAT / MAT / CAT",
+        "type": "MANAGEMENT",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 175,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=BHILAI%20INSTITUTE%20OF%20TECHNOLOGY%20DURG%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+  },
+  {
+    "id": 1892,
+    "name": "Chhattisgarh Engineering College, Durg",
+    "shortName": "CEC Durg",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Borsi-Dhanora Road, In Front of St. Xavier School, Dhanora, Durg, Chhattisgarh - 491001",
+    "phone": "0788-2962300",
+    "website": "http://cecdurg.in",
+    "rating": 4.5,
+    "reviews": 386,
+    "type": "Private",
+    "about": "Chhattisgarh Engineering College (CEC Durg), established in 2009 at Dhanora, Durg, offers AICTE-approved undergraduate engineering programs affiliated to CSVTU Bhilai.",
+    "ranking": 72,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=CHHATTISGARH%20ENGINEERING%20COLLEGE%20DURG%20Chhattisgarh",
+    "fees": "₹55,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://media.getmyuni.com/azure/college-images-test/chhattisgarh-engineering-college-durg/7c080266c353407c94b357e15d112d59.jpeg",
+    "gallery": [
+      "https://media.getmyuni.com/azure/college-images-test/chhattisgarh-engineering-college-durg/7c080266c353407c94b357e15d112d59.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 with PCM + CG PET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 386,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://media.getmyuni.com/azure/college-images-test/chhattisgarh-engineering-college-durg/7c080266c353407c94b357e15d112d59.jpeg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHHATTISGARH%20ENGINEERING%20COLLEGE%20DURG%20Chhattisgarh"
+  },
+  {
+    "id": 1893,
+    "name": "Sai Mahavidyalaya, Bhilai",
+    "shortName": "Sai College Bhilai",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Street 69, Sector 6, Bhilai, Durg, Chhattisgarh - 490006",
+    "phone": "0788-2223793",
+    "website": "https://saimahavidyalaya.com",
+    "rating": 4.5,
+    "reviews": 146,
+    "type": "Private",
+    "about": "Sai Mahavidyalaya (Sai College) Bhilai, established by Sai Education Society, is a recognized degree college in Sector 6, Bhilai, affiliated to Hemchand Yadav Vishwavidyalaya (Durg University), providing education in computer applications, management, science, and commerce.",
+    "ranking": 88,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SAI%20MAHAVIDYALAYA%20DURG%20Chhattisgarh",
+    "fees": "₹30,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_3.jpg",
+    "gallery": [
+      "https://images.bhaskarassets.com/web2images/521/2023/01/22/_1674361997.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
+    ],
+    "affiliation": "Hemchand Yadav Vishwavidyalaya, Durg (State University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹30,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 120
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹18,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹28,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 146,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SAI%20MAHAVIDYALAYA%20DURG%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+  },
+  {
+    "id": 1894,
+    "name": "GD Rungta College of Science and Technology, Bhilai",
+    "shortName": "GDRST Bhilai",
+    "location": "Durg",
+    "state": "Chhattisgarh",
+    "address": "Rungta Educational Campus, Kohka-Kurud Road, Bhilai, Durg, Chhattisgarh - 490024",
+    "phone": "0788-6666666",
+    "website": "https://www.rungta.ac.in/gdrst",
+    "rating": 4.5,
+    "reviews": 171,
+    "type": "Private",
+    "about": "GD Rungta College of Science and Technology (GDRST) Bhilai is a premier undergraduate and postgraduate institution affiliated to Hemchand Yadav Vishwavidyalaya, Durg, offering specialized degrees in IT, management, and commerce.",
+    "ranking": 23,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GD%20RUNGTA%20COLLEGE%20OF%20SCIENCE%20AND%20TECHNOLOGY%20DURG%20Chhattisgarh",
+    "fees": "₹35,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/reviewPhotos/632484/sanjay-rungta-group-of-institutions-bhilai-257180.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
+    ],
+    "affiliation": "Hemchand Yadav Vishwavidyalaya, Durg (State University)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 180
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 120
+      },
+      {
+        "title": "M.Sc in Computer Science",
+        "duration": "2 Years",
+        "fees": "₹30,000/Yr",
+        "eligibility": "BCA / B.Sc Computer Science",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 40
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 171,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GD%20RUNGTA%20COLLEGE%20OF%20SCIENCE%20AND%20TECHNOLOGY%20DURG%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_iit_patna.png"
+  },
+  {
+    "id": 1895,
+    "name": "Government Polytechnic, Pathariya",
+    "shortName": "GP Pathariya",
+    "location": "Mungeli",
+    "state": "Chhattisgarh",
+    "address": "Govt. Virangana Avanti Bai College Campus, Sarwani, Pathariya, Mungeli, Chhattisgarh - 495353",
+    "phone": "07755-244100",
+    "website": "http://gppathariya.ac.in",
+    "rating": 4.5,
+    "reviews": 305,
+    "type": "Public/Government",
+    "about": "Government Polytechnic Pathariya was established by the Government of Chhattisgarh to provide subsidized technical diploma programs in Mungeli district, affiliated to CSVTU Bhilai and approved by AICTE.",
+    "ranking": 82,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PATHARIYA%20BILASPUR%20Chhattisgarh",
+    "fees": "₹5,150/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/sheila_raheja_bandra.webp",
+    "gallery": [
+      "https://th.bing.com/th/id/R.6657be34f61a678227d19bdc66deab4f?rik=u1uCtr%2fl3Uoseg&riu=http%3a%2f%2fgovtpolybsp.ac.in%2fimages%2fdemo%2frotate%2f2.jpg&ehk=7uR8KpUpb8N9ZQ%2f6DMSeikoyQC9IIcEbyyzQh1ttowU%3d&risl=&pid=ImgRaw&r=0",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "Diploma in Mining Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,150/Yr",
+        "eligibility": "Class 10th with CG PPT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,150/Yr",
+        "eligibility": "Class 10th with CG PPT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,150/Yr",
+        "eligibility": "Class 10th with CG PPT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 305,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/sheila_raheja_bandra.webp",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PATHARIYA%20BILASPUR%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+  },
+  {
+    "id": 1896,
+    "name": "Government Polytechnic, Marwahi",
+    "shortName": "GP Marwahi",
+    "location": "Gaurela-Pendra-Marwahi",
+    "state": "Chhattisgarh",
+    "address": "Near Rest House, Tehsil Marwahi, District Gaurela-Pendra-Marwahi, Chhattisgarh - 495118",
+    "phone": "07751-224200",
+    "website": "http://gpmarwahi.ac.in",
+    "rating": 4.5,
+    "reviews": 194,
+    "type": "Public/Government",
+    "about": "Government Polytechnic Marwahi is an AICTE-approved state government technical college situated in the tribal district of Gaurela-Pendra-Marwahi, offering subsidized engineering diplomas affiliated to CSVTU Bhilai.",
+    "ranking": 91,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20MARWAHI%20BILASPUR%20Chhattisgarh",
+    "fees": "₹5,150/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "gallery": [
+      "http://www.govtpolybsp.ac.in/images/Photo_Gallary/Building.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
+    ],
+    "affiliation": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai",
+    "courses": [
+      {
+        "title": "Diploma in Computer Science and Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,150/Yr",
+        "eligibility": "Class 10th with CG PPT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,150/Yr",
+        "eligibility": "Class 10th with CG PPT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,150/Yr",
+        "eligibility": "Class 10th with CG PPT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 194,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20MARWAHI%20BILASPUR%20Chhattisgarh",
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
   }
 ]
