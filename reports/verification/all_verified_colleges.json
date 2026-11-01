@@ -11773,5 +11773,80 @@
         "website": "https://www.gptcn.ac.in"
       }
     ]
+  },
+  {
+    "batch": 158,
+    "items": [
+      {
+        "id": 1262,
+        "name": "Amrita Vishwa Vidyapeetham, Amritapuri Campus (School of Arts, Sciences & Engineering)",
+        "type": "Private",
+        "location": "Kollam, Kerala - 690525",
+        "website": "https://www.amrita.edu/campus/amritapuri/"
+      },
+      {
+        "id": 1263,
+        "name": "KMCT College of Hotel Management and Catering Technology, Kuttippuram",
+        "type": "Private",
+        "location": "Malappuram District, Kerala - 679571",
+        "website": "https://www.kmctchmct.org"
+      },
+      {
+        "id": 1264,
+        "name": "Kerala State Institute of Design (KSID), Kollam",
+        "type": "Public/Government",
+        "location": "Kollam District, Kerala - 691014",
+        "website": "https://www.ksid.ac.in"
+      },
+      {
+        "id": 1265,
+        "name": "KMCT School of Management, Chathamangalam, Kozhikode",
+        "type": "Private",
+        "location": "Kozhikode, Kerala - 673601",
+        "website": "https://www.kmctmba.org"
+      },
+      {
+        "id": 1266,
+        "name": "Verghese Kurien Institute of Dairy and Food Technology (VKIDFT), Thrissur",
+        "type": "Public/Government",
+        "location": "Thrissur, Kerala - 680651",
+        "website": "https://cdst.kvasu.ac.in"
+      },
+      {
+        "id": 1267,
+        "name": "Malabar Institute of Technology, Anjarakandy, Kannur",
+        "type": "Private",
+        "location": "Kannur, Kerala - 670612",
+        "website": "https://mit.anjarakandy.in"
+      },
+      {
+        "id": 1268,
+        "name": "Institute of Fashion Technology Kerala (IFTK), Kollam",
+        "type": "Public/Government",
+        "location": "Kollam District, Kerala - 691511",
+        "website": "https://iftk.ac.in"
+      },
+      {
+        "id": 1269,
+        "name": "College of Engineering Muttathara, Thiruvananthapuram",
+        "type": "Public/Government",
+        "location": "Thiruvananthapuram, Kerala - 695008",
+        "website": "https://cemuttathara.ac.in"
+      },
+      {
+        "id": 1270,
+        "name": "Government Polytechnic College, Mananthavady, Wayanad",
+        "type": "Public/Government",
+        "location": "Wayanad District, Kerala - 670645",
+        "website": "https://gptcmdy.ac.in"
+      },
+      {
+        "id": 1271,
+        "name": "Kelappaji College of Agricultural Engineering and Food Technology (KCAET), Tavanur",
+        "type": "Public/Government",
+        "location": "Malappuram District, Kerala - 679573",
+        "website": "http://kcaet.kau.in"
+      }
+    ]
   }
 ]

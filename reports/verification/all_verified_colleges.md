@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1570 / 12,660**  
-**Roadmap Progress**: **157.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1580 / 12,660**  
+**Roadmap Progress**: **158.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2364,4 +2364,19 @@
 | **1258** | Malabar Polytechnic College, Kottakkal, Malappuram | Private | Malappuram District, Kerala - 676553 | [www.malabarpoly.org](http://www.malabarpoly.org) |
 | **1260** | Department of Statistics, Cochin University of Science and Technology (CUSAT) | Public/Government | Kochi, Kerala - 682022 | [stats.cusat.ac.in](https://stats.cusat.ac.in) |
 | **1261** | Government Polytechnic College, Naduvil, Kannur | Public/Government | Kannur District, Kerala - 670582 | [www.gptcn.ac.in](https://www.gptcn.ac.in) |
+
+### Batch 158 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1262** | Amrita Vishwa Vidyapeetham, Amritapuri Campus (School of Arts, Sciences & Engineering) | Private | Kollam, Kerala - 690525 | [www.amrita.edu](https://www.amrita.edu/campus/amritapuri/) |
+| **1263** | KMCT College of Hotel Management and Catering Technology, Kuttippuram | Private | Malappuram District, Kerala - 679571 | [www.kmctchmct.org](https://www.kmctchmct.org) |
+| **1264** | Kerala State Institute of Design (KSID), Kollam | Public/Government | Kollam District, Kerala - 691014 | [www.ksid.ac.in](https://www.ksid.ac.in) |
+| **1265** | KMCT School of Management, Chathamangalam, Kozhikode | Private | Kozhikode, Kerala - 673601 | [www.kmctmba.org](https://www.kmctmba.org) |
+| **1266** | Verghese Kurien Institute of Dairy and Food Technology (VKIDFT), Thrissur | Public/Government | Thrissur, Kerala - 680651 | [cdst.kvasu.ac.in](https://cdst.kvasu.ac.in) |
+| **1267** | Malabar Institute of Technology, Anjarakandy, Kannur | Private | Kannur, Kerala - 670612 | [mit.anjarakandy.in](https://mit.anjarakandy.in) |
+| **1268** | Institute of Fashion Technology Kerala (IFTK), Kollam | Public/Government | Kollam District, Kerala - 691511 | [iftk.ac.in](https://iftk.ac.in) |
+| **1269** | College of Engineering Muttathara, Thiruvananthapuram | Public/Government | Thiruvananthapuram, Kerala - 695008 | [cemuttathara.ac.in](https://cemuttathara.ac.in) |
+| **1270** | Government Polytechnic College, Mananthavady, Wayanad | Public/Government | Wayanad District, Kerala - 670645 | [gptcmdy.ac.in](https://gptcmdy.ac.in) |
+| **1271** | Kelappaji College of Agricultural Engineering and Food Technology (KCAET), Tavanur | Public/Government | Malappuram District, Kerala - 679573 | [kcaet.kau.in](http://kcaet.kau.in) |
 
