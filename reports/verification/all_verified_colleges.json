@@ -5248,5 +5248,80 @@
         "website": "https://www.srmup.in/"
       }
     ]
+  },
+  {
+    "batch": 71,
+    "items": [
+      {
+        "id": 280,
+        "name": "FORE School of Management (FSM New Delhi)",
+        "type": "Private",
+        "location": "New Delhi, Delhi 110016",
+        "website": "https://www.fsm.ac.in"
+      },
+      {
+        "id": 281,
+        "name": "SOIL Institute of Management, Gurugram",
+        "type": "Private",
+        "location": "Gurugram, Haryana 122003",
+        "website": "https://www.soil.edu.in"
+      },
+      {
+        "id": 282,
+        "name": "UEI Global, Rohini, New Delhi",
+        "type": "Private",
+        "location": "Near Punjabi Bagh / Rohini Sector, New Delhi 110026",
+        "website": "https://www.uei-global.com"
+      },
+      {
+        "id": 283,
+        "name": "Jamia Millia Islamia (JMI New Delhi)",
+        "type": "Public/Government",
+        "location": "New Delhi, Delhi 110025",
+        "website": "https://jmi.ac.in"
+      },
+      {
+        "id": 284,
+        "name": "GNIOT Institute of Management Studies (GIMS Greater Noida)",
+        "type": "Private",
+        "location": "Greater Noida, Uttar Pradesh 201310",
+        "website": "https://www.gims.net.in"
+      },
+      {
+        "id": 285,
+        "name": "Institute of Management Technology (IMT Ghaziabad)",
+        "type": "Private",
+        "location": "Ghaziabad, Uttar Pradesh 201001",
+        "website": "https://www.imt.edu"
+      },
+      {
+        "id": 286,
+        "name": "Jaipuria Institute of Management, Noida",
+        "type": "Private",
+        "location": "Noida, Uttar Pradesh 201309",
+        "website": "https://www.jaipuria.ac.in/campuses/jaipuria-noida/"
+      },
+      {
+        "id": 287,
+        "name": "Indian Institute of Foreign Trade (IIFT New Delhi)",
+        "type": "Public/Government",
+        "location": "New Delhi, Delhi 110016",
+        "website": "https://www.iift.ac.in"
+      },
+      {
+        "id": 288,
+        "name": "Lady Irwin College, University of Delhi",
+        "type": "Public/Government",
+        "location": "New Delhi, Delhi 110001",
+        "website": "https://ladyirwin.edu.in"
+      },
+      {
+        "id": 289,
+        "name": "Frankfinn Institute of Air Hostess Training, New Delhi",
+        "type": "Private",
+        "location": "Pitampura, New Delhi 110034",
+        "website": "https://www.frankfinn.com"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **700 / 12,660**  
-**Roadmap Progress**: **70.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **710 / 12,660**  
+**Roadmap Progress**: **71.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1059,4 +1059,19 @@
 | **277** | KCC Institute of Technology and Management, Greater Noida | Private | Near Knowledge Park II Metro Station, Delhi-NCR | [www.kccitm.edu.in](https://www.kccitm.edu.in) |
 | **278** | Delhi School of Management, DTU (DSM DTU New Delhi) | Public/Government | Shahbad Daulatpur, Main Bawana Road | [dsm.dtu.ac.in](https://dsm.dtu.ac.in/) |
 | **279** | SRM Institute of Science and Technology Delhi-NCR Campus, Ghaziabad | Deemed | Delhi-Meerut Road, | [www.srmup.in](https://www.srmup.in/) |
+
+### Batch 71 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **280** | FORE School of Management (FSM New Delhi) | Private | New Delhi, Delhi 110016 | [www.fsm.ac.in](https://www.fsm.ac.in) |
+| **281** | SOIL Institute of Management, Gurugram | Private | Gurugram, Haryana 122003 | [www.soil.edu.in](https://www.soil.edu.in) |
+| **282** | UEI Global, Rohini, New Delhi | Private | Near Punjabi Bagh / Rohini Sector, New Delhi 110026 | [www.uei-global.com](https://www.uei-global.com) |
+| **283** | Jamia Millia Islamia (JMI New Delhi) | Public/Government | New Delhi, Delhi 110025 | [jmi.ac.in](https://jmi.ac.in) |
+| **284** | GNIOT Institute of Management Studies (GIMS Greater Noida) | Private | Greater Noida, Uttar Pradesh 201310 | [www.gims.net.in](https://www.gims.net.in) |
+| **285** | Institute of Management Technology (IMT Ghaziabad) | Private | Ghaziabad, Uttar Pradesh 201001 | [www.imt.edu](https://www.imt.edu) |
+| **286** | Jaipuria Institute of Management, Noida | Private | Noida, Uttar Pradesh 201309 | [www.jaipuria.ac.in](https://www.jaipuria.ac.in/campuses/jaipuria-noida/) |
+| **287** | Indian Institute of Foreign Trade (IIFT New Delhi) | Public/Government | New Delhi, Delhi 110016 | [www.iift.ac.in](https://www.iift.ac.in) |
+| **288** | Lady Irwin College, University of Delhi | Public/Government | New Delhi, Delhi 110001 | [ladyirwin.edu.in](https://ladyirwin.edu.in) |
+| **289** | Frankfinn Institute of Air Hostess Training, New Delhi | Private | Pitampura, New Delhi 110034 | [www.frankfinn.com](https://www.frankfinn.com) |
 

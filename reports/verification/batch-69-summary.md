@@ -29,3 +29,4 @@
 - `npm run build`: Zero errors, built cleanly in 2.94s.
 - `all_verified_colleges.json`: 690 verified colleges registered.
 - `reports/verification/all_verified_colleges.md`: 690 verified colleges recorded.
+

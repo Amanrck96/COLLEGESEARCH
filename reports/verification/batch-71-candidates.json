@@ -1,0 +1,112 @@
+[
+  {
+    "id": 280,
+    "name": "FORE School of Management, Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.fsm.ac.in/",
+    "phone": "01141242415",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 281,
+    "name": "SOIL Institute of Management, Gurgaon",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://www.soil.edu.in/wp-content/themes/soil/image/about-soil-1.jpg",
+    "website": "https://www.soil.edu.in/",
+    "phone": "9205333417",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 282,
+    "name": "UEI Global, Rohini, Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.google.com/search?q=UEI%20Global%2C%20Rohini%2C%20Delhi%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 283,
+    "name": "Jamia Millia Islamia, Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.jmi.ac.in",
+    "phone": "9836219994",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 284,
+    "name": "GNIOT Institute of Management Studies, Greater Noida",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://drupal.mbauniverse.com/sites/default/files/collegerightsidebar/GNIOT-1-Campus.jpg",
+    "website": "https://www.gims.net.in/",
+    "phone": "8860606606",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 285,
+    "name": "IMT Ghaziabad IMT Ghaziabad",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://drupal.mbauniverse.com/sites/default/files/collegebanner/college_gallery_47871721194333.jpg",
+    "website": "https://www.google.com/search?q=IMT%20Ghaziabad%20IMT%20Ghaziabad%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 286,
+    "name": "Jaipuria Noida",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://www.jaipuria.ac.in/wp-content/uploads/2022/09/Noida-campus-banner-About-us-Page.jpg",
+    "website": "https://www.jaipuria.ac.in/noida/",
+    "phone": "9891089621",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 287,
+    "name": "IIFT Delhi IIFT Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/25453_IIFTD_NEW.jpg",
+    "website": "https://www.google.com/search?q=IIFT%20Delhi%20IIFT%20Delhi%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 288,
+    "name": "Lady Irwin College, University of Delhi",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "https://www.careerindia.com/img/2018/03/10-ladyirwincollege-universityofdelhi-1520655097.jpg",
+    "website": "https://www.du.ac.in",
+    "phone": "01123711222",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 289,
+    "name": "Frankfinn Institute of Air Hostess Training, Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.frankfinn.com",
+    "phone": "8448980651",
+    "rating": 4.5,
+    "coursesCount": 3
+  }
+]

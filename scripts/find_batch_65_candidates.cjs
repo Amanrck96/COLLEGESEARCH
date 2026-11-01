@@ -40,3 +40,4 @@ fs.writeFileSync(
   path.join(__dirname, '..', 'reports', 'verification', 'batch-65-candidates.json'),
   JSON.stringify(candidates, null, 2)
 );
+

@@ -83,3 +83,4 @@
 - **Defects Remediated**:
   - Remediated critical scraper defect: scraper recorded apex University of Delhi as "Delhi University 2026" with state set to "Maharashtra", assigned CU Shah Mumbai photo leak, and static phone placeholder.
   - Restored historic Central University identity, state to `Delhi NCR`, NIRF #1 standing, official `https://www.du.ac.in` domain, and statutory subsidized fee structure.
+

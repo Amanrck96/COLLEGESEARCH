@@ -1,0 +1,376 @@
+[
+  {
+    "id": 280,
+    "name": "FORE School of Management (FSM New Delhi)",
+    "state": "Delhi NCR",
+    "city": "New Delhi",
+    "address": "Adhitam Kendra, B 18, Qutab Institutional Area, New Delhi, Delhi 110016",
+    "type": "Private",
+    "website": "https://www.fsm.ac.in",
+    "phone": "+91-11-41242415",
+    "email": "admissions@fsm.ac.in",
+    "established": 1981,
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "rating": 4.3,
+    "description": "Premier autonomous business school located in the Qutab Institutional Area of New Delhi, known for excellence in management education, corporate research, and executive training.",
+    "courses": [
+      {
+        "name": "PGDM (Post Graduate Diploma in Management)",
+        "duration": "2 Years",
+        "fees": "₹8,50,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/GMAT"
+      },
+      {
+        "name": "PGDM International Business (IB)",
+        "duration": "2 Years",
+        "fees": "₹8,50,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/GMAT"
+      },
+      {
+        "name": "PGDM Financial Management (FM)",
+        "duration": "2 Years",
+        "fees": "₹8,50,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/GMAT"
+      },
+      {
+        "name": "Executive PGDM",
+        "duration": "15 Months",
+        "fees": "₹6,00,000 Total",
+        "eligibility": "Graduation + 5 Years Work Experience"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "name": "SOIL Institute of Management, Gurugram",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "address": "Plot 76, Sector 44, Gurugram, Haryana 122003",
+    "type": "Private",
+    "website": "https://www.soil.edu.in",
+    "phone": "+91-9654466666",
+    "email": "admissions@soil.edu.in",
+    "established": 2008,
+    "image": "https://www.soil.edu.in/wp-content/themes/soil/image/about-soil-1.jpg",
+    "rating": 4.1,
+    "description": "Innovative business school co-created by 32 top corporations focusing on leadership development, design thinking, and sustainable management practices in Gurugram.",
+    "courses": [
+      {
+        "name": "PGPM (Business Leadership)",
+        "duration": "1 Year",
+        "fees": "₹15,30,000 Total",
+        "eligibility": "Graduation + Minimum 2 Years Work Experience + CAT/XAT/GMAT/SOIL-MAT"
+      },
+      {
+        "name": "PGDM (Post Graduate Diploma in Management)",
+        "duration": "2 Years",
+        "fees": "₹6,50,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/GMAT/MAT"
+      },
+      {
+        "name": "PGPM Human Resources (HR)",
+        "duration": "1 Year",
+        "fees": "₹13,80,000 Total",
+        "eligibility": "Graduation + Work Experience + Interview"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "name": "UEI Global, Rohini, New Delhi",
+    "state": "Delhi NCR",
+    "city": "New Delhi",
+    "address": "C-9, Bhagwan Dass Nagar, Ring Road, Near Punjabi Bagh / Rohini Sector, New Delhi 110026",
+    "type": "Private",
+    "website": "https://www.uei-global.com",
+    "phone": "+91-11-44151515",
+    "email": "info@uei-global.com",
+    "established": 2007,
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "rating": 3.9,
+    "description": "Vocational and hospitality education institute providing practical industry training in hotel management, business management, and culinary arts.",
+    "courses": [
+      {
+        "name": "Bachelor in Hotel Management (BHM)",
+        "duration": "3 Years",
+        "fees": "₹1,10,000/Year",
+        "eligibility": "10+2 in any stream"
+      },
+      {
+        "name": "BBA (Bachelor of Business Administration)",
+        "duration": "3 Years",
+        "fees": "₹95,000/Year",
+        "eligibility": "10+2 from recognized board"
+      },
+      {
+        "name": "Grand Chef Diploma in Culinary Arts",
+        "duration": "1 Year",
+        "fees": "₹1,35,000 Total",
+        "eligibility": "10th or 10+2 Pass"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Jamia Millia Islamia (JMI New Delhi)",
+    "state": "Delhi NCR",
+    "city": "New Delhi",
+    "address": "Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+    "type": "Public/Government",
+    "website": "https://jmi.ac.in",
+    "phone": "+91-11-26981717",
+    "email": "admission@jmi.ac.in",
+    "established": 1920,
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "rating": 4.8,
+    "description": "Premier Central University in New Delhi established in 1920, recognized as an Institution of National Importance, ranked among India's top universities offering multidisciplinary education from engineering and law to humanities and architecture.",
+    "courses": [
+      {
+        "name": "B.Tech (Computer / Electrical / Civil / Mechanical)",
+        "duration": "4 Years",
+        "fees": "₹16,150/Year",
+        "eligibility": "10+2 with PCM (55%) + JEE Main"
+      },
+      {
+        "name": "MBA (Master of Business Administration)",
+        "duration": "2 Years",
+        "fees": "₹23,500/Year",
+        "eligibility": "Graduation with 50% + JMI Entrance Exam"
+      },
+      {
+        "name": "B.A. (Hons) / B.Sc. (Hons)",
+        "duration": "3 Years",
+        "fees": "₹7,200/Year",
+        "eligibility": "10+2 with 50% + CUET UG"
+      },
+      {
+        "name": "B.Arch (Bachelor of Architecture)",
+        "duration": "5 Years",
+        "fees": "₹16,150/Year",
+        "eligibility": "10+2 with PCM + NATA / JEE Main Paper 2"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "name": "GNIOT Institute of Management Studies (GIMS Greater Noida)",
+    "state": "Uttar Pradesh",
+    "city": "Greater Noida",
+    "address": "Plot No. 7, Knowledge Park II, Greater Noida, Uttar Pradesh 201310",
+    "type": "Private",
+    "website": "https://www.gims.net.in",
+    "phone": "+91-8860606606",
+    "email": "admissions@gims.net.in",
+    "established": 2001,
+    "image": "https://drupal.mbauniverse.com/sites/default/files/collegerightsidebar/GNIOT-1-Campus.jpg",
+    "rating": 4,
+    "description": "AICTE-approved management institute in Knowledge Park II Greater Noida offering PGDM programs with specialized industry immersion, analytics labs, and corporate mentorship.",
+    "courses": [
+      {
+        "name": "PGDM (Post Graduate Diploma in Management)",
+        "duration": "2 Years",
+        "fees": "₹3,85,000/Year",
+        "eligibility": "Graduation with 50% + CAT/MAT/XAT/CMAT/GIMS Aptitude"
+      },
+      {
+        "name": "PGDM (Business Analytics & Marketing)",
+        "duration": "2 Years",
+        "fees": "₹3,85,000/Year",
+        "eligibility": "Graduation with 50% + CAT/MAT/XAT/CMAT"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Institute of Management Technology (IMT Ghaziabad)",
+    "state": "Uttar Pradesh",
+    "city": "Ghaziabad",
+    "address": "Raj Nagar, Post Box No. 137, Ghaziabad, Uttar Pradesh 201001",
+    "type": "Private",
+    "website": "https://www.imt.edu",
+    "phone": "+91-120-4083200",
+    "email": "admissions@imt.edu",
+    "established": 1980,
+    "image": "https://drupal.mbauniverse.com/sites/default/files/collegebanner/college_gallery_47871721194333.jpg",
+    "rating": 4.6,
+    "description": "Premier AACSB-accredited business school consistently ranked among India's top 15 management institutions, renowned for its marketing and finance leadership and global corporate alumni network.",
+    "courses": [
+      {
+        "name": "PGDM (Post Graduate Diploma in Management)",
+        "duration": "2 Years",
+        "fees": "₹10,75,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/GMAT"
+      },
+      {
+        "name": "PGDM Marketing",
+        "duration": "2 Years",
+        "fees": "₹10,75,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/GMAT"
+      },
+      {
+        "name": "PGDM Financial Management",
+        "duration": "2 Years",
+        "fees": "₹10,75,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/GMAT"
+      },
+      {
+        "name": "PGDM Banking and Financial Services (BFS)",
+        "duration": "2 Years",
+        "fees": "₹10,75,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/GMAT"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Jaipuria Institute of Management, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "address": "A-32A, Sector 62, Noida, Uttar Pradesh 201309",
+    "type": "Private",
+    "website": "https://www.jaipuria.ac.in/campuses/jaipuria-noida/",
+    "phone": "+91-120-4638300",
+    "email": "noida@jaipuria.ac.in",
+    "established": 2004,
+    "image": "https://www.jaipuria.ac.in/wp-content/uploads/2022/09/Noida-campus-banner-About-us-Page.jpg",
+    "rating": 4.2,
+    "description": "Leading private business school in Sector 62 Noida offering AICTE-approved, NBA-accredited PGDM programs with strong industry connections and dual-specialization opportunities.",
+    "courses": [
+      {
+        "name": "PGDM (General)",
+        "duration": "2 Years",
+        "fees": "₹6,75,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/CMAT/MAT"
+      },
+      {
+        "name": "PGDM Service Management",
+        "duration": "2 Years",
+        "fees": "₹6,50,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/CMAT/MAT"
+      },
+      {
+        "name": "PGDM Marketing",
+        "duration": "2 Years",
+        "fees": "₹6,75,000/Year",
+        "eligibility": "Graduation with 50% + CAT/XAT/CMAT/MAT"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Indian Institute of Foreign Trade (IIFT New Delhi)",
+    "state": "Delhi NCR",
+    "city": "New Delhi",
+    "address": "IIFT Bhawan, B-21, Qutab Institutional Area, New Delhi, Delhi 110016",
+    "type": "Public/Government",
+    "website": "https://www.iift.ac.in",
+    "phone": "+91-11-39147200",
+    "email": "admissions@iift.edu",
+    "established": 1963,
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/25453_IIFTD_NEW.jpg",
+    "rating": 4.7,
+    "description": "Iconic autonomous institution of foreign trade education founded by the Ministry of Commerce and Industry in 1963, globally recognized for its flagship MBA in International Business.",
+    "courses": [
+      {
+        "name": "MBA in International Business (MBA-IB)",
+        "duration": "2 Years",
+        "fees": "₹11,00,000/Year",
+        "eligibility": "Graduation with 50% + CAT"
+      },
+      {
+        "name": "MBA in Business Analytics",
+        "duration": "2 Years",
+        "fees": "₹9,50,000/Year",
+        "eligibility": "Graduation with 50% + CAT"
+      },
+      {
+        "name": "M.A. in Economics (Trade & Finance)",
+        "duration": "2 Years",
+        "fees": "₹1,80,000/Year",
+        "eligibility": "Bachelor degree with Economics/Mathematics + Entrance Test"
+      },
+      {
+        "name": "EPGDIB (Executive Post Graduate Diploma)",
+        "duration": "18 Months",
+        "fees": "₹4,50,000 Total",
+        "eligibility": "Graduation + 5 Years Work Experience"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Lady Irwin College, University of Delhi",
+    "state": "Delhi NCR",
+    "city": "New Delhi",
+    "address": "Sikandra Road, Mandi House, New Delhi, Delhi 110001",
+    "type": "Public/Government",
+    "website": "https://ladyirwin.edu.in",
+    "phone": "+91-11-23711222",
+    "email": "ladyirwinc@yahoo.in",
+    "established": 1932,
+    "image": "https://www.careerindia.com/img/2018/03/10-ladyirwincollege-universityofdelhi-1520655097.jpg",
+    "rating": 4.7,
+    "description": "Premier constituent women's college of the University of Delhi established in 1932, pioneer in Home Science, Nutrition, Food Technology, and Education with NAAC A++ accreditation.",
+    "courses": [
+      {
+        "name": "B.Sc. (Hons) Home Science",
+        "duration": "3 Years",
+        "fees": "₹31,240/Year",
+        "eligibility": "10+2 with Science/Home Science + CUET UG"
+      },
+      {
+        "name": "B.Sc. (Hons) Food Technology",
+        "duration": "3 Years",
+        "fees": "₹35,240/Year",
+        "eligibility": "10+2 with PCM/PCB + CUET UG"
+      },
+      {
+        "name": "B.Ed. (Bachelor of Education)",
+        "duration": "2 Years",
+        "fees": "₹37,500/Year",
+        "eligibility": "Graduation with 50% + CUET PG"
+      },
+      {
+        "name": "M.Sc. in Food and Nutrition",
+        "duration": "2 Years",
+        "fees": "₹29,800/Year",
+        "eligibility": "B.Sc Home Science/Food Tech + CUET PG"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Frankfinn Institute of Air Hostess Training, New Delhi",
+    "state": "Delhi NCR",
+    "city": "New Delhi",
+    "address": "Best Sky Tower, Netaji Subhash Place, Pitampura, New Delhi 110034",
+    "type": "Private",
+    "website": "https://www.frankfinn.com",
+    "phone": "+91-8448980651",
+    "email": "corporate@frankfinn.com",
+    "established": 1993,
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "rating": 4,
+    "description": "India's leading vocational training academy in aviation, hospitality, travel management, and customer service with nationwide presence and ICM (UK) certification.",
+    "courses": [
+      {
+        "name": "Certificate Course in Aviation, Hospitality & Travel Management",
+        "duration": "1 Year",
+        "fees": "₹1,50,000 Total",
+        "eligibility": "10+2 in any stream + Personal Interview"
+      },
+      {
+        "name": "Diploma in Aviation & Hospitality Services",
+        "duration": "1 Year",
+        "fees": "₹1,40,000 Total",
+        "eligibility": "10+2 in any stream + Aptitude & Grooming Assessment"
+      },
+      {
+        "name": "Certificate Course in Airport Ground Services",
+        "duration": "6 Months",
+        "fees": "₹85,000 Total",
+        "eligibility": "10+2 in any stream"
+      }
+    ]
+  }
+]
