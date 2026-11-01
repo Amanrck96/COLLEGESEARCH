@@ -1,0 +1,112 @@
+[
+  {
+    "id": 300,
+    "name": "Xavier Institute of Management and Entrepreneurship, Bangalore",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.xime.org/",
+    "phone": "08047161979",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 301,
+    "name": "All India Management Association",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/AIMA_Building-Lodhi_Road.jpg?width=640",
+    "website": "https://www.google.com/search?q=All%20India%20Management%20Association%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 302,
+    "name": "Indian Aviation Academy",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.google.com/search?q=Indian%20Aviation%20Academy%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 303,
+    "name": "ISBF, Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://media.getmyuni.com/azure/college-image/big/indian-school-of-business-and-finance-isbf-new-delhi.jpg",
+    "website": "https://www.isbf.edu.in/",
+    "phone": "9599181862",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 304,
+    "name": "Amity University, Noida",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.amity.edu",
+    "phone": "01202445252",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 305,
+    "name": "JAWAHARLAL NEHRU UNIVERSITY",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+    "website": "https://www.jnu.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 309,
+    "name": "JAGAN INSTITUTE OF MANAGEMENT STUDIES",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.jimsindia.org",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 310,
+    "name": "DELHI SCHOOL OF BUSINESS",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.delhischoolofbu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 312,
+    "name": "MAHARAJA SURAJMAL INSTITUTE",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1492770486cvr.png",
+    "website": "https://www.maharajasurajma.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 313,
+    "name": "TERI SCHOOL OF ADVANCED STUDIES DEEMED TO BE UNIVERSITY",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.terischoolofadv.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

@@ -26149,16 +26149,16 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/xavier-institute-of-management-and-entrepreneurship-bangalore-hosur-road-28230",
-      "name": "Xavier Institute of Management and Entrepreneurship, Bangalore",
+      "name": "Xavier Institute of Management and Entrepreneurship (XIME Bengaluru)",
       "shortName": "XIOMAE",
       "location": "Delhi",
-      "state": "Delhi NCR",
+      "state": "Karnataka",
       "country": "India",
       "address": "XIME, Electronics City, Phase – II",
-      "phone": "08047161979",
+      "phone": "080-28528597",
       "email": "admission@xime.org",
-      "website": "https://www.xime.org/",
-      "rating": 4.5,
+      "website": "https://xime.org",
+      "rating": 4.3,
       "reviews": 474,
       "type": "Private",
       "ownership": "Private",
@@ -26180,30 +26180,30 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "title": "Post Graduate Diploma in Management (PGDM - Flagship)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹6,00,000/Year",
+          "eligibility": "Graduation with 50% + CAT / XAT / GMAT / MAT / CMAT",
+          "exams": "CAT, XAT, GMAT, MAT, CMAT",
+          "intake": "180"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "title": "PGDM in Business Analytics",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹6,00,000/Year",
+          "eligibility": "Graduation with 50% + CAT / XAT / GMAT / MAT",
+          "exams": "CAT, XAT, GMAT, MAT",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "Executive PGDM",
           "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
+          "duration": "1 Year",
+          "fees": "₹4,50,000 Total",
+          "eligibility": "Graduation + 3 Years Work Experience",
+          "exams": "Interview",
           "intake": "30"
         }
       ],
@@ -26235,22 +26235,24 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 300,
       "reviewsCount": 474,
-      "image": "/images/campuses/bms_bangalore.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Xavier%20Institute%20of%20Management%20and%20Entrepreneurship%2C%20Bangalore%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Bengaluru",
+      "established": 1991
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/all-india-management-association-lajpat-nagar-delhi-2864",
-      "name": "All India Management Association",
+      "name": "All India Management Association - Centre for Management Education (AIMA New Delhi)",
       "shortName": "AIMA",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi NCR, India",
-      "phone": "080-26597135",
+      "phone": "011-24645100",
       "email": "admissions@aima.edu.in",
-      "website": "https://www.google.com/search?q=All%20India%20Management%20Association%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://www.aima.in",
+      "rating": 4.2,
       "reviews": 174,
       "type": "Private",
       "ownership": "Private",
@@ -26272,31 +26274,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "title": "Post Graduate Diploma in Management (PGDM - Blended / Distance)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "Graduation with 50% + MAT / Direct",
+          "exams": "MAT, Direct Admission",
+          "intake": "500"
+        },
+        {
+          "title": "Post Graduate Diploma in IT Management (PGDITM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "Graduation with 50% + MAT",
+          "exams": "MAT",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
-        },
-        {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "title": "Professional Diploma in Digital Marketing & Business Analytics",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹45,000 Total",
+          "eligibility": "Graduation in any discipline",
+          "exams": "Direct Admission",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -26322,22 +26324,24 @@
       "id": 301,
       "reviewsCount": 174,
       "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/AIMA_Building-Lodhi_Road.jpg?width=640",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=All%20India%20Management%20Association%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=All%20India%20Management%20Association%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 1957
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/indian-aviation-academy-andheri-west-mumbai-24815",
-      "name": "Indian Aviation Academy",
+      "name": "Indian Aviation Academy (IAA New Delhi)",
       "shortName": "IAA",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi NCR, India",
-      "phone": "080-26597135",
+      "phone": "011-26134314",
       "email": "admissions@iaa.edu.in",
-      "website": "https://www.google.com/search?q=Indian%20Aviation%20Academy%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://iaa.edu.in",
+      "rating": 4.4,
       "reviews": 197,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -26357,31 +26361,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
-        },
-        {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "title": "Advanced Diploma in Airport Operations and Management",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹1,20,000 Total",
+          "eligibility": "Graduation in any discipline",
+          "exams": "Merit & Interview",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "title": "Executive Certificate in Aviation Safety and Security",
+          "division": "Certificate",
+          "duration": "6 Months",
+          "fees": "₹65,000 Total",
+          "eligibility": "Graduation + Aviation / Industry Experience",
+          "exams": "Industry Sponsorship",
+          "intake": "40"
+        },
+        {
+          "title": "Certificate Course in Air Cargo and Logistics Management",
+          "division": "Certificate",
+          "duration": "6 Months",
+          "fees": "₹55,000 Total",
+          "eligibility": "10+2 / Graduation",
+          "exams": "Direct Admission",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -26406,21 +26410,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 302,
       "reviewsCount": 197,
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Aviation%20Academy%20Delhi%20Delhi%20NCR"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Aviation%20Academy%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 2010
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/isbf-lajpat-nagar-delhi-27907",
-      "name": "ISBF, Delhi",
+      "name": "Indian School of Business and Finance (ISBF New Delhi)",
       "shortName": "ID",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "FC-33, Plot No.-1 & 2, Institutional Area",
-      "phone": "9599181862",
+      "phone": "011-40430000",
       "email": "ugadmissions@isbf.edu.in",
-      "website": "https://www.isbf.edu.in/",
-      "rating": 4.5,
+      "website": "https://www.isbf.edu.in",
+      "rating": 4.3,
       "reviews": 135,
       "type": "Private",
       "ownership": "Private",
@@ -26442,31 +26448,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Sc. (Hons) in Economics & Finance (University of London / LSE)",
           "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "duration": "3 Years",
+          "fees": "₹7,50,000/Year",
+          "eligibility": "10+2 with Mathematics + iMET Entrance Test",
+          "exams": "iMET",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Sc. (Hons) in Business & Management",
           "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "duration": "3 Years",
+          "fees": "₹7,25,000/Year",
+          "eligibility": "10+2 with Mathematics + iMET Entrance Test",
+          "exams": "iMET",
+          "intake": "80"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "Graduate Diploma in Finance (University of London)",
           "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "duration": "1 Year",
+          "fees": "₹3,50,000 Total",
+          "eligibility": "Graduation in Math / Economics / Commerce",
+          "exams": "Merit & PI",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹30 LPA",
@@ -26494,22 +26500,24 @@
       "id": 303,
       "reviewsCount": 135,
       "image": "https://media.getmyuni.com/azure/college-image/big/indian-school-of-business-and-finance-isbf-new-delhi.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ISBF%2C%20Delhi%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ISBF%2C%20Delhi%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 2006
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/amity-university-noida-41334",
       "name": "Amity University, Noida",
       "shortName": "AUN",
       "location": "Delhi",
-      "state": "Delhi NCR",
+      "state": "Uttar Pradesh",
       "country": "India",
       "address": "Amity University, Amity Road, Sector-125",
-      "phone": "01202445252",
+      "phone": "0120-2445252",
       "email": "admissions@amity.edu",
       "website": "https://www.amity.edu",
-      "rating": 4.5,
+      "rating": 4.4,
       "reviews": 356,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -26532,28 +26540,37 @@
           "title": "B.Tech in Computer Science & Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹3,95,000/Year",
+          "eligibility": "10+2 with PCM (60%+) + Amity JEE / JEE Main",
+          "exams": "Amity JEE, JEE Main",
+          "intake": "720"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
-        },
-        {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "Master of Business Administration (MBA - Core)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹5,40,000/Year",
+          "eligibility": "Graduation with 50% + CAT / MAT / XAT / Amity Test",
+          "exams": "CAT, MAT, XAT",
+          "intake": "360"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹3,20,000/Year",
+          "eligibility": "10+2 with 60%+",
+          "exams": "Merit",
+          "intake": "480"
+        },
+        {
+          "title": "B.A. LL.B. (Hons) Integrated Law",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹2,75,000/Year",
+          "eligibility": "10+2 with 60%+ + CLAT / Amity Law Test",
+          "exams": "CLAT, Amity Law Test",
+          "intake": "240"
         }
       ],
       "highestPackage": "₹75 LPA",
@@ -26584,20 +26601,22 @@
       "id": 304,
       "reviewsCount": 356,
       "image": "/images/campuses/campus_architecture_8.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Amity%20University%2C%20Noida%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Amity%20University%2C%20Noida%20Delhi%20Delhi%20NCR",
+      "city": "Noida",
+      "established": 2005
     },
     {
       "id": 305,
-      "name": "JAWAHARLAL NEHRU UNIVERSITY",
+      "name": "School of Engineering, Jawaharlal Nehru University (JNU SE New Delhi)",
       "shortName": "Course Institute-1",
       "location": "SOUTH WEST DELHI",
       "state": "Delhi NCR",
       "address": "JAWAHARLAL NEHRU UNIVERSITY, NEW MEHRAULI ROAD, DELHI - 110067",
-      "phone": "0123-456789",
-      "website": "https://www.jnu.ac.in",
-      "rating": 4.5,
+      "phone": "011-26704054",
+      "website": "https://www.jnu.ac.in/se",
+      "rating": 4.6,
       "reviews": 304,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to JAWAHARLAL NEHRU UNIVERSITY, a premier institute located in SOUTH WEST DELHI. We offer world-class education and facilities for our students.",
       "ranking": 25,
       "facebook": "#",
@@ -26614,13 +26633,31 @@
       ],
       "courses": [
         {
-          "title": "COMPUTER SCIENCE & ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Computer Science & Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 with PCM (75%+) + JEE Main (JoSAA/CSAB)",
+          "exams": "JEE Main",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Electronics and Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 with PCM (75%+) + JEE Main",
+          "exams": "JEE Main",
+          "intake": "60"
+        },
+        {
+          "title": "M.Tech in Computer Science & Technology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "B.Tech in CSE/IT + GATE",
+          "exams": "GATE",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -26640,10 +26677,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 304,
-      "image": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAWAHARLAL%20NEHRU%20UNIVERSITY%20SOUTH%20WEST%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "New Delhi",
+      "established": 2018
     },
     {
       "id": 306,
@@ -26814,14 +26853,14 @@
     },
     {
       "id": 309,
-      "name": "JAGAN INSTITUTE OF MANAGEMENT STUDIES",
+      "name": "Jagan Institute of Management Studies (JIMS Rohini Sector-5, New Delhi)",
       "shortName": "Course Institute-1",
       "location": "NORTH WEST DELHI",
       "state": "Delhi NCR",
       "address": "3, INSTITUTIONAL AREA, SECTOR-5, ROHINI",
-      "phone": "0123-456789",
+      "phone": "011-45184000",
       "website": "https://www.jimsindia.org",
-      "rating": 4.5,
+      "rating": 4.3,
       "reviews": 278,
       "type": "Private",
       "about": "Welcome to JAGAN INSTITUTE OF MANAGEMENT STUDIES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -26841,12 +26880,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "title": "Post Graduate Diploma in Management (PGDM - AICTE)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,85,000/Year",
+          "eligibility": "Graduation with 50% + CAT/XAT/MAT/CMAT",
+          "exams": "CAT, XAT, MAT, CMAT",
+          "intake": "180"
+        },
+        {
+          "title": "Master of Computer Applications (MCA - GGSIPU)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "Graduation with BCA/B.Sc Math + NIMCET / IPU CET",
+          "exams": "NIMCET, IPU CET",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA - GGSIPU)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with 50% + IPU CET / CUET UG",
+          "exams": "IPU CET, CUET UG",
+          "intake": "240"
+        },
+        {
+          "title": "Bachelor of Computer Applications (BCA - GGSIPU)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with Math/IT + IPU CET / CUET UG",
+          "exams": "IPU CET, CUET UG",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -26865,18 +26932,20 @@
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAGAN%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "New Delhi",
+      "established": 1993
     },
     {
       "id": 310,
-      "name": "DELHI SCHOOL OF BUSINESS",
+      "name": "Delhi School of Business (DSB VIPS-TC Pitampura, New Delhi)",
       "shortName": "Course Institute-1",
       "location": "NORTH WEST DELHI",
       "state": "Delhi NCR",
       "address": "AU BLOCK OUTER RING ROAD PITAMPURA",
-      "phone": "0123-456789",
-      "website": "https://www.delhischoolofbu.edu.in",
-      "rating": 4.5,
+      "phone": "011-27343401",
+      "website": "https://dsb.edu.in",
+      "rating": 4.2,
       "reviews": 469,
       "type": "Private",
       "about": "Welcome to DELHI SCHOOL OF BUSINESS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -26896,12 +26965,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "POST GRADUATE DIPLOMA IN MANAGEMENT (GENERAL)",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "title": "Post Graduate Diploma in Management (PGDM - General)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,75,000/Year",
+          "eligibility": "Graduation with 50% + CAT/XAT/CMAT/MAT",
+          "exams": "CAT, XAT, CMAT, MAT",
+          "intake": "180"
+        },
+        {
+          "title": "PGDM in Financial Management",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,75,000/Year",
+          "eligibility": "Graduation with 50% + CAT/XAT/CMAT",
+          "exams": "CAT, XAT, CMAT",
+          "intake": "60"
+        },
+        {
+          "title": "Executive PGDM",
+          "division": "Postgraduate",
+          "duration": "15 Months",
+          "fees": "₹3,50,000 Total",
+          "eligibility": "Graduation + 3 Years Corporate Experience",
+          "exams": "Work Exp + PI",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -26917,10 +27005,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DELHI%20SCHOOL%20OF%20BUSINESS%20NORTH%20WEST%20DELHI%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "New Delhi",
+      "established": 2012
     },
     {
       "id": 311,
@@ -26988,14 +27078,14 @@
     },
     {
       "id": 312,
-      "name": "MAHARAJA SURAJMAL INSTITUTE",
+      "name": "Maharaja Surajmal Institute (MSI Janakpuri, New Delhi)",
       "shortName": "Course Institute-1",
       "location": "WEST DELHI",
       "state": "Delhi NCR",
       "address": "C-4, JANAKPURI",
-      "phone": "0123-456789",
-      "website": "https://www.maharajasurajma.edu.in",
-      "rating": 4.5,
+      "phone": "011-25552649",
+      "website": "https://www.msi-ggsip.org",
+      "rating": 4.4,
       "reviews": 143,
       "type": "Private",
       "about": "Welcome to MAHARAJA SURAJMAL INSTITUTE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -27015,12 +27105,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 240
+          "title": "Bachelor of Business Administration (BBA - Morning & Evening)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with 50% + IPU CET / CUET UG",
+          "exams": "IPU CET, CUET UG",
+          "intake": "360"
+        },
+        {
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with Math/CS + IPU CET / CUET UG",
+          "exams": "IPU CET, CUET UG",
+          "intake": "180"
+        },
+        {
+          "title": "B.Com (Hons)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹98,000/Year",
+          "eligibility": "10+2 with 50% in Commerce + IPU CET / CUET UG",
+          "exams": "IPU CET, CUET UG",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Education (B.Ed.)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "Graduation with 50% + IPU CET / CUET PG",
+          "exams": "IPU CET, CUET PG",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -27038,20 +27156,22 @@
       ],
       "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1492770486cvr.png",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20SURAJMAL%20INSTITUTE%20WEST%20DELHI%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20SURAJMAL%20INSTITUTE%20WEST%20DELHI%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 1999
     },
     {
       "id": 313,
-      "name": "TERI SCHOOL OF ADVANCED STUDIES DEEMED TO BE UNIVERSITY",
+      "name": "TERI School of Advanced Studies (TERI SAS New Delhi)",
       "shortName": "Course Institute-1",
       "location": "South West Delhi",
       "state": "Delhi NCR",
       "address": "10, Institutional Area, Vasant Kunj, New Delhi 110070",
-      "phone": "0123-456789",
-      "website": "https://www.terischoolofadv.edu.in",
+      "phone": "011-71800222",
+      "website": "https://www.terisas.ac.in",
       "rating": 4.5,
       "reviews": 354,
-      "type": "Private",
+      "type": "Deemed",
       "about": "Welcome to TERI SCHOOL OF ADVANCED STUDIES DEEMED TO BE UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 7,
       "facebook": "#",
@@ -27069,12 +27189,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "RENEWABLE ENERGY ENGINEERING AND MANAGEMENT",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "title": "M.Sc. in Renewable Energy Engineering and Management",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "B.Tech / B.Sc with 55% + TERI SAS Entrance",
+          "exams": "TERI Entrance",
+          "intake": "40"
+        },
+        {
+          "title": "M.Sc. in Environmental Studies and Resource Management",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,40,000/Year",
+          "eligibility": "Bachelor degree in Science/Economics + Entrance",
+          "exams": "TERI Entrance",
+          "intake": "40"
+        },
+        {
+          "title": "MBA in Sustainability Management",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,90,000/Year",
+          "eligibility": "Graduation with 50% + CAT/MAT/GMAT/TERI Test",
+          "exams": "CAT, MAT, GMAT, TERI Test",
+          "intake": "60"
+        },
+        {
+          "title": "B.Sc. (Hons) in Data Science & Sustainable Systems",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with Mathematics (60%+)",
+          "exams": "Merit & Interview",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -27090,9 +27238,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/koshys_bangalore.jpg",
+      "image": "",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TERI%20SCHOOL%20OF%20ADVANCED%20STUDIES%20DEEMED%20TO%20BE%20UNIVERSITY%20South%20West%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TERI%20SCHOOL%20OF%20ADVANCED%20STUDIES%20DEEMED%20TO%20BE%20UNIVERSITY%20South%20West%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 1998
     },
     {
       "id": 314,

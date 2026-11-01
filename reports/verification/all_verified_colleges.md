@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **720 / 12,660**  
-**Roadmap Progress**: **72.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **730 / 12,660**  
+**Roadmap Progress**: **73.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1089,4 +1089,19 @@
 | **297** | Jawaharlal Nehru University (JNU New Delhi) | Public/Government | New Mehrauli Road | [www.jnu.ac.in](https://www.jnu.ac.in) |
 | **298** | University of Delhi (DU New Delhi) | Public/Government | Delhi NCR, India | [www.du.ac.in](https://www.du.ac.in) |
 | **299** | Loreto College, Kolkata | Private | Sir William Jones Sarani,Middletown Street | [www.loretocollege.in](https://www.loretocollege.in) |
+
+### Batch 73 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **300** | Xavier Institute of Management and Entrepreneurship (XIME Bengaluru) | Private | Electronics City, Phase – II | [xime.org](https://xime.org) |
+| **301** | All India Management Association - Centre for Management Education (AIMA New Delhi) | Private | Delhi NCR, India | [www.aima.in](https://www.aima.in) |
+| **302** | Indian Aviation Academy (IAA New Delhi) | Public/Government | Delhi NCR, India | [iaa.edu.in](https://iaa.edu.in) |
+| **303** | Indian School of Business and Finance (ISBF New Delhi) | Private | Plot No.-1 & 2, Institutional Area | [www.isbf.edu.in](https://www.isbf.edu.in) |
+| **304** | Amity University, Noida | Private | Amity Road, Sector-125 | [www.amity.edu](https://www.amity.edu) |
+| **305** | School of Engineering, Jawaharlal Nehru University (JNU SE New Delhi) | Public/Government | NEW MEHRAULI ROAD, DELHI - 110067 | [www.jnu.ac.in](https://www.jnu.ac.in/se) |
+| **309** | Jagan Institute of Management Studies (JIMS Rohini Sector-5, New Delhi) | Private | SECTOR-5, ROHINI | [www.jimsindia.org](https://www.jimsindia.org) |
+| **310** | Delhi School of Business (DSB VIPS-TC Pitampura, New Delhi) | Private | AU BLOCK OUTER RING ROAD PITAMPURA | [dsb.edu.in](https://dsb.edu.in) |
+| **312** | Maharaja Surajmal Institute (MSI Janakpuri, New Delhi) | Private | C-4, JANAKPURI | [www.msi-ggsip.org](https://www.msi-ggsip.org) |
+| **313** | TERI School of Advanced Studies (TERI SAS New Delhi) | Deemed | Vasant Kunj, New Delhi 110070 | [www.terisas.ac.in](https://www.terisas.ac.in) |
 
