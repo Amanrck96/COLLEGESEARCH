@@ -1629,5 +1629,29 @@
     1105,
     1106
   ],
-  "last_batch_completed": 159
+  "last_batch_completed": 159,
+  "verifiedColleges": 1600,
+  "lastUpdated": "2026-11-01T18:40:21.659Z",
+  "batchesCompleted": 160,
+  "currentBatch": 161,
+  "batchHistory": [
+    {
+      "batch": 160,
+      "verifiedCount": 10,
+      "totalVerified": 1600,
+      "timestamp": "2026-11-01T18:40:21.659Z",
+      "collegeIds": [
+        1285,
+        1288,
+        1289,
+        1290,
+        1291,
+        1293,
+        1295,
+        1296,
+        1297,
+        1298
+      ]
+    }
+  ]
 }

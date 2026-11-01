@@ -2395,3 +2395,17 @@
 | **1283** | Department of Computer Science, Cochin University of Science and Technology (CUSAT) | Public/Government | Kochi, Kerala - 682022 | [cs.cusat.ac.in](https://cs.cusat.ac.in) |
 | **1284** | Indian Institute of Space Science and Technology (IIST), Thiruvananthapuram (Academic Campus) | Public/Government | Thiruvananthapuram, Kerala - 695547 | [www.iist.ac.in](https://www.iist.ac.in) |
 
+
+### Batch 160 (Colleges 1,591–1,600) — Century Milestone (1,600 Verified Colleges)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1285 | M.Dasan Institute of Technology | Kozhikode | Kerala | Private | [https://mdit.ac.in](https://mdit.ac.in) |
+| 1288 | SCMS Institute of Multidisciplinary Studies | Ernakulam | Kerala | Private | [https://www.scmsgroup.org](https://www.scmsgroup.org) |
+| 1289 | Government Polytechnic College, Adoor | Pathanamthitta | Kerala | Public/Government | [https://gptcadoor.org](https://gptcadoor.org) |
+| 1290 | Model Residential Polytechnic College, Kuzhalmannam | Palakkad | Kerala | Public/Government | [https://mptkuzhalmannam.ihrd.ac.in](https://mptkuzhalmannam.ihrd.ac.in) |
+| 1291 | NSS Polytechnic College, Pandalam | Pathanamthitta | Kerala | Public/Government | [https://nsspolytechnic.ac.in](https://nsspolytechnic.ac.in) |
+| 1293 | Mar Thoma Institute of Information Technology | Kollam | Kerala | Private | [https://miit.edu.in](https://miit.edu.in) |
+| 1295 | Government Polytechnic College, Nedumkandam | Idukki | Kerala | Public/Government | [https://gptcnedumkandam.ac.in](https://gptcnedumkandam.ac.in) |
+| 1296 | Government Polytechnic College, Kasaragod | Kasaragod | Kerala | Public/Government | [https://gpckasaragod.ac.in](https://gpckasaragod.ac.in) |
+| 1297 | College of Architecture Trivandrum | Thiruvananthapuram | Kerala | Private | [https://cat.edu.in](https://cat.edu.in) |
+| 1298 | Government Polytechnic College, Palakkad | Palakkad | Kerala | Public/Government | [https://gptcpalakkad.ac.in](https://gptcpalakkad.ac.in) |

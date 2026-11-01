@@ -11923,5 +11923,95 @@
         "website": "https://www.iist.ac.in"
       }
     ]
+  },
+  {
+    "id": 1285,
+    "name": "M.Dasan Institute of Technology",
+    "location": "Kozhikode",
+    "state": "Kerala",
+    "type": "Private",
+    "website": "https://mdit.ac.in",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1288,
+    "name": "SCMS Institute of Multidisciplinary Studies",
+    "location": "Ernakulam",
+    "state": "Kerala",
+    "type": "Private",
+    "website": "https://www.scmsgroup.org",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1289,
+    "name": "Government Polytechnic College, Adoor",
+    "location": "Pathanamthitta",
+    "state": "Kerala",
+    "type": "Public/Government",
+    "website": "https://gptcadoor.org",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1290,
+    "name": "Model Residential Polytechnic College, Kuzhalmannam",
+    "location": "Palakkad",
+    "state": "Kerala",
+    "type": "Public/Government",
+    "website": "https://mptkuzhalmannam.ihrd.ac.in",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1291,
+    "name": "NSS Polytechnic College, Pandalam",
+    "location": "Pathanamthitta",
+    "state": "Kerala",
+    "type": "Public/Government",
+    "website": "https://nsspolytechnic.ac.in",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1293,
+    "name": "Mar Thoma Institute of Information Technology",
+    "location": "Kollam",
+    "state": "Kerala",
+    "type": "Private",
+    "website": "https://miit.edu.in",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1295,
+    "name": "Government Polytechnic College, Nedumkandam",
+    "location": "Idukki",
+    "state": "Kerala",
+    "type": "Public/Government",
+    "website": "https://gptcnedumkandam.ac.in",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1296,
+    "name": "Government Polytechnic College, Kasaragod",
+    "location": "Kasaragod",
+    "state": "Kerala",
+    "type": "Public/Government",
+    "website": "https://gpckasaragod.ac.in",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1297,
+    "name": "College of Architecture Trivandrum",
+    "location": "Thiruvananthapuram",
+    "state": "Kerala",
+    "type": "Private",
+    "website": "https://cat.edu.in",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1298,
+    "name": "Government Polytechnic College, Palakkad",
+    "location": "Palakkad",
+    "state": "Kerala",
+    "type": "Public/Government",
+    "website": "https://gptcpalakkad.ac.in",
+    "verifiedAt": "2026-11-01T18:40:21.659Z"
   }
 ]
