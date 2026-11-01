@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1530 / 12,660**  
-**Roadmap Progress**: **153.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1540 / 12,660**  
+**Roadmap Progress**: **154.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2304,4 +2304,19 @@
 | **1213** | Federal Institute of Science and Technology (FISAT) | Private | Ernakulam, Kerala - 683577 | [fisat.ac.in](https://fisat.ac.in) |
 | **1214** | Mohandas College of Engineering and Technology, Thiruvananthapuram | Private | Thiruvananthapuram, Kerala - 695541 | [mcet.ac.in](https://mcet.ac.in) |
 | **1215** | Government Model Engineering College, Kochi | Public/Government | Kochi, Kerala - 682021 | [www.mec.ac.in](https://www.mec.ac.in) |
+
+### Batch 154 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1216** | College of Engineering Trivandrum (CET) | Public/Government | Thiruvananthapuram, Kerala - 695016 | [www.cet.ac.in](https://www.cet.ac.in) |
+| **1217** | SCMS School of Engineering and Technology, Kochi | Private | Kochi, Kerala - 683576 | [scmsgroup.org](https://scmsgroup.org/sset) |
+| **1218** | Younus College of Engineering and Technology, Kollam | Private | Kollam, Kerala - 691010 | [www.ycet.ac.in](http://www.ycet.ac.in) |
+| **1219** | Universal Engineering College, Thrissur | Private | Thrissur, Kerala - 680123 | [uec.ac.in](https://uec.ac.in) |
+| **1220** | MES College of Engineering and Technology, Ernakulam | Private | Ernakulam, Kerala - 683578 | [www.mescet.ac.in](https://www.mescet.ac.in) |
+| **1221** | Rajadhani Institute of Science and Technology, Palakkad | Private | Palakkad, Kerala - 678613 | [riet.edu.in](https://riet.edu.in) |
+| **1222** | Saintgits College of Engineering, Kottayam | Private | Kottayam, Kerala - 686532 | [saintgits.org](https://saintgits.org) |
+| **1223** | Indian Institute of Space Science and Technology, Thiruvananthapuram | Public/Government | Thiruvananthapuram, Kerala - 695547 | [www.iist.ac.in](https://www.iist.ac.in) |
+| **1224** | LEAD College of Management, Palakkad | Private | Palakkad, Kerala - 678009 | [lead.ac.in](https://lead.ac.in) |
+| **1225** | Institute of Management in Kerala, University of Kerala, Thiruvananthapuram | Public/Government | Thiruvananthapuram, Kerala - 695581 | [imk.keralauniversity.ac.in](https://imk.keralauniversity.ac.in) |
 

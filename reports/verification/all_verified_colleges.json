@@ -11473,5 +11473,80 @@
         "website": "https://www.mec.ac.in"
       }
     ]
+  },
+  {
+    "batch": 154,
+    "items": [
+      {
+        "id": 1216,
+        "name": "College of Engineering Trivandrum (CET)",
+        "type": "Public/Government",
+        "location": "Thiruvananthapuram, Kerala - 695016",
+        "website": "https://www.cet.ac.in"
+      },
+      {
+        "id": 1217,
+        "name": "SCMS School of Engineering and Technology, Kochi",
+        "type": "Private",
+        "location": "Kochi, Kerala - 683576",
+        "website": "https://scmsgroup.org/sset"
+      },
+      {
+        "id": 1218,
+        "name": "Younus College of Engineering and Technology, Kollam",
+        "type": "Private",
+        "location": "Kollam, Kerala - 691010",
+        "website": "http://www.ycet.ac.in"
+      },
+      {
+        "id": 1219,
+        "name": "Universal Engineering College, Thrissur",
+        "type": "Private",
+        "location": "Thrissur, Kerala - 680123",
+        "website": "https://uec.ac.in"
+      },
+      {
+        "id": 1220,
+        "name": "MES College of Engineering and Technology, Ernakulam",
+        "type": "Private",
+        "location": "Ernakulam, Kerala - 683578",
+        "website": "https://www.mescet.ac.in"
+      },
+      {
+        "id": 1221,
+        "name": "Rajadhani Institute of Science and Technology, Palakkad",
+        "type": "Private",
+        "location": "Palakkad, Kerala - 678613",
+        "website": "https://riet.edu.in"
+      },
+      {
+        "id": 1222,
+        "name": "Saintgits College of Engineering, Kottayam",
+        "type": "Private",
+        "location": "Kottayam, Kerala - 686532",
+        "website": "https://saintgits.org"
+      },
+      {
+        "id": 1223,
+        "name": "Indian Institute of Space Science and Technology, Thiruvananthapuram",
+        "type": "Public/Government",
+        "location": "Thiruvananthapuram, Kerala - 695547",
+        "website": "https://www.iist.ac.in"
+      },
+      {
+        "id": 1224,
+        "name": "LEAD College of Management, Palakkad",
+        "type": "Private",
+        "location": "Palakkad, Kerala - 678009",
+        "website": "https://lead.ac.in"
+      },
+      {
+        "id": 1225,
+        "name": "Institute of Management in Kerala, University of Kerala, Thiruvananthapuram",
+        "type": "Public/Government",
+        "location": "Thiruvananthapuram, Kerala - 695581",
+        "website": "https://imk.keralauniversity.ac.in"
+      }
+    ]
   }
 ]
