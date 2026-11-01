@@ -10873,5 +10873,80 @@
         "website": "https://sitjamui.org"
       }
     ]
+  },
+  {
+    "batch": 146,
+    "items": [
+      {
+        "id": 1129,
+        "name": "Jamui Institute of Technology, Jamui",
+        "type": "Private",
+        "location": "Jamui, Bihar - 811307",
+        "website": "http://jamuipolytechnic.org"
+      },
+      {
+        "id": 1130,
+        "name": "Patna Women's College",
+        "type": "Private",
+        "location": "Patna, Bihar - 800001",
+        "website": "https://patnawomenscollege.in"
+      },
+      {
+        "id": 1131,
+        "name": "Tool Room & Training Centre, Patna",
+        "type": "Public/Government",
+        "location": "Patna, Bihar - 800013",
+        "website": "https://trtcpatna.org"
+      },
+      {
+        "id": 1132,
+        "name": "Government Polytechnic, Raghopur, Supaul",
+        "type": "Public/Government",
+        "location": "District Supaul, Bihar - 852215",
+        "website": "https://www.gpsupaul.ac.in"
+      },
+      {
+        "id": 1133,
+        "name": "Government Engineering College, Madhubani",
+        "type": "Public/Government",
+        "location": "District Madhubani, Bihar - 847239",
+        "website": "https://www.gecmadhubani.ac.in"
+      },
+      {
+        "id": 1134,
+        "name": "Government Engineering College, Bhojpur",
+        "type": "Public/Government",
+        "location": "District Bhojpur, Bihar - 802301",
+        "website": "https://www.gecbhojpur.org"
+      },
+      {
+        "id": 1135,
+        "name": "Government Engineering College, Nawada",
+        "type": "Public/Government",
+        "location": "District Nawada, Bihar - 805122",
+        "website": "https://www.gecnawada.org.in"
+      },
+      {
+        "id": 1136,
+        "name": "Government Engineering College, Banka",
+        "type": "Public/Government",
+        "location": "District Banka, Bihar - 813102",
+        "website": "https://www.gecbanka.org"
+      },
+      {
+        "id": 1138,
+        "name": "Government Polytechnic, West Champaran",
+        "type": "Public/Government",
+        "location": "District West Champaran, Bihar - 845438",
+        "website": "https://gpwestchamparan.ac.in"
+      },
+      {
+        "id": 1139,
+        "name": "Government Engineering College, Jehanabad",
+        "type": "Public/Government",
+        "location": "District Jehanabad, Bihar - 804407",
+        "website": "https://www.gecjehanabad.ac.in"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1450 / 12,660**  
-**Roadmap Progress**: **145.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1460 / 12,660**  
+**Roadmap Progress**: **146.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2184,4 +2184,19 @@
 | **1124** | Vaishali Institute of Business and Rural Management, Muzaffarpur | Private | Muzaffarpur, Bihar - 842002 | [www.vibrm.in](https://www.vibrm.in/) |
 | **1126** | Vidya Vihar Institute of Technology, Purnia | Private | Purnea, Bihar - 854303 | [vvit.org](https://vvit.org) |
 | **1127** | Subhash Institute of Technology, Jamui | Private | District Jamui, Bihar - 811307 | [sitjamui.org](https://sitjamui.org) |
+
+### Batch 146 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1129** | Jamui Institute of Technology, Jamui | Private | Jamui, Bihar - 811307 | [jamuipolytechnic.org](http://jamuipolytechnic.org) |
+| **1130** | Patna Women's College | Private | Patna, Bihar - 800001 | [patnawomenscollege.in](https://patnawomenscollege.in) |
+| **1131** | Tool Room & Training Centre, Patna | Public/Government | Patna, Bihar - 800013 | [trtcpatna.org](https://trtcpatna.org) |
+| **1132** | Government Polytechnic, Raghopur, Supaul | Public/Government | District Supaul, Bihar - 852215 | [www.gpsupaul.ac.in](https://www.gpsupaul.ac.in) |
+| **1133** | Government Engineering College, Madhubani | Public/Government | District Madhubani, Bihar - 847239 | [www.gecmadhubani.ac.in](https://www.gecmadhubani.ac.in) |
+| **1134** | Government Engineering College, Bhojpur | Public/Government | District Bhojpur, Bihar - 802301 | [www.gecbhojpur.org](https://www.gecbhojpur.org) |
+| **1135** | Government Engineering College, Nawada | Public/Government | District Nawada, Bihar - 805122 | [www.gecnawada.org.in](https://www.gecnawada.org.in) |
+| **1136** | Government Engineering College, Banka | Public/Government | District Banka, Bihar - 813102 | [www.gecbanka.org](https://www.gecbanka.org) |
+| **1138** | Government Polytechnic, West Champaran | Public/Government | District West Champaran, Bihar - 845438 | [gpwestchamparan.ac.in](https://gpwestchamparan.ac.in) |
+| **1139** | Government Engineering College, Jehanabad | Public/Government | District Jehanabad, Bihar - 804407 | [www.gecjehanabad.ac.in](https://www.gecjehanabad.ac.in) |
 
