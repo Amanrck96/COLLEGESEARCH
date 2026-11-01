@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1340 / 12,660**  
-**Roadmap Progress**: **134.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1350 / 12,660**  
+**Roadmap Progress**: **135.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2019,4 +2019,19 @@
 | **1009** | Northern Institute of Engineering Technical Campus | Private | Alwar, Rajasthan - 301028 | [nietalwar.com](https://nietalwar.com) |
 | **1010** | Khatu Naresh Institute of Technology | Private | Dausa, Rajasthan - 303303 | [knitdausa.org](https://knitdausa.org) |
 | **1011** | Rajasthan Engineering College | Private | Dausa, Rajasthan - 303303 | [recdausa.com](https://recdausa.com) |
+
+### Batch 135 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1012** | BLM Institute of Technology & Management Sciences | Private | District Jhunjhunu, Rajasthan - 333036 | [blmitm.edu.in](https://blmitm.edu.in) |
+| **1013** | Mewar School of Engineering & Technology, Mewar University | Private | Chittorgarh, Rajasthan - 312901 | [www.mewaruniversity.org](https://www.mewaruniversity.org) |
+| **1014** | Khandelwal Vaish Girls Institute of Technology | Private | Jaipur, Rajasthan - 302023 | [kvgit.org](https://kvgit.org) |
+| **1015** | Faculty of Agriculture Engineering, Agriculture University Jodhpur | Public/Government | Jodhpur, Rajasthan - 342304 | [www.aujodhpur.ac.in](https://www.aujodhpur.ac.in) |
+| **1016** | Government Polytechnic College, Nawa | Public/Government | District Nagaur, Rajasthan - 341509 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcnawa) |
+| **1017** | Institute of Engineering and Management / UEM Jaipur | Private | Jaipur, Rajasthan - 303807 | [uem.edu.in](https://uem.edu.in/uem-jaipur/) |
+| **1018** | Biff & Bright College of Engineering & Technology | Private | District Jaipur, Rajasthan - 303008 | [biffbright.com](https://biffbright.com) |
+| **1019** | Anand International College of Engineering | Private | Jaipur, Rajasthan - 303012 | [anandice.ac.in](https://anandice.ac.in) |
+| **1020** | Government Polytechnic College, Neemrana | Public/Government | District Kotputli-Behror, Rajasthan - 301705 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcneemrana) |
+| **1021** | Shekhawati Polytechnic College | Private | District Jhunjhunu, Rajasthan - 333702 | [shekhawati.edu.in](https://shekhawati.edu.in) |
 

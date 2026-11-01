@@ -10048,5 +10048,80 @@
         "website": "https://recdausa.com"
       }
     ]
+  },
+  {
+    "batch": 135,
+    "items": [
+      {
+        "id": 1012,
+        "name": "BLM Institute of Technology & Management Sciences",
+        "type": "Private",
+        "location": "District Jhunjhunu, Rajasthan - 333036",
+        "website": "https://blmitm.edu.in"
+      },
+      {
+        "id": 1013,
+        "name": "Mewar School of Engineering & Technology, Mewar University",
+        "type": "Private",
+        "location": "Chittorgarh, Rajasthan - 312901",
+        "website": "https://www.mewaruniversity.org"
+      },
+      {
+        "id": 1014,
+        "name": "Khandelwal Vaish Girls Institute of Technology",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302023",
+        "website": "https://kvgit.org"
+      },
+      {
+        "id": 1015,
+        "name": "Faculty of Agriculture Engineering, Agriculture University Jodhpur",
+        "type": "Public/Government",
+        "location": "Jodhpur, Rajasthan - 342304",
+        "website": "https://www.aujodhpur.ac.in"
+      },
+      {
+        "id": 1016,
+        "name": "Government Polytechnic College, Nawa",
+        "type": "Public/Government",
+        "location": "District Nagaur, Rajasthan - 341509",
+        "website": "https://hte.rajasthan.gov.in/college/gpcnawa"
+      },
+      {
+        "id": 1017,
+        "name": "Institute of Engineering and Management / UEM Jaipur",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303807",
+        "website": "https://uem.edu.in/uem-jaipur/"
+      },
+      {
+        "id": 1018,
+        "name": "Biff & Bright College of Engineering & Technology",
+        "type": "Private",
+        "location": "District Jaipur, Rajasthan - 303008",
+        "website": "https://biffbright.com"
+      },
+      {
+        "id": 1019,
+        "name": "Anand International College of Engineering",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303012",
+        "website": "https://anandice.ac.in"
+      },
+      {
+        "id": 1020,
+        "name": "Government Polytechnic College, Neemrana",
+        "type": "Public/Government",
+        "location": "District Kotputli-Behror, Rajasthan - 301705",
+        "website": "https://hte.rajasthan.gov.in/college/gpcneemrana"
+      },
+      {
+        "id": 1021,
+        "name": "Shekhawati Polytechnic College",
+        "type": "Private",
+        "location": "District Jhunjhunu, Rajasthan - 333702",
+        "website": "https://shekhawati.edu.in"
+      }
+    ]
   }
 ]
