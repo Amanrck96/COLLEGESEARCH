@@ -2731,3 +2731,17 @@
 | 1824 | MSME Technology Centre, Durg | Durg | Chhattisgarh | Public/Government (Ministry of MSME, Govt of India) | [Website](https://msmedurg.org) |
 | 1825 | Tagore College of Management, Bilaspur | Bilaspur | Chhattisgarh | Private | [Website](https://tcmbsp.in) |
 | 1826 | Prism School of Business & Entrepreneurship (PSBE), Bhilai | Durg | Chhattisgarh | Private | [Website](http://www.prismschool.ac.in) |
+
+### Batch 184 (Colleges 1,831–1,840, IDs: 1827–1836)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1827 | Government Polytechnic, Bijapur | Bijapur | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpbijapur.ac.in) |
+| 1828 | Government Polytechnic, Bhatapara | Bhatapara | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpbhatapara.ac.in) |
+| 1829 | Disha Institute of Management and Technology (DIMAT), Raipur | Raipur | Chhattisgarh | Private | [Website](https://dimat.edu.in) |
+| 1830 | Government Polytechnic, Koriya | Koriya | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpkoriya.ac.in) |
+| 1831 | Krishna Engineering College (KEC), Bhilai | Durg | Chhattisgarh | Private | [Website](http://kecbhilai.ac.in) |
+| 1832 | Chhattisgarh Institute of Technology (CIT), Nava Raipur | Raipur | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://cgdte.cgstate.gov.in) |
+| 1833 | Government Polytechnic, Kabirdham (Kawardha) | Kawardha | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpkawardha.ac.in) |
+| 1834 | Government Polytechnic, Ambikapur | Ambikapur | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpambikapur.ac.in) |
+| 1835 | Government Polytechnic, Bilaspur | Bilaspur | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpbilaspur.ac.in) |
+| 1836 | Dharmu Mahra Government Girls Polytechnic, Jagdalpur | Jagdalpur | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://ggpjagdalpur.ac.in) |
