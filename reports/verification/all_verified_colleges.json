@@ -9148,5 +9148,80 @@
         "website": "https://igu.ac.in"
       }
     ]
+  },
+  {
+    "batch": 123,
+    "items": [
+      {
+        "id": 885,
+        "name": "Maharishi Kashyap Govt. Polytechnic Jattal (Panipat)",
+        "type": "Public/Government",
+        "location": "Distt. Panipat, Haryana - 132103",
+        "website": "https://gpjattal.ac.in"
+      },
+      {
+        "id": 886,
+        "name": "Rao Birender Singh State Institute of Engineering and Technology (RBSSIET Zainabad)",
+        "type": "Public/Government",
+        "location": "Rewari, Haryana - 123411",
+        "website": "https://rbssiet.ac.in"
+      },
+      {
+        "id": 887,
+        "name": "Raja Jait Singh Government Polytechnic (Neemka Faridabad)",
+        "type": "Public/Government",
+        "location": "Faridabad, Haryana - 121004",
+        "website": "https://gpneemka.ac.in"
+      },
+      {
+        "id": 888,
+        "name": "Delhi Global Institute of Technology (DGIT Jhajjar)",
+        "type": "Private",
+        "location": "Jhajjar, Haryana - 124201",
+        "website": "https://delhiglobal.ac.in"
+      },
+      {
+        "id": 889,
+        "name": "Government Polytechnic Malab (GP Malab Mewat)",
+        "type": "Public/Government",
+        "location": "District Nuh (Mewat), Haryana - 122107",
+        "website": "https://gpmalab.ac.in"
+      },
+      {
+        "id": 890,
+        "name": "University Institute of Engineering & Technology, Kurukshetra University (UIET KUK)",
+        "type": "Public/Government",
+        "location": "Kurukshetra, Haryana - 136119",
+        "website": "https://uietkuk.ac.in"
+      },
+      {
+        "id": 891,
+        "name": "Sat Priya Group of Institutions (SPGOI Rohtak)",
+        "type": "Private",
+        "location": "Rohtak, Haryana - 124001",
+        "website": "https://www.satpriya.com"
+      },
+      {
+        "id": 892,
+        "name": "DPG Degree College (Gurugram)",
+        "type": "Private",
+        "location": "Gurugram, Haryana - 122001",
+        "website": "https://dpgdegreecollege.com"
+      },
+      {
+        "id": 895,
+        "name": "Government Polytechnic Panchkula",
+        "type": "Public/Government",
+        "location": "Panchkula, Haryana - 134116",
+        "website": "https://gppanchkula.ac.in"
+      },
+      {
+        "id": 896,
+        "name": "Govt. Polytechnic cum Multi Skill Training Centre Dhamlawas",
+        "type": "Public/Government",
+        "location": "Rewari, Haryana - 123101",
+        "website": "https://gpdhamlawas.ac.in"
+      }
+    ]
   }
 ]

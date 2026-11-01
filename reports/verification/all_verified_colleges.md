@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1220 / 12,660**  
-**Roadmap Progress**: **122.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1230 / 12,660**  
+**Roadmap Progress**: **123.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1839,4 +1839,19 @@
 | **882** | Government Polytechnic Mandkola | Public/Government | Palwal, Haryana - 121103 | [gpmandkola.ac.in](https://gpmandkola.ac.in) |
 | **883** | XLRI Xavier School of Management, Delhi-NCR Campus | Private | Jhajjar (Delhi-NCR), Haryana - 124103 | [delhi.xlri.ac.in](https://delhi.xlri.ac.in) |
 | **884** | Indira Gandhi University Meerpur (IGU Rewari) | Public/Government | Rewari, Haryana - 122502 | [igu.ac.in](https://igu.ac.in) |
+
+### Batch 123 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **885** | Maharishi Kashyap Govt. Polytechnic Jattal (Panipat) | Public/Government | Distt. Panipat, Haryana - 132103 | [gpjattal.ac.in](https://gpjattal.ac.in) |
+| **886** | Rao Birender Singh State Institute of Engineering and Technology (RBSSIET Zainabad) | Public/Government | Rewari, Haryana - 123411 | [rbssiet.ac.in](https://rbssiet.ac.in) |
+| **887** | Raja Jait Singh Government Polytechnic (Neemka Faridabad) | Public/Government | Faridabad, Haryana - 121004 | [gpneemka.ac.in](https://gpneemka.ac.in) |
+| **888** | Delhi Global Institute of Technology (DGIT Jhajjar) | Private | Jhajjar, Haryana - 124201 | [delhiglobal.ac.in](https://delhiglobal.ac.in) |
+| **889** | Government Polytechnic Malab (GP Malab Mewat) | Public/Government | District Nuh (Mewat), Haryana - 122107 | [gpmalab.ac.in](https://gpmalab.ac.in) |
+| **890** | University Institute of Engineering & Technology, Kurukshetra University (UIET KUK) | Public/Government | Kurukshetra, Haryana - 136119 | [uietkuk.ac.in](https://uietkuk.ac.in) |
+| **891** | Sat Priya Group of Institutions (SPGOI Rohtak) | Private | Rohtak, Haryana - 124001 | [www.satpriya.com](https://www.satpriya.com) |
+| **892** | DPG Degree College (Gurugram) | Private | Gurugram, Haryana - 122001 | [dpgdegreecollege.com](https://dpgdegreecollege.com) |
+| **895** | Government Polytechnic Panchkula | Public/Government | Panchkula, Haryana - 134116 | [gppanchkula.ac.in](https://gppanchkula.ac.in) |
+| **896** | Govt. Polytechnic cum Multi Skill Training Centre Dhamlawas | Public/Government | Rewari, Haryana - 123101 | [gpdhamlawas.ac.in](https://gpdhamlawas.ac.in) |
 
