@@ -5098,5 +5098,80 @@
         "website": "https://www.dituniversity.edu.in/"
       }
     ]
+  },
+  {
+    "batch": 69,
+    "items": [
+      {
+        "id": 259,
+        "name": "Delhi Pharmaceutical Sciences and Research University (DPSRU)",
+        "type": "Public/Government",
+        "location": "Delhi, India",
+        "website": "https://dpsru.edu.in/"
+      },
+      {
+        "id": 260,
+        "name": "Army College of Medical Sciences (ACMS New Delhi)",
+        "type": "Private",
+        "location": "Near Base Hospital Delhi Cantt, New Delhi",
+        "website": "https://theacms.in/"
+      },
+      {
+        "id": 261,
+        "name": "University College of Medical Sciences, University of Delhi (UCMS)",
+        "type": "Public/Government",
+        "location": "Tahirpur Road, GTB Enclave.",
+        "website": "https://ucms.ac.in/"
+      },
+      {
+        "id": 262,
+        "name": "Max Institute of Medical Excellence, Saket, New Delhi",
+        "type": "Private",
+        "location": "Delhi, India",
+        "website": "https://www.maxhealthcare.in/academics"
+      },
+      {
+        "id": 263,
+        "name": "Creative & Innovative Skill Foundation, New Delhi (CIS Foundation)",
+        "type": "Private",
+        "location": "Delhi, India",
+        "website": "https://cisfoundation.org/"
+      },
+      {
+        "id": 264,
+        "name": "Jamia Hamdard (Deemed-to-be-University), New Delhi",
+        "type": "Deemed",
+        "location": "Hamdard Nagar, New Delhi",
+        "website": "https://www.jamiahamdard.ac.in/"
+      },
+      {
+        "id": 265,
+        "name": "Lady Hardinge Medical College, University of Delhi (LHMC)",
+        "type": "Public/Government",
+        "location": "Shaheed Bhagat Singh Road, Diz Area",
+        "website": "http://lhmc-hosp.gov.in/"
+      },
+      {
+        "id": 266,
+        "name": "Institute of Liver and Biliary Sciences, New Delhi (ILBS)",
+        "type": "Public/Government",
+        "location": "Delhi, India",
+        "website": "https://www.ilbs.in/"
+      },
+      {
+        "id": 267,
+        "name": "Max Institute of Medical Excellence, Rohini, New Delhi",
+        "type": "Private",
+        "location": "Delhi, India",
+        "website": "https://www.maxhealthcare.in/academics"
+      },
+      {
+        "id": 268,
+        "name": "Delhi Paramedical and Management Institute, New Delhi (DPMI)",
+        "type": "Private",
+        "location": "New Ashok Nagar, Near New Ashok Nagar Metro Station & Rapid Rail Station (RRTS)",
+        "website": "https://www.dpmiindia.com/"
+      }
+    ]
   }
 ]

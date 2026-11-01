@@ -22277,18 +22277,18 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/delhi-pharmaceutical-sciences-and-research-university-64427",
-      "name": "DPSRU",
+      "name": "Delhi Pharmaceutical Sciences and Research University (DPSRU)",
       "shortName": "D",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi, India",
-      "phone": "080-26597135",
+      "phone": "011-29553771",
       "email": "admissions@d.edu.in",
-      "website": "https://www.google.com/search?q=DPSRU%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://dpsru.edu.in/",
+      "rating": 4.6,
       "reviews": 229,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -22308,22 +22308,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "Bachelor of Pharmacy (B.Pharm - DIPSAR/DPSRU)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹48,000/Year",
+          "eligibility": "10+2 with PCB/PCM (55%+) + Merit",
+          "exams": "Merit",
+          "intake": "120"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "Bachelor of Physiotherapy (BPT)",
+          "division": "Undergraduate",
+          "duration": "4.5 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with PCB Merit",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Pharmacy (M.Pharm in Pharmaceutics / Pharmacology)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "B.Pharm degree + GPAT",
+          "exams": "GPAT",
+          "intake": "90"
         }
       ],
       "highestPackage": "₹8 LPA",
@@ -22349,20 +22358,22 @@
       "id": 259,
       "reviewsCount": 229,
       "image": "https://img.jagranjosh.com/images/2022/December/13122022/Delhi-Pharmaceutical-Sciences-and-Research-University-New-Delhi-Campus-View.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DPSRU%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DPSRU%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 1964
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/acms-army-college-of-medical-sciences-delhi-cantt-delhi-57635",
-      "name": "ACMS",
+      "name": "Army College of Medical Sciences (ACMS New Delhi)",
       "shortName": "A",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Brar Square, Near Base Hospital Delhi Cantt, New Delhi",
-      "phone": "1800112878",
+      "phone": "011-25687644",
       "email": "acms@awesindia.edu.in",
-      "website": "http://theacms.in",
-      "rating": 4.5,
+      "website": "https://theacms.in/",
+      "rating": 4.7,
       "reviews": 422,
       "type": "Private",
       "ownership": "Private",
@@ -22387,19 +22398,19 @@
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
+          "fees": "₹4,40,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET UG (Wards of Army personnel)",
           "exams": "NEET UG",
-          "intake": "150"
+          "intake": "100"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "MD / MS Postgraduate Programs (Base Hospital)",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
+          "fees": "₹3,50,000/Year",
           "eligibility": "MBBS Degree + NEET PG",
           "exams": "NEET PG",
-          "intake": "40"
+          "intake": "30"
         }
       ],
       "highestPackage": "₹8 Lakhs",
@@ -22425,20 +22436,22 @@
       "id": 260,
       "reviewsCount": 422,
       "image": "https://image-static.collegedunia.com/public/image/ACMS_DELHI_CAmpus_110b2c027ea8971db9fb66c6385c0893.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ACMS%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ACMS%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 2008
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/university-college-of-medical-sciences-university-of-delhi-dilshad-garden-3874",
-      "name": "University College of Medical Sciences, University of Delhi",
+      "name": "University College of Medical Sciences, University of Delhi (UCMS)",
       "shortName": "UCOMSU",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Gate No-2, Tahirpur Road, GTB Enclave.",
-      "phone": "22582106",
+      "phone": "011-22582106",
       "email": "principal@ucms.ac.in",
-      "website": "https://www.du.ac.in",
-      "rating": 4.5,
+      "website": "https://ucms.ac.in/",
+      "rating": 4.9,
       "reviews": 479,
       "type": "Public/Government",
       "ownership": "Private",
@@ -22463,19 +22476,28 @@
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
+          "fees": "₹7,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET UG (Top 0.1%ile)",
           "exams": "NEET UG",
-          "intake": "150"
+          "intake": "170"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "MD / MS Postgraduate Medical Programs",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
+          "fees": "₹15,600/Year",
+          "eligibility": "MBBS degree + NEET PG",
           "exams": "NEET PG",
-          "intake": "40"
+          "intake": "140"
+        },
+        {
+          "title": "B.Sc in Medical Imaging Technology (BMIT)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹12,000/Year",
+          "eligibility": "10+2 with PCB/PCM",
+          "exams": "Merit / Entrance",
+          "intake": "20"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -22500,22 +22522,24 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 261,
       "reviewsCount": 479,
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=University%20College%20of%20Medical%20Sciences%2C%20University%20of%20Delhi%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "New Delhi",
+      "established": 1971
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/max-institute-of-allied-and-paramedical-education-saket-saket-delhi-211497",
-      "name": "Max Institute of Allied and Paramedical Education, Saket",
+      "name": "Max Institute of Medical Excellence, Saket, New Delhi",
       "shortName": "MIOAAP",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi, India",
-      "phone": "080-26597135",
+      "phone": "011-26515050",
       "email": "admissions@mioaap.edu.in",
-      "website": "https://www.google.com/search?q=Max%20Institute%20of%20Allied%20and%20Paramedical%20Education%2C%20Saket%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://www.maxhealthcare.in/academics",
+      "rating": 4.3,
       "reviews": 126,
       "type": "Private",
       "ownership": "Private",
@@ -22537,22 +22561,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
-        },
-        {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "DNB Postgraduate Medical Residency (NBE)",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹1,25,000/Year",
+          "eligibility": "MBBS degree + NEET PG / NBE",
+          "exams": "NEET PG, NBE",
+          "intake": "45"
+        },
+        {
+          "title": "Diploma in Medical Laboratory Technology (DMLT)",
+          "division": "Diploma",
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with Science stream",
+          "exams": "Merit",
+          "intake": "30"
+        },
+        {
+          "title": "Post Graduate Diploma in Emergency Medical Services",
+          "division": "Postgraduate",
+          "duration": "1 Year",
+          "fees": "₹85,000 Total",
+          "eligibility": "MBBS / BAMS / BHMS / B.Sc Nursing",
+          "exams": "Interview",
+          "intake": "25"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -22578,20 +22611,22 @@
       "reviewsCount": 126,
       "image": "/images/campuses/campus_architecture_2.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Max%20Institute%20of%20Allied%20and%20Paramedical%20Education%2C%20Saket%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "New Delhi",
+      "established": 2010
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/cis-foundation-saket-delhi-48657",
-      "name": "CIS Foundation",
+      "name": "Creative & Innovative Skill Foundation, New Delhi (CIS Foundation)",
       "shortName": "CF",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi, India",
-      "phone": "080-26597135",
+      "phone": "011-41006655",
       "email": "admissions@cf.edu.in",
-      "website": "https://www.google.com/search?q=CIS%20Foundation%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://cisfoundation.org/",
+      "rating": 4,
       "reviews": 235,
       "type": "Private",
       "ownership": "Private",
@@ -22613,22 +22648,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "title": "Certificate in General Duty Assistant (GDA)",
+          "division": "Certificate",
+          "duration": "6 Months",
+          "fees": "₹25,000 Total",
+          "eligibility": "10th Standard Pass",
+          "exams": "Direct Admission",
+          "intake": "40"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "title": "Certificate in Phlebotomy & Medical Sample Collection",
+          "division": "Certificate",
+          "duration": "6 Months",
+          "fees": "₹30,000 Total",
+          "eligibility": "10+2 with Science stream",
+          "exams": "Direct Admission",
+          "intake": "30"
+        },
+        {
+          "title": "Certificate in Patient Care & Hospital Operations",
+          "division": "Certificate",
+          "duration": "1 Year",
+          "fees": "₹45,000 Total",
+          "eligibility": "10+2 in any stream",
+          "exams": "Direct Admission",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -22655,24 +22699,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 263,
       "reviewsCount": 235,
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CIS%20Foundation%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "New Delhi",
+      "established": 2016
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/jamia-hamdard-delhi-3082",
-      "name": "Jamia Hamdard, Delhi",
+      "name": "Jamia Hamdard (Deemed-to-be-University), New Delhi",
       "shortName": "JHD",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Jamia Hamdard University, Hamdard Nagar, New Delhi",
-      "phone": "01126059688",
+      "phone": "011-26059688",
       "email": "registrar@jamiahamdard.ac.in",
       "website": "https://www.jamiahamdard.ac.in/",
-      "rating": 4.5,
+      "rating": 4.7,
       "reviews": 353,
-      "type": "Private",
+      "type": "Deemed",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -22692,22 +22738,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "Bachelor of Pharmacy (B.Pharm - SPER)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹1,65,000/Year",
+          "eligibility": "10+2 with PCB/PCM (50%+) + NEET / JEE Main",
+          "exams": "NEET, JEE Main",
+          "intake": "120"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "B.Tech in Computer Science and Engineering (SEST)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,10,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main",
+          "exams": "JEE Main",
+          "intake": "180"
+        },
+        {
+          "title": "Bachelor of Unani Medicine and Surgery (BUMS - SUMER)",
+          "division": "Undergraduate",
+          "duration": "5.5 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "10+2 with PCB + Urdu + NEET UG",
+          "exams": "NEET UG",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Pharmacy (M.Pharm - SPER)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹2,00,000/Year",
+          "eligibility": "B.Pharm degree with 55% + GPAT",
+          "exams": "GPAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -22738,20 +22802,22 @@
       "id": 264,
       "reviewsCount": 353,
       "image": "/images/campuses/campus_architecture_4.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jamia%20Hamdard%2C%20Delhi%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jamia%20Hamdard%2C%20Delhi%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 1989
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/lady-hardinge-medical-college-university-of-delhi-connaught-place-1227",
-      "name": "Lady Hardinge Medical College, University of Delhi",
+      "name": "Lady Hardinge Medical College, University of Delhi (LHMC)",
       "shortName": "LHMCUO",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "C-604, Shaheed Bhagat Singh Road, Diz Area",
-      "phone": "01123363728",
+      "phone": "011-23363728",
       "email": "registraracademiclhmc@gmail.com",
-      "website": "https://www.du.ac.in",
-      "rating": 4.5,
+      "website": "http://lhmc-hosp.gov.in/",
+      "rating": 4.9,
       "reviews": 277,
       "type": "Public/Government",
       "ownership": "Private",
@@ -22773,22 +22839,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS - Women Only)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
+          "fees": "₹1,400/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET UG (Female Candidates, Top 0.2%ile)",
           "exams": "NEET UG",
+          "intake": "240"
+        },
+        {
+          "title": "MD / MS Postgraduate Programs (Co-ed)",
+          "division": "Postgraduate",
+          "duration": "3 Years",
+          "fees": "₹15,600/Year",
+          "eligibility": "MBBS degree + NEET PG",
+          "exams": "NEET PG",
           "intake": "150"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "title": "B.Sc (Hons) in Nursing",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹3,500/Year",
+          "eligibility": "10+2 with PCB (Female Candidates) + NEET UG",
+          "exams": "NEET UG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹45 LPA",
@@ -22815,24 +22890,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 265,
       "reviewsCount": 277,
-      "image": "/images/campuses/bms_bangalore.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Lady%20Hardinge%20Medical%20College%2C%20University%20of%20Delhi%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "New Delhi",
+      "established": 1916
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/ilbs-delhi-institute-of-liver-and-biliary-sciences-vasant-kunj-64285",
-      "name": "ILBS Delhi",
+      "name": "Institute of Liver and Biliary Sciences, New Delhi (ILBS)",
       "shortName": "ID",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi, India",
-      "phone": "080-26597135",
+      "phone": "011-46300000",
       "email": "admissions@id.edu.in",
-      "website": "https://www.google.com/search?q=ILBS%20Delhi%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://www.ilbs.in/",
+      "rating": 4.8,
       "reviews": 274,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -22852,22 +22929,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "title": "DM in Hepatology / Organ Transplant Anesthesia",
+          "division": "Super-specialty",
+          "duration": "3 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "MD in General Medicine/Pediatrics/Anesthesia + NEET SS",
+          "exams": "NEET SS",
+          "intake": "15"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
+          "title": "M.Ch in Hepato-Pancreato-Biliary (HPB) Surgery",
+          "division": "Super-specialty",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹75,000/Year",
+          "eligibility": "MS in General Surgery + NEET SS",
+          "exams": "NEET SS",
+          "intake": "10"
+        },
+        {
+          "title": "PDCC (Post-Doctoral Certificate Course in Critical Care / Virology)",
+          "division": "Fellowship",
+          "duration": "1 Year",
+          "fees": "₹50,000 Total",
+          "eligibility": "MD/MS/DNB Degree + ILBS Entrance & Interview",
+          "exams": "ILBS Entrance",
+          "intake": "20"
+        },
+        {
+          "title": "M.Sc in Clinical Research / Molecular Virology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "B.Sc in Life Sciences with 55% + Entrance",
+          "exams": "ILBS Entrance",
+          "intake": "20"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -22895,20 +22990,22 @@
       "id": 266,
       "reviewsCount": 274,
       "image": "https://img.jagranjosh.com/images/2023/January/1612023/Institute-of-Liver-and-Biliary-Sciences-New-Delhi-Campus-View-2.png",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ILBS%20Delhi%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ILBS%20Delhi%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 2009
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/max-institute-of-allied-and-paramedical-education-rohini-rohini-delhi-203243",
-      "name": "Max Institute of Allied and Paramedical Education (MIAPE), Rohini",
+      "name": "Max Institute of Medical Excellence, Rohini, New Delhi",
       "shortName": "MIAPE",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "Delhi, Delhi, India",
-      "phone": "080-26597135",
+      "phone": "011-66422222",
       "email": "admissions@miape.edu.in",
-      "website": "https://www.google.com/search?q=Max%20Institute%20of%20Allied%20and%20Paramedical%20Education%20(MIAPE)%2C%20Rohini%20official%20website%20Delhi%20Delhi%20NCR",
-      "rating": 4.5,
+      "website": "https://www.maxhealthcare.in/academics",
+      "rating": 4.2,
       "reviews": 479,
       "type": "Private",
       "ownership": "Private",
@@ -22930,22 +23027,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
-        },
-        {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "DNB Postgraduate Medical Residency (Family Medicine / Pediatrics)",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹1,25,000/Year",
+          "eligibility": "MBBS degree + NEET PG / NBE",
+          "exams": "NEET PG, NBE",
+          "intake": "25"
+        },
+        {
+          "title": "Diploma in Medical Imaging Technology (DMIT)",
+          "division": "Diploma",
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with Science stream",
+          "exams": "Merit",
+          "intake": "25"
+        },
+        {
+          "title": "Certificate in Critical Care Nursing",
+          "division": "Certificate",
+          "duration": "1 Year",
+          "fees": "₹45,000 Total",
+          "eligibility": "GNM / B.Sc Nursing degree",
+          "exams": "Interview",
+          "intake": "20"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -22971,20 +23077,22 @@
       "reviewsCount": 479,
       "image": "/images/campuses/campus_architecture_7.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Max%20Institute%20of%20Allied%20and%20Paramedical%20Education%20(MIAPE)%2C%20Rohini%20Delhi%20Delhi%20NCR",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "New Delhi",
+      "established": 2012
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/delhi-paramedical-and-management-institute-dpmi-ashok-nagar-52607",
-      "name": "Delhi Paramedical and Management Institute (DPMI)",
+      "name": "Delhi Paramedical and Management Institute, New Delhi (DPMI)",
       "shortName": "DPMI",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "address": "B-20, New Ashok Nagar, Near New Ashok Nagar Metro Station & Rapid Rail Station (RRTS)",
-      "phone": "080-26597135",
+      "phone": "011-45007700",
       "email": "info@dpmiindia.com",
-      "website": "https://www.dpmiindia.com",
-      "rating": 4.5,
+      "website": "https://www.dpmiindia.com/",
+      "rating": 4.2,
       "reviews": 463,
       "type": "Private",
       "ownership": "Private",
@@ -23006,22 +23114,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "title": "Diploma in Medical Lab Technology (DMLT)",
+          "division": "Diploma",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "10+2 in Science or Arts with 45%",
+          "exams": "Merit",
+          "intake": "60"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
+          "title": "Diploma in Operation Theatre Technology (DOTT)",
+          "division": "Diploma",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "10+2 in Science stream",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Vocation in Medical Lab Technology (B.Voc MLT)",
+          "division": "Undergraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹70,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit",
+          "intake": "50"
         }
       ],
       "highestPackage": "₹6 LPA",
@@ -23048,7 +23165,9 @@
       "id": 268,
       "reviewsCount": 463,
       "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Delhi_Paramedical__Management_Institute1.jpg?width=640",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Delhi%20Paramedical%20and%20Management%20Institute%20(DPMI)%20Delhi%20Delhi%20NCR"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Delhi%20Paramedical%20and%20Management%20Institute%20(DPMI)%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "established": 1996
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/maulana-azad-medical-college-university-of-delhi-bahadur-shah-zafar-marg-3429",

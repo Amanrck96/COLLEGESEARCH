@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **680 / 12,660**  
-**Roadmap Progress**: **68.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **690 / 12,660**  
+**Roadmap Progress**: **69.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1029,4 +1029,19 @@
 | **256** | Impact Paramedical and Health Institute, Delhi (IPHI Delhi) | Private | Laxmi Park, Near Peer Baba Road Nangloi | [iphi.edu.in](https://iphi.edu.in/) |
 | **257** | Institute of Clinical Research India, New Delhi (ICRI New Delhi) | Private | Road No. 201, Dwarka Sector-3 | [www.icriindia.com](https://www.icriindia.com/) |
 | **258** | DIT University, Dehradun | Private | East of Kailash, Near Spring Meadows Hospital | [www.dituniversity.edu.in](https://www.dituniversity.edu.in/) |
+
+### Batch 69 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **259** | Delhi Pharmaceutical Sciences and Research University (DPSRU) | Public/Government | Delhi, India | [dpsru.edu.in](https://dpsru.edu.in/) |
+| **260** | Army College of Medical Sciences (ACMS New Delhi) | Private | Near Base Hospital Delhi Cantt, New Delhi | [theacms.in](https://theacms.in/) |
+| **261** | University College of Medical Sciences, University of Delhi (UCMS) | Public/Government | Tahirpur Road, GTB Enclave. | [ucms.ac.in](https://ucms.ac.in/) |
+| **262** | Max Institute of Medical Excellence, Saket, New Delhi | Private | Delhi, India | [www.maxhealthcare.in](https://www.maxhealthcare.in/academics) |
+| **263** | Creative & Innovative Skill Foundation, New Delhi (CIS Foundation) | Private | Delhi, India | [cisfoundation.org](https://cisfoundation.org/) |
+| **264** | Jamia Hamdard (Deemed-to-be-University), New Delhi | Deemed | Hamdard Nagar, New Delhi | [www.jamiahamdard.ac.in](https://www.jamiahamdard.ac.in/) |
+| **265** | Lady Hardinge Medical College, University of Delhi (LHMC) | Public/Government | Shaheed Bhagat Singh Road, Diz Area | [lhmc-hosp.gov.in](http://lhmc-hosp.gov.in/) |
+| **266** | Institute of Liver and Biliary Sciences, New Delhi (ILBS) | Public/Government | Delhi, India | [www.ilbs.in](https://www.ilbs.in/) |
+| **267** | Max Institute of Medical Excellence, Rohini, New Delhi | Private | Delhi, India | [www.maxhealthcare.in](https://www.maxhealthcare.in/academics) |
+| **268** | Delhi Paramedical and Management Institute, New Delhi (DPMI) | Private | New Ashok Nagar, Near New Ashok Nagar Metro Station & Rapid Rail Station (RRTS) | [www.dpmiindia.com](https://www.dpmiindia.com/) |
 

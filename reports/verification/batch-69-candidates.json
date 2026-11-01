@@ -1,0 +1,112 @@
+[
+  {
+    "id": 259,
+    "name": "DPSRU",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2022/December/13122022/Delhi-Pharmaceutical-Sciences-and-Research-University-New-Delhi-Campus-View.jpg",
+    "website": "https://www.google.com/search?q=DPSRU%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 260,
+    "name": "ACMS",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/image/ACMS_DELHI_CAmpus_110b2c027ea8971db9fb66c6385c0893.jpg",
+    "website": "http://theacms.in",
+    "phone": "1800112878",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 261,
+    "name": "University College of Medical Sciences, University of Delhi",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.du.ac.in",
+    "phone": "22582106",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 262,
+    "name": "Max Institute of Allied and Paramedical Education, Saket",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.google.com/search?q=Max%20Institute%20of%20Allied%20and%20Paramedical%20Education%2C%20Saket%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 263,
+    "name": "CIS Foundation",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.google.com/search?q=CIS%20Foundation%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 264,
+    "name": "Jamia Hamdard, Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.jamiahamdard.ac.in/",
+    "phone": "01126059688",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 265,
+    "name": "Lady Hardinge Medical College, University of Delhi",
+    "state": "Delhi NCR",
+    "type": "Public/Government",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.du.ac.in",
+    "phone": "01123363728",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 266,
+    "name": "ILBS Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2023/January/1612023/Institute-of-Liver-and-Biliary-Sciences-New-Delhi-Campus-View-2.png",
+    "website": "https://www.google.com/search?q=ILBS%20Delhi%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 267,
+    "name": "Max Institute of Allied and Paramedical Education (MIAPE), Rohini",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.google.com/search?q=Max%20Institute%20of%20Allied%20and%20Paramedical%20Education%20(MIAPE)%2C%20Rohini%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 268,
+    "name": "Delhi Paramedical and Management Institute (DPMI)",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Delhi_Paramedical__Management_Institute1.jpg?width=640",
+    "website": "https://www.dpmiindia.com",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  }
+]
