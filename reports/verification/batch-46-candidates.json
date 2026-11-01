@@ -1,0 +1,202 @@
+[
+  {
+    "id": 8,
+    "name": "NIFT Delhi - National Institute of Fashion Technology",
+    "address": "New Delhi, Delhi NCR, India",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.nift.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Des Fashion Design",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹10.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "NLU Delhi - National Law University",
+    "address": "New Delhi, Delhi NCR, India",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://nludelhi.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "BA LLB (Hons)",
+        "duration": "5 Years",
+        "fee": "₹6.5 Lakhs - ₹10.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "National Institute of Technology Karnataka (NIT Surathkal)",
+    "address": "Surathkal, Mangalore, Karnataka, India",
+    "state": "Karnataka",
+    "img": "/images/campuses/campus_nit_surathkal.jpg",
+    "website": "https://www.nitk.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fee": "₹8.5 Lakhs - ₹12.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "National Institute of Technology Tiruchirappalli (NIT Trichy)",
+    "address": "Tiruchirappalli, Tamil Nadu, India",
+    "state": "Tamil Nadu",
+    "img": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.nitt.edu",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fee": "₹8.5 Lakhs - ₹12.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "IIM Lucknow - Indian Institute of Management",
+    "address": "Lucknow, Uttar Pradesh, India",
+    "state": "Uttar Pradesh",
+    "img": "https://www.iiml.ac.in/sites/default/files/2019-10/908067274InternationalProgramme.jpg",
+    "website": "https://www.iiml.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "MBA / PGDM",
+        "duration": "2 Years",
+        "fee": "₹12.5 Lakhs - ₹25.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "AIIMS Jodhpur - All India Institute of Medical Sciences",
+    "address": "Jodhpur, Rajasthan, India",
+    "state": "Rajasthan",
+    "img": "https://img.jagranjosh.com/images/2022/April/1242022/FNF8oMcaQAMajjA.jpg",
+    "website": "https://aiimsjodhpur.edu.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "MBBS",
+        "duration": "5.5 Years",
+        "fee": "₹6.5 Lakhs - ₹10.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "All India Institute of Medical Sciences (AIIMS New Delhi)",
+    "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi 110029",
+    "state": "Delhi",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.aiims.edu",
+    "type": "Government (Autonomous Institute of National Importance)",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "MBBS Bachelor of Medicine and Bachelor of Surgery",
+        "duration": "5.5 Years",
+        "fee": "₹5,856 Total"
+      },
+      {
+        "title": "MD / MS Post Graduate Medical Degree",
+        "duration": "3 Years",
+        "fee": "₹2,500 Total"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "National Law University Delhi NLU Delhi",
+    "address": "India, India Top, India",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://nludelhi.ac.in",
+    "type": "Public/Government",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "IIT Guwahati",
+    "address": "Indian Institute of Technology",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.iitg.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "All India Institute of Medical Sciences, Delhi",
+    "address": "Sri Aurobindo Marg, Ansari Nagar East",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.aiims.edu",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "duration": "5.5 Years",
+        "fee": "₹1.5 Lakhs - ₹15.0 Lakhs"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "duration": "3 Years",
+        "fee": "₹3.5 Lakhs/Year"
+      }
+    ]
+  }
+]

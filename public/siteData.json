@@ -718,15 +718,15 @@
     {
       "id": 8,
       "shikshaUrl": "https://www.shiksha.com/college/national-institute-of-fashion-technology-delhi-hauz-khas-24413",
-      "name": "NIFT Delhi - National Institute of Fashion Technology",
+      "name": "National Institute of Fashion Technology (NIFT Delhi)",
       "shortName": "NIFT Delhi",
       "location": "New Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Textiles, Government of India",
       "ranking": 4,
       "about": "NIFT Delhi - National Institute of Fashion Technology is one of India's foremost apex premier institutions in New Delhi, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹6.5 Lakhs - ₹10.5 Lakhs",
@@ -755,38 +755,66 @@
       ],
       "courses": [
         {
-          "title": "B.Des Fashion Design",
-          "division": "Undergraduate",
+          "name": "B.Des (FD)",
+          "title": "Bachelor of Design in Fashion Design",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹12,34,000",
+          "fee": "₹12,34,000",
+          "eligibility": "10+2 in any stream + NIFT Entrance Exam",
+          "type": "DESIGN",
+          "intake": 60
+        },
+        {
+          "name": "B.FTech",
+          "title": "Bachelor of Fashion Technology",
+          "duration": "4 Years",
+          "fees": "₹12,34,000",
+          "fee": "₹12,34,000",
+          "eligibility": "10+2 with PCM + NIFT Entrance Exam",
+          "type": "DESIGN",
+          "intake": 60
+        },
+        {
+          "name": "M.Des",
+          "title": "Master of Design",
+          "duration": "2 Years",
+          "fees": "₹6,17,000",
+          "fee": "₹6,17,000",
+          "eligibility": "Undergraduate Degree + NIFT Entrance Exam",
+          "type": "DESIGN",
+          "intake": 30
         }
       ],
       "reviewsCount": 350,
-      "img": "/images/campuses/vjti_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://www.oddbox.in/wp-content/uploads/2023/02/nift.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
-      "website": "https://www.nift.ac.in",
-      "image": "/images/campuses/vjti_mumbai.jpg",
+      "website": "https://www.nift.ac.in/delhi/",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NIFT%20Delhi%20-%20National%20Institute%20of%20Fashion%20Technology%20New%20Delhi%20Delhi%20NCR",
       "map_url": "https://www.google.com/maps/search/?api=1&query=NIFT%20Delhi%20-%20National%20Institute%20of%20Fashion%20Technology%20New%20Delhi%20Delhi%20NCR",
-      "address": "New Delhi, Delhi NCR, India",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "address": "NIFT Campus, Hauz Khas, Near Gulmohar Park, New Delhi - 110016",
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "New Delhi",
+      "phone": "011-26542000",
+      "email": "director.delhi@nift.ac.in",
+      "verified": true
     },
     {
       "id": 9,
       "shikshaUrl": "https://www.shiksha.com/university/national-law-university-delhi-dwarka-37209",
-      "name": "NLU Delhi - National Law University",
+      "name": "National Law University Delhi (NLU Delhi)",
       "shortName": "NLU Delhi",
       "location": "New Delhi",
       "state": "Delhi NCR",
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Public/Government (Statutory State University)",
+      "ownership": "Government of NCT of Delhi / Statutory University",
       "ranking": 5,
       "about": "NLU Delhi - National Law University is one of India's foremost apex premier institutions in New Delhi, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹6.5 Lakhs - ₹10.5 Lakhs",
@@ -815,25 +843,43 @@
       ],
       "courses": [
         {
-          "title": "BA LLB (Hons)",
-          "division": "Undergraduate",
+          "name": "BA LLB (Hons)",
+          "title": "Integrated Bachelor of Arts and Bachelor of Laws (Honours)",
           "duration": "5 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹18,00,000",
+          "fee": "₹18,00,000",
+          "eligibility": "10+2 (45%) + AILET Exam",
+          "type": "LAW",
+          "intake": 120
+        },
+        {
+          "name": "LLM",
+          "title": "Master of Laws",
+          "duration": "1 Year",
+          "fees": "₹2,50,000",
+          "fee": "₹2,50,000",
+          "eligibility": "LLB Degree (50%) + AILET PG Exam",
+          "type": "LAW",
+          "intake": 70
         }
       ],
       "reviewsCount": 350,
-      "img": "/images/campuses/campus_architecture_5.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://www.livelaw.in/h-upload/2020/06/29/377191-nlu-delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
       ],
       "website": "https://nludelhi.ac.in",
-      "image": "/images/campuses/campus_architecture_5.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NLU%20Delhi%20-%20National%20Law%20University%20New%20Delhi%20Delhi%20NCR",
       "map_url": "https://www.google.com/maps/search/?api=1&query=NLU%20Delhi%20-%20National%20Law%20University%20New%20Delhi%20Delhi%20NCR",
-      "address": "New Delhi, Delhi NCR, India",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "address": "Sector 14, Dwarka, New Delhi - 110078",
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "New Delhi",
+      "phone": "011-28034257",
+      "email": "info@nludelhi.ac.in",
+      "verified": true
     },
     {
       "id": 10,
@@ -845,8 +891,8 @@
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Education, Government of India",
       "ranking": 1,
       "about": "NIT Surathkal - National Institute of Technology Karnataka is one of India's foremost apex premier institutions in Surathkal, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹5.5 Lakhs - ₹7.0 Lakhs",
@@ -875,10 +921,34 @@
       ],
       "courses": [
         {
-          "title": "B.Tech Computer Science",
-          "division": "Undergraduate",
+          "name": "B.Tech (CSE)",
+          "title": "Bachelor of Technology in Computer Science & Engineering",
           "duration": "4 Years",
-          "fees": "₹8.5 Lakhs - ₹12.5 Lakhs"
+          "fees": "₹6,80,000",
+          "fee": "₹6,80,000",
+          "eligibility": "10+2 with PCM + JEE Main / CSAB",
+          "type": "ENGINEERING",
+          "intake": 120
+        },
+        {
+          "name": "B.Tech (AI)",
+          "title": "Bachelor of Technology in Artificial Intelligence",
+          "duration": "4 Years",
+          "fees": "₹6,80,000",
+          "fee": "₹6,80,000",
+          "eligibility": "10+2 with PCM + JEE Main / CSAB",
+          "type": "ENGINEERING",
+          "intake": 60
+        },
+        {
+          "name": "M.Tech",
+          "title": "Master of Technology in Computer Science & Engineering",
+          "duration": "2 Years",
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "B.Tech/BE + GATE / CCMT",
+          "type": "ENGINEERING",
+          "intake": 40
         }
       ],
       "reviewsCount": 350,
@@ -892,7 +962,11 @@
       "image": "/images/campuses/campus_nit_surathkal.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Technology%20Karnataka%20(NIT%20Surathkal)%20Surathkal%2C%20Mangalore%20Karnataka",
       "map_url": "https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Technology%20Karnataka%20(NIT%20Surathkal)%20Surathkal%2C%20Mangalore%20Karnataka",
-      "address": "Surathkal, Mangalore, Karnataka, India"
+      "address": "NH 66, Srinivasnagar, Surathkal, Mangalore - 575025, Karnataka",
+      "city": "Mangalore",
+      "phone": "0824-2474000",
+      "email": "registrar@nitk.ac.in",
+      "verified": true
     },
     {
       "id": 11,
@@ -904,8 +978,8 @@
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Education, Government of India",
       "ranking": 3,
       "about": "NIT Trichy - National Institute of Technology is one of India's foremost apex premier institutions in Tiruchirappalli, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹5.5 Lakhs - ₹7.0 Lakhs",
@@ -934,10 +1008,34 @@
       ],
       "courses": [
         {
-          "title": "B.Tech Computer Science",
-          "division": "Undergraduate",
+          "name": "B.Tech (CSE)",
+          "title": "Bachelor of Technology in Computer Science & Engineering",
           "duration": "4 Years",
-          "fees": "₹8.5 Lakhs - ₹12.5 Lakhs"
+          "fees": "₹6,80,000",
+          "fee": "₹6,80,000",
+          "eligibility": "10+2 with PCM + JEE Main / CSAB",
+          "type": "ENGINEERING",
+          "intake": 120
+        },
+        {
+          "name": "B.Tech (ECE)",
+          "title": "Bachelor of Technology in Electronics & Communication Engineering",
+          "duration": "4 Years",
+          "fees": "₹6,80,000",
+          "fee": "₹6,80,000",
+          "eligibility": "10+2 with PCM + JEE Main / CSAB",
+          "type": "ENGINEERING",
+          "intake": 120
+        },
+        {
+          "name": "M.Tech",
+          "title": "Master of Technology in Computer Science",
+          "duration": "2 Years",
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "B.Tech + GATE / CCMT",
+          "type": "ENGINEERING",
+          "intake": 40
         }
       ],
       "reviewsCount": 350,
@@ -951,7 +1049,11 @@
       "image": "/images/campuses/campus_architecture_3.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Technology%20Tiruchirappalli%20(NIT%20Trichy)%20Tiruchirappalli%20Tamil%20Nadu",
       "map_url": "https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Technology%20Tiruchirappalli%20(NIT%20Trichy)%20Tiruchirappalli%20Tamil%20Nadu",
-      "address": "Tiruchirappalli, Tamil Nadu, India"
+      "address": "Tanjore Main Road, National Highway 67, Near BHEL, Thuvakudi, Tiruchirappalli - 620015, Tamil Nadu",
+      "city": "Tiruchirappalli",
+      "phone": "0431-2503000",
+      "email": "registrar@nitt.edu",
+      "verified": true
     },
     {
       "id": 12,
@@ -1091,15 +1193,15 @@
     {
       "id": 14,
       "shikshaUrl": "https://www.shiksha.com/college/indian-institute-of-management-lucknow-prabandh-nagar-28363",
-      "name": "IIM Lucknow - Indian Institute of Management",
+      "name": "Indian Institute of Management Lucknow (IIM Lucknow)",
       "shortName": "IIM Lucknow",
       "location": "Lucknow",
       "state": "Uttar Pradesh",
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Education, Government of India (IIM Act 2017)",
       "ranking": 3,
       "about": "IIM Lucknow - Indian Institute of Management is one of India's foremost apex premier institutions in Lucknow, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹12.5 Lakhs - ₹25.0 Lakhs",
@@ -1128,24 +1230,52 @@
       ],
       "courses": [
         {
-          "title": "MBA / PGDM",
-          "division": "Postgraduate",
+          "name": "MBA (PGP)",
+          "title": "Post Graduate Programme in Management (MBA)",
           "duration": "2 Years",
-          "fees": "₹12.5 Lakhs - ₹25.0 Lakhs"
+          "fees": "₹20,75,000",
+          "fee": "₹20,75,000",
+          "eligibility": "Graduation (50%) + CAT Exam (Percentile >98)",
+          "type": "MANAGEMENT",
+          "intake": 450
+        },
+        {
+          "name": "PGP-ABM",
+          "title": "Post Graduate Programme in Agribusiness Management",
+          "duration": "2 Years",
+          "fees": "₹20,75,000",
+          "fee": "₹20,75,000",
+          "eligibility": "Graduation in Agriculture/Allied or CAT Exam",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "IPMX",
+          "title": "International Programme in Management for Executives (Executive MBA)",
+          "duration": "1 Year",
+          "fees": "₹26,00,000",
+          "fee": "₹26,00,000",
+          "eligibility": "Graduation + GMAT/GRE + Minimum 5 Years Work Experience",
+          "type": "MANAGEMENT",
+          "intake": 100
         }
       ],
       "reviewsCount": 350,
-      "img": "https://www.iiml.ac.in/sites/default/files/2019-10/908067274InternationalProgramme.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://www.iiml.ac.in/sites/default/files/2019-10/908067274InternationalProgramme.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
       ],
       "website": "https://www.iiml.ac.in",
-      "image": "https://www.iiml.ac.in/sites/default/files/2019-10/908067274InternationalProgramme.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIM%20Lucknow%20-%20Indian%20Institute%20of%20Management%20Lucknow%20Uttar%20Pradesh",
       "map_url": "https://www.google.com/maps/search/?api=1&query=IIM%20Lucknow%20-%20Indian%20Institute%20of%20Management%20Lucknow%20Uttar%20Pradesh",
-      "address": "Lucknow, Uttar Pradesh, India"
+      "address": "Prabandh Nagar, IIM Road, Lucknow - 226013, Uttar Pradesh",
+      "city": "Lucknow",
+      "phone": "0522-2734101",
+      "email": "admission@iiml.ac.in",
+      "verified": true
     },
     {
       "id": 15,
@@ -1212,15 +1342,15 @@
     {
       "id": 16,
       "shikshaUrl": "https://www.shiksha.com/college/aiims-jodhpur-all-india-institute-of-medical-sciences-37691",
-      "name": "AIIMS Jodhpur - All India Institute of Medical Sciences",
+      "name": "All India Institute of Medical Sciences Jodhpur (AIIMS Jodhpur)",
       "shortName": "AIIMS Jodhpur",
       "location": "Jodhpur",
       "state": "Rajasthan",
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Health and Family Welfare, Government of India",
       "ranking": 1,
       "about": "AIIMS Jodhpur - All India Institute of Medical Sciences is one of India's foremost apex premier institutions in Jodhpur, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹1.5 Lakhs - ₹8.0 Lakhs",
@@ -1249,24 +1379,42 @@
       ],
       "courses": [
         {
-          "title": "MBBS",
-          "division": "Undergraduate",
+          "name": "MBBS",
+          "title": "Bachelor of Medicine & Bachelor of Surgery",
           "duration": "5.5 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹5,856",
+          "fee": "₹5,856",
+          "eligibility": "10+2 with PCB (50%) + NEET UG Exam",
+          "type": "MEDICAL",
+          "intake": 125
+        },
+        {
+          "name": "MD / MS",
+          "title": "Doctor of Medicine / Master of Surgery",
+          "duration": "3 Years",
+          "fees": "₹2,500",
+          "fee": "₹2,500",
+          "eligibility": "MBBS Degree + INI-CET Exam",
+          "type": "MEDICAL",
+          "intake": 80
         }
       ],
       "reviewsCount": 350,
-      "img": "https://img.jagranjosh.com/images/2022/April/1242022/FNF8oMcaQAMajjA.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://img.jagranjosh.com/images/2022/April/1242022/FNF8oMcaQAMajjA.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "website": "https://aiimsjodhpur.edu.in",
-      "image": "https://img.jagranjosh.com/images/2022/April/1242022/FNF8oMcaQAMajjA.jpg",
+      "website": "https://www.aiimsjodhpur.edu.in",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AIIMS%20Jodhpur%20-%20All%20India%20Institute%20of%20Medical%20Sciences%20Jodhpur%20Rajasthan",
       "map_url": "https://www.google.com/maps/search/?api=1&query=AIIMS%20Jodhpur%20-%20All%20India%20Institute%20of%20Medical%20Sciences%20Jodhpur%20Rajasthan",
-      "address": "Jodhpur, Rajasthan, India"
+      "address": "Basni Industrial Area, Phase-2, Jodhpur - 342005, Rajasthan",
+      "city": "Jodhpur",
+      "phone": "0291-2740742",
+      "email": "admin@aiimsjodhpur.edu.in",
+      "verified": true
     },
     {
       "id": 17,
@@ -1274,12 +1422,12 @@
       "name": "All India Institute of Medical Sciences (AIIMS New Delhi)",
       "shortName": "AIIMS Delhi",
       "location": "New Delhi",
-      "state": "Delhi",
+      "state": "Delhi NCR",
       "country": "India",
       "rating": 4.9,
       "reviews": 350,
-      "type": "Government (Autonomous Institute of National Importance)",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Health and Family Welfare, Government of India",
       "ranking": 1,
       "about": "AIIMS New Delhi is India's apex medical college and hospital, consistently ranked #1 in NIRF Medical rankings since inception. Offers subsidized top-tier medical education with extensive patient exposure and premier biomedical research.",
       "fees": "₹1,628/Year",
@@ -1301,50 +1449,60 @@
       "facilities": "2,500+ Bed Super-Specialty Hospital, Cadaveric Surgical Skills Lab, Advanced Robotic Surgery Suite, Central Medical Library",
       "courses": [
         {
-          "title": "MBBS Bachelor of Medicine and Bachelor of Surgery",
+          "name": "MBBS",
+          "title": "Bachelor of Medicine and Bachelor of Surgery",
           "duration": "5.5 Years",
-          "fees": "₹5,856 Total",
-          "eligibility": "10+2 with PCB + Top NEET UG Rank (AIR 1 - 50)"
+          "fees": "₹5,856",
+          "fee": "₹5,856",
+          "eligibility": "10+2 with PCB (50%) + NEET UG Exam",
+          "type": "MEDICAL",
+          "intake": 125
         },
         {
-          "title": "MD / MS Post Graduate Medical Degree",
+          "name": "MD / MS",
+          "title": "Doctor of Medicine / Master of Surgery (Postgraduate)",
           "duration": "3 Years",
-          "fees": "₹2,500 Total",
-          "eligibility": "MBBS + INI CET Qualified"
+          "fees": "₹2,500",
+          "fee": "₹2,500",
+          "eligibility": "MBBS Degree + INI-CET Exam",
+          "type": "MEDICAL",
+          "intake": 200
         }
       ],
       "reviewsCount": 510,
-      "img": "/images/campuses/vjti_mumbai.jpg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AIIMS_New_Delhi.jpg/1200px-AIIMS_New_Delhi.jpg"
       ],
       "website": "https://www.aiims.edu",
-      "image": "/images/campuses/vjti_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AIIMS%20New%20Delhi%20-%20All%20India%20Institute%20of%20Medical%20Sciences%20New%20Delhi%20Delhi%20NCR",
       "map_url": "https://www.google.com/maps/search/?api=1&query=AIIMS%20New%20Delhi%20-%20All%20India%20Institute%20of%20Medical%20Sciences%20New%20Delhi%20Delhi%20NCR",
-      "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi 110029",
+      "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi - 110029",
       "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
-      "phone": "+91-11-2658 8500",
+      "phone": "011-26588500",
       "email": "director@aiims.edu",
       "established": "1956",
       "published": true,
-      "featured": true
+      "featured": true,
+      "city": "New Delhi",
+      "verified": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/nlu-delhi-nlud-national-law-university-29811/ranking",
-      "name": "National Law University Delhi NLU Delhi",
+      "name": "National Law University Delhi (NLU Delhi - Law Programs)",
       "shortName": "NLUDND",
       "location": "India",
       "state": "Delhi NCR",
       "country": "India",
-      "address": "India, India Top, India",
-      "phone": "080-26597135",
-      "email": "admissions@nludnd.edu.in",
+      "address": "Sector 14, Dwarka, New Delhi - 110078",
+      "phone": "011-28034255",
+      "email": "registrar@nludelhi.ac.in",
       "website": "https://nludelhi.ac.in",
       "rating": 4.5,
       "reviews": 149,
-      "type": "Public/Government",
-      "ownership": "Private",
+      "type": "Public/Government (Statutory State University)",
+      "ownership": "Government of NCT of Delhi / Statutory University",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
@@ -1353,7 +1511,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=National%20Law%20University%20Delhi%20NLU%20Delhi%20India%20Delhi%20NCR",
       "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
       "exams": "JEE Main, State CET",
-      "img": "/images/campuses/campus_architecture_1.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&q=80&w=200",
       "gallery": [
         "https://nludelhi.ac.in/wp-content/uploads/2024/06/Annual-Report-2020-21.jpg",
@@ -1363,31 +1521,34 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "name": "BA LLB (Hons)",
+          "title": "Integrated Bachelor of Arts and Bachelor of Laws (Honours)",
+          "duration": "5 Years",
+          "fees": "₹18,00,000",
+          "fee": "₹18,00,000",
+          "eligibility": "10+2 (45%) + AILET Exam",
+          "type": "LAW",
+          "intake": 120
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "name": "LLM",
+          "title": "Master of Laws",
+          "duration": "1 Year",
+          "fees": "₹2,50,000",
+          "fee": "₹2,50,000",
+          "eligibility": "LLB Degree (50%) + AILET PG Exam",
+          "type": "LAW",
+          "intake": 70
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "name": "Ph.D in Law",
+          "title": "Doctor of Philosophy in Law",
+          "duration": "3 Years",
+          "fees": "₹1,50,000",
+          "fee": "₹1,50,000",
+          "eligibility": "LLM Degree + AILET Ph.D Entrance",
+          "type": "LAW",
+          "intake": 25
         }
       ],
       "highestPackage": "₹90 lakhs",
@@ -1412,24 +1573,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 18,
       "reviewsCount": 149,
-      "image": "/images/campuses/campus_architecture_1.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Law%20University%20Delhi%20NLU%20Delhi%20India%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_7.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Law%20University%20Delhi%20NLU%20Delhi%20India%20Delhi%20NCR",
+      "city": "New Delhi",
+      "verified": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/iit-guwahati-indian-institute-of-technology-3065/admission",
-      "name": "IIT Guwahati",
+      "name": "Indian Institute of Technology Guwahati (IIT Guwahati)",
       "shortName": "IG",
       "location": "India",
-      "state": "Delhi NCR",
+      "state": "Assam",
       "country": "India",
-      "address": "Indian Institute of Technology",
-      "phone": "03612583000",
-      "email": "peeroff@iitg.ac.in",
+      "address": "Surjyamukhi, Amingaon, North Guwahati, Guwahati - 781039, Assam",
+      "phone": "0361-2583000",
+      "email": "pro@iitg.ac.in",
       "website": "https://www.iitg.ac.in",
       "rating": 4.5,
       "reviews": 412,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Education, Government of India (IIT Act)",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
@@ -1438,7 +1601,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=IIT%20Guwahati%20India%20Delhi%20NCR",
       "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
       "exams": "JEE Main, State CET",
-      "img": "/images/campuses/riim_pune.jpeg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1631081471php0fdqJ0.jpeg",
       "gallery": [
         "https://nenews.in/wp-content/uploads/2025/04/IIT-Ghy.jpg",
@@ -1448,31 +1611,34 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
+          "name": "B.Tech (CSE)",
+          "title": "Bachelor of Technology in Computer Science & Engineering",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹10,00,000",
+          "fee": "₹10,00,000",
+          "eligibility": "10+2 with PCM + JEE Advanced",
+          "type": "ENGINEERING",
+          "intake": 115
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
+          "name": "B.Tech (Data Science)",
+          "title": "Bachelor of Technology in Data Science & Artificial Intelligence",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹10,00,000",
+          "fee": "₹10,00,000",
+          "eligibility": "10+2 with PCM + JEE Advanced",
+          "type": "ENGINEERING",
+          "intake": 40
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
+          "name": "M.Tech",
+          "title": "Master of Technology in Computer Science",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "B.Tech + GATE",
+          "type": "ENGINEERING",
+          "intake": 60
         }
       ],
       "highestPackage": "₹40 LPA",
@@ -1497,24 +1663,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 19,
       "reviewsCount": 412,
-      "image": "/images/campuses/riim_pune.jpeg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIT%20Guwahati%20India%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIT%20Guwahati%20India%20Delhi%20NCR",
+      "city": "Guwahati",
+      "verified": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/all-india-institute-of-medical-sciences-delhi-gautam-nagar-24433",
-      "name": "All India Institute of Medical Sciences, Delhi",
+      "name": "All India Institute of Medical Sciences (AIIMS New Delhi - Postgraduate)",
       "shortName": "AIIOMS",
       "location": "Delhi",
       "state": "Delhi NCR",
       "country": "India",
-      "address": "Sri Aurobindo Marg, Ansari Nagar East",
-      "phone": "01126588500",
-      "email": "aiims.reg@gmail.com",
+      "address": "Sri Aurobindo Marg, Ansari Nagar East, New Delhi - 110029",
+      "phone": "011-26588500",
+      "email": "director@aiims.edu",
       "website": "https://www.aiims.edu",
       "rating": 4.5,
       "reviews": 265,
-      "type": "Private",
-      "ownership": "Private",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Health and Family Welfare, Government of India",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
       "accreditation": "NAAC A+",
@@ -1523,7 +1691,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=All%20India%20Institute%20of%20Medical%20Sciences%2C%20Delhi%20Delhi%20Delhi%20NCR",
       "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
       "exams": "NEET UG",
-      "img": "/images/campuses/campus_architecture_3.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "logo": "https://images.shiksha.com/mediadata/images/1570690995phpsZ7eCW.jpeg",
       "gallery": [
         "https://www.moksh16.com/uploads/images/aiims-new-delhi.webp",
@@ -1533,22 +1701,24 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
+          "name": "MBBS",
+          "title": "Bachelor of Medicine & Bachelor of Surgery",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "fees": "₹5,856",
+          "fee": "₹5,856",
+          "eligibility": "10+2 with PCB (50%) + NEET UG Exam",
+          "type": "MEDICAL",
+          "intake": 125
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
+          "name": "MD / MS",
+          "title": "Doctor of Medicine / Master of Surgery",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹2,500",
+          "fee": "₹2,500",
+          "eligibility": "MBBS Degree + INI-CET Exam",
+          "type": "MEDICAL",
+          "intake": 200
         }
       ],
       "highestPackage": "₹37.8 LPA",
@@ -1573,8 +1743,10 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 20,
       "reviewsCount": 265,
-      "image": "/images/campuses/campus_architecture_3.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=All%20India%20Institute%20of%20Medical%20Sciences%2C%20Delhi%20Delhi%20Delhi%20NCR"
+      "image": "/images/campuses/campus_architecture_9.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=All%20India%20Institute%20of%20Medical%20Sciences%2C%20Delhi%20Delhi%20Delhi%20NCR",
+      "city": "New Delhi",
+      "verified": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/iit-patna-indian-institute-of-technology-32697",

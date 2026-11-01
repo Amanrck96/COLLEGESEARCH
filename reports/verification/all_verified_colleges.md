@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **450 / 12,660**  
-**Roadmap Progress**: **45.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **460 / 12,660**  
+**Roadmap Progress**: **46.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -684,4 +684,19 @@
 | **5** | Andaman & Nicobar Islands Institute of Medical Sciences (ANIIMS) | Public/Government | South Andaman, Andaman & Nicobar Islands - 744104 | [aniims.andaman.gov.in](https://aniims.andaman.gov.in) |
 | **6** | National Institute of Fashion Technology (NIFT Bengaluru) | Institute of National Importance | Bengaluru - 560102, Karnataka | [www.nift.ac.in](https://www.nift.ac.in/bengaluru/) |
 | **7** | National Institute of Fashion Technology (NIFT Mumbai) | Institute of National Importance | Navi Mumbai - 410210, Maharashtra | [www.nift.ac.in](https://www.nift.ac.in/mumbai/) |
+
+### Batch 46 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **8** | National Institute of Fashion Technology (NIFT Delhi) | Institute of National Importance | Near Gulmohar Park, New Delhi - 110016 | [www.nift.ac.in](https://www.nift.ac.in/delhi/) |
+| **9** | National Law University Delhi (NLU Delhi) | Public/Government (Statutory State University) | Dwarka, New Delhi - 110078 | [nludelhi.ac.in](https://nludelhi.ac.in) |
+| **10** | National Institute of Technology Karnataka (NIT Surathkal) | Institute of National Importance | Mangalore - 575025, Karnataka | [www.nitk.ac.in](https://www.nitk.ac.in) |
+| **11** | National Institute of Technology Tiruchirappalli (NIT Trichy) | Institute of National Importance | Tiruchirappalli - 620015, Tamil Nadu | [www.nitt.edu](https://www.nitt.edu) |
+| **14** | Indian Institute of Management Lucknow (IIM Lucknow) | Institute of National Importance | Lucknow - 226013, Uttar Pradesh | [www.iiml.ac.in](https://www.iiml.ac.in) |
+| **16** | All India Institute of Medical Sciences Jodhpur (AIIMS Jodhpur) | Institute of National Importance | Jodhpur - 342005, Rajasthan | [www.aiimsjodhpur.edu.in](https://www.aiimsjodhpur.edu.in) |
+| **17** | All India Institute of Medical Sciences (AIIMS New Delhi) | Institute of National Importance | Ansari Nagar, New Delhi - 110029 | [www.aiims.edu](https://www.aiims.edu) |
+| **18** | National Law University Delhi (NLU Delhi - Law Programs) | Public/Government (Statutory State University) | Dwarka, New Delhi - 110078 | [nludelhi.ac.in](https://nludelhi.ac.in) |
+| **19** | Indian Institute of Technology Guwahati (IIT Guwahati) | Institute of National Importance | Guwahati - 781039, Assam | [www.iitg.ac.in](https://www.iitg.ac.in) |
+| **20** | All India Institute of Medical Sciences (AIIMS New Delhi - Postgraduate) | Institute of National Importance | Ansari Nagar East, New Delhi - 110029 | [www.aiims.edu](https://www.aiims.edu) |
 

@@ -3373,5 +3373,80 @@
         "website": "https://www.nift.ac.in/mumbai/"
       }
     ]
+  },
+  {
+    "batch": 46,
+    "items": [
+      {
+        "id": 8,
+        "name": "National Institute of Fashion Technology (NIFT Delhi)",
+        "type": "Institute of National Importance",
+        "location": "Near Gulmohar Park, New Delhi - 110016",
+        "website": "https://www.nift.ac.in/delhi/"
+      },
+      {
+        "id": 9,
+        "name": "National Law University Delhi (NLU Delhi)",
+        "type": "Public/Government (Statutory State University)",
+        "location": "Dwarka, New Delhi - 110078",
+        "website": "https://nludelhi.ac.in"
+      },
+      {
+        "id": 10,
+        "name": "National Institute of Technology Karnataka (NIT Surathkal)",
+        "type": "Institute of National Importance",
+        "location": "Mangalore - 575025, Karnataka",
+        "website": "https://www.nitk.ac.in"
+      },
+      {
+        "id": 11,
+        "name": "National Institute of Technology Tiruchirappalli (NIT Trichy)",
+        "type": "Institute of National Importance",
+        "location": "Tiruchirappalli - 620015, Tamil Nadu",
+        "website": "https://www.nitt.edu"
+      },
+      {
+        "id": 14,
+        "name": "Indian Institute of Management Lucknow (IIM Lucknow)",
+        "type": "Institute of National Importance",
+        "location": "Lucknow - 226013, Uttar Pradesh",
+        "website": "https://www.iiml.ac.in"
+      },
+      {
+        "id": 16,
+        "name": "All India Institute of Medical Sciences Jodhpur (AIIMS Jodhpur)",
+        "type": "Institute of National Importance",
+        "location": "Jodhpur - 342005, Rajasthan",
+        "website": "https://www.aiimsjodhpur.edu.in"
+      },
+      {
+        "id": 17,
+        "name": "All India Institute of Medical Sciences (AIIMS New Delhi)",
+        "type": "Institute of National Importance",
+        "location": "Ansari Nagar, New Delhi - 110029",
+        "website": "https://www.aiims.edu"
+      },
+      {
+        "id": 18,
+        "name": "National Law University Delhi (NLU Delhi - Law Programs)",
+        "type": "Public/Government (Statutory State University)",
+        "location": "Dwarka, New Delhi - 110078",
+        "website": "https://nludelhi.ac.in"
+      },
+      {
+        "id": 19,
+        "name": "Indian Institute of Technology Guwahati (IIT Guwahati)",
+        "type": "Institute of National Importance",
+        "location": "Guwahati - 781039, Assam",
+        "website": "https://www.iitg.ac.in"
+      },
+      {
+        "id": 20,
+        "name": "All India Institute of Medical Sciences (AIIMS New Delhi - Postgraduate)",
+        "type": "Institute of National Importance",
+        "location": "Ansari Nagar East, New Delhi - 110029",
+        "website": "https://www.aiims.edu"
+      }
+    ]
   }
 ]
