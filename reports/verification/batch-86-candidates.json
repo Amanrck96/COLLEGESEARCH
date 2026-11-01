@@ -1,0 +1,122 @@
+[
+  {
+    "id": 460,
+    "name": "ARAMBAGH GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.arambaghgovernm.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 461,
+    "name": "HILLI GOVT. POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.hilligovtpolyte.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 462,
+    "name": "RAIPUR GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.raipurgovernmen.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 463,
+    "name": "ADYAPEATH ANNADA POLYTECHNIC COLLEGE",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2017-03-1-05-19-09_adyapeath2.jpg",
+    "website": "https://www.adyapeathannada.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 464,
+    "name": "SEACOM SKILLS UNIVERSITY SCHOOL OF ENGINEERING",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/seacom-skills-university-birbhum-357170.webp",
+    "website": "https://www.seacomskillsuni.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 466,
+    "name": "GHATAL GOVT. POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.ghatalgovtpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 467,
+    "name": "MATHABHANGA GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.mathabhangagove.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 468,
+    "name": "KALIMPONG GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.dinhatacollege.ac.in/userfiles/image/darjeeling/kalimpong.webp",
+    "website": "https://www.kalimponggovern.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 469,
+    "name": "JIS UNIVERSITY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.jisuniversity.ac.in/images/campus-3.jpg",
+    "website": "https://www.google.com/search?q=JIS%20UNIVERSITY%20official%20website%20NORTH%2024%20PARGANAS%20West%20Bengal",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 470,
+    "name": "SIR RAJENDRA NATH MUKHERJEE GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/barasat-government-college-north-24-parganas-328490.webp",
+    "website": "https://www.sirrajendranath.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

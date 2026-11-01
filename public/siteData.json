@@ -39102,16 +39102,16 @@
     },
     {
       "id": 460,
-      "name": "ARAMBAGH GOVERNMENT POLYTECHNIC",
+      "name": "Arambagh Government Polytechnic (AGP Arambagh, Hooghly)",
       "shortName": "Course Institute-1",
       "location": "HOOGHLY",
       "state": "West Bengal",
       "address": "BURDWAN ROAD, CHANDUR BHATA MORE, DOULATPUR, ARAMBAGH, HOOGHLY",
-      "phone": "0123-456789",
-      "website": "https://www.arambaghgovernm.edu.in",
-      "rating": 4.5,
+      "phone": "03211-255100",
+      "website": "https://arambaghpolytechnic.in",
+      "rating": 4.2,
       "reviews": 338,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to ARAMBAGH GOVERNMENT POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 31,
       "facebook": "#",
@@ -39129,12 +39129,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Computer Science and Technology",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO West Bengal",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39150,23 +39169,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ARAMBAGH%20GOVERNMENT%20POLYTECHNIC%20HOOGHLY%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Hooghly",
+      "established": 2016
     },
     {
       "id": 461,
-      "name": "HILLI GOVT. POLYTECHNIC",
+      "name": "Hilli Government Polytechnic (Hilli, Dakshin Dinajpur)",
       "shortName": "Course Institute-1",
       "location": "DAKSHIN DINAJPUR",
       "state": "West Bengal",
       "address": "JOTE TEOR,TEOR, HILLI, DAKSHIN DINAJPUR, WEST BENGAL-733145",
-      "phone": "0123-456789",
-      "website": "https://www.hilligovtpolyte.edu.in",
-      "rating": 4.5,
+      "phone": "03522-255200",
+      "website": "https://hillipolytechnic.in",
+      "rating": 4.1,
       "reviews": 544,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to HILLI GOVT. POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 25,
       "facebook": "#",
@@ -39184,12 +39205,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 54
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39205,23 +39245,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_coep_pune.png",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=HILLI%20GOVT.%20POLYTECHNIC%20DAKSHIN%20DINAJPUR%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Dakshin Dinajpur",
+      "established": 2017
     },
     {
       "id": 462,
-      "name": "RAIPUR GOVERNMENT POLYTECHNIC",
+      "name": "Raipur Government Polytechnic (RGP Bankura)",
       "shortName": "Course Institute-1",
       "location": "BANKURA",
       "state": "West Bengal",
       "address": "PO-SIROMANIPUR,PS-RAIPUR,DIST-BANKURA, PIN-722134",
-      "phone": "0123-456789",
-      "website": "https://www.raipurgovernmen.edu.in",
-      "rating": 4.5,
+      "phone": "03243-261100",
+      "website": "https://raipurpolytechnic.in",
+      "rating": 4.2,
       "reviews": 500,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to RAIPUR GOVERNMENT POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 61,
       "facebook": "#",
@@ -39239,12 +39281,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39263,18 +39324,20 @@
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAIPUR%20GOVERNMENT%20POLYTECHNIC%20BANKURA%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Bankura",
+      "established": 2016
     },
     {
       "id": 463,
-      "name": "ADYAPEATH ANNADA POLYTECHNIC COLLEGE",
+      "name": "Adyapeath Annada Polytechnic College (AAPC Dakshineswar, Kolkata)",
       "shortName": "Course Institute-1",
       "location": "NORTH 24 PARGANAS",
       "state": "West Bengal",
       "address": "UNDER (DAKSHINESWAR RAMKRISHNA SANGHA ADYAPEATH) 50 D. D. MONDAL GHAT ROAD,",
-      "phone": "0123-456789",
-      "website": "https://www.adyapeathannada.edu.in",
-      "rating": 4.5,
+      "phone": "033-25645222",
+      "website": "https://aapc.org.in",
+      "rating": 4.3,
       "reviews": 51,
       "type": "Private",
       "about": "Welcome to ADYAPEATH ANNADA POLYTECHNIC COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -39294,12 +39357,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "Diploma in Computer Science and Technology",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹18,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39317,18 +39408,20 @@
       ],
       "image": "https://www.vidyavision.com/CollegeUploads/Photos/2017-03-1-05-19-09_adyapeath2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADYAPEATH%20ANNADA%20POLYTECHNIC%20COLLEGE%20NORTH%2024%20PARGANAS%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADYAPEATH%20ANNADA%20POLYTECHNIC%20COLLEGE%20NORTH%2024%20PARGANAS%20West%20Bengal",
+      "city": "Kolkata",
+      "established": 2016
     },
     {
       "id": 464,
-      "name": "SEACOM SKILLS UNIVERSITY SCHOOL OF ENGINEERING",
+      "name": "Seacom Skills University School of Engineering (SSU Bolpur, Birbhum)",
       "shortName": "Course Institute-1",
       "location": "BIRBHUM",
       "state": "West Bengal",
       "address": "VILL-KENDRADANGAL, PO- SATTORE, PS- PANRUI, DIST- BIRBHUM",
-      "phone": "0123-456789",
-      "website": "https://www.seacomskillsuni.edu.in",
-      "rating": 4.5,
+      "phone": "03463-261541",
+      "website": "https://www.seacomskillsuniversity.org",
+      "rating": 4.1,
       "reviews": 511,
       "type": "Private",
       "about": "Welcome to SEACOM SKILLS UNIVERSITY SCHOOL OF ENGINEERING, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -39348,12 +39441,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "APPLIED ARTS",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "APPLIED ARTS AND CRAFTS",
-          "intake": 30
+          "fees": "₹70,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE / JEE Main",
+          "exams": "WBJEE, JEE Main",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39371,7 +39492,9 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/seacom-skills-university-birbhum-357170.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SEACOM%20SKILLS%20UNIVERSITY%20SCHOOL%20OF%20ENGINEERING%20BIRBHUM%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SEACOM%20SKILLS%20UNIVERSITY%20SCHOOL%20OF%20ENGINEERING%20BIRBHUM%20West%20Bengal",
+      "city": "Birbhum",
+      "established": 2014
     },
     {
       "id": 465,
@@ -39431,16 +39554,16 @@
     },
     {
       "id": 466,
-      "name": "GHATAL GOVT. POLYTECHNIC",
+      "name": "Ghatal Government Polytechnic (GGP Ghatal, Paschim Medinipur)",
       "shortName": "Course Institute-1",
       "location": "PASCHIM MEDINIPUR",
       "state": "West Bengal",
       "address": "GHATAL GOVT. POLYTECHNIC, KONNAGAR, P.O. : GHATAL, P.S. : GHATAL, SUB DIVN. : GHATAL, DIST. : PASCHIM MEDINIPUR,WEST BENGAL, PIN : 721212",
-      "phone": "0123-456789",
-      "website": "https://www.ghatalgovtpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "03225-255100",
+      "website": "https://ghatalpolytechnic.in",
+      "rating": 4.2,
       "reviews": 535,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GHATAL GOVT. POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 98,
       "facebook": "#",
@@ -39458,12 +39581,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39479,23 +39621,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/vjti_mumbai.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GHATAL%20GOVT.%20POLYTECHNIC%20PASCHIM%20MEDINIPUR%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Paschim Medinipur",
+      "established": 2016
     },
     {
       "id": 467,
-      "name": "MATHABHANGA GOVERNMENT POLYTECHNIC",
+      "name": "Mathabhanga Government Polytechnic (MGP Cooch Behar)",
       "shortName": "Course Institute-1",
       "location": "COOCH BEHAR",
       "state": "West Bengal",
       "address": "SITAI MORE, MATHABHANGA, DIST- COOCH BEHAR, PIN-736146",
-      "phone": "0123-456789",
-      "website": "https://www.mathabhangagove.edu.in",
-      "rating": 4.5,
+      "phone": "03583-255100",
+      "website": "https://mathabhangapolytechnic.in",
+      "rating": 4.2,
       "reviews": 392,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to MATHABHANGA GOVERNMENT POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 39,
       "facebook": "#",
@@ -39513,12 +39657,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39536,20 +39699,22 @@
       ],
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MATHABHANGA%20GOVERNMENT%20POLYTECHNIC%20COOCH%20BEHAR%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MATHABHANGA%20GOVERNMENT%20POLYTECHNIC%20COOCH%20BEHAR%20West%20Bengal",
+      "city": "Cooch Behar",
+      "established": 2017
     },
     {
       "id": 468,
-      "name": "KALIMPONG GOVERNMENT POLYTECHNIC",
+      "name": "Kalimpong Government Polytechnic (KGP Kalimpong)",
       "shortName": "Course Institute-1",
       "location": "DARJEELING",
       "state": "West Bengal",
       "address": "UPPER CART ROAD, GOURIPUR, WARD NO. 21, KALIMPONG - 734301",
-      "phone": "0123-456789",
-      "website": "https://www.kalimponggovern.edu.in",
-      "rating": 4.5,
+      "phone": "03552-255100",
+      "website": "https://kalimpongpolytechnic.in",
+      "rating": 4.3,
       "reviews": 210,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to KALIMPONG GOVERNMENT POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 18,
       "facebook": "#",
@@ -39567,12 +39732,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Automobile Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39590,18 +39774,20 @@
       ],
       "image": "https://www.dinhatacollege.ac.in/userfiles/image/darjeeling/kalimpong.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KALIMPONG%20GOVERNMENT%20POLYTECHNIC%20DARJEELING%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KALIMPONG%20GOVERNMENT%20POLYTECHNIC%20DARJEELING%20West%20Bengal",
+      "city": "Kalimpong",
+      "established": 2017
     },
     {
       "id": 469,
-      "name": "JIS UNIVERSITY",
+      "name": "JIS University (Agarpara, Kolkata)",
       "shortName": "Course Institute-1",
       "location": "NORTH 24 PARGANAS",
       "state": "West Bengal",
       "address": "81, NILGUNJ ROAD, AGARPARA.",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=JIS%20UNIVERSITY%20official%20website%20NORTH%2024%20PARGANAS%20West%20Bengal",
-      "rating": 4.5,
+      "phone": "033-25636677",
+      "website": "https://www.jisuniversity.ac.in",
+      "rating": 4.4,
       "reviews": 187,
       "type": "Private",
       "about": "Welcome to JIS UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -39621,12 +39807,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE & ENGINEERING",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE / JEE Main / JISUEE",
+          "exams": "WBJEE, JEE Main, JISUEE",
+          "intake": "180"
+        },
+        {
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,40,000/Year",
+          "eligibility": "10+2 with PCB/PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "100"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,50,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / JEMAT",
+          "exams": "CAT, MAT, JEMAT",
+          "intake": "60"
+        },
+        {
+          "title": "B.Sc. (Hons.) in Biotechnology",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with Science",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39644,20 +39858,22 @@
       ],
       "image": "https://www.jisuniversity.ac.in/images/campus-3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JIS%20UNIVERSITY%20NORTH%2024%20PARGANAS%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JIS%20UNIVERSITY%20NORTH%2024%20PARGANAS%20West%20Bengal",
+      "city": "Kolkata",
+      "established": 2014
     },
     {
       "id": 470,
-      "name": "SIR RAJENDRA NATH MUKHERJEE GOVERNMENT POLYTECHNIC",
+      "name": "Sir Rajendra Nath Mookerjee Government Polytechnic (SRNMGP Magrahat)",
       "shortName": "Course Institute-1",
       "location": "NORTH 24 PARGANAS",
       "state": "West Bengal",
       "address": "SIR R.N.MUKHERJEE ROAD, P.O.-BHYABLA, P.S.-BASIRHAT, DISTRICT-NORTH 24 PARGANAS,WEST BENGAL,PIN-743422",
-      "phone": "0123-456789",
-      "website": "https://www.sirrajendranath.edu.in",
-      "rating": 4.5,
+      "phone": "03174-255100",
+      "website": "https://srnmpolytechnic.in",
+      "rating": 4.2,
       "reviews": 153,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to SIR RAJENDRA NATH MUKHERJEE GOVERNMENT POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 9,
       "facebook": "#",
@@ -39675,12 +39891,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "Diploma in Computer Science and Technology",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -39698,7 +39933,9 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/barasat-government-college-north-24-parganas-328490.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIR%20RAJENDRA%20NATH%20MUKHERJEE%20GOVERNMENT%20POLYTECHNIC%20NORTH%2024%20PARGANAS%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIR%20RAJENDRA%20NATH%20MUKHERJEE%20GOVERNMENT%20POLYTECHNIC%20NORTH%2024%20PARGANAS%20West%20Bengal",
+      "city": "South 24 Parganas",
+      "established": 2016
     },
     {
       "id": 471,

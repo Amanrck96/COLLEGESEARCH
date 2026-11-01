@@ -6373,5 +6373,80 @@
         "website": "https://canningpolytechnic.in"
       }
     ]
+  },
+  {
+    "batch": 86,
+    "items": [
+      {
+        "id": 460,
+        "name": "Arambagh Government Polytechnic (AGP Arambagh, Hooghly)",
+        "type": "Public/Government",
+        "location": "ARAMBAGH, HOOGHLY",
+        "website": "https://arambaghpolytechnic.in"
+      },
+      {
+        "id": 461,
+        "name": "Hilli Government Polytechnic (Hilli, Dakshin Dinajpur)",
+        "type": "Public/Government",
+        "location": "DAKSHIN DINAJPUR, WEST BENGAL-733145",
+        "website": "https://hillipolytechnic.in"
+      },
+      {
+        "id": 462,
+        "name": "Raipur Government Polytechnic (RGP Bankura)",
+        "type": "Public/Government",
+        "location": "DIST-BANKURA, PIN-722134",
+        "website": "https://raipurpolytechnic.in"
+      },
+      {
+        "id": 463,
+        "name": "Adyapeath Annada Polytechnic College (AAPC Dakshineswar, Kolkata)",
+        "type": "Private",
+        "location": "UNDER (DAKSHINESWAR RAMKRISHNA SANGHA ADYAPEATH) 50 D. D. MONDAL GHAT ROAD,",
+        "website": "https://aapc.org.in"
+      },
+      {
+        "id": 464,
+        "name": "Seacom Skills University School of Engineering (SSU Bolpur, Birbhum)",
+        "type": "Private",
+        "location": "PS- PANRUI, DIST- BIRBHUM",
+        "website": "https://www.seacomskillsuniversity.org"
+      },
+      {
+        "id": 466,
+        "name": "Ghatal Government Polytechnic (GGP Ghatal, Paschim Medinipur)",
+        "type": "Public/Government",
+        "location": "WEST BENGAL, PIN : 721212",
+        "website": "https://ghatalpolytechnic.in"
+      },
+      {
+        "id": 467,
+        "name": "Mathabhanga Government Polytechnic (MGP Cooch Behar)",
+        "type": "Public/Government",
+        "location": "DIST- COOCH BEHAR, PIN-736146",
+        "website": "https://mathabhangapolytechnic.in"
+      },
+      {
+        "id": 468,
+        "name": "Kalimpong Government Polytechnic (KGP Kalimpong)",
+        "type": "Public/Government",
+        "location": "WARD NO. 21, KALIMPONG - 734301",
+        "website": "https://kalimpongpolytechnic.in"
+      },
+      {
+        "id": 469,
+        "name": "JIS University (Agarpara, Kolkata)",
+        "type": "Private",
+        "location": "NILGUNJ ROAD, AGARPARA.",
+        "website": "https://www.jisuniversity.ac.in"
+      },
+      {
+        "id": 470,
+        "name": "Sir Rajendra Nath Mookerjee Government Polytechnic (SRNMGP Magrahat)",
+        "type": "Public/Government",
+        "location": "WEST BENGAL,PIN-743422",
+        "website": "https://srnmpolytechnic.in"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **850 / 12,660**  
-**Roadmap Progress**: **85.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **860 / 12,660**  
+**Roadmap Progress**: **86.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1284,4 +1284,19 @@
 | **455** | Global Institute of Management and Technology (GIMT Krishnanagar, Nadia) | Private | KRISHNAGAR,NADIA | [www.gimt-india.com](https://www.gimt-india.com) |
 | **456** | Salbani Institute of Technology (SIT Salbani, Paschim Medinipur) | Private | PIN-721147, WEST BENGAL | [salbaniinstitute.in](https://salbaniinstitute.in) |
 | **459** | Canning Government Polytechnic (CGP Canning, South 24 Parganas) | Public/Government | PS:- JIBANTALA, PIN:-743363 | [canningpolytechnic.in](https://canningpolytechnic.in) |
+
+### Batch 86 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **460** | Arambagh Government Polytechnic (AGP Arambagh, Hooghly) | Public/Government | ARAMBAGH, HOOGHLY | [arambaghpolytechnic.in](https://arambaghpolytechnic.in) |
+| **461** | Hilli Government Polytechnic (Hilli, Dakshin Dinajpur) | Public/Government | DAKSHIN DINAJPUR, WEST BENGAL-733145 | [hillipolytechnic.in](https://hillipolytechnic.in) |
+| **462** | Raipur Government Polytechnic (RGP Bankura) | Public/Government | DIST-BANKURA, PIN-722134 | [raipurpolytechnic.in](https://raipurpolytechnic.in) |
+| **463** | Adyapeath Annada Polytechnic College (AAPC Dakshineswar, Kolkata) | Private | UNDER (DAKSHINESWAR RAMKRISHNA SANGHA ADYAPEATH) 50 D. D. MONDAL GHAT ROAD, | [aapc.org.in](https://aapc.org.in) |
+| **464** | Seacom Skills University School of Engineering (SSU Bolpur, Birbhum) | Private | PS- PANRUI, DIST- BIRBHUM | [www.seacomskillsuniversity.org](https://www.seacomskillsuniversity.org) |
+| **466** | Ghatal Government Polytechnic (GGP Ghatal, Paschim Medinipur) | Public/Government | WEST BENGAL, PIN : 721212 | [ghatalpolytechnic.in](https://ghatalpolytechnic.in) |
+| **467** | Mathabhanga Government Polytechnic (MGP Cooch Behar) | Public/Government | DIST- COOCH BEHAR, PIN-736146 | [mathabhangapolytechnic.in](https://mathabhangapolytechnic.in) |
+| **468** | Kalimpong Government Polytechnic (KGP Kalimpong) | Public/Government | WARD NO. 21, KALIMPONG - 734301 | [kalimpongpolytechnic.in](https://kalimpongpolytechnic.in) |
+| **469** | JIS University (Agarpara, Kolkata) | Private | NILGUNJ ROAD, AGARPARA. | [www.jisuniversity.ac.in](https://www.jisuniversity.ac.in) |
+| **470** | Sir Rajendra Nath Mookerjee Government Polytechnic (SRNMGP Magrahat) | Public/Government | WEST BENGAL,PIN-743422 | [srnmpolytechnic.in](https://srnmpolytechnic.in) |
 
