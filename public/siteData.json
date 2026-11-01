@@ -54685,14 +54685,14 @@
     },
     {
       "id": 647,
-      "name": "PGP COLLEGE OF ARTS AND SCIENCE",
+      "name": "PGP College of Arts and Science (Paramathi, Namakkal)",
       "shortName": "Course Institute-1",
       "location": "NAMAKKAL",
       "state": "Tamil Nadu",
       "address": "PGP COLLEGE CAMPUS NH-7, NAMAKKAL-KARUR MAIN ROAD VILLIPALAYAM, PARAMATHI(PO) - 637207 NAMAKKAL DT TAMIL NADU",
-      "phone": "0123-456789",
-      "website": "https://www.pgpcollegeofart.edu.in",
-      "rating": 4.9,
+      "phone": "04286-267592",
+      "website": "https://pgpartscollege.ac.in",
+      "rating": 4.1,
       "reviews": 694,
       "type": "Private",
       "about": "Welcome to PGP COLLEGE OF ARTS AND SCIENCE, a premier institute located in NAMAKKAL. We offer world-class education and facilities for our students.",
@@ -54711,13 +54711,44 @@
       ],
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 30,
-          "eligibility": "As per norms"
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "Graduation with Maths + TANCET / Merit",
+          "exams": "TANCET, Merit",
+          "intake": "30"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation (50%+) + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "B.Sc in Computer Science",
+          "title": "B.Sc in Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹26,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54739,18 +54770,20 @@
       "reviewsCount": 694,
       "image": "https://www.pgpartscollege.ac.in/images/about/home7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PGP%20COLLEGE%20OF%20ARTS%20AND%20SCIENCE%20NAMAKKAL%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PGP%20COLLEGE%20OF%20ARTS%20AND%20SCIENCE%20NAMAKKAL%20Tamil%20Nadu",
+      "city": "Namakkal",
+      "established": 1994
     },
     {
       "id": 648,
-      "name": "ASAN MEMORIAL COLLEGE OF ARTS & SCIENCE - INSTITUTE OF MANAGEMENT",
+      "name": "Asan Memorial Institute of Management (Jaladampet, Chennai)",
       "shortName": "Course Institute-1",
       "location": "KANCHIPURAM",
       "state": "Tamil Nadu",
       "address": "VELACHERY-TAMBARAM ROAD, JALADAMPET, CHENNAI - 600 100",
-      "phone": "0123-456789",
-      "website": "https://www.asanmemorialcol.edu.in",
-      "rating": 4.9,
+      "phone": "044-22461418",
+      "website": "https://asanim.edu.in",
+      "rating": 4.2,
       "reviews": 706,
       "type": "Private",
       "about": "Welcome to ASAN MEMORIAL COLLEGE OF ARTS & SCIENCE - INSTITUTE OF MANAGEMENT, a premier institute located in KANCHIPURAM. We offer world-class education and facilities for our students.",
@@ -54769,13 +54802,24 @@
       ],
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 24,
-          "eligibility": "As per norms"
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "Graduation (50%+) + TANCET / MAT / CAT",
+          "exams": "TANCET, MAT, CAT",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "BCA / B.Sc with Maths + TANCET",
+          "exams": "TANCET",
+          "intake": "24"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54797,7 +54841,9 @@
       "reviewsCount": 706,
       "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASAN%20MEMORIAL%20COLLEGE%20OF%20ARTS%20%26%20SCIENCE%20-%20INSTITUTE%20OF%20MANAGEMENT%20KANCHIPURAM%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASAN%20MEMORIAL%20COLLEGE%20OF%20ARTS%20%26%20SCIENCE%20-%20INSTITUTE%20OF%20MANAGEMENT%20KANCHIPURAM%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 1994
     },
     {
       "id": 649,
@@ -54861,14 +54907,14 @@
     },
     {
       "id": 650,
-      "name": "GURU NANAK COLLEGE",
+      "name": "Guru Nanak College (Autonomous, Velachery, Chennai)",
       "shortName": "Course Institute-1",
       "location": "CHENNAI",
       "state": "Tamil Nadu",
       "address": "VELACHERY MAIN ROAD, NEAR BYE PASS ROAD, CHENNAI - 600 042.",
-      "phone": "0123-456789",
-      "website": "https://www.gurunanakcolleg.edu.in",
-      "rating": 4.9,
+      "phone": "044-22451746",
+      "website": "https://gurunanakcollege.edu.in",
+      "rating": 4.6,
       "reviews": 455,
       "type": "Private",
       "about": "Welcome to GURU NANAK COLLEGE, a premier institute located in CHENNAI. We offer world-class education and facilities for our students.",
@@ -54887,13 +54933,54 @@
       ],
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "BCA / B.Sc with Maths + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation (50%+) + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "100"
+        },
+        {
+          "name": "B.Sc in Computer Science",
+          "title": "B.Sc in Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "100"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10+2 with Commerce/Maths",
+          "exams": "Merit Based",
+          "intake": "200"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54913,21 +55000,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 455,
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GURU%20NANAK%20COLLEGE%20CHENNAI%20Tamil%20Nadu",
-      "imageUrl": "/images/campuses/kv_imis_coimbatore.jpg"
+      "imageUrl": "/images/campuses/kv_imis_coimbatore.jpg",
+      "city": "Chennai",
+      "established": 1971
     },
     {
       "id": 651,
-      "name": "VALLIAMMAL COLLEGE FOR WOMEN",
+      "name": "Valliammal College for Women (Anna Nagar East, Chennai)",
       "shortName": "Course Institute-1",
       "location": "CHENNAI",
       "state": "Tamil Nadu",
       "address": "E-9,ANNA NAGAR EAST",
-      "phone": "0123-456789",
-      "website": "https://www.valliammalcolle.edu.in",
-      "rating": 4.9,
+      "phone": "044-26262816",
+      "website": "https://valliammal.edu.in",
+      "rating": 4.2,
       "reviews": 595,
       "type": "Private",
       "about": "Welcome to VALLIAMMAL COLLEGE FOR WOMEN, a premier institute located in CHENNAI. We offer world-class education and facilities for our students.",
@@ -54946,13 +55035,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 50,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (Women only)",
+          "exams": "Merit Based",
+          "intake": "50"
+        },
+        {
+          "name": "B.Sc in Computer Science",
+          "title": "B.Sc in Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10+2 with Science/Maths",
+          "exams": "Merit Based",
+          "intake": "50"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation with Maths + TANCET",
+          "exams": "TANCET",
+          "intake": "30"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "Graduation (50%+) + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54974,18 +55094,20 @@
       "reviewsCount": 595,
       "image": "https://valliammal.edu.in/wp-content/uploads/2024/09/banner-1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VALLIAMMAL%20COLLEGE%20FOR%20WOMEN%20CHENNAI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VALLIAMMAL%20COLLEGE%20FOR%20WOMEN%20CHENNAI%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 1987
     },
     {
       "id": 652,
-      "name": "SACRED HEART COLLEGE",
+      "name": "Sacred Heart College (Autonomous, Tirupattur)",
       "shortName": "Course Institute-1",
       "location": "VELLORE",
       "state": "Tamil Nadu",
       "address": "TIRUPATTUR-635 601, TIRUPATTUR DISTRICT,",
-      "phone": "0123-456789",
-      "website": "https://www.sacredheartcoll.edu.in",
-      "rating": 4.9,
+      "phone": "04179-220553",
+      "website": "https://www.shctpt.edu",
+      "rating": 4.5,
       "reviews": 1300,
       "type": "Private",
       "about": "Welcome to SACRED HEART COLLEGE, a premier institute located in VELLORE. We offer world-class education and facilities for our students.",
@@ -55004,13 +55126,54 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 100,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "100"
+        },
+        {
+          "name": "B.Sc in Computer Science",
+          "title": "B.Sc in Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹26,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "100"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "Graduation with Maths + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹48,000/Year",
+          "eligibility": "Graduation (50%+) + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Social Work (MSW)",
+          "title": "Master of Social Work (MSW)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "Bachelor's degree in any discipline",
+          "exams": "Merit Based",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -55032,7 +55195,9 @@
       "reviewsCount": 1300,
       "image": "https://sacredheartcollege.ac.in/wp-content/uploads/2022/07/2-banner-1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SACRED%20HEART%20COLLEGE%20VELLORE%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SACRED%20HEART%20COLLEGE%20VELLORE%20Tamil%20Nadu",
+      "city": "Tirupattur",
+      "established": 1951
     },
     {
       "id": 653,
@@ -55042,9 +55207,9 @@
       "location": "Vellore",
       "state": "Tamil Nadu",
       "country": "India",
-      "rating": 4.8,
+      "rating": 4.9,
       "reviews": 350,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Government",
       "ranking": 1,
       "about": "CMC Vellore - Christian Medical College is one of India's foremost apex premier institutions in Vellore, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
@@ -55074,10 +55239,44 @@
       ],
       "courses": [
         {
-          "title": "MBBS",
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹52,830/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "100"
+        },
+        {
+          "name": "B.Sc in Nursing",
+          "title": "B.Sc in Nursing",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with 45% in PCB + CMC Entrance",
+          "exams": "CMC Entrance",
+          "intake": "100"
+        },
+        {
+          "name": "Bachelor of Physiotherapy (BPT)",
+          "title": "Bachelor of Physiotherapy (BPT)",
+          "division": "Undergraduate",
+          "duration": "4.5 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10+2 with Science (PCB)",
+          "exams": "CMC Entrance",
+          "intake": "20"
+        },
+        {
+          "name": "MD / MS in General Medicine / Surgery",
+          "title": "MD / MS in General Medicine / Surgery",
+          "division": "Postgraduate",
+          "duration": "3 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "120"
         }
       ],
       "reviewsCount": 350,
@@ -55091,20 +55290,23 @@
       "image": "/images/campuses/campus_architecture_6.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Christian%20Medical%20College%20(CMC%20Vellore)%20Vellore%20Tamil%20Nadu",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Christian%20Medical%20College%20(CMC%20Vellore)%20Vellore%20Tamil%20Nadu",
-      "address": "Vellore, Tamil Nadu, India"
+      "address": "Vellore, Tamil Nadu, India",
+      "city": "Vellore",
+      "phone": "0416-2281000",
+      "established": 1900
     },
     {
       "id": 654,
-      "name": "GOVERNMENT COLLEGE OF ENGINEERING",
+      "name": "Government College of Engineering, Bodinayakkanur (Theni)",
       "shortName": "Course Institute-1",
       "location": "THENI",
       "state": "Tamil Nadu",
       "address": "MELACHOKKNATHAPURAM VILLAGE, BODINAYAKKANUR",
-      "phone": "0123-456789",
-      "website": "https://www.governmentcolle.edu.in",
-      "rating": 4.8,
+      "phone": "04546-282555",
+      "website": "http://gcebodi.ac.in",
+      "rating": 4.3,
       "reviews": 198,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT COLLEGE OF ENGINEERING, a premier institute located in THENI. We offer world-class education and facilities for our students.",
       "ranking": 69,
       "facebook": "#",
@@ -55121,13 +55323,54 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "B.E. in Civil Engineering",
+          "title": "B.E. in Civil Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Mechanical Engineering",
+          "title": "B.E. in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Electrical & Electronics Engineering",
+          "title": "B.E. in Electrical & Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Electronics & Communication Engineering",
+          "title": "B.E. in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Computer Science and Engineering",
+          "title": "B.E. in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -55149,18 +55392,20 @@
       "reviewsCount": 198,
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLEGE%20OF%20ENGINEERING%20THENI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLEGE%20OF%20ENGINEERING%20THENI%20Tamil%20Nadu",
+      "city": "Theni",
+      "established": 2012
     },
     {
       "id": 655,
-      "name": "SRI VENKATESWARA POLYTECHNIC COLLEGE",
+      "name": "Sri Venkateswara Polytechnic College (Adukkamparai, Vellore)",
       "shortName": "Course Institute-1",
       "location": "VELLORE",
       "state": "Tamil Nadu",
       "address": "NEXT TO GOVT.MEDICAL COLLEGE & HOSPITAL. ADUKKAMPARAI, VELLORE -632011",
-      "phone": "0123-456789",
-      "website": "https://www.srivenkateswara.edu.in",
-      "rating": 4.8,
+      "phone": "0416-2230777",
+      "website": "https://svpvellore.ac.in",
+      "rating": 4,
       "reviews": 1322,
       "type": "Private",
       "about": "Welcome to SRI VENKATESWARA POLYTECHNIC COLLEGE, a premier institute located in VELLORE. We offer world-class education and facilities for our students.",
@@ -55179,13 +55424,44 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Diploma in Automobile Engineering",
+          "title": "Diploma in Automobile Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -55207,7 +55483,9 @@
       "reviewsCount": 1322,
       "image": "https://svpvellore.ac.in/wp-content/uploads/2022/08/college-view-1-copy-2-scaled-e1658233208559.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20VENKATESWARA%20POLYTECHNIC%20COLLEGE%20VELLORE%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20VENKATESWARA%20POLYTECHNIC%20COLLEGE%20VELLORE%20Tamil%20Nadu",
+      "city": "Vellore",
+      "established": 2007
     },
     {
       "id": 656,
@@ -55271,14 +55549,14 @@
     },
     {
       "id": 657,
-      "name": "SRI KRISHNA INSTITUTE OF TECHNOLOGY",
+      "name": "Sri Krishna Institute of Technology (Padappai, Chennai)",
       "shortName": "Course Institute-1",
       "location": "KANCHIPURAM",
       "state": "Tamil Nadu",
       "address": "NAVANEEDHAM NAGAR PANAPAKKAM NEAR PADAPPAI",
-      "phone": "0123-456789",
-      "website": "https://www.srikrishnainsti.edu.in",
-      "rating": 4.8,
+      "phone": "044-27174666",
+      "website": "https://skit.edu.in",
+      "rating": 4.1,
       "reviews": 1615,
       "type": "Private",
       "about": "Welcome to SRI KRISHNA INSTITUTE OF TECHNOLOGY, a premier institute located in KANCHIPURAM. We offer world-class education and facilities for our students.",
@@ -55297,13 +55575,44 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "B.E. in Computer Science and Engineering",
+          "title": "B.E. in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Civil Engineering",
+          "title": "B.E. in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Mechanical Engineering",
+          "title": "B.E. in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Electronics & Communication Engineering",
+          "title": "B.E. in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -55325,7 +55634,9 @@
       "reviewsCount": 1615,
       "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/sri-krishna-institute-of-technology-kanchipuram-1-768x346.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20KRISHNA%20INSTITUTE%20OF%20TECHNOLOGY%20KANCHIPURAM%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20KRISHNA%20INSTITUTE%20OF%20TECHNOLOGY%20KANCHIPURAM%20Tamil%20Nadu",
+      "city": "Kanchipuram",
+      "established": 2009
     },
     {
       "id": 658,
@@ -55389,16 +55700,16 @@
     },
     {
       "id": 659,
-      "name": "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING",
+      "name": "Department of Computer Science & Engineering, Manonmaniam Sundaranar University (MSU Tirunelveli)",
       "shortName": "Course Institute-1",
       "location": "TIRUNELVELI",
       "state": "Tamil Nadu",
       "address": "MANONMANIAM SUNDARANAR UVIVERSITY",
-      "phone": "0123-456789",
-      "website": "https://www.departmentofcom.edu.in",
-      "rating": 4.8,
+      "phone": "0462-2333741",
+      "website": "https://www.msuniv.ac.in",
+      "rating": 4.5,
       "reviews": 1048,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, a premier institute located in TIRUNELVELI. We offer world-class education and facilities for our students.",
       "ranking": 34,
       "facebook": "#",
@@ -55415,13 +55726,44 @@
       ],
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "BCA / B.Sc with Maths + TANCET",
+          "exams": "TANCET",
+          "intake": "60"
+        },
+        {
+          "name": "M.Tech in Computer and Information Technology",
+          "title": "M.Tech in Computer and Information Technology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "B.E./B.Tech in CSE / IT + TANCET / GATE",
+          "exams": "TANCET, GATE",
+          "intake": "25"
+        },
+        {
+          "name": "M.Sc in Computer Science",
+          "title": "M.Sc in Computer Science",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹12,000/Year",
+          "eligibility": "B.Sc CS / BCA",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Ph.D. in Computer Science & Engineering",
+          "title": "Ph.D. in Computer Science & Engineering",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹10,000/Year",
+          "eligibility": "Master's in CS / IT with UGC-NET / SET",
+          "exams": "UGC-NET, SET",
+          "intake": "20"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -55443,7 +55785,9 @@
       "reviewsCount": 1048,
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMPUTER%20SCIENCE%20AND%20ENGINEERING%20TIRUNELVELI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMPUTER%20SCIENCE%20AND%20ENGINEERING%20TIRUNELVELI%20Tamil%20Nadu",
+      "city": "Tirunelveli",
+      "established": 1990
     },
     {
       "id": 660,

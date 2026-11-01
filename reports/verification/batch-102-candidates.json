@@ -1,0 +1,209 @@
+[
+  {
+    "id": 647,
+    "name": "PGP COLLEGE OF ARTS AND SCIENCE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://www.pgpartscollege.ac.in/images/about/home7.jpg",
+    "website": "https://www.pgpcollegeofart.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 30,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 648,
+    "name": "ASAN MEMORIAL COLLEGE OF ARTS & SCIENCE - INSTITUTE OF MANAGEMENT",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.asanmemorialcol.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 24,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 650,
+    "name": "GURU NANAK COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/sheila_raheja_bandra.webp",
+    "website": "https://www.gurunanakcolleg.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "MASTER OF COMPUTER APPLICATIONS",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "name": "VALLIAMMAL COLLEGE FOR WOMEN",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://valliammal.edu.in/wp-content/uploads/2024/09/banner-1.jpg",
+    "website": "https://www.valliammalcolle.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 50,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "name": "SACRED HEART COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://sacredheartcollege.ac.in/wp-content/uploads/2022/07/2-banner-1.jpg",
+    "website": "https://www.sacredheartcoll.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 100,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "name": "Christian Medical College (CMC Vellore)",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.cmch-vellore.edu",
+    "rating": 4.8,
+    "shikshaUrl": "https://www.shiksha.com/college/christian-medical-college-vellore-24424",
+    "rawCourses": [
+      {
+        "title": "MBBS",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 654,
+    "name": "GOVERNMENT COLLEGE OF ENGINEERING",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.governmentcolle.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "name": "SRI VENKATESWARA POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://svpvellore.ac.in/wp-content/uploads/2022/08/college-view-1-copy-2-scaled-e1658233208559.jpg",
+    "website": "https://www.srivenkateswara.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "name": "SRI KRISHNA INSTITUTE OF TECHNOLOGY",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/sri-krishna-institute-of-technology-kanchipuram-1-768x346.jpg",
+    "website": "https://www.srikrishnainsti.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "name": "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.departmentofcom.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "MASTER OF COMPUTER APPLICATIONS",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  }
+]

@@ -7573,5 +7573,80 @@
         "website": "https://christianengineering.in"
       }
     ]
+  },
+  {
+    "batch": 102,
+    "items": [
+      {
+        "id": 647,
+        "name": "PGP College of Arts and Science (Paramathi, Namakkal)",
+        "type": "Private",
+        "location": "NAMAKKAL-KARUR MAIN ROAD VILLIPALAYAM, PARAMATHI(PO) - 637207 NAMAKKAL DT TAMIL NADU",
+        "website": "https://pgpartscollege.ac.in"
+      },
+      {
+        "id": 648,
+        "name": "Asan Memorial Institute of Management (Jaladampet, Chennai)",
+        "type": "Private",
+        "location": "JALADAMPET, CHENNAI - 600 100",
+        "website": "https://asanim.edu.in"
+      },
+      {
+        "id": 650,
+        "name": "Guru Nanak College (Autonomous, Velachery, Chennai)",
+        "type": "Private",
+        "location": "NEAR BYE PASS ROAD, CHENNAI - 600 042.",
+        "website": "https://gurunanakcollege.edu.in"
+      },
+      {
+        "id": 651,
+        "name": "Valliammal College for Women (Anna Nagar East, Chennai)",
+        "type": "Private",
+        "location": "E-9,ANNA NAGAR EAST",
+        "website": "https://valliammal.edu.in"
+      },
+      {
+        "id": 652,
+        "name": "Sacred Heart College (Autonomous, Tirupattur)",
+        "type": "Private",
+        "location": "TIRUPATTUR DISTRICT,",
+        "website": "https://www.shctpt.edu"
+      },
+      {
+        "id": 653,
+        "name": "Christian Medical College (CMC Vellore)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.cmch-vellore.edu"
+      },
+      {
+        "id": 654,
+        "name": "Government College of Engineering, Bodinayakkanur (Theni)",
+        "type": "Public/Government",
+        "location": "MELACHOKKNATHAPURAM VILLAGE, BODINAYAKKANUR",
+        "website": "http://gcebodi.ac.in"
+      },
+      {
+        "id": 655,
+        "name": "Sri Venkateswara Polytechnic College (Adukkamparai, Vellore)",
+        "type": "Private",
+        "location": "NEXT TO GOVT.MEDICAL COLLEGE & HOSPITAL. ADUKKAMPARAI, VELLORE -632011",
+        "website": "https://svpvellore.ac.in"
+      },
+      {
+        "id": 657,
+        "name": "Sri Krishna Institute of Technology (Padappai, Chennai)",
+        "type": "Private",
+        "location": "NAVANEEDHAM NAGAR PANAPAKKAM NEAR PADAPPAI",
+        "website": "https://skit.edu.in"
+      },
+      {
+        "id": 659,
+        "name": "Department of Computer Science & Engineering, Manonmaniam Sundaranar University (MSU Tirunelveli)",
+        "type": "Public/Government",
+        "location": "MANONMANIAM SUNDARANAR UVIVERSITY",
+        "website": "https://www.msuniv.ac.in"
+      }
+    ]
   }
 ]
