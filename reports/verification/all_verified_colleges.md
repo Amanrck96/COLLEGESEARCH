@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1480 / 12,660**  
-**Roadmap Progress**: **148.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1490 / 12,660**  
+**Roadmap Progress**: **149.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2229,4 +2229,19 @@
 | **1158** | Government Polytechnic, Sheikhpura | Public/Government | District - Sheikhpura, Bihar - 811103 | [gpsheikhpura.in](https://gpsheikhpura.in) |
 | **1159** | Government Polytechnic, Bhojpur | Public/Government | District - Bhojpur, Bihar - 802158 | [gpbhojpur.ac.in](https://gpbhojpur.ac.in) |
 | **1160** | Government Engineering College, Buxar | Public/Government | Buxar, Bihar - 802103 | [gecbuxar.ac.in](https://gecbuxar.ac.in) |
+
+### Batch 149 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1161** | Rashtrakavi Ramdhari Singh Dinkar College of Engineering, Begusarai | Public/Government | Begusarai, Bihar - 851134 | [rrsdcebgs.ac.in](https://rrsdcebgs.ac.in) |
+| **1162** | Government Polytechnic, Jehanabad | Public/Government | Jehanabad, Bihar - 804418 | [gpjehanabad.org.in](https://gpjehanabad.org.in) |
+| **1163** | Sershah Engineering College, Sasaram | Public/Government | Rohtas, Bihar - 821113 | [secsasaram.org](https://secsasaram.org) |
+| **1164** | B. D. College, Patna | Public/Government | Patna, Bihar - 800001 | [bdcollegepatna.ac.in](https://bdcollegepatna.ac.in) |
+| **1165** | Kameshwar Narayan Singh Government Polytechnic, Samastipur | Public/Government | Samastipur, Bihar - 848101 | [knsgpolytechnic.ac.in](https://knsgpolytechnic.ac.in) |
+| **1166** | Government Polytechnic, Khagaria | Public/Government | Khagaria, Bihar - 851212 | [gpkhagaria.org.in](https://gpkhagaria.org.in) |
+| **1167** | Shri Phanishwar Nath Renu Engineering College, Araria | Public/Government | Araria, Bihar - 854318 | [spnrec.ac.in](https://spnrec.ac.in) |
+| **1169** | Government Engineering College, Siwan | Public/Government | Siwan, Bihar - 841226 | [gecsiwan.org](https://gecsiwan.org) |
+| **1170** | Aryabhatt Polytechnic, Gaya | Private | District - Gaya, Bihar - 824231 | [aryabhattpolytechnic.com](http://aryabhattpolytechnic.com) |
+| **1171** | Government Engineering College, West Champaran | Public/Government | West Champaran, Bihar - 845438 | [gecwestchamparan.nic.in](https://gecwestchamparan.nic.in) |
 

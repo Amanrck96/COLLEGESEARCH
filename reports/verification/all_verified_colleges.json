@@ -11098,5 +11098,80 @@
         "website": "https://gecbuxar.ac.in"
       }
     ]
+  },
+  {
+    "batch": 149,
+    "items": [
+      {
+        "id": 1161,
+        "name": "Rashtrakavi Ramdhari Singh Dinkar College of Engineering, Begusarai",
+        "type": "Public/Government",
+        "location": "Begusarai, Bihar - 851134",
+        "website": "https://rrsdcebgs.ac.in"
+      },
+      {
+        "id": 1162,
+        "name": "Government Polytechnic, Jehanabad",
+        "type": "Public/Government",
+        "location": "Jehanabad, Bihar - 804418",
+        "website": "https://gpjehanabad.org.in"
+      },
+      {
+        "id": 1163,
+        "name": "Sershah Engineering College, Sasaram",
+        "type": "Public/Government",
+        "location": "Rohtas, Bihar - 821113",
+        "website": "https://secsasaram.org"
+      },
+      {
+        "id": 1164,
+        "name": "B. D. College, Patna",
+        "type": "Public/Government",
+        "location": "Patna, Bihar - 800001",
+        "website": "https://bdcollegepatna.ac.in"
+      },
+      {
+        "id": 1165,
+        "name": "Kameshwar Narayan Singh Government Polytechnic, Samastipur",
+        "type": "Public/Government",
+        "location": "Samastipur, Bihar - 848101",
+        "website": "https://knsgpolytechnic.ac.in"
+      },
+      {
+        "id": 1166,
+        "name": "Government Polytechnic, Khagaria",
+        "type": "Public/Government",
+        "location": "Khagaria, Bihar - 851212",
+        "website": "https://gpkhagaria.org.in"
+      },
+      {
+        "id": 1167,
+        "name": "Shri Phanishwar Nath Renu Engineering College, Araria",
+        "type": "Public/Government",
+        "location": "Araria, Bihar - 854318",
+        "website": "https://spnrec.ac.in"
+      },
+      {
+        "id": 1169,
+        "name": "Government Engineering College, Siwan",
+        "type": "Public/Government",
+        "location": "Siwan, Bihar - 841226",
+        "website": "https://gecsiwan.org"
+      },
+      {
+        "id": 1170,
+        "name": "Aryabhatt Polytechnic, Gaya",
+        "type": "Private",
+        "location": "District - Gaya, Bihar - 824231",
+        "website": "http://aryabhattpolytechnic.com"
+      },
+      {
+        "id": 1171,
+        "name": "Government Engineering College, West Champaran",
+        "type": "Public/Government",
+        "location": "West Champaran, Bihar - 845438",
+        "website": "https://gecwestchamparan.nic.in"
+      }
+    ]
   }
 ]
