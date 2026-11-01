@@ -3823,5 +3823,80 @@
         "website": "https://www.iimk.ac.in"
       }
     ]
+  },
+  {
+    "batch": 52,
+    "items": [
+      {
+        "id": 77,
+        "name": "Government Polytechnic Sira (GPT Sira)",
+        "type": "Public/Government (State Polytechnic)",
+        "location": "Tumakuru District - 572137, Karnataka",
+        "website": "https://dte.karnataka.gov.in"
+      },
+      {
+        "id": 80,
+        "name": "Administrative Management College (AMC Bengaluru)",
+        "type": "Private (Management & IT College)",
+        "location": "Bengaluru - 560083, Karnataka",
+        "website": "https://amceducation.in"
+      },
+      {
+        "id": 81,
+        "name": "Government First Grade College Shahapur (GFGC Shahapur)",
+        "type": "Public/Government (Degree College)",
+        "location": "Yadgir District - 585223, Karnataka",
+        "website": "https://dce.karnataka.gov.in"
+      },
+      {
+        "id": 82,
+        "name": "Srinivas University (Bengaluru Centre)",
+        "type": "Private (State University Extension Centre)",
+        "location": "Bengaluru - 560095, Karnataka",
+        "website": "https://srinivasuniversity.edu.in"
+      },
+      {
+        "id": 83,
+        "name": "European Institute of Management & Research (EIMR Business School)",
+        "type": "Private (Business School)",
+        "location": "Bengaluru - 560004, Karnataka",
+        "website": "https://eimrbusinessschool.com"
+      },
+      {
+        "id": 84,
+        "name": "Government Tool Room and Training Centre (GTTC Bengaluru)",
+        "type": "Public/Government (Autonomous Technical Society)",
+        "location": "Bengaluru - 560010, Karnataka",
+        "website": "https://gttc.karnataka.gov.in"
+      },
+      {
+        "id": 85,
+        "name": "Vivekananda Institute of Management (VIM Bengaluru)",
+        "type": "Private (Management Institute)",
+        "location": "Bengaluru - 560010, Karnataka",
+        "website": "https://vim.ac.in"
+      },
+      {
+        "id": 86,
+        "name": "JSS College for Women Chamarajanagar",
+        "type": "Private Aided (Women's Degree College)",
+        "location": "Chamarajanagar - 571313, Karnataka",
+        "website": "https://jsscwc.edu.in"
+      },
+      {
+        "id": 87,
+        "name": "Surana College (Peenya & South End Campus)",
+        "type": "Private (Autonomous Degree College)",
+        "location": "Bengaluru - 560022, Karnataka",
+        "website": "https://www.suranacollege.edu.in"
+      },
+      {
+        "id": 88,
+        "name": "BGS First Grade College (BGS FGC Mandya)",
+        "type": "Private (Degree College)",
+        "location": "Mandya District - 571448, Karnataka",
+        "website": "https://acu.edu.in"
+      }
+    ]
   }
 ]

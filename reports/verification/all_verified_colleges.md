@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **510 / 12,660**  
-**Roadmap Progress**: **51.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **520 / 12,660**  
+**Roadmap Progress**: **52.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -774,4 +774,19 @@
 | **74** | National Institute of Technology Calicut (NIT Calicut) | Institute of National Importance | Kozhikode - 673601, Kerala | [www.nitc.ac.in](https://www.nitc.ac.in) |
 | **75** | Indian Institute of Technology Kharagpur (IIT Kharagpur) | Institute of National Importance | Paschim Medinipur District, West Bengal | [www.iitkgp.ac.in](https://www.iitkgp.ac.in) |
 | **76** | Indian Institute of Management Kozhikode (IIM Kozhikode) | Institute of National Importance | Kozhikode - 673570, Kerala | [www.iimk.ac.in](https://www.iimk.ac.in) |
+
+### Batch 52 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **77** | Government Polytechnic Sira (GPT Sira) | Public/Government (State Polytechnic) | Tumakuru District - 572137, Karnataka | [dte.karnataka.gov.in](https://dte.karnataka.gov.in) |
+| **80** | Administrative Management College (AMC Bengaluru) | Private (Management & IT College) | Bengaluru - 560083, Karnataka | [amceducation.in](https://amceducation.in) |
+| **81** | Government First Grade College Shahapur (GFGC Shahapur) | Public/Government (Degree College) | Yadgir District - 585223, Karnataka | [dce.karnataka.gov.in](https://dce.karnataka.gov.in) |
+| **82** | Srinivas University (Bengaluru Centre) | Private (State University Extension Centre) | Bengaluru - 560095, Karnataka | [srinivasuniversity.edu.in](https://srinivasuniversity.edu.in) |
+| **83** | European Institute of Management & Research (EIMR Business School) | Private (Business School) | Bengaluru - 560004, Karnataka | [eimrbusinessschool.com](https://eimrbusinessschool.com) |
+| **84** | Government Tool Room and Training Centre (GTTC Bengaluru) | Public/Government (Autonomous Technical Society) | Bengaluru - 560010, Karnataka | [gttc.karnataka.gov.in](https://gttc.karnataka.gov.in) |
+| **85** | Vivekananda Institute of Management (VIM Bengaluru) | Private (Management Institute) | Bengaluru - 560010, Karnataka | [vim.ac.in](https://vim.ac.in) |
+| **86** | JSS College for Women Chamarajanagar | Private Aided (Women's Degree College) | Chamarajanagar - 571313, Karnataka | [jsscwc.edu.in](https://jsscwc.edu.in) |
+| **87** | Surana College (Peenya & South End Campus) | Private (Autonomous Degree College) | Bengaluru - 560022, Karnataka | [www.suranacollege.edu.in](https://www.suranacollege.edu.in) |
+| **88** | BGS First Grade College (BGS FGC Mandya) | Private (Degree College) | Mandya District - 571448, Karnataka | [acu.edu.in](https://acu.edu.in) |
 

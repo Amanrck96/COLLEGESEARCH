@@ -1,0 +1,172 @@
+[
+  {
+    "id": 77,
+    "name": "GOVT. POLYTECHNIC",
+    "address": "NEAR SILK FARM, NH-48,SIRA, TUMAKURU DIST, KARNATAKA STATE-572137",
+    "state": "Karnataka",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/159721031712194815_1670351826514958_6307505989440211621_o.jpg",
+    "website": "https://www.govtpolytechnic.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "ADMINISTRATIVE MANAGEMENT COLLEGE",
+    "address": "18TH KM, BANNERGHATTA ROAD , KALKERE, BANGALORE-560 083",
+    "state": "Karnataka",
+    "img": "/images/campuses/iim_bangalore.jpg",
+    "website": "https://www.administrativem.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "GOVERNMENT FIRST GRADE COLLEGE",
+    "address": "B B ROAD NEAR NEW THAHASEL OFFICE SHAHAPUR",
+    "state": "Karnataka",
+    "img": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.governmentfirst.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BBA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "SRINIVAS UNIVERSITY",
+    "address": "822, 80 FT ROAD, 8TH BLOCK, KORAMANGALA, OPP. NATIONAL GAMES VILLAGE, BANGALORE- 560095",
+    "state": "Karnataka",
+    "img": "https://campusways.com/wp-content/uploads/2025/03/Srinivas-University-Bangalore-.jpg",
+    "website": "https://www.srinivasunivers.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "EIMR BUSINESS SCHOOL",
+    "address": "NO.2 S KARIAPPA ROAD, BASAVANAGUDI, BANGALORE",
+    "state": "Karnataka",
+    "img": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.eimrbusinesssch.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "GOVERNMENT TOOL ROOM AND TRAINING CENTRE",
+    "address": "SURVEY NUMBER 117, BELLARY ROAD",
+    "state": "Karnataka",
+    "img": "https://www.campusoption.com/images/colleges/gallery/24_11_16_104323_GTTC.png",
+    "website": "https://www.governmenttoolr.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "TOOL AND DIE MAKING",
+        "duration": "3 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "VIVEKANANDA INSTITUTE OF MANAGEMENT",
+    "address": "DR. RAJKUMAR ROAD, RAJAJINAGAR, II STAGE",
+    "state": "Karnataka",
+    "img": "https://obcrights.org/wp-content/uploads/2025/01/Vivekananda-Institute-of-Management-Studies.jpg",
+    "website": "https://www.vivekanandainst.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "JSS COLLEGE FOR WOMEN",
+    "address": "DOUBLE ROAD, CHAMARAJANAGAR",
+    "state": "Karnataka",
+    "img": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.jsscollegeforwo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "SURANA COLLEGE",
+    "address": "NO. 167, 5TH MAIN ROAD, INDUSTRIAL SUBURB, 2ND STAGE, BEHIND FTI, NEAR ESIC HOSPITAL, PEENYA , BENGALURU-560022",
+    "state": "Karnataka",
+    "img": "https://www.joonsquare.com/usermanage/image/business/surana-college-bengaluru-urban-14143/surana-college-bengaluru-urban-surana-college-002.jpg",
+    "website": "https://www.google.com/search?q=SURANA%20COLLEGE%20official%20website%20BANGALORE%20URBAN%20Karnataka",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "BGS FIRST GRADE COLLEGE",
+    "address": "BG NAGARA, NAGAMANGALA",
+    "state": "Karnataka",
+    "img": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.bgsfirstgradeco.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  }
+]
