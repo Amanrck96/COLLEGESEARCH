@@ -8398,5 +8398,80 @@
         "website": "https://www.iiita.ac.in"
       }
     ]
+  },
+  {
+    "batch": 113,
+    "items": [
+      {
+        "id": 770,
+        "name": "Motilal Nehru National Institute of Technology Allahabad (MNNIT Prayagraj)",
+        "type": "Public/Government",
+        "location": "MNNIT Allahabad Campus, Teliarganj",
+        "website": "https://www.mnnit.ac.in"
+      },
+      {
+        "id": 771,
+        "name": "KIET Group of Institutions (Muradnagar, Ghaziabad)",
+        "type": "Private",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.kiet.edu"
+      },
+      {
+        "id": 772,
+        "name": "Noida Institute of Engineering and Technology (NIET Autonomous, Greater Noida)",
+        "type": "Private",
+        "location": "Knowledge Park-II, Institutional Area",
+        "website": "https://www.niet.co.in"
+      },
+      {
+        "id": 773,
+        "name": "Jaypee Institute of Information Technology (JIIT Deemed University, Noida)",
+        "type": "Private",
+        "location": "A-10, Sector-62",
+        "website": "https://www.jiit.ac.in"
+      },
+      {
+        "id": 774,
+        "name": "Chandigarh University (Lucknow Campus, Sultanpur Road)",
+        "type": "Private",
+        "location": "Chandigarh University, Lucknow - Kanpur Highway - 27",
+        "website": "https://www.cuchd.in"
+      },
+      {
+        "id": 775,
+        "name": "Madan Mohan Malaviya University of Technology (MMMUT Gorakhpur)",
+        "type": "Public/Government",
+        "location": "Singhariya, Kunraghat",
+        "website": "https://www.mmmut.ac.in"
+      },
+      {
+        "id": 776,
+        "name": "Aligarh Muslim University (AMU Central University, Aligarh)",
+        "type": "Public/Government",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.amu.ac.in"
+      },
+      {
+        "id": 778,
+        "name": "Babu Banarasi Das Northern India Institute of Technology (BBDNIIT Lucknow)",
+        "type": "Private",
+        "location": "FAIZABAD ROAD,CHINHAT",
+        "website": "https://bbdniit.ac.in"
+      },
+      {
+        "id": 779,
+        "name": "College of Management Studies (CMS Kanpur, Juhi GT Road)",
+        "type": "Private",
+        "location": "HADAHA, UNNAO",
+        "website": "http://cmskanpur.edu.in"
+      },
+      {
+        "id": 780,
+        "name": "Beacon Institute of Technology (BIT Meerut, Partapur Bypass)",
+        "type": "Private",
+        "location": "BY PASS ROAD PARTAPUR MEERUT",
+        "website": "https://beacon.ac.in"
+      }
+    ]
   }
 ]

@@ -1,0 +1,336 @@
+[
+  {
+    "id": 770,
+    "name": "MNNIT Allahabad",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.mnnit.ac.in",
+    "phone": "9105322545404",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/mnnit-allahabad-motilal-nehru-national-institute-of-technology-24357/admission",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 771,
+    "name": "KIET Ghaziabad",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2023/January/1912023/KIET-Group-of-Institutions-Ghaziabad-Campus-View-1.jpg",
+    "website": "https://www.google.com/search?q=KIET%20Ghaziabad%20official%20website%20Uttar%20Uttar%20Pradesh",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/kiet-group-of-institutions-kiet-ghaziabad-962/admission",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 772,
+    "name": "Noida Institute of Engineering and Technology (NIET), Greater Noida",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.niet.co.in/",
+    "phone": "8010500700",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/noida-institute-of-engineering-and-technology-niet-greater-noida-49361/admission",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "name": "Jaypee Institute of Information Technology, Noida",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.jiit.ac.in/",
+    "phone": "1202400973",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/jaypee-institute-of-information-technology-noida-20383/admission",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "name": "Chandigarh University, UP Campus, Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.cuchd.in",
+    "phone": "9646001333",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/chandigarh-university-up-campus-lucknow-229904/admission",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 775,
+    "name": "Madan Mohan Malviya University of Technology, Gorakhpur",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "https://img.jagranjosh.com/images/2024/January/2312024/10590482_878502508835287_3709705822704633044_n.jpg",
+    "website": "http://www.mmmut.ac.in",
+    "phone": "9235500507",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/madan-mohan-malviya-university-of-technology-gorakhpur-42983/admission",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "name": "Aligarh Muslim University",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_aligarh_muslim_university.jpg",
+    "website": "https://www.amu.ac.in",
+    "phone": "05712700920",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/aligarh-muslim-university-29839",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 778,
+    "name": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://img.studyclap.com/img/institute/college/773x343/3642/bbdniit-lucknow-campus-building-db8167.jpg",
+    "website": "https://www.babubanarasidas.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRICAL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 779,
+    "name": "COLLEGE OF MANAGEMENT STUDIES",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2025-12-2-11-22-12_a (7).jpg",
+    "website": "https://www.collegeofmanage.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 300,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 780,
+    "name": "BEACON INSTITUTE OF TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://beacon.ac.in/wp-content/uploads/slider/cache/e6440cdd59e0814251ded77df50eca2f/Main-building.jpg",
+    "website": "https://www.beaconinstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 240,
+        "eligibility": "As per norms"
+      }
+    ]
+  }
+]

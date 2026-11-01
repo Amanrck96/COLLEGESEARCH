@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1120 / 12,660**  
-**Roadmap Progress**: **112.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1130 / 12,660**  
+**Roadmap Progress**: **113.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1689,4 +1689,19 @@
 | **767** | King George's Medical University (Faculty of Dental Sciences & Nursing, KGMU Lucknow) | Public/Government | Uttar Pradesh, India | [www.kgmu.org](https://www.kgmu.org) |
 | **768** | Indian Institute of Information Technology, Lucknow (IIIT Lucknow) | Public/Government | C.G. City, Lucknow | [iiitl.ac.in](https://iiitl.ac.in) |
 | **769** | Indian Institute of Information Technology, Allahabad (IIIT Allahabad, Jhalwa Campus) | Public/Government | Jhalwa, Prayagraj | [www.iiita.ac.in](https://www.iiita.ac.in) |
+
+### Batch 113 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **770** | Motilal Nehru National Institute of Technology Allahabad (MNNIT Prayagraj) | Public/Government | MNNIT Allahabad Campus, Teliarganj | [www.mnnit.ac.in](https://www.mnnit.ac.in) |
+| **771** | KIET Group of Institutions (Muradnagar, Ghaziabad) | Private | Uttar Pradesh, India | [www.kiet.edu](https://www.kiet.edu) |
+| **772** | Noida Institute of Engineering and Technology (NIET Autonomous, Greater Noida) | Private | Knowledge Park-II, Institutional Area | [www.niet.co.in](https://www.niet.co.in) |
+| **773** | Jaypee Institute of Information Technology (JIIT Deemed University, Noida) | Private | A-10, Sector-62 | [www.jiit.ac.in](https://www.jiit.ac.in) |
+| **774** | Chandigarh University (Lucknow Campus, Sultanpur Road) | Private | Chandigarh University, Lucknow - Kanpur Highway - 27 | [www.cuchd.in](https://www.cuchd.in) |
+| **775** | Madan Mohan Malaviya University of Technology (MMMUT Gorakhpur) | Public/Government | Singhariya, Kunraghat | [www.mmmut.ac.in](https://www.mmmut.ac.in) |
+| **776** | Aligarh Muslim University (AMU Central University, Aligarh) | Public/Government | Uttar Pradesh, India | [www.amu.ac.in](https://www.amu.ac.in) |
+| **778** | Babu Banarasi Das Northern India Institute of Technology (BBDNIIT Lucknow) | Private | FAIZABAD ROAD,CHINHAT | [bbdniit.ac.in](https://bbdniit.ac.in) |
+| **779** | College of Management Studies (CMS Kanpur, Juhi GT Road) | Private | HADAHA, UNNAO | [cmskanpur.edu.in](http://cmskanpur.edu.in) |
+| **780** | Beacon Institute of Technology (BIT Meerut, Partapur Bypass) | Private | BY PASS ROAD PARTAPUR MEERUT | [beacon.ac.in](https://beacon.ac.in) |
 

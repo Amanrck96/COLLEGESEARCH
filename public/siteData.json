@@ -66443,16 +66443,16 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/mnnit-allahabad-motilal-nehru-national-institute-of-technology-24357/admission",
-      "name": "MNNIT Allahabad",
+      "name": "Motilal Nehru National Institute of Technology Allahabad (MNNIT Prayagraj)",
       "shortName": "MA",
       "location": "Uttar",
       "state": "Uttar Pradesh",
       "country": "India",
       "address": "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj",
-      "phone": "9105322545404",
+      "phone": "0532-2545404",
       "email": "secretary@mnnit.ac.in",
       "website": "https://www.mnnit.ac.in",
-      "rating": 4.5,
+      "rating": 4.8,
       "reviews": 433,
       "type": "Public/Government",
       "ownership": "Government",
@@ -66474,31 +66474,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹1,65,000/Year",
+          "eligibility": "10+2 with 75% PCM + JEE Main + JoSAA/CSAB",
+          "exams": "JEE Main",
+          "intake": "240"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "name": "B.Tech in Electronics and Communication Engineering",
+          "title": "B.Tech in Electronics and Communication Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹1,65,000/Year",
+          "eligibility": "10+2 with 75% PCM + JEE Main",
+          "exams": "JEE Main",
+          "intake": "180"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "3 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "BCA/B.Sc with Maths + NIMCET",
+          "exams": "NIMCET",
+          "intake": "116"
+        },
+        {
+          "name": "M.Tech in Computer Science and Engineering",
+          "title": "M.Tech in Computer Science and Engineering",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
+          "fees": "₹85,000/Year",
+          "eligibility": "B.Tech in CS/IT + GATE + CCMT",
+          "exams": "GATE",
           "intake": "30"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "Graduation (60%+) + CAT",
+          "exams": "CAT",
+          "intake": "45"
         }
       ],
       "highestPackage": "₹72 LPA",
@@ -66530,20 +66553,22 @@
       "reviewsCount": 433,
       "image": "/images/campuses/campus_architecture_9.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MNNIT%20Allahabad%20Uttar%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Prayagraj",
+      "established": 1961
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/kiet-group-of-institutions-kiet-ghaziabad-962/admission",
-      "name": "KIET Ghaziabad",
+      "name": "KIET Group of Institutions (Muradnagar, Ghaziabad)",
       "shortName": "KGA2",
       "location": "Uttar",
       "state": "Uttar Pradesh",
       "country": "India",
       "address": "Uttar, Uttar Pradesh, India",
-      "phone": "080-26597135",
+      "phone": "01232-227980",
       "email": "admissions@kga2.edu.in",
-      "website": "https://www.google.com/search?q=KIET%20Ghaziabad%20official%20website%20Uttar%20Uttar%20Pradesh",
-      "rating": 4.5,
+      "website": "https://www.kiet.edu",
+      "rating": 4.7,
       "reviews": 384,
       "type": "Private",
       "ownership": "Private",
@@ -66565,31 +66590,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹1,38,499/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "240"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "name": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹1,38,499/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "180"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,25,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG / CAT",
+          "exams": "CUET-PG, CAT",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "BCA/B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "180"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm - KIET School of Pharmacy)",
+          "title": "Bachelor of Pharmacy (B.Pharm - KIET School of Pharmacy)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with PCM/PCB (45%+)",
+          "exams": "CUET, Merit",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹60 LPA",
@@ -66621,21 +66669,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 771,
       "reviewsCount": 384,
-      "image": "https://img.jagranjosh.com/images/2023/January/1912023/KIET-Group-of-Institutions-Ghaziabad-Campus-View-1.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KIET%20Ghaziabad%20Uttar%20Uttar%20Pradesh"
+      "image": "/images/campuses/campus_architecture_3.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KIET%20Ghaziabad%20Uttar%20Uttar%20Pradesh",
+      "city": "Ghaziabad",
+      "established": 1998
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/noida-institute-of-engineering-and-technology-niet-greater-noida-49361/admission",
-      "name": "Noida Institute of Engineering and Technology (NIET), Greater Noida",
+      "name": "Noida Institute of Engineering and Technology (NIET Autonomous, Greater Noida)",
       "shortName": "NIET",
       "location": "Uttar",
       "state": "Uttar Pradesh",
       "country": "India",
       "address": "NIET, 19, Knowledge Park-II, Institutional Area",
-      "phone": "8010500700",
+      "phone": "0120-2328131",
       "email": "admission@niet.co.in",
-      "website": "https://www.niet.co.in/",
-      "rating": 4.5,
+      "website": "https://www.niet.co.in",
+      "rating": 4.6,
       "reviews": 356,
       "type": "Private",
       "ownership": "Private",
@@ -66657,31 +66707,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹1,48,900/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "360"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "name": "B.Tech in Artificial Intelligence & Machine Learning",
+          "title": "B.Tech in Artificial Intelligence & Machine Learning",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹1,48,900/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "180"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,35,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG / CAT / MAT",
+          "exams": "CUET-PG, CAT, MAT",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "BCA/B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "180"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm - NIET Pharmacy Institute)",
+          "title": "Bachelor of Pharmacy (B.Pharm - NIET Pharmacy Institute)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,30,000/Year",
+          "eligibility": "10+2 with PCM/PCB",
+          "exams": "CUET, Merit",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹7 LPA",
@@ -66713,22 +66786,24 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 772,
       "reviewsCount": 356,
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Noida%20Institute%20of%20Engineering%20and%20Technology%20(NIET)%2C%20Greater%20Noida%20Uttar%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Greater Noida",
+      "established": 2001
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/jaypee-institute-of-information-technology-noida-20383/admission",
-      "name": "Jaypee Institute of Information Technology, Noida",
+      "name": "Jaypee Institute of Information Technology (JIIT Deemed University, Noida)",
       "shortName": "JIOITN",
       "location": "Uttar",
       "state": "Uttar Pradesh",
       "country": "India",
       "address": "Jaypee Institute of Information Technology, A-10, Sector-62",
-      "phone": "1202400973",
+      "phone": "0120-2400973",
       "email": "admission@jiit.ac.in",
-      "website": "https://www.jiit.ac.in/",
-      "rating": 4.5,
+      "website": "https://www.jiit.ac.in",
+      "rating": 4.8,
       "reviews": 136,
       "type": "Private",
       "ownership": "Private",
@@ -66750,31 +66825,44 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹3,25,000/Year",
+          "eligibility": "10+2 with 60% PCM + JEE Main / Merit",
+          "exams": "JEE Main, Merit",
+          "intake": "480"
+        },
+        {
+          "name": "B.Tech in Information Technology",
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹3,25,000/Year",
+          "eligibility": "10+2 with 60% PCM + JEE Main",
+          "exams": "JEE Main",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "name": "B.Tech in Electronics and Communication Engineering",
+          "title": "B.Tech in Electronics and Communication Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹3,00,000/Year",
+          "eligibility": "10+2 with 60% PCM + JEE Main",
+          "exams": "JEE Main",
+          "intake": "180"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "name": "Master of Business Administration (MBA - Jaypee Business School)",
+          "title": "Master of Business Administration (MBA - Jaypee Business School)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹3,50,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / XAT",
+          "exams": "CAT, MAT, XAT",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹94.25 LPA",
@@ -66806,22 +66894,24 @@
       "id": 773,
       "reviewsCount": 136,
       "image": "/images/campuses/campus_architecture_9.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jaypee%20Institute%20of%20Information%20Technology%2C%20Noida%20Uttar%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jaypee%20Institute%20of%20Information%20Technology%2C%20Noida%20Uttar%20Uttar%20Pradesh",
+      "city": "Noida",
+      "established": 2001
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/chandigarh-university-up-campus-lucknow-229904/admission",
-      "name": "Chandigarh University, UP Campus, Lucknow",
+      "name": "Chandigarh University (Lucknow Campus, Sultanpur Road)",
       "shortName": "CUUCL",
       "location": "Uttar",
       "state": "Uttar Pradesh",
       "country": "India",
       "address": "Chandigarh University, Lucknow - Kanpur Highway - 27",
-      "phone": "9646001333",
+      "phone": "0522-3510000",
       "email": "info@culko.in",
       "website": "https://www.cuchd.in",
       "rating": 4.5,
       "reviews": 455,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -66841,31 +66931,44 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹1,80,000/Year",
+          "eligibility": "10+2 with 50% PCM + CUCET",
+          "exams": "CUCET",
+          "intake": "180"
         },
         {
+          "name": "B.Tech in Artificial Intelligence & Data Science",
           "title": "B.Tech in Artificial Intelligence & Data Science",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹1,80,000/Year",
+          "eligibility": "10+2 with 50% PCM + CUCET",
+          "exams": "CUCET",
+          "intake": "120"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,70,000/Year",
+          "eligibility": "Graduation (50%+) + CUCET / CAT",
+          "exams": "CUCET, CAT",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 in any stream (50%+)",
+          "exams": "CUCET, Merit",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹23 LPA",
@@ -66896,20 +66999,22 @@
       "reviewsCount": 455,
       "image": "/images/campuses/campus_architecture_1.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chandigarh%20University%2C%20UP%20Campus%2C%20Lucknow%20Uttar%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Lucknow",
+      "established": 2024
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/madan-mohan-malviya-university-of-technology-gorakhpur-42983/admission",
-      "name": "Madan Mohan Malviya University of Technology, Gorakhpur",
+      "name": "Madan Mohan Malaviya University of Technology (MMMUT Gorakhpur)",
       "shortName": "MMMUOT",
       "location": "Uttar",
       "state": "Uttar Pradesh",
       "country": "India",
       "address": "Deoria Road, Singhariya, Kunraghat",
-      "phone": "9235500507",
+      "phone": "0551-2273804",
       "email": "admission2023@mmmut.ac.in",
-      "website": "http://www.mmmut.ac.in",
-      "rating": 4.5,
+      "website": "https://www.mmmut.ac.in",
+      "rating": 4.7,
       "reviews": 294,
       "type": "Public/Government",
       "ownership": "Private",
@@ -66931,31 +67036,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹90,000/Year",
+          "eligibility": "10+2 with PCM (55%+) + JEE Main + MMMUT Counselling",
+          "exams": "JEE Main",
+          "intake": "180"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "name": "B.Tech in Electronics and Communication Engineering",
+          "title": "B.Tech in Electronics and Communication Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹90,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main",
+          "exams": "JEE Main",
+          "intake": "150"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "name": "B.Tech in Mechanical Engineering",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹90,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main",
+          "exams": "JEE Main",
+          "intake": "150"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "75"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "BCA/B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹59 LPA",
@@ -66986,21 +67114,23 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 775,
       "reviewsCount": 294,
-      "image": "https://img.jagranjosh.com/images/2024/January/2312024/10590482_878502508835287_3709705822704633044_n.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Madan%20Mohan%20Malviya%20University%20of%20Technology%2C%20Gorakhpur%20Uttar%20Uttar%20Pradesh"
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Madan%20Mohan%20Malviya%20University%20of%20Technology%2C%20Gorakhpur%20Uttar%20Uttar%20Pradesh",
+      "city": "Gorakhpur",
+      "established": 1962
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/aligarh-muslim-university-29839",
-      "name": "Aligarh Muslim University",
+      "name": "Aligarh Muslim University (AMU Central University, Aligarh)",
       "shortName": "AMU",
       "location": "Uttar",
       "state": "Uttar Pradesh",
       "country": "India",
       "address": "Uttar, Uttar Pradesh, India",
-      "phone": "05712700920",
+      "phone": "0571-2700920",
       "email": "amupro@amu.ac.in",
       "website": "https://www.amu.ac.in",
-      "rating": 4.5,
+      "rating": 4.9,
       "reviews": 84,
       "type": "Public/Government",
       "ownership": "Private",
@@ -67022,22 +67152,54 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS - JNMC AMU)",
+          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS - JNMC AMU)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
+          "fees": "₹40,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
           "intake": "150"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
+          "name": "B.Tech in Computer Engineering (ZHCET AMU)",
+          "title": "B.Tech in Computer Engineering (ZHCET AMU)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with PCM (50%+) + AMU Entrance",
+          "exams": "AMU Test",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Dental Surgery (BDS - Dr. Z.A. Dental College)",
+          "title": "Bachelor of Dental Surgery (BDS - Dr. Z.A. Dental College)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
           "intake": "40"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "Graduation (50%+) + AMU MBA Test",
+          "exams": "AMU Test",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Laws (B.A. LL.B Integrated)",
+          "title": "Bachelor of Laws (B.A. LL.B Integrated)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹20,000/Year",
+          "eligibility": "10+2 with 50%+ + AMU Law Test",
+          "exams": "AMU Test",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -67068,7 +67230,9 @@
       "id": 776,
       "reviewsCount": 84,
       "image": "/images/campuses/campus_aligarh_muslim_university.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Aligarh%20Muslim%20University%20Uttar%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Aligarh%20Muslim%20University%20Uttar%20Uttar%20Pradesh",
+      "city": "Aligarh",
+      "established": 1875
     },
     {
       "id": 777,
@@ -67132,13 +67296,13 @@
     },
     {
       "id": 778,
-      "name": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY",
+      "name": "Babu Banarasi Das Northern India Institute of Technology (BBDNIIT Lucknow)",
       "shortName": "Course Institute-1",
       "location": "LUCKNOW",
       "state": "Uttar Pradesh",
       "address": "SECTOR-II, DR. AKHILESH DAS NAGAR, FAIZABAD ROAD,CHINHAT",
-      "phone": "0123-456789",
-      "website": "https://www.babubanarasidas.edu.in",
+      "phone": "0522-6196222",
+      "website": "https://bbdniit.ac.in",
       "rating": 4.5,
       "reviews": 2052,
       "type": "Private",
@@ -67158,13 +67322,44 @@
       ],
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in Electrical and Electronics Engineering",
+          "title": "B.Tech in Electrical and Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with PCM/PCB (45%+)",
+          "exams": "CUET, Merit",
+          "intake": "100"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -67184,19 +67379,21 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 2052,
-      "image": "https://img.studyclap.com/img/institute/college/773x343/3642/bbdniit-lucknow-campus-building-db8167.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BABU%20BANARASI%20DAS%20NORTHERN%20INDIA%20INSTITUTE%20OF%20TECHNOLOGY%20LUCKNOW%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BABU%20BANARASI%20DAS%20NORTHERN%20INDIA%20INSTITUTE%20OF%20TECHNOLOGY%20LUCKNOW%20Uttar%20Pradesh",
+      "city": "Lucknow",
+      "established": 1999
     },
     {
       "id": 779,
-      "name": "COLLEGE OF MANAGEMENT STUDIES",
+      "name": "College of Management Studies (CMS Kanpur, Juhi GT Road)",
       "shortName": "Course Institute-1",
       "location": "UNNAO",
       "state": "Uttar Pradesh",
       "address": "REGENDRA SWARUP KNOWLEDGE CITY, KNP-LKO NH-27, POLE NO.- 70-71, KADER PATARI, HADAHA, UNNAO",
-      "phone": "0123-456789",
-      "website": "https://www.collegeofmanage.edu.in",
+      "phone": "0512-2603848",
+      "website": "http://cmskanpur.edu.in",
       "rating": 4.5,
       "reviews": 1921,
       "type": "Private",
@@ -67216,13 +67413,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 300,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "300"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "240"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG / MAT",
+          "exams": "CUET-PG, MAT",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "BCA/B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -67242,19 +67470,21 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1921,
-      "image": "https://www.vidyavision.com/CollegeUploads/Photos/2025-12-2-11-22-12_a (7).jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20MANAGEMENT%20STUDIES%20UNNAO%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=COLLEGE%20OF%20MANAGEMENT%20STUDIES%20UNNAO%20Uttar%20Pradesh",
+      "city": "Kanpur",
+      "established": 1999
     },
     {
       "id": 780,
-      "name": "BEACON INSTITUTE OF TECHNOLOGY",
+      "name": "Beacon Institute of Technology (BIT Meerut, Partapur Bypass)",
       "shortName": "Course Institute-1",
       "location": "MEERUT",
       "state": "Uttar Pradesh",
       "address": "BY PASS ROAD PARTAPUR MEERUT",
-      "phone": "0123-456789",
-      "website": "https://www.beaconinstitute.edu.in",
+      "phone": "0121-2440316",
+      "website": "https://beacon.ac.in",
       "rating": 4.5,
       "reviews": 1617,
       "type": "Private",
@@ -67274,13 +67504,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "240"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 240,
-          "eligibility": "As per norms"
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Education (B.Ed)",
+          "title": "Bachelor of Education (B.Ed)",
+          "division": "Undergraduate",
+          "duration": "2 Years",
+          "fees": "₹51,250/Year",
+          "eligibility": "Graduation (50%+) + UP B.Ed JEE",
+          "exams": "UP B.Ed JEE",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -67300,9 +67561,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1617,
-      "image": "https://beacon.ac.in/wp-content/uploads/slider/cache/e6440cdd59e0814251ded77df50eca2f/Main-building.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BEACON%20INSTITUTE%20OF%20TECHNOLOGY%20MEERUT%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BEACON%20INSTITUTE%20OF%20TECHNOLOGY%20MEERUT%20Uttar%20Pradesh",
+      "city": "Meerut",
+      "established": 2004
     },
     {
       "id": 781,
