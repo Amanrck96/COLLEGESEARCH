@@ -12463,5 +12463,95 @@
     "type": "Private",
     "website": "https://bfcet.com",
     "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1351,
+    "name": "Longowal Polytechnic & Pharmacy College, Dera Bassi",
+    "location": "SAS Nagar (Mohali)",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://longowalgroups.com",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1352,
+    "name": "Government Institute of Leather & Footwear Technology (GILFT), Jalandhar",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gilftjalandhar.com",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1353,
+    "name": "Khalsa College of Engineering & Technology (KCET), Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://khalsaengineering.co.in",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1354,
+    "name": "CGC College of Engineering, Landran, Mohali",
+    "location": "Mohali",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.cgc.edu.in",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1355,
+    "name": "S. Sukhjinder Singh Polytechnic & Pharmacy College, Gurdaspur",
+    "location": "Gurdaspur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://ssseg.org",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1356,
+    "name": "Malwa Polytechnic College, Faridkot",
+    "location": "Faridkot",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://malwapolytechnic.com",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1357,
+    "name": "Bhai Gurdas Polytechnic College, Sangrur",
+    "location": "Sangrur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://bgiet.ac.in",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1358,
+    "name": "CT Institute of Management & IT, Maqsudan, Jalandhar",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://ctgroup.in",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1359,
+    "name": "Apeejay Institute of Management & Engineering Technical Campus (AIMETC), Jalandhar",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://aimetc.apeejay.edu",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1360,
+    "name": "Pathankot Polytechnic College, Pathankot",
+    "location": "Pathankot",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://pathankotpolytechnic.com",
+    "verifiedAt": "2026-11-01T19:14:19.354Z"
   }
 ]

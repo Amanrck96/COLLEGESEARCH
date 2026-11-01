@@ -1630,10 +1630,10 @@
     1106
   ],
   "last_batch_completed": 159,
-  "verifiedColleges": 1650,
-  "lastUpdated": "2026-11-01T18:56:21.281Z",
-  "batchesCompleted": 165,
-  "currentBatch": 166,
+  "verifiedColleges": 1660,
+  "lastUpdated": "2026-11-01T19:14:19.354Z",
+  "batchesCompleted": 166,
+  "currentBatch": 167,
   "batchHistory": [
     {
       "batch": 160,
@@ -1741,6 +1741,24 @@
         1348,
         1349,
         1350
+      ]
+    },
+    {
+      "batch": 166,
+      "verifiedCount": 10,
+      "totalVerified": 1660,
+      "timestamp": "2026-11-01T19:14:19.354Z",
+      "collegeIds": [
+        1351,
+        1352,
+        1353,
+        1354,
+        1355,
+        1356,
+        1357,
+        1358,
+        1359,
+        1360
       ]
     }
   ]

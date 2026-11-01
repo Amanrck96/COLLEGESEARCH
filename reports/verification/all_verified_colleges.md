@@ -2479,3 +2479,17 @@
 | 1348 | Shaheed Bhagat Singh Polytechnic College, Patti, Tarn Taran | Tarn Taran | Punjab | Private | [https://sbsgroup.co.in](https://sbsgroup.co.in) |
 | 1349 | Swami Vivekanand Polytechnic College, Banur | Patiala | Punjab | Private | [https://sviet.ac.in](https://sviet.ac.in) |
 | 1350 | Baba Farid College of Engineering & Technology, Bathinda | Bathinda | Punjab | Private | [https://bfcet.com](https://bfcet.com) |
+
+### Batch 166 (Colleges 1,651–1,660) — Punjab Engineering & Technical Institutions
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1351 | Longowal Polytechnic & Pharmacy College, Dera Bassi | SAS Nagar (Mohali) | Punjab | Private | [https://longowalgroups.com](https://longowalgroups.com) |
+| 1352 | Government Institute of Leather & Footwear Technology (GILFT), Jalandhar | Jalandhar | Punjab | Public/Government | [https://gilftjalandhar.com](https://gilftjalandhar.com) |
+| 1353 | Khalsa College of Engineering & Technology (KCET), Amritsar | Amritsar | Punjab | Private | [https://khalsaengineering.co.in](https://khalsaengineering.co.in) |
+| 1354 | CGC College of Engineering, Landran, Mohali | Mohali | Punjab | Private | [https://www.cgc.edu.in](https://www.cgc.edu.in) |
+| 1355 | S. Sukhjinder Singh Polytechnic & Pharmacy College, Gurdaspur | Gurdaspur | Punjab | Private | [https://ssseg.org](https://ssseg.org) |
+| 1356 | Malwa Polytechnic College, Faridkot | Faridkot | Punjab | Private | [https://malwapolytechnic.com](https://malwapolytechnic.com) |
+| 1357 | Bhai Gurdas Polytechnic College, Sangrur | Sangrur | Punjab | Private | [https://bgiet.ac.in](https://bgiet.ac.in) |
+| 1358 | CT Institute of Management & IT, Maqsudan, Jalandhar | Jalandhar | Punjab | Private | [https://ctgroup.in](https://ctgroup.in) |
+| 1359 | Apeejay Institute of Management & Engineering Technical Campus (AIMETC), Jalandhar | Jalandhar | Punjab | Private | [https://aimetc.apeejay.edu](https://aimetc.apeejay.edu) |
+| 1360 | Pathankot Polytechnic College, Pathankot | Pathankot | Punjab | Private | [https://pathankotpolytechnic.com](https://pathankotpolytechnic.com) |
