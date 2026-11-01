@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1210 / 12,660**  
-**Roadmap Progress**: **121.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1220 / 12,660**  
+**Roadmap Progress**: **122.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1824,4 +1824,19 @@
 | **872** | Bawa N.S. Janta Institute of Management & Technology (BNSJIMT) | Private | Yamuna Nagar, Haryana - 135133 | [www.bnsjimt.org](https://www.bnsjimt.org) |
 | **873** | MKM College of Management & Information Technology for Girls | Private | Palwal, Haryana - 121106 | [mkmgroupofcolleges.com](https://mkmgroupofcolleges.com) |
 | **874** | Government Polytechnic Nanakpur | Public/Government | Panchkula, Haryana - 134102 | [gpnanakpur.ac.in](https://gpnanakpur.ac.in) |
+
+### Batch 122 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **875** | Government Polytechnic Chhapar | Public/Government | Charkhi Dadri, Haryana - 127507 | [gpchhapar.ac.in](https://gpchhapar.ac.in) |
+| **876** | Ch. Ranbir Singh State Institute of Engineering and Technology (CRSSIET Jhajjar) | Public/Government | Jhajjar, Haryana - 124103 | [crssiet.ac.in](https://crssiet.ac.in) |
+| **877** | Maharishi Markandeshwar Engineering College (MMEC Mullana) | Private | Ambala, Haryana - 133207 | [www.mmumullana.org](https://www.mmumullana.org) |
+| **878** | Government Polytechnic Indri (GP Indri Mewat) | Public/Government | Nuh (Mewat), Haryana - 122107 | [gpindri.ac.in](https://gpindri.ac.in) |
+| **879** | JK Business School (JKBS Gurugram) | Private | Gurugram, Haryana - 122102 | [www.jkbschool.org](https://www.jkbschool.org) |
+| **880** | Manav Rachna University (MRU Faridabad) | Private | Faridabad, Haryana - 121004 | [mru.edu.in](https://mru.edu.in) |
+| **881** | Ch. Ranbir Singh Government Polytechnic Hathnikund | Public/Government | Yamunanagar, Haryana - 135106 | [gpchhatnikund.ac.in](https://gpchhatnikund.ac.in) |
+| **882** | Government Polytechnic Mandkola | Public/Government | Palwal, Haryana - 121103 | [gpmandkola.ac.in](https://gpmandkola.ac.in) |
+| **883** | XLRI Xavier School of Management, Delhi-NCR Campus | Private | Jhajjar (Delhi-NCR), Haryana - 124103 | [delhi.xlri.ac.in](https://delhi.xlri.ac.in) |
+| **884** | Indira Gandhi University Meerpur (IGU Rewari) | Public/Government | Rewari, Haryana - 122502 | [igu.ac.in](https://igu.ac.in) |
 

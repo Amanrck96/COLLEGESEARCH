@@ -9073,5 +9073,80 @@
         "website": "https://gpnanakpur.ac.in"
       }
     ]
+  },
+  {
+    "batch": 122,
+    "items": [
+      {
+        "id": 875,
+        "name": "Government Polytechnic Chhapar",
+        "type": "Public/Government",
+        "location": "Charkhi Dadri, Haryana - 127507",
+        "website": "https://gpchhapar.ac.in"
+      },
+      {
+        "id": 876,
+        "name": "Ch. Ranbir Singh State Institute of Engineering and Technology (CRSSIET Jhajjar)",
+        "type": "Public/Government",
+        "location": "Jhajjar, Haryana - 124103",
+        "website": "https://crssiet.ac.in"
+      },
+      {
+        "id": 877,
+        "name": "Maharishi Markandeshwar Engineering College (MMEC Mullana)",
+        "type": "Private",
+        "location": "Ambala, Haryana - 133207",
+        "website": "https://www.mmumullana.org"
+      },
+      {
+        "id": 878,
+        "name": "Government Polytechnic Indri (GP Indri Mewat)",
+        "type": "Public/Government",
+        "location": "Nuh (Mewat), Haryana - 122107",
+        "website": "https://gpindri.ac.in"
+      },
+      {
+        "id": 879,
+        "name": "JK Business School (JKBS Gurugram)",
+        "type": "Private",
+        "location": "Gurugram, Haryana - 122102",
+        "website": "https://www.jkbschool.org"
+      },
+      {
+        "id": 880,
+        "name": "Manav Rachna University (MRU Faridabad)",
+        "type": "Private",
+        "location": "Faridabad, Haryana - 121004",
+        "website": "https://mru.edu.in"
+      },
+      {
+        "id": 881,
+        "name": "Ch. Ranbir Singh Government Polytechnic Hathnikund",
+        "type": "Public/Government",
+        "location": "Yamunanagar, Haryana - 135106",
+        "website": "https://gpchhatnikund.ac.in"
+      },
+      {
+        "id": 882,
+        "name": "Government Polytechnic Mandkola",
+        "type": "Public/Government",
+        "location": "Palwal, Haryana - 121103",
+        "website": "https://gpmandkola.ac.in"
+      },
+      {
+        "id": 883,
+        "name": "XLRI Xavier School of Management, Delhi-NCR Campus",
+        "type": "Private",
+        "location": "Jhajjar (Delhi-NCR), Haryana - 124103",
+        "website": "https://delhi.xlri.ac.in"
+      },
+      {
+        "id": 884,
+        "name": "Indira Gandhi University Meerpur (IGU Rewari)",
+        "type": "Public/Government",
+        "location": "Rewari, Haryana - 122502",
+        "website": "https://igu.ac.in"
+      }
+    ]
   }
 ]
