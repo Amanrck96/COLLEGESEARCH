@@ -12283,5 +12283,95 @@
     "type": "Public/Government",
     "website": "https://gpcrupnagar.org",
     "verifiedAt": "2026-11-01T18:50:09.279Z"
+  },
+  {
+    "id": 1331,
+    "name": "Ludhiana Group of Colleges (LGC Chaukiman)",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://lgc.edu.in",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1332,
+    "name": "Ghubaya College of Engineering & Technology, Jalalabad",
+    "location": "Fazilka",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://ghubayagroup.org",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1333,
+    "name": "LM Thapar School of Management (LMTSM Dera Bassi)",
+    "location": "Mohali",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://lmtsm.thapar.edu",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1334,
+    "name": "St. Soldier Group of Institutions, Jalandhar",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://stsoldierinstitutes.com",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1335,
+    "name": "Department of Electronics and Communication Engineering, Punjabi University",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://pupdepartments.ac.in",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1336,
+    "name": "Bharat Group of Colleges, Sardulgarh",
+    "location": "Mansa",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://bharatgroupofcolleges.com",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1337,
+    "name": "Punjab Institute of Textile Technology, Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "http://pittasr.in",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1338,
+    "name": "KC Polytechnic College, Nawanshahr",
+    "location": "Shahid Bhagat Singh Nagar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://kcnsw.com",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1339,
+    "name": "Ramgarhia Polytechnic College, Phagwara",
+    "location": "Kapurthala",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://ramgarhiapolytechnic.com",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1340,
+    "name": "Guru Nanak Institute of Engineering & Technology, Hoshiarpur",
+    "location": "Hoshiarpur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://gnduhoshiarpur.org",
+    "verifiedAt": "2026-11-01T18:53:03.346Z"
   }
 ]

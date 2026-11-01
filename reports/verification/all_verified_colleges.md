@@ -2451,3 +2451,17 @@
 | 1328 | SFC Institute of Pharmacy, Moga | Moga | Punjab | Private | [https://sfcinstitute.in](https://sfcinstitute.in) |
 | 1329 | Innocent Hearts Group of Institutions, Loharan, Jalandhar | Jalandhar | Punjab | Private | [https://ihgi.in](https://ihgi.in) |
 | 1330 | Government Polytechnic College, Rupnagar (Ropar) | Rupnagar | Punjab | Public/Government | [https://gpcrupnagar.org](https://gpcrupnagar.org) |
+
+### Batch 164 (Colleges 1,631–1,640) — Punjab Technical, Management & Textile Institutions
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1331 | Ludhiana Group of Colleges (LGC Chaukiman) | Ludhiana | Punjab | Private | [https://lgc.edu.in](https://lgc.edu.in) |
+| 1332 | Ghubaya College of Engineering & Technology, Jalalabad | Fazilka | Punjab | Private | [https://ghubayagroup.org](https://ghubayagroup.org) |
+| 1333 | LM Thapar School of Management (LMTSM Dera Bassi) | Mohali | Punjab | Private | [https://lmtsm.thapar.edu](https://lmtsm.thapar.edu) |
+| 1334 | St. Soldier Group of Institutions, Jalandhar | Jalandhar | Punjab | Private | [https://stsoldierinstitutes.com](https://stsoldierinstitutes.com) |
+| 1335 | Department of Electronics and Communication Engineering, Punjabi University | Patiala | Punjab | Public/Government | [https://pupdepartments.ac.in](https://pupdepartments.ac.in) |
+| 1336 | Bharat Group of Colleges, Sardulgarh | Mansa | Punjab | Private | [https://bharatgroupofcolleges.com](https://bharatgroupofcolleges.com) |
+| 1337 | Punjab Institute of Textile Technology, Amritsar | Amritsar | Punjab | Public/Government | [http://pittasr.in](http://pittasr.in) |
+| 1338 | KC Polytechnic College, Nawanshahr | Shahid Bhagat Singh Nagar | Punjab | Private | [https://kcnsw.com](https://kcnsw.com) |
+| 1339 | Ramgarhia Polytechnic College, Phagwara | Kapurthala | Punjab | Public/Government | [https://ramgarhiapolytechnic.com](https://ramgarhiapolytechnic.com) |
+| 1340 | Guru Nanak Institute of Engineering & Technology, Hoshiarpur | Hoshiarpur | Punjab | Private | [https://gnduhoshiarpur.org](https://gnduhoshiarpur.org) |
