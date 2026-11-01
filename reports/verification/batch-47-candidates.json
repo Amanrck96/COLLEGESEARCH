@@ -1,0 +1,272 @@
+[
+  {
+    "id": 21,
+    "name": "IIT Patna",
+    "address": "Bihar, Bihar, India",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_iit_patna.png",
+    "website": "https://www.iitp.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "NIT Patna",
+    "address": "J5CC+8Q9, Patna University Campus",
+    "state": "Bihar",
+    "img": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://www.nitp.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "IIT Patna IIT Patna",
+    "address": "Bihar, Bihar, India",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_iit_patna.png",
+    "website": "https://www.iitp.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "IIT Palakkad",
+    "address": "Kerala, Kerala, India",
+    "state": "Kerala",
+    "img": "https://iitpkd.ac.in/sites/default/files/2023-11/sahya4_0.jpeg",
+    "website": "https://www.iitpkd.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "IIT Palakkad IIT Palakkad",
+    "address": "Kerala, Kerala, India",
+    "state": "Kerala",
+    "img": "https://img.jagranjosh.com/images/2022/April/1242022/dji_0126_0.jpg",
+    "website": "https://www.iitpkd.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "NIT Durgapur",
+    "address": "West, West Bengal, India",
+    "state": "West Bengal",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://nitdgp.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "NIT Durgapur NIT Durgapur",
+    "address": "West, West Bengal, India",
+    "state": "West Bengal",
+    "img": "https://nitdgp.ac.in/uploads/acadimg/assets/images/infra/img5.jpeg",
+    "website": "https://nitdgp.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "NIFTEM",
+    "address": "Plot No. 97, Sector 56 HSIIDC Industrial Estate Kundli",
+    "state": "Haryana",
+    "img": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://niftem.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "NIT Kurukshetra",
+    "address": "National Institute of Technology,, Mirzapur Part",
+    "state": "Haryana",
+    "img": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.nitkkr.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "IIT Ropar",
+    "address": "Punjab, Punjab, India",
+    "state": "Punjab",
+    "img": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.iitrpr.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  }
+]

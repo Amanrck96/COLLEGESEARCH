@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **460 / 12,660**  
-**Roadmap Progress**: **46.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **470 / 12,660**  
+**Roadmap Progress**: **47.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -699,4 +699,19 @@
 | **18** | National Law University Delhi (NLU Delhi - Law Programs) | Public/Government (Statutory State University) | Dwarka, New Delhi - 110078 | [nludelhi.ac.in](https://nludelhi.ac.in) |
 | **19** | Indian Institute of Technology Guwahati (IIT Guwahati) | Institute of National Importance | Guwahati - 781039, Assam | [www.iitg.ac.in](https://www.iitg.ac.in) |
 | **20** | All India Institute of Medical Sciences (AIIMS New Delhi - Postgraduate) | Institute of National Importance | Ansari Nagar East, New Delhi - 110029 | [www.aiims.edu](https://www.aiims.edu) |
+
+### Batch 47 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **21** | Indian Institute of Technology Patna (IIT Patna) | Institute of National Importance | Patna - 801106, Bihar | [www.iitp.ac.in](https://www.iitp.ac.in) |
+| **22** | National Institute of Technology Patna (NIT Patna) | Institute of National Importance | Patna - 800005, Bihar | [www.nitp.ac.in](https://www.nitp.ac.in) |
+| **23** | Indian Institute of Technology Patna (IIT Patna - Research Campus) | Institute of National Importance | Patna - 801106, Bihar | [www.iitp.ac.in](https://www.iitp.ac.in) |
+| **24** | Indian Institute of Technology Palakkad (IIT Palakkad) | Institute of National Importance | Palakkad - 678557, Kerala | [www.iitpkd.ac.in](https://www.iitpkd.ac.in) |
+| **25** | Indian Institute of Technology Palakkad (IIT Palakkad - Nila Campus) | Institute of National Importance | Palakkad - 678623, Kerala | [www.iitpkd.ac.in](https://www.iitpkd.ac.in) |
+| **26** | National Institute of Technology Durgapur (NIT Durgapur) | Institute of National Importance | Durgapur - 713209, West Bengal | [nitdgp.ac.in](https://nitdgp.ac.in) |
+| **27** | National Institute of Technology Durgapur (NIT Durgapur - PG Programs) | Institute of National Importance | Durgapur - 713209, West Bengal | [nitdgp.ac.in](https://nitdgp.ac.in) |
+| **28** | National Institute of Food Technology Entrepreneurship and Management (NIFTEM Kundli) | Institute of National Importance | Sonipat - 131028, Haryana | [niftem.ac.in](https://niftem.ac.in) |
+| **29** | National Institute of Technology Kurukshetra (NIT Kurukshetra) | Institute of National Importance | Kurukshetra - 136119, Haryana | [www.nitkkr.ac.in](https://www.nitkkr.ac.in) |
+| **30** | Indian Institute of Technology Ropar (IIT Ropar) | Institute of National Importance | Rupnagar (Ropar) - 140001, Punjab | [www.iitrpr.ac.in](https://www.iitrpr.ac.in) |
 

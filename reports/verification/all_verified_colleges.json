@@ -3448,5 +3448,80 @@
         "website": "https://www.aiims.edu"
       }
     ]
+  },
+  {
+    "batch": 47,
+    "items": [
+      {
+        "id": 21,
+        "name": "Indian Institute of Technology Patna (IIT Patna)",
+        "type": "Institute of National Importance",
+        "location": "Patna - 801106, Bihar",
+        "website": "https://www.iitp.ac.in"
+      },
+      {
+        "id": 22,
+        "name": "National Institute of Technology Patna (NIT Patna)",
+        "type": "Institute of National Importance",
+        "location": "Patna - 800005, Bihar",
+        "website": "https://www.nitp.ac.in"
+      },
+      {
+        "id": 23,
+        "name": "Indian Institute of Technology Patna (IIT Patna - Research Campus)",
+        "type": "Institute of National Importance",
+        "location": "Patna - 801106, Bihar",
+        "website": "https://www.iitp.ac.in"
+      },
+      {
+        "id": 24,
+        "name": "Indian Institute of Technology Palakkad (IIT Palakkad)",
+        "type": "Institute of National Importance",
+        "location": "Palakkad - 678557, Kerala",
+        "website": "https://www.iitpkd.ac.in"
+      },
+      {
+        "id": 25,
+        "name": "Indian Institute of Technology Palakkad (IIT Palakkad - Nila Campus)",
+        "type": "Institute of National Importance",
+        "location": "Palakkad - 678623, Kerala",
+        "website": "https://www.iitpkd.ac.in"
+      },
+      {
+        "id": 26,
+        "name": "National Institute of Technology Durgapur (NIT Durgapur)",
+        "type": "Institute of National Importance",
+        "location": "Durgapur - 713209, West Bengal",
+        "website": "https://nitdgp.ac.in"
+      },
+      {
+        "id": 27,
+        "name": "National Institute of Technology Durgapur (NIT Durgapur - PG Programs)",
+        "type": "Institute of National Importance",
+        "location": "Durgapur - 713209, West Bengal",
+        "website": "https://nitdgp.ac.in"
+      },
+      {
+        "id": 28,
+        "name": "National Institute of Food Technology Entrepreneurship and Management (NIFTEM Kundli)",
+        "type": "Institute of National Importance",
+        "location": "Sonipat - 131028, Haryana",
+        "website": "https://niftem.ac.in"
+      },
+      {
+        "id": 29,
+        "name": "National Institute of Technology Kurukshetra (NIT Kurukshetra)",
+        "type": "Institute of National Importance",
+        "location": "Kurukshetra - 136119, Haryana",
+        "website": "https://www.nitkkr.ac.in"
+      },
+      {
+        "id": 30,
+        "name": "Indian Institute of Technology Ropar (IIT Ropar)",
+        "type": "Institute of National Importance",
+        "location": "Rupnagar (Ropar) - 140001, Punjab",
+        "website": "https://www.iitrpr.ac.in"
+      }
+    ]
   }
 ]
