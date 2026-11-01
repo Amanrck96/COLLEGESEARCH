@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1540 / 12,660**  
-**Roadmap Progress**: **154.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1550 / 12,660**  
+**Roadmap Progress**: **155.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2319,4 +2319,19 @@
 | **1223** | Indian Institute of Space Science and Technology, Thiruvananthapuram | Public/Government | Thiruvananthapuram, Kerala - 695547 | [www.iist.ac.in](https://www.iist.ac.in) |
 | **1224** | LEAD College of Management, Palakkad | Private | Palakkad, Kerala - 678009 | [lead.ac.in](https://lead.ac.in) |
 | **1225** | Institute of Management in Kerala, University of Kerala, Thiruvananthapuram | Public/Government | Thiruvananthapuram, Kerala - 695581 | [imk.keralauniversity.ac.in](https://imk.keralauniversity.ac.in) |
+
+### Batch 155 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1226** | Mastermind Institute of Management, IT and Engineering (MIMIE Kochi) | Private | Kochi, Kerala - 682030 | [masterminds.edu.in](https://masterminds.edu.in) |
+| **1227** | SCMS Cochin School of Business, Kochi | Private | Kochi, Kerala - 683106 | [scms.edu.in](https://scms.edu.in) |
+| **1228** | FISAT Business School (FBS), Angamaly, Kochi | Private | Ernakulam, Kerala - 683577 | [fbs.ac.in](https://fbs.ac.in) |
+| **1229** | Indian Maritime University (IMU), Kochi Campus | Public/Government | Kochi, Kerala - 682029 | [www.imu.edu.in](https://www.imu.edu.in) |
+| **1230** | Indian School of Business Management and Administration, Kochi | Private | Kochi, Kerala - 682015 | [www.isbm.org.in](https://www.isbm.org.in) |
+| **1231** | De Paul Institute of Science and Technology (DiST), Angamaly | Private | Ernakulam, Kerala - 683573 | [depaul.edu.in](https://depaul.edu.in) |
+| **1232** | School of Distance Education, University of Kerala | Public/Government | Thiruvananthapuram, Kerala - 695034 | [www.ideku.net](https://www.ideku.net) |
+| **1233** | Amity Global Business School, Kochi | Private | Kochi, Kerala - 682035 | [kochi.agbs.in](https://kochi.agbs.in) |
+| **1234** | Cochin University of Science and Technology (CUSAT), Kochi | Public/Government | Kochi, Kerala - 682022 | [cusat.ac.in](https://cusat.ac.in) |
+| **1235** | Amrita School of Business, Amritapuri | Private | Kollam, Kerala - 690525 | [www.amrita.edu](https://www.amrita.edu/school/business/amritapuri) |
 

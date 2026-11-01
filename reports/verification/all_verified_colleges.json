@@ -11548,5 +11548,80 @@
         "website": "https://imk.keralauniversity.ac.in"
       }
     ]
+  },
+  {
+    "batch": 155,
+    "items": [
+      {
+        "id": 1226,
+        "name": "Mastermind Institute of Management, IT and Engineering (MIMIE Kochi)",
+        "type": "Private",
+        "location": "Kochi, Kerala - 682030",
+        "website": "https://masterminds.edu.in"
+      },
+      {
+        "id": 1227,
+        "name": "SCMS Cochin School of Business, Kochi",
+        "type": "Private",
+        "location": "Kochi, Kerala - 683106",
+        "website": "https://scms.edu.in"
+      },
+      {
+        "id": 1228,
+        "name": "FISAT Business School (FBS), Angamaly, Kochi",
+        "type": "Private",
+        "location": "Ernakulam, Kerala - 683577",
+        "website": "https://fbs.ac.in"
+      },
+      {
+        "id": 1229,
+        "name": "Indian Maritime University (IMU), Kochi Campus",
+        "type": "Public/Government",
+        "location": "Kochi, Kerala - 682029",
+        "website": "https://www.imu.edu.in"
+      },
+      {
+        "id": 1230,
+        "name": "Indian School of Business Management and Administration, Kochi",
+        "type": "Private",
+        "location": "Kochi, Kerala - 682015",
+        "website": "https://www.isbm.org.in"
+      },
+      {
+        "id": 1231,
+        "name": "De Paul Institute of Science and Technology (DiST), Angamaly",
+        "type": "Private",
+        "location": "Ernakulam, Kerala - 683573",
+        "website": "https://depaul.edu.in"
+      },
+      {
+        "id": 1232,
+        "name": "School of Distance Education, University of Kerala",
+        "type": "Public/Government",
+        "location": "Thiruvananthapuram, Kerala - 695034",
+        "website": "https://www.ideku.net"
+      },
+      {
+        "id": 1233,
+        "name": "Amity Global Business School, Kochi",
+        "type": "Private",
+        "location": "Kochi, Kerala - 682035",
+        "website": "https://kochi.agbs.in"
+      },
+      {
+        "id": 1234,
+        "name": "Cochin University of Science and Technology (CUSAT), Kochi",
+        "type": "Public/Government",
+        "location": "Kochi, Kerala - 682022",
+        "website": "https://cusat.ac.in"
+      },
+      {
+        "id": 1235,
+        "name": "Amrita School of Business, Amritapuri",
+        "type": "Private",
+        "location": "Kollam, Kerala - 690525",
+        "website": "https://www.amrita.edu/school/business/amritapuri"
+      }
+    ]
   }
 ]
