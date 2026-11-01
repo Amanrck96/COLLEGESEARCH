@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1390 / 12,660**  
-**Roadmap Progress**: **139.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1400 / 12,660**  
+**Roadmap Progress**: **140.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2094,4 +2094,19 @@
 | **1062** | Vashisth Polytechnic College | Private | District Sri Ganganagar, Rajasthan - 335062 | [vashisthpolytechnic.com](https://vashisthpolytechnic.com) |
 | **1063** | Laxmi Devi Institute of Engineering & Technology | Private | Alwar, Rajasthan - 301028 | [lietalwar.org](https://lietalwar.org) |
 | **1064** | Government Polytechnic College, Jaisalmer | Public/Government | Jaisalmer, Rajasthan - 345001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcjaisalmer) |
+
+### Batch 140 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1065** | Government Polytechnic College, Dholpur | Public/Government | Dholpur, Rajasthan - 328001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcdholpur) |
+| **1066** | Government Polytechnic College, Hanumangarh | Public/Government | Hanumangarh Junction, Rajasthan - 335512 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpchanumangarh) |
+| **1067** | Faculty of Law, Jamia Millia Islamia | Public/Government | Okhla, New Delhi - 110025 | [www.jmi.ac.in](https://www.jmi.ac.in/law) |
+| **1068** | Symbiosis Law School, Pune | Private | Pune, Maharashtra - 411014 | [www.symlaw.ac.in](https://www.symlaw.ac.in) |
+| **1069** | Gujarat National Law University, Gandhinagar | Public/Government | Gandhinagar, Gujarat - 382426 | [www.gnlu.ac.in](https://www.gnlu.ac.in) |
+| **1070** | The West Bengal National University of Juridical Sciences | Public/Government | Kolkata, West Bengal - 700098 | [www.nujs.edu](https://www.nujs.edu) |
+| **1071** | NALSAR University of Law, Hyderabad | Public/Government | Hyderabad, Telangana - 500101 | [www.nalsar.ac.in](https://www.nalsar.ac.in) |
+| **1072** | National Law School of India University, Bangalore | Public/Government | Bengaluru, Karnataka - 560072 | [www.nls.ac.in](https://www.nls.ac.in) |
+| **1073** | Galgotias University | Private | Gautam Buddha Nagar, Uttar Pradesh - 203201 | [www.galgotiasuniversity.edu.in](https://www.galgotiasuniversity.edu.in) |
+| **1074** | Doon Business School | Private | Dehradun, Uttarakhand - 248011 | [www.doonbusinessschool.com](https://www.doonbusinessschool.com) |
 

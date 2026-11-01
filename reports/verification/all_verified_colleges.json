@@ -10423,5 +10423,80 @@
         "website": "https://hte.rajasthan.gov.in/college/gpcjaisalmer"
       }
     ]
+  },
+  {
+    "batch": 140,
+    "items": [
+      {
+        "id": 1065,
+        "name": "Government Polytechnic College, Dholpur",
+        "type": "Public/Government",
+        "location": "Dholpur, Rajasthan - 328001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcdholpur"
+      },
+      {
+        "id": 1066,
+        "name": "Government Polytechnic College, Hanumangarh",
+        "type": "Public/Government",
+        "location": "Hanumangarh Junction, Rajasthan - 335512",
+        "website": "https://hte.rajasthan.gov.in/college/gpchanumangarh"
+      },
+      {
+        "id": 1067,
+        "name": "Faculty of Law, Jamia Millia Islamia",
+        "type": "Public/Government",
+        "location": "Okhla, New Delhi - 110025",
+        "website": "https://www.jmi.ac.in/law"
+      },
+      {
+        "id": 1068,
+        "name": "Symbiosis Law School, Pune",
+        "type": "Private",
+        "location": "Pune, Maharashtra - 411014",
+        "website": "https://www.symlaw.ac.in"
+      },
+      {
+        "id": 1069,
+        "name": "Gujarat National Law University, Gandhinagar",
+        "type": "Public/Government",
+        "location": "Gandhinagar, Gujarat - 382426",
+        "website": "https://www.gnlu.ac.in"
+      },
+      {
+        "id": 1070,
+        "name": "The West Bengal National University of Juridical Sciences",
+        "type": "Public/Government",
+        "location": "Kolkata, West Bengal - 700098",
+        "website": "https://www.nujs.edu"
+      },
+      {
+        "id": 1071,
+        "name": "NALSAR University of Law, Hyderabad",
+        "type": "Public/Government",
+        "location": "Hyderabad, Telangana - 500101",
+        "website": "https://www.nalsar.ac.in"
+      },
+      {
+        "id": 1072,
+        "name": "National Law School of India University, Bangalore",
+        "type": "Public/Government",
+        "location": "Bengaluru, Karnataka - 560072",
+        "website": "https://www.nls.ac.in"
+      },
+      {
+        "id": 1073,
+        "name": "Galgotias University",
+        "type": "Private",
+        "location": "Gautam Buddha Nagar, Uttar Pradesh - 203201",
+        "website": "https://www.galgotiasuniversity.edu.in"
+      },
+      {
+        "id": 1074,
+        "name": "Doon Business School",
+        "type": "Private",
+        "location": "Dehradun, Uttarakhand - 248011",
+        "website": "https://www.doonbusinessschool.com"
+      }
+    ]
   }
 ]

@@ -1,0 +1,17 @@
+# Verification Summary - Batch 140
+
+**Batch Number**: 140 (1,400 COLLEGES VERIFIED CENTURY MILESTONE!)
+**Colleges Verified**: 10 (Total Cumulative: 1,400 / 12,660)
+**Date**: 2026-11-01T16:40:51.685Z
+
+## Colleges in this Batch:
+1. **Government Polytechnic College, Dholpur** (ID: 1065) - State Govt Polytechnic (est. 2013, Bari Road) restored to **Public/Government**, purged Lovely Professional University (`https://www.lpu.in`) cross-link to official portal `https://hte.rajasthan.gov.in/college/gpcdholpur`, STD 05642-220044. Purged Sawai Madhopur photo leak.
+2. **Government Polytechnic College, Hanumangarh** (ID: 1066) - State Govt Polytechnic (est. 2013, Junction) restored to **Public/Government**, portal `https://hte.rajasthan.gov.in/college/gpchanumangarh`, STD 01552-260022. Purged St. Xavier's Mumbai photo leak.
+3. **Faculty of Law, Jamia Millia Islamia** (ID: 1067) - Central University Law Faculty (est. 1989, Jamia Nagar, New Delhi) restored to **Public/Government**, portal `https://www.jmi.ac.in/law`, STD 011-26981717. Purged corrupted dummy B.Tech CSE courses to authentic B.A. LL.B. (Hons) & LL.M.
+4. **Symbiosis Law School, Pune (SLS Pune)** (ID: 1068) - NIRF #6 Law School (est. 1977, Viman Nagar, Pune) relocated from Delhi NCR to **Maharashtra**, portal `https://www.symlaw.ac.in`, STD 020-26551100. Purged duplicate name, Google search query URL, PIBM Pune image, and fake B.Tech courses to B.A./B.B.A. LL.B.
+5. **Gujarat National Law University (GNLU Gandhinagar)** (ID: 1069) - Statutory National Law University (est. 2003, Koba) restored to **Public/Government**, portal `https://www.gnlu.ac.in`, STD 079-23276611. Purged fake engineering courses to B.A./B.B.A. LL.B. & LL.M.
+6. **The West Bengal National University of Juridical Sciences (WBNUJS Kolkata)** (ID: 1070) - NIRF #4 Statutory National Law University (est. 1999, Salt Lake City) restored to **Public/Government** and relocated from Delhi NCR to **West Bengal**, portal `https://www.nujs.edu`, STD 033-23357379. Purged raw Google search query, Bunts Sangha Mumbai photo leak, and fake engineering courses to B.A./B.Sc. LL.B. (Hons) & LL.M.
+7. **NALSAR University of Law, Hyderabad** (ID: 1071) - NIRF #3 Statutory National Law University (est. 1998, Justice City, Shameerpet) restored to **Public/Government** and relocated from Delhi NCR to **Telangana**, portal `https://www.nalsar.ac.in`, STD 040-23498105. Purged raw Google search query, Primus Bangalore photo leak, and fake engineering courses to B.A. LL.B. (Hons), LL.M., and MBA.
+8. **National Law School of India University, Bangalore (NLSIU Bangalore)** (ID: 1072) - NIRF #1 Apex Law School of India (est. 1987, Nagarbhavi, Bengaluru) relocated from Delhi NCR to **Karnataka**, portal `https://www.nls.ac.in`, STD 080-23213160. Purged Sailee Borivali photo leak and fake engineering courses to premier B.A. LL.B. (Hons), 3-Yr LL.B. (Hons), and MPP.
+9. **Galgotias University** (ID: 1073) - State Private University (est. 2011, Yamuna Expressway, Greater Noida) corrected from Public/Government to **Private**, portal `https://www.galgotiasuniversity.edu.in`, STD 0120-4370000. Purged raw Google search query.
+10. **Doon Business School (DBS Dehradun)** (ID: 1074) - Premier Business School (est. 2007, Selaqui, Dehradun) relocated from Delhi NCR to **Uttarakhand**, portal `https://www.doonbusinessschool.com`, STD 0135-2699166. Purged IIIT Bangalore photo leak and fake engineering courses to MBA, PGDM, BBA, and BCA.
