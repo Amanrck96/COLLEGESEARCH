@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1300 / 12,660**  
-**Roadmap Progress**: **130.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1310 / 12,660**  
+**Roadmap Progress**: **131.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1959,4 +1959,19 @@
 | **967** | Anand International College of Engineering (Anand-ICE Jaipur) | Private | Jaipur, Rajasthan - 303012 | [anandice.ac.in](https://anandice.ac.in) |
 | **968** | Poornima University, Jaipur | Private | Jaipur, Rajasthan - 303905 | [poornima.edu.in](https://poornima.edu.in) |
 | **969** | NIIT University, Neemrana | Private | Neemrana, Rajasthan - 301705 | [niituniversity.in](https://niituniversity.in) |
+
+### Batch 131 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **970** | Mewar University (Gangrar, Chittorgarh) | Private | Chittorgarh, Rajasthan - 312901 | [www.mewaruniversity.org](https://www.mewaruniversity.org) |
+| **971** | NIMS University, Jaipur | Private | Jaipur, Rajasthan - 303121 | [nimsuniversity.org](https://nimsuniversity.org) |
+| **972** | Apex University, Jaipur | Private | Jaipur, Rajasthan - 302020 | [www.apexuniversity.co.in](https://www.apexuniversity.co.in) |
+| **973** | Banasthali Vidyapith (Niwai, Tonk) | Private | Tonk, Rajasthan - 304022 | [www.banasthali.org](https://www.banasthali.org) |
+| **974** | Manipal University Jaipur (MUJ) | Private | Jaipur, Rajasthan - 303007 | [jaipur.manipal.edu](https://jaipur.manipal.edu) |
+| **975** | Malaviya National Institute of Technology Jaipur (MNIT Jaipur) | Public/Government | Jaipur, Rajasthan - 302017 | [www.mnit.ac.in](https://www.mnit.ac.in) |
+| **976** | Lucky Institute of Professional Studies (Jodhpur) | Private | Jodhpur, Rajasthan - 342008 | [luckyinstitute.org](https://luckyinstitute.org) |
+| **977** | Star Infotech College (Deoli, Tonk) | Private | Tonk, Rajasthan - 304804 | [starinfotechcollege.com](https://starinfotechcollege.com) |
+| **978** | Nathdwara Institute of Engineering & Technology (NIET Nathdwara) | Private | Rajsamand, Rajasthan - 313301 | [niet.edu.in](https://niet.edu.in) |
+| **979** | Sardar Patel University of Police, Security and Criminal Justice (SPUP Jodhpur) | Public/Government | Jodhpur, Rajasthan - 342037 | [policeuniversity.ac.in](https://policeuniversity.ac.in) |
 

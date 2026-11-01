@@ -9748,5 +9748,80 @@
         "website": "https://niituniversity.in"
       }
     ]
+  },
+  {
+    "batch": 131,
+    "items": [
+      {
+        "id": 970,
+        "name": "Mewar University (Gangrar, Chittorgarh)",
+        "type": "Private",
+        "location": "Chittorgarh, Rajasthan - 312901",
+        "website": "https://www.mewaruniversity.org"
+      },
+      {
+        "id": 971,
+        "name": "NIMS University, Jaipur",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303121",
+        "website": "https://nimsuniversity.org"
+      },
+      {
+        "id": 972,
+        "name": "Apex University, Jaipur",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302020",
+        "website": "https://www.apexuniversity.co.in"
+      },
+      {
+        "id": 973,
+        "name": "Banasthali Vidyapith (Niwai, Tonk)",
+        "type": "Private",
+        "location": "Tonk, Rajasthan - 304022",
+        "website": "https://www.banasthali.org"
+      },
+      {
+        "id": 974,
+        "name": "Manipal University Jaipur (MUJ)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303007",
+        "website": "https://jaipur.manipal.edu"
+      },
+      {
+        "id": 975,
+        "name": "Malaviya National Institute of Technology Jaipur (MNIT Jaipur)",
+        "type": "Public/Government",
+        "location": "Jaipur, Rajasthan - 302017",
+        "website": "https://www.mnit.ac.in"
+      },
+      {
+        "id": 976,
+        "name": "Lucky Institute of Professional Studies (Jodhpur)",
+        "type": "Private",
+        "location": "Jodhpur, Rajasthan - 342008",
+        "website": "https://luckyinstitute.org"
+      },
+      {
+        "id": 977,
+        "name": "Star Infotech College (Deoli, Tonk)",
+        "type": "Private",
+        "location": "Tonk, Rajasthan - 304804",
+        "website": "https://starinfotechcollege.com"
+      },
+      {
+        "id": 978,
+        "name": "Nathdwara Institute of Engineering & Technology (NIET Nathdwara)",
+        "type": "Private",
+        "location": "Rajsamand, Rajasthan - 313301",
+        "website": "https://niet.edu.in"
+      },
+      {
+        "id": 979,
+        "name": "Sardar Patel University of Police, Security and Criminal Justice (SPUP Jodhpur)",
+        "type": "Public/Government",
+        "location": "Jodhpur, Rajasthan - 342037",
+        "website": "https://policeuniversity.ac.in"
+      }
+    ]
   }
 ]
