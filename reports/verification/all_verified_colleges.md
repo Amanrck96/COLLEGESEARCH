@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **590 / 12,660**  
-**Roadmap Progress**: **59.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **600 / 12,660**  
+**Roadmap Progress**: **60.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -894,4 +894,19 @@
 | **157** | Universal AI University (UAIU Karjat) | Private University (India's First Artificial Intelligence University) | Raigad District - 410201, Maharashtra | [universalai.in](https://universalai.in) |
 | **158** | Symbiosis International (Deemed University) - SIU Pune | Deemed to be University (Section 3 UGC Act / NAAC A++, NIRF Top 35) | Pune - 412115, Maharashtra | [siu.edu.in](https://siu.edu.in) |
 | **159** | Bhagwant Institute of Technology (BIT Muzaffarnagar) | Private (Engineering Institute / AKTU Affiliated) | Dist. Muzaffarnagar - 251315, Uttar Pradesh | [bit.bhagwantgroup.com](https://bit.bhagwantgroup.com) |
+
+### Batch 60 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **160** | Ideal Institute of Technology (IIT Wada) | Private (Engineering Institute / Mumbai University Affiliated) | Palghar District (Thane) - 421303, Maharashtra | [www.idealinstitute.edu.in](https://www.idealinstitute.edu.in) |
+| **161** | Government Polytechnic, Chhatrapati Sambhajinagar (GPA) | Public/Government (Autonomous Polytechnic under DTE Maharashtra) | Chhatrapati Sambhajinagar (Aurangabad) - 431005, Maharashtra | [gpabad.ac.in](https://gpabad.ac.in) |
+| **162** | MGM's College of Engineering and Technology (MGMCET Navi Mumbai) | Private (Engineering College / Mumbai University Affiliated) | Navi Mumbai - 410209, Maharashtra | [www.mgmcenm.edu.in](https://www.mgmcenm.edu.in) |
+| **163** | Karmaveer Bhaurao Patil Institute of Management Studies & Research (KBPIMSR Satara) | Private / Grant-in-Aid (Rayat Shikshan Sanstha) | Satara - 415015, Maharashtra | [www.kbpimsr.ac.in](https://www.kbpimsr.ac.in) |
+| **164** | Padmabhooshan Vasantraodada Patil Institute of Technology (PVPIT Sangli) | Private / Grant-in-Aid (Engineering College / Shivaji University) | Sangli District - 416304, Maharashtra | [www.pvpitsangli.edu.in](https://www.pvpitsangli.edu.in) |
+| **166** | S.P. Jain Institute of Management and Research (SPJIMR Mumbai) | Private (Autonomous Management Institute, NIRF #16 Management) | Mumbai - 400058, Maharashtra | [www.spjimr.org](https://www.spjimr.org) |
+| **167** | Yashwantrao Chavan School of Rural Development (YCSRD Kolhapur) | Public/Government (Autonomous School of Shivaji University) | Kolhapur - 416004, Maharashtra | [www.unishivaji.ac.in](https://www.unishivaji.ac.in/ycsrd) |
+| **169** | Shreeyash Institute of Management Studies and Research (SIMSR) | Private (Management Institute / BAMU Affiliated) | Chhatrapati Sambhajinagar - 431010, Maharashtra | [syp.ac.in](https://syp.ac.in) |
+| **170** | MGM Institute of Management and Research (MGM IOM Aurangabad) | Private (Constituent Institute of MGM University) | Chhatrapati Sambhajinagar (Aurangabad) - 431003, Maharashtra | [mgmiom.org](https://mgmiom.org) |
+| **172** | Rajiv Gandhi College of Engineering (RGCOE Ahmednagar) | Private (Engineering College / SPPU Pune Affiliated) | Ahmednagar District - 414304, Maharashtra | [rgei.ac.in](https://rgei.ac.in) |
 

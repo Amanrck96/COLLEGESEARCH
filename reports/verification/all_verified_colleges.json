@@ -4423,5 +4423,80 @@
         "website": "https://bit.bhagwantgroup.com"
       }
     ]
+  },
+  {
+    "batch": 60,
+    "items": [
+      {
+        "id": 160,
+        "name": "Ideal Institute of Technology (IIT Wada)",
+        "type": "Private (Engineering Institute / Mumbai University Affiliated)",
+        "location": "Palghar District (Thane) - 421303, Maharashtra",
+        "website": "https://www.idealinstitute.edu.in"
+      },
+      {
+        "id": 161,
+        "name": "Government Polytechnic, Chhatrapati Sambhajinagar (GPA)",
+        "type": "Public/Government (Autonomous Polytechnic under DTE Maharashtra)",
+        "location": "Chhatrapati Sambhajinagar (Aurangabad) - 431005, Maharashtra",
+        "website": "https://gpabad.ac.in"
+      },
+      {
+        "id": 162,
+        "name": "MGM's College of Engineering and Technology (MGMCET Navi Mumbai)",
+        "type": "Private (Engineering College / Mumbai University Affiliated)",
+        "location": "Navi Mumbai - 410209, Maharashtra",
+        "website": "https://www.mgmcenm.edu.in"
+      },
+      {
+        "id": 163,
+        "name": "Karmaveer Bhaurao Patil Institute of Management Studies & Research (KBPIMSR Satara)",
+        "type": "Private / Grant-in-Aid (Rayat Shikshan Sanstha)",
+        "location": "Satara - 415015, Maharashtra",
+        "website": "https://www.kbpimsr.ac.in"
+      },
+      {
+        "id": 164,
+        "name": "Padmabhooshan Vasantraodada Patil Institute of Technology (PVPIT Sangli)",
+        "type": "Private / Grant-in-Aid (Engineering College / Shivaji University)",
+        "location": "Sangli District - 416304, Maharashtra",
+        "website": "https://www.pvpitsangli.edu.in"
+      },
+      {
+        "id": 166,
+        "name": "S.P. Jain Institute of Management and Research (SPJIMR Mumbai)",
+        "type": "Private (Autonomous Management Institute, NIRF #16 Management)",
+        "location": "Mumbai - 400058, Maharashtra",
+        "website": "https://www.spjimr.org"
+      },
+      {
+        "id": 167,
+        "name": "Yashwantrao Chavan School of Rural Development (YCSRD Kolhapur)",
+        "type": "Public/Government (Autonomous School of Shivaji University)",
+        "location": "Kolhapur - 416004, Maharashtra",
+        "website": "https://www.unishivaji.ac.in/ycsrd"
+      },
+      {
+        "id": 169,
+        "name": "Shreeyash Institute of Management Studies and Research (SIMSR)",
+        "type": "Private (Management Institute / BAMU Affiliated)",
+        "location": "Chhatrapati Sambhajinagar - 431010, Maharashtra",
+        "website": "https://syp.ac.in"
+      },
+      {
+        "id": 170,
+        "name": "MGM Institute of Management and Research (MGM IOM Aurangabad)",
+        "type": "Private (Constituent Institute of MGM University)",
+        "location": "Chhatrapati Sambhajinagar (Aurangabad) - 431003, Maharashtra",
+        "website": "https://mgmiom.org"
+      },
+      {
+        "id": 172,
+        "name": "Rajiv Gandhi College of Engineering (RGCOE Ahmednagar)",
+        "type": "Private (Engineering College / SPPU Pune Affiliated)",
+        "location": "Ahmednagar District - 414304, Maharashtra",
+        "website": "https://rgei.ac.in"
+      }
+    ]
   }
 ]

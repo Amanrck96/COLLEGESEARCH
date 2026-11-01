@@ -1,0 +1,91 @@
+[
+  {
+    "id": 160,
+    "name": "IDEAL INSTITUTE OF TECHNOLOGY",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2017-21-11-14-57-22_ab.jpg",
+    "website": "https://www.idealinstituteo.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 161,
+    "name": "GOVERNMENT POLYTECHNIC AURANGABAD",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://gpabad.ac.in/wp-content/uploads/2021/01/gpafrontnew.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 162,
+    "name": "MGM'S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.mgmscollegeofen.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 163,
+    "name": "KBP INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH, SATARA",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15030381299243556_kbp.jpg",
+    "website": "https://www.kbpinstituteofm.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 164,
+    "name": "PADMABHOOSHAN VASANTRAODADA PATIL INSTITUTE OF TECHNOLOGY",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.padmabhooshanva.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 166,
+    "name": "SPJIMR - S.P. Jain Institute of Management and Research, Mumbai",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/pibm_pune.webp",
+    "website": "https://www.spjimr.org"
+  },
+  {
+    "id": 167,
+    "name": "YASHWANTRAO CHAVAN SCHOOL OF RURAL DEVELOPMENT",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.yashwantraochav.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 169,
+    "name": "SHREEYASH INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1479283484siminf.JPG",
+    "website": "https://www.shreeyashinstit.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 170,
+    "name": "MGM'S INSTITUTE OF MANAGEMENT",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/mgm-institute-of-management-research-aurangabad-276267.webp",
+    "website": "https://www.mgmsinstituteof.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 172,
+    "name": "RAJIV GANDHI COLLEGE OF ENGINEERING",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://rgei.ac.in/assets/img/single/7.jpg",
+    "website": "https://www.rajivgandhicoll.edu.in",
+    "phone": "0123-456789"
+  }
+]
