@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **440 / 12,660**  
-**Roadmap Progress**: **44.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **450 / 12,660**  
+**Roadmap Progress**: **45.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -669,4 +669,19 @@
 | **34** | Sardar Vallabhbhai National Institute of Technology (SVNIT Surat - PG Department) | Institute of National Importance | Surat - 395007, Gujarat | [www.svnit.ac.in](https://www.svnit.ac.in) |
 | **35** | Indian Institute of Technology Gandhinagar (IIT Gandhinagar - Engineering) | Institute of National Importance | Gandhinagar - 382355, Gujarat | [www.iitgn.ac.in](https://www.iitgn.ac.in) |
 | **48** | Indian Institute of Management Ahmedabad (IIM Ahmedabad) | Institute of National Importance | Ahmedabad - 380015, Gujarat | [www.iima.ac.in](https://www.iima.ac.in) |
+
+### Batch 45 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **12659** | XLRI – Xavier School of Management (XLRI Jamshedpur) | Private (Autonomous Jesuit Management School) | Jamshedpur - 831001, Jharkhand | [www.xlri.ac.in](https://www.xlri.ac.in) |
+| **12658** | Faculty of Management Studies, University of Delhi (FMS Delhi) | Public/Government (University Faculty) | North Campus, Delhi - 110007 | [www.fms.edu](https://www.fms.edu) |
+| **12657** | National Law School of India University (NLSIU Bangalore) | Public/Government (Statutory National Law University) | Bengaluru - 560072, Karnataka | [www.nls.ac.in](https://www.nls.ac.in) |
+| **1** | Andaman College (ANCOL) | Public/Government | South Andaman, Andaman & Nicobar Islands - 744112 | [ancol.andaman.gov.in](https://ancol.andaman.gov.in) |
+| **2** | Jawaharlal Nehru Rajkeeya Mahavidyalaya (JNRM Port Blair) | Public/Government | South Andaman, Andaman & Nicobar Islands - 744106 | [jnrm.and.nic.in](https://jnrm.and.nic.in) |
+| **3** | Dr. B.R. Ambedkar Institute of Technology (DBRAIT Port Blair) | Public/Government | South Andaman, Andaman & Nicobar Islands - 744103 | [dbrait.andaman.gov.in](https://dbrait.andaman.gov.in) |
+| **4** | Government Polytechnic Diglipur | Public/Government | North & Middle Andaman, Andaman & Nicobar Islands - 744202 | [andaman.gov.in](https://andaman.gov.in) |
+| **5** | Andaman & Nicobar Islands Institute of Medical Sciences (ANIIMS) | Public/Government | South Andaman, Andaman & Nicobar Islands - 744104 | [aniims.andaman.gov.in](https://aniims.andaman.gov.in) |
+| **6** | National Institute of Fashion Technology (NIFT Bengaluru) | Institute of National Importance | Bengaluru - 560102, Karnataka | [www.nift.ac.in](https://www.nift.ac.in/bengaluru/) |
+| **7** | National Institute of Fashion Technology (NIFT Mumbai) | Institute of National Importance | Navi Mumbai - 410210, Maharashtra | [www.nift.ac.in](https://www.nift.ac.in/mumbai/) |
 

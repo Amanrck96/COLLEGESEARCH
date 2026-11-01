@@ -3298,5 +3298,80 @@
         "website": "https://www.iima.ac.in"
       }
     ]
+  },
+  {
+    "batch": 45,
+    "items": [
+      {
+        "id": 12659,
+        "name": "XLRI – Xavier School of Management (XLRI Jamshedpur)",
+        "type": "Private (Autonomous Jesuit Management School)",
+        "location": "Jamshedpur - 831001, Jharkhand",
+        "website": "https://www.xlri.ac.in"
+      },
+      {
+        "id": 12658,
+        "name": "Faculty of Management Studies, University of Delhi (FMS Delhi)",
+        "type": "Public/Government (University Faculty)",
+        "location": "North Campus, Delhi - 110007",
+        "website": "https://www.fms.edu"
+      },
+      {
+        "id": 12657,
+        "name": "National Law School of India University (NLSIU Bangalore)",
+        "type": "Public/Government (Statutory National Law University)",
+        "location": "Bengaluru - 560072, Karnataka",
+        "website": "https://www.nls.ac.in"
+      },
+      {
+        "id": 1,
+        "name": "Andaman College (ANCOL)",
+        "type": "Public/Government",
+        "location": "South Andaman, Andaman & Nicobar Islands - 744112",
+        "website": "https://ancol.andaman.gov.in"
+      },
+      {
+        "id": 2,
+        "name": "Jawaharlal Nehru Rajkeeya Mahavidyalaya (JNRM Port Blair)",
+        "type": "Public/Government",
+        "location": "South Andaman, Andaman & Nicobar Islands - 744106",
+        "website": "https://jnrm.and.nic.in"
+      },
+      {
+        "id": 3,
+        "name": "Dr. B.R. Ambedkar Institute of Technology (DBRAIT Port Blair)",
+        "type": "Public/Government",
+        "location": "South Andaman, Andaman & Nicobar Islands - 744103",
+        "website": "https://dbrait.andaman.gov.in"
+      },
+      {
+        "id": 4,
+        "name": "Government Polytechnic Diglipur",
+        "type": "Public/Government",
+        "location": "North & Middle Andaman, Andaman & Nicobar Islands - 744202",
+        "website": "https://andaman.gov.in"
+      },
+      {
+        "id": 5,
+        "name": "Andaman & Nicobar Islands Institute of Medical Sciences (ANIIMS)",
+        "type": "Public/Government",
+        "location": "South Andaman, Andaman & Nicobar Islands - 744104",
+        "website": "https://aniims.andaman.gov.in"
+      },
+      {
+        "id": 6,
+        "name": "National Institute of Fashion Technology (NIFT Bengaluru)",
+        "type": "Institute of National Importance",
+        "location": "Bengaluru - 560102, Karnataka",
+        "website": "https://www.nift.ac.in/bengaluru/"
+      },
+      {
+        "id": 7,
+        "name": "National Institute of Fashion Technology (NIFT Mumbai)",
+        "type": "Institute of National Importance",
+        "location": "Navi Mumbai - 410210, Maharashtra",
+        "website": "https://www.nift.ac.in/mumbai/"
+      }
+    ]
   }
 ]

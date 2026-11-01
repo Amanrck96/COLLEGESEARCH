@@ -1,0 +1,209 @@
+[
+  {
+    "id": 12659,
+    "name": "XLRI – Xavier School of Management (XLRI Jamshedpur)",
+    "address": "Riverside Road, Circuit House Area, Northern Town, Jamshedpur, Jharkhand 831001",
+    "state": "Jharkhand",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/XLRI_Jamshedpur_campus.jpg/1200px-XLRI_Jamshedpur_campus.jpg",
+    "website": "https://www.xlri.ac.in",
+    "type": "Private (Autonomous Jesuit School)",
+    "courses": [
+      {
+        "title": "PGDM Business Management (BM)",
+        "duration": "2 Years",
+        "fee": "₹28 Lakhs Total"
+      },
+      {
+        "title": "PGDM Human Resource Management (HRM)",
+        "duration": "2 Years",
+        "fee": "₹28 Lakhs Total"
+      }
+    ]
+  },
+  {
+    "id": 12658,
+    "name": "Faculty of Management Studies, University of Delhi (FMS Delhi)",
+    "address": "Prof ND Kapoor Marg, Opp. Kirori Mal College, University Enclave, Delhi 110007",
+    "state": "Delhi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Faculty_of_Management_Studies%2C_Delhi.jpg/1200px-Faculty_of_Management_Studies%2C_Delhi.jpg",
+    "website": "https://www.fms.edu",
+    "type": "Government (University Faculty)",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "fee": "₹1,00,000/Year"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "2 Years",
+        "fee": "₹1,20,000/Year"
+      }
+    ]
+  },
+  {
+    "id": 12657,
+    "name": "National Law School of India University (NLSIU Bangalore)",
+    "address": "Gnana Bharathi Main Rd, Chandra Layout, Bengaluru, Karnataka 560072",
+    "state": "Karnataka",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NLSIU_Academic_Block.jpg/1200px-NLSIU_Academic_Block.jpg",
+    "website": "https://www.nls.ac.in",
+    "type": "Government (National Law University)",
+    "courses": [
+      {
+        "title": "B.A. LL.B. (Hons.) Integrated Law",
+        "duration": "5 Years",
+        "fee": "₹4,15,000/Year"
+      },
+      {
+        "title": "LL.M. Master of Laws",
+        "duration": "1 Year",
+        "fee": "₹3,20,000/Year"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Andaman College (ANCOL)",
+    "address": "Chakkargaon, Port Blair, Andaman & Nicobar, India",
+    "state": "Andaman & Nicobar",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://ancol.andaman.gov.in",
+    "type": "Government Degree College",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Bachelor of Arts (BA)",
+        "duration": "3 Years",
+        "fee": "₹15,000/yr"
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fee": "₹18,000/yr"
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fee": "₹22,000/yr"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jawaharlal Nehru Rajkeeya Mahavidyalaya (JNRM)",
+    "address": "South Point, Port Blair, Andaman & Nicobar, India",
+    "state": "Andaman & Nicobar",
+    "img": "https://image-static.collegedunia.com/public/image/JNRM_College_Entrance_Surrounded_by_Greenery_840ea5a64d8f53290c4b9caade5a53eb.png",
+    "website": "https://jnrm.and.nic.in",
+    "type": "Government College",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fee": "₹14,000/yr"
+      },
+      {
+        "title": "Master of Arts (MA)",
+        "duration": "2 Years",
+        "fee": "₹16,000/yr"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. B.R. Ambedkar Institute of Technology (DBRAIT)",
+    "address": "Pahargaon, Port Blair, Andaman & Nicobar, India",
+    "state": "Andaman & Nicobar",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://dbrait.andaman.gov.in",
+    "type": "Government Engineering & Polytechnic Institute",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹45,000/yr"
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fee": "₹20,000/yr"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Government Polytechnic Diglipur",
+    "address": "Madhupur, Diglipur, Andaman & Nicobar, India",
+    "state": "Andaman & Nicobar",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://andaman.gov.in",
+    "type": "Government Polytechnic",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fee": "₹12,000/yr"
+      },
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fee": "₹12,000/yr"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Andaman & Nicobar Islands Institute of Medical Sciences (ANIIMS)",
+    "address": "Doddas, Port Blair, Andaman & Nicobar, India",
+    "state": "Andaman & Nicobar",
+    "img": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://aniims.andaman.gov.in",
+    "type": "Government Medical College",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "MBBS",
+        "duration": "5.5 Years",
+        "fee": "₹75,000/yr"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "NIFT Bangalore - National Institute of Fashion Technology",
+    "address": "Bangalore, Karnataka, India",
+    "state": "Karnataka",
+    "img": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.nift.ac.in/bengaluru",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Des Fashion Design",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹10.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "NIFT Mumbai - National Institute of Fashion Technology",
+    "address": "Mumbai, Maharashtra, India",
+    "state": "Maharashtra",
+    "img": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.nift.ac.in/mumbai",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Des Fashion Design",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹10.5 Lakhs"
+      }
+    ]
+  }
+]

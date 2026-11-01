@@ -59,12 +59,12 @@
       "location": "Jamshedpur",
       "state": "Jharkhand",
       "country": "India",
-      "address": "Riverside Road, Circuit House Area, Northern Town, Jamshedpur, Jharkhand 831001",
-      "phone": "+91-657-665 3203",
+      "address": "Riverside Road, Circuit House Area (East), Northern Town, Jamshedpur - 831001, Jharkhand",
+      "phone": "+91-657-6653333",
       "email": "admissions@xlri.ac.in",
       "website": "https://www.xlri.ac.in",
       "shikshaUrl": "https://www.shiksha.com/college/xlri-xavier-school-of-management-jamshedpur-3432",
-      "type": "Private (Autonomous Jesuit School)",
+      "type": "Private (Autonomous Jesuit Management School)",
       "established": "1949",
       "ranking": 9,
       "rating": 4.8,
@@ -74,7 +74,7 @@
       "averagePackage": "₹32.7 LPA",
       "exams": "XAT, GMAT",
       "placements": "100% Placed, undisputed leader in Human Resource Management (HRM) and Business Management in South Asia.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/XLRI_Jamshedpur_campus.jpg/1200px-XLRI_Jamshedpur_campus.jpg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/XLRI_Jamshedpur_campus.jpg/1200px-XLRI_Jamshedpur_campus.jpg"
       ],
@@ -82,34 +82,46 @@
       "facilities": "Sir Jehangir Ghandy Library, Behavioral Science Lab, International Sports Complex, Platinum Jubilee Auditorium",
       "courses": [
         {
-          "title": "PGDM Business Management (BM)",
+          "name": "PGDM (BM)",
+          "title": "Post Graduate Diploma in Management (Business Management)",
           "duration": "2 Years",
-          "fees": "₹28 Lakhs Total",
-          "eligibility": "Graduation + XAT 95+ Percentile"
+          "fees": "₹28,00,000",
+          "fee": "₹28,00,000",
+          "eligibility": "Graduation (50%) + XAT Exam",
+          "type": "MANAGEMENT",
+          "intake": 240
         },
         {
-          "title": "PGDM Human Resource Management (HRM)",
+          "name": "PGDM (HRM)",
+          "title": "Post Graduate Diploma in Management (Human Resource Management)",
           "duration": "2 Years",
-          "fees": "₹28 Lakhs Total",
-          "eligibility": "Graduation + XAT 93+ Percentile"
+          "fees": "₹28,00,000",
+          "fee": "₹28,00,000",
+          "eligibility": "Graduation (50%) + XAT Exam",
+          "type": "MANAGEMENT",
+          "intake": 180
         }
       ],
       "published": true,
-      "featured": true
+      "featured": true,
+      "city": "Jamshedpur",
+      "ownership": "Private / Society of Jesus (Jesuits)",
+      "image": "/images/campuses/campus_architecture_1.jpg",
+      "verified": true
     },
     {
       "id": 12658,
       "name": "Faculty of Management Studies, University of Delhi (FMS Delhi)",
       "shortName": "FMS Delhi",
       "location": "New Delhi",
-      "state": "Delhi",
+      "state": "Delhi NCR",
       "country": "India",
-      "address": "Prof ND Kapoor Marg, Opp. Kirori Mal College, University Enclave, Delhi 110007",
-      "phone": "+91-11-2766 6382",
-      "email": "admissions@fms.edu",
+      "address": "Prof. N.D. Kapoor Marg, Opp. Kirori Mal College, University Enclave, North Campus, Delhi - 110007",
+      "phone": "011-27666382",
+      "email": "adminoffice@fms.edu",
       "website": "https://www.fms.edu",
       "shikshaUrl": "https://www.shiksha.com/college/faculty-of-management-studies-university-of-delhi-malka-ganj-3101",
-      "type": "Government (University Faculty)",
+      "type": "Public/Government (University Faculty)",
       "established": "1954",
       "ranking": 8,
       "rating": 4.8,
@@ -119,7 +131,7 @@
       "averagePackage": "₹34.1 LPA",
       "exams": "CAT",
       "placements": "100% Placed with highest ROI in Asia. Top recruiters: Amazon, Google, HUL, ITC, Morgan Stanley, Bain & Co.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Faculty_of_Management_Studies%2C_Delhi.jpg/1200px-Faculty_of_Management_Studies%2C_Delhi.jpg",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Faculty_of_Management_Studies%2C_Delhi.jpg/1200px-Faculty_of_Management_Studies%2C_Delhi.jpg"
       ],
@@ -127,20 +139,32 @@
       "facilities": "Centrally Air-conditioned Audio-Visual Classrooms, Management Library, Computer Center, Delhi University North Campus Access",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA)",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹1,00,000/Year",
-          "eligibility": "Graduation with 50% + CAT 99.5+ Percentile"
+          "fees": "₹2,00,000",
+          "fee": "₹2,00,000",
+          "eligibility": "Graduation (50%) + CAT Exam (Percentile >99)",
+          "type": "MANAGEMENT",
+          "intake": 251
         },
         {
-          "title": "Executive MBA",
+          "name": "Executive MBA",
+          "title": "Executive Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹1,20,000/Year",
-          "eligibility": "Graduation + 5 Years Corporate Experience"
+          "fees": "₹2,40,000",
+          "fee": "₹2,40,000",
+          "eligibility": "Graduation + Minimum 5 Years Work Experience",
+          "type": "MANAGEMENT",
+          "intake": 200
         }
       ],
       "published": true,
-      "featured": true
+      "featured": true,
+      "city": "New Delhi",
+      "ownership": "Government of India / University of Delhi",
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "verified": true
     },
     {
       "id": 12657,
@@ -149,12 +173,12 @@
       "location": "Bangalore",
       "state": "Karnataka",
       "country": "India",
-      "address": "Gnana Bharathi Main Rd, Chandra Layout, Bengaluru, Karnataka 560072",
-      "phone": "+91-80-2321 3160",
+      "address": "Gnana Bharathi Main Road, Opp. NAAC, Nagarbhavi, Bengaluru - 560072, Karnataka",
+      "phone": "080-23213160",
       "email": "registrar@nls.ac.in",
       "website": "https://www.nls.ac.in",
       "shikshaUrl": "https://www.shiksha.com/university/nlsiu-national-law-school-of-india-university-bangalore-24658",
-      "type": "Government (National Law University)",
+      "type": "Public/Government (Statutory National Law University)",
       "established": "1987",
       "ranking": 1,
       "rating": 4.9,
@@ -164,7 +188,7 @@
       "averagePackage": "₹16.5 LPA",
       "exams": "CLAT UG, CLAT PG",
       "placements": "100% Placed, Top recruiters: Cyril Amarchand Mangaldas, Shardul Amarchand, Trilegal, AZB & Partners, Linklaters",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NLSIU_Academic_Block.jpg/1200px-NLSIU_Academic_Block.jpg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NLSIU_Academic_Block.jpg/1200px-NLSIU_Academic_Block.jpg"
       ],
@@ -172,20 +196,32 @@
       "facilities": "Sri Narayana Rao Memorial Library, Moot Court Halls, Legal Services Clinic, Wi-Fi Green Campus, Hostels",
       "courses": [
         {
-          "title": "B.A. LL.B. (Hons.) Integrated Law",
+          "name": "BA LLB (Hons)",
+          "title": "Integrated Bachelor of Arts & Bachelor of Laws (Honours)",
           "duration": "5 Years",
-          "fees": "₹4,15,000/Year",
-          "eligibility": "10+2 with 45% + CLAT Rank in Top 100"
+          "fees": "₹20,75,000",
+          "fee": "₹20,75,000",
+          "eligibility": "10+2 (45%) + CLAT Exam",
+          "type": "LAW",
+          "intake": 240
         },
         {
-          "title": "LL.M. Master of Laws",
+          "name": "LLM",
+          "title": "Master of Laws",
           "duration": "1 Year",
-          "fees": "₹3,20,000/Year",
-          "eligibility": "LL.B. + CLAT PG Qualified"
+          "fees": "₹3,20,000",
+          "fee": "₹3,20,000",
+          "eligibility": "LLB Degree (50%) + CLAT PG Exam",
+          "type": "LAW",
+          "intake": 100
         }
       ],
       "published": true,
-      "featured": true
+      "featured": true,
+      "city": "Bengaluru",
+      "ownership": "Government of Karnataka / Bar Council of India",
+      "image": "/images/campuses/campus_architecture_3.jpg",
+      "verified": true
     },
     {
       "id": 1,
@@ -195,14 +231,14 @@
       "state": "Andaman & Nicobar",
       "country": "India",
       "website": "https://ancol.andaman.gov.in",
-      "img": "/images/campuses/campus_architecture_5.jpg",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://admissionnotification.in/uploads/1731140613_7217.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "type": "Government Degree College",
-      "ownership": "Government",
+      "type": "Public/Government",
+      "ownership": "Andaman & Nicobar Administration",
       "rating": 4.4,
       "reviewsCount": 88,
       "fees": "₹15,000 - ₹35,000/yr",
@@ -220,50 +256,66 @@
       ],
       "courses": [
         {
-          "title": "Bachelor of Arts (BA)",
-          "division": "Undergraduate",
+          "name": "BA",
+          "title": "Bachelor of Arts in Economics / English / Historical Studies",
           "duration": "3 Years",
-          "fees": "₹15,000/yr"
+          "fees": "₹45,000",
+          "fee": "₹45,000",
+          "eligibility": "10+2 in any stream",
+          "type": "ARTS",
+          "intake": 120
         },
         {
-          "title": "Bachelor of Commerce (B.Com)",
-          "division": "Undergraduate",
+          "name": "B.Com",
+          "title": "Bachelor of Commerce",
           "duration": "3 Years",
-          "fees": "₹18,000/yr"
+          "fees": "₹54,000",
+          "fee": "₹54,000",
+          "eligibility": "10+2 with Commerce / Math",
+          "type": "COMMERCE",
+          "intake": 60
         },
         {
-          "title": "Bachelor of Business Administration (BBA)",
-          "division": "Undergraduate",
+          "name": "BBA",
+          "title": "Bachelor of Business Administration",
           "duration": "3 Years",
-          "fees": "₹22,000/yr"
+          "fees": "₹66,000",
+          "fee": "₹66,000",
+          "eligibility": "10+2 in any stream",
+          "type": "MANAGEMENT",
+          "intake": 60
         }
       ],
-      "image": "/images/campuses/campus_architecture_5.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ranking": "State Ranked #2",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Andaman%20College%20(ANCOL)%20Chakkargaon%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Andaman%20College%20(ANCOL)%20Chakkargaon%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
-      "address": "Chakkargaon, Port Blair, Andaman & Nicobar, India",
+      "address": "Chakkargaon, Port Blair, South Andaman, Andaman & Nicobar Islands - 744112",
       "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
       "established": "1958 (Accredited by NAAC A++)",
       "_source": "Web Verified Crawler",
-      "_lastSync": "10/25/2026"
+      "_lastSync": "10/25/2026",
+      "city": "Port Blair",
+      "phone": "03192-230158",
+      "email": "principalancol@gmail.com",
+      "verified": true
     },
     {
       "id": 2,
-      "name": "Jawaharlal Nehru Rajkeeya Mahavidyalaya (JNRM)",
+      "name": "Jawaharlal Nehru Rajkeeya Mahavidyalaya (JNRM Port Blair)",
       "shortName": "JNRM",
       "location": "South Point, Port Blair",
       "state": "Andaman & Nicobar",
       "country": "India",
       "website": "https://jnrm.and.nic.in",
-      "img": "https://image-static.collegedunia.com/public/image/JNRM_College_Entrance_Surrounded_by_Greenery_840ea5a64d8f53290c4b9caade5a53eb.png",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/image/JNRM_College_Entrance_Surrounded_by_Greenery_840ea5a64d8f53290c4b9caade5a53eb.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "type": "Government College",
-      "ownership": "Government",
+      "type": "Public/Government",
+      "ownership": "Andaman & Nicobar Administration",
       "rating": 4.5,
       "reviewsCount": 120,
       "fees": "₹12,000 - ₹30,000/yr",
@@ -280,42 +332,54 @@
       ],
       "courses": [
         {
-          "title": "Bachelor of Science (B.Sc)",
-          "division": "Undergraduate",
+          "name": "B.Sc",
+          "title": "Bachelor of Science in Computer Science / Chemistry / Physics",
           "duration": "3 Years",
-          "fees": "₹14,000/yr"
+          "fees": "₹42,000",
+          "fee": "₹42,000",
+          "eligibility": "10+2 with Science",
+          "type": "SCIENCE",
+          "intake": 180
         },
         {
-          "title": "Master of Arts (MA)",
-          "division": "Postgraduate",
+          "name": "MA",
+          "title": "Master of Arts in English / Political Science",
           "duration": "2 Years",
-          "fees": "₹16,000/yr"
+          "fees": "₹32,000",
+          "fee": "₹32,000",
+          "eligibility": "BA in relevant subject",
+          "type": "ARTS",
+          "intake": 60
         }
       ],
-      "image": "https://image-static.collegedunia.com/public/image/JNRM_College_Entrance_Surrounded_by_Greenery_840ea5a64d8f53290c4b9caade5a53eb.png",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ranking": "State Ranked #3",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jawaharlal%20Nehru%20Rajkeeya%20Mahavidyalaya%20(JNRM)%20South%20Point%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Jawaharlal%20Nehru%20Rajkeeya%20Mahavidyalaya%20(JNRM)%20South%20Point%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
-      "address": "South Point, Port Blair, Andaman & Nicobar, India",
+      "address": "South Point, Port Blair, South Andaman, Andaman & Nicobar Islands - 744106",
       "_source": "Web Verified Crawler",
-      "_lastSync": "10/25/2026"
+      "_lastSync": "10/25/2026",
+      "city": "Port Blair",
+      "phone": "03192-232503",
+      "email": "jnrm@and.nic.in",
+      "verified": true
     },
     {
       "id": 3,
-      "name": "Dr. B.R. Ambedkar Institute of Technology (DBRAIT)",
+      "name": "Dr. B.R. Ambedkar Institute of Technology (DBRAIT Port Blair)",
       "shortName": "DBRAIT",
       "location": "Pahargaon, Port Blair",
       "state": "Andaman & Nicobar",
       "country": "India",
       "website": "https://dbrait.andaman.gov.in",
-      "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://nicobartimes.com/wp-content/uploads/2024/05/dbrait-campus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
       ],
-      "type": "Government Engineering & Polytechnic Institute",
-      "ownership": "Government",
+      "type": "Public/Government",
+      "ownership": "Andaman & Nicobar Administration",
       "rating": 4.3,
       "reviewsCount": 95,
       "fees": "₹35,000 - ₹75,000/yr",
@@ -332,24 +396,36 @@
       ],
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
+          "name": "B.Tech (CSE)",
+          "title": "Bachelor of Technology in Computer Science & Engineering",
           "duration": "4 Years",
-          "fees": "₹45,000/yr"
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "10+2 with PCM + JEE Main",
+          "type": "ENGINEERING",
+          "intake": 60
         },
         {
+          "name": "Diploma (Civil)",
           "title": "Diploma in Civil Engineering",
-          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹20,000/yr"
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "10th Standard with Science & Math",
+          "type": "ENGINEERING",
+          "intake": 60
         }
       ],
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ranking": "State Ranked #4",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dr.%20B.R.%20Ambedkar%20Institute%20of%20Technology%20(DBRAIT)%20Pahargaon%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Dr.%20B.R.%20Ambedkar%20Institute%20of%20Technology%20(DBRAIT)%20Pahargaon%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
-      "address": "Pahargaon, Port Blair, Andaman & Nicobar, India",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "address": "Pahargaon, Port Blair, South Andaman, Andaman & Nicobar Islands - 744103",
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Port Blair",
+      "phone": "03192-250587",
+      "email": "drait.andaman@gmail.com",
+      "verified": true
     },
     {
       "id": 4,
@@ -359,14 +435,14 @@
       "state": "Andaman & Nicobar",
       "country": "India",
       "website": "https://andaman.gov.in",
-      "img": "/images/campuses/campus_architecture_5.jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "gallery": [
         "https://cache.careers360.mobi/media/colleges/social-media/media-gallery/25803/2019/10/3/Campus View of Madhupur Polytechnic Jharkhand_Campus-View.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
       ],
-      "type": "Government Polytechnic",
-      "ownership": "Government",
+      "type": "Public/Government",
+      "ownership": "Andaman & Nicobar Administration",
       "rating": 4.1,
       "reviewsCount": 42,
       "fees": "₹10,000 - ₹25,000/yr",
@@ -382,24 +458,36 @@
       ],
       "courses": [
         {
+          "name": "Diploma (Civil)",
           "title": "Diploma in Civil Engineering",
-          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹12,000/yr"
+          "fees": "₹36,000",
+          "fee": "₹36,000",
+          "eligibility": "10th Standard with Science & Math",
+          "type": "ENGINEERING",
+          "intake": 30
         },
         {
+          "name": "Diploma (CSE)",
           "title": "Diploma in Computer Engineering",
-          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹12,000/yr"
+          "fees": "₹36,000",
+          "fee": "₹36,000",
+          "eligibility": "10th Standard with Science & Math",
+          "type": "ENGINEERING",
+          "intake": 30
         }
       ],
-      "image": "/images/campuses/campus_architecture_5.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ranking": "State Ranked #5",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Government%20Polytechnic%20Diglipur%20Madhupur%2C%20Diglipur%20Andaman%20%26%20Nicobar",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Government%20Polytechnic%20Diglipur%20Madhupur%2C%20Diglipur%20Andaman%20%26%20Nicobar",
-      "address": "Madhupur, Diglipur, Andaman & Nicobar, India",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "address": "Madhupur, Diglipur, North & Middle Andaman, Andaman & Nicobar Islands - 744202",
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Diglipur",
+      "phone": "03192-272200",
+      "email": "gpdiglipur@gmail.com",
+      "verified": true
     },
     {
       "id": 5,
@@ -409,14 +497,14 @@
       "state": "Andaman & Nicobar",
       "country": "India",
       "website": "https://aniims.andaman.gov.in",
-      "img": "/images/campuses/bms_bangalore.jpg",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "gallery": [
         "https://smartachievers.online/public/images/aniims-port.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
       ],
-      "type": "Government Medical College",
-      "ownership": "Government",
+      "type": "Public/Government",
+      "ownership": "Andaman & Nicobar Medical Education & Research Society (ANIMERS), Govt. of India",
       "rating": 4.7,
       "reviewsCount": 110,
       "fees": "₹50,000 - ₹1,20,000/yr",
@@ -433,30 +521,38 @@
       ],
       "courses": [
         {
-          "title": "MBBS",
-          "division": "Undergraduate",
+          "name": "MBBS",
+          "title": "Bachelor of Medicine & Bachelor of Surgery",
           "duration": "5.5 Years",
-          "fees": "₹75,000/yr"
+          "fees": "₹4,12,500",
+          "fee": "₹4,12,500",
+          "eligibility": "10+2 with PCB + NEET UG Exam",
+          "type": "MEDICAL",
+          "intake": 114
         }
       ],
-      "image": "/images/campuses/bms_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ranking": "State Ranked #6",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Andaman%20%26%20Nicobar%20Islands%20Institute%20of%20Medical%20Sciences%20(ANIIMS)%20Doddas%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Andaman%20%26%20Nicobar%20Islands%20Institute%20of%20Medical%20Sciences%20(ANIIMS)%20Doddas%2C%20Port%20Blair%20Andaman%20%26%20Nicobar",
-      "address": "Doddas, Port Blair, Andaman & Nicobar, India"
+      "address": "DHS Annexe Building, Atlanta Point, Port Blair, South Andaman, Andaman & Nicobar Islands - 744104",
+      "city": "Port Blair",
+      "phone": "03192-232605",
+      "email": "diraniims.and@nic.in",
+      "verified": true
     },
     {
       "id": 6,
       "shikshaUrl": "https://www.shiksha.com/college/national-institute-of-fashion-technology-bangalore-hsr-layout-24415",
-      "name": "NIFT Bangalore - National Institute of Fashion Technology",
+      "name": "National Institute of Fashion Technology (NIFT Bengaluru)",
       "shortName": "NIFT Bangalore",
       "location": "Bangalore",
       "state": "Karnataka",
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Textiles, Government of India",
       "ranking": 1,
       "about": "NIFT Bangalore - National Institute of Fashion Technology is one of India's foremost apex premier institutions in Bangalore, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹6.5 Lakhs - ₹10.5 Lakhs",
@@ -485,37 +581,65 @@
       ],
       "courses": [
         {
-          "title": "B.Des Fashion Design",
-          "division": "Undergraduate",
+          "name": "B.Des (FD)",
+          "title": "Bachelor of Design in Fashion Design",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹12,34,000",
+          "fee": "₹12,34,000",
+          "eligibility": "10+2 in any stream + NIFT Entrance Exam",
+          "type": "DESIGN",
+          "intake": 60
+        },
+        {
+          "name": "B.FTech",
+          "title": "Bachelor of Fashion Technology in Apparel Production",
+          "duration": "4 Years",
+          "fees": "₹12,34,000",
+          "fee": "₹12,34,000",
+          "eligibility": "10+2 with PCM + NIFT Entrance Exam",
+          "type": "DESIGN",
+          "intake": 60
+        },
+        {
+          "name": "M.Des",
+          "title": "Master of Design",
+          "duration": "2 Years",
+          "fees": "₹6,17,000",
+          "fee": "₹6,17,000",
+          "eligibility": "Undergraduate Degree + NIFT Entrance Exam",
+          "type": "DESIGN",
+          "intake": 30
         }
       ],
       "reviewsCount": 350,
-      "img": "/images/campuses/iiit_bangalore_campus.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
       ],
-      "website": "https://www.nift.ac.in/bengaluru",
-      "image": "/images/campuses/iiit_bangalore_campus.jpg",
+      "website": "https://www.nift.ac.in/bengaluru/",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NIFT%20Bangalore%20-%20National%20Institute%20of%20Fashion%20Technology%20Bangalore%20Karnataka",
       "map_url": "https://www.google.com/maps/search/?api=1&query=NIFT%20Bangalore%20-%20National%20Institute%20of%20Fashion%20Technology%20Bangalore%20Karnataka",
-      "address": "Bangalore, Karnataka, India"
+      "address": "C.A. Site #21, 16th Cross, 27th Main Road, Sector 1, HSR Layout, Bengaluru - 560102, Karnataka",
+      "city": "Bengaluru",
+      "phone": "080-22552550",
+      "email": "director.bengaluru@nift.ac.in",
+      "verified": true
     },
     {
       "id": 7,
       "shikshaUrl": "https://www.shiksha.com/college/national-institute-of-fashion-technology-mumbai-navi-mumbai-24414",
-      "name": "NIFT Mumbai - National Institute of Fashion Technology",
+      "name": "National Institute of Fashion Technology (NIFT Mumbai)",
       "shortName": "NIFT Mumbai",
       "location": "Mumbai",
       "state": "Maharashtra",
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Textiles, Government of India",
       "ranking": 4,
       "about": "NIFT Mumbai - National Institute of Fashion Technology is one of India's foremost apex premier institutions in Mumbai, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
       "fees": "₹6.5 Lakhs - ₹10.5 Lakhs",
@@ -544,24 +668,52 @@
       ],
       "courses": [
         {
-          "title": "B.Des Fashion Design",
-          "division": "Undergraduate",
+          "name": "B.Des (FD)",
+          "title": "Bachelor of Design in Fashion Design",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹12,34,000",
+          "fee": "₹12,34,000",
+          "eligibility": "10+2 in any stream + NIFT Entrance Exam",
+          "type": "DESIGN",
+          "intake": 60
+        },
+        {
+          "name": "B.Des (FC)",
+          "title": "Bachelor of Design in Fashion Communication",
+          "duration": "4 Years",
+          "fees": "₹12,34,000",
+          "fee": "₹12,34,000",
+          "eligibility": "10+2 in any stream + NIFT Entrance Exam",
+          "type": "DESIGN",
+          "intake": 60
+        },
+        {
+          "name": "MFM",
+          "title": "Master of Fashion Management",
+          "duration": "2 Years",
+          "fees": "₹6,17,000",
+          "fee": "₹6,17,000",
+          "eligibility": "Undergraduate Degree + NIFT Entrance Exam",
+          "type": "MANAGEMENT",
+          "intake": 40
         }
       ],
       "reviewsCount": 350,
-      "img": "/images/campuses/riim_pune.jpeg",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "gallery": [
         "https://assets.telegraphindia.com/telegraph/2022/Dec/1672462450_edugraph.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
       ],
-      "website": "https://www.nift.ac.in/mumbai",
-      "image": "/images/campuses/riim_pune.jpeg",
+      "website": "https://www.nift.ac.in/mumbai/",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NIFT%20Mumbai%20-%20National%20Institute%20of%20Fashion%20Technology%20Mumbai%20Maharashtra",
       "map_url": "https://www.google.com/maps/search/?api=1&query=NIFT%20Mumbai%20-%20National%20Institute%20of%20Fashion%20Technology%20Mumbai%20Maharashtra",
-      "address": "Mumbai, Maharashtra, India"
+      "address": "Plot No. 15, Sector 4, Kharghar, Navi Mumbai - 410210, Maharashtra",
+      "city": "Navi Mumbai",
+      "phone": "022-27747000",
+      "email": "director.mumbai@nift.ac.in",
+      "verified": true
     },
     {
       "id": 8,
