@@ -2675,3 +2675,17 @@
 | 1488 | Medi-Caps University, Indore | Rau, Indore | Madhya Pradesh | Private (State Private University) | [Website](https://www.medicaps.ac.in) |
 | 1489 | Renaissance University, Indore | Indore | Madhya Pradesh | Private (State Private University) | [Website](https://renaissance.edu.in) |
 | 1490 | Divine International Group of Institutions (DIGI), SADA, Gwalior | Gwalior | Madhya Pradesh | Private | [Website](https://divineinternational.org.in) |
+
+### Batch 180 (Colleges 1,791–1,800, IDs: 1787–1796) — 1,800th Century Milestone
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1787 | Government Polytechnic College, Bandipora | Bandipora | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://www.gpcbandipora.org) |
+| 1788 | Royal Polytechnic College, Srinagar | Srinagar | Jammu & Kashmir | Private | [Website](http://royalpolytechnic.org) |
+| 1789 | Government College of Engineering & Technology (GCET), Jammu | Jammu | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](https://gcetjammu.org.in) |
+| 1790 | Model Institute of Engineering and Technology (MIET), Jammu | Jammu | Jammu & Kashmir | Private (Autonomous, NAAC 'A') | [Website](https://www.mietjmu.in) |
+| 1791 | Yogananda College of Engineering & Technology (YCET), Jammu | Jammu | Jammu & Kashmir | Private | [Website](https://ycet.ac.in) |
+| 1792 | NITS Polytechnic, Miran Sahib, Jammu | Jammu | Jammu & Kashmir | Private | [Website](https://nitspolytechnic.com) |
+| 1793 | The Business School (TBS), University of Jammu | Jammu | Jammu & Kashmir | Public/Government (State University Department) | [Website](https://tbs.jammuuniversity.ac.in) |
+| 1794 | Government Polytechnic College, Shopian | Shopian | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcshopian.edu.in) |
+| 1795 | Government Polytechnic College, Poonch | Poonch | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://www.gpcpoonch.in) |
+| 1796 | Government Polytechnic College, Reasi | Reasi | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcreasi.in) |
