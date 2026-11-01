@@ -8998,5 +8998,80 @@
         "website": "https://svsu.ac.in"
       }
     ]
+  },
+  {
+    "batch": 121,
+    "items": [
+      {
+        "id": 861,
+        "name": "Gurugram University",
+        "type": "Public/Government",
+        "location": "Gurugram, Haryana - 122018",
+        "website": "https://gurugramuniversity.ac.in"
+      },
+      {
+        "id": 862,
+        "name": "Central University of Haryana (CUH Mahendergarh)",
+        "type": "Public/Government",
+        "location": "Mahendergarh, Haryana - 123031",
+        "website": "https://www.cuh.ac.in"
+      },
+      {
+        "id": 864,
+        "name": "B M Group of Institutions (BMGI Farukhnagar)",
+        "type": "Private",
+        "location": "Gurugram, Haryana - 122506",
+        "website": "https://www.bmctm.com"
+      },
+      {
+        "id": 865,
+        "name": "Institute of Hotel and Tourism Management, MDU (IHTM Rohtak)",
+        "type": "Public/Government",
+        "location": "Rohtak, Haryana - 124001",
+        "website": "https://mdu.ac.in"
+      },
+      {
+        "id": 866,
+        "name": "Government Polytechnic Jamalpur Shekhon",
+        "type": "Public/Government",
+        "location": "Fatehabad, Haryana - 125120",
+        "website": "https://www.gpjamalpurshekhon.ac.in"
+      },
+      {
+        "id": 867,
+        "name": "State Institute of Engineering and Technology Nilokheri (SIET Nilokheri)",
+        "type": "Public/Government",
+        "location": "Karnal, Haryana - 132117",
+        "website": "https://sietnilokheri.ac.in"
+      },
+      {
+        "id": 871,
+        "name": "MSME Technology Centre Rohtak",
+        "type": "Public/Government",
+        "location": "Rohtak, Haryana - 124021",
+        "website": "https://www.msmetcrohtak.org"
+      },
+      {
+        "id": 872,
+        "name": "Bawa N.S. Janta Institute of Management & Technology (BNSJIMT)",
+        "type": "Private",
+        "location": "Yamuna Nagar, Haryana - 135133",
+        "website": "https://www.bnsjimt.org"
+      },
+      {
+        "id": 873,
+        "name": "MKM College of Management & Information Technology for Girls",
+        "type": "Private",
+        "location": "Palwal, Haryana - 121106",
+        "website": "https://mkmgroupofcolleges.com"
+      },
+      {
+        "id": 874,
+        "name": "Government Polytechnic Nanakpur",
+        "type": "Public/Government",
+        "location": "Panchkula, Haryana - 134102",
+        "website": "https://gpnanakpur.ac.in"
+      }
+    ]
   }
 ]

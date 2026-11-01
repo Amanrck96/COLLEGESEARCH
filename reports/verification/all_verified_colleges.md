@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1200 / 12,660**  
-**Roadmap Progress**: **120.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1210 / 12,660**  
+**Roadmap Progress**: **121.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1809,4 +1809,19 @@
 | **856** | Government Post Graduate College, Sector 1, Panchkula | Public/Government | Panchkula, Haryana - 134112 | [gcpanchkula.ac.in](https://gcpanchkula.ac.in) |
 | **857** | CBS Group of Institutions (Fatehpuri, Jhajjar) | Private | Jhajjar, Haryana - 124103 | [www.cbscolleges.com](https://www.cbscolleges.com) |
 | **860** | Shri Vishwakarma Skill University (SVSU Palwal) | Public/Government | Palwal, Haryana - 121102 | [svsu.ac.in](https://svsu.ac.in) |
+
+### Batch 121 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **861** | Gurugram University | Public/Government | Gurugram, Haryana - 122018 | [gurugramuniversity.ac.in](https://gurugramuniversity.ac.in) |
+| **862** | Central University of Haryana (CUH Mahendergarh) | Public/Government | Mahendergarh, Haryana - 123031 | [www.cuh.ac.in](https://www.cuh.ac.in) |
+| **864** | B M Group of Institutions (BMGI Farukhnagar) | Private | Gurugram, Haryana - 122506 | [www.bmctm.com](https://www.bmctm.com) |
+| **865** | Institute of Hotel and Tourism Management, MDU (IHTM Rohtak) | Public/Government | Rohtak, Haryana - 124001 | [mdu.ac.in](https://mdu.ac.in) |
+| **866** | Government Polytechnic Jamalpur Shekhon | Public/Government | Fatehabad, Haryana - 125120 | [www.gpjamalpurshekhon.ac.in](https://www.gpjamalpurshekhon.ac.in) |
+| **867** | State Institute of Engineering and Technology Nilokheri (SIET Nilokheri) | Public/Government | Karnal, Haryana - 132117 | [sietnilokheri.ac.in](https://sietnilokheri.ac.in) |
+| **871** | MSME Technology Centre Rohtak | Public/Government | Rohtak, Haryana - 124021 | [www.msmetcrohtak.org](https://www.msmetcrohtak.org) |
+| **872** | Bawa N.S. Janta Institute of Management & Technology (BNSJIMT) | Private | Yamuna Nagar, Haryana - 135133 | [www.bnsjimt.org](https://www.bnsjimt.org) |
+| **873** | MKM College of Management & Information Technology for Girls | Private | Palwal, Haryana - 121106 | [mkmgroupofcolleges.com](https://mkmgroupofcolleges.com) |
+| **874** | Government Polytechnic Nanakpur | Public/Government | Panchkula, Haryana - 134102 | [gpnanakpur.ac.in](https://gpnanakpur.ac.in) |
 
