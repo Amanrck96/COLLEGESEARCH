@@ -9448,5 +9448,80 @@
         "website": "https://sbvu.ac.in"
       }
     ]
+  },
+  {
+    "batch": 127,
+    "items": [
+      {
+        "id": 930,
+        "name": "Sri Manakula Vinayagar Polytechnic College (Puducherry)",
+        "type": "Private",
+        "location": "Madagadipet, Puducherry - 605107",
+        "website": "https://smvptc.edu.in"
+      },
+      {
+        "id": 931,
+        "name": "Karaikal Polytechnic College (KPTC Karaikal)",
+        "type": "Public/Government",
+        "location": "Karaikal, Puducherry - 609609",
+        "website": "https://kptc.py.gov.in"
+      },
+      {
+        "id": 932,
+        "name": "Perunthalaivar Kamarajar Institute of Engineering and Technology (PKIET / Women's Engineering College)",
+        "type": "Public/Government",
+        "location": "Lawspet, Puducherry - 605008",
+        "website": "https://wec.edu.in"
+      },
+      {
+        "id": 933,
+        "name": "Indira Gandhi Polytechnic College, Mahe",
+        "type": "Public/Government",
+        "location": "Mahe, UT of Puducherry - 673311",
+        "website": "https://igptc.py.gov.in"
+      },
+      {
+        "id": 934,
+        "name": "Motilal Nehru Government Polytechnic College (Puducherry)",
+        "type": "Public/Government",
+        "location": "Lawspet, Puducherry - 605008",
+        "website": "https://mngpc.py.gov.in"
+      },
+      {
+        "id": 935,
+        "name": "Sri Ganesh College of Engineering and Technology (Puducherry)",
+        "type": "Private",
+        "location": "Bahour, Puducherry - 607402",
+        "website": "https://sgcet.com"
+      },
+      {
+        "id": 936,
+        "name": "RAAK College of Engineering and Technology (Puducherry)",
+        "type": "Private",
+        "location": "Villianur, Puducherry - 605010",
+        "website": "https://raakengg.edu.in"
+      },
+      {
+        "id": 937,
+        "name": "Women's Polytechnic College, Government of Puducherry",
+        "type": "Public/Government",
+        "location": "Lawspet, Puducherry - 605008",
+        "website": "https://wptc.py.gov.in"
+      },
+      {
+        "id": 938,
+        "name": "Sri Venkateshwaraa College of Engineering & Technology (SVCET Puducherry)",
+        "type": "Private",
+        "location": "Ariyur, Puducherry - 605102",
+        "website": "https://svcetpondy.com"
+      },
+      {
+        "id": 939,
+        "name": "Dr. B.R. Ambedkar Polytechnic College (Yanam)",
+        "type": "Public/Government",
+        "location": "Yanam, UT of Puducherry - 533464",
+        "website": "https://braptc.py.gov.in"
+      }
+    ]
   }
 ]

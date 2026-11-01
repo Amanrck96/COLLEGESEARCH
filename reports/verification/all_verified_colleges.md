@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1260 / 12,660**  
-**Roadmap Progress**: **126.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1270 / 12,660**  
+**Roadmap Progress**: **127.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1899,4 +1899,19 @@
 | **927** | Pondicherry University (Central University) | Public/Government | Kalapet, Puducherry - 605014 | [www.pondiuni.edu.in](https://www.pondiuni.edu.in) |
 | **928** | Achariya College of Engineering Technology (Puducherry) | Private | Villianur, Puducherry - 605110 | [acet.achariya.in](https://acet.achariya.in) |
 | **929** | Sri Balaji Vidyapeeth (Deemed to be University, Puducherry) | Private | Pillaiyarkuppam, Puducherry - 607402 | [sbvu.ac.in](https://sbvu.ac.in) |
+
+### Batch 127 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **930** | Sri Manakula Vinayagar Polytechnic College (Puducherry) | Private | Madagadipet, Puducherry - 605107 | [smvptc.edu.in](https://smvptc.edu.in) |
+| **931** | Karaikal Polytechnic College (KPTC Karaikal) | Public/Government | Karaikal, Puducherry - 609609 | [kptc.py.gov.in](https://kptc.py.gov.in) |
+| **932** | Perunthalaivar Kamarajar Institute of Engineering and Technology (PKIET / Women's Engineering College) | Public/Government | Lawspet, Puducherry - 605008 | [wec.edu.in](https://wec.edu.in) |
+| **933** | Indira Gandhi Polytechnic College, Mahe | Public/Government | Mahe, UT of Puducherry - 673311 | [igptc.py.gov.in](https://igptc.py.gov.in) |
+| **934** | Motilal Nehru Government Polytechnic College (Puducherry) | Public/Government | Lawspet, Puducherry - 605008 | [mngpc.py.gov.in](https://mngpc.py.gov.in) |
+| **935** | Sri Ganesh College of Engineering and Technology (Puducherry) | Private | Bahour, Puducherry - 607402 | [sgcet.com](https://sgcet.com) |
+| **936** | RAAK College of Engineering and Technology (Puducherry) | Private | Villianur, Puducherry - 605010 | [raakengg.edu.in](https://raakengg.edu.in) |
+| **937** | Women's Polytechnic College, Government of Puducherry | Public/Government | Lawspet, Puducherry - 605008 | [wptc.py.gov.in](https://wptc.py.gov.in) |
+| **938** | Sri Venkateshwaraa College of Engineering & Technology (SVCET Puducherry) | Private | Ariyur, Puducherry - 605102 | [svcetpondy.com](https://svcetpondy.com) |
+| **939** | Dr. B.R. Ambedkar Polytechnic College (Yanam) | Public/Government | Yanam, UT of Puducherry - 533464 | [braptc.py.gov.in](https://braptc.py.gov.in) |
 
