@@ -1,0 +1,172 @@
+[
+  {
+    "id": 99,
+    "name": "SRI SATHYA SAI INSTITUTE OF HIGHER LEARNING",
+    "address": "WHITEFIELD - HOSKOTE ROAD, BRINDAVAN CAMPUS",
+    "state": "Karnataka",
+    "img": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.srisathyasaiins.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BBA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "SJES COLLEGE OF MANAGEMENT STUDIES",
+    "address": "MEDAHALLI, OLD MADRAS ROAD, VIRGO NAGAR POST, KR PURAM, BANGALORE -560049",
+    "state": "Karnataka",
+    "img": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.sjescollegeofma.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "VANGUARD BUSINESS SCHOOL",
+    "address": "128, 36TH CROSS, EAST END , JAYANAGAR 9TH BLOCK",
+    "state": "Karnataka",
+    "img": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.vanguardbusines.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "CAMBRIDGE INSTITUTE OF TECHNOLOGY",
+    "address": "K R PURAM",
+    "state": "Karnataka",
+    "img": "https://media.collegedekho.com/media/img/institute/new-resized-banner/3319_DJI_0594.jpg?width=1080",
+    "website": "https://www.cambridgeinstit.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "TMAES POLYTECHNIC",
+    "address": "BELLARY ROAD",
+    "state": "Karnataka",
+    "img": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.tmaespolytechni.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "AUTOMOBILE ENGINEERING",
+        "duration": "3 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "CHRIST COLLEGE",
+    "address": "SRIRAMPURA P O H D KOTE ROAD",
+    "state": "Karnataka",
+    "img": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.google.com/search?q=CHRIST%20COLLEGE%20official%20website%20MYSORE%20Karnataka",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "VIDYA SOUDHA ACADEMY OF MANAGEMENT SCIENCES",
+    "address": "PLOT NO 563 A/B, KIADB GROWTH CENTRE, H.N.PURA ROAD, HASSAN",
+    "state": "Karnataka",
+    "img": "https://vidyasoudha.edu.in/wp-content/uploads/2022/02/vsams-thumb1.jpg",
+    "website": "https://www.vidyasoudhaacad.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "RNS FIRST GRADE COLLEGE",
+    "address": "DR. VISHNUVARDHAN ROAD, CHANNASANDRA, RR NAGAR, BANGALORE",
+    "state": "Karnataka",
+    "img": "/images/campuses/iim_bangalore.jpg",
+    "website": "https://www.rnsfirstgradeco.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "PRAGATHI FIRST GRADE COLLEGE",
+    "address": "57, DR. RADHAKRISHNAN ROAD, OPP TO JANAPRIYA APARTMENT, CHIKKABANAVARA",
+    "state": "Karnataka",
+    "img": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.pragathifirstgr.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "GOVERNAMENT FIRST GRADE COLLEGE FOR WOMEN",
+    "address": "M G ROAD, HASSAN",
+    "state": "Karnataka",
+    "img": "https://img.studyclap.com/img/institute/college/773x343/16451/gfgcfw-hassan-0f60495109.jpg",
+    "website": "https://www.governamentfirs.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fee": "Contact for details"
+      }
+    ]
+  }
+]

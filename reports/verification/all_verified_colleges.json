@@ -3973,5 +3973,80 @@
         "website": "https://dce.karnataka.gov.in"
       }
     ]
+  },
+  {
+    "batch": 54,
+    "items": [
+      {
+        "id": 99,
+        "name": "Sri Sathya Sai Institute of Higher Learning (SSSIHL Brindavan)",
+        "type": "Deemed to be University",
+        "location": "Bengaluru - 560067, Karnataka",
+        "website": "https://sssihl.edu.in"
+      },
+      {
+        "id": 100,
+        "name": "SJES College of Management Studies (SJES CMS Bengaluru)",
+        "type": "Private (Management Studies College)",
+        "location": "Bengaluru - 560049, Karnataka",
+        "website": "https://sjesinstitutions.ac.in"
+      },
+      {
+        "id": 101,
+        "name": "Vanguard Business School (VBS Bengaluru)",
+        "type": "Private (Business School)",
+        "location": "Bengaluru - 560069, Karnataka",
+        "website": "https://vanguardbschool.com"
+      },
+      {
+        "id": 102,
+        "name": "Cambridge Institute of Technology (CITech Bengaluru)",
+        "type": "Private (Autonomous Engineering College)",
+        "location": "Bengaluru - 560036, Karnataka",
+        "website": "https://engg.cambridge.edu.in"
+      },
+      {
+        "id": 103,
+        "name": "TMAES Polytechnic Hosapete",
+        "type": "Private (Polytechnic College)",
+        "location": "Vijayanagara District - 583201, Karnataka",
+        "website": "https://tmaepolytechnic.org"
+      },
+      {
+        "id": 104,
+        "name": "Christ College Mysuru (Christ College Srirampura)",
+        "type": "Private (Degree College)",
+        "location": "Mysuru - 570008, Karnataka",
+        "website": "https://christcollegemysuru.ac.in"
+      },
+      {
+        "id": 105,
+        "name": "Vidya Soudha Academy of Management Sciences (VSAMS Bengaluru)",
+        "type": "Private (Management & Science College)",
+        "location": "Bengaluru - 560058, Karnataka",
+        "website": "https://vidyasoudha.edu.in"
+      },
+      {
+        "id": 106,
+        "name": "RNS First Grade College (RNS FGC Bengaluru)",
+        "type": "Private (Degree College)",
+        "location": "Bengaluru - 560098, Karnataka",
+        "website": "https://rnsfgc.edu.in"
+      },
+      {
+        "id": 107,
+        "name": "Pragathi First Grade College (PFGC Chikkabanavara)",
+        "type": "Private (Degree College)",
+        "location": "Bengaluru - 560090, Karnataka",
+        "website": "https://pragathicollege.ac.in"
+      },
+      {
+        "id": 108,
+        "name": "Government First Grade College for Women Hassan (GFGCW Hassan)",
+        "type": "Public/Government (Women's Degree College)",
+        "location": "Hassan - 573201, Karnataka",
+        "website": "https://dce.karnataka.gov.in"
+      }
+    ]
   }
 ]
