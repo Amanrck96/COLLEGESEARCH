@@ -51890,14 +51890,14 @@
     },
     {
       "id": 613,
-      "name": "GAYATHRI INSTITUTE OF TECHNOLOGY AND SCIENCES",
+      "name": "Gayatri Institute of Technology and Sciences (GITS, Wanaparthy)",
       "shortName": "Course Institute-1",
       "location": "MAHABUBNAGAR",
       "state": "Telangana",
       "address": "RAJAPETA(VILLAGE)",
-      "phone": "0123-456789",
-      "website": "https://www.gayathriinstitu.edu.in",
-      "rating": 4.5,
+      "phone": "08543-222345",
+      "website": "http://www.gits.ac.in",
+      "rating": 4,
       "reviews": 539,
       "type": "Private",
       "about": "Welcome to GAYATHRI INSTITUTE OF TECHNOLOGY AND SCIENCES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -51917,12 +51917,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Electronics and Communication Engineering",
+          "title": "B.Tech in Electronics and Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -51941,7 +51963,9 @@
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GAYATHRI%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20SCIENCES%20MAHABUBNAGAR%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Wanaparthy",
+      "established": 2008
     },
     {
       "id": 614,
@@ -52000,14 +52024,14 @@
     },
     {
       "id": 615,
-      "name": "KESHAV MEMORIAL ENGINEERING COLLEGE",
+      "name": "Keshav Memorial Engineering College (KMEC, Narapally, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "SURVEY NO 35,KACHWANISINGARAM, MALKAJGIRI-MEDCHAL DISTRICT,HYDERABAD-500088",
-      "phone": "0123-456789",
-      "website": "https://www.keshavmemoriale.edu.in",
-      "rating": 4.5,
+      "phone": "040-29337575",
+      "website": "https://kmec.edu.in",
+      "rating": 4.4,
       "reviews": 98,
       "type": "Private",
       "about": "Welcome to KESHAV MEMORIAL ENGINEERING COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52027,12 +52051,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
+          "name": "B.Tech in Computer Science and Engineering (CSE)",
+          "title": "B.Tech in Computer Science and Engineering (CSE)",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 300
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "300"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in CSE (Data Science)",
+          "title": "B.Tech in CSE (Data Science)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52048,20 +52094,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KESHAV%20MEMORIAL%20ENGINEERING%20COLLEGE%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KESHAV%20MEMORIAL%20ENGINEERING%20COLLEGE%20RANGAREDDI%20Telangana",
+      "city": "Medchal-Malkajgiri",
+      "established": 2021
     },
     {
       "id": 616,
-      "name": "AURORA'S TECHNOLOGICAL & MANAGEMENT ACADEMY",
+      "name": "Aurora's Technological and Management Academy (ATMA, Parvathapur, Ghatkesar)",
       "shortName": "Course Institute-1",
       "location": "NALGONDA",
       "state": "Telangana",
       "address": "PARVATHAPUR (V), GHATKESAR (M), RANGA REDDY DIST.,",
-      "phone": "0123-456789",
-      "website": "https://www.aurorastechnolo.edu.in",
-      "rating": 4.5,
+      "phone": "040-27031533",
+      "website": "https://atma.edu.in",
+      "rating": 4.1,
       "reviews": 125,
       "type": "Private",
       "about": "Welcome to AURORA'S TECHNOLOGICAL & MANAGEMENT ACADEMY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52081,12 +52129,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE & ENGINEERING",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 180
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in Electronics & Communication Engineering",
+          "title": "B.Tech in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹68,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52104,17 +52174,19 @@
       ],
       "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/12913_AA1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20TECHNOLOGICAL%20%26%20MANAGEMENT%20ACADEMY%20NALGONDA%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20TECHNOLOGICAL%20%26%20MANAGEMENT%20ACADEMY%20NALGONDA%20Telangana",
+      "city": "Medchal-Malkajgiri",
+      "established": 2008
     },
     {
       "id": 617,
-      "name": "SVKM'S NARSEE MONJEE INSTITUTE OF MANAGEMENT STUDIES, SCHOOL OF BUSINESS MANAGEMENT, HYDERABAD (NMIMS)",
+      "name": "SVKM's NMIMS School of Business Management, Hyderabad (SBM NMIMS)",
       "shortName": "Course Institute-1",
       "location": "MAHABUBNAGAR",
       "state": "Telangana",
       "address": "PLOT NO B4, GREEN INDUSTRIAL PARK, POLIPALLY SEZ, TSIIC, JADCHERLA, MEHABOOBNAGAR DISTRICT, TELANGANA. PIN - 509301",
-      "phone": "0123-456789",
-      "website": "https://www.svkmsnarseemonj.edu.in",
+      "phone": "040-27004832",
+      "website": "https://hyderabad.nmims.edu",
       "rating": 4.5,
       "reviews": 507,
       "type": "Private",
@@ -52135,12 +52207,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER ENGINEERING",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 180
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹10,50,000/Year",
+          "eligibility": "Graduation (50%+) + NMAT by GMAC",
+          "exams": "NMAT",
+          "intake": "180"
+        },
+        {
+          "name": "Executive MBA",
+          "title": "Executive MBA",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹5,00,000/Year",
+          "eligibility": "Graduation + 3+ yrs work experience",
+          "exams": "NMAT, Interview",
+          "intake": "60"
+        },
+        {
+          "name": "Post Graduate Diploma in Management (PGDM - Executive)",
+          "title": "Post Graduate Diploma in Management (PGDM - Executive)",
+          "division": "Postgraduate Diploma",
+          "duration": "15 Months",
+          "fees": "₹4,50,000/Year",
+          "eligibility": "Graduation with professional experience",
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52156,21 +52250,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bms_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SVKM'S%20NARSEE%20MONJEE%20INSTITUTE%20OF%20MANAGEMENT%20STUDIES%2C%20SCHOOL%20OF%20BUSINESS%20MANAGEMENT%2C%20HYDERABAD%20(NMIMS)%20MAHABUBNAGAR%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Hyderabad",
+      "established": 2010
     },
     {
       "id": 618,
-      "name": "S V S GROUP OF INSTITUTIONS",
+      "name": "SVS Group of Institutions (SVS Institute of Technology, Bheemaram, Warangal)",
       "shortName": "Course Institute-1",
       "location": "WARANGAL",
       "state": "Telangana",
       "address": "# 1 - 96, BHEEMARAM",
-      "phone": "0123-456789",
-      "website": "https://www.svsgroupofinsti.edu.in",
-      "rating": 4.5,
+      "phone": "0870-2453555",
+      "website": "https://svsgroup.ac.in",
+      "rating": 4.1,
       "reviews": 219,
       "type": "Private",
       "about": "Welcome to S V S GROUP OF INSTITUTIONS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52190,12 +52286,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "VLSI",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 12
+          "fees": "₹68,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Electronics & Communication Engineering",
+          "title": "B.Tech in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹62,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "M.Tech in VLSI Design",
+          "title": "M.Tech in VLSI Design",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹57,000/Year",
+          "eligibility": "B.Tech in ECE + GATE / TS PGECET",
+          "exams": "GATE, TS PGECET",
+          "intake": "18"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
+        },
+        {
+          "name": "Polytechnic Diploma in Engineering",
+          "title": "Polytechnic Diploma in Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹15,500/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52213,18 +52351,20 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/svs-group-of-institutions-warangal-286755.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=S%20V%20S%20GROUP%20OF%20INSTITUTIONS%20WARANGAL%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=S%20V%20S%20GROUP%20OF%20INSTITUTIONS%20WARANGAL%20Telangana",
+      "city": "Warangal",
+      "established": 2009
     },
     {
       "id": 619,
-      "name": "AAR MAHAVEER ENGINEERING COLLEGE",
+      "name": "AAR Mahaveer Engineering College (Bandlaguda, Chandrayangutta, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "VYASAPURI, BANDLAGUDA POST: KESAVAGIRI HYDERABAD-500005",
-      "phone": "0123-456789",
-      "website": "https://www.aarmahaveerengi.edu.in",
-      "rating": 4.5,
+      "phone": "040-29880088",
+      "website": "https://armc.ac.in",
+      "rating": 4.1,
       "reviews": 395,
       "type": "Private",
       "about": "Welcome to AAR MAHAVEER ENGINEERING COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52244,12 +52384,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹72,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Electrical and Electronics Engineering",
+          "title": "B.Tech in Electrical and Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "30"
+        },
+        {
+          "name": "B.Tech in Mechanical Engineering",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52267,18 +52439,20 @@
       ],
       "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1486366442camds.JPG",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AAR%20MAHAVEER%20ENGINEERING%20COLLEGE%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AAR%20MAHAVEER%20ENGINEERING%20COLLEGE%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 2010
     },
     {
       "id": 620,
-      "name": "GOKARAJU LAILAVATHI ENGINEERING COLLEGE",
+      "name": "Gokaraju Lailavathi Engineering College for Women (GLEC, Nizampet, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "BACHUPALLY, KUKATPALLY, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.gokarajulailava.edu.in",
-      "rating": 4.5,
+      "phone": "040-65864444",
+      "website": "https://glec.ac.in",
+      "rating": 4.4,
       "reviews": 137,
       "type": "Private",
       "about": "Welcome to GOKARAJU LAILAVATHI ENGINEERING COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52298,12 +52472,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 360
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET (Women only)",
+          "exams": "TS EAMCET",
+          "intake": "360"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in CSE (Data Science)",
+          "title": "B.Tech in CSE (Data Science)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Information Technology (IT)",
+          "title": "B.Tech in Information Technology (IT)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52322,18 +52528,20 @@
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOKARAJU%20LAILAVATHI%20ENGINEERING%20COLLEGE%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Hyderabad",
+      "established": 2021
     },
     {
       "id": 621,
-      "name": "KESHAV MEMORIAL INSTITUTE OF MANAGEMENT",
+      "name": "Keshav Memorial Institute of Management (KMIM, Narayanaguda, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "3-5-1026, NARAYANGUDA",
-      "phone": "0123-456789",
-      "website": "https://www.keshavmemoriali.edu.in",
-      "rating": 4.5,
+      "phone": "040-23227952",
+      "website": "https://kmim.ac.in",
+      "rating": 4.3,
       "reviews": 509,
       "type": "Private",
       "about": "Welcome to KESHAV MEMORIAL INSTITUTE OF MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52353,12 +52561,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN BUSINESS ADMINISTRATION",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 120
+          "name": "Master of Business Administration (MBA - Finance & HR)",
+          "title": "Master of Business Administration (MBA - Finance & HR)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
+        },
+        {
+          "name": "MBA in Marketing Management",
+          "title": "MBA in Marketing Management",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
+        },
+        {
+          "name": "Integrated MBA",
+          "title": "Integrated MBA",
+          "division": "Dual Degree",
+          "duration": "5 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 in any stream (50%+)",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52374,21 +52604,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/ramaiah_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=KESHAV%20MEMORIAL%20INSTITUTE%20OF%20MANAGEMENT%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 2020
     },
     {
       "id": 622,
-      "name": "AURORA'S FILM AND TELEVISION INSTITUTE",
+      "name": "Aurora's Film and Television Institute (AFTI, Chikkadpally, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "CHIKKADPALLY, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.aurorasfilmandt.edu.in",
-      "rating": 4.5,
+      "phone": "040-27661801",
+      "website": "https://afti.edu.in",
+      "rating": 4.2,
       "reviews": 399,
       "type": "Private",
       "about": "Welcome to AURORA'S FILM AND TELEVISION INSTITUTE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52408,12 +52640,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CINEMATOGRAPHY",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
+          "name": "B.A. in Film and Media Arts (Cinematography)",
+          "title": "B.A. in Film and Media Arts (Cinematography)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Aptitude Test & Interview",
+          "intake": "30"
+        },
+        {
+          "name": "B.A. in Direction & Screenwriting",
+          "title": "B.A. in Direction & Screenwriting",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 in any discipline",
+          "exams": "Aptitude Test",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Film Direction & Editing",
+          "title": "Diploma in Film Direction & Editing",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹60,000/Year",
           "eligibility": "10+2 / Graduation",
-          "type": "APPLIED ARTS AND CRAFTS",
-          "intake": 30
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52431,18 +52685,20 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/aurora039s-technological-research-institute-atri-hyderabad-61886.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20FILM%20AND%20TELEVISION%20INSTITUTE%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20FILM%20AND%20TELEVISION%20INSTITUTE%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 2017
     },
     {
       "id": 623,
-      "name": "AURORA'S SCHOOL OF FASHION DESIGN",
+      "name": "Aurora's Design Academy (School of Fashion Design, Panjagutta, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "NAMPALLY, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.aurorasschoolof.edu.in",
-      "rating": 4.5,
+      "phone": "040-23405722",
+      "website": "https://ada.edu.in",
+      "rating": 4.2,
       "reviews": 308,
       "type": "Private",
       "about": "Welcome to AURORA'S SCHOOL OF FASHION DESIGN, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -52462,12 +52718,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "FASHION AND APPAREL DESIGN",
+          "name": "B.Des in Fashion and Apparel Design",
+          "title": "B.Des in Fashion and Apparel Design",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "APPLIED ARTS AND CRAFTS",
-          "intake": 30
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 with 50%+ + Design Aptitude Test",
+          "exams": "DAT, NIFT, UCEED",
+          "intake": "30"
+        },
+        {
+          "name": "B.Des in Interior Design",
+          "title": "B.Des in Interior Design",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,35,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "DAT",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Fashion Styling and Communication",
+          "title": "Diploma in Fashion Styling and Communication",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 in any discipline",
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -52485,7 +52763,9 @@
       ],
       "image": "https://www.ada.edu.in/images/home-sc-img1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20SCHOOL%20OF%20FASHION%20DESIGN%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20SCHOOL%20OF%20FASHION%20DESIGN%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 2015
     },
     {
       "id": 624,

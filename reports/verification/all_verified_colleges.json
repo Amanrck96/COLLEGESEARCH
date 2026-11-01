@@ -7348,5 +7348,80 @@
         "website": "https://cmrec.ac.in"
       }
     ]
+  },
+  {
+    "batch": 99,
+    "items": [
+      {
+        "id": 613,
+        "name": "Gayatri Institute of Technology and Sciences (GITS, Wanaparthy)",
+        "type": "Private",
+        "location": "RAJAPETA(VILLAGE)",
+        "website": "http://www.gits.ac.in"
+      },
+      {
+        "id": 615,
+        "name": "Keshav Memorial Engineering College (KMEC, Narapally, Hyderabad)",
+        "type": "Private",
+        "location": "MALKAJGIRI-MEDCHAL DISTRICT,HYDERABAD-500088",
+        "website": "https://kmec.edu.in"
+      },
+      {
+        "id": 616,
+        "name": "Aurora's Technological and Management Academy (ATMA, Parvathapur, Ghatkesar)",
+        "type": "Private",
+        "location": "RANGA REDDY DIST.,",
+        "website": "https://atma.edu.in"
+      },
+      {
+        "id": 617,
+        "name": "SVKM's NMIMS School of Business Management, Hyderabad (SBM NMIMS)",
+        "type": "Private",
+        "location": "MEHABOOBNAGAR DISTRICT, TELANGANA. PIN - 509301",
+        "website": "https://hyderabad.nmims.edu"
+      },
+      {
+        "id": 618,
+        "name": "SVS Group of Institutions (SVS Institute of Technology, Bheemaram, Warangal)",
+        "type": "Private",
+        "location": "# 1 - 96, BHEEMARAM",
+        "website": "https://svsgroup.ac.in"
+      },
+      {
+        "id": 619,
+        "name": "AAR Mahaveer Engineering College (Bandlaguda, Chandrayangutta, Hyderabad)",
+        "type": "Private",
+        "location": "VYASAPURI, BANDLAGUDA POST: KESAVAGIRI HYDERABAD-500005",
+        "website": "https://armc.ac.in"
+      },
+      {
+        "id": 620,
+        "name": "Gokaraju Lailavathi Engineering College for Women (GLEC, Nizampet, Hyderabad)",
+        "type": "Private",
+        "location": "KUKATPALLY, HYDERABAD",
+        "website": "https://glec.ac.in"
+      },
+      {
+        "id": 621,
+        "name": "Keshav Memorial Institute of Management (KMIM, Narayanaguda, Hyderabad)",
+        "type": "Private",
+        "location": "3-5-1026, NARAYANGUDA",
+        "website": "https://kmim.ac.in"
+      },
+      {
+        "id": 622,
+        "name": "Aurora's Film and Television Institute (AFTI, Chikkadpally, Hyderabad)",
+        "type": "Private",
+        "location": "CHIKKADPALLY, HYDERABAD",
+        "website": "https://afti.edu.in"
+      },
+      {
+        "id": 623,
+        "name": "Aurora's Design Academy (School of Fashion Design, Panjagutta, Hyderabad)",
+        "type": "Private",
+        "location": "NAMPALLY, HYDERABAD",
+        "website": "https://ada.edu.in"
+      }
+    ]
   }
 ]

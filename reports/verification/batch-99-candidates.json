@@ -1,0 +1,202 @@
+[
+  {
+    "id": 613,
+    "name": "GAYATHRI INSTITUTE OF TECHNOLOGY AND SCIENCES",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.gayathriinstitu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "name": "KESHAV MEMORIAL ENGINEERING COLLEGE",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.keshavmemoriale.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 300
+      }
+    ]
+  },
+  {
+    "id": 616,
+    "name": "AURORA'S TECHNOLOGICAL & MANAGEMENT ACADEMY",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/12913_AA1.jpg",
+    "website": "https://www.aurorastechnolo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE & ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 180
+      }
+    ]
+  },
+  {
+    "id": 617,
+    "name": "SVKM'S NARSEE MONJEE INSTITUTE OF MANAGEMENT STUDIES, SCHOOL OF BUSINESS MANAGEMENT, HYDERABAD (NMIMS)",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.svkmsnarseemonj.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "COMPUTER ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 180
+      }
+    ]
+  },
+  {
+    "id": 618,
+    "name": "S V S GROUP OF INSTITUTIONS",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/svs-group-of-institutions-warangal-286755.webp",
+    "website": "https://www.svsgroupofinsti.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "VLSI",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 12
+      }
+    ]
+  },
+  {
+    "id": 619,
+    "name": "AAR MAHAVEER ENGINEERING COLLEGE",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1486366442camds.JPG",
+    "website": "https://www.aarmahaveerengi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ]
+  },
+  {
+    "id": 620,
+    "name": "GOKARAJU LAILAVATHI ENGINEERING COLLEGE",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.gokarajulailava.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 360
+      }
+    ]
+  },
+  {
+    "id": 621,
+    "name": "KESHAV MEMORIAL INSTITUTE OF MANAGEMENT",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.keshavmemoriali.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MASTERS IN BUSINESS ADMINISTRATION",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "MANAGEMENT",
+        "intake": 120
+      }
+    ]
+  },
+  {
+    "id": 622,
+    "name": "AURORA'S FILM AND TELEVISION INSTITUTE",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/aurora039s-technological-research-institute-atri-hyderabad-61886.webp",
+    "website": "https://www.aurorasfilmandt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CINEMATOGRAPHY",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "APPLIED ARTS AND CRAFTS",
+        "intake": 30
+      }
+    ]
+  },
+  {
+    "id": 623,
+    "name": "AURORA'S SCHOOL OF FASHION DESIGN",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://www.ada.edu.in/images/home-sc-img1.jpg",
+    "website": "https://www.aurorasschoolof.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "FASHION AND APPAREL DESIGN",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "APPLIED ARTS AND CRAFTS",
+        "intake": 30
+      }
+    ]
+  }
+]

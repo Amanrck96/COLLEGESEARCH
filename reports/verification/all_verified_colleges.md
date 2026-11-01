@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **980 / 12,660**  
-**Roadmap Progress**: **98.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **990 / 12,660**  
+**Roadmap Progress**: **99.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1479,4 +1479,19 @@
 | **610** | Sree Dattha Institute of Engineering and Science (Sheriguda, Ibrahimpatnam) | Private | R.R DISTRICT, ANDHRA PRADESH | [sreedattha.ac.in](https://sreedattha.ac.in) |
 | **611** | Kommuri Pratap Reddy Institute of Technology (KPRIT, Ghatkesar, Hyderabad) | Private | EDULABAD(V), GHANPUR GRAMPANCHAYAT | [kpritech.ac.in](https://kpritech.ac.in) |
 | **612** | CMR Engineering College (CMREC, Kandlakoya, Medchal, Hyderabad) | Private | KANDLAKOYA (V) MEDCHAL (M) | [cmrec.ac.in](https://cmrec.ac.in) |
+
+### Batch 99 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **613** | Gayatri Institute of Technology and Sciences (GITS, Wanaparthy) | Private | RAJAPETA(VILLAGE) | [www.gits.ac.in](http://www.gits.ac.in) |
+| **615** | Keshav Memorial Engineering College (KMEC, Narapally, Hyderabad) | Private | MALKAJGIRI-MEDCHAL DISTRICT,HYDERABAD-500088 | [kmec.edu.in](https://kmec.edu.in) |
+| **616** | Aurora's Technological and Management Academy (ATMA, Parvathapur, Ghatkesar) | Private | RANGA REDDY DIST., | [atma.edu.in](https://atma.edu.in) |
+| **617** | SVKM's NMIMS School of Business Management, Hyderabad (SBM NMIMS) | Private | MEHABOOBNAGAR DISTRICT, TELANGANA. PIN - 509301 | [hyderabad.nmims.edu](https://hyderabad.nmims.edu) |
+| **618** | SVS Group of Institutions (SVS Institute of Technology, Bheemaram, Warangal) | Private | # 1 - 96, BHEEMARAM | [svsgroup.ac.in](https://svsgroup.ac.in) |
+| **619** | AAR Mahaveer Engineering College (Bandlaguda, Chandrayangutta, Hyderabad) | Private | VYASAPURI, BANDLAGUDA POST: KESAVAGIRI HYDERABAD-500005 | [armc.ac.in](https://armc.ac.in) |
+| **620** | Gokaraju Lailavathi Engineering College for Women (GLEC, Nizampet, Hyderabad) | Private | KUKATPALLY, HYDERABAD | [glec.ac.in](https://glec.ac.in) |
+| **621** | Keshav Memorial Institute of Management (KMIM, Narayanaguda, Hyderabad) | Private | 3-5-1026, NARAYANGUDA | [kmim.ac.in](https://kmim.ac.in) |
+| **622** | Aurora's Film and Television Institute (AFTI, Chikkadpally, Hyderabad) | Private | CHIKKADPALLY, HYDERABAD | [afti.edu.in](https://afti.edu.in) |
+| **623** | Aurora's Design Academy (School of Fashion Design, Panjagutta, Hyderabad) | Private | NAMPALLY, HYDERABAD | [ada.edu.in](https://ada.edu.in) |
 
