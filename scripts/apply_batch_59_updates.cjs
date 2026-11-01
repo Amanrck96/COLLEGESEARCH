@@ -212,3 +212,4 @@ for (let i = 0; i < siteData.colleges.length; i++) {
 
 fs.writeFileSync(SITE_DATA_PATH, JSON.stringify(siteData, null, 2), 'utf8');
 console.log(`Successfully updated ${updatedCount} colleges in ${SITE_DATA_PATH}`);
+

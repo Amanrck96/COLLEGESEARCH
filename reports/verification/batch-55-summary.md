@@ -84,3 +84,4 @@
 - **Defects Remediated**:
   - Remediated critical scraper defect: scraper recorded AMU as "AMU Entrance Exam 2026" with state set to "Karnataka" and assigned BMS Bangalore photo leak!
   - Restored historic 1875 Central University identity, state to `Uttar Pradesh`, official `https://www.amu.ac.in` website, and audited engineering (ZHCET B.Tech), medicine (JNMC MBBS), and MBA curricula.
+

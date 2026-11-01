@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **600 / 12,660**  
-**Roadmap Progress**: **60.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **610 / 12,660**  
+**Roadmap Progress**: **61.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -909,4 +909,19 @@
 | **169** | Shreeyash Institute of Management Studies and Research (SIMSR) | Private (Management Institute / BAMU Affiliated) | Chhatrapati Sambhajinagar - 431010, Maharashtra | [syp.ac.in](https://syp.ac.in) |
 | **170** | MGM Institute of Management and Research (MGM IOM Aurangabad) | Private (Constituent Institute of MGM University) | Chhatrapati Sambhajinagar (Aurangabad) - 431003, Maharashtra | [mgmiom.org](https://mgmiom.org) |
 | **172** | Rajiv Gandhi College of Engineering (RGCOE Ahmednagar) | Private (Engineering College / SPPU Pune Affiliated) | Ahmednagar District - 414304, Maharashtra | [rgei.ac.in](https://rgei.ac.in) |
+
+### Batch 61 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **173** | Anjuman Polytechnic, Nagpur (APN Nagpur) | Private / Minority (Polytechnic / MSBTE Affiliated) | Nagpur - 440001, Maharashtra | [www.anjumanpoly.edu.in](https://www.anjumanpoly.edu.in) |
+| **174** | Samrat Ashok Polytechnic, Chalisgaon (SAP Jalgaon) | Private (Polytechnic / MSBTE Affiliated) | Jalgaon District - 424101, Maharashtra | [satipoly.ac.in](https://satipoly.ac.in) |
+| **175** | Bharati Vidyapeeth Deemed University College of Engineering, Pune (BVUCOE Pune) | Deemed to be University (Constituent Engineering College of BVDU) | Pune - 411043, Maharashtra | [bvucoepune.edu.in](http://bvucoepune.edu.in) |
+| **176** | Vasantrao Naik Mahavidyalaya, Chhatrapati Sambhajinagar (VNMC Aurangabad) | Private / Grant-in-Aid (Arts, Science & Commerce College / BAMU) | Chhatrapati Sambhajinagar (Aurangabad) - 431003, Maharashtra | [vnmc.org](https://vnmc.org) |
+| **177** | School of Commerce and Management Sciences, SRTMUN (SCMS Nanded) | Public/Government (Constituent School of State Public University) | Nanded - 431606, Maharashtra | [www.srtmun.ac.in](https://www.srtmun.ac.in) |
+| **178** | Shri Laxmanrao Mankar College of Polytechnic, Amgaon (SLMP Gondia) | Private (Polytechnic / MSBTE Affiliated) | Gondia District - 441902, Maharashtra | [www.slmpamgaon.edu.in](https://www.slmpamgaon.edu.in) |
+| **180** | Arihant College of Arts, Commerce and Science (ACACS Pune) | Private (Degree College / SPPU Affiliated) | Pune - 411001, Maharashtra | [arihantcollege.ac.in](https://arihantcollege.ac.in) |
+| **181** | Chetana's Hazarimal Somani College of Commerce & Economics (Chetana College Bandra East, Mumbai) | Private / Grant-in-Aid (Premier Commerce & Economics College) | Mumbai - 400051, Maharashtra | [chetanacollege.in](https://chetanacollege.in) |
+| **182** | Sharda School of Business Studies, Sharda University (SUAT Greater Noida) | Private University (Sharda University) | Gautam Buddha Nagar - 201310, Uttar Pradesh | [www.sharda.ac.in](https://www.sharda.ac.in) |
+| **183** | University of Delhi (DU New Delhi) | Public/Government (Central University - 1922, NIRF #1) | New Delhi - 110007, Delhi NCR | [www.du.ac.in](https://www.du.ac.in) |
 

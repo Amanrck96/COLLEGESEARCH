@@ -4498,5 +4498,80 @@
         "website": "https://rgei.ac.in"
       }
     ]
+  },
+  {
+    "batch": 61,
+    "items": [
+      {
+        "id": 173,
+        "name": "Anjuman Polytechnic, Nagpur (APN Nagpur)",
+        "type": "Private / Minority (Polytechnic / MSBTE Affiliated)",
+        "location": "Nagpur - 440001, Maharashtra",
+        "website": "https://www.anjumanpoly.edu.in"
+      },
+      {
+        "id": 174,
+        "name": "Samrat Ashok Polytechnic, Chalisgaon (SAP Jalgaon)",
+        "type": "Private (Polytechnic / MSBTE Affiliated)",
+        "location": "Jalgaon District - 424101, Maharashtra",
+        "website": "https://satipoly.ac.in"
+      },
+      {
+        "id": 175,
+        "name": "Bharati Vidyapeeth Deemed University College of Engineering, Pune (BVUCOE Pune)",
+        "type": "Deemed to be University (Constituent Engineering College of BVDU)",
+        "location": "Pune - 411043, Maharashtra",
+        "website": "http://bvucoepune.edu.in"
+      },
+      {
+        "id": 176,
+        "name": "Vasantrao Naik Mahavidyalaya, Chhatrapati Sambhajinagar (VNMC Aurangabad)",
+        "type": "Private / Grant-in-Aid (Arts, Science & Commerce College / BAMU)",
+        "location": "Chhatrapati Sambhajinagar (Aurangabad) - 431003, Maharashtra",
+        "website": "https://vnmc.org"
+      },
+      {
+        "id": 177,
+        "name": "School of Commerce and Management Sciences, SRTMUN (SCMS Nanded)",
+        "type": "Public/Government (Constituent School of State Public University)",
+        "location": "Nanded - 431606, Maharashtra",
+        "website": "https://www.srtmun.ac.in"
+      },
+      {
+        "id": 178,
+        "name": "Shri Laxmanrao Mankar College of Polytechnic, Amgaon (SLMP Gondia)",
+        "type": "Private (Polytechnic / MSBTE Affiliated)",
+        "location": "Gondia District - 441902, Maharashtra",
+        "website": "https://www.slmpamgaon.edu.in"
+      },
+      {
+        "id": 180,
+        "name": "Arihant College of Arts, Commerce and Science (ACACS Pune)",
+        "type": "Private (Degree College / SPPU Affiliated)",
+        "location": "Pune - 411001, Maharashtra",
+        "website": "https://arihantcollege.ac.in"
+      },
+      {
+        "id": 181,
+        "name": "Chetana's Hazarimal Somani College of Commerce & Economics (Chetana College Bandra East, Mumbai)",
+        "type": "Private / Grant-in-Aid (Premier Commerce & Economics College)",
+        "location": "Mumbai - 400051, Maharashtra",
+        "website": "https://chetanacollege.in"
+      },
+      {
+        "id": 182,
+        "name": "Sharda School of Business Studies, Sharda University (SUAT Greater Noida)",
+        "type": "Private University (Sharda University)",
+        "location": "Gautam Buddha Nagar - 201310, Uttar Pradesh",
+        "website": "https://www.sharda.ac.in"
+      },
+      {
+        "id": 183,
+        "name": "University of Delhi (DU New Delhi)",
+        "type": "Public/Government (Central University - 1922, NIRF #1)",
+        "location": "New Delhi - 110007, Delhi NCR",
+        "website": "https://www.du.ac.in"
+      }
+    ]
   }
 ]

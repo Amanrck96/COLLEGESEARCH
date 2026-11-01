@@ -82,3 +82,4 @@
   - Corrected critical state misclassification from Maharashtra to `Uttar Pradesh`.
   - Purged placeholder phone (`0123-456789`) and dummy domain; updated website to official `https://bit.bhagwantgroup.com`.
   - Purged photo leak: scraper assigned `/images/campuses/bharati_vidyapeeth_navimumbai.jpg` (Bharati Vidyapeeth Mumbai) to BIT Muzaffarnagar; assigned verified campus architecture asset.
+

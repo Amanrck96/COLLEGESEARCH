@@ -83,3 +83,4 @@
 - **Defects Remediated**:
   - Normalized uppercase title; purged placeholder phone and dummy domain; replaced external rgei image with verified architecture asset.
   - Updated website to official `https://rgei.ac.in`; audited SPPU B.E. Computer, Mechanical, and Civil engineering curricula.
+

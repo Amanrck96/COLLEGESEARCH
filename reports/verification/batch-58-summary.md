@@ -87,3 +87,4 @@
   - Assigned verified authentic BMS College Bangalore campus photograph (`/images/campuses/bms_bangalore.jpg`) to official headquarters record.
   - Updated website to official `https://www.bmsce.ac.in`.
   - Audited premier VTU autonomous B.E. CSE, ECE, and Mechanical curricula.
+

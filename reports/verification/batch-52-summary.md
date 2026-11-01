@@ -94,3 +94,4 @@
 - `reports/verification/all_verified_colleges.json` (52 batches)
 - `reports/verification/all_verified_colleges.md` (520 colleges)
 - `public/siteData.json` (Synced to 520 verified colleges)
+

@@ -375,3 +375,4 @@ fs.writeFileSync(PROGRESS_PATH, JSON.stringify(progress, null, 2), 'utf8');
 console.log(`Updated progress.json: total_verified = ${progress.total_verified}, current_batch = 53`);
 
 module.exports = batch53Colleges;
+

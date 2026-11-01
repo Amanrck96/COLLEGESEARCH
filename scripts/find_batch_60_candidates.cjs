@@ -35,3 +35,4 @@ fs.writeFileSync(
   JSON.stringify(candidates, null, 2)
 );
 console.log(JSON.stringify(candidates.map(c => ({ id: c.id, name: c.name, city: c.city, state: c.state })), null, 2));
+

@@ -90,3 +90,4 @@
   - Purged photo leak: scraper assigned Ramaiah Bangalore photo to KMC Manipal; assigned verified campus architecture asset.
   - Updated website to official `https://manipal.edu/kmc-manipal.html`.
   - Audited premier MBBS and postgraduate residency curricula.
+

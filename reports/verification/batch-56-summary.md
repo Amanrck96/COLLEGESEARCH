@@ -87,3 +87,4 @@
 - **Defects Remediated**:
   - Purged photo leak: scraper assigned `/images/campuses/bangalore_university.jpg` (Bangalore University) to AIMS in Mandya; assigned verified campus architecture asset.
   - Updated website to official `https://www.bgsaims.edu.in`; audited statutory NMC MBBS and postgraduate clinical curricula.
+

@@ -1,0 +1,94 @@
+[
+  {
+    "id": 173,
+    "name": "ANJUMAN POLYTECHNIC",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/sas_institute_boisar.png",
+    "website": "https://www.anjumanpolytech.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 174,
+    "name": "SAMRAT ASHOK POLYTECHNIC",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://satipoly.ac.in/images/slider/0fcee47bd3ebb628775b13f6dfa837ce.jpg",
+    "website": "https://www.samratashokpoly.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 175,
+    "name": "Bharati Vidyapeeth Deemed University College of Engineering, Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/bharati_vidyapeeth_navimumbai.jpg",
+    "website": "http://bvucoepune.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 176,
+    "name": "VASANTRAO NAIK MAHAVIDYALAYA",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/vs1.jpg?width=640",
+    "website": "https://www.vasantraonaikma.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 177,
+    "name": "SCHOOL OF COMMERCE AND MANAGEMENT SCIENCES",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2018-02-1-11-39-50_g.jpg",
+    "website": "https://www.schoolofcommerc.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 178,
+    "name": "SHRI LAXMANRAO MANKAR COLLEGE OF POLYTECHNIC",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.gpgondia.ac.in/wp-content/uploads/2025/03/clg2.jpeg",
+    "website": "https://www.shrilaxmanraoma.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 180,
+    "name": "ARIHANT COLLEGE OF ARTS COMMERCE AND SCIENCE",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/arihant-college-of-arts-commerce-science-pune-367689.webp",
+    "website": "https://arihantcollege.ac.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 181,
+    "name": "CHETANAS HAZARIMAL SOMANI COLLEGE OF COMMERCE AND ECONOMICS",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.chetanashazarim.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 182,
+    "name": "SUAT BBA 2026",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://cache.careers360.mobi/media/exam_pics/featured/Sharda-University-Admission-Test-SUAT-featured-image_RE8u669.jpg",
+    "website": "https://www.google.com/search?q=SUAT%20BBA%202026%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 183,
+    "name": "Delhi University 2026",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.du.ac.in",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  }
+]
