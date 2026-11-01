@@ -12823,5 +12823,95 @@
     "type": "Private",
     "website": "https://dritgoi.edu.in",
     "verifiedAt": "2026-11-01T19:21:58.859Z"
+  },
+  {
+    "id": 1391,
+    "name": "V.M.S. Polytechnic College, Batala, Gurdaspur",
+    "location": "Gurdaspur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://vmsinstitutions.com",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1392,
+    "name": "Government Polytechnic College, Mohali (Khuni Majra)",
+    "location": "Mohali",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpcmohalikm.ac.in",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1393,
+    "name": "Aryans Business School (ABS, Aryans Group of Colleges), Rajpura, Patiala",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://aryans.edu.in",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1394,
+    "name": "Pt. J.R. Government Polytechnic College, Hoshiarpur",
+    "location": "Hoshiarpur",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://pjrpolytechnic.com",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1395,
+    "name": "Baba Hazara Singh Polytechnic College, Gurdaspur",
+    "location": "Gurdaspur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://bhspolytechnic.com",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1396,
+    "name": "Central Tool Room (CTR), Ludhiana",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://www.ctrludhiana.org",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1397,
+    "name": "Aklia Polytechnic College, Goniana Mandi, Bathinda",
+    "location": "Bathinda",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://akliagroup.org",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1398,
+    "name": "Dr. IT College of Polytechnic, Banur, Patiala",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://dritgoi.edu.in",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1399,
+    "name": "Government Polytechnic College, Jalandhar",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpcjalandhar.ac.in",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1400,
+    "name": "Satyam Institute of Engineering & Technology, Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://satyaminstitute.in",
+    "verifiedAt": "2026-11-01T19:24:40.170Z"
   }
 ]

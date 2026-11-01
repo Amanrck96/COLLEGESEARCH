@@ -2535,3 +2535,17 @@
 | 1388 | Satyam Polytechnic & Pharmacy College, Amritsar | Amritsar | Punjab | Private | [https://satyampolytechnic.com](https://satyampolytechnic.com) |
 | 1389 | S.B.C.M.S. Institute of Technology, Mukerian, Hoshiarpur | Hoshiarpur | Punjab | Private | [https://sbcmsinstitutes.com](https://sbcmsinstitutes.com) |
 | 1390 | Dr. IT School of Business, Banur, Patiala | Patiala | Punjab | Private | [https://dritgoi.edu.in](https://dritgoi.edu.in) |
+
+### Batch 170 (Colleges 1,691–1,700) — Punjab Government & Private Technical Institutions (1,700th Milestone!)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1391 | V.M.S. Polytechnic College, Batala, Gurdaspur | Gurdaspur | Punjab | Private | [https://vmsinstitutions.com](https://vmsinstitutions.com) |
+| 1392 | Government Polytechnic College, Mohali (Khuni Majra) | Mohali | Punjab | Public/Government | [https://gpcmohalikm.ac.in](https://gpcmohalikm.ac.in) |
+| 1393 | Aryans Business School (ABS, Aryans Group of Colleges), Rajpura, Patiala | Patiala | Punjab | Private | [https://aryans.edu.in](https://aryans.edu.in) |
+| 1394 | Pt. J.R. Government Polytechnic College, Hoshiarpur | Hoshiarpur | Punjab | Public/Government | [https://pjrpolytechnic.com](https://pjrpolytechnic.com) |
+| 1395 | Baba Hazara Singh Polytechnic College, Gurdaspur | Gurdaspur | Punjab | Private | [https://bhspolytechnic.com](https://bhspolytechnic.com) |
+| 1396 | Central Tool Room (CTR), Ludhiana | Ludhiana | Punjab | Public/Government | [https://www.ctrludhiana.org](https://www.ctrludhiana.org) |
+| 1397 | Aklia Polytechnic College, Goniana Mandi, Bathinda | Bathinda | Punjab | Private | [https://akliagroup.org](https://akliagroup.org) |
+| 1398 | Dr. IT College of Polytechnic, Banur, Patiala | Patiala | Punjab | Private | [https://dritgoi.edu.in](https://dritgoi.edu.in) |
+| 1399 | Government Polytechnic College, Jalandhar | Jalandhar | Punjab | Public/Government | [https://gpcjalandhar.ac.in](https://gpcjalandhar.ac.in) |
+| 1400 | Satyam Institute of Engineering & Technology, Amritsar | Amritsar | Punjab | Private | [https://satyaminstitute.in](https://satyaminstitute.in) |
