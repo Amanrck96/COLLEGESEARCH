@@ -6598,5 +6598,80 @@
         "website": "https://uem.edu.in/uem-kolkata/"
       }
     ]
+  },
+  {
+    "batch": 89,
+    "items": [
+      {
+        "id": 494,
+        "name": "Budge Budge Institute of Technology (BBIT Kolkata)",
+        "type": "Private",
+        "location": "NISCHINTAPUR BUDGE BUDGE",
+        "website": "https://bbit.edu.in"
+      },
+      {
+        "id": 495,
+        "name": "Sister Nivedita University (SNU Kolkata)",
+        "type": "Private",
+        "location": "NEWTOWN, RAJARHAT",
+        "website": "https://snuniv.ac.in"
+      },
+      {
+        "id": 496,
+        "name": "Medinipur Sadar Government Polytechnic",
+        "type": "Public/Government",
+        "location": "WEST BENGAL, PIN :721102",
+        "website": "https://polytechnic.wbtetsd.gov.in/medsadargovpoly"
+      },
+      {
+        "id": 497,
+        "name": "Raghunathpur Government Polytechnic",
+        "type": "Public/Government",
+        "location": "PO. NETURIA, DIST. PURULIA",
+        "website": "https://polytechnic.wbtetsd.gov.in/raghunathpurgovpoly"
+      },
+      {
+        "id": 498,
+        "name": "Kaliachak Government Polytechnic",
+        "type": "Public/Government",
+        "location": "WEST BENGAL, PIN - 732201",
+        "website": "https://polytechnic.wbtetsd.gov.in/kaliachakgovpoly"
+      },
+      {
+        "id": 500,
+        "name": "Itahar Government Polytechnic",
+        "type": "Public/Government",
+        "location": "SOHAIR",
+        "website": "https://polytechnic.wbtetsd.gov.in/itahargovpoly"
+      },
+      {
+        "id": 502,
+        "name": "Babasaheb Ambedkar Government Polytechnic (Tehatta)",
+        "type": "Public/Government",
+        "location": "WEST BENGAL, PIN-741163",
+        "website": "https://polytechnic.wbtetsd.gov.in/bsambedkargovpolytehatta"
+      },
+      {
+        "id": 503,
+        "name": "Memari Government Polytechnic",
+        "type": "Public/Government",
+        "location": "DIST.- BARDHAMAN, STATE- WEST BENGAL",
+        "website": "https://polytechnic.wbtetsd.gov.in/memarigovpoly"
+      },
+      {
+        "id": 504,
+        "name": "Indian Institute of Handloom Technology, Fulia (IIHT Fulia)",
+        "type": "Public/Government",
+        "location": "FULIA COLONY FULIA",
+        "website": "https://iihtfulia.ac.in"
+      },
+      {
+        "id": 505,
+        "name": "Adamas University (AU Kolkata)",
+        "type": "Private",
+        "location": "PIN - 700126, WEST BENGAL",
+        "website": "https://adamasuniversity.ac.in"
+      }
+    ]
   }
 ]

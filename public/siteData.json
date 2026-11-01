@@ -41715,14 +41715,14 @@
     },
     {
       "id": 494,
-      "name": "BUDGE BUDGE INSTITUTE OF TECHNOLOGY",
+      "name": "Budge Budge Institute of Technology (BBIT Kolkata)",
       "shortName": "Course Institute-1",
       "location": "SOUTH 24 PARGANAS",
       "state": "West Bengal",
       "address": "NISCHINTAPUR BUDGE BUDGE",
-      "phone": "0123-456789",
-      "website": "https://www.budgebudgeinsti.edu.in",
-      "rating": 4.5,
+      "phone": "033-24820641",
+      "website": "https://bbit.edu.in",
+      "rating": 4.2,
       "reviews": 332,
       "type": "Private",
       "about": "Welcome to BUDGE BUDGE INSTITUTE OF TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -41742,12 +41742,58 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE / JEE Main",
+          "exams": "WBJEE, JEE Main",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Electronics and Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 with PCM + WBJEE",
+          "exams": "WBJEE",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "180"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "Graduation (50%+) + MAT / JEMAT",
+          "exams": "MAT, JEMAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -41763,20 +41809,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BUDGE%20BUDGE%20INSTITUTE%20OF%20TECHNOLOGY%20SOUTH%2024%20PARGANAS%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=BUDGE%20BUDGE%20INSTITUTE%20OF%20TECHNOLOGY%20SOUTH%2024%20PARGANAS%20West%20Bengal",
+      "city": "South 24 Parganas",
+      "established": 2009
     },
     {
       "id": 495,
-      "name": "SISTER NIVEDITA UNIVERSITY",
+      "name": "Sister Nivedita University (SNU Kolkata)",
       "shortName": "Course Institute-1",
       "location": "NORTH 24 PARGANAS",
       "state": "West Bengal",
       "address": "PREMISE NO. 06-3333, ACTION AREA-I, DG-1/2, NEWTOWN, RAJARHAT",
-      "phone": "0123-456789",
-      "website": "https://www.sisterniveditau.edu.in",
-      "rating": 4.5,
+      "phone": "1800-2588-155",
+      "website": "https://snuniv.ac.in",
+      "rating": 4.4,
       "reviews": 230,
       "type": "Private",
       "about": "Welcome to SISTER NIVEDITA UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -41796,12 +41844,49 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 600
+          "fees": "₹1,75,000/Year",
+          "eligibility": "10+2 with PCM + SNUET / WBJEE / JEE Main",
+          "exams": "SNUET, WBJEE, JEE Main",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,85,000/Year",
+          "eligibility": "10+2 with PCM + SNUET / WBJEE",
+          "exams": "SNUET, WBJEE",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with Math / CS + SNUET",
+          "exams": "SNUET",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,50,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / SNUET",
+          "exams": "CAT, MAT, SNUET",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "BCA / B.Sc with Math + WB JECA / SNUET",
+          "exams": "WB JECA, SNUET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -41819,20 +41904,22 @@
       ],
       "image": "https://phd.snuniv.ac.in/images/about-bottom-img.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SISTER%20NIVEDITA%20UNIVERSITY%20NORTH%2024%20PARGANAS%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SISTER%20NIVEDITA%20UNIVERSITY%20NORTH%2024%20PARGANAS%20West%20Bengal",
+      "city": "Kolkata",
+      "established": 2017
     },
     {
       "id": 496,
-      "name": "MEDINIPUR SADAR GOVT. POLYTECHNIC",
+      "name": "Medinipur Sadar Government Polytechnic",
       "shortName": "Course Institute-1",
       "location": "PASCHIM MEDINIPUR",
       "state": "West Bengal",
       "address": "VILL. :KHASJUNGLE, P.O. :ABAS, P.S. :MIDNAPORE KOTWALI, SUB DIVN. :MIDNAPORE SADAR, DIST. : PASCHIM MEDINIPUR,WEST BENGAL, PIN :721102",
-      "phone": "0123-456789",
-      "website": "https://www.medinipursadarg.edu.in",
-      "rating": 4.5,
+      "phone": "03222-263001",
+      "website": "https://polytechnic.wbtetsd.gov.in/medsadargovpoly",
+      "rating": 4.2,
       "reviews": 539,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to MEDINIPUR SADAR GOVT. POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 100,
       "facebook": "#",
@@ -41850,12 +41937,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -41871,22 +41977,24 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MEDINIPUR%20SADAR%20GOVT.%20POLYTECHNIC%20PASCHIM%20MEDINIPUR%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MEDINIPUR%20SADAR%20GOVT.%20POLYTECHNIC%20PASCHIM%20MEDINIPUR%20West%20Bengal",
+      "city": "Paschim Medinipur",
+      "established": 2017
     },
     {
       "id": 497,
-      "name": "RAGHUNATHPUR GOVT. POLYTECHNIC",
+      "name": "Raghunathpur Government Polytechnic",
       "shortName": "Course Institute-1",
       "location": "PURULIA",
       "state": "West Bengal",
       "address": "SARBARI MORE, PO. NETURIA, DIST. PURULIA",
-      "phone": "0123-456789",
-      "website": "https://www.raghunathpurgov.edu.in",
-      "rating": 4.5,
+      "phone": "03251-255001",
+      "website": "https://polytechnic.wbtetsd.gov.in/raghunathpurgovpoly",
+      "rating": 4.1,
       "reviews": 191,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to RAGHUNATHPUR GOVT. POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 71,
       "facebook": "#",
@@ -41904,12 +42012,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -41927,20 +42054,22 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/raghunathpur-government-polytechnic-purulia-318186.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAGHUNATHPUR%20GOVT.%20POLYTECHNIC%20PURULIA%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAGHUNATHPUR%20GOVT.%20POLYTECHNIC%20PURULIA%20West%20Bengal",
+      "city": "Purulia",
+      "established": 2016
     },
     {
       "id": 498,
-      "name": "KALIACHAK GOVT. POLYTECHNIC",
+      "name": "Kaliachak Government Polytechnic",
       "shortName": "Course Institute-1",
       "location": "MALDA",
       "state": "West Bengal",
       "address": "KALIKAPUR BANDH, P. O. : BAHADURPUR, P. S. : KALIACHAK, DIST - MALDA, WEST BENGAL, PIN - 732201",
-      "phone": "0123-456789",
-      "website": "https://www.kaliachakgovtpo.edu.in",
-      "rating": 4.5,
+      "phone": "03512-244001",
+      "website": "https://polytechnic.wbtetsd.gov.in/kaliachakgovpoly",
+      "rating": 4.1,
       "reviews": 196,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to KALIACHAK GOVT. POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 6,
       "facebook": "#",
@@ -41958,12 +42087,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "INFORMATION TECHNOLOGY",
+          "title": "Diploma in Information Technology",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -41981,7 +42129,9 @@
       ],
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KALIACHAK%20GOVT.%20POLYTECHNIC%20MALDA%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KALIACHAK%20GOVT.%20POLYTECHNIC%20MALDA%20West%20Bengal",
+      "city": "Malda",
+      "established": 2018
     },
     {
       "id": 499,
@@ -42041,16 +42191,16 @@
     },
     {
       "id": 500,
-      "name": "ITAHAR GOVERNMENT POLYTECHNIC",
+      "name": "Itahar Government Polytechnic",
       "shortName": "Course Institute-1",
       "location": "UTTER DINAJPUR",
       "state": "West Bengal",
       "address": "SOHAIR",
-      "phone": "0123-456789",
-      "website": "https://www.itahargovernmen.edu.in",
-      "rating": 4.5,
+      "phone": "03523-277001",
+      "website": "https://polytechnic.wbtetsd.gov.in/itahargovpoly",
+      "rating": 4.1,
       "reviews": 289,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to ITAHAR GOVERNMENT POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 2,
       "facebook": "#",
@@ -42068,12 +42218,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -42092,7 +42261,9 @@
       "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ITAHAR%20GOVERNMENT%20POLYTECHNIC%20UTTER%20DINAJPUR%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Uttar Dinajpur",
+      "established": 2018
     },
     {
       "id": 501,
@@ -42151,16 +42322,16 @@
     },
     {
       "id": 502,
-      "name": "BABASAHEB AMBEDKAR GOVERNMENT POLYTECHNIC",
+      "name": "Babasaheb Ambedkar Government Polytechnic (Tehatta)",
       "shortName": "Course Institute-1",
       "location": "NADIA",
       "state": "West Bengal",
       "address": "SADHU BAZAR, PS-TEHATTA, BETAI, DIST-NADIA, WEST BENGAL, PIN-741163",
-      "phone": "0123-456789",
-      "website": "https://www.babasahebambedk.edu.in",
-      "rating": 4.5,
+      "phone": "03471-251001",
+      "website": "https://polytechnic.wbtetsd.gov.in/bsambedkargovpolytehatta",
+      "rating": 4.2,
       "reviews": 264,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to BABASAHEB AMBEDKAR GOVERNMENT POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 75,
       "facebook": "#",
@@ -42178,12 +42349,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -42202,20 +42392,22 @@
       "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BABASAHEB%20AMBEDKAR%20GOVERNMENT%20POLYTECHNIC%20NADIA%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Nadia",
+      "established": 2016
     },
     {
       "id": 503,
-      "name": "MEMARI GOVT.POLYTECHNIC",
+      "name": "Memari Government Polytechnic",
       "shortName": "Course Institute-1",
       "location": "BARDHAMAN",
       "state": "West Bengal",
       "address": "UTTAR KAILASHPUR, L.N.T MATH,BLOCK-1, MEMARI P.O.- MEMARI, PIN-713146, DIST.- BARDHAMAN, STATE- WEST BENGAL",
-      "phone": "0123-456789",
-      "website": "https://www.memarigovtpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "0342-225001",
+      "website": "https://polytechnic.wbtetsd.gov.in/memarigovpoly",
+      "rating": 4.1,
       "reviews": 277,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to MEMARI GOVT.POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 49,
       "facebook": "#",
@@ -42233,12 +42425,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass with Science & Math + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹1,200/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -42257,20 +42468,22 @@
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MEMARI%20GOVT.POLYTECHNIC%20BARDHAMAN%20West%20Bengal",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Purba Bardhaman",
+      "established": 2018
     },
     {
       "id": 504,
-      "name": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY FULIA",
+      "name": "Indian Institute of Handloom Technology, Fulia (IIHT Fulia)",
       "shortName": "Course Institute-1",
       "location": "NADIA",
       "state": "West Bengal",
       "address": "FULIA COLONY FULIA",
-      "phone": "0123-456789",
-      "website": "https://www.indianinstitute.edu.in",
-      "rating": 4.5,
+      "phone": "03473-234021",
+      "website": "https://iihtfulia.ac.in",
+      "rating": 4.4,
       "reviews": 97,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY FULIA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 21,
       "facebook": "#",
@@ -42288,12 +42501,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "HANDLOOM AND TEXTILE TECHNOLOGY",
+          "title": "Diploma in Handloom and Textile Technology (DHTT)",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹2,500/Year",
+          "eligibility": "10th Standard Pass with Science & Math",
+          "exams": "State Entrance Test",
+          "intake": "60"
+        },
+        {
+          "title": "Post Diploma in Textile Processing (PDTP)",
+          "division": "Postgraduate Diploma",
+          "duration": "1.5 Years",
+          "fees": "₹3,500/Year",
+          "eligibility": "DHTT / Diploma in Textile Tech / Chemistry",
+          "exams": "Merit Based",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -42311,16 +42534,18 @@
       ],
       "image": "https://iihtfulia.ac.in/slider/133446IMG_1087.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20HANDLOOM%20TECHNOLOGY%20FULIA%20NADIA%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20HANDLOOM%20TECHNOLOGY%20FULIA%20NADIA%20West%20Bengal",
+      "city": "Nadia",
+      "established": 1994
     },
     {
       "id": 505,
-      "name": "ADAMAS UNIVERSITY TECHNICAL CAMPUS",
+      "name": "Adamas University (AU Kolkata)",
       "shortName": "Course Institute-1",
       "location": "NORTH 24 PARGANAS",
       "state": "West Bengal",
       "address": "ADAMAS KNOWLEDGE CITY, BARASAT - BARRACKPORE ROAD, P.O.JAGANNATHPUR, P.S. DUTTAPUKUR, DISTRICT. NORTH 24 PARGANAS, PIN - 700126, WEST BENGAL",
-      "phone": "0123-456789",
+      "phone": "1800-419-7497",
       "website": "https://adamasuniversity.ac.in",
       "rating": 4.5,
       "reviews": 446,
@@ -42342,12 +42567,49 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,90,000/Year",
+          "eligibility": "10+2 with PCM + AUAT / WBJEE / JEE Main",
+          "exams": "AUAT, WBJEE, JEE Main",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,95,000/Year",
+          "eligibility": "10+2 with PCM + AUAT / WBJEE",
+          "exams": "AUAT, WBJEE",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Biotechnology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "10+2 with PCB/PCM + AUAT",
+          "exams": "AUAT",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,75,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / AUAT",
+          "exams": "CAT, MAT, AUAT",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,60,000/Year",
+          "eligibility": "10+2 with PCB/PCM + WBJEE / AUAT",
+          "exams": "WBJEE, AUAT",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -42365,7 +42627,9 @@
       ],
       "image": "https://media.getmyuni.com/azure/college-image/big/adamas-university-au-north-24-parganas.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADAMAS%20UNIVERSITY%20TECHNICAL%20CAMPUS%20NORTH%2024%20PARGANAS%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADAMAS%20UNIVERSITY%20TECHNICAL%20CAMPUS%20NORTH%2024%20PARGANAS%20West%20Bengal",
+      "city": "Kolkata",
+      "established": 2014
     },
     {
       "id": 506,

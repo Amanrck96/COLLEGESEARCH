@@ -1,0 +1,122 @@
+[
+  {
+    "id": 494,
+    "name": "BUDGE BUDGE INSTITUTE OF TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.budgebudgeinsti.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 495,
+    "name": "SISTER NIVEDITA UNIVERSITY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://phd.snuniv.ac.in/images/about-bottom-img.jpg",
+    "website": "https://www.sisterniveditau.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 496,
+    "name": "MEDINIPUR SADAR GOVT. POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.medinipursadarg.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 497,
+    "name": "RAGHUNATHPUR GOVT. POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/raghunathpur-government-polytechnic-purulia-318186.webp",
+    "website": "https://www.raghunathpurgov.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 498,
+    "name": "KALIACHAK GOVT. POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.kaliachakgovtpo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 500,
+    "name": "ITAHAR GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.itahargovernmen.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 502,
+    "name": "BABASAHEB AMBEDKAR GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.babasahebambedk.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 503,
+    "name": "MEMARI GOVT.POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.memarigovtpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 504,
+    "name": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY FULIA",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://iihtfulia.ac.in/slider/133446IMG_1087.jpg",
+    "website": "https://www.indianinstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 505,
+    "name": "ADAMAS UNIVERSITY TECHNICAL CAMPUS",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://media.getmyuni.com/azure/college-image/big/adamas-university-au-north-24-parganas.jpg",
+    "website": "https://adamasuniversity.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

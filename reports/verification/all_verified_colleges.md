@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **880 / 12,660**  
-**Roadmap Progress**: **88.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **890 / 12,660**  
+**Roadmap Progress**: **89.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1329,4 +1329,19 @@
 | **490** | Uluberia Government Polytechnic | Public/Government | ULUBERIA - 1 ; BOALIA | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/uluberia-government-polytechnic) |
 | **491** | Dasnagar Government Polytechnic | Public/Government | DASNAGAR | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/dasnagar-government-polytechnic) |
 | **492** | University of Engineering & Management (UEM Kolkata) | Private | WEST BENGAL, | [uem.edu.in](https://uem.edu.in/uem-kolkata/) |
+
+### Batch 89 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **494** | Budge Budge Institute of Technology (BBIT Kolkata) | Private | NISCHINTAPUR BUDGE BUDGE | [bbit.edu.in](https://bbit.edu.in) |
+| **495** | Sister Nivedita University (SNU Kolkata) | Private | NEWTOWN, RAJARHAT | [snuniv.ac.in](https://snuniv.ac.in) |
+| **496** | Medinipur Sadar Government Polytechnic | Public/Government | WEST BENGAL, PIN :721102 | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/medsadargovpoly) |
+| **497** | Raghunathpur Government Polytechnic | Public/Government | PO. NETURIA, DIST. PURULIA | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/raghunathpurgovpoly) |
+| **498** | Kaliachak Government Polytechnic | Public/Government | WEST BENGAL, PIN - 732201 | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/kaliachakgovpoly) |
+| **500** | Itahar Government Polytechnic | Public/Government | SOHAIR | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/itahargovpoly) |
+| **502** | Babasaheb Ambedkar Government Polytechnic (Tehatta) | Public/Government | WEST BENGAL, PIN-741163 | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/bsambedkargovpolytehatta) |
+| **503** | Memari Government Polytechnic | Public/Government | DIST.- BARDHAMAN, STATE- WEST BENGAL | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/memarigovpoly) |
+| **504** | Indian Institute of Handloom Technology, Fulia (IIHT Fulia) | Public/Government | FULIA COLONY FULIA | [iihtfulia.ac.in](https://iihtfulia.ac.in) |
+| **505** | Adamas University (AU Kolkata) | Private | PIN - 700126, WEST BENGAL | [adamasuniversity.ac.in](https://adamasuniversity.ac.in) |
 
