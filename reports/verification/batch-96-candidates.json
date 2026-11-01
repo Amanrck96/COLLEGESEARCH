@@ -1,0 +1,122 @@
+[
+  {
+    "id": 567,
+    "name": "University of Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.google.com/search?q=University%20of%20Hyderabad%20official%20website%20Telangana%20Telangana",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 568,
+    "name": "NMIMS Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.google.com/search?q=NMIMS%20Hyderabad%20official%20website%20Telangana%20Telangana",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 569,
+    "name": "Vignana Jyothi Institute of Management, Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://vjim.edu.in/",
+    "phone": "7993690189",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 570,
+    "name": "IPE Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.ipeindia.org/",
+    "phone": "9154254043",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 571,
+    "name": "ICFAI Business School (IBS), Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.ifheindia.org/",
+    "phone": "04023440963",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 572,
+    "name": "National Institute of Agricultural Extension Management (MANAGE) National Institute of Agricultural Extension Management (MANAGE)",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/GFHDGBJKCFHJGJ.jpg?width=1080",
+    "website": "https://www.google.com/search?q=National%20Institute%20of%20Agricultural%20Extension%20Management%20(MANAGE)%20National%20Institute%20of%20Agricultural%20Extension%20Management%20(MANAGE)%20official%20website%20Telangana%20Telangana",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 573,
+    "name": "IMT Hyderabad, Institute of Management Technology",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2021-29-9-17-57-42_sj6.jpg",
+    "website": "https://www.imthyderabad.edu.in/",
+    "phone": "8414671657",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 574,
+    "name": "VIVEKANANDA PG COLLEGE",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/the-vivekananda-college-of-computer-science-ranga-reddy-327260.webp",
+    "website": "https://www.vivekanandapgco.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 575,
+    "name": "PRIYADARSHINI DEGREE AND P.G COLLEGE",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/masvnaskdnvv.jpg?width=1080",
+    "website": "https://www.priyadarshinide.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 576,
+    "name": "KAVITHA MEMORIAL DEGREE COLLEGE",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.joonsquare.com/usermanage/image/business/kavitha-memorial-degree-and-pg-college-khammam-15682/kavitha-memorial-degree-and-pg-college-khammam-kavitha-memorial-degree-and-pg-college-a-3.jpg",
+    "website": "https://www.kavithamemorial.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

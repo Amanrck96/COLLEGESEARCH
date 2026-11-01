@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **950 / 12,660**  
-**Roadmap Progress**: **95.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **960 / 12,660**  
+**Roadmap Progress**: **96.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1434,4 +1434,19 @@
 | **564** | Koneru Lakshmaiah Education Foundation, Hyderabad (KL University Hyderabad) | Private | Moinabad Road, Near TS Police Academy | [www.klh.edu.in](https://www.klh.edu.in) |
 | **565** | University of Hyderabad (UoH / HCU, Gachibowli) | Public/Government | Telangana, India | [uohyd.ac.in](https://uohyd.ac.in) |
 | **566** | University College of Commerce and Business Management, Osmania University (UCCBM OU) | Public/Government | Osmania University Main Rd, Osmania University | [www.osmania.ac.in](https://www.osmania.ac.in/uccbm/) |
+
+### Batch 96 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **567** | University of Hyderabad - School of Management Studies (SMS UoH, Gachibowli) | Public/Government | Telangana, India | [smsuoh.ac.in](https://smsuoh.ac.in) |
+| **568** | NMIMS Hyderabad (SVKM's NMIMS Deemed to be University, Jadcherla Campus) | Private | Telangana, India | [hyderabad.nmims.edu](https://hyderabad.nmims.edu) |
+| **569** | Vignana Jyothi Institute of Management (VJIM Hyderabad, Bachupally) | Private | Vignana Jyothi Institute of Management, Nizampet | [vjim.edu.in](https://vjim.edu.in) |
+| **570** | Institute of Public Enterprise (IPE Hyderabad, Shamirpet) | Private | Medchal, Malkajgiri district | [www.ipeindia.org](https://www.ipeindia.org) |
+| **571** | ICFAI Business School (IBS Hyderabad, IFHE Deemed University) | Private | Hyderabad, Telangana 500082 | [www.ifheindia.org](https://www.ifheindia.org) |
+| **572** | National Institute of Agricultural Extension Management (MANAGE Hyderabad, Rajendranagar) | Public/Government | Telangana, India | [www.manage.gov.in](https://www.manage.gov.in) |
+| **573** | Institute of Management Technology (IMT Hyderabad, Shamshabad) | Private | 38, Cherlaguda (V) RR District | [www.imthyderabad.edu.in](https://www.imthyderabad.edu.in) |
+| **574** | Vivekananda College of Computer Sciences (VCCS, Shadnagar) | Private | KEESARA(M),R.R.DIST. | [www.vivekanandacolleges.com](http://www.vivekanandacolleges.com) |
+| **575** | Priyadarshini Degree & PG College, Hyderabad | Private | TS RTC BUS STAND SARADA KUTIR COMPLEX KOTHAGUDEM | [www.priyadarshinicollege.com](http://www.priyadarshinicollege.com) |
+| **576** | Kavitha Memorial Degree & PG College, Khammam | Private | NEHRU NAGAR , KHAMMAM | [www.kavithacollege.com](https://www.kavithacollege.com) |
 

@@ -7123,5 +7123,80 @@
         "website": "https://www.osmania.ac.in/uccbm/"
       }
     ]
+  },
+  {
+    "batch": 96,
+    "items": [
+      {
+        "id": 567,
+        "name": "University of Hyderabad - School of Management Studies (SMS UoH, Gachibowli)",
+        "type": "Public/Government",
+        "location": "Telangana, India",
+        "website": "https://smsuoh.ac.in"
+      },
+      {
+        "id": 568,
+        "name": "NMIMS Hyderabad (SVKM's NMIMS Deemed to be University, Jadcherla Campus)",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://hyderabad.nmims.edu"
+      },
+      {
+        "id": 569,
+        "name": "Vignana Jyothi Institute of Management (VJIM Hyderabad, Bachupally)",
+        "type": "Private",
+        "location": "Vignana Jyothi Institute of Management, Nizampet",
+        "website": "https://vjim.edu.in"
+      },
+      {
+        "id": 570,
+        "name": "Institute of Public Enterprise (IPE Hyderabad, Shamirpet)",
+        "type": "Private",
+        "location": "Medchal, Malkajgiri district",
+        "website": "https://www.ipeindia.org"
+      },
+      {
+        "id": 571,
+        "name": "ICFAI Business School (IBS Hyderabad, IFHE Deemed University)",
+        "type": "Private",
+        "location": "Hyderabad, Telangana 500082",
+        "website": "https://www.ifheindia.org"
+      },
+      {
+        "id": 572,
+        "name": "National Institute of Agricultural Extension Management (MANAGE Hyderabad, Rajendranagar)",
+        "type": "Public/Government",
+        "location": "Telangana, India",
+        "website": "https://www.manage.gov.in"
+      },
+      {
+        "id": 573,
+        "name": "Institute of Management Technology (IMT Hyderabad, Shamshabad)",
+        "type": "Private",
+        "location": "38, Cherlaguda (V) RR District",
+        "website": "https://www.imthyderabad.edu.in"
+      },
+      {
+        "id": 574,
+        "name": "Vivekananda College of Computer Sciences (VCCS, Shadnagar)",
+        "type": "Private",
+        "location": "KEESARA(M),R.R.DIST.",
+        "website": "http://www.vivekanandacolleges.com"
+      },
+      {
+        "id": 575,
+        "name": "Priyadarshini Degree & PG College, Hyderabad",
+        "type": "Private",
+        "location": "TS RTC BUS STAND SARADA KUTIR COMPLEX KOTHAGUDEM",
+        "website": "http://www.priyadarshinicollege.com"
+      },
+      {
+        "id": 576,
+        "name": "Kavitha Memorial Degree & PG College, Khammam",
+        "type": "Private",
+        "location": "NEHRU NAGAR , KHAMMAM",
+        "website": "https://www.kavithacollege.com"
+      }
+    ]
   }
 ]
