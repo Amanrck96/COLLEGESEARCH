@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1310 / 12,660**  
-**Roadmap Progress**: **131.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1320 / 12,660**  
+**Roadmap Progress**: **132.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1974,4 +1974,19 @@
 | **977** | Star Infotech College (Deoli, Tonk) | Private | Tonk, Rajasthan - 304804 | [starinfotechcollege.com](https://starinfotechcollege.com) |
 | **978** | Nathdwara Institute of Engineering & Technology (NIET Nathdwara) | Private | Rajsamand, Rajasthan - 313301 | [niet.edu.in](https://niet.edu.in) |
 | **979** | Sardar Patel University of Police, Security and Criminal Justice (SPUP Jodhpur) | Public/Government | Jodhpur, Rajasthan - 342037 | [policeuniversity.ac.in](https://policeuniversity.ac.in) |
+
+### Batch 132 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **980** | Rajdhani Engineering College (REC Jaipur) | Private | Jaipur, Rajasthan - 303904 | [rajdhanijaipur.org](https://rajdhanijaipur.org) |
+| **981** | Dr. Radhakrishnan Institute of Technology (DRIT Jaipur) | Private | Jaipur, Rajasthan - 302037 | [dritjaipur.org](https://dritjaipur.org) |
+| **982** | Government Engineering College Barmer (GEC Barmer) | Public/Government | Barmer, Rajasthan - 344001 | [gecbarmer.ac.in](https://gecbarmer.ac.in) |
+| **983** | School of Engineering & Technology, University of Technology (UOT Jaipur) | Private | Jaipur, Rajasthan - 303905 | [www.universityoftechnology.edu.in](https://www.universityoftechnology.edu.in) |
+| **984** | Government Polytechnic College Uchchain (Bharatpur) | Public/Government | Bharatpur, Rajasthan - 321302 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcuchchain) |
+| **986** | The LNM Institute of Information Technology (LNMIIT Jamdoli, Jaipur) | Public/Government | Jaipur, Rajasthan - 302031 | [lnmiit.ac.in](https://lnmiit.ac.in) |
+| **987** | IIS (deemed to be University) Jaipur | Private | Jaipur, Rajasthan - 302020 | [www.iisuniv.ac.in](https://www.iisuniv.ac.in) |
+| **988** | Maharani Girls Engineering College (MGEC Jaipur) | Private | Jaipur, Rajasthan - 302037 | [mgecjaipur.com](https://mgecjaipur.com) |
+| **989** | MSME Technology Centre Bhiwadi | Public/Government | Bhiwadi, Rajasthan - 301019 | [msmetcbhiwadi.org](https://msmetcbhiwadi.org) |
+| **990** | Mewar Polytechnic College (Gangrar, Chittorgarh) | Private | Chittorgarh, Rajasthan - 312901 | [www.mewaruniversity.org](https://www.mewaruniversity.org/pages/Polytechnic.aspx) |
 

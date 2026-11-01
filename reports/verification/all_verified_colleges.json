@@ -9823,5 +9823,80 @@
         "website": "https://policeuniversity.ac.in"
       }
     ]
+  },
+  {
+    "batch": 132,
+    "items": [
+      {
+        "id": 980,
+        "name": "Rajdhani Engineering College (REC Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303904",
+        "website": "https://rajdhanijaipur.org"
+      },
+      {
+        "id": 981,
+        "name": "Dr. Radhakrishnan Institute of Technology (DRIT Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302037",
+        "website": "https://dritjaipur.org"
+      },
+      {
+        "id": 982,
+        "name": "Government Engineering College Barmer (GEC Barmer)",
+        "type": "Public/Government",
+        "location": "Barmer, Rajasthan - 344001",
+        "website": "https://gecbarmer.ac.in"
+      },
+      {
+        "id": 983,
+        "name": "School of Engineering & Technology, University of Technology (UOT Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303905",
+        "website": "https://www.universityoftechnology.edu.in"
+      },
+      {
+        "id": 984,
+        "name": "Government Polytechnic College Uchchain (Bharatpur)",
+        "type": "Public/Government",
+        "location": "Bharatpur, Rajasthan - 321302",
+        "website": "https://hte.rajasthan.gov.in/college/gpcuchchain"
+      },
+      {
+        "id": 986,
+        "name": "The LNM Institute of Information Technology (LNMIIT Jamdoli, Jaipur)",
+        "type": "Public/Government",
+        "location": "Jaipur, Rajasthan - 302031",
+        "website": "https://lnmiit.ac.in"
+      },
+      {
+        "id": 987,
+        "name": "IIS (deemed to be University) Jaipur",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302020",
+        "website": "https://www.iisuniv.ac.in"
+      },
+      {
+        "id": 988,
+        "name": "Maharani Girls Engineering College (MGEC Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302037",
+        "website": "https://mgecjaipur.com"
+      },
+      {
+        "id": 989,
+        "name": "MSME Technology Centre Bhiwadi",
+        "type": "Public/Government",
+        "location": "Bhiwadi, Rajasthan - 301019",
+        "website": "https://msmetcbhiwadi.org"
+      },
+      {
+        "id": 990,
+        "name": "Mewar Polytechnic College (Gangrar, Chittorgarh)",
+        "type": "Private",
+        "location": "Chittorgarh, Rajasthan - 312901",
+        "website": "https://www.mewaruniversity.org/pages/Polytechnic.aspx"
+      }
+    ]
   }
 ]
