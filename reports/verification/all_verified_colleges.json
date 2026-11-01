@@ -3148,5 +3148,80 @@
         "website": "https://www.irma.ac.in"
       }
     ]
+  },
+  {
+    "batch": 43,
+    "items": [
+      {
+        "id": 3586,
+        "name": "Arrdekta Institute of Technology",
+        "type": "Private",
+        "location": "Dist. Sabarkantha, Gujarat - 383270",
+        "website": "https://www.arrdekta.org"
+      },
+      {
+        "id": 3592,
+        "name": "Shivam Institute of Management, Valasan (Anand)",
+        "type": "Private",
+        "location": "Anand - 388325, Gujarat",
+        "website": "http://www.shivaminstitute.org"
+      },
+      {
+        "id": 3593,
+        "name": "Shree H.N. Shukla College of Management Studies",
+        "type": "Private",
+        "location": "Rajkot - 360003, Gujarat",
+        "website": "https://www.shreehnshukla.org.in"
+      },
+      {
+        "id": 3599,
+        "name": "S. R. Luthra Institute of Management (SRLIM Surat)",
+        "type": "Private",
+        "location": "Surat - 395001, Gujarat",
+        "website": "https://www.srlimba.ac.in"
+      },
+      {
+        "id": 3602,
+        "name": "Smt. Shantaben Haribhai Gajera MBA Mahila College",
+        "type": "Private",
+        "location": "Amreli - 365601, Gujarat",
+        "website": "https://www.lptshgsankulamreli.net"
+      },
+      {
+        "id": 3603,
+        "name": "Som-Lalit Institute of Management Studies (SLIMS Ahmedabad)",
+        "type": "Private",
+        "location": "Ahmedabad - 380009, Gujarat",
+        "website": "https://www.somlalitcollege.org"
+      },
+      {
+        "id": 3607,
+        "name": "C K Shah Vijapurwala Institute of Management (CKSVIM Vadodara)",
+        "type": "Private",
+        "location": "Vadodara - 390004, Gujarat",
+        "website": "https://cksvim.edu.in"
+      },
+      {
+        "id": 3634,
+        "name": "St. Kabir Institute of Professional Studies (SKIPS Ahmedabad)",
+        "type": "Private",
+        "location": "Ahmedabad - 380054, Gujarat",
+        "website": "https://www.skips.in"
+      },
+      {
+        "id": 3654,
+        "name": "Chimanbhai Patel Institute of Management & Research (CPIMR Ahmedabad)",
+        "type": "Private",
+        "location": "Ahmedabad - 380015, Gujarat",
+        "website": "https://cpi.edu.in"
+      },
+      {
+        "id": 3656,
+        "name": "Entrepreneurship Development Institute of India (EDII Gandhinagar)",
+        "type": "Public/Government (Autonomous)",
+        "location": "Dist. Gandhinagar, Gujarat",
+        "website": "https://www.ediindia.org"
+      }
+    ]
   }
 ]

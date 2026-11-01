@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **420 / 12,660**  
-**Roadmap Progress**: **42.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **430 / 12,660**  
+**Roadmap Progress**: **43.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -639,4 +639,19 @@
 | **3562** | Adani Institute of Digital Technology Management (AIDTM Gandhinagar) | Private | Gandhinagar - 382423, Gujarat | [www.aidtm.ac.in](https://www.aidtm.ac.in) |
 | **3563** | M.S. Patel Institute of Management Studies (FMS Baroda, MSU Baroda) | Public/Government | Vadodara, Gujarat - 390002 | [www.msubaroda.ac.in](https://www.msubaroda.ac.in) |
 | **3566** | Institute of Rural Management Anand (IRMA Anand) | Public/Government (Autonomous) | Anand, Gujarat - 388001 | [www.irma.ac.in](https://www.irma.ac.in) |
+
+### Batch 43 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **3586** | Arrdekta Institute of Technology | Private | Dist. Sabarkantha, Gujarat - 383270 | [www.arrdekta.org](https://www.arrdekta.org) |
+| **3592** | Shivam Institute of Management, Valasan (Anand) | Private | Anand - 388325, Gujarat | [www.shivaminstitute.org](http://www.shivaminstitute.org) |
+| **3593** | Shree H.N. Shukla College of Management Studies | Private | Rajkot - 360003, Gujarat | [www.shreehnshukla.org.in](https://www.shreehnshukla.org.in) |
+| **3599** | S. R. Luthra Institute of Management (SRLIM Surat) | Private | Surat - 395001, Gujarat | [www.srlimba.ac.in](https://www.srlimba.ac.in) |
+| **3602** | Smt. Shantaben Haribhai Gajera MBA Mahila College | Private | Amreli - 365601, Gujarat | [www.lptshgsankulamreli.net](https://www.lptshgsankulamreli.net) |
+| **3603** | Som-Lalit Institute of Management Studies (SLIMS Ahmedabad) | Private | Ahmedabad - 380009, Gujarat | [www.somlalitcollege.org](https://www.somlalitcollege.org) |
+| **3607** | C K Shah Vijapurwala Institute of Management (CKSVIM Vadodara) | Private | Vadodara - 390004, Gujarat | [cksvim.edu.in](https://cksvim.edu.in) |
+| **3634** | St. Kabir Institute of Professional Studies (SKIPS Ahmedabad) | Private | Ahmedabad - 380054, Gujarat | [www.skips.in](https://www.skips.in) |
+| **3654** | Chimanbhai Patel Institute of Management & Research (CPIMR Ahmedabad) | Private | Ahmedabad - 380015, Gujarat | [cpi.edu.in](https://cpi.edu.in) |
+| **3656** | Entrepreneurship Development Institute of India (EDII Gandhinagar) | Public/Government (Autonomous) | Dist. Gandhinagar, Gujarat | [www.ediindia.org](https://www.ediindia.org) |
 
