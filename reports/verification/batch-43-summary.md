@@ -94,3 +94,4 @@
   - Purged crawler query URL from SKIPS Ahmedabad (ID 3634) and restored official institutional portal `https://www.skips.in`.
 - **Name Typo Corrected**:
   - ID 3654: `CHIMANBHAI PATEL INTITUTE...` -> `Chimanbhai Patel Institute of Management & Research`.
+

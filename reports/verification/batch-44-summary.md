@@ -97,3 +97,4 @@
   - Kachchh University Bhuj (ID: 3663) was erroneously pointed to `bhu.ac.in` (Banaras Hindu University Varanasi, UP!). Restored official domain `https://kskvku.ac.in`.
 - **Raw Google Search Query Strings Purged**:
   - Purged crawler queries from Atmiya University (ID 3660) and D.L. Patel Institute (ID 3669).
+
