@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **650 / 12,660**  
-**Roadmap Progress**: **65.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **660 / 12,660**  
+**Roadmap Progress**: **66.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -984,4 +984,19 @@
 | **221** | Faculty of Management Studies, University of Delhi (FMS Delhi) | Public/Government | University of Delhi, Kamla Nagar | [fms.edu](https://fms.edu) |
 | **222** | National Institute of Bank Management, Pune (NIBM Pune) | Private | NIBM Post Office, Kondhwa Khurd | [www.nibmindia.org](https://www.nibmindia.org/) |
 | **223** | Amity University Mumbai | Private | Maharashtra, India | [www.amity.edu](https://www.amity.edu/mumbai/) |
+
+### Batch 66 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **224** | Savitribai Phule Pune University (SPPU) | Public/Government | Savitribai Phule Pune University, Ganeshkhind Road. | [www.unipune.ac.in](https://www.unipune.ac.in/) |
+| **225** | Sri Balaji University, Pune (SBUP) | Private | Survey No. 55/2-7, Off Mumbai-Bangalore Bypass | [www.sbup.edu.in](https://www.sbup.edu.in/) |
+| **226** | Dr. Babasaheb Ambedkar Marathwada University, Aurangabad (BAMU) | Public/Government | Near Soneri Mahal, Jaisingpura | [www.bamu.ac.in](https://www.bamu.ac.in/) |
+| **227** | Institute of Management Technology, Nagpur (IMT Nagpur) | Private | Maharashtra, India | [www.imtnagpur.ac.in](https://www.imtnagpur.ac.in/) |
+| **228** | SVKMs NMIMS Deemed-to-be-University, Mumbai | Deemed | Mumbai, Maharashtra 400056 | [www.nmims.edu](https://www.nmims.edu/) |
+| **229** | Institute of Management and Entrepreneurship Development, Pune (IMED) | Deemed | Maharashtra, India | [imed.bharatividyapeeth.edu](https://imed.bharatividyapeeth.edu/) |
+| **230** | SPJIMR Centre for Development Management, Mumbai | Private | Old D N Nagar, Munshi Nagar | [www.spjimr.org](https://www.spjimr.org/course/post-graduate-programme-in-development-management-pgpdm/) |
+| **231** | Maya Academy of Advanced Creativity, Pune (MAAC Pune) | Private | Opposite Aurora Towers, Camp | [www.maacindia.com](https://www.maacindia.com/) |
+| **232** | NMIMS School of Business Management, Mumbai (SBM NMIMS) | Deemed | Mumbai, Maharashtra 400056 | [sbm.nmims.edu](https://sbm.nmims.edu/) |
+| **234** | Fergusson College (Autonomous), Pune | Public | Fergusson College, F.C. Road | [www.fergusson.edu](https://www.fergusson.edu) |
 

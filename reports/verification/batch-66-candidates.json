@@ -1,0 +1,112 @@
+[
+  {
+    "id": 224,
+    "name": "UNIPUNE",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "http://www.unipune.ac.in/",
+    "phone": "02025696061",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 225,
+    "name": "Sri Balaji University, Pune",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1611046473Panorama-1.jpg",
+    "website": "https://www.sbup.edu.in/",
+    "phone": "08069591888",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 226,
+    "name": "Dr. Babasaheb Ambedkar Marathwada University, Aurangabad",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "https://img.jagranjosh.com/images/2022/December/15122022/Dr-Babasaheb-Ambedkar-Marathwada-University-Aurangabad-Campus-View-3.jpg",
+    "website": "http://www.bamu.ac.in/",
+    "phone": "02402403399",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 227,
+    "name": "IMT Nagpur IMT Nagpur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2022/December/26122022/Institute-of-Management-Technology-IMT-Nagpur-Campus-View-3.jpg",
+    "website": "https://www.google.com/search?q=IMT%20Nagpur%20IMT%20Nagpur%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 228,
+    "name": "NMIMS, Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/weschool_matunga_mumbai.jpeg",
+    "website": "https://www.nmims.edu/",
+    "phone": "02242355555",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 229,
+    "name": "Institute of Management and Entrepreneurship Development IMED Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.google.com/search?q=Institute%20of%20Management%20and%20Entrepreneurship%20Development%20IMED%20Pune%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 230,
+    "name": "S.P. Jain Institute of Management and Research, Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/svims_wadala_mumbai.jpeg",
+    "website": "https://www.spjimr.org/course/post-graduate-programme-in-development-management-pgpdm/",
+    "phone": "02262134444",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 231,
+    "name": "Maya Academy of Advanced Creativity, M.G. Road, Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.maacindia.com/",
+    "phone": "18002096222",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 232,
+    "name": "NMIMS School of Business Management, Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/svims_wadala_mumbai.jpeg",
+    "website": "https://sbm.nmims.edu/",
+    "phone": "02242355555",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 234,
+    "name": "Fergusson College, Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.fergusson.edu",
+    "phone": "02067656000",
+    "rating": 4.5,
+    "coursesCount": 2
+  }
+]

@@ -4873,5 +4873,80 @@
         "website": "https://www.amity.edu/mumbai/"
       }
     ]
+  },
+  {
+    "batch": 66,
+    "items": [
+      {
+        "id": 224,
+        "name": "Savitribai Phule Pune University (SPPU)",
+        "type": "Public/Government",
+        "location": "Savitribai Phule Pune University, Ganeshkhind Road.",
+        "website": "https://www.unipune.ac.in/"
+      },
+      {
+        "id": 225,
+        "name": "Sri Balaji University, Pune (SBUP)",
+        "type": "Private",
+        "location": "Survey No. 55/2-7, Off Mumbai-Bangalore Bypass",
+        "website": "https://www.sbup.edu.in/"
+      },
+      {
+        "id": 226,
+        "name": "Dr. Babasaheb Ambedkar Marathwada University, Aurangabad (BAMU)",
+        "type": "Public/Government",
+        "location": "Near Soneri Mahal, Jaisingpura",
+        "website": "https://www.bamu.ac.in/"
+      },
+      {
+        "id": 227,
+        "name": "Institute of Management Technology, Nagpur (IMT Nagpur)",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://www.imtnagpur.ac.in/"
+      },
+      {
+        "id": 228,
+        "name": "SVKMs NMIMS Deemed-to-be-University, Mumbai",
+        "type": "Deemed",
+        "location": "Mumbai, Maharashtra 400056",
+        "website": "https://www.nmims.edu/"
+      },
+      {
+        "id": 229,
+        "name": "Institute of Management and Entrepreneurship Development, Pune (IMED)",
+        "type": "Deemed",
+        "location": "Maharashtra, India",
+        "website": "https://imed.bharatividyapeeth.edu/"
+      },
+      {
+        "id": 230,
+        "name": "SPJIMR Centre for Development Management, Mumbai",
+        "type": "Private",
+        "location": "Old D N Nagar, Munshi Nagar",
+        "website": "https://www.spjimr.org/course/post-graduate-programme-in-development-management-pgpdm/"
+      },
+      {
+        "id": 231,
+        "name": "Maya Academy of Advanced Creativity, Pune (MAAC Pune)",
+        "type": "Private",
+        "location": "Opposite Aurora Towers, Camp",
+        "website": "https://www.maacindia.com/"
+      },
+      {
+        "id": 232,
+        "name": "NMIMS School of Business Management, Mumbai (SBM NMIMS)",
+        "type": "Deemed",
+        "location": "Mumbai, Maharashtra 400056",
+        "website": "https://sbm.nmims.edu/"
+      },
+      {
+        "id": 234,
+        "name": "Fergusson College (Autonomous), Pune",
+        "type": "Public",
+        "location": "Fergusson College, F.C. Road",
+        "website": "https://www.fergusson.edu"
+      }
+    ]
   }
 ]
