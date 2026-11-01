@@ -31286,14 +31286,14 @@
     },
     {
       "id": 361,
-      "name": "VALIBA BCA COLLEGE",
+      "name": "Shree Valiba BCA College, Malpur",
       "shortName": "Course Institute-1",
       "location": "SABARKANTHA",
       "state": "Gujarat",
       "address": "AT-TAKHATPUR PO-MAHIYAPUR TA-MALPUR",
-      "phone": "0123-456789",
-      "website": "https://www.valibabcacolleg.edu.in",
-      "rating": 4.5,
+      "phone": "02773-222400",
+      "website": "https://www.valibacollege.org",
+      "rating": 4,
       "reviews": 299,
       "type": "Private",
       "about": "Welcome to VALIBA BCA COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31313,12 +31313,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 33
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 in any stream + Merit",
+          "exams": "Merit",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Science in Information Technology (B.Sc. IT)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹26,000/Year",
+          "eligibility": "10+2 with Science/Math",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹20,000 Total",
+          "eligibility": "Graduation in any stream",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31334,21 +31353,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bangalore_university.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=VALIBA%20BCA%20COLLEGE%20SABARKANTHA%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Aravalli",
+      "established": 2008
     },
     {
       "id": 362,
-      "name": "V. S. LAKHANI COLLEGE OF COMPUTER SCIENCE",
+      "name": "Smt. V. S. Lakhani College of Computer Science, Bhavnagar",
       "shortName": "Course Institute-1",
       "location": "BHAVNAGAR",
       "state": "Gujarat",
       "address": "SARDAR PATEL SEVA TRUST, KALIYABID,",
-      "phone": "0123-456789",
-      "website": "https://www.vslakhanicolleg.edu.in",
-      "rating": 4.5,
+      "phone": "0278-2567222",
+      "website": "https://www.spst.org.in",
+      "rating": 4.1,
       "reviews": 107,
       "type": "Private",
       "about": "Welcome to V. S. LAKHANI COLLEGE OF COMPUTER SCIENCE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31368,12 +31389,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10+2 in any stream + MKBU Centralized Admission",
+          "exams": "MKBU Merit",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Science in Information Technology (B.Sc. IT)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 with Science",
+          "exams": "MKBU Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹22,000 Total",
+          "eligibility": "Graduation in any stream",
+          "exams": "Direct Admission",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31391,7 +31431,9 @@
       ],
       "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=V.%20S.%20LAKHANI%20COLLEGE%20OF%20COMPUTER%20SCIENCE%20BHAVNAGAR%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=V.%20S.%20LAKHANI%20COLLEGE%20OF%20COMPUTER%20SCIENCE%20BHAVNAGAR%20Gujarat",
+      "city": "Bhavnagar",
+      "established": 2001
     },
     {
       "id": 363,
@@ -31506,14 +31548,14 @@
     },
     {
       "id": 365,
-      "name": "BHAGWAN MAHAVIR COLLEGE OF HOTEL MANAGEMENT",
+      "name": "Bhagwan Mahavir College of Hotel Management (BMU Surat)",
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
       "address": "SURVEY NO:149, NR. VIP ROAD, B/H. SHYAM MANDIR, VESU-BHARTHANA, SURAT",
-      "phone": "0123-456789",
-      "website": "https://www.bhagwanmahavirc.edu.in",
-      "rating": 4.5,
+      "phone": "0261-6770100",
+      "website": "https://bmusurat.ac.in",
+      "rating": 4.2,
       "reviews": 326,
       "type": "Private",
       "about": "Welcome to BHAGWAN MAHAVIR COLLEGE OF HOTEL MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31533,12 +31575,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "HOTEL MANAGEMENT & CATERING TECHNOLOGY",
+          "title": "Bachelor of Hotel Management & Catering Technology (BHMCT)",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "HOTEL MANAGEMENT AND CATERING",
-          "intake": 60
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 in any stream (45%+) + ACPC / BMU Aptitude",
+          "exams": "ACPC, BMU Test",
+          "intake": "60"
+        },
+        {
+          "title": "B.Sc. in Hospitality & Hotel Administration",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Hotel Operations and Food Production",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹45,000 Total",
+          "eligibility": "10th or 10+2 Pass",
+          "exams": "Direct Admission",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31557,18 +31618,20 @@
       "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=BHAGWAN%20MAHAVIR%20COLLEGE%20OF%20HOTEL%20MANAGEMENT%20SURAT%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Surat",
+      "established": 2009
     },
     {
       "id": 366,
-      "name": "LAXMI INSTITUTE OF TECHNOLOGY, SARIGAM",
+      "name": "Laxmi Institute of Technology (LIT Sarigam, Valsad)",
       "shortName": "Course Institute-1",
       "location": "VALSAD",
       "state": "Gujarat",
       "address": "LAXMI VIDYAPEETH P. B. NO. 15 SARIGAM P. O. VALSAD - 396155",
-      "phone": "0123-456789",
-      "website": "https://www.laxmiinstituteo.edu.in",
-      "rating": 4.5,
+      "phone": "0260-2405300",
+      "website": "https://lit.laxmi.edu.in",
+      "rating": 4.2,
       "reviews": 524,
       "type": "Private",
       "about": "Welcome to LAXMI INSTITUTE OF TECHNOLOGY, SARIGAM, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31588,12 +31651,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹73,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹73,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹73,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical / Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31611,18 +31702,20 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/laxmi-institute-of-technology-valsad-279469.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LAXMI%20INSTITUTE%20OF%20TECHNOLOGY%2C%20SARIGAM%20VALSAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=LAXMI%20INSTITUTE%20OF%20TECHNOLOGY%2C%20SARIGAM%20VALSAD%20Gujarat",
+      "city": "Valsad",
+      "established": 2010
     },
     {
       "id": 367,
-      "name": "SAL INSTITUTE OF DIPLOMA STUDIES",
+      "name": "SAL Institute of Diploma Studies (SIDS Ahmedabad)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
       "address": "OPP. SCIENCE CITY, SOLA ROAD,",
-      "phone": "0123-456789",
-      "website": "https://www.salinstituteofd.edu.in",
-      "rating": 4.5,
+      "phone": "079-67129000",
+      "website": "https://sal.edu.in",
+      "rating": 4.1,
       "reviews": 104,
       "type": "Private",
       "about": "Welcome to SAL INSTITUTE OF DIPLOMA STUDIES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31642,12 +31735,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 180
+          "fees": "₹45,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC Gujarat",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Information Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31663,21 +31784,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/koshys_bangalore.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SAL%20INSTITUTE%20OF%20DIPLOMA%20STUDIES%20AHMEDABAD%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Ahmedabad",
+      "established": 2013
     },
     {
       "id": 368,
-      "name": "DIWALIBA POLYTECHNIC",
+      "name": "Diwaliba Polytechnic, Uka Tarsadia University (Mahuva, Surat)",
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
       "address": "DIWALIBA POLYTECHNIC, MALIBA-MAHUVA CAMPUS, MAHUVA",
-      "phone": "0123-456789",
-      "website": "https://www.diwalibapolytec.edu.in",
-      "rating": 4.5,
+      "phone": "02625-255882",
+      "website": "http://dp.utu.ac.in",
+      "rating": 4.3,
       "reviews": 466,
       "type": "Private",
       "about": "Welcome to DIWALIBA POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31697,12 +31820,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CHEMICAL ENGINEERING",
+          "title": "Diploma in Chemical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹44,000/Year",
+          "eligibility": "10th Standard with Science & Math + ACPDC / UTU",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹44,000/Year",
+          "eligibility": "10th Standard with Science & Math",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹44,000/Year",
+          "eligibility": "10th Standard Pass",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Information Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹44,000/Year",
+          "eligibility": "10th Standard Pass",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31718,21 +31869,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DIWALIBA%20POLYTECHNIC%20SURAT%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Surat",
+      "established": 2013
     },
     {
       "id": 369,
-      "name": "PRIME INSTITUTE OF ENGINEERING & TECHNOLOGY",
+      "name": "Prime Institute of Engineering and Technology (PIET Navsari)",
       "shortName": "Course Institute-1",
       "location": "NAVSARI",
       "state": "Gujarat",
       "address": "278 VILL. MANGROL,JALALPORE,NAVSARI(GUJARAT)",
-      "phone": "0123-456789",
-      "website": "https://www.primeinstituteo.edu.in",
-      "rating": 4.5,
+      "phone": "02637-234200",
+      "website": "http://primeiet.in",
+      "rating": 4,
       "reviews": 255,
       "type": "Private",
       "about": "Welcome to PRIME INSTITUTE OF ENGINEERING & TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31752,12 +31905,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹68,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹68,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹68,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical / Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31773,21 +31954,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/koshys_bangalore.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRIME%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20NAVSARI%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Navsari",
+      "established": 2014
     },
     {
       "id": 370,
-      "name": "VIDYABHARTI TRUST COLLEGE OF MASTER IN COMPUTER APPLICATION",
+      "name": "Vidyabharti Trust College of MCA (Umrakh, Bardoli)",
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
       "address": "AT & PO. UMRAKH, BARDOLI-MOTA ROAD UMRAKH, TA:BARDOLI DIST:SURAT PIN:394345",
-      "phone": "0123-456789",
-      "website": "https://www.vidyabhartitrus.edu.in",
-      "rating": 4.5,
+      "phone": "02622-224581",
+      "website": "http://vbtcollegeofmca.ac.in",
+      "rating": 4.3,
       "reviews": 143,
       "type": "Private",
       "about": "Welcome to VIDYABHARTI TRUST COLLEGE OF MASTER IN COMPUTER APPLICATION, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31807,12 +31990,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹74,000/Year",
+          "eligibility": "BCA / B.Sc with Math/CS + CMAT / ACPC Gujarat",
+          "exams": "CMAT, ACPC",
+          "intake": "120"
+        },
+        {
+          "title": "Integrated MCA",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with Mathematics/Stats + ACPC Gujarat",
+          "exams": "ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹25,000 Total",
+          "eligibility": "Graduation in any stream",
+          "exams": "Direct Admission",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31830,18 +32032,20 @@
       ],
       "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIDYABHARTI%20TRUST%20COLLEGE%20OF%20MASTER%20IN%20COMPUTER%20APPLICATION%20SURAT%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VIDYABHARTI%20TRUST%20COLLEGE%20OF%20MASTER%20IN%20COMPUTER%20APPLICATION%20SURAT%20Gujarat",
+      "city": "Surat",
+      "established": 2004
     },
     {
       "id": 371,
-      "name": "VEERAYATAN INSTITUTE OF ENGINEERING",
+      "name": "Veerayatan Institute of Engineering (VIE Mandvi, Kutch)",
       "shortName": "Course Institute-1",
       "location": "KUTCH",
       "state": "Gujarat",
       "address": "BHUJ-MANDVI ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.veerayataninsti.edu.in",
-      "rating": 4.5,
+      "phone": "02834-275241",
+      "website": "https://veerayataninstitutes.org",
+      "rating": 4.2,
       "reviews": 188,
       "type": "Private",
       "about": "Welcome to VEERAYATAN INSTITUTE OF ENGINEERING, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31861,12 +32065,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CHEMICAL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹71,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Chemical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹71,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹71,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical / Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31884,18 +32116,20 @@
       ],
       "image": "https://media.getmyuni.com/azure/college-images-test/veerayatan-institute-of-engineering-and-management-kachchh/4c7bd58362dd4c17a2a9a69dbc5c2ec8.jpeg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VEERAYATAN%20INSTITUTE%20OF%20ENGINEERING%20KUTCH%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=VEERAYATAN%20INSTITUTE%20OF%20ENGINEERING%20KUTCH%20Gujarat",
+      "city": "Kutch",
+      "established": 2010
     },
     {
       "id": 372,
-      "name": "ASIA PACIFIC INSTITUTE OF HOTEL MANAGEMENT",
+      "name": "Asia Pacific Institute of Hotel Management (APIHM Bhoyani)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
       "address": "VILLAGE BHOYANI",
-      "phone": "0123-456789",
-      "website": "https://www.asiapacificinst.edu.in",
-      "rating": 4.5,
+      "phone": "02764-286200",
+      "website": "https://www.apihm.com",
+      "rating": 4.1,
       "reviews": 169,
       "type": "Private",
       "about": "Welcome to ASIA PACIFIC INSTITUTE OF HOTEL MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -31915,12 +32149,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "HOSPITALITY AND TOURISM ADMINISTRATION",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "HOTEL MANAGEMENT AND CATERING",
-          "intake": 60
+          "title": "Bachelor of Hotel Management (BHM)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 in any stream + Merit / Personal Interview",
+          "exams": "Merit, PI",
+          "intake": "60"
+        },
+        {
+          "title": "B.Sc. in Hospitality & Tourism Management",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Food & Beverage Service / Culinary Arts",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹50,000 Total",
+          "eligibility": "10th or 10+2 Pass",
+          "exams": "Direct Admission",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -31938,7 +32191,9 @@
       ],
       "image": "https://www.campusoption.com/images/colleges/gallery/04_04_17_065552_College2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASIA%20PACIFIC%20INSTITUTE%20OF%20HOTEL%20MANAGEMENT%20AHMEDABAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASIA%20PACIFIC%20INSTITUTE%20OF%20HOTEL%20MANAGEMENT%20AHMEDABAD%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 2012
     },
     {
       "id": 373,

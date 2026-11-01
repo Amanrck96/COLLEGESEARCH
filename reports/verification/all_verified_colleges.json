@@ -5773,5 +5773,80 @@
         "website": "https://www.pkmcollege.edu.in"
       }
     ]
+  },
+  {
+    "batch": 78,
+    "items": [
+      {
+        "id": 361,
+        "name": "Shree Valiba BCA College, Malpur",
+        "type": "Private",
+        "location": "AT-TAKHATPUR PO-MAHIYAPUR TA-MALPUR",
+        "website": "https://www.valibacollege.org"
+      },
+      {
+        "id": 362,
+        "name": "Smt. V. S. Lakhani College of Computer Science, Bhavnagar",
+        "type": "Private",
+        "location": "KALIYABID,",
+        "website": "https://www.spst.org.in"
+      },
+      {
+        "id": 365,
+        "name": "Bhagwan Mahavir College of Hotel Management (BMU Surat)",
+        "type": "Private",
+        "location": "VESU-BHARTHANA, SURAT",
+        "website": "https://bmusurat.ac.in"
+      },
+      {
+        "id": 366,
+        "name": "Laxmi Institute of Technology (LIT Sarigam, Valsad)",
+        "type": "Private",
+        "location": "LAXMI VIDYAPEETH P. B. NO. 15 SARIGAM P. O. VALSAD - 396155",
+        "website": "https://lit.laxmi.edu.in"
+      },
+      {
+        "id": 367,
+        "name": "SAL Institute of Diploma Studies (SIDS Ahmedabad)",
+        "type": "Private",
+        "location": "SOLA ROAD,",
+        "website": "https://sal.edu.in"
+      },
+      {
+        "id": 368,
+        "name": "Diwaliba Polytechnic, Uka Tarsadia University (Mahuva, Surat)",
+        "type": "Private",
+        "location": "MALIBA-MAHUVA CAMPUS, MAHUVA",
+        "website": "http://dp.utu.ac.in"
+      },
+      {
+        "id": 369,
+        "name": "Prime Institute of Engineering and Technology (PIET Navsari)",
+        "type": "Private",
+        "location": "JALALPORE,NAVSARI(GUJARAT)",
+        "website": "http://primeiet.in"
+      },
+      {
+        "id": 370,
+        "name": "Vidyabharti Trust College of MCA (Umrakh, Bardoli)",
+        "type": "Private",
+        "location": "BARDOLI-MOTA ROAD UMRAKH, TA:BARDOLI DIST:SURAT PIN:394345",
+        "website": "http://vbtcollegeofmca.ac.in"
+      },
+      {
+        "id": 371,
+        "name": "Veerayatan Institute of Engineering (VIE Mandvi, Kutch)",
+        "type": "Private",
+        "location": "BHUJ-MANDVI ROAD",
+        "website": "https://veerayataninstitutes.org"
+      },
+      {
+        "id": 372,
+        "name": "Asia Pacific Institute of Hotel Management (APIHM Bhoyani)",
+        "type": "Private",
+        "location": "VILLAGE BHOYANI",
+        "website": "https://www.apihm.com"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **770 / 12,660**  
-**Roadmap Progress**: **77.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **780 / 12,660**  
+**Roadmap Progress**: **78.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1164,4 +1164,19 @@
 | **358** | Lukhdhirji Engineering College (LEC Morbi) | Public/Government | LUKHDHIRJI ENGINEERING COLLEGE SAMA KANTHA MORBI DISTRICT RAJKOT STATE GUJARAT PIN CODE 363642 | [www.lecmorbi.in](http://www.lecmorbi.in) |
 | **359** | Navyug Group of Colleges, Morbi | Private | TAL. TANKARA, DIST. MORBI- 363650 | [navyugcollege.org](http://navyugcollege.org) |
 | **360** | Shree Patel Vidhyamandir College of Computer Science, Keshod | Private | VERAVAL ROAD, KESHOD | [www.pkmcollege.edu.in](https://www.pkmcollege.edu.in) |
+
+### Batch 78 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **361** | Shree Valiba BCA College, Malpur | Private | AT-TAKHATPUR PO-MAHIYAPUR TA-MALPUR | [www.valibacollege.org](https://www.valibacollege.org) |
+| **362** | Smt. V. S. Lakhani College of Computer Science, Bhavnagar | Private | KALIYABID, | [www.spst.org.in](https://www.spst.org.in) |
+| **365** | Bhagwan Mahavir College of Hotel Management (BMU Surat) | Private | VESU-BHARTHANA, SURAT | [bmusurat.ac.in](https://bmusurat.ac.in) |
+| **366** | Laxmi Institute of Technology (LIT Sarigam, Valsad) | Private | LAXMI VIDYAPEETH P. B. NO. 15 SARIGAM P. O. VALSAD - 396155 | [lit.laxmi.edu.in](https://lit.laxmi.edu.in) |
+| **367** | SAL Institute of Diploma Studies (SIDS Ahmedabad) | Private | SOLA ROAD, | [sal.edu.in](https://sal.edu.in) |
+| **368** | Diwaliba Polytechnic, Uka Tarsadia University (Mahuva, Surat) | Private | MALIBA-MAHUVA CAMPUS, MAHUVA | [dp.utu.ac.in](http://dp.utu.ac.in) |
+| **369** | Prime Institute of Engineering and Technology (PIET Navsari) | Private | JALALPORE,NAVSARI(GUJARAT) | [primeiet.in](http://primeiet.in) |
+| **370** | Vidyabharti Trust College of MCA (Umrakh, Bardoli) | Private | BARDOLI-MOTA ROAD UMRAKH, TA:BARDOLI DIST:SURAT PIN:394345 | [vbtcollegeofmca.ac.in](http://vbtcollegeofmca.ac.in) |
+| **371** | Veerayatan Institute of Engineering (VIE Mandvi, Kutch) | Private | BHUJ-MANDVI ROAD | [veerayataninstitutes.org](https://veerayataninstitutes.org) |
+| **372** | Asia Pacific Institute of Hotel Management (APIHM Bhoyani) | Private | VILLAGE BHOYANI | [www.apihm.com](https://www.apihm.com) |
 

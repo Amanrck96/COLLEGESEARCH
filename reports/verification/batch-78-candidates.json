@@ -1,0 +1,112 @@
+[
+  {
+    "id": 361,
+    "name": "VALIBA BCA COLLEGE",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.valibabcacolleg.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 362,
+    "name": "V. S. LAKHANI COLLEGE OF COMPUTER SCIENCE",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.vslakhanicolleg.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 365,
+    "name": "BHAGWAN MAHAVIR COLLEGE OF HOTEL MANAGEMENT",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.bhagwanmahavirc.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 366,
+    "name": "LAXMI INSTITUTE OF TECHNOLOGY, SARIGAM",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/laxmi-institute-of-technology-valsad-279469.webp",
+    "website": "https://www.laxmiinstituteo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 367,
+    "name": "SAL INSTITUTE OF DIPLOMA STUDIES",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.salinstituteofd.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 368,
+    "name": "DIWALIBA POLYTECHNIC",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.diwalibapolytec.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 369,
+    "name": "PRIME INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.primeinstituteo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 370,
+    "name": "VIDYABHARTI TRUST COLLEGE OF MASTER IN COMPUTER APPLICATION",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.vidyabhartitrus.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 371,
+    "name": "VEERAYATAN INSTITUTE OF ENGINEERING",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://media.getmyuni.com/azure/college-images-test/veerayatan-institute-of-engineering-and-management-kachchh/4c7bd58362dd4c17a2a9a69dbc5c2ec8.jpeg",
+    "website": "https://www.veerayataninsti.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 372,
+    "name": "ASIA PACIFIC INSTITUTE OF HOTEL MANAGEMENT",
+    "state": "Gujarat",
+    "type": "Private",
+    "image": "https://www.campusoption.com/images/colleges/gallery/04_04_17_065552_College2.jpg",
+    "website": "https://www.asiapacificinst.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]
