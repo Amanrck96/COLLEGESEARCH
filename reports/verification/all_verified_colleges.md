@@ -2745,3 +2745,17 @@
 | 1834 | Government Polytechnic, Ambikapur | Ambikapur | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpambikapur.ac.in) |
 | 1835 | Government Polytechnic, Bilaspur | Bilaspur | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpbilaspur.ac.in) |
 | 1836 | Dharmu Mahra Government Girls Polytechnic, Jagdalpur | Jagdalpur | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://ggpjagdalpur.ac.in) |
+
+### Batch 185 (Colleges 1,841–1,850, IDs: 1837–1846)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1837 | B.R.P. Government Polytechnic, Dhamtari | Dhamtari | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://polydmt.ac.in) |
+| 1838 | NMDC DAV Polytechnic, Dantewada | Dantewada | Chhattisgarh | Private | [Website](http://nmdcdavpoly.org) |
+| 1839 | J.K. Institute of Engineering, Bilaspur | Bilaspur | Chhattisgarh | Private | [Website](http://jkie.in) |
+| 1840 | Government Polytechnic, Kanker | Kanker | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](https://www.polykanker.ac.in) |
+| 1841 | Government Girls' Polytechnic, Raipur | Raipur | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://ggpraipur.ac.in) |
+| 1842 | School of Studies in Electronics & Photonics, Pt. Ravishankar Shukla University, Raipur | Raipur | Chhattisgarh | Public/Government (State University Department) | [Website](http://www.prsu.ac.in) |
+| 1843 | Kalinga University - Faculty of Technology, Raipur | Raipur | Chhattisgarh | Private | [Website](https://kalingauniversity.ac.in) |
+| 1844 | Ram Krishna Rathore Government Polytechnic, Janjgir-Champa | Janjgir-Champa | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gprkrjanjgir.ac.in) |
+| 1845 | Government Polytechnic, Mungeli | Mungeli | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://govtpolymungeli.ac.in) |
+| 1846 | Government Polytechnic, Sukma | Sukma | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpsukma.ac.in) |
