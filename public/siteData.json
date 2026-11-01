@@ -16628,12 +16628,12 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "Datta Meghe Medical College (DMMC) Wanadongri, Hingna Road",
-      "phone": "9513252330",
+      "phone": "+91 7104 223101",
       "email": "ajay.pethe@dmiher.edu.in",
       "website": "https://dmmcnagpur.com/",
       "rating": 4.5,
       "reviews": 408,
-      "type": "Private",
+      "type": "Deemed",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -16656,18 +16656,27 @@
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+          "fees": "₹21,50,000/Year",
           "eligibility": "10+2 with 50% in PCB + NEET UG",
           "exams": "NEET UG",
           "intake": "150"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "MD / MS Postgraduate Medical Degree",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
+          "fees": "₹28,00,000/Year",
           "eligibility": "MBBS Degree + NEET PG",
           "exams": "NEET PG",
+          "intake": "30"
+        },
+        {
+          "title": "B.Sc Medical Radiology & Imaging Technology",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with PCB",
+          "exams": "Merit",
           "intake": "40"
         }
       ],
@@ -16693,9 +16702,11 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 194,
       "reviewsCount": 408,
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Datta%20Meghe%20Medical%20College%2C%20Nagpur%20Maharashtra%20Maharashtra",
-      "imageUrl": "/images/campuses/sailee_college_borivali.jpg"
+      "imageUrl": "/images/campuses/sailee_college_borivali.jpg",
+      "city": "Nagpur",
+      "established": 2020
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/seth-gordhandas-sunderdas-medical-college-and-kem-hospital-parel-mumbai-25075",
@@ -16705,12 +16716,12 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "Maharashtra, Maharashtra, India",
-      "phone": "080-26597135",
+      "phone": "022-24107000",
       "email": "admissions@sgsmc.edu.in",
-      "website": "https://www.google.com/search?q=Seth%20G%20S%20Medical%20College%20official%20website%20Maharashtra%20Maharashtra",
-      "rating": 4.5,
+      "website": "https://www.kem.edu",
+      "rating": 4.8,
       "reviews": 478,
-      "type": "Private",
+      "type": "Public",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -16733,19 +16744,28 @@
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+          "fees": "₹1,35,000/Year",
           "eligibility": "10+2 with 50% in PCB + NEET UG",
           "exams": "NEET UG",
-          "intake": "150"
+          "intake": "250"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "MD / MS Postgraduate Degree Programs",
           "division": "Postgraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
+          "fees": "₹1,10,000/Year",
           "eligibility": "MBBS Degree + NEET PG",
           "exams": "NEET PG",
-          "intake": "40"
+          "intake": "180"
+        },
+        {
+          "title": "DM / M.Ch Super-specialty Programs",
+          "division": "Super-specialty",
+          "duration": "3 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "MD/MS in relevant branch + NEET SS",
+          "exams": "NEET SS",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -16770,8 +16790,10 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 195,
       "reviewsCount": 478,
-      "image": "/images/campuses/kes_shroff_kandivali.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Seth%20G%20S%20Medical%20College%20Maharashtra%20Maharashtra"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Seth%20G%20S%20Medical%20College%20Maharashtra%20Maharashtra",
+      "city": "Mumbai",
+      "established": 1926
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/lokmanya-tilak-municipal-medical-college-sion-mumbai-38098",
@@ -16781,12 +16803,12 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "Maharashtra, Maharashtra, India",
-      "phone": "080-26597135",
+      "phone": "022-24076381",
       "email": "admissions@ltmmc.edu.in",
-      "website": "https://www.google.com/search?q=Lokmanya%20Tilak%20Municipal%20Medical%20College%20official%20website%20Maharashtra%20Maharashtra",
-      "rating": 4.5,
+      "website": "https://ltmmc.edu.in",
+      "rating": 4.8,
       "reviews": 160,
-      "type": "Private",
+      "type": "Public",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -16809,19 +16831,28 @@
           "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+          "fees": "₹1,35,000/Year",
           "eligibility": "10+2 with 50% in PCB + NEET UG",
           "exams": "NEET UG",
+          "intake": "200"
+        },
+        {
+          "title": "MD / MS Postgraduate Degree Programs",
+          "division": "Postgraduate",
+          "duration": "3 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "MBBS Degree + NEET PG",
+          "exams": "NEET PG",
           "intake": "150"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "title": "Bachelor of Physiotherapy (BPT) / Occupational Therapy (BOT)",
+          "division": "Undergraduate",
+          "duration": "4.5 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with PCB + NEET UG",
+          "exams": "NEET UG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -16848,8 +16879,10 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 196,
       "reviewsCount": 160,
-      "image": "/images/campuses/kes_shroff_kandivali.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Lokmanya%20Tilak%20Municipal%20Medical%20College%20Maharashtra%20Maharashtra"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Lokmanya%20Tilak%20Municipal%20Medical%20College%20Maharashtra%20Maharashtra",
+      "city": "Mumbai",
+      "established": 1947
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/met-s-institute-of-d-pharmacy-adgaon-nashik-179687",
@@ -16859,10 +16892,10 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "MET's Institute of D. Pharmacy, Adgaon, Nashik",
-      "phone": "080-26597135",
+      "phone": "0253-2555810",
       "email": "admissions@miodpa.edu.in",
-      "website": "https://www.google.com/search?q=MET's%20Institute%20of%20D.%20Pharmacy%2C%20Adgaon%2C%20Nashik%20official%20website%20Maharashtra%20Maharashtra",
-      "rating": 4.5,
+      "website": "https://metbhujbalknowledgecity.ac.in/iop/",
+      "rating": 4.3,
       "reviews": 294,
       "type": "Private",
       "ownership": "Private",
@@ -16884,22 +16917,22 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "title": "Diploma in Pharmacy (D.Pharm)",
+          "division": "Diploma",
+          "duration": "2 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 Science (PCB/PCM)",
+          "exams": "Merit / CAP",
+          "intake": "60"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "10+2 with 45% in PCB/PCM + MHT CET / NEET",
+          "exams": "MHT CET, NEET",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -16924,8 +16957,10 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 197,
       "reviewsCount": 294,
-      "image": "/images/campuses/sir_jj_art_mumbai.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MET's%20Institute%20of%20D.%20Pharmacy%2C%20Adgaon%2C%20Nashik%20Maharashtra%20Maharashtra"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MET's%20Institute%20of%20D.%20Pharmacy%2C%20Adgaon%2C%20Nashik%20Maharashtra%20Maharashtra",
+      "city": "Nashik",
+      "established": 2006
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/symbiosis-institute-of-health-sciences-symbiosis-international-pune-lavale-4517",
@@ -16935,12 +16970,12 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "Symbiosis International (Deemed University) Campus, Hill Base,Tal: Mulshi",
-      "phone": "02066975040",
+      "phone": "020-66975040",
       "email": "info@sihspune.org",
       "website": "https://www.sihs.edu.in/",
-      "rating": 4.5,
+      "rating": 4.6,
       "reviews": 348,
-      "type": "Private",
+      "type": "Deemed",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -16960,21 +16995,30 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "title": "MBA in Hospital and Healthcare Management (HHM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹5,80,000/Year",
+          "eligibility": "Bachelor degree with minimum 50% + SNAP",
+          "exams": "SNAP",
+          "intake": "120"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
+          "title": "B.Sc Medical Technology",
+          "division": "Undergraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
+          "fees": "₹1,75,000/Year",
+          "eligibility": "10+2 with Physics, Chemistry, Biology + SET",
+          "exams": "SET",
+          "intake": "90"
+        },
+        {
+          "title": "M.Sc Medical Technology",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,20,000/Year",
+          "eligibility": "B.Sc in relevant Life Science discipline",
+          "exams": "Entrance Test + PI",
           "intake": "40"
         }
       ],
@@ -17004,7 +17048,9 @@
       "id": 198,
       "reviewsCount": 348,
       "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/170374193811SCHS.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Symbiosis%20Institute%20of%20Health%20Sciences%2C%20Symbiosis%20International%2C%20Pune%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Symbiosis%20Institute%20of%20Health%20Sciences%2C%20Symbiosis%20International%2C%20Pune%20Maharashtra%20Maharashtra",
+      "city": "Pune",
+      "established": 2006
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/mgm-school-of-biomedical-sciences-aurangabad-154473",
@@ -17014,10 +17060,10 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "Maharashtra, Maharashtra, India",
-      "phone": "080-26597135",
+      "phone": "0240-6601100",
       "email": "admissions@msobsa.edu.in",
-      "website": "https://www.google.com/search?q=MGM%20School%20of%20Biomedical%20Sciences%2C%20Aurangabad%20official%20website%20Maharashtra%20Maharashtra",
-      "rating": 4.5,
+      "website": "https://mgmsbsa.ac.in/",
+      "rating": 4.4,
       "reviews": 185,
       "type": "Private",
       "ownership": "Private",
@@ -17039,22 +17085,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "B.Sc Allied Health Sciences (MLT, OTT, Dialysis)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "3 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with PCB",
+          "exams": "MGM CET / Merit",
+          "intake": "60"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "M.Sc Medical Biotechnology / Clinical Research",
           "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "B.Sc in Biological Sciences",
+          "exams": "Entrance Exam",
+          "intake": "30"
+        },
+        {
+          "title": "B.Sc Cardiac Care Technology",
+          "division": "Undergraduate",
           "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCB",
+          "exams": "Merit",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹5 LPA",
@@ -17079,20 +17134,22 @@
       "id": 199,
       "reviewsCount": 185,
       "image": "https://www.collegebatch.com/static/clg-gallery/mgm-university-aurangabad-306676.webp",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MGM%20School%20of%20Biomedical%20Sciences%2C%20Aurangabad%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MGM%20School%20of%20Biomedical%20Sciences%2C%20Aurangabad%20Maharashtra%20Maharashtra",
+      "city": "Chhatrapati Sambhajinagar",
+      "established": 2007
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/shriman-sureshdada-jain-college-of-pharmacy-nashik-150725",
-      "name": "Shriman Sureshdada Jain College of Pharmacy, Nashik",
+      "name": "SNJB Shriman Sureshdada Jain College of Pharmacy, Nashik",
       "shortName": "SSJCOP",
       "location": "Maharashtra",
       "state": "Maharashtra",
       "country": "India",
       "address": "Maharashtra, Maharashtra, India",
-      "phone": "080-26597135",
+      "phone": "02556-252529",
       "email": "admissions@ssjcop.edu.in",
-      "website": "https://www.google.com/search?q=Shriman%20Sureshdada%20Jain%20College%20of%20Pharmacy%2C%20Nashik%20official%20website%20Maharashtra%20Maharashtra",
-      "rating": 4.5,
+      "website": "https://snjb.org/pharmacy/",
+      "rating": 4.4,
       "reviews": 295,
       "type": "Private",
       "ownership": "Private",
@@ -17114,22 +17171,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCB/PCM + MHT CET / NEET",
+          "exams": "MHT CET, NEET",
+          "intake": "100"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "M.Pharm (Pharmaceutics / Quality Assurance)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "B.Pharm with 55% + GPAT",
+          "exams": "GPAT",
+          "intake": "36"
+        },
+        {
+          "title": "Ph.D in Pharmaceutical Sciences",
+          "division": "Doctoral",
+          "duration": "3-5 Years",
+          "fees": "₹80,000/Year",
+          "eligibility": "M.Pharm degree + SPPU PET",
+          "exams": "SPPU PET",
+          "intake": "10"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -17155,22 +17221,24 @@
       "id": 200,
       "reviewsCount": 295,
       "image": "https://media.collegedekho.com/media/img/institute/crawled_images/SNJBs_Shriman_Suresh_Dada_Jain_College_of_Pharmacy.jpg?width=640",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Shriman%20Sureshdada%20Jain%20College%20of%20Pharmacy%2C%20Nashik%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Shriman%20Sureshdada%20Jain%20College%20of%20Pharmacy%2C%20Nashik%20Maharashtra%20Maharashtra",
+      "city": "Nashik",
+      "established": 1999
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/c-u-shah-college-of-pharmacy-mumbai-147645",
-      "name": "C.U. Shah College of Pharmacy, Mumbai",
+      "name": "C.U. Shah College of Pharmacy, SNDT Women University, Mumbai",
       "shortName": "CSCOPM",
       "location": "Mumbai",
       "state": "Maharashtra",
       "country": "India",
       "address": "S.N.D.T. Women's University, Sir Vithaldas Vidyavihar, Juhu Road, Santacruz West, Mumbai, Maharashtra 400049",
-      "phone": "02226609577",
+      "phone": "022-26609577",
       "email": "cushahpharmacy@sndt.ac.in",
-      "website": "https://sndt.ac.in/index.php/cushahpharmacy",
-      "rating": 4.5,
+      "website": "https://cushahpharmacy.ac.in/",
+      "rating": 4.6,
       "reviews": 257,
-      "type": "Private",
+      "type": "Public",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "NMC, UGC",
@@ -17190,22 +17258,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "Bachelor of Pharmacy (B.Pharm - Women Only)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCB/PCM + MHT CET / NEET (Female candidates)",
+          "exams": "MHT CET, NEET",
+          "intake": "60"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "M.Pharm in Pharmaceutics / Quality Assurance",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹90,000/Year",
+          "eligibility": "B.Pharm with 55% + GPAT (Female candidates)",
+          "exams": "GPAT",
+          "intake": "30"
+        },
+        {
+          "title": "Ph.D in Pharmacy",
+          "division": "Doctoral",
+          "duration": "3-5 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "M.Pharm degree + PET / NET",
+          "exams": "PET, NET",
+          "intake": "10"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -17231,7 +17308,9 @@
       "id": 201,
       "reviewsCount": 257,
       "image": "/images/campuses/campus_cu_shah_mumbai.png",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=C.U.%20Shah%20College%20of%20Pharmacy%2C%20Mumbai%20Mumbai%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=C.U.%20Shah%20College%20of%20Pharmacy%2C%20Mumbai%20Mumbai%20Maharashtra",
+      "city": "Mumbai",
+      "established": 1980
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/veritas-skill-institute-thane-mumbai-246898",
@@ -17241,10 +17320,10 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "1st Floor, Shah Avenue, 117, Gopal Krishna Gokhale Marg, Naupada, Thane West,",
-      "phone": "8591223636",
+      "phone": "+91 8591223636",
       "email": "tejas@veritas-skills.com",
       "website": "https://veritas-skills.com",
-      "rating": 4.5,
+      "rating": 4.1,
       "reviews": 239,
       "type": "Private",
       "ownership": "Private",
@@ -17266,22 +17345,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "title": "Certificate in Digital Marketing & Growth Strategy",
+          "division": "Certificate",
+          "duration": "6 Months",
+          "fees": "₹45,000 Total",
+          "eligibility": "10+2 or Graduation in any discipline",
+          "exams": "Direct Admission",
+          "intake": "40"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
-          "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "title": "Diploma in Data Analytics & Business Intelligence",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹85,000 Total",
+          "eligibility": "Graduation in Science/Commerce/Engineering",
+          "exams": "Aptitude Assessment",
+          "intake": "30"
+        },
+        {
+          "title": "Professional Certificate in Full-Stack Web Development",
+          "division": "Certificate",
+          "duration": "6 Months",
+          "fees": "₹60,000 Total",
+          "eligibility": "Basic computer aptitude + 10+2",
+          "exams": "Direct Admission",
+          "intake": "35"
         }
       ],
       "highestPackage": "₹28 LPA",
@@ -17306,7 +17394,9 @@
       "id": 202,
       "reviewsCount": 239,
       "image": "/images/campuses/campus_architecture_5.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Veritas%20Skill%20Institute%2C%20Mumbai%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Veritas%20Skill%20Institute%2C%20Mumbai%20Maharashtra%20Maharashtra",
+      "city": "Mumbai",
+      "established": 2018
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/rashtrasant-tukadoji-maharaj-nagpur-university-903",
@@ -17316,10 +17406,10 @@
       "state": "Maharashtra",
       "country": "India",
       "address": "Jamnalal Bajaj Administrative Building, Mahatma Jotiba Phule Educational Premises, Campus Square to Ambazari T-Point Road",
-      "phone": "07122500736",
+      "phone": "0712-2500736",
       "email": "vc@nagpuruniversity.nic.in",
       "website": "https://www.nagpuruniversity.ac.in/",
-      "rating": 4.5,
+      "rating": 4.6,
       "reviews": 148,
       "type": "Public/Government",
       "ownership": "Private",
@@ -17341,22 +17431,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "B.Tech / B.E. (LIT & University Departments)",
           "division": "Undergraduate",
-          "duration": "5.5 Years",
-          "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
-          "eligibility": "10+2 with 50% in PCB + NEET UG",
-          "exams": "NEET UG",
-          "intake": "150"
+          "duration": "4 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with PCM + MHT CET / JEE Main",
+          "exams": "MHT CET, JEE Main",
+          "intake": "300"
         },
         {
-          "title": "MD / MS Postgraduate Degree",
+          "title": "Master of Science (M.Sc - Physics, Chemistry, Biotech)",
           "division": "Postgraduate",
-          "duration": "3 Years",
-          "fees": "₹3.5 Lakhs/Year",
-          "eligibility": "MBBS Degree + NEET PG",
-          "exams": "NEET PG",
-          "intake": "40"
+          "duration": "2 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "B.Sc in relevant subject with 50%",
+          "exams": "Merit / Entrance",
+          "intake": "240"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "Graduation with 50% + MAH MBA CET",
+          "exams": "MAH MBA CET",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Laws (LL.M)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "LL.B degree with minimum 50%",
+          "exams": "University Entrance",
+          "intake": "50"
         }
       ],
       "highestPackage": "₹9 LPA",
@@ -17387,8 +17495,10 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 203,
       "reviewsCount": 148,
-      "image": "/images/campuses/sailee_college_borivali.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rashtrasant%20Tukadoji%20Maharaj%20Nagpur%20University%20Maharashtra%20Maharashtra"
+      "image": "",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rashtrasant%20Tukadoji%20Maharaj%20Nagpur%20University%20Maharashtra%20Maharashtra",
+      "city": "Nagpur",
+      "established": 1923
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/datta-meghe-institute-of-higher-education-and-research-deemed-to-be-university-wardha-55755",

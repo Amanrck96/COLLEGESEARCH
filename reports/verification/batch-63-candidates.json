@@ -1,0 +1,112 @@
+[
+  {
+    "id": 194,
+    "name": "Datta Meghe Medical College, Nagpur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://dmmcnagpur.com/",
+    "phone": "9513252330",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 195,
+    "name": "Seth G S Medical College",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/kes_shroff_kandivali.jpg",
+    "website": "https://www.google.com/search?q=Seth%20G%20S%20Medical%20College%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 196,
+    "name": "Lokmanya Tilak Municipal Medical College",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/kes_shroff_kandivali.jpg",
+    "website": "https://www.google.com/search?q=Lokmanya%20Tilak%20Municipal%20Medical%20College%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 197,
+    "name": "MET's Institute of D. Pharmacy, Adgaon, Nashik",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/sir_jj_art_mumbai.jpg",
+    "website": "https://www.google.com/search?q=MET's%20Institute%20of%20D.%20Pharmacy%2C%20Adgaon%2C%20Nashik%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 198,
+    "name": "Symbiosis Institute of Health Sciences, Symbiosis International, Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/170374193811SCHS.jpg",
+    "website": "https://www.sihs.edu.in/",
+    "phone": "02066975040",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 199,
+    "name": "MGM School of Biomedical Sciences, Aurangabad",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/mgm-university-aurangabad-306676.webp",
+    "website": "https://www.google.com/search?q=MGM%20School%20of%20Biomedical%20Sciences%2C%20Aurangabad%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 200,
+    "name": "Shriman Sureshdada Jain College of Pharmacy, Nashik",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/SNJBs_Shriman_Suresh_Dada_Jain_College_of_Pharmacy.jpg?width=640",
+    "website": "https://www.google.com/search?q=Shriman%20Sureshdada%20Jain%20College%20of%20Pharmacy%2C%20Nashik%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 201,
+    "name": "C.U. Shah College of Pharmacy, Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://sndt.ac.in/index.php/cushahpharmacy",
+    "phone": "02226609577",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 202,
+    "name": "Veritas Skill Institute, Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://veritas-skills.com",
+    "phone": "8591223636",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 203,
+    "name": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://www.nagpuruniversity.ac.in/",
+    "phone": "07122500736",
+    "rating": 4.5,
+    "coursesCount": 2
+  }
+]

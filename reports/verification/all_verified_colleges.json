@@ -4648,5 +4648,80 @@
         "website": "https://www.muhs.ac.in"
       }
     ]
+  },
+  {
+    "batch": 63,
+    "items": [
+      {
+        "id": 194,
+        "name": "Datta Meghe Medical College, Nagpur",
+        "type": "Deemed",
+        "location": "Datta Meghe Medical College (DMMC) Wanadongri, Hingna Road",
+        "website": "https://dmmcnagpur.com/"
+      },
+      {
+        "id": 195,
+        "name": "Seth G S Medical College",
+        "type": "Public",
+        "location": "Maharashtra, India",
+        "website": "https://www.kem.edu"
+      },
+      {
+        "id": 196,
+        "name": "Lokmanya Tilak Municipal Medical College",
+        "type": "Public",
+        "location": "Maharashtra, India",
+        "website": "https://ltmmc.edu.in"
+      },
+      {
+        "id": 197,
+        "name": "MET's Institute of D. Pharmacy, Adgaon, Nashik",
+        "type": "Private",
+        "location": "Adgaon, Nashik",
+        "website": "https://metbhujbalknowledgecity.ac.in/iop/"
+      },
+      {
+        "id": 198,
+        "name": "Symbiosis Institute of Health Sciences, Symbiosis International, Pune",
+        "type": "Deemed",
+        "location": "Hill Base,Tal: Mulshi",
+        "website": "https://www.sihs.edu.in/"
+      },
+      {
+        "id": 199,
+        "name": "MGM School of Biomedical Sciences, Aurangabad",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://mgmsbsa.ac.in/"
+      },
+      {
+        "id": 200,
+        "name": "SNJB Shriman Sureshdada Jain College of Pharmacy, Nashik",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://snjb.org/pharmacy/"
+      },
+      {
+        "id": 201,
+        "name": "C.U. Shah College of Pharmacy, SNDT Women University, Mumbai",
+        "type": "Public",
+        "location": "Mumbai, Maharashtra 400049",
+        "website": "https://cushahpharmacy.ac.in/"
+      },
+      {
+        "id": 202,
+        "name": "Veritas Skill Institute, Mumbai",
+        "type": "Private",
+        "location": "Thane West,",
+        "website": "https://veritas-skills.com"
+      },
+      {
+        "id": 203,
+        "name": "Rashtrasant Tukadoji Maharaj Nagpur University",
+        "type": "Public/Government",
+        "location": "Mahatma Jotiba Phule Educational Premises, Campus Square to Ambazari T-Point Road",
+        "website": "https://www.nagpuruniversity.ac.in/"
+      }
+    ]
   }
 ]

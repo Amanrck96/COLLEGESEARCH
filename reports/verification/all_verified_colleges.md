@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **620 / 12,660**  
-**Roadmap Progress**: **62.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **630 / 12,660**  
+**Roadmap Progress**: **63.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -939,4 +939,19 @@
 | **191** | Alard University Pune (AUP Hinjewadi) | Private University (State Private University) | Pune - 411057, Maharashtra | [alarduniversity.edu.in](https://alarduniversity.edu.in) |
 | **192** | MGM School of Physiotherapy, Navi Mumbai (MGMSOP) | Deemed to be University (Constituent of MGM Institute of Health Sciences) | Navi Mumbai - 410209, Maharashtra | [mgmsopnm.edu.in](https://mgmsopnm.edu.in) |
 | **193** | Maharashtra University of Health Sciences, Nashik (MUHS Nashik) | Public/Government (State Health Sciences University - 1998) | Nashik - 422004, Maharashtra | [www.muhs.ac.in](https://www.muhs.ac.in) |
+
+### Batch 63 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **194** | Datta Meghe Medical College, Nagpur | Deemed | Datta Meghe Medical College (DMMC) Wanadongri, Hingna Road | [dmmcnagpur.com](https://dmmcnagpur.com/) |
+| **195** | Seth G S Medical College | Public | Maharashtra, India | [www.kem.edu](https://www.kem.edu) |
+| **196** | Lokmanya Tilak Municipal Medical College | Public | Maharashtra, India | [ltmmc.edu.in](https://ltmmc.edu.in) |
+| **197** | MET's Institute of D. Pharmacy, Adgaon, Nashik | Private | Adgaon, Nashik | [metbhujbalknowledgecity.ac.in](https://metbhujbalknowledgecity.ac.in/iop/) |
+| **198** | Symbiosis Institute of Health Sciences, Symbiosis International, Pune | Deemed | Hill Base,Tal: Mulshi | [www.sihs.edu.in](https://www.sihs.edu.in/) |
+| **199** | MGM School of Biomedical Sciences, Aurangabad | Private | Maharashtra, India | [mgmsbsa.ac.in](https://mgmsbsa.ac.in/) |
+| **200** | SNJB Shriman Sureshdada Jain College of Pharmacy, Nashik | Private | Maharashtra, India | [snjb.org](https://snjb.org/pharmacy/) |
+| **201** | C.U. Shah College of Pharmacy, SNDT Women University, Mumbai | Public | Mumbai, Maharashtra 400049 | [cushahpharmacy.ac.in](https://cushahpharmacy.ac.in/) |
+| **202** | Veritas Skill Institute, Mumbai | Private | Thane West, | [veritas-skills.com](https://veritas-skills.com) |
+| **203** | Rashtrasant Tukadoji Maharaj Nagpur University | Public/Government | Mahatma Jotiba Phule Educational Premises, Campus Square to Ambazari T-Point Road | [www.nagpuruniversity.ac.in](https://www.nagpuruniversity.ac.in/) |
 
