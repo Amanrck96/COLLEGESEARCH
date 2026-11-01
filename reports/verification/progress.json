@@ -1642,7 +1642,17 @@
     1893,
     1894,
     1895,
-    1896
+    1896,
+    1897,
+    1898,
+    1899,
+    1900,
+    1901,
+    1902,
+    1903,
+    1904,
+    1905,
+    1906
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -1987,6 +1997,24 @@
         1896
       ],
       "verifiedAt": "2026-11-01T21:02:43.917Z"
+    },
+    "191": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "1901-1910",
+      "ids": [
+        1897,
+        1898,
+        1899,
+        1900,
+        1901,
+        1902,
+        1903,
+        1904,
+        1905,
+        1906
+      ],
+      "verifiedAt": "2026-11-01T21:08:45.868Z"
     }
   },
   "all_verified_ids": [
@@ -2001,11 +2029,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 190,
-  "verifiedColleges": 1900,
-  "lastUpdated": "2026-11-01T21:02:43.844Z",
+  "last_batch_completed": 191,
+  "verifiedColleges": 1910,
+  "lastUpdated": "2026-11-01T21:08:45.786Z",
   "batchesCompleted": 172,
-  "currentBatch": 190,
+  "currentBatch": 191,
   "batchHistory": [
     {
       "batch": 160,
@@ -2329,6 +2357,24 @@
         1894,
         1895,
         1896
+      ]
+    },
+    {
+      "batch": 191,
+      "verifiedCount": 10,
+      "totalVerified": 1910,
+      "timestamp": "2026-11-01T21:08:45.868Z",
+      "collegeIds": [
+        1897,
+        1898,
+        1899,
+        1900,
+        1901,
+        1902,
+        1903,
+        1904,
+        1905,
+        1906
       ]
     }
   ]

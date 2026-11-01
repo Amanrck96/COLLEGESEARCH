@@ -2839,3 +2839,19 @@
 | 1898 | GD Rungta College of Science and Technology, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://www.rungta.ac.in/gdrst) |
 | 1899 | Government Polytechnic, Pathariya | Mungeli | Chhattisgarh | Public/Government | [Portal](http://gppathariya.ac.in) |
 | 1900 | Government Polytechnic, Marwahi | Gaurela-Pendra-Marwahi | Chhattisgarh | Public/Government | [Portal](http://gpmarwahi.ac.in) |
+
+
+### Batch 191 (Colleges 1,901–1,910)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1901 | Government Polytechnic, Thankhamariya | Bemetara | Chhattisgarh | Public/Government | [Portal](http://gpthankhamariya.ac.in) |
+| 1902 | Government Polytechnic, Chirmiri | Koriya | Chhattisgarh | Public/Government | [Portal](http://gpchirmiri.ac.in) |
+| 1903 | Government Polytechnic, Bagicha | Jashpur | Chhattisgarh | Public/Government | [Portal](http://gpbagicha.ac.in) |
+| 1904 | K R Technical College, Ambikapur | Surguja | Chhattisgarh | Private | [Portal](https://krtc.co.in) |
+| 1905 | Uttam Memorial College, Raigarh | Raigarh | Chhattisgarh | Private | [Portal](https://uttammemorialcollege.in) |
+| 1906 | Pt. Harishankar Shukla Smriti Mahavidyalaya, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://www.shuklacollege.com) |
+| 1907 | K.D. Rungta College of Science and Technology, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://www.rungta.ac.in/kdrst) |
+| 1908 | Rungta College of Science and Technology, Durg | Durg | Chhattisgarh | Private | [Portal](https://www.rungta.ac.in/rcst) |
+| 1909 | M. J. College, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://mjcollegebhilai.org) |
+| 1910 | Krishna Institute of Science and Commerce, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://kiscbhilai.ac.in) |
