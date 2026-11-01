@@ -10798,5 +10798,80 @@
         "website": "https://lnmu.ac.in"
       }
     ]
+  },
+  {
+    "batch": 145,
+    "items": [
+      {
+        "id": 1117,
+        "name": "Patna University",
+        "type": "Public/Government",
+        "location": "Patna, Bihar - 800005",
+        "website": "https://pup.ac.in"
+      },
+      {
+        "id": 1118,
+        "name": "Tilka Manjhi Bhagalpur University",
+        "type": "Public/Government",
+        "location": "Bhagalpur, Bihar - 812007",
+        "website": "https://www.tmbuniv.ac.in"
+      },
+      {
+        "id": 1119,
+        "name": "Chandragupt Institute of Management, Patna",
+        "type": "Public/Government",
+        "location": "Patna, Bihar - 800001",
+        "website": "https://www.cimp.ac.in"
+      },
+      {
+        "id": 1120,
+        "name": "Dr. C.V. Raman University, Bihar, Vaishali",
+        "type": "Private",
+        "location": "Vaishali, Bihar - 844114",
+        "website": "https://www.cvrubihar.ac.in/"
+      },
+      {
+        "id": 1121,
+        "name": "Gopal Narayan Singh University, Sasaram",
+        "type": "Private",
+        "location": "District Rohtas, Bihar - 821305",
+        "website": "https://gnsu.ac.in/"
+      },
+      {
+        "id": 1122,
+        "name": "J.D. Women's College, Patna",
+        "type": "Public/Government",
+        "location": "Patna, Bihar - 800023",
+        "website": "https://www.jdwcpatna.ac.in"
+      },
+      {
+        "id": 1123,
+        "name": "Indian Institute of Business Management, Patna",
+        "type": "Private",
+        "location": "Patna, Bihar - 800001",
+        "website": "https://www.iibm.in"
+      },
+      {
+        "id": 1124,
+        "name": "Vaishali Institute of Business and Rural Management, Muzaffarpur",
+        "type": "Private",
+        "location": "Muzaffarpur, Bihar - 842002",
+        "website": "https://www.vibrm.in/"
+      },
+      {
+        "id": 1126,
+        "name": "Vidya Vihar Institute of Technology, Purnia",
+        "type": "Private",
+        "location": "Purnea, Bihar - 854303",
+        "website": "https://vvit.org"
+      },
+      {
+        "id": 1127,
+        "name": "Subhash Institute of Technology, Jamui",
+        "type": "Private",
+        "location": "District Jamui, Bihar - 811307",
+        "website": "https://sitjamui.org"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1440 / 12,660**  
-**Roadmap Progress**: **144.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1450 / 12,660**  
+**Roadmap Progress**: **145.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2169,4 +2169,19 @@
 | **1114** | Footwear Design and Development Institute, Patna | Public/Government | Patna, Bihar - 801103 | [www.fddiindia.com](https://www.fddiindia.com) |
 | **1115** | Amity University Patna | Private | Patna, Bihar - 801503 | [www.amity.edu](https://www.amity.edu/patna) |
 | **1116** | Lalit Narayan Mithila University, Darbhanga | Public/Government | Darbhanga, Bihar - 846004 | [lnmu.ac.in](https://lnmu.ac.in) |
+
+### Batch 145 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1117** | Patna University | Public/Government | Patna, Bihar - 800005 | [pup.ac.in](https://pup.ac.in) |
+| **1118** | Tilka Manjhi Bhagalpur University | Public/Government | Bhagalpur, Bihar - 812007 | [www.tmbuniv.ac.in](https://www.tmbuniv.ac.in) |
+| **1119** | Chandragupt Institute of Management, Patna | Public/Government | Patna, Bihar - 800001 | [www.cimp.ac.in](https://www.cimp.ac.in) |
+| **1120** | Dr. C.V. Raman University, Bihar, Vaishali | Private | Vaishali, Bihar - 844114 | [www.cvrubihar.ac.in](https://www.cvrubihar.ac.in/) |
+| **1121** | Gopal Narayan Singh University, Sasaram | Private | District Rohtas, Bihar - 821305 | [gnsu.ac.in](https://gnsu.ac.in/) |
+| **1122** | J.D. Women's College, Patna | Public/Government | Patna, Bihar - 800023 | [www.jdwcpatna.ac.in](https://www.jdwcpatna.ac.in) |
+| **1123** | Indian Institute of Business Management, Patna | Private | Patna, Bihar - 800001 | [www.iibm.in](https://www.iibm.in) |
+| **1124** | Vaishali Institute of Business and Rural Management, Muzaffarpur | Private | Muzaffarpur, Bihar - 842002 | [www.vibrm.in](https://www.vibrm.in/) |
+| **1126** | Vidya Vihar Institute of Technology, Purnia | Private | Purnea, Bihar - 854303 | [vvit.org](https://vvit.org) |
+| **1127** | Subhash Institute of Technology, Jamui | Private | District Jamui, Bihar - 811307 | [sitjamui.org](https://sitjamui.org) |
 
