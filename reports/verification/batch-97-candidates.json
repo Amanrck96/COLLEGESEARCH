@@ -1,0 +1,203 @@
+[
+  {
+    "id": 577,
+    "name": "JAHNAVI DEGREE AND PG COLLEGE",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/jahnavi-degree-pg-college-chikkadapally-hyderabad-237131.webp",
+    "website": "https://www.jahnavidegreean.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 120,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 580,
+    "name": "KONERU LAKSHMAIAH EDUCATION FOUNDATION DEEMED TO BE UNIVERSITY OFF CAMPUS BOWRAMPET HYDERABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://www.konerulakshmaia.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "name": "GOVERNMENT POLYTECHNIC MAHESHWARAM",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-17-9-13-01-08_MAU.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 585,
+    "name": "AURORA'S BUSINESS SCHOOL, BEGUMPET, HYDERABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.aurorasbusiness.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "POST GRADUATE DIPLOMA IN MANAGEMENT",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "MANAGEMENT",
+        "intake": 180
+      }
+    ]
+  },
+  {
+    "id": 588,
+    "name": "AURORA'S PG COLLEGE",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.auroraspgcolleg.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MASTER OF COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 300
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "name": "DECCAN GROUP OF INSTITUTIONS",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.deccangroupofin.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 591,
+    "name": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING SULTANPUR",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/sheila_raheja_bandra.webp",
+    "website": "https://www.google.com/search?q=JNTUH%20UNIVERSITY%20COLLEGE%20OF%20ENGINEERING%20SULTANPUR%20official%20website%20MEDAK%20Telangana",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "name": "GOVERNMENT POLYTECHNIC FOR WOMEN SECUNDERABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/pibm_pune.webp",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "duration": "3 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ]
+  },
+  {
+    "id": 594,
+    "name": "KONERU LAKSHMAIAH EDUCATION FOUNDATION DEEMED TO B UNIVERSITY OFF CAMPUS AZIZNAGAR HYDERABAD",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+    "website": "https://www.konerulakshmaia.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 120
+      }
+    ]
+  },
+  {
+    "id": 596,
+    "name": "THE ICFAI FOUNDATION FOR HIGHER EDUCATION",
+    "state": "Telangana",
+    "type": "Private",
+    "image": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.theicfaifoundat.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "duration": "4 Years",
+        "fees": "₹2.5 Lakhs",
+        "eligibility": "10+2 / Graduation",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 300
+      }
+    ]
+  }
+]

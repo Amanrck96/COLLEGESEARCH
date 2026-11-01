@@ -7198,5 +7198,80 @@
         "website": "https://www.kavithacollege.com"
       }
     ]
+  },
+  {
+    "batch": 97,
+    "items": [
+      {
+        "id": 577,
+        "name": "Jahnavi Degree & PG College, Chikkadpally, Hyderabad",
+        "type": "Private",
+        "location": "HYDERABAD, TELANGANA 500003",
+        "website": "http://www.jahnavicolleges.com"
+      },
+      {
+        "id": 580,
+        "name": "KL University Hyderabad (Koneru Lakshmaiah Education Foundation, Bowrampet Campus)",
+        "type": "Private",
+        "location": "BOWRAMPET, MEDCHEL MALKAJGIRI DISTRICT.",
+        "website": "https://www.kluniversity.in"
+      },
+      {
+        "id": 581,
+        "name": "Government Polytechnic, Maheshwaram, Ranga Reddy",
+        "type": "Public/Government",
+        "location": "MAHESHWARAM VILLAGE MAHESHWARAM MANDAL",
+        "website": "http://polytechnicmaheshwaram.ac.in"
+      },
+      {
+        "id": 585,
+        "name": "Aurora's Business School, Begumpet, Hyderabad",
+        "type": "Private",
+        "location": "BEGUMPET, HYDERABAD",
+        "website": "https://www.absi.edu.in"
+      },
+      {
+        "id": 588,
+        "name": "Aurora's PG College, Ramanthapur, Hyderabad",
+        "type": "Private",
+        "location": "CHIKKADPALLY",
+        "website": "https://apgc.edu.in"
+      },
+      {
+        "id": 589,
+        "name": "Deccan Group of Institutions (Deccan College of Management, Darussalam, Hyderabad)",
+        "type": "Private",
+        "location": "DAR-US-SALAM, NAMPALLY",
+        "website": "https://www.deccancollege.ac.in"
+      },
+      {
+        "id": 591,
+        "name": "JNTUH University College of Engineering, Sultanpur (JNTUH UCES, Sangareddy)",
+        "type": "Public/Government",
+        "location": "SULTANPUR VILLAGE PULKAL MANDAL SANGAREDDY DISTRICT TELANGANA STATE",
+        "website": "https://jntuhuces.ac.in"
+      },
+      {
+        "id": 593,
+        "name": "Government Polytechnic for Women, Secunderabad",
+        "type": "Public/Government",
+        "location": "EAST MARREDPALLY, SECUNDERABAD",
+        "website": "http://gpwsecunderabad.ac.in"
+      },
+      {
+        "id": 594,
+        "name": "KL University Hyderabad (Koneru Lakshmaiah Education Foundation, Aziznagar Campus)",
+        "type": "Private",
+        "location": "AZIZNAGAR, HYDERABAD",
+        "website": "https://www.kluniversity.in"
+      },
+      {
+        "id": 596,
+        "name": "The ICFAI Foundation for Higher Education (IFHE Deemed to be University, Shankarpally, Hyderabad)",
+        "type": "Private",
+        "location": "TELANGANA, PIN 501 203",
+        "website": "https://www.ifheindia.org"
+      }
+    ]
   }
 ]

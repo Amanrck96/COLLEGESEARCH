@@ -49220,14 +49220,14 @@
     },
     {
       "id": 577,
-      "name": "JAHNAVI DEGREE AND PG COLLEGE",
+      "name": "Jahnavi Degree & PG College, Chikkadpally, Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "BLOCK II 1-7-53 & 54/A HMRL & CA COMPLEX PARADISE SECUNDERABAD, BLOCK I HARDY COMPLEX 2ND FLOOR OPP. CHARMAS M.G. ROAD SECUNDERABAD, HYDERABAD, TELANGANA 500003",
-      "phone": "0123-456789",
-      "website": "https://www.jahnavidegreean.edu.in",
-      "rating": 4.5,
+      "phone": "040-27664686",
+      "website": "http://www.jahnavicolleges.com",
+      "rating": 4.1,
       "reviews": 1801,
       "type": "Private",
       "about": "Welcome to JAHNAVI DEGREE AND PG COLLEGE, a premier institute located in HYDERABAD. We offer world-class education and facilities for our students.",
@@ -49246,13 +49246,54 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹48,000/Year",
+          "eligibility": "10+2 in any discipline",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "B.Com in Computer Applications",
+          "title": "B.Com in Computer Applications",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10+2 Commerce/Science",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "Graduation with Maths + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -49274,7 +49315,9 @@
       "reviewsCount": 1801,
       "image": "https://www.collegebatch.com/static/clg-gallery/jahnavi-degree-pg-college-chikkadapally-hyderabad-237131.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAHNAVI%20DEGREE%20AND%20PG%20COLLEGE%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAHNAVI%20DEGREE%20AND%20PG%20COLLEGE%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 1997
     },
     {
       "id": 578,
@@ -49389,14 +49432,14 @@
     },
     {
       "id": 580,
-      "name": "KONERU LAKSHMAIAH EDUCATION FOUNDATION DEEMED TO BE UNIVERSITY OFF CAMPUS BOWRAMPET HYDERABAD",
+      "name": "KL University Hyderabad (Koneru Lakshmaiah Education Foundation, Bowrampet Campus)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "NEAR SAI BABA TEMPLE, GANDIMAISAMMA TO MIYAPUR ROAD,BOWRAMPET, MEDCHEL MALKAJGIRI DISTRICT.",
-      "phone": "0123-456789",
-      "website": "https://www.konerulakshmaia.edu.in",
-      "rating": 4.5,
+      "phone": "040-23542127",
+      "website": "https://www.kluniversity.in",
+      "rating": 4.4,
       "reviews": 142,
       "type": "Private",
       "about": "Welcome to KONERU LAKSHMAIAH EDUCATION FOUNDATION DEEMED TO BE UNIVERSITY OFF CAMPUS BOWRAMPET HYDERABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -49416,12 +49459,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
+          "name": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science & Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "fees": "₹2,60,000/Year",
+          "eligibility": "10+2 with 60% PCM + KLEEE / TS EAMCET / JEE Main",
+          "exams": "KLEEE, TS EAMCET, JEE Main",
+          "intake": "360"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,70,000/Year",
+          "eligibility": "10+2 with PCM + KLEEE",
+          "exams": "KLEEE, TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,20,000/Year",
+          "eligibility": "10+2 with 50%+",
+          "exams": "KLEEE, Merit",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,75,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / TS ICET",
+          "exams": "CAT, MAT, TS ICET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -49437,23 +49512,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=KONERU%20LAKSHMAIAH%20EDUCATION%20FOUNDATION%20DEEMED%20TO%20BE%20UNIVERSITY%20OFF%20CAMPUS%20BOWRAMPET%20HYDERABAD%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Hyderabad",
+      "established": 2019
     },
     {
       "id": 581,
-      "name": "GOVERNMENT POLYTECHNIC MAHESHWARAM",
+      "name": "Government Polytechnic, Maheshwaram, Ranga Reddy",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "MAHESHWARAM VILLAGE MAHESHWARAM MANDAL",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "08414-230055",
+      "website": "http://polytechnicmaheshwaram.ac.in",
+      "rating": 4.2,
       "reviews": 375,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC MAHESHWARAM, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 22,
       "facebook": "#",
@@ -49471,12 +49548,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering (EEE)",
+          "title": "Diploma in Electrical & Electronics Engineering (EEE)",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -49494,7 +49593,9 @@
       ],
       "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-17-9-13-01-08_MAU.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20MAHESHWARAM%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20MAHESHWARAM%20RANGAREDDI%20Telangana",
+      "city": "Ranga Reddy",
+      "established": 2014
     },
     {
       "id": 582,
@@ -49665,14 +49766,14 @@
     },
     {
       "id": 585,
-      "name": "AURORA'S BUSINESS SCHOOL, BEGUMPET, HYDERABAD",
+      "name": "Aurora's Business School, Begumpet, Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "1-11-256, MOTHILAL NEHRU NAGAR, BEGUMPET, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.aurorasbusiness.edu.in",
-      "rating": 4.5,
+      "phone": "040-23351892",
+      "website": "https://www.absi.edu.in",
+      "rating": 4.2,
       "reviews": 469,
       "type": "Private",
       "about": "Welcome to AURORA'S BUSINESS SCHOOL, BEGUMPET, HYDERABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -49692,12 +49793,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "POST GRADUATE DIPLOMA IN MANAGEMENT",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "name": "Post Graduate Diploma in Management (PGDM - General)",
+          "title": "Post Graduate Diploma in Management (PGDM - General)",
+          "division": "Postgraduate Diploma",
+          "duration": "2 Years",
+          "fees": "₹2,40,000/Year",
+          "eligibility": "Bachelor's degree (50%+) + CAT/MAT/XAT/CMAT/ATMA",
+          "exams": "CAT, MAT, XAT, CMAT",
+          "intake": "180"
+        },
+        {
+          "name": "PGDM in Executive Management",
+          "title": "PGDM in Executive Management",
+          "division": "Executive Postgraduate",
+          "duration": "15 Months",
+          "fees": "₹2,00,000/Year",
+          "eligibility": "Graduation + 2+ yrs work experience",
+          "exams": "Merit & Interview",
+          "intake": "60"
+        },
+        {
+          "name": "PGDM in Marketing & Finance",
+          "title": "PGDM in Marketing & Finance",
+          "division": "Postgraduate Diploma",
+          "duration": "2 Years",
+          "fees": "₹2,40,000/Year",
+          "eligibility": "Bachelor's degree (50%+) + Entrance Exam",
+          "exams": "CAT, MAT, CMAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -49713,10 +49836,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20BUSINESS%20SCHOOL%2C%20BEGUMPET%2C%20HYDERABAD%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 2005
     },
     {
       "id": 586,
@@ -49832,14 +49957,14 @@
     },
     {
       "id": 588,
-      "name": "AURORA'S PG COLLEGE",
+      "name": "Aurora's PG College, Ramanthapur, Hyderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "CHIKKADPALLY",
-      "phone": "0123-456789",
-      "website": "https://www.auroraspgcolleg.edu.in",
-      "rating": 4.5,
+      "phone": "040-27031533",
+      "website": "https://apgc.edu.in",
+      "rating": 4.3,
       "reviews": 398,
       "type": "Private",
       "about": "Welcome to AURORA'S PG COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -49859,12 +49984,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 300
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹47,000/Year",
+          "eligibility": "BCA / B.Sc / B.Com with Mathematics + TS ICET",
+          "exams": "TS ICET",
+          "intake": "300"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "Bachelor's degree (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "300"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -49880,21 +50017,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pes_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AURORA'S%20PG%20COLLEGE%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 1995
     },
     {
       "id": 589,
-      "name": "DECCAN GROUP OF INSTITUTIONS",
+      "name": "Deccan Group of Institutions (Deccan College of Management, Darussalam, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "DAR-US-SALAM, NAMPALLY",
-      "phone": "0123-456789",
-      "website": "https://www.deccangroupofin.edu.in",
-      "rating": 4.5,
+      "phone": "040-24803452",
+      "website": "https://www.deccancollege.ac.in",
+      "rating": 4.1,
       "reviews": 176,
       "type": "Private",
       "about": "Welcome to DECCAN GROUP OF INSTITUTIONS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -49914,12 +50053,34 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "BCA / B.Sc with Maths + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
+        },
+        {
+          "name": "MBA in Hospital Management",
+          "title": "MBA in Hospital Management",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Bachelor's degree + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -49935,9 +50096,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DECCAN%20GROUP%20OF%20INSTITUTIONS%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DECCAN%20GROUP%20OF%20INSTITUTIONS%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 1991
     },
     {
       "id": 590,
@@ -49997,16 +50160,16 @@
     },
     {
       "id": 591,
-      "name": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING SULTANPUR",
+      "name": "JNTUH University College of Engineering, Sultanpur (JNTUH UCES, Sangareddy)",
       "shortName": "Course Institute-1",
       "location": "MEDAK",
       "state": "Telangana",
       "address": "SULTANPUR VILLAGE PULKAL MANDAL SANGAREDDY DISTRICT TELANGANA STATE",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=JNTUH%20UNIVERSITY%20COLLEGE%20OF%20ENGINEERING%20SULTANPUR%20official%20website%20MEDAK%20Telangana",
+      "phone": "08455-230555",
+      "website": "https://jntuhuces.ac.in",
       "rating": 4.5,
       "reviews": 198,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to JNTUH UNIVERSITY COLLEGE OF ENGINEERING SULTANPUR, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 57,
       "facebook": "#",
@@ -50024,12 +50187,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "B.Tech in Civil Engineering",
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Mechanical Engineering",
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Electronics & Communication Engineering (ECE)",
+          "title": "B.Tech in Electronics & Communication Engineering (ECE)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering (CSE)",
+          "title": "B.Tech in Computer Science and Engineering (CSE)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "name": "M.Tech in Structural Engineering",
+          "title": "M.Tech in Structural Engineering",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "B.Tech in Civil + GATE / TS PGECET",
+          "exams": "GATE, TS PGECET",
+          "intake": "18"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -50045,9 +50250,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/sheila_raheja_bandra.webp",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JNTUH%20UNIVERSITY%20COLLEGE%20OF%20ENGINEERING%20SULTANPUR%20MEDAK%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JNTUH%20UNIVERSITY%20COLLEGE%20OF%20ENGINEERING%20SULTANPUR%20MEDAK%20Telangana",
+      "city": "Sangareddy",
+      "established": 2012
     },
     {
       "id": 592,
@@ -50106,16 +50313,16 @@
     },
     {
       "id": 593,
-      "name": "GOVERNMENT POLYTECHNIC FOR WOMEN SECUNDERABAD",
+      "name": "Government Polytechnic for Women, Secunderabad",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "EAST NEHRU NAGAR, EAST MARREDPALLY, SECUNDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "040-27802490",
+      "website": "http://gpwsecunderabad.ac.in",
+      "rating": 4.4,
       "reviews": 375,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC FOR WOMEN SECUNDERABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 75,
       "facebook": "#",
@@ -50133,12 +50340,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "name": "Diploma in Computer Engineering",
+          "title": "Diploma in Computer Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electronics and Communication Engineering (ECE)",
+          "title": "Diploma in Electronics and Communication Engineering (ECE)",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Commercial & Computer Practice (DCCP)",
+          "title": "Diploma in Commercial & Computer Practice (DCCP)",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard / SSC + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Pharmacy (D.Pharm)",
+          "title": "Diploma in Pharmacy (D.Pharm)",
+          "division": "Polytechnic Diploma",
+          "duration": "2 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10+2 with Science (PCB/PCM)",
+          "exams": "Merit Based",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -50154,21 +50403,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pibm_pune.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20FOR%20WOMEN%20SECUNDERABAD%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 1961
     },
     {
       "id": 594,
-      "name": "KONERU LAKSHMAIAH EDUCATION FOUNDATION DEEMED TO B UNIVERSITY OFF CAMPUS AZIZNAGAR HYDERABAD",
+      "name": "KL University Hyderabad (Koneru Lakshmaiah Education Foundation, Aziznagar Campus)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "AZIZNAGAR, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.konerulakshmaia.edu.in",
-      "rating": 4.5,
+      "phone": "040-23542127",
+      "website": "https://www.kluniversity.in",
+      "rating": 4.4,
       "reviews": 467,
       "type": "Private",
       "about": "Welcome to KONERU LAKSHMAIAH EDUCATION FOUNDATION DEEMED TO B UNIVERSITY OFF CAMPUS AZIZNAGAR HYDERABAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -50188,12 +50439,44 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+          "name": "B.Tech in Electronics & Communication Engineering (ECE)",
+          "title": "B.Tech in Electronics & Communication Engineering (ECE)",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹2,40,000/Year",
+          "eligibility": "10+2 with PCM + KLEEE / TS EAMCET / JEE Main",
+          "exams": "KLEEE, TS EAMCET, JEE Main",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering (CSE)",
+          "title": "B.Tech in Computer Science and Engineering (CSE)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,60,000/Year",
+          "eligibility": "10+2 with PCM + KLEEE / TS EAMCET",
+          "exams": "KLEEE, TS EAMCET",
+          "intake": "240"
+        },
+        {
+          "name": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,60,000/Year",
+          "eligibility": "10+2 with PCM + KLEEE",
+          "exams": "KLEEE",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Business Administration (MBA - Global)",
+          "title": "Master of Business Administration (MBA - Global)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,80,000/Year",
+          "eligibility": "Graduation (50%+) + CAT/MAT/TS ICET",
+          "exams": "CAT, MAT, TS ICET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -50209,9 +50492,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KONERU%20LAKSHMAIAH%20EDUCATION%20FOUNDATION%20DEEMED%20TO%20B%20UNIVERSITY%20OFF%20CAMPUS%20AZIZNAGAR%20HYDERABAD%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KONERU%20LAKSHMAIAH%20EDUCATION%20FOUNDATION%20DEEMED%20TO%20B%20UNIVERSITY%20OFF%20CAMPUS%20AZIZNAGAR%20HYDERABAD%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 2017
     },
     {
       "id": 595,
@@ -50270,13 +50555,13 @@
     },
     {
       "id": 596,
-      "name": "THE ICFAI FOUNDATION FOR HIGHER EDUCATION",
+      "name": "The ICFAI Foundation for Higher Education (IFHE Deemed to be University, Shankarpally, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "DONTHANAPALLY, SHANKARAPALLI ROAD, HYDERABAD, TELANGANA, PIN 501 203",
-      "phone": "0123-456789",
-      "website": "https://www.theicfaifoundat.edu.in",
+      "phone": "040-23479999",
+      "website": "https://www.ifheindia.org",
       "rating": 4.5,
       "reviews": 421,
       "type": "Private",
@@ -50297,12 +50582,54 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,40,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (50%+)",
+          "exams": "Merit Based",
+          "intake": "300"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 300
+          "fees": "₹2,50,000/Year",
+          "eligibility": "10+2 with 60% PCM + ATIT / JEE Main",
+          "exams": "ATIT, JEE Main",
+          "intake": "300"
+        },
+        {
+          "name": "B.Tech in Data Science & Artificial Intelligence",
+          "title": "B.Tech in Data Science & Artificial Intelligence",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,50,000/Year",
+          "eligibility": "10+2 with PCM + ATIT",
+          "exams": "ATIT",
+          "intake": "120"
+        },
+        {
+          "name": "BBA-LL.B. (Hons) / BA-LL.B. (Hons)",
+          "title": "BBA-LL.B. (Hons) / BA-LL.B. (Hons)",
+          "division": "Integrated Law",
+          "duration": "5 Years",
+          "fees": "₹2,40,000/Year",
+          "eligibility": "10+2 with 50%+ + ILSAT / CLAT",
+          "exams": "ILSAT, CLAT",
+          "intake": "180"
+        },
+        {
+          "name": "Bachelor of Architecture (B.Arch)",
+          "title": "Bachelor of Architecture (B.Arch)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹2,00,000/Year",
+          "eligibility": "10+2 with PCM + NATA",
+          "exams": "NATA",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -50318,10 +50645,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/pes_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE%20ICFAI%20FOUNDATION%20FOR%20HIGHER%20EDUCATION%20RANGAREDDI%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 1995
     },
     {
       "id": 597,

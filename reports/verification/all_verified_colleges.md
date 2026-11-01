@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **960 / 12,660**  
-**Roadmap Progress**: **96.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **970 / 12,660**  
+**Roadmap Progress**: **97.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1449,4 +1449,19 @@
 | **574** | Vivekananda College of Computer Sciences (VCCS, Shadnagar) | Private | KEESARA(M),R.R.DIST. | [www.vivekanandacolleges.com](http://www.vivekanandacolleges.com) |
 | **575** | Priyadarshini Degree & PG College, Hyderabad | Private | TS RTC BUS STAND SARADA KUTIR COMPLEX KOTHAGUDEM | [www.priyadarshinicollege.com](http://www.priyadarshinicollege.com) |
 | **576** | Kavitha Memorial Degree & PG College, Khammam | Private | NEHRU NAGAR , KHAMMAM | [www.kavithacollege.com](https://www.kavithacollege.com) |
+
+### Batch 97 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **577** | Jahnavi Degree & PG College, Chikkadpally, Hyderabad | Private | HYDERABAD, TELANGANA 500003 | [www.jahnavicolleges.com](http://www.jahnavicolleges.com) |
+| **580** | KL University Hyderabad (Koneru Lakshmaiah Education Foundation, Bowrampet Campus) | Private | BOWRAMPET, MEDCHEL MALKAJGIRI DISTRICT. | [www.kluniversity.in](https://www.kluniversity.in) |
+| **581** | Government Polytechnic, Maheshwaram, Ranga Reddy | Public/Government | MAHESHWARAM VILLAGE MAHESHWARAM MANDAL | [polytechnicmaheshwaram.ac.in](http://polytechnicmaheshwaram.ac.in) |
+| **585** | Aurora's Business School, Begumpet, Hyderabad | Private | BEGUMPET, HYDERABAD | [www.absi.edu.in](https://www.absi.edu.in) |
+| **588** | Aurora's PG College, Ramanthapur, Hyderabad | Private | CHIKKADPALLY | [apgc.edu.in](https://apgc.edu.in) |
+| **589** | Deccan Group of Institutions (Deccan College of Management, Darussalam, Hyderabad) | Private | DAR-US-SALAM, NAMPALLY | [www.deccancollege.ac.in](https://www.deccancollege.ac.in) |
+| **591** | JNTUH University College of Engineering, Sultanpur (JNTUH UCES, Sangareddy) | Public/Government | SULTANPUR VILLAGE PULKAL MANDAL SANGAREDDY DISTRICT TELANGANA STATE | [jntuhuces.ac.in](https://jntuhuces.ac.in) |
+| **593** | Government Polytechnic for Women, Secunderabad | Public/Government | EAST MARREDPALLY, SECUNDERABAD | [gpwsecunderabad.ac.in](http://gpwsecunderabad.ac.in) |
+| **594** | KL University Hyderabad (Koneru Lakshmaiah Education Foundation, Aziznagar Campus) | Private | AZIZNAGAR, HYDERABAD | [www.kluniversity.in](https://www.kluniversity.in) |
+| **596** | The ICFAI Foundation for Higher Education (IFHE Deemed to be University, Shankarpally, Hyderabad) | Private | TELANGANA, PIN 501 203 | [www.ifheindia.org](https://www.ifheindia.org) |
 
