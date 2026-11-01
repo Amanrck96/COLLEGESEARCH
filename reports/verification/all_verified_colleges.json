@@ -11848,5 +11848,80 @@
         "website": "http://kcaet.kau.in"
       }
     ]
+  },
+  {
+    "batch": 159,
+    "items": [
+      {
+        "id": 1273,
+        "name": "Christ Knowledge City, Muvattupuzha, Ernakulam",
+        "type": "Private",
+        "location": "Ernakulam District, Kerala - 683541",
+        "website": "https://christknowledgecity.com"
+      },
+      {
+        "id": 1274,
+        "name": "Al-Azhar College of Engineering and Technology, Thodupuzha, Idukki",
+        "type": "Private",
+        "location": "Idukki District, Kerala - 685605",
+        "website": "https://alazharethodupuzha.org"
+      },
+      {
+        "id": 1275,
+        "name": "Holy Grace Academy of Engineering, Mala, Thrissur",
+        "type": "Private",
+        "location": "Thrissur District, Kerala - 680732",
+        "website": "https://holygraceengineering.com"
+      },
+      {
+        "id": 1278,
+        "name": "Bishop Jerome Institute, Kollam",
+        "type": "Private",
+        "location": "Kollam, Kerala - 691001",
+        "website": "https://bji.ac.in"
+      },
+      {
+        "id": 1279,
+        "name": "ICCS College of Engineering and Management, Mupliyam, Thrissur",
+        "type": "Private",
+        "location": "Thrissur District, Kerala - 680699",
+        "website": "https://iccs.ac.in"
+      },
+      {
+        "id": 1280,
+        "name": "Nirmala College of Engineering, Chalakudy, Thrissur",
+        "type": "Private",
+        "location": "Thrissur District, Kerala - 680311",
+        "website": "https://nirmalace.ac.in"
+      },
+      {
+        "id": 1281,
+        "name": "Atlas Ideal International College, Melmuri, Malappuram",
+        "type": "Private",
+        "location": "Malappuram District, Kerala - 676519",
+        "website": "https://aiic.in"
+      },
+      {
+        "id": 1282,
+        "name": "Department of Instrumentation, Cochin University of Science and Technology (CUSAT)",
+        "type": "Public/Government",
+        "location": "Kochi, Kerala - 682022",
+        "website": "https://din.cusat.ac.in"
+      },
+      {
+        "id": 1283,
+        "name": "Department of Computer Science, Cochin University of Science and Technology (CUSAT)",
+        "type": "Public/Government",
+        "location": "Kochi, Kerala - 682022",
+        "website": "https://cs.cusat.ac.in"
+      },
+      {
+        "id": 1284,
+        "name": "Indian Institute of Space Science and Technology (IIST), Thiruvananthapuram (Academic Campus)",
+        "type": "Public/Government",
+        "location": "Thiruvananthapuram, Kerala - 695547",
+        "website": "https://www.iist.ac.in"
+      }
+    ]
   }
 ]

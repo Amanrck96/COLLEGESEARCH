@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1580 / 12,660**  
-**Roadmap Progress**: **158.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1590 / 12,660**  
+**Roadmap Progress**: **159.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2379,4 +2379,19 @@
 | **1269** | College of Engineering Muttathara, Thiruvananthapuram | Public/Government | Thiruvananthapuram, Kerala - 695008 | [cemuttathara.ac.in](https://cemuttathara.ac.in) |
 | **1270** | Government Polytechnic College, Mananthavady, Wayanad | Public/Government | Wayanad District, Kerala - 670645 | [gptcmdy.ac.in](https://gptcmdy.ac.in) |
 | **1271** | Kelappaji College of Agricultural Engineering and Food Technology (KCAET), Tavanur | Public/Government | Malappuram District, Kerala - 679573 | [kcaet.kau.in](http://kcaet.kau.in) |
+
+### Batch 159 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1273** | Christ Knowledge City, Muvattupuzha, Ernakulam | Private | Ernakulam District, Kerala - 683541 | [christknowledgecity.com](https://christknowledgecity.com) |
+| **1274** | Al-Azhar College of Engineering and Technology, Thodupuzha, Idukki | Private | Idukki District, Kerala - 685605 | [alazharethodupuzha.org](https://alazharethodupuzha.org) |
+| **1275** | Holy Grace Academy of Engineering, Mala, Thrissur | Private | Thrissur District, Kerala - 680732 | [holygraceengineering.com](https://holygraceengineering.com) |
+| **1278** | Bishop Jerome Institute, Kollam | Private | Kollam, Kerala - 691001 | [bji.ac.in](https://bji.ac.in) |
+| **1279** | ICCS College of Engineering and Management, Mupliyam, Thrissur | Private | Thrissur District, Kerala - 680699 | [iccs.ac.in](https://iccs.ac.in) |
+| **1280** | Nirmala College of Engineering, Chalakudy, Thrissur | Private | Thrissur District, Kerala - 680311 | [nirmalace.ac.in](https://nirmalace.ac.in) |
+| **1281** | Atlas Ideal International College, Melmuri, Malappuram | Private | Malappuram District, Kerala - 676519 | [aiic.in](https://aiic.in) |
+| **1282** | Department of Instrumentation, Cochin University of Science and Technology (CUSAT) | Public/Government | Kochi, Kerala - 682022 | [din.cusat.ac.in](https://din.cusat.ac.in) |
+| **1283** | Department of Computer Science, Cochin University of Science and Technology (CUSAT) | Public/Government | Kochi, Kerala - 682022 | [cs.cusat.ac.in](https://cs.cusat.ac.in) |
+| **1284** | Indian Institute of Space Science and Technology (IIST), Thiruvananthapuram (Academic Campus) | Public/Government | Thiruvananthapuram, Kerala - 695547 | [www.iist.ac.in](https://www.iist.ac.in) |
 
