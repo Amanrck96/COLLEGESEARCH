@@ -6673,5 +6673,80 @@
         "website": "https://adamasuniversity.ac.in"
       }
     ]
+  },
+  {
+    "batch": 90,
+    "items": [
+      {
+        "id": 506,
+        "name": "Nibedita Institute of Technology (NIT Sagarpara)",
+        "type": "Private",
+        "location": "WEST BENGAL,PIN-742306",
+        "website": "http://www.nibeditainstitute.com"
+      },
+      {
+        "id": 507,
+        "name": "Gangarampur Government Polytechnic",
+        "type": "Public/Government",
+        "location": "P.O.BELBARI, PIN-733124",
+        "website": "https://polytechnic.wbtetsd.gov.in/gangarampurgovpoly"
+      },
+      {
+        "id": 508,
+        "name": "JLD College of Engineering and Management (Baruipur)",
+        "type": "Private",
+        "location": "BELEGACHI GRAM PANCHAYET, P.S.: BARUIPUR",
+        "website": "http://jldcem.in"
+      },
+      {
+        "id": 509,
+        "name": "Purulia Polytechnic",
+        "type": "Public/Government",
+        "location": "P.O. - VIVEKANANDA NAGAR, PURULIA",
+        "website": "https://polytechnic.wbtetsd.gov.in/puruliapoly"
+      },
+      {
+        "id": 510,
+        "name": "Dr. B. C. Roy Polytechnic (BCRP Durgapur)",
+        "type": "Private",
+        "location": "DR. MEGHNAD SAHA SARANI, BIDHAN NAGAR",
+        "website": "https://bcrp.ac.in"
+      },
+      {
+        "id": 511,
+        "name": "Kolaghat Government Polytechnic",
+        "type": "Public/Government",
+        "location": "PO. & PS.: KOLAGHAT; VILLAGE: AMALHANDA; DISTRICT: PURBA MEDINIPUR",
+        "website": "https://polytechnic.wbtetsd.gov.in/kolaghatgovpoly"
+      },
+      {
+        "id": 512,
+        "name": "MBC Institute of Engineering & Technology (Sadhanpur, Burdwan)",
+        "type": "Public/Government",
+        "location": "SADHANPUR",
+        "website": "https://polytechnic.wbtetsd.gov.in/mbcietburdwan"
+      },
+      {
+        "id": 513,
+        "name": "Bengal Institute of Polytechnic (Hetampur, Birbhum)",
+        "type": "Private",
+        "location": "VILL-SAGAR PO-HETAMPUR PS-SADAIPUR",
+        "website": "https://bip-india.in"
+      },
+      {
+        "id": 514,
+        "name": "Shree Ramkrishna Institute of Science & Technology (SRIST Kolkata)",
+        "type": "Private",
+        "location": "PS- SONARPUR, KOLKATA-700145",
+        "website": "https://srist.in"
+      },
+      {
+        "id": 515,
+        "name": "Mallabhum Institute of Polytechnic (MIP Bishnupur)",
+        "type": "Private",
+        "location": "P.O- GOSAIPUR. P.S -BISHNUPUR,DIST -BANKURA",
+        "website": "https://mipbishnupur.in"
+      }
+    ]
   }
 ]

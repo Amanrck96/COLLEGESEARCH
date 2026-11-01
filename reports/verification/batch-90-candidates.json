@@ -1,0 +1,122 @@
+[
+  {
+    "id": 506,
+    "name": "NIBEDITA INSTITUTE OF TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Nibedita_Institute_Of_Technologychnology.jpg?width=640",
+    "website": "https://www.nibeditainstitu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 507,
+    "name": "GANGARAMPUR GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1601727254cover.jpg?h=240&w=1000&mode=crop",
+    "website": "https://www.gangarampurgove.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 508,
+    "name": "JLD COLLEGE OF ENGINEERING AND MANAGEMENT",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/gnims_matunga.png",
+    "website": "https://www.jldcollegeofeng.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 509,
+    "name": "PURULIA POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/purulia-polytechnic-purulia-318209.webp",
+    "website": "https://www.puruliapolytech.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 510,
+    "name": "DR. B. C. ROY POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://assets.kollegeapply.com/images/1751562649850-1533630586phpOjEa5l.png",
+    "website": "https://www.drbcroypolytech.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 511,
+    "name": "KOLAGHAT GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.kolaghatgovernm.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 512,
+    "name": "MBC INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1546514471Capture.PNG",
+    "website": "https://www.mbcinstituteofe.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 513,
+    "name": "BENGAL INSTITUTE OF POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.bengalinstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 514,
+    "name": "SHREE RAMKRISHNA INSTITUTE OF SCIENCE & TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/1675157043php4Oe9jd.jpeg?width=1080",
+    "website": "https://www.shreeramkrishna.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 515,
+    "name": "MALLABHUM INSTITUTE OF POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.bhu.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

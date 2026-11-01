@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **890 / 12,660**  
-**Roadmap Progress**: **89.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **900 / 12,660**  
+**Roadmap Progress**: **90.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1344,4 +1344,19 @@
 | **503** | Memari Government Polytechnic | Public/Government | DIST.- BARDHAMAN, STATE- WEST BENGAL | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/memarigovpoly) |
 | **504** | Indian Institute of Handloom Technology, Fulia (IIHT Fulia) | Public/Government | FULIA COLONY FULIA | [iihtfulia.ac.in](https://iihtfulia.ac.in) |
 | **505** | Adamas University (AU Kolkata) | Private | PIN - 700126, WEST BENGAL | [adamasuniversity.ac.in](https://adamasuniversity.ac.in) |
+
+### Batch 90 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **506** | Nibedita Institute of Technology (NIT Sagarpara) | Private | WEST BENGAL,PIN-742306 | [www.nibeditainstitute.com](http://www.nibeditainstitute.com) |
+| **507** | Gangarampur Government Polytechnic | Public/Government | P.O.BELBARI, PIN-733124 | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/gangarampurgovpoly) |
+| **508** | JLD College of Engineering and Management (Baruipur) | Private | BELEGACHI GRAM PANCHAYET, P.S.: BARUIPUR | [jldcem.in](http://jldcem.in) |
+| **509** | Purulia Polytechnic | Public/Government | P.O. - VIVEKANANDA NAGAR, PURULIA | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/puruliapoly) |
+| **510** | Dr. B. C. Roy Polytechnic (BCRP Durgapur) | Private | DR. MEGHNAD SAHA SARANI, BIDHAN NAGAR | [bcrp.ac.in](https://bcrp.ac.in) |
+| **511** | Kolaghat Government Polytechnic | Public/Government | PO. & PS.: KOLAGHAT; VILLAGE: AMALHANDA; DISTRICT: PURBA MEDINIPUR | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/kolaghatgovpoly) |
+| **512** | MBC Institute of Engineering & Technology (Sadhanpur, Burdwan) | Public/Government | SADHANPUR | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/mbcietburdwan) |
+| **513** | Bengal Institute of Polytechnic (Hetampur, Birbhum) | Private | VILL-SAGAR PO-HETAMPUR PS-SADAIPUR | [bip-india.in](https://bip-india.in) |
+| **514** | Shree Ramkrishna Institute of Science & Technology (SRIST Kolkata) | Private | PS- SONARPUR, KOLKATA-700145 | [srist.in](https://srist.in) |
+| **515** | Mallabhum Institute of Polytechnic (MIP Bishnupur) | Private | P.O- GOSAIPUR. P.S -BISHNUPUR,DIST -BANKURA | [mipbishnupur.in](https://mipbishnupur.in) |
 
