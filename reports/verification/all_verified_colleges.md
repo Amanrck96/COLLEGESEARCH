@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **920 / 12,660**  
-**Roadmap Progress**: **92.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **930 / 12,660**  
+**Roadmap Progress**: **93.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1389,4 +1389,19 @@
 | **533** | Department of Jute & Fibre Technology, University of Calcutta (DJFT CU Kolkata) | Public/Government | BALLYGUNGE CIRCULAR ROAD, KOLKATA-700019 | [www.ijtindia.org](http://www.ijtindia.org) |
 | **534** | Jakir Hossain Institute of Polytechnic (JHIP Murshidabad) | Private | DIST- MURSHIDABAD, PIN- 742224 | [www.jhiop.in](https://www.jhiop.in) |
 | **535** | The New Horizons Institute of Technology (NHIT Durgapur) | Private | NEAR GANDHI MORE, CITY CENTRE | [nhit.in](https://nhit.in) |
+
+### Batch 93 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **536** | Rajendranath College of Polytechnic (RCP Durgapur) | Private | VILL-GOPALPUR, PS-KANKSA | [rpcollege.ind.in](https://rpcollege.ind.in) |
+| **537** | Durgapur Polytechnic College (DPC Durgapur) | Private | SURYA SEN SARANI, NEAR GANDHI MORE | [durgapurpolytechnic.com](https://durgapurpolytechnic.com) |
+| **538** | Dumkal Polytechnic (Domkal, Murshidabad) | Private | PIN.:742406, WEST BENGAL | [www.dumkalpolytechnic.com](https://www.dumkalpolytechnic.com) |
+| **539** | Tapasya Degree College (Hyderabad) | Private | LAKDIKAPOOL, HYDERABAD | [tapasyaedu.com](https://tapasyaedu.com) |
+| **541** | NALSAR University of Law, Hyderabad | Public/Government | Telangana, India | [nalsar.ac.in](https://nalsar.ac.in) |
+| **542** | International Institute of Information Technology, Hyderabad (IIIT Hyderabad) | Private | Telangana, India | [www.iiit.ac.in](https://www.iiit.ac.in) |
+| **543** | Government Model Residential Polytechnic (Telangana) | Public/Government | ASWAPURAM | [sbtet.telangana.gov.in](https://sbtet.telangana.gov.in) |
+| **544** | Trinity College of Engineering & Technology (Karimnagar) | Private | KARIMNAGAR-505001 | [www.trinityengineering.edu.in](http://www.trinityengineering.edu.in) |
+| **545** | Siddhartha Degree College for Women (Hyderabad) | Private | VIVEKNAGAR KUKATAPALLY HYDERABAD | [www.sdcw.co.in](https://www.sdcw.co.in) |
+| **546** | Avinash College of Commerce (Hyderabad) | Private | HYDERABAD, TELANGANA 500029 | [avinashcollege.com](https://avinashcollege.com) |
 

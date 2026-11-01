@@ -1,0 +1,120 @@
+[
+  {
+    "id": 536,
+    "name": "RAJENDRANATH COLLEGE OF POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://assets.kollegeapply.com/images/1751547617341-1533636304phpcbJAQG.jpeg",
+    "website": "https://www.rajendranathcol.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 537,
+    "name": "DURGAPUR POLYTECHNIC COLLEGE",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/RTUTRYTRYU.jpg?width=640",
+    "website": "https://www.durgapurpolytec.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 538,
+    "name": "DUMKAL POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.dumkalpolytechn.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 539,
+    "name": "TAPASYA DEGREE COLLEGE",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://universitykart.com/Content/upload/admin/ej5qduhu.sxy.jpeg",
+    "website": "https://www.tapasyadegreeco.edu.in",
+    "phone": "0123-456789",
+    "rating": 5,
+    "coursesCount": 1
+  },
+  {
+    "id": 541,
+    "name": "NALSAR University of Law, Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.nalsar.ac.in",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 542,
+    "name": "IIIT Hyderabad - International Institute of Information Technology",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+    "website": "https://www.iith.ac.in",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 543,
+    "name": "GOVERNMENT MODEL RESIDENTIAL POLYTECHNIC",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2016-08-7-08-40-39_gmrk1.jpg",
+    "website": "https://www.governmentmodel.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 544,
+    "name": "TRINITY COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://trinitycolleges.ac.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 545,
+    "name": "SIDDHARTHA WOMENS DEGREE COLLEGE",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.siddharthawomen.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 546,
+    "name": "AVINASH COLLEGE OF COMMERCE",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/new-resized-banner/image_Sm5nWuM.jpg?width=1080",
+    "website": "https://avinashcollege.com",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "coursesCount": 1
+  }
+]

@@ -45189,14 +45189,14 @@
     },
     {
       "id": 536,
-      "name": "RAJENDRANATH COLLEGE OF POLYTECHNIC",
+      "name": "Rajendranath College of Polytechnic (RCP Durgapur)",
       "shortName": "Course Institute-1",
       "location": "BARDHAMAN",
       "state": "West Bengal",
       "address": "VILL-GOPALPUR, PS-KANKSA",
-      "phone": "0123-456789",
-      "website": "https://www.rajendranathcol.edu.in",
-      "rating": 4.5,
+      "phone": "0343-2538469",
+      "website": "https://rpcollege.ind.in",
+      "rating": 4.1,
       "reviews": 466,
       "type": "Private",
       "about": "Welcome to RAJENDRANATH COLLEGE OF POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -45216,12 +45216,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "DIPLOMA IN MECHANICAL ENGINEERING",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 120
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Computer Science & Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -45239,18 +45267,20 @@
       ],
       "image": "https://assets.kollegeapply.com/images/1751547617341-1533636304phpcbJAQG.jpeg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAJENDRANATH%20COLLEGE%20OF%20POLYTECHNIC%20BARDHAMAN%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAJENDRANATH%20COLLEGE%20OF%20POLYTECHNIC%20BARDHAMAN%20West%20Bengal",
+      "city": "Paschim Bardhaman",
+      "established": 2013
     },
     {
       "id": 537,
-      "name": "DURGAPUR POLYTECHNIC COLLEGE",
+      "name": "Durgapur Polytechnic College (DPC Durgapur)",
       "shortName": "Course Institute-1",
       "location": "BARDHAMAN",
       "state": "West Bengal",
       "address": "CITY CENTRE PH-II, SURYA SEN SARANI, NEAR GANDHI MORE",
-      "phone": "0123-456789",
-      "website": "https://www.durgapurpolytec.edu.in",
-      "rating": 4.5,
+      "phone": "0343-2543388",
+      "website": "https://durgapurpolytechnic.com",
+      "rating": 4,
       "reviews": 211,
       "type": "Private",
       "about": "Welcome to DURGAPUR POLYTECHNIC COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -45270,12 +45300,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Computer Science & Technology",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -45291,20 +45349,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/RTUTRYTRYU.jpg?width=640",
+      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/RTUTRYTRYU.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DURGAPUR%20POLYTECHNIC%20COLLEGE%20BARDHAMAN%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DURGAPUR%20POLYTECHNIC%20COLLEGE%20BARDHAMAN%20West%20Bengal",
+      "city": "Paschim Bardhaman",
+      "established": 2013
     },
     {
       "id": 538,
-      "name": "DUMKAL POLYTECHNIC",
+      "name": "Dumkal Polytechnic (Domkal, Murshidabad)",
       "shortName": "Course Institute-1",
       "location": "MURSHIDABAD",
       "state": "West Bengal",
       "address": "VILL.:RAMNA BASANTAPUR, P.O.: & P.S.:DUMKAL, DIST.:MURSHIDABAD,PIN.:742406, WEST BENGAL",
-      "phone": "0123-456789",
-      "website": "https://www.dumkalpolytechn.edu.in",
-      "rating": 4.5,
+      "phone": "03481-231189",
+      "website": "https://www.dumkalpolytechnic.com",
+      "rating": 4.2,
       "reviews": 361,
       "type": "Private",
       "about": "Welcome to DUMKAL POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -45324,12 +45384,49 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND TECHNOLOGY",
+          "title": "Diploma in Computer Science & Technology",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electronics & Telecommunication",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + JEXPO",
+          "exams": "JEXPO",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -45345,20 +45442,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/vjti_mumbai.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DUMKAL%20POLYTECHNIC%20MURSHIDABAD%20West%20Bengal"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DUMKAL%20POLYTECHNIC%20MURSHIDABAD%20West%20Bengal",
+      "city": "Murshidabad",
+      "established": 2004
     },
     {
       "id": 539,
-      "name": "TAPASYA DEGREE COLLEGE",
+      "name": "Tapasya Degree College (Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "11-5-449, OPP. SHAH FUNCTION HALL, OPP. SHAH FUNCTION HALL, RED HILLS, LAKDIKAPOOL, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.tapasyadegreeco.edu.in",
-      "rating": 5,
+      "phone": "040-42211111",
+      "website": "https://tapasyaedu.com",
+      "rating": 4.3,
       "reviews": 797,
       "type": "Private",
       "about": "Welcome to TAPASYA DEGREE COLLEGE, a premier institute located in HYDERABAD. We offer world-class education and facilities for our students.",
@@ -45377,13 +45476,40 @@
       ],
       "courses": [
         {
-          "title": "BBA",
-          "type": "MANAGEMENT",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 240,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Commerce (B.Com Computer Applications)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with Commerce / Math",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "title": "B.Com (Honours)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with Commerce (50%+)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "title": "B.Com Integrated with CA / CMA",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with Commerce / Math",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -45405,7 +45531,9 @@
       "reviewsCount": 797,
       "image": "https://universitykart.com/Content/upload/admin/ej5qduhu.sxy.jpeg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TAPASYA%20DEGREE%20COLLEGE%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TAPASYA%20DEGREE%20COLLEGE%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 2009
     },
     {
       "id": 540,
@@ -45508,10 +45636,40 @@
       ],
       "courses": [
         {
-          "title": "BA LLB (Hons)",
+          "title": "B.A. LL.B. (Hons.)",
           "division": "Undergraduate",
           "duration": "5 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹2,65,000/Year",
+          "eligibility": "10+2 (45%+) + CLAT Rank",
+          "exams": "CLAT",
+          "intake": "132"
+        },
+        {
+          "title": "Master of Laws (LL.M.)",
+          "division": "Postgraduate",
+          "duration": "1 Year",
+          "fees": "₹1,85,000/Year",
+          "eligibility": "LL.B. degree (50%+) + CLAT PG Rank",
+          "exams": "CLAT PG",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹2,25,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / XAT / NALSAR Test",
+          "exams": "CAT, XAT, NALSAR Test",
+          "intake": "60"
+        },
+        {
+          "title": "BBA-MBA Integrated Program in Management",
+          "division": "Integrated",
+          "duration": "5 Years",
+          "fees": "₹2,50,000/Year",
+          "eligibility": "10+2 (60%+) + IPMAT / CLAT / NMIMS NPAT",
+          "exams": "IPMAT, CLAT",
+          "intake": "66"
         }
       ],
       "reviewsCount": 350,
@@ -45521,24 +45679,27 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
       ],
-      "website": "https://www.nalsar.ac.in",
-      "image": "/images/campuses/bangalore_university.jpg",
+      "website": "https://nalsar.ac.in",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=NALSAR%20University%20of%20Law%2C%20Hyderabad%20Shamirpet%2C%20Hyderabad%20Telangana",
       "map_url": "https://www.google.com/maps/search/?api=1&query=NALSAR%20University%20of%20Law%2C%20Hyderabad%20Shamirpet%2C%20Hyderabad%20Telangana",
       "address": "Shamirpet, Hyderabad, Telangana, India",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "phone": "040-23498105",
+      "established": 1998
     },
     {
       "id": 542,
       "shikshaUrl": "https://www.shiksha.com/college/international-institute-of-information-technology-hyderabad-gachibowli-28399",
-      "name": "IIIT Hyderabad - International Institute of Information Technology",
+      "name": "International Institute of Information Technology, Hyderabad (IIIT Hyderabad)",
       "shortName": "IIIT Hyderabad",
       "location": "Hyderabad",
       "state": "Telangana",
       "country": "India",
       "rating": 4.8,
       "reviews": 350,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Government",
       "ranking": 4,
       "about": "IIIT Hyderabad - International Institute of Information Technology is one of India's foremost apex premier institutions in Hyderabad, recognized globally for academic excellence, rigorous admissions, world-class faculty, and outstanding placement track record.",
@@ -45568,10 +45729,49 @@
       ],
       "courses": [
         {
-          "title": "B.Tech Computer Science",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹8.5 Lakhs - ₹12.5 Lakhs"
+          "fees": "₹3,80,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / UGEE",
+          "exams": "JEE Main, UGEE",
+          "intake": "150"
+        },
+        {
+          "title": "B.Tech in Electronics and Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹3,80,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / UGEE",
+          "exams": "JEE Main, UGEE",
+          "intake": "90"
+        },
+        {
+          "title": "B.Tech + M.S. by Research in Computer Science and Engineering (Dual Degree)",
+          "division": "Dual Degree",
+          "duration": "5 Years",
+          "fees": "₹3,80,000/Year",
+          "eligibility": "10+2 with PCM + UGEE Entrance",
+          "exams": "UGEE",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech + M.S. by Research in Computational Natural Sciences (Dual Degree)",
+          "division": "Dual Degree",
+          "duration": "5 Years",
+          "fees": "₹3,80,000/Year",
+          "eligibility": "10+2 with PCM + UGEE Entrance",
+          "exams": "UGEE",
+          "intake": "15"
+        },
+        {
+          "title": "M.Tech in Computer Science and Engineering",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹3,80,000/Year",
+          "eligibility": "B.Tech in CSE / IT + PGEE",
+          "exams": "PGEE",
+          "intake": "90"
         }
       ],
       "reviewsCount": 350,
@@ -45581,25 +45781,28 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
       ],
-      "website": "https://www.iith.ac.in",
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "website": "https://www.iiit.ac.in",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIIT%20Hyderabad%20-%20International%20Institute%20of%20Information%20Technology%20Hyderabad%20Telangana",
       "map_url": "https://www.google.com/maps/search/?api=1&query=IIIT%20Hyderabad%20-%20International%20Institute%20of%20Information%20Technology%20Hyderabad%20Telangana",
       "address": "Hyderabad, Telangana, India",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "phone": "040-66531000",
+      "established": 1998
     },
     {
       "id": 543,
-      "name": "GOVERNMENT MODEL RESIDENTIAL POLYTECHNIC",
+      "name": "Government Model Residential Polytechnic (Telangana)",
       "shortName": "Course Institute-1",
       "location": "KHAMMAM",
       "state": "Telangana",
       "address": "ASWAPURAM",
-      "phone": "0123-456789",
-      "website": "https://www.governmentmodel.edu.in",
-      "rating": 4.8,
+      "phone": "08744-242333",
+      "website": "https://sbtet.telangana.gov.in",
+      "rating": 4.2,
       "reviews": 1515,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT MODEL RESIDENTIAL POLYTECHNIC, a premier institute located in KHAMMAM. We offer world-class education and facilities for our students.",
       "ranking": 15,
       "facebook": "#",
@@ -45616,13 +45819,40 @@
       ],
       "courses": [
         {
-          "title": "MINING ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "title": "Diploma in Mining Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard Pass + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard Pass + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard Pass + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹3,800/Year",
+          "eligibility": "10th Standard Pass + TS POLYCET",
+          "exams": "TS POLYCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -45644,18 +45874,20 @@
       "reviewsCount": 1515,
       "image": "https://www.vidyavision.com/CollegeUploads/Photos/2016-08-7-08-40-39_gmrk1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20MODEL%20RESIDENTIAL%20POLYTECHNIC%20KHAMMAM%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20MODEL%20RESIDENTIAL%20POLYTECHNIC%20KHAMMAM%20Telangana",
+      "city": "Bhadradri Kothagudem",
+      "established": 2002
     },
     {
       "id": 544,
-      "name": "TRINITY COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "name": "Trinity College of Engineering & Technology (Karimnagar)",
       "shortName": "Course Institute-1",
       "location": "KARIMNAGAR",
       "state": "Telangana",
       "address": "KARIMNAGAR-505001",
-      "phone": "0123-456789",
-      "website": "https://trinitycolleges.ac.in",
-      "rating": 4.8,
+      "phone": "098490-58876",
+      "website": "http://www.trinityengineering.edu.in",
+      "rating": 4.1,
       "reviews": 601,
       "type": "Private",
       "about": "Welcome to TRINITY COLLEGE OF ENGINEERING & TECHNOLOGY, a premier institute located in KARIMNAGAR. We offer world-class education and facilities for our students.",
@@ -45674,13 +45906,49 @@
       ],
       "courses": [
         {
-          "title": "ELECTRONICS & COMMUNICATION ENGG",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Electrical & Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -45700,21 +45968,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 601,
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=TRINITY%20COLLEGE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20KARIMNAGAR%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Karimnagar",
+      "established": 2008
     },
     {
       "id": 545,
-      "name": "SIDDHARTHA WOMENS DEGREE COLLEGE",
+      "name": "Siddhartha Degree College for Women (Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "MEDCHAL-MALKAJGIRI",
       "state": "Telangana",
       "address": "VIVEKNAGAR KUKATAPALLY HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.siddharthawomen.edu.in",
-      "rating": 4.8,
+      "phone": "040-24064179",
+      "website": "https://www.sdcw.co.in",
+      "rating": 4.2,
       "reviews": 1899,
       "type": "Private",
       "about": "Welcome to SIDDHARTHA WOMENS DEGREE COLLEGE, a premier institute located in MEDCHAL-MALKAJGIRI. We offer world-class education and facilities for our students.",
@@ -45733,13 +46003,40 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 110,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹48,000/Year",
+          "eligibility": "10+2 in any stream with Math / CS",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "title": "B.Sc in Computer Science & Data Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Science (PCM)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "title": "B.Com in Computer Applications",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10+2 with Commerce / Math",
+          "exams": "Merit Based",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -45759,21 +46056,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1899,
-      "image": "/images/campuses/bms_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIDDHARTHA%20WOMENS%20DEGREE%20COLLEGE%20MEDCHAL-MALKAJGIRI%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Hyderabad",
+      "established": 1995
     },
     {
       "id": 546,
-      "name": "AVINASH COLLEGE OF COMMERCE",
+      "name": "Avinash College of Commerce (Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "ACC TOWERS,LIBERTY ROAD, PLOT NO. 3-6-356/358, BASHEERBAGH RD, BESIDE SHANBAGH HOTEL, BASHEER BAGH, HYDERABAD, TELANGANA 500029",
-      "phone": "0123-456789",
+      "phone": "040-23399999",
       "website": "https://avinashcollege.com",
-      "rating": 4.8,
+      "rating": 4.4,
       "reviews": 768,
       "type": "Private",
       "about": "Welcome to AVINASH COLLEGE OF COMMERCE, a premier institute located in RANGAREDDI. We offer world-class education and facilities for our students.",
@@ -45792,13 +46091,40 @@
       ],
       "courses": [
         {
-          "title": "BBA",
-          "type": "MANAGEMENT",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 420,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "title": "B.Com in Computer Applications",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "10+2 with Commerce / Math",
+          "exams": "Merit Based",
+          "intake": "240"
+        },
+        {
+          "title": "B.Com Integrated with CA / CMA",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with Commerce / Math",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "BBA in Business Analytics",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with Math / Stats / Commerce",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -45818,9 +46144,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 768,
-      "image": "https://media.collegedekho.com/media/img/institute/new-resized-banner/image_Sm5nWuM.jpg?width=1080",
+      "image": "https://media.collegedekho.com/media/img/institute/new-resized-banner/image_Sm5nWuM.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AVINASH%20COLLEGE%20OF%20COMMERCE%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AVINASH%20COLLEGE%20OF%20COMMERCE%20RANGAREDDI%20Telangana",
+      "city": "Hyderabad",
+      "established": 2013
     },
     {
       "id": 547,

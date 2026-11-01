@@ -6898,5 +6898,80 @@
         "website": "https://nhit.in"
       }
     ]
+  },
+  {
+    "batch": 93,
+    "items": [
+      {
+        "id": 536,
+        "name": "Rajendranath College of Polytechnic (RCP Durgapur)",
+        "type": "Private",
+        "location": "VILL-GOPALPUR, PS-KANKSA",
+        "website": "https://rpcollege.ind.in"
+      },
+      {
+        "id": 537,
+        "name": "Durgapur Polytechnic College (DPC Durgapur)",
+        "type": "Private",
+        "location": "SURYA SEN SARANI, NEAR GANDHI MORE",
+        "website": "https://durgapurpolytechnic.com"
+      },
+      {
+        "id": 538,
+        "name": "Dumkal Polytechnic (Domkal, Murshidabad)",
+        "type": "Private",
+        "location": "PIN.:742406, WEST BENGAL",
+        "website": "https://www.dumkalpolytechnic.com"
+      },
+      {
+        "id": 539,
+        "name": "Tapasya Degree College (Hyderabad)",
+        "type": "Private",
+        "location": "LAKDIKAPOOL, HYDERABAD",
+        "website": "https://tapasyaedu.com"
+      },
+      {
+        "id": 541,
+        "name": "NALSAR University of Law, Hyderabad",
+        "type": "Public/Government",
+        "location": "Telangana, India",
+        "website": "https://nalsar.ac.in"
+      },
+      {
+        "id": 542,
+        "name": "International Institute of Information Technology, Hyderabad (IIIT Hyderabad)",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://www.iiit.ac.in"
+      },
+      {
+        "id": 543,
+        "name": "Government Model Residential Polytechnic (Telangana)",
+        "type": "Public/Government",
+        "location": "ASWAPURAM",
+        "website": "https://sbtet.telangana.gov.in"
+      },
+      {
+        "id": 544,
+        "name": "Trinity College of Engineering & Technology (Karimnagar)",
+        "type": "Private",
+        "location": "KARIMNAGAR-505001",
+        "website": "http://www.trinityengineering.edu.in"
+      },
+      {
+        "id": 545,
+        "name": "Siddhartha Degree College for Women (Hyderabad)",
+        "type": "Private",
+        "location": "VIVEKNAGAR KUKATAPALLY HYDERABAD",
+        "website": "https://www.sdcw.co.in"
+      },
+      {
+        "id": 546,
+        "name": "Avinash College of Commerce (Hyderabad)",
+        "type": "Private",
+        "location": "HYDERABAD, TELANGANA 500029",
+        "website": "https://avinashcollege.com"
+      }
+    ]
   }
 ]
