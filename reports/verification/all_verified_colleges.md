@@ -2717,3 +2717,17 @@
 | 1814 | Central University of Jammu | Samba | Jammu & Kashmir | Public/Government (Central University) | [Website](https://www.cujammu.ac.in) |
 | 1815 | Cluster University of Jammu | Jammu | Jammu & Kashmir | Public/Government (State University) | [Website](https://clujammu.ac.in) |
 | 1816 | Central University of Kashmir | Ganderbal | Jammu & Kashmir | Public/Government (Central University) | [Website](https://www.cukashmir.ac.in) |
+
+### Batch 183 (Colleges 1,821–1,830, IDs: 1817–1826)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1817 | Atal Bihari Vajpayee Vishwavidyalaya (ABVV), Bilaspur | Bilaspur | Chhattisgarh | Public/Government (State University) | [Website](https://www.bilaspuruniversity.ac.in) |
+| 1818 | University Teaching Department (UTD), CSVTU Bhilai | Durg | Chhattisgarh | Public/Government (State University Department) | [Website](https://csvtu.ac.in) |
+| 1819 | Dr. Shyama Prasad Mukherjee International Institute of Information Technology (IIIT-NR), Raipur | Raipur | Chhattisgarh | Public/Government (State Autonomous Institute) | [Website](https://www.iiitnr.ac.in) |
+| 1820 | School of Engineering, OP Jindal University (OPJU), Raigarh | Raigarh | Chhattisgarh | Private | [Website](https://www.opju.ac.in) |
+| 1821 | Government Polytechnic, Balod | Balod | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://polybalod.ac.in) |
+| 1822 | Government Polytechnic, Berla | Bemetara | Chhattisgarh | Public/Government (Govt of Chhattisgarh) | [Website](http://gpberla.ac.in) |
+| 1823 | Kalinga Institute of Technology (Faculty of Technology, Kalinga University), Raipur | Raipur | Chhattisgarh | Private | [Website](https://kalingauniversity.ac.in) |
+| 1824 | MSME Technology Centre, Durg | Durg | Chhattisgarh | Public/Government (Ministry of MSME, Govt of India) | [Website](https://msmedurg.org) |
+| 1825 | Tagore College of Management, Bilaspur | Bilaspur | Chhattisgarh | Private | [Website](https://tcmbsp.in) |
+| 1826 | Prism School of Business & Entrepreneurship (PSBE), Bhilai | Durg | Chhattisgarh | Private | [Website](http://www.prismschool.ac.in) |
