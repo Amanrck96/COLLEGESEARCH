@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1560 / 12,660**  
-**Roadmap Progress**: **156.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1570 / 12,660**  
+**Roadmap Progress**: **157.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2349,4 +2349,19 @@
 | **1247** | Amrita Vishwa Vidyapeetham, Kochi Campus | Private | Kochi, Kerala - 682041 | [www.amrita.edu](https://www.amrita.edu/campus/kochi/) |
 | **1248** | M-DIT Polytechnic College, Kozhikode | Private | Kozhikode, Kerala - 673323 | [www.mditpoly.ac.in](https://www.mditpoly.ac.in) |
 | **1249** | Rajadhani Institute of Science and Technology (Technical Campus), Palakkad | Private | Palakkad, Kerala - 678613 | [riet.edu.in](https://riet.edu.in) |
+
+### Batch 157 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1250** | Majlis Polytechnic College, Puramannur, Malappuram | Private | Malappuram District, Kerala - 676552 | [majlispolytechnic.com](https://majlispolytechnic.com) |
+| **1251** | Government Polytechnic College, Manjeri, Malappuram | Public/Government | Malappuram District, Kerala - 676123 | [gptcmanjeri.in](https://gptcmanjeri.in) |
+| **1252** | Gregorian Institute of Technology, Kangazha, Kottayam | Private | Kottayam District, Kerala - 686555 | [git.ac.in](https://git.ac.in) |
+| **1254** | MGM Polytechnic College, Kilimanoor, Thiruvananthapuram | Private | Thiruvananthapuram, Kerala - 695612 | [mgmptklmr.com](https://mgmptklmr.com) |
+| **1255** | St. Thomas Institute for Science and Technology (STIST), Thiruvananthapuram | Private | Thiruvananthapuram, Kerala - 695584 | [www.stisttvm.edu.in](https://www.stisttvm.edu.in) |
+| **1256** | Heera College of Engineering and Technology (HCET), Nedumangad, Thiruvananthapuram | Private | Thiruvananthapuram, Kerala - 695568 | [www.hcet.in](https://www.hcet.in) |
+| **1257** | St. Joseph's Institute of Hotel Management and Catering Technology, Palai | Private | Kottayam District, Kerala - 686579 | [sjihmct.ac.in](https://sjihmct.ac.in) |
+| **1258** | Malabar Polytechnic College, Kottakkal, Malappuram | Private | Malappuram District, Kerala - 676553 | [www.malabarpoly.org](http://www.malabarpoly.org) |
+| **1260** | Department of Statistics, Cochin University of Science and Technology (CUSAT) | Public/Government | Kochi, Kerala - 682022 | [stats.cusat.ac.in](https://stats.cusat.ac.in) |
+| **1261** | Government Polytechnic College, Naduvil, Kannur | Public/Government | Kannur District, Kerala - 670582 | [www.gptcn.ac.in](https://www.gptcn.ac.in) |
 

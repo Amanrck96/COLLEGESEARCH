@@ -11698,5 +11698,80 @@
         "website": "https://riet.edu.in"
       }
     ]
+  },
+  {
+    "batch": 157,
+    "items": [
+      {
+        "id": 1250,
+        "name": "Majlis Polytechnic College, Puramannur, Malappuram",
+        "type": "Private",
+        "location": "Malappuram District, Kerala - 676552",
+        "website": "https://majlispolytechnic.com"
+      },
+      {
+        "id": 1251,
+        "name": "Government Polytechnic College, Manjeri, Malappuram",
+        "type": "Public/Government",
+        "location": "Malappuram District, Kerala - 676123",
+        "website": "https://gptcmanjeri.in"
+      },
+      {
+        "id": 1252,
+        "name": "Gregorian Institute of Technology, Kangazha, Kottayam",
+        "type": "Private",
+        "location": "Kottayam District, Kerala - 686555",
+        "website": "https://git.ac.in"
+      },
+      {
+        "id": 1254,
+        "name": "MGM Polytechnic College, Kilimanoor, Thiruvananthapuram",
+        "type": "Private",
+        "location": "Thiruvananthapuram, Kerala - 695612",
+        "website": "https://mgmptklmr.com"
+      },
+      {
+        "id": 1255,
+        "name": "St. Thomas Institute for Science and Technology (STIST), Thiruvananthapuram",
+        "type": "Private",
+        "location": "Thiruvananthapuram, Kerala - 695584",
+        "website": "https://www.stisttvm.edu.in"
+      },
+      {
+        "id": 1256,
+        "name": "Heera College of Engineering and Technology (HCET), Nedumangad, Thiruvananthapuram",
+        "type": "Private",
+        "location": "Thiruvananthapuram, Kerala - 695568",
+        "website": "https://www.hcet.in"
+      },
+      {
+        "id": 1257,
+        "name": "St. Joseph's Institute of Hotel Management and Catering Technology, Palai",
+        "type": "Private",
+        "location": "Kottayam District, Kerala - 686579",
+        "website": "https://sjihmct.ac.in"
+      },
+      {
+        "id": 1258,
+        "name": "Malabar Polytechnic College, Kottakkal, Malappuram",
+        "type": "Private",
+        "location": "Malappuram District, Kerala - 676553",
+        "website": "http://www.malabarpoly.org"
+      },
+      {
+        "id": 1260,
+        "name": "Department of Statistics, Cochin University of Science and Technology (CUSAT)",
+        "type": "Public/Government",
+        "location": "Kochi, Kerala - 682022",
+        "website": "https://stats.cusat.ac.in"
+      },
+      {
+        "id": 1261,
+        "name": "Government Polytechnic College, Naduvil, Kannur",
+        "type": "Public/Government",
+        "location": "Kannur District, Kerala - 670582",
+        "website": "https://www.gptcn.ac.in"
+      }
+    ]
   }
 ]
