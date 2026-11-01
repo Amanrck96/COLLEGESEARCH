@@ -224,3 +224,4 @@ const batch88Data = [
 const outputPath = path.join(__dirname, '..', 'reports', 'verification', 'batch-88-verified.json');
 fs.writeFileSync(outputPath, JSON.stringify(batch88Data, null, 2), 'utf8');
 console.log(`Generated verification data for Batch 88: ${batch88Data.length} colleges. Saved to ${outputPath}`);
+

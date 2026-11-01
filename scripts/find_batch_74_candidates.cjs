@@ -31,3 +31,4 @@ for (const col of siteData.colleges) {
 fs.writeFileSync(path.join(__dirname, '..', 'reports', 'verification', 'batch-74-candidates.json'), JSON.stringify(candidates, null, 2), 'utf8');
 console.log(`Found ${candidates.length} candidates for Batch 74:`);
 candidates.forEach(c => console.log(`[${c.id}] ${c.name} (${c.state}, ${c.type})`));
+

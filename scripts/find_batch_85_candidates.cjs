@@ -33,3 +33,4 @@ const outputPath = path.join(__dirname, '..', 'reports', 'verification', 'batch-
 fs.writeFileSync(outputPath, JSON.stringify(candidates, null, 2), 'utf8');
 console.log(`Found ${candidates.length} candidates for Batch 85. Saved to ${outputPath}`);
 console.log(JSON.stringify(candidates.map(c => ({ id: c.id, name: c.name, state: c.state, type: c.type, website: c.website, phone: c.phone, image: c.image })), null, 2));
+

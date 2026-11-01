@@ -235,3 +235,4 @@ fs.writeFileSync(progressFile, JSON.stringify(progress, null, 2), 'utf8');
 console.log(`Appended 10 colleges to college-verification.csv`);
 console.log(`Appended ${batch84Courses.length} courses to course-verification.csv`);
 console.log(`Updated progress.json: total_verified = ${progress.total_verified}, current_batch = ${progress.current_batch}`);
+
