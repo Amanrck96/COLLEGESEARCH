@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1280 / 12,660**  
-**Roadmap Progress**: **128.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1290 / 12,660**  
+**Roadmap Progress**: **129.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1929,4 +1929,19 @@
 | **947** | Perunthalaivar Kamarajar Institute of Engineering and Technology (PKIET Karaikal) | Public/Government | Karaikal, Puducherry - 609603 | [pkiet.edu.in](https://pkiet.edu.in) |
 | **948** | Saradha Gangadharan College (SGC Puducherry) | Private | Velrampet, Puducherry - 605004 | [sgc.edu.in](https://sgc.edu.in) |
 | **949** | PSV College of Arts and Science (Puducherry) | Private | Kanniyakoil, Puducherry - 607402 | [psvcas.org](https://psvcas.org) |
+
+### Batch 129 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **950** | Indira Gandhi College of Arts and Science (IGCAS Puducherry) | Public/Government | Kathirkamam, Puducherry - 605009 | [igcas.py.gov.in](https://igcas.py.gov.in) |
+| **951** | Don Bosco College of Arts and Science (DBC Karaikal) | Private | Karaikal, Puducherry - 609601 | [dbckaraikal.org](https://dbckaraikal.org) |
+| **952** | Idhaya College of Arts and Science for Women (Puducherry) | Private | Lawspet Post, Puducherry - 605008 | [idhayaartspdy.com](https://idhayaartspdy.com) |
+| **953** | Christ Arts and Science College (Puducherry) | Private | Oulgaret Municipality, Puducherry - 605010 | [christartsandscience.com](https://christartsandscience.com) |
+| **954** | Jesus Christ Arts and Science College (Puducherry) | Private | Villianur Commune, Puducherry - 605502 | [citpt.edu.in](https://citpt.edu.in) |
+| **955** | Achariya Arts and Science College (AASC Puducherry) | Private | Villianur, Puducherry - 605110 | [aasc.edu.in](https://aasc.edu.in) |
+| **956** | Mahe Co-operative College of Higher Education and Technology (MCCHET Mahe) | Private | Mahe, Puducherry - 673310 | [mcchet.org](https://mcchet.org) |
+| **957** | Alpha College of Arts and Science (Puducherry) | Private | Bahour Commune, Puducherry - 607402 | [alpha-aasc.com](https://alpha-aasc.com) |
+| **958** | Shri Mahaveer College (Kishangarh Renwal, Jaipur) | Private | Jaipur, Rajasthan - 303603 | [shrimahaveercollege.org](https://shrimahaveercollege.org) |
+| **959** | Supreme Mahavidhyalaya (Hingonia, Jaipur) | Private | Jaipur, Rajasthan - 303328 | [supremecollege.ac.in](https://supremecollege.ac.in) |
 

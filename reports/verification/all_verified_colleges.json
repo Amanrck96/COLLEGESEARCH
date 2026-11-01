@@ -9598,5 +9598,80 @@
         "website": "https://psvcas.org"
       }
     ]
+  },
+  {
+    "batch": 129,
+    "items": [
+      {
+        "id": 950,
+        "name": "Indira Gandhi College of Arts and Science (IGCAS Puducherry)",
+        "type": "Public/Government",
+        "location": "Kathirkamam, Puducherry - 605009",
+        "website": "https://igcas.py.gov.in"
+      },
+      {
+        "id": 951,
+        "name": "Don Bosco College of Arts and Science (DBC Karaikal)",
+        "type": "Private",
+        "location": "Karaikal, Puducherry - 609601",
+        "website": "https://dbckaraikal.org"
+      },
+      {
+        "id": 952,
+        "name": "Idhaya College of Arts and Science for Women (Puducherry)",
+        "type": "Private",
+        "location": "Lawspet Post, Puducherry - 605008",
+        "website": "https://idhayaartspdy.com"
+      },
+      {
+        "id": 953,
+        "name": "Christ Arts and Science College (Puducherry)",
+        "type": "Private",
+        "location": "Oulgaret Municipality, Puducherry - 605010",
+        "website": "https://christartsandscience.com"
+      },
+      {
+        "id": 954,
+        "name": "Jesus Christ Arts and Science College (Puducherry)",
+        "type": "Private",
+        "location": "Villianur Commune, Puducherry - 605502",
+        "website": "https://citpt.edu.in"
+      },
+      {
+        "id": 955,
+        "name": "Achariya Arts and Science College (AASC Puducherry)",
+        "type": "Private",
+        "location": "Villianur, Puducherry - 605110",
+        "website": "https://aasc.edu.in"
+      },
+      {
+        "id": 956,
+        "name": "Mahe Co-operative College of Higher Education and Technology (MCCHET Mahe)",
+        "type": "Private",
+        "location": "Mahe, Puducherry - 673310",
+        "website": "https://mcchet.org"
+      },
+      {
+        "id": 957,
+        "name": "Alpha College of Arts and Science (Puducherry)",
+        "type": "Private",
+        "location": "Bahour Commune, Puducherry - 607402",
+        "website": "https://alpha-aasc.com"
+      },
+      {
+        "id": 958,
+        "name": "Shri Mahaveer College (Kishangarh Renwal, Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303603",
+        "website": "https://shrimahaveercollege.org"
+      },
+      {
+        "id": 959,
+        "name": "Supreme Mahavidhyalaya (Hingonia, Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303328",
+        "website": "https://supremecollege.ac.in"
+      }
+    ]
   }
 ]
