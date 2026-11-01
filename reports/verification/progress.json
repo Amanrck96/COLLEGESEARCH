@@ -1700,7 +1700,16 @@
     1953,
     1954,
     1955,
-    1956
+    1956,
+    1957,
+    1958,
+    1959,
+    1960,
+    1962,
+    1963,
+    1964,
+    1965,
+    1966
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -2153,6 +2162,24 @@
         1956
       ],
       "verifiedAt": "2026-11-01T21:49:17.705Z"
+    },
+    "197": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "1961-1970",
+      "ids": [
+        1957,
+        1958,
+        1959,
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965,
+        1966
+      ],
+      "verifiedAt": "2026-11-01T21:53:19.497Z"
     }
   },
   "all_verified_ids": [
@@ -2167,11 +2194,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 196,
-  "verifiedColleges": 1960,
-  "lastUpdated": "2026-11-01T21:49:17.705Z",
+  "last_batch_completed": 197,
+  "verifiedColleges": 1970,
+  "lastUpdated": "2026-11-01T21:53:19.497Z",
   "batchesCompleted": 172,
-  "currentBatch": 196,
+  "currentBatch": 197,
   "batchHistory": [
     {
       "batch": 160,
@@ -2603,6 +2630,24 @@
         1954,
         1955,
         1956
+      ]
+    },
+    {
+      "batch": 197,
+      "verifiedCount": 10,
+      "totalVerified": 1970,
+      "timestamp": "2026-11-01T21:53:19.497Z",
+      "collegeIds": [
+        1957,
+        1958,
+        1959,
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965,
+        1966
       ]
     }
   ]

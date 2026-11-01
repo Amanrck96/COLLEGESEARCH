@@ -2935,3 +2935,19 @@
 | 1958 | Government Polytechnic, Talwar | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gptalwar.org) |
 | 1959 | University Institute of Technology (UIT), Himachal Pradesh University | Shimla | Himachal Pradesh | Public/Government (State University) | [Portal](https://uit.hpuniv.ac.in) |
 | 1960 | Dr. B.R. Ambedkar Government Polytechnic, Ambota | Una | Himachal Pradesh | Public/Government | [Portal](https://gpambota.org.in) |
+
+
+### Batch 197 (Colleges 1,961–1,970)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1961 | Government Polytechnic, Sundernagar | Mandi | Himachal Pradesh | Public/Government | [Portal](https://gpsundernagar.org) |
+| 1962 | Government Polytechnic, Lahaul & Spiti at Udaipur | Lahaul and Spiti | Himachal Pradesh | Public/Government | [Portal](https://gplahaulspiti.org) |
+| 1963 | Green Hills Polytechnic, Kumarhatti (Solan) | Solan | Himachal Pradesh | Private | [Portal](https://greenhills.ac.in) |
+| 1964 | Government Millennium Polytechnic, Chamba | Chamba | Himachal Pradesh | Public/Government | [Portal](https://gpchamba.org) |
+| 1965 | Gautam Institute of Management & Technology, Hamirpur | Hamirpur | Himachal Pradesh | Private | [Portal](https://ggchmr.com) |
+| 1966 | Government Polytechnic, Hamirpur | Hamirpur | Himachal Pradesh | Public/Government | [Portal](https://gphamirpur.org) |
+| 1967 | K.L.B. D.A.V. College for Girls, Palampur | Kangra | Himachal Pradesh | Private | [Portal](https://klbdavcollege.org) |
+| 1968 | Government Polytechnic, Kullu | Kullu | Himachal Pradesh | Public/Government | [Portal](https://gpkullu.org) |
+| 1969 | School of Engineering & Technology, Sri Sai University | Kangra | Himachal Pradesh | Private | [Portal](https://srisaiuniversity.org) |
+| 1970 | Government Polytechnic, Paonta Sahib | Sirmaur | Himachal Pradesh | Public/Government | [Portal](https://gppaontasahib.org) |
