@@ -1,0 +1,209 @@
+[
+  {
+    "id": 727,
+    "name": "TECHNICAL EDUCATION AND RESEARCH INSTITUTE P G COLLEGE GHAZIPUR",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://www.technicaleducat.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 728,
+    "name": "King George's Medical University (KGMU Lucknow)",
+    "state": "Uttar Pradesh",
+    "type": "Public/Government",
+    "image": "/images/campuses/sailee_college_borivali.jpg",
+    "website": "https://www.kgmu.org",
+    "rating": 4.8,
+    "shikshaUrl": "https://www.shiksha.com/university/king-george-s-medical-university-lucknow-24425",
+    "rawCourses": [
+      {
+        "title": "MBBS",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 729,
+    "name": "UNIVERSITY POLYTECHNIC",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-16-9-17-09-07_UPA.jpg",
+    "website": "https://www.universitypolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 90,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 730,
+    "name": "MAHAMAYA POLYTECHNIC OF INFORMATION TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.mahamayapolytec.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "ELECTRONICS ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 732,
+    "name": "INSTITUTE OF MANAGEMENT STUDIES, NOIDA",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.instituteofmana.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "MASTERS IN COMPUTER APPLICATIONS",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "name": "VISION INSTITUTE OF TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.visioninstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "name": "MEERUT INSTITUTE OF TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.meerutinstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 480,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 735,
+    "name": "DISHA BHARTI COLLEGE OF MANAGEMENT AND EDUCATION",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.dishabharticoll.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 120,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 736,
+    "name": "ISLAMIA DEGREE COLLEGE",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.islamiadegreeco.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 120,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 737,
+    "name": "INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2024/January/2412024/Campus-Vieww2.c.jpg",
+    "website": "https://www.instituteofengi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "rawCourses": [
+      {
+        "title": "MASTER OF COMPUTER APPLICATIONS",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  }
+]

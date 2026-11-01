@@ -62384,14 +62384,14 @@
     },
     {
       "id": 727,
-      "name": "TECHNICAL EDUCATION AND RESEARCH INSTITUTE P G COLLEGE GHAZIPUR",
+      "name": "Technical Education and Research Institute PG College (TERI Ghazipur)",
       "shortName": "Course Institute-1",
       "location": "GHAZIPUR",
       "state": "Uttar Pradesh",
       "address": "P. G. COLLEGE, RAVINDRAPURI, GORA BAZAR, GHAZIPUR",
-      "phone": "0123-456789",
-      "website": "https://www.technicaleducat.edu.in",
-      "rating": 4.9,
+      "phone": "0548-2220199",
+      "website": "https://www.teripgc.org",
+      "rating": 4.5,
       "reviews": 649,
       "type": "Private",
       "about": "Welcome to TECHNICAL EDUCATION AND RESEARCH INSTITUTE P G COLLEGE GHAZIPUR, a premier institute located in GHAZIPUR. We offer world-class education and facilities for our students.",
@@ -62410,13 +62410,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with Mathematics (45%+)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "BCA / B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62436,10 +62467,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 649,
-      "image": "/images/campuses/atharva_complex_malad.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=TECHNICAL%20EDUCATION%20AND%20RESEARCH%20INSTITUTE%20P%20G%20COLLEGE%20GHAZIPUR%20GHAZIPUR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Ghazipur",
+      "established": 1994
     },
     {
       "id": 728,
@@ -62449,7 +62482,7 @@
       "location": "Lucknow",
       "state": "Uttar Pradesh",
       "country": "India",
-      "rating": 4.8,
+      "rating": 4.9,
       "reviews": 350,
       "type": "Public/Government",
       "ownership": "Government",
@@ -62481,10 +62514,44 @@
       ],
       "courses": [
         {
-          "title": "MBBS",
+          "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+          "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
           "division": "Undergraduate",
           "duration": "5.5 Years",
-          "fees": "₹6.5 Lakhs - ₹10.5 Lakhs"
+          "fees": "₹54,900/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "250"
+        },
+        {
+          "name": "Bachelor of Dental Surgery (BDS - Faculty of Dental Sciences)",
+          "title": "Bachelor of Dental Surgery (BDS - Faculty of Dental Sciences)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹54,900/Year",
+          "eligibility": "10+2 with 50% in PCB + NEET-UG",
+          "exams": "NEET-UG",
+          "intake": "100"
+        },
+        {
+          "name": "MD / MS Postgraduate Medical Specializations",
+          "title": "MD / MS Postgraduate Medical Specializations",
+          "division": "Postgraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "MBBS + NEET-PG",
+          "exams": "NEET-PG",
+          "intake": "280"
+        },
+        {
+          "name": "DM / M.Ch Super Specialty Degrees",
+          "title": "DM / M.Ch Super Specialty Degrees",
+          "division": "Super Specialty",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "MD/MS + NEET-SS",
+          "exams": "NEET-SS",
+          "intake": "70"
         }
       ],
       "reviewsCount": 350,
@@ -62495,23 +62562,26 @@
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
       ],
       "website": "https://www.kgmu.org",
-      "image": "/images/campuses/sailee_college_borivali.jpg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=King%20George's%20Medical%20University%20(KGMU%20Lucknow)%20Lucknow%20Uttar%20Pradesh",
       "map_url": "https://www.google.com/maps/search/?api=1&query=King%20George's%20Medical%20University%20(KGMU%20Lucknow)%20Lucknow%20Uttar%20Pradesh",
-      "address": "Lucknow, Uttar Pradesh, India"
+      "address": "Lucknow, Uttar Pradesh, India",
+      "city": "Lucknow",
+      "phone": "0522-2257540",
+      "established": 1905
     },
     {
       "id": 729,
-      "name": "UNIVERSITY POLYTECHNIC",
+      "name": "University Polytechnic, Aligarh Muslim University (AMU Aligarh)",
       "shortName": "Course Institute-1",
       "location": "ALIGARH",
       "state": "Uttar Pradesh",
       "address": "ZAKAULLAH ROAD ALIGARH MUSLIM UNIVERSITY ALIGARH",
-      "phone": "0123-456789",
-      "website": "https://www.universitypolyt.edu.in",
+      "phone": "0571-2700920",
+      "website": "https://www.amu.ac.in/schools/university-polytechnic",
       "rating": 4.8,
       "reviews": 1268,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to UNIVERSITY POLYTECHNIC, a premier institute located in ALIGARH. We offer world-class education and facilities for our students.",
       "ranking": 2,
       "facebook": "#",
@@ -62528,13 +62598,44 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 90,
-          "eligibility": "As per norms"
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard Pass + AMU Diploma Entrance",
+          "exams": "AMU Test",
+          "intake": "90"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard Pass + AMU Test",
+          "exams": "AMU Test",
+          "intake": "90"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard Pass + AMU Test",
+          "exams": "AMU Test",
+          "intake": "90"
+        },
+        {
+          "name": "Diploma in Computer Engineering",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard Pass + AMU Test",
+          "exams": "AMU Test",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62554,22 +62655,24 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1268,
-      "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-16-9-17-09-07_UPA.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20POLYTECHNIC%20ALIGARH%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20POLYTECHNIC%20ALIGARH%20Uttar%20Pradesh",
+      "city": "Aligarh",
+      "established": 1937
     },
     {
       "id": 730,
-      "name": "MAHAMAYA POLYTECHNIC OF INFORMATION TECHNOLOGY",
+      "name": "Mahamaya Polytechnic of Information Technology (Government Polytechnic, Chandauli)",
       "shortName": "Course Institute-1",
       "location": "MAHAMAYA NAGAR",
       "state": "Uttar Pradesh",
       "address": "PILIBHIT BHARATPUR ROAD,15 KM FROM SIKNDRA RAO TO HATHRAS",
-      "phone": "0123-456789",
-      "website": "https://www.mahamayapolytec.edu.in",
-      "rating": 4.8,
+      "phone": "05412-260100",
+      "website": "https://dte.up.gov.in",
+      "rating": 4.5,
       "reviews": 1579,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to MAHAMAYA POLYTECHNIC OF INFORMATION TECHNOLOGY, a premier institute located in MAHAMAYA NAGAR. We offer world-class education and facilities for our students.",
       "ranking": 54,
       "facebook": "#",
@@ -62586,13 +62689,34 @@
       ],
       "courses": [
         {
-          "title": "ELECTRONICS ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Electronics Engineering",
+          "title": "Diploma in Electronics Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Computer Science & Engineering",
+          "title": "Diploma in Computer Science & Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹10,370/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62612,9 +62736,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1579,
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHAMAYA%20POLYTECHNIC%20OF%20INFORMATION%20TECHNOLOGY%20MAHAMAYA%20NAGAR%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHAMAYA%20POLYTECHNIC%20OF%20INFORMATION%20TECHNOLOGY%20MAHAMAYA%20NAGAR%20Uttar%20Pradesh",
+      "city": "Chandauli",
+      "established": 2008
     },
     {
       "id": 731,
@@ -62679,14 +62805,14 @@
     },
     {
       "id": 732,
-      "name": "INSTITUTE OF MANAGEMENT STUDIES, NOIDA",
+      "name": "Institute of Management Studies (IMS Noida, Sector 62)",
       "shortName": "Course Institute-1",
       "location": "GAUTHAM BUDDHA NAGAR",
       "state": "Uttar Pradesh",
       "address": "A-8B,BLOCK B, IMS CAMPUS SECTOR-62, NOIDA",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofmana.edu.in",
-      "rating": 4.8,
+      "phone": "0120-4798800",
+      "website": "https://www.imsnoida.com",
+      "rating": 4.6,
       "reviews": 474,
       "type": "Private",
       "about": "Welcome to INSTITUTE OF MANAGEMENT STUDIES, NOIDA, a premier institute located in GAUTHAM BUDDHA NAGAR. We offer world-class education and facilities for our students.",
@@ -62705,13 +62831,44 @@
       ],
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 in any stream (45%+)",
+          "exams": "JET / Merit",
+          "intake": "360"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 with Mathematics (45%+)",
+          "exams": "JET / Merit",
+          "intake": "360"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "BCA/B.Sc with Maths + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
+        },
+        {
+          "name": "Post Graduate Diploma in Management (PGDM)",
+          "title": "Post Graduate Diploma in Management (PGDM)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹4,50,000/Year",
+          "eligibility": "Graduation (50%+) + CAT / MAT / XAT",
+          "exams": "CAT, MAT, XAT",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62731,21 +62888,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 474,
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20MANAGEMENT%20STUDIES%2C%20NOIDA%20GAUTHAM%20BUDDHA%20NAGAR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Noida",
+      "established": 1998
     },
     {
       "id": 733,
-      "name": "VISION INSTITUTE OF TECHNOLOGY",
+      "name": "Vision Institute of Technology (VIT Aligarh, Hathras Road)",
       "shortName": "Course Institute-1",
       "location": "ALIGARH",
       "state": "Uttar Pradesh",
       "address": "SHAHPUR, MADROK ALIGARH-AGRA HIGHWAY ALIGARH",
-      "phone": "0123-456789",
-      "website": "https://www.visioninstitute.edu.in",
-      "rating": 4.8,
+      "phone": "0571-2970100",
+      "website": "https://vit.edu.in",
+      "rating": 4.5,
       "reviews": 607,
       "type": "Private",
       "about": "Welcome to VISION INSTITUTE OF TECHNOLOGY, a premier institute located in ALIGARH. We offer world-class education and facilities for our students.",
@@ -62764,13 +62923,34 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "90"
+        },
+        {
+          "name": "B.Tech in Agriculture Engineering",
+          "title": "B.Tech in Agriculture Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM/Agriculture + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62790,21 +62970,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 607,
-      "image": "/images/campuses/campus_architecture_5.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=VISION%20INSTITUTE%20OF%20TECHNOLOGY%20ALIGARH%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Aligarh",
+      "established": 2008
     },
     {
       "id": 734,
-      "name": "MEERUT INSTITUTE OF TECHNOLOGY",
+      "name": "Meerut Institute of Technology (MIT Meerut, NH-58 Bypass)",
       "shortName": "Course Institute-1",
       "location": "MEERUT",
       "state": "Uttar Pradesh",
       "address": "NH-58, BARAL PARTAPUR, BYPASS ROAD, MEERUT",
-      "phone": "0123-456789",
-      "website": "https://www.meerutinstitute.edu.in",
-      "rating": 4.8,
+      "phone": "0121-2441600",
+      "website": "https://mitmeerut.ac.in",
+      "rating": 4.6,
       "reviews": 1496,
       "type": "Private",
       "about": "Welcome to MEERUT INSTITUTE OF TECHNOLOGY, a premier institute located in MEERUT. We offer world-class education and facilities for our students.",
@@ -62823,13 +63005,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 480,
-          "eligibility": "As per norms"
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Pharmacy (B.Pharm)",
+          "title": "Bachelor of Pharmacy (B.Pharm)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM/PCB + CUET",
+          "exams": "CUET, Merit",
+          "intake": "100"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "240"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62852,18 +63065,20 @@
       "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MEERUT%20INSTITUTE%20OF%20TECHNOLOGY%20MEERUT%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Meerut",
+      "established": 2007
     },
     {
       "id": 735,
-      "name": "DISHA BHARTI COLLEGE OF MANAGEMENT AND EDUCATION",
+      "name": "Disha Bharti College of Management and Education (DBCME Saharanpur)",
       "shortName": "Course Institute-1",
       "location": "SAHARANPUR",
       "state": "Uttar Pradesh",
       "address": "CHIDBANA LANE DELHI ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.dishabharticoll.edu.in",
-      "rating": 4.8,
+      "phone": "0132-2785444",
+      "website": "http://dishabharti.org",
+      "rating": 4.5,
       "reviews": 1542,
       "type": "Private",
       "about": "Welcome to DISHA BHARTI COLLEGE OF MANAGEMENT AND EDUCATION, a premier institute located in SAHARANPUR. We offer world-class education and facilities for our students.",
@@ -62882,13 +63097,34 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Education (B.Ed)",
+          "title": "Bachelor of Education (B.Ed)",
+          "division": "Undergraduate",
+          "duration": "2 Years",
+          "fees": "₹51,250/Year",
+          "eligibility": "Graduation (50%+) + UP B.Ed JEE",
+          "exams": "UP B.Ed JEE",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62911,18 +63147,20 @@
       "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DISHA%20BHARTI%20COLLEGE%20OF%20MANAGEMENT%20AND%20EDUCATION%20SAHARANPUR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Saharanpur",
+      "established": 2002
     },
     {
       "id": 736,
-      "name": "ISLAMIA DEGREE COLLEGE",
+      "name": "Islamia Degree College (Deoband, Saharanpur)",
       "shortName": "Course Institute-1",
       "location": "SAHARANPUR",
       "state": "Uttar Pradesh",
       "address": "NEAR INDRA PARK DEOBAND",
-      "phone": "0123-456789",
-      "website": "https://www.islamiadegreeco.edu.in",
-      "rating": 4.8,
+      "phone": "01336-222456",
+      "website": "http://islamiacollege.org",
+      "rating": 4.5,
       "reviews": 312,
       "type": "Private",
       "about": "Welcome to ISLAMIA DEGREE COLLEGE, a premier institute located in SAHARANPUR. We offer world-class education and facilities for our students.",
@@ -62941,13 +63179,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Bachelor of Science (B.Sc in Computer Science)",
+          "title": "Bachelor of Science (B.Sc in Computer Science)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10+2 with PCM",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10+2 in Commerce/Any stream",
+          "exams": "Merit Based",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62967,23 +63236,25 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 312,
-      "image": "/images/campuses/pes_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ISLAMIA%20DEGREE%20COLLEGE%20SAHARANPUR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Saharanpur",
+      "established": 2000
     },
     {
       "id": 737,
-      "name": "INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "name": "Institute of Engineering and Technology, RMLAU (IET Ayodhya)",
       "shortName": "Course Institute-1",
       "location": "LUCKNOW",
       "state": "Uttar Pradesh",
       "address": "SITAPUR ROAD, LUCKNOW",
-      "phone": "0123-456789",
-      "website": "https://www.instituteofengi.edu.in",
+      "phone": "05278-246223",
+      "website": "http://www.rmlau.ac.in/iet",
       "rating": 4.7,
       "reviews": 1724,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to INSTITUTE OF ENGINEERING AND TECHNOLOGY, a premier institute located in LUCKNOW. We offer world-class education and facilities for our students.",
       "ranking": 64,
       "facebook": "#",
@@ -63000,13 +63271,44 @@
       ],
       "courses": [
         {
-          "title": "MASTER OF COMPUTER APPLICATIONS",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "POST GRADUATE",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "90"
+        },
+        {
+          "name": "B.Tech in Information Technology",
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "BCA/B.Sc CS + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -63026,9 +63328,11 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1724,
-      "image": "https://img.jagranjosh.com/images/2024/January/2412024/Campus-Vieww2.c.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20LUCKNOW%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20LUCKNOW%20Uttar%20Pradesh",
+      "city": "Ayodhya",
+      "established": 1996
     },
     {
       "id": 738,

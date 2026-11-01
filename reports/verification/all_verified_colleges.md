@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1080 / 12,660**  
-**Roadmap Progress**: **108.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1090 / 12,660**  
+**Roadmap Progress**: **109.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1629,4 +1629,19 @@
 | **724** | Shri Ram College (Circular Road, Muzaffarnagar) | Private | PARIKRAMA MARG | [www.shriramcollege.com](https://www.shriramcollege.com) |
 | **725** | Academy of Technology Management and Science (ATMS Group, Hapur) | Private | 49 KM MILESTONE NH 24 | [www.atms.edu.in](https://www.atms.edu.in) |
 | **726** | Asian School of Business (ASB Noida, Sector 127) | Private | BLOK-B PLOT A2, SECTOR 125 NOIDA | [asb.edu.in](https://asb.edu.in) |
+
+### Batch 109 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **727** | Technical Education and Research Institute PG College (TERI Ghazipur) | Private | GORA BAZAR, GHAZIPUR | [www.teripgc.org](https://www.teripgc.org) |
+| **728** | King George's Medical University (KGMU Lucknow) | Public/Government | Uttar Pradesh, India | [www.kgmu.org](https://www.kgmu.org) |
+| **729** | University Polytechnic, Aligarh Muslim University (AMU Aligarh) | Public/Government | ZAKAULLAH ROAD ALIGARH MUSLIM UNIVERSITY ALIGARH | [www.amu.ac.in](https://www.amu.ac.in/schools/university-polytechnic) |
+| **730** | Mahamaya Polytechnic of Information Technology (Government Polytechnic, Chandauli) | Public/Government | PILIBHIT BHARATPUR ROAD,15 KM FROM SIKNDRA RAO TO HATHRAS | [dte.up.gov.in](https://dte.up.gov.in) |
+| **732** | Institute of Management Studies (IMS Noida, Sector 62) | Private | IMS CAMPUS SECTOR-62, NOIDA | [www.imsnoida.com](https://www.imsnoida.com) |
+| **733** | Vision Institute of Technology (VIT Aligarh, Hathras Road) | Private | SHAHPUR, MADROK ALIGARH-AGRA HIGHWAY ALIGARH | [vit.edu.in](https://vit.edu.in) |
+| **734** | Meerut Institute of Technology (MIT Meerut, NH-58 Bypass) | Private | BYPASS ROAD, MEERUT | [mitmeerut.ac.in](https://mitmeerut.ac.in) |
+| **735** | Disha Bharti College of Management and Education (DBCME Saharanpur) | Private | CHIDBANA LANE DELHI ROAD | [dishabharti.org](http://dishabharti.org) |
+| **736** | Islamia Degree College (Deoband, Saharanpur) | Private | NEAR INDRA PARK DEOBAND | [islamiacollege.org](http://islamiacollege.org) |
+| **737** | Institute of Engineering and Technology, RMLAU (IET Ayodhya) | Public/Government | SITAPUR ROAD, LUCKNOW | [www.rmlau.ac.in](http://www.rmlau.ac.in/iet) |
 

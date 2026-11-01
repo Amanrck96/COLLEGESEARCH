@@ -8098,5 +8098,80 @@
         "website": "https://asb.edu.in"
       }
     ]
+  },
+  {
+    "batch": 109,
+    "items": [
+      {
+        "id": 727,
+        "name": "Technical Education and Research Institute PG College (TERI Ghazipur)",
+        "type": "Private",
+        "location": "GORA BAZAR, GHAZIPUR",
+        "website": "https://www.teripgc.org"
+      },
+      {
+        "id": 728,
+        "name": "King George's Medical University (KGMU Lucknow)",
+        "type": "Public/Government",
+        "location": "Uttar Pradesh, India",
+        "website": "https://www.kgmu.org"
+      },
+      {
+        "id": 729,
+        "name": "University Polytechnic, Aligarh Muslim University (AMU Aligarh)",
+        "type": "Public/Government",
+        "location": "ZAKAULLAH ROAD ALIGARH MUSLIM UNIVERSITY ALIGARH",
+        "website": "https://www.amu.ac.in/schools/university-polytechnic"
+      },
+      {
+        "id": 730,
+        "name": "Mahamaya Polytechnic of Information Technology (Government Polytechnic, Chandauli)",
+        "type": "Public/Government",
+        "location": "PILIBHIT BHARATPUR ROAD,15 KM FROM SIKNDRA RAO TO HATHRAS",
+        "website": "https://dte.up.gov.in"
+      },
+      {
+        "id": 732,
+        "name": "Institute of Management Studies (IMS Noida, Sector 62)",
+        "type": "Private",
+        "location": "IMS CAMPUS SECTOR-62, NOIDA",
+        "website": "https://www.imsnoida.com"
+      },
+      {
+        "id": 733,
+        "name": "Vision Institute of Technology (VIT Aligarh, Hathras Road)",
+        "type": "Private",
+        "location": "SHAHPUR, MADROK ALIGARH-AGRA HIGHWAY ALIGARH",
+        "website": "https://vit.edu.in"
+      },
+      {
+        "id": 734,
+        "name": "Meerut Institute of Technology (MIT Meerut, NH-58 Bypass)",
+        "type": "Private",
+        "location": "BYPASS ROAD, MEERUT",
+        "website": "https://mitmeerut.ac.in"
+      },
+      {
+        "id": 735,
+        "name": "Disha Bharti College of Management and Education (DBCME Saharanpur)",
+        "type": "Private",
+        "location": "CHIDBANA LANE DELHI ROAD",
+        "website": "http://dishabharti.org"
+      },
+      {
+        "id": 736,
+        "name": "Islamia Degree College (Deoband, Saharanpur)",
+        "type": "Private",
+        "location": "NEAR INDRA PARK DEOBAND",
+        "website": "http://islamiacollege.org"
+      },
+      {
+        "id": 737,
+        "name": "Institute of Engineering and Technology, RMLAU (IET Ayodhya)",
+        "type": "Public/Government",
+        "location": "SITAPUR ROAD, LUCKNOW",
+        "website": "http://www.rmlau.ac.in/iet"
+      }
+    ]
   }
 ]
