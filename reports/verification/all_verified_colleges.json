@@ -11323,5 +11323,80 @@
         "website": "https://gpmunger.org.in"
       }
     ]
+  },
+  {
+    "batch": 152,
+    "items": [
+      {
+        "id": 1194,
+        "name": "Government Polytechnic, Jamui",
+        "type": "Public/Government",
+        "location": "District - Jamui, Bihar - 811307",
+        "website": "https://gpjamui.org.in"
+      },
+      {
+        "id": 1195,
+        "name": "K. K. University, Nalanda",
+        "type": "Private",
+        "location": "Nalanda, Bihar - 803115",
+        "website": "https://kkuniversity.ac.in"
+      },
+      {
+        "id": 1196,
+        "name": "Government Engineering College, Khagaria",
+        "type": "Public/Government",
+        "location": "District - Khagaria, Bihar - 848203",
+        "website": "https://geckhagaria.org.in"
+      },
+      {
+        "id": 1197,
+        "name": "Government Polytechnic, Siwan",
+        "type": "Public/Government",
+        "location": "District - Siwan, Bihar - 841204",
+        "website": "https://gpsiwan.org.in"
+      },
+      {
+        "id": 1198,
+        "name": "Government Engineering College, Samastipur",
+        "type": "Public/Government",
+        "location": "District - Samastipur, Bihar - 848127",
+        "website": "https://gecsamastipur.org.in"
+      },
+      {
+        "id": 1199,
+        "name": "Government Polytechnic, Tekari, Gaya",
+        "type": "Public/Government",
+        "location": "Gaya, Bihar - 824236",
+        "website": "https://gptekari.org.in"
+      },
+      {
+        "id": 1201,
+        "name": "Sitamarhi Institute of Technology, Sitamarhi",
+        "type": "Public/Government",
+        "location": "Sitamarhi, Bihar - 843302",
+        "website": "https://sitsitamarhi.ac.in"
+      },
+      {
+        "id": 1202,
+        "name": "Girideepam Institute of Advanced Learning, Kottayam",
+        "type": "Private",
+        "location": "Kottayam, Kerala - 686010",
+        "website": "https://girideepam.org"
+      },
+      {
+        "id": 1203,
+        "name": "Don Bosco College, Sulthan Bathery",
+        "type": "Private",
+        "location": "Wayanad, Kerala - 673592",
+        "website": "https://dbcsby.ac.in"
+      },
+      {
+        "id": 1204,
+        "name": "Mount Carmel College, Karukadom",
+        "type": "Private",
+        "location": "Ernakulam, Kerala - 686691",
+        "website": "https://mountcarmelcollege.ac.in"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1510 / 12,660**  
-**Roadmap Progress**: **151.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1520 / 12,660**  
+**Roadmap Progress**: **152.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2274,4 +2274,19 @@
 | **1191** | Saharsa College of Engineering, Saharsa | Public/Government | Saharsa, Bihar - 852201 | [scesaharsa.org](https://scesaharsa.org) |
 | **1192** | Supaul College of Engineering, Supaul | Public/Government | Supaul, Bihar - 852131 | [scesupaul.org](https://scesupaul.org) |
 | **1193** | Government Polytechnic, Munger | Public/Government | District - Munger, Bihar - 811213 | [gpmunger.org.in](https://gpmunger.org.in) |
+
+### Batch 152 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1194** | Government Polytechnic, Jamui | Public/Government | District - Jamui, Bihar - 811307 | [gpjamui.org.in](https://gpjamui.org.in) |
+| **1195** | K. K. University, Nalanda | Private | Nalanda, Bihar - 803115 | [kkuniversity.ac.in](https://kkuniversity.ac.in) |
+| **1196** | Government Engineering College, Khagaria | Public/Government | District - Khagaria, Bihar - 848203 | [geckhagaria.org.in](https://geckhagaria.org.in) |
+| **1197** | Government Polytechnic, Siwan | Public/Government | District - Siwan, Bihar - 841204 | [gpsiwan.org.in](https://gpsiwan.org.in) |
+| **1198** | Government Engineering College, Samastipur | Public/Government | District - Samastipur, Bihar - 848127 | [gecsamastipur.org.in](https://gecsamastipur.org.in) |
+| **1199** | Government Polytechnic, Tekari, Gaya | Public/Government | Gaya, Bihar - 824236 | [gptekari.org.in](https://gptekari.org.in) |
+| **1201** | Sitamarhi Institute of Technology, Sitamarhi | Public/Government | Sitamarhi, Bihar - 843302 | [sitsitamarhi.ac.in](https://sitsitamarhi.ac.in) |
+| **1202** | Girideepam Institute of Advanced Learning, Kottayam | Private | Kottayam, Kerala - 686010 | [girideepam.org](https://girideepam.org) |
+| **1203** | Don Bosco College, Sulthan Bathery | Private | Wayanad, Kerala - 673592 | [dbcsby.ac.in](https://dbcsby.ac.in) |
+| **1204** | Mount Carmel College, Karukadom | Private | Ernakulam, Kerala - 686691 | [mountcarmelcollege.ac.in](https://mountcarmelcollege.ac.in) |
 
