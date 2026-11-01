@@ -10273,5 +10273,80 @@
         "website": "https://slbsjodhpur.edu.in"
       }
     ]
+  },
+  {
+    "batch": 138,
+    "items": [
+      {
+        "id": 1043,
+        "name": "SS Polytechnic College, Udaipur",
+        "type": "Private",
+        "location": "Udaipur, Rajasthan - 313015",
+        "website": "https://sspolytechnic.org"
+      },
+      {
+        "id": 1044,
+        "name": "Shrinathji Institute of Technology & Engineering",
+        "type": "Private",
+        "location": "District Rajsamand, Rajasthan - 313301",
+        "website": "https://shrinathjiinstitute.com"
+      },
+      {
+        "id": 1045,
+        "name": "Government Polytechnic College, Sawai Madhopur",
+        "type": "Public/Government",
+        "location": "Sawai Madhopur, Rajasthan - 322001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcsawaimadhopur"
+      },
+      {
+        "id": 1046,
+        "name": "Dholaplash Polytechnic College",
+        "type": "Private",
+        "location": "District Kotputli-Behror, Rajasthan - 301701",
+        "website": "https://dholaplashpolytechnic.com"
+      },
+      {
+        "id": 1047,
+        "name": "Shri Balaji Polytechnic College",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302013",
+        "website": "https://shribalajipolytechnic.com"
+      },
+      {
+        "id": 1048,
+        "name": "Government Polytechnic College, Dungarpur",
+        "type": "Public/Government",
+        "location": "Dungarpur, Rajasthan - 314001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcdungarpur"
+      },
+      {
+        "id": 1049,
+        "name": "Government Ramchandra Khaitan Polytechnic College",
+        "type": "Public/Government",
+        "location": "Jaipur, Rajasthan - 302004",
+        "website": "https://hte.rajasthan.gov.in/college/gpcrckjaipur"
+      },
+      {
+        "id": 1050,
+        "name": "SBS Polytechnic College",
+        "type": "Private",
+        "location": "Sikar, Rajasthan - 332001",
+        "website": "https://sbspolytechnic.com"
+      },
+      {
+        "id": 1052,
+        "name": "Rajasthan Polytechnic College, Bikaner",
+        "type": "Private",
+        "location": "Bikaner, Rajasthan - 334004",
+        "website": "https://rajasthanpolytechnicbikaner.com"
+      },
+      {
+        "id": 1053,
+        "name": "Government Women Polytechnic College, Ajmer",
+        "type": "Public/Government",
+        "location": "Ajmer, Rajasthan - 305002",
+        "website": "https://hte.rajasthan.gov.in/college/gwpcajmer"
+      }
+    ]
   }
 ]

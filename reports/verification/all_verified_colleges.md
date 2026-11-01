@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1370 / 12,660**  
-**Roadmap Progress**: **137.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1380 / 12,660**  
+**Roadmap Progress**: **138.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2064,4 +2064,19 @@
 | **1040** | Shree Shoychand Institute of Engineering & Technology | Private | District Churu, Rajasthan - 331304 | [ssietchuru.org](https://ssietchuru.org) |
 | **1041** | Yaduvanshi Polytechnic College | Private | District Jhunjhunu, Rajasthan - 333026 | [yaduvanshigroup.edu.in](https://yaduvanshigroup.edu.in) |
 | **1042** | SLBS Polytechnic College, Jodhpur | Private | Jodhpur, Rajasthan - 342027 | [slbsjodhpur.edu.in](https://slbsjodhpur.edu.in) |
+
+### Batch 138 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1043** | SS Polytechnic College, Udaipur | Private | Udaipur, Rajasthan - 313015 | [sspolytechnic.org](https://sspolytechnic.org) |
+| **1044** | Shrinathji Institute of Technology & Engineering | Private | District Rajsamand, Rajasthan - 313301 | [shrinathjiinstitute.com](https://shrinathjiinstitute.com) |
+| **1045** | Government Polytechnic College, Sawai Madhopur | Public/Government | Sawai Madhopur, Rajasthan - 322001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcsawaimadhopur) |
+| **1046** | Dholaplash Polytechnic College | Private | District Kotputli-Behror, Rajasthan - 301701 | [dholaplashpolytechnic.com](https://dholaplashpolytechnic.com) |
+| **1047** | Shri Balaji Polytechnic College | Private | Jaipur, Rajasthan - 302013 | [shribalajipolytechnic.com](https://shribalajipolytechnic.com) |
+| **1048** | Government Polytechnic College, Dungarpur | Public/Government | Dungarpur, Rajasthan - 314001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcdungarpur) |
+| **1049** | Government Ramchandra Khaitan Polytechnic College | Public/Government | Jaipur, Rajasthan - 302004 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcrckjaipur) |
+| **1050** | SBS Polytechnic College | Private | Sikar, Rajasthan - 332001 | [sbspolytechnic.com](https://sbspolytechnic.com) |
+| **1052** | Rajasthan Polytechnic College, Bikaner | Private | Bikaner, Rajasthan - 334004 | [rajasthanpolytechnicbikaner.com](https://rajasthanpolytechnicbikaner.com) |
+| **1053** | Government Women Polytechnic College, Ajmer | Public/Government | Ajmer, Rajasthan - 305002 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gwpcajmer) |
 
