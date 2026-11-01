@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **630 / 12,660**  
-**Roadmap Progress**: **63.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **640 / 12,660**  
+**Roadmap Progress**: **64.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -954,4 +954,19 @@
 | **201** | C.U. Shah College of Pharmacy, SNDT Women University, Mumbai | Public | Mumbai, Maharashtra 400049 | [cushahpharmacy.ac.in](https://cushahpharmacy.ac.in/) |
 | **202** | Veritas Skill Institute, Mumbai | Private | Thane West, | [veritas-skills.com](https://veritas-skills.com) |
 | **203** | Rashtrasant Tukadoji Maharaj Nagpur University | Public/Government | Mahatma Jotiba Phule Educational Premises, Campus Square to Ambazari T-Point Road | [www.nagpuruniversity.ac.in](https://www.nagpuruniversity.ac.in/) |
+
+### Batch 64 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **204** | Datta Meghe Institute of Higher Education and Research, Wardha | Deemed | Datta Meghe Institute of Higher Education & Research, Sawangi (Meghe) | [dmiher.edu.in](https://dmiher.edu.in/) |
+| **205** | Dr. D.Y. Patil Vidyapeeth, Pune | Deemed | Dr. D. Y. Patil Vidyapeeth, Sant Tukaram Nagar | [dpu.edu.in](https://dpu.edu.in/) |
+| **206** | Dr. D. Y. Patil Institute Of Technology, Pimpri, Pune | Private | Sant Tukaram Nagar, | [www.engg.dypvp.edu.in](https://www.engg.dypvp.edu.in/) |
+| **207** | Veermata Jijabai Technological Institute (VJTI Mumbai) | Public | Maharashtra, India | [vjti.ac.in](https://vjti.ac.in) |
+| **208** | Vishwakarma Institute of Technology, Pune (VIT Pune) | Private | Maharashtra, India | [www.vit.edu](https://www.vit.edu) |
+| **209** | SNBP University, Pune | Private | Maharashtra, India | [snbpu.edu.in](https://snbpu.edu.in/) |
+| **210** | G.H. Raisoni SkillTech University, Nagpur | Private | MIDC, Hingna-Wadi Link Road | [ghrstu.edu.in](https://ghrstu.edu.in/) |
+| **211** | COEP Technological University (College of Engineering Pune) | Public/Government | Maharashtra, India | [www.coep.org.in](https://www.coep.org.in) |
+| **212** | Universal SkillTech University, Mumbai | Private | near Bhajanlal Dairy and Punyadham, Kaman Bhiwandi Road | [ustu.edu.in](https://ustu.edu.in/) |
+| **213** | Symbiosis Institute of Technology, Pune (SIT Pune) | Deemed | Maharashtra, India | [www.sitpune.edu.in](https://www.sitpune.edu.in/) |
 

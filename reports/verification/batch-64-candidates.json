@@ -1,0 +1,112 @@
+[
+  {
+    "id": 204,
+    "name": "Datta Meghe Institute of Higher Education and Research (Deemed to be University), Wardha",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/iit_bombay_powai.jpg",
+    "website": "https://dmiher.edu.in/",
+    "phone": "07152287701",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 205,
+    "name": "Dr. D.Y. Patil Vidyapeeth, Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://dpu.edu.in/img/compression/buildings3.jpg",
+    "website": "https://dpu.edu.in/",
+    "phone": "02067116412",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 206,
+    "name": "Dr. D. Y. Patil Institute Of Technology, Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/thakur_complex_kandivali.webp",
+    "website": "https://www.engg.dypvp.edu.in/",
+    "phone": "7767015941",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 207,
+    "name": "VJTI Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://www.google.com/search?q=VJTI%20Mumbai%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 208,
+    "name": "Vishwakarma Institute of Technology, Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2024/January/312024/Vishwakarma.jpg",
+    "website": "https://www.google.com/search?q=Vishwakarma%20Institute%20of%20Technology%2C%20Pune%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 209,
+    "name": "SNBP University",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/matoshri_ushatai_jadhav.jpg",
+    "website": "https://www.google.com/search?q=SNBP%20University%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 210,
+    "name": "G.H. Raisoni Skill Tech University, Nagpur",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://ghrstu.edu.in/",
+    "phone": "7887886726",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 211,
+    "name": "COEP Technological University (College of Engineering Pune)",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.coep.org.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 212,
+    "name": "Universal SkillTech University, Mumbai",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/svims_wadala_mumbai.jpeg",
+    "website": "https://www.google.com/search?q=Universal%20SkillTech%20University%2C%20Mumbai%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "7738992638",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 213,
+    "name": "SIT Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+    "website": "https://www.google.com/search?q=SIT%20Pune%20official%20website%20Maharashtra%20Maharashtra",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  }
+]

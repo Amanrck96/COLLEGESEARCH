@@ -4723,5 +4723,80 @@
         "website": "https://www.nagpuruniversity.ac.in/"
       }
     ]
+  },
+  {
+    "batch": 64,
+    "items": [
+      {
+        "id": 204,
+        "name": "Datta Meghe Institute of Higher Education and Research, Wardha",
+        "type": "Deemed",
+        "location": "Datta Meghe Institute of Higher Education & Research, Sawangi (Meghe)",
+        "website": "https://dmiher.edu.in/"
+      },
+      {
+        "id": 205,
+        "name": "Dr. D.Y. Patil Vidyapeeth, Pune",
+        "type": "Deemed",
+        "location": "Dr. D. Y. Patil Vidyapeeth, Sant Tukaram Nagar",
+        "website": "https://dpu.edu.in/"
+      },
+      {
+        "id": 206,
+        "name": "Dr. D. Y. Patil Institute Of Technology, Pimpri, Pune",
+        "type": "Private",
+        "location": "Sant Tukaram Nagar,",
+        "website": "https://www.engg.dypvp.edu.in/"
+      },
+      {
+        "id": 207,
+        "name": "Veermata Jijabai Technological Institute (VJTI Mumbai)",
+        "type": "Public",
+        "location": "Maharashtra, India",
+        "website": "https://vjti.ac.in"
+      },
+      {
+        "id": 208,
+        "name": "Vishwakarma Institute of Technology, Pune (VIT Pune)",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://www.vit.edu"
+      },
+      {
+        "id": 209,
+        "name": "SNBP University, Pune",
+        "type": "Private",
+        "location": "Maharashtra, India",
+        "website": "https://snbpu.edu.in/"
+      },
+      {
+        "id": 210,
+        "name": "G.H. Raisoni SkillTech University, Nagpur",
+        "type": "Private",
+        "location": "MIDC, Hingna-Wadi Link Road",
+        "website": "https://ghrstu.edu.in/"
+      },
+      {
+        "id": 211,
+        "name": "COEP Technological University (College of Engineering Pune)",
+        "type": "Public/Government",
+        "location": "Maharashtra, India",
+        "website": "https://www.coep.org.in"
+      },
+      {
+        "id": 212,
+        "name": "Universal SkillTech University, Mumbai",
+        "type": "Private",
+        "location": "near Bhajanlal Dairy and Punyadham, Kaman Bhiwandi Road",
+        "website": "https://ustu.edu.in/"
+      },
+      {
+        "id": 213,
+        "name": "Symbiosis Institute of Technology, Pune (SIT Pune)",
+        "type": "Deemed",
+        "location": "Maharashtra, India",
+        "website": "https://www.sitpune.edu.in/"
+      }
+    ]
   }
 ]
