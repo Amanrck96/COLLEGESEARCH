@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1290 / 12,660**  
-**Roadmap Progress**: **129.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1300 / 12,660**  
+**Roadmap Progress**: **130.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1944,4 +1944,19 @@
 | **957** | Alpha College of Arts and Science (Puducherry) | Private | Bahour Commune, Puducherry - 607402 | [alpha-aasc.com](https://alpha-aasc.com) |
 | **958** | Shri Mahaveer College (Kishangarh Renwal, Jaipur) | Private | Jaipur, Rajasthan - 303603 | [shrimahaveercollege.org](https://shrimahaveercollege.org) |
 | **959** | Supreme Mahavidhyalaya (Hingonia, Jaipur) | Private | Jaipur, Rajasthan - 303328 | [supremecollege.ac.in](https://supremecollege.ac.in) |
+
+### Batch 130 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **960** | Acharya Shree Nanesh Samta Mahavidyalaya (Danta, Chittorgarh) | Private | Chittorgarh, Rajasthan - 312604 | [asnsvt.in](https://asnsvt.in) |
+| **961** | Mahatma Jyoti Rao Phoole University (MJRP University Jaipur) | Private | Jaipur, Rajasthan - 303002 | [mjrpu.org](https://mjrpu.org) |
+| **962** | Vikas Polytechnic College (Deeg, Bharatpur) | Private | Bharatpur, Rajasthan - 321203 | [vikaspolytechnic.com](https://vikaspolytechnic.com) |
+| **963** | Government Women's Polytechnic College, Bharatpur | Public/Government | Bharatpur, Rajasthan - 321001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gwpctbharatpur) |
+| **964** | The LNM Institute of Information Technology (LNMIIT Jaipur) | Public/Government | Jaipur, Rajasthan - 302031 | [lnmiit.ac.in](https://lnmiit.ac.in) |
+| **965** | Arya College of Engineering and IT (ACEIT Jaipur) | Private | Jaipur, Rajasthan - 302028 | [aryacollege.in](https://aryacollege.in) |
+| **966** | Amity University, Jaipur | Private | Jaipur, Rajasthan - 303002 | [www.amity.edu](https://www.amity.edu/jaipur/) |
+| **967** | Anand International College of Engineering (Anand-ICE Jaipur) | Private | Jaipur, Rajasthan - 303012 | [anandice.ac.in](https://anandice.ac.in) |
+| **968** | Poornima University, Jaipur | Private | Jaipur, Rajasthan - 303905 | [poornima.edu.in](https://poornima.edu.in) |
+| **969** | NIIT University, Neemrana | Private | Neemrana, Rajasthan - 301705 | [niituniversity.in](https://niituniversity.in) |
 

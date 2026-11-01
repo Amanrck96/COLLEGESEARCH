@@ -9673,5 +9673,80 @@
         "website": "https://supremecollege.ac.in"
       }
     ]
+  },
+  {
+    "batch": 130,
+    "items": [
+      {
+        "id": 960,
+        "name": "Acharya Shree Nanesh Samta Mahavidyalaya (Danta, Chittorgarh)",
+        "type": "Private",
+        "location": "Chittorgarh, Rajasthan - 312604",
+        "website": "https://asnsvt.in"
+      },
+      {
+        "id": 961,
+        "name": "Mahatma Jyoti Rao Phoole University (MJRP University Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303002",
+        "website": "https://mjrpu.org"
+      },
+      {
+        "id": 962,
+        "name": "Vikas Polytechnic College (Deeg, Bharatpur)",
+        "type": "Private",
+        "location": "Bharatpur, Rajasthan - 321203",
+        "website": "https://vikaspolytechnic.com"
+      },
+      {
+        "id": 963,
+        "name": "Government Women's Polytechnic College, Bharatpur",
+        "type": "Public/Government",
+        "location": "Bharatpur, Rajasthan - 321001",
+        "website": "https://hte.rajasthan.gov.in/college/gwpctbharatpur"
+      },
+      {
+        "id": 964,
+        "name": "The LNM Institute of Information Technology (LNMIIT Jaipur)",
+        "type": "Public/Government",
+        "location": "Jaipur, Rajasthan - 302031",
+        "website": "https://lnmiit.ac.in"
+      },
+      {
+        "id": 965,
+        "name": "Arya College of Engineering and IT (ACEIT Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302028",
+        "website": "https://aryacollege.in"
+      },
+      {
+        "id": 966,
+        "name": "Amity University, Jaipur",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303002",
+        "website": "https://www.amity.edu/jaipur/"
+      },
+      {
+        "id": 967,
+        "name": "Anand International College of Engineering (Anand-ICE Jaipur)",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303012",
+        "website": "https://anandice.ac.in"
+      },
+      {
+        "id": 968,
+        "name": "Poornima University, Jaipur",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 303905",
+        "website": "https://poornima.edu.in"
+      },
+      {
+        "id": 969,
+        "name": "NIIT University, Neemrana",
+        "type": "Private",
+        "location": "Neemrana, Rajasthan - 301705",
+        "website": "https://niituniversity.in"
+      }
+    ]
   }
 ]
