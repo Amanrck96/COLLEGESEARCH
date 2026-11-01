@@ -3523,5 +3523,80 @@
         "website": "https://www.iitrpr.ac.in"
       }
     ]
+  },
+  {
+    "batch": 48,
+    "items": [
+      {
+        "id": 31,
+        "name": "Indian Institute of Technology Ropar (IIT Ropar - Research Campus)",
+        "type": "Institute of National Importance",
+        "location": "Rupnagar (Ropar) - 140001, Punjab",
+        "website": "https://www.iitrpr.ac.in"
+      },
+      {
+        "id": 36,
+        "name": "National Institute of Technology Andhra Pradesh (NIT Andhra Pradesh)",
+        "type": "Institute of National Importance",
+        "location": "Tadepalligudem - 534101, Andhra Pradesh",
+        "website": "https://www.nitandhra.ac.in"
+      },
+      {
+        "id": 37,
+        "name": "Indian Institute of Technology Tirupati (IIT Tirupati)",
+        "type": "Institute of National Importance",
+        "location": "Tirupati District - 517619, Andhra Pradesh",
+        "website": "https://www.iittp.ac.in"
+      },
+      {
+        "id": 38,
+        "name": "Indian Institute of Technology Hyderabad (IIT Hyderabad)",
+        "type": "Institute of National Importance",
+        "location": "Sangareddy - 502284, Telangana",
+        "website": "https://www.iith.ac.in"
+      },
+      {
+        "id": 39,
+        "name": "Indian Institute of Technology Indore (IIT Indore)",
+        "type": "Institute of National Importance",
+        "location": "Indore - 453552, Madhya Pradesh",
+        "website": "https://www.iiti.ac.in"
+      },
+      {
+        "id": 40,
+        "name": "Indian Institute of Technology Jodhpur (IIT Jodhpur)",
+        "type": "Institute of National Importance",
+        "location": "Jodhpur - 342037, Rajasthan",
+        "website": "https://www.iitj.ac.in"
+      },
+      {
+        "id": 41,
+        "name": "Birla Institute of Technology and Science (BITS Pilani)",
+        "type": "Deemed University / Institute of Eminence",
+        "location": "Pilani - 333031, Rajasthan",
+        "website": "https://www.bits-pilani.ac.in"
+      },
+      {
+        "id": 42,
+        "name": "Indian Institute of Technology (BHU) Varanasi (IIT BHU)",
+        "type": "Institute of National Importance",
+        "location": "Varanasi - 221005, Uttar Pradesh",
+        "website": "https://www.iitbhu.ac.in"
+      },
+      {
+        "id": 43,
+        "name": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+        "type": "Institute of National Importance",
+        "location": "Kanpur - 208016, Uttar Pradesh",
+        "website": "https://www.iitk.ac.in"
+      },
+      {
+        "id": 44,
+        "name": "National Institute of Technology Tiruchirappalli (NIT Trichy - PG & Management)",
+        "type": "Institute of National Importance",
+        "location": "Tiruchirappalli - 620015, Tamil Nadu",
+        "website": "https://www.nitt.edu"
+      }
+    ]
   }
 ]

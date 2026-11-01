@@ -1,0 +1,272 @@
+[
+  {
+    "id": 31,
+    "name": "IIT Ropar IIT Ropar",
+    "address": "Punjab, Punjab, India",
+    "state": "Punjab",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.iitrpr.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "NIT Andhra Pradesh",
+    "address": "Old aerodrome, near Kondruprolu, Tadepalligudem, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.nitandhra.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "IIT Tirupati",
+    "address": "Venkatagiri Road, Yerpedu Post",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.iittp.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "IIT Hyderabad",
+    "address": "Near NH-65, Sangareddy, Kandi,",
+    "state": "Telangana",
+    "img": "https://iith.ac.in/assets/images/towers/tower2.jpg",
+    "website": "https://www.iith.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "IIT Indore",
+    "address": "Khandwa Road, Simrol,",
+    "state": "Madhya Pradesh",
+    "img": "https://img.jagranjosh.com/images/2022/April/1242022/120737261_169543278125751_7704436929187513589_n.jpg",
+    "website": "https://www.iiti.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "IIT Jodhpur",
+    "address": "NH 62 Nagaur Road, Karwar, Jodhpur District, Rajasthan",
+    "state": "Rajasthan",
+    "img": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.iitj.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Birla Institute of Technology and Science (BITS Pilani)",
+    "address": "Birla Institute of Technology and Science, Vidya Vihar",
+    "state": "Rajasthan",
+    "img": "/images/campuses/campus_bits_pilani.jpg",
+    "website": "https://www.bits-pilani.ac.in",
+    "type": "Deemed University",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Indian Institute of Technology, BHU, Varanasi",
+    "address": "Banaras Hindu University Campus",
+    "state": "Uttar Pradesh",
+    "img": "https://www.iitbhu.ac.in/contents/iitbhu/img/slider/iit_bhu_slider_03.jpg",
+    "website": "https://www.bhu.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+    "address": "Kalyanpur, Kanpur, Uttar Pradesh 208016",
+    "state": "Uttar Pradesh",
+    "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+    "website": "https://www.iitk.ac.in",
+    "type": "Government (Autonomous)",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech Computer Science and Engineering",
+        "duration": "4 Years",
+        "fee": "₹2.29 Lakhs/Year"
+      },
+      {
+        "title": "B.Tech Aerospace Engineering",
+        "duration": "4 Years",
+        "fee": "₹2.29 Lakhs/Year"
+      },
+      {
+        "title": "M.Tech Data Science & Artificial Intelligence",
+        "duration": "2 Years",
+        "fee": "₹65,000/Year"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "NIT Trichy",
+    "address": "Tanjore Main Road, in National Highway 83 in between BHEL and Thuvakudi",
+    "state": "Tamil Nadu",
+    "img": "https://image-static.collegedunia.com/public/dashboard_upload/1770043235_AcademicBlock.jpg",
+    "website": "https://www.nitt.edu",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  }
+]

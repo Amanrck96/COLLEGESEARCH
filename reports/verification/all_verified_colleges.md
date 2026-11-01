@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **470 / 12,660**  
-**Roadmap Progress**: **47.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **480 / 12,660**  
+**Roadmap Progress**: **48.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -714,4 +714,19 @@
 | **28** | National Institute of Food Technology Entrepreneurship and Management (NIFTEM Kundli) | Institute of National Importance | Sonipat - 131028, Haryana | [niftem.ac.in](https://niftem.ac.in) |
 | **29** | National Institute of Technology Kurukshetra (NIT Kurukshetra) | Institute of National Importance | Kurukshetra - 136119, Haryana | [www.nitkkr.ac.in](https://www.nitkkr.ac.in) |
 | **30** | Indian Institute of Technology Ropar (IIT Ropar) | Institute of National Importance | Rupnagar (Ropar) - 140001, Punjab | [www.iitrpr.ac.in](https://www.iitrpr.ac.in) |
+
+### Batch 48 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **31** | Indian Institute of Technology Ropar (IIT Ropar - Research Campus) | Institute of National Importance | Rupnagar (Ropar) - 140001, Punjab | [www.iitrpr.ac.in](https://www.iitrpr.ac.in) |
+| **36** | National Institute of Technology Andhra Pradesh (NIT Andhra Pradesh) | Institute of National Importance | Tadepalligudem - 534101, Andhra Pradesh | [www.nitandhra.ac.in](https://www.nitandhra.ac.in) |
+| **37** | Indian Institute of Technology Tirupati (IIT Tirupati) | Institute of National Importance | Tirupati District - 517619, Andhra Pradesh | [www.iittp.ac.in](https://www.iittp.ac.in) |
+| **38** | Indian Institute of Technology Hyderabad (IIT Hyderabad) | Institute of National Importance | Sangareddy - 502284, Telangana | [www.iith.ac.in](https://www.iith.ac.in) |
+| **39** | Indian Institute of Technology Indore (IIT Indore) | Institute of National Importance | Indore - 453552, Madhya Pradesh | [www.iiti.ac.in](https://www.iiti.ac.in) |
+| **40** | Indian Institute of Technology Jodhpur (IIT Jodhpur) | Institute of National Importance | Jodhpur - 342037, Rajasthan | [www.iitj.ac.in](https://www.iitj.ac.in) |
+| **41** | Birla Institute of Technology and Science (BITS Pilani) | Deemed University / Institute of Eminence | Pilani - 333031, Rajasthan | [www.bits-pilani.ac.in](https://www.bits-pilani.ac.in) |
+| **42** | Indian Institute of Technology (BHU) Varanasi (IIT BHU) | Institute of National Importance | Varanasi - 221005, Uttar Pradesh | [www.iitbhu.ac.in](https://www.iitbhu.ac.in) |
+| **43** | Indian Institute of Technology Kanpur (IIT Kanpur) | Institute of National Importance | Kanpur - 208016, Uttar Pradesh | [www.iitk.ac.in](https://www.iitk.ac.in) |
+| **44** | National Institute of Technology Tiruchirappalli (NIT Trichy - PG & Management) | Institute of National Importance | Tiruchirappalli - 620015, Tamil Nadu | [www.nitt.edu](https://www.nitt.edu) |
 
