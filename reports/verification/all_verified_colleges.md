@@ -2791,3 +2791,19 @@
 | 1868 | Minimata Government Girls Polytechnic, Rajnandgaon | Rajnandgaon | Chhattisgarh | Public/Government | [Portal](http://ggprajnandgaon.ac.in) |
 | 1869 | Government Co-Ed Polytechnic, Bastar (Jagdalpur) | Bastar | Chhattisgarh | Public/Government | [Portal](http://gpbastar.ac.in) |
 | 1870 | Rungta College of Engineering & Technology, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://www.rungta.ac.in) |
+
+
+### Batch 188 (Colleges 1,871–1,880)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1871 | Shri Rawatpura Sarkar Polytechnic, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://sruraipur.ac.in) |
+| 1872 | Ashoka Institute of Technology & Management, Rajnandgaon | Rajnandgaon | Chhattisgarh | Private | [Portal](https://ashokagroup.org.in) |
+| 1873 | Institute of Technology, Korba (IT Korba) | Korba | Chhattisgarh | Public/Government | [Portal](https://itkorba.in) |
+| 1874 | Krishna's Vikash Institute of Technology, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://kvitraipur.com) |
+| 1875 | RSR Rungta College of Engineering & Technology, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://www.rungta.ac.in) |
+| 1876 | Faculty of Engineering and Technology, Bharti Vishwavidyalaya, Durg | Durg | Chhattisgarh | Private | [Portal](https://bhartivishwavidyalaya.ac.in) |
+| 1877 | Kirodimal Institute of Technology, Raigarh | Raigarh | Chhattisgarh | Public/Government | [Portal](http://kitraigarh.ac.in) |
+| 1878 | Shivalik Institute of Management Education & Research, Durg | Durg | Chhattisgarh | Private | [Portal](https://www.simer.in) |
+| 1879 | Chhattisgarh Institute of Technology, Jagdalpur (Govt. Polytechnic) | Bastar | Chhattisgarh | Public/Government | [Portal](http://cgdte.cgstate.gov.in) |
+| 1880 | Chouksey Engineering College, Bilaspur | Bilaspur | Chhattisgarh | Private | [Portal](https://cecbilaspur.ac.in) |
