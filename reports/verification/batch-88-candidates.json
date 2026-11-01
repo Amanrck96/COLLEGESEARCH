@@ -1,0 +1,122 @@
+[
+  {
+    "id": 482,
+    "name": "BEHALA GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.behalagovernmen.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 484,
+    "name": "GAIGHATA GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.gaighatagovernm.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 485,
+    "name": "RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE PURULIA",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://rkmgec.ac.in/images/essentials/6086989652320184330b.jpeg",
+    "website": "https://www.ramkrishnamahat.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 486,
+    "name": "L C G INSTITUTE OF POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/lcg-institute-of-polytechnic-birbhum-294385.webp",
+    "website": "https://www.lcginstituteofp.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 487,
+    "name": "RAJGANJ GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "website": "https://www.rajganjgovernme.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 488,
+    "name": "BERHAMPORE POLYTECHNIC COLLEGE",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.berhamporepolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 489,
+    "name": "MIRIK GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/darjeeling-government-college-darjeeling-330266.webp",
+    "website": "https://www.mirikgovernment.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 490,
+    "name": "ULUBERIA GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1563961166h9.jpg",
+    "website": "https://www.uluberiagovernm.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 491,
+    "name": "DASNAGAR GOVT. POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.gpdhangar.ac.in/wp-content/uploads/2022/10/sl1.jpg",
+    "website": "https://www.dasnagargovtpol.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 492,
+    "name": "UNIVERSITY OF ENGINEERING AND MANAGEMENT KOLKATA",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.universityofeng.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

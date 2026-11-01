@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **870 / 12,660**  
-**Roadmap Progress**: **87.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **880 / 12,660**  
+**Roadmap Progress**: **88.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1314,4 +1314,19 @@
 | **479** | Gayeshpur Government Polytechnic (GGP Nadia) | Public/Government | GAYESHPUR,KALYANI; NADIA;WEST BENGAL; PIN:741234 | [gayeshpurpolytechnic.in](https://gayeshpurpolytechnic.in) |
 | **480** | Ranaghat Government Polytechnic (RGP Nadia) | Public/Government | WEST BENGAL, PIN- 741201 | [ranaghatpolytechnic.in](https://ranaghatpolytechnic.in) |
 | **481** | Cooch Behar Government Engineering College (CGEC Cooch Behar) | Public/Government | HARINCHAWRA, P.O.-GHUGHUMARI DIST-COOCHBEHAR PIN-736170 | [cgec.org.in](https://cgec.org.in) |
+
+### Batch 88 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **482** | Behala Government Polytechnic | Public/Government | KMC WARD NO.: 132, KOLKATA - 700060 | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/behalagovpoly) |
+| **484** | Gaighata Government Polytechnic | Public/Government | VILL-DEBIPUR PO-CHANDPARA PS-GAIGHATA NORTH 24 PARGANAS PIN-743245 | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/gaighatagovpoly) |
+| **485** | Ramkrishna Mahato Government Engineering College, Purulia | Public/Government | VILLAGE- CHAS MORE P.O.- CHAS ROAD P.S.- JOYPUR | [rkmgec.ac.in](https://rkmgec.ac.in) |
+| **486** | L C G Institute of Polytechnic (Birbhum) | Private | PIN-731101, WEST BENGAL | [lcginstitute.com](http://lcginstitute.com) |
+| **487** | Rajganj Government Polytechnic | Public/Government | BELAKOBA PO- PRASANNAGAR PS- RAJGANJ DIST JALPAIGURI | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/rajganjgovpoly) |
+| **488** | Berhampore Polytechnic College | Private | DIST-MURSHIDABAD, PIN-742103 | [www.berhamporepolytechnic.org](http://www.berhamporepolytechnic.org) |
+| **489** | Mirik Government Polytechnic | Public/Government | WARD NO. 1, MIRIK | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/mirikgovpoly) |
+| **490** | Uluberia Government Polytechnic | Public/Government | ULUBERIA - 1 ; BOALIA | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/uluberia-government-polytechnic) |
+| **491** | Dasnagar Government Polytechnic | Public/Government | DASNAGAR | [polytechnic.wbtetsd.gov.in](https://polytechnic.wbtetsd.gov.in/dasnagar-government-polytechnic) |
+| **492** | University of Engineering & Management (UEM Kolkata) | Private | WEST BENGAL, | [uem.edu.in](https://uem.edu.in/uem-kolkata/) |
 

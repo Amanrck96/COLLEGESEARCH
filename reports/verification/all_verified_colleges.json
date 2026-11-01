@@ -6523,5 +6523,80 @@
         "website": "https://cgec.org.in"
       }
     ]
+  },
+  {
+    "batch": 88,
+    "items": [
+      {
+        "id": 482,
+        "name": "Behala Government Polytechnic",
+        "type": "Public/Government",
+        "location": "KMC WARD NO.: 132, KOLKATA - 700060",
+        "website": "https://polytechnic.wbtetsd.gov.in/behalagovpoly"
+      },
+      {
+        "id": 484,
+        "name": "Gaighata Government Polytechnic",
+        "type": "Public/Government",
+        "location": "VILL-DEBIPUR PO-CHANDPARA PS-GAIGHATA NORTH 24 PARGANAS PIN-743245",
+        "website": "https://polytechnic.wbtetsd.gov.in/gaighatagovpoly"
+      },
+      {
+        "id": 485,
+        "name": "Ramkrishna Mahato Government Engineering College, Purulia",
+        "type": "Public/Government",
+        "location": "VILLAGE- CHAS MORE P.O.- CHAS ROAD P.S.- JOYPUR",
+        "website": "https://rkmgec.ac.in"
+      },
+      {
+        "id": 486,
+        "name": "L C G Institute of Polytechnic (Birbhum)",
+        "type": "Private",
+        "location": "PIN-731101, WEST BENGAL",
+        "website": "http://lcginstitute.com"
+      },
+      {
+        "id": 487,
+        "name": "Rajganj Government Polytechnic",
+        "type": "Public/Government",
+        "location": "BELAKOBA PO- PRASANNAGAR PS- RAJGANJ DIST JALPAIGURI",
+        "website": "https://polytechnic.wbtetsd.gov.in/rajganjgovpoly"
+      },
+      {
+        "id": 488,
+        "name": "Berhampore Polytechnic College",
+        "type": "Private",
+        "location": "DIST-MURSHIDABAD, PIN-742103",
+        "website": "http://www.berhamporepolytechnic.org"
+      },
+      {
+        "id": 489,
+        "name": "Mirik Government Polytechnic",
+        "type": "Public/Government",
+        "location": "WARD NO. 1, MIRIK",
+        "website": "https://polytechnic.wbtetsd.gov.in/mirikgovpoly"
+      },
+      {
+        "id": 490,
+        "name": "Uluberia Government Polytechnic",
+        "type": "Public/Government",
+        "location": "ULUBERIA - 1 ; BOALIA",
+        "website": "https://polytechnic.wbtetsd.gov.in/uluberia-government-polytechnic"
+      },
+      {
+        "id": 491,
+        "name": "Dasnagar Government Polytechnic",
+        "type": "Public/Government",
+        "location": "DASNAGAR",
+        "website": "https://polytechnic.wbtetsd.gov.in/dasnagar-government-polytechnic"
+      },
+      {
+        "id": 492,
+        "name": "University of Engineering & Management (UEM Kolkata)",
+        "type": "Private",
+        "location": "WEST BENGAL,",
+        "website": "https://uem.edu.in/uem-kolkata/"
+      }
+    ]
   }
 ]
