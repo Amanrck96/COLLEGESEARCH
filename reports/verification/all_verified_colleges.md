@@ -2563,3 +2563,17 @@
 | 1408 | Aditya Degree College, Payakapuram, Vijayawada | Krishna | Andhra Pradesh | Private | [https://aditya.ac.in/degree](https://aditya.ac.in/degree) |
 | 1409 | Annamacharya Institute of Technology and Sciences (AITS), Kadapa | YSR District | Andhra Pradesh | Private | [https://aitskadapa.ac.in](https://aitskadapa.ac.in) |
 | 1410 | Mother Theresa Institute of Engineering and Technology (MTIET), Palamaner, Chittoor | Chittoor | Andhra Pradesh | Private | [https://mtieat.org](https://mtieat.org) |
+
+### Batch 172 (Colleges 1,711–1,720) — Andhra Pradesh Engineering, Technical & Degree Colleges
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1411 | Lendi Institute of Engineering and Technology (LIET Autonomous), Vizianagaram | Vizianagaram | Andhra Pradesh | Private | [https://www.lendi.org](https://www.lendi.org) |
+| 1412 | Pragathi Polytechnic College, Kothavalasa, Vizianagaram | Vizianagaram | Andhra Pradesh | Private | [https://pragathipolytechnic.com](https://pragathipolytechnic.com) |
+| 1413 | JNTU-GV University College of Engineering, Vizianagaram | Vizianagaram | Andhra Pradesh | Public/Government | [https://jntugvcev.edu.in](https://jntugvcev.edu.in) |
+| 1414 | B.V.C. College of Engineering, Palacherla, Rajamahendravaram | East Godavari | Andhra Pradesh | Private | [https://bvce.edu.in](https://bvce.edu.in) |
+| 1415 | Vemu Institute of Technology (Autonomous), P. Kothakota, Chittoor | Chittoor | Andhra Pradesh | Private | [https://vemu.org](https://vemu.org) |
+| 1416 | V.R. Institute of Post-Graduate Studies, Nellore | Nellore | Andhra Pradesh | Private | [https://vripgs.ac.in](https://vripgs.ac.in) |
+| 1417 | Narayana Engineering College (Autonomous), Nellore | Nellore | Andhra Pradesh | Private | [https://necn.ac.in](https://necn.ac.in) |
+| 1418 | Sri Aditya Degree College, Denduluru, Eluru | West Godavari | Andhra Pradesh | Private | [https://aditya.ac.in/degree](https://aditya.ac.in/degree) |
+| 1419 | Sri Srinivasa Degree College, Madanapalle | Chittoor | Andhra Pradesh | Private | [https://srisrinivasacollege.in](https://srisrinivasacollege.in) |
+| 1420 | Vignan Degree College, Nandyal | Kurnool | Andhra Pradesh | Private | [https://vignandegreecollege.in](https://vignandegreecollege.in) |

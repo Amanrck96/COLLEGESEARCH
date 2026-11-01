@@ -13003,5 +13003,95 @@
     "type": "Private",
     "website": "https://mtieat.org",
     "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1411,
+    "name": "Lendi Institute of Engineering and Technology (LIET Autonomous), Vizianagaram",
+    "location": "Vizianagaram",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://www.lendi.org",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
+  },
+  {
+    "id": 1412,
+    "name": "Pragathi Polytechnic College, Kothavalasa, Vizianagaram",
+    "location": "Vizianagaram",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://pragathipolytechnic.com",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
+  },
+  {
+    "id": 1413,
+    "name": "JNTU-GV University College of Engineering, Vizianagaram",
+    "location": "Vizianagaram",
+    "state": "Andhra Pradesh",
+    "type": "Public/Government",
+    "website": "https://jntugvcev.edu.in",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
+  },
+  {
+    "id": 1414,
+    "name": "B.V.C. College of Engineering, Palacherla, Rajamahendravaram",
+    "location": "East Godavari",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://bvce.edu.in",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
+  },
+  {
+    "id": 1415,
+    "name": "Vemu Institute of Technology (Autonomous), P. Kothakota, Chittoor",
+    "location": "Chittoor",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://vemu.org",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
+  },
+  {
+    "id": 1416,
+    "name": "V.R. Institute of Post-Graduate Studies, Nellore",
+    "location": "Nellore",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://vripgs.ac.in",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
+  },
+  {
+    "id": 1417,
+    "name": "Narayana Engineering College (Autonomous), Nellore",
+    "location": "Nellore",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://necn.ac.in",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
+  },
+  {
+    "id": 1418,
+    "name": "Sri Aditya Degree College, Denduluru, Eluru",
+    "location": "West Godavari",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://aditya.ac.in/degree",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
+  },
+  {
+    "id": 1419,
+    "name": "Sri Srinivasa Degree College, Madanapalle",
+    "location": "Chittoor",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://srisrinivasacollege.in",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
+  },
+  {
+    "id": 1420,
+    "name": "Vignan Degree College, Nandyal",
+    "location": "Kurnool",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://vignandegreecollege.in",
+    "verifiedAt": "2026-11-01T19:50:04.570Z"
   }
 ]
