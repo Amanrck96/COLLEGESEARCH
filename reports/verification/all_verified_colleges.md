@@ -2619,3 +2619,17 @@
 | 1448 | School of Engineering and Technology (SOET), Vikram University | Ujjain | Madhya Pradesh | Public/Government | [Website](https://vikramuniv.ac.in) |
 | 1449 | Indore Institute of Management and Research (IIMR), Rau, Indore | Rau, Indore | Madhya Pradesh | Private | [Website](https://indoreinstitute.com/iimr) |
 | 1450 | Maharishi Centre for Educational Excellence (MCEE), Bhopal | Bhopal | Madhya Pradesh | Private | [Website](https://mceebhopal.org) |
+
+### Batch 176 (Colleges 1,751–1,760, IDs: 1451–1460)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1451 | Nirmala College, Ujjain | Ujjain | Madhya Pradesh | Private | [Website](https://nirmalacollege.edu.in) |
+| 1452 | IPS Academy (Institute of Engineering & Science), Indore | Indore | Madhya Pradesh | Private (Autonomous) | [Website](https://ipsacademy.org) |
+| 1453 | Shri Vaishnav Vidyapeeth Vishwavidyalaya (SVVV), Indore | Indore | Madhya Pradesh | Private (State Private University) | [Website](https://www.svvv.edu.in) |
+| 1454 | G H Raisoni University, Saikheda | Saikheda, Chhindwara | Madhya Pradesh | Private (State Private University) | [Website](https://ghru.edu.in) |
+| 1455 | Rabindranath Tagore University (RNTU), Bhopal | Bhopal / Raisen | Madhya Pradesh | Private (State Private University) | [Website](https://rntu.ac.in) |
+| 1456 | SAGE University, Indore | Indore | Madhya Pradesh | Private (State Private University) | [Website](https://sageuniversity.in) |
+| 1457 | SAGE University, Bhopal | Bhopal | Madhya Pradesh | Private (State Private University) | [Website](https://sageuniversity.edu.in) |
+| 1458 | Lakshmi Narain College of Technology (LNCT), Bhopal | Bhopal | Madhya Pradesh | Private (Autonomous) | [Website](https://lnct.ac.in) |
+| 1459 | Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur | Jabalpur | Madhya Pradesh | Public/Government (Institute of National Importance) | [Website](https://www.iiitdmj.ac.in) |
+| 1460 | Vikrant University, Gwalior | Gwalior | Madhya Pradesh | Private (State Private University) | [Website](https://vikrantuniversity.ac.in) |
