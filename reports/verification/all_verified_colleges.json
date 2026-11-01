@@ -4123,5 +4123,80 @@
         "website": "https://www.amu.ac.in"
       }
     ]
+  },
+  {
+    "batch": 56,
+    "items": [
+      {
+        "id": 119,
+        "name": "Chitkara Design School, Chitkara University",
+        "type": "Private University (Design School)",
+        "location": "Patiala District - 140401, Punjab",
+        "website": "https://www.chitkara.edu.in"
+      },
+      {
+        "id": 120,
+        "name": "Chandigarh University (CU Mohali) - Engineering Campus",
+        "type": "Private University (NAAC A+ Accredited)",
+        "location": "Mohali - 140413, Punjab",
+        "website": "https://www.cuchd.in"
+      },
+      {
+        "id": 121,
+        "name": "Faculty of Engineering and Technology, Jain University (JU FET)",
+        "type": "Deemed to be University (Faculty of Engineering)",
+        "location": "Bengaluru - 562112, Karnataka",
+        "website": "https://set.jainuniversity.ac.in"
+      },
+      {
+        "id": 122,
+        "name": "New Horizon College of Engineering (NHCE Bengaluru)",
+        "type": "Private Autonomous (Engineering College / VTU Affiliated)",
+        "location": "Bengaluru - 560103, Karnataka",
+        "website": "https://newhorizonindia.edu/nhengineering"
+      },
+      {
+        "id": 123,
+        "name": "University School of Business, Chandigarh University (USB Mohali)",
+        "type": "Private University (Business School)",
+        "location": "Mohali - 140413, Punjab",
+        "website": "https://www.cuchd.in"
+      },
+      {
+        "id": 124,
+        "name": "Jagan Institute of Management Studies (JIMS Rohini Sector-5)",
+        "type": "Private Autonomous (Management Institute)",
+        "location": "New Delhi - 110085, Delhi NCR",
+        "website": "https://www.jimsindia.org"
+      },
+      {
+        "id": 125,
+        "name": "International Institute of Management Studies (IIMS Pune)",
+        "type": "Private (Management Institute / SaiBalaji Society)",
+        "location": "Pune - 411033, Maharashtra",
+        "website": "https://www.iimspune.edu.in"
+      },
+      {
+        "id": 126,
+        "name": "Krishnadevaraya College of Dental Sciences and Hospital (KCDSH Bengaluru)",
+        "type": "Private (Dental College & Hospital / RGUHS Affiliated)",
+        "location": "Bengaluru - 562157, Karnataka",
+        "website": "https://kcdsh.org"
+      },
+      {
+        "id": 127,
+        "name": "Sri Devaraj Urs Academy of Higher Education and Research (SDUAHER Kolar)",
+        "type": "Deemed to be University (Medical Academy)",
+        "location": "Kolar - 563103, Karnataka",
+        "website": "https://sduaher.ac.in"
+      },
+      {
+        "id": 128,
+        "name": "Adichunchanagiri Institute of Medical Sciences (AIMS Mandya)",
+        "type": "Private (Constituent Medical College of Adichunchanagiri University)",
+        "location": "Mandya District - 571448, Karnataka",
+        "website": "https://www.bgsaims.edu.in"
+      }
+    ]
   }
 ]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 119,
+    "name": "B.Des. in Fashion Design at Chitkara Design School, Chandigarh",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://www.chitkara.edu.in/blogs/wp-content/uploads/2025/07/Chitkara-Design-School-1024x597.jpg",
+    "website": "https://www.chitkara.edu.in",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 120,
+    "name": "B.E. in Computer Science and Engineering at Chandigarh University (CU), Chandigarh",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "https://img.jagranjosh.com/images/2022/May/2752022/campus9.jpg",
+    "website": "https://www.cuchd.in",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 121,
+    "name": "B.Tech. in Computer Science and Engineering at Jain Deemed University, Faculty of Engineering and Technology, Kanakapura Road",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "https://www.jainuniversity.ac.in/jain/theme/assets/images/academics/jgi-center-for-emerging-technologies.jpg",
+    "website": "https://www.google.com/search?q=B.Tech.%20in%20Computer%20Science%20and%20Engineering%20at%20Jain%20Deemed%20University%2C%20Faculty%20of%20Engineering%20and%20Technology%2C%20Kanakapura%20Road%20official%20website%20Karnataka%20Karnataka",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 122,
+    "name": "B.E. in Computer Science and Engineering at NHCE Bangalore, Marathahalli",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/iiit_bangalore_campus2.jpg",
+    "website": "https://newhorizonindia.edu/nhengineering",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 123,
+    "name": "Masters of Business Administration(MBA) at Chandigarh University (CU), Chandigarh",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.cuchd.in",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 124,
+    "name": "Post Graduate Diploma in Management (PGDM) at Jagan Institute of Management Studies, Rohini, Delhi, Rohini",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.jimsindia.org",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 125,
+    "name": "Post Graduate Diploma in Management (PGDM) at IIMS Pune, Hinjewadi",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "/images/campuses/primus_bangalore.jpg",
+    "website": "https://www.iimspune.edu.in",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 126,
+    "name": "Krishnadevaraya College of Dental Sciences and Hospital",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://kcdsh.org",
+    "phone": "080-26597135",
+    "email": "admissions@kcodsa.edu.in"
+  },
+  {
+    "id": 127,
+    "name": "Sri Devraj Urs Academy of Higher Education and Research",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://sduaher.ac.in",
+    "phone": "080-26597135",
+    "email": "admissions@sduaoh.edu.in"
+  },
+  {
+    "id": 128,
+    "name": "Adichunchanagiri Institute of Medical Sciences, Mandya",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/bangalore_university.jpg",
+    "website": "https://www.bgsaims.edu.in/",
+    "phone": "080-26597135",
+    "email": "admissions@aiomsm.edu.in"
+  }
+]

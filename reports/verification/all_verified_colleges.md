@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **550 / 12,660**  
-**Roadmap Progress**: **55.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **560 / 12,660**  
+**Roadmap Progress**: **56.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -834,4 +834,19 @@
 | **116** | UPES School of Law, Dehradun (UPES) | Private University (UPES Dehradun) | Dehradun - 248007, Uttarakhand | [www.upes.ac.in](https://www.upes.ac.in) |
 | **117** | Alliance School of Law, Alliance University (Bengaluru) | Private University (Alliance University) | Bengaluru - 562106, Karnataka | [www.alliance.edu.in](https://www.alliance.edu.in) |
 | **118** | Aligarh Muslim University (AMU Aligarh) | Public/Government (Central University, NIRF Top 10) | Aligarh - 202002, Uttar Pradesh | [www.amu.ac.in](https://www.amu.ac.in) |
+
+### Batch 56 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **119** | Chitkara Design School, Chitkara University | Private University (Design School) | Patiala District - 140401, Punjab | [www.chitkara.edu.in](https://www.chitkara.edu.in) |
+| **120** | Chandigarh University (CU Mohali) - Engineering Campus | Private University (NAAC A+ Accredited) | Mohali - 140413, Punjab | [www.cuchd.in](https://www.cuchd.in) |
+| **121** | Faculty of Engineering and Technology, Jain University (JU FET) | Deemed to be University (Faculty of Engineering) | Bengaluru - 562112, Karnataka | [set.jainuniversity.ac.in](https://set.jainuniversity.ac.in) |
+| **122** | New Horizon College of Engineering (NHCE Bengaluru) | Private Autonomous (Engineering College / VTU Affiliated) | Bengaluru - 560103, Karnataka | [newhorizonindia.edu](https://newhorizonindia.edu/nhengineering) |
+| **123** | University School of Business, Chandigarh University (USB Mohali) | Private University (Business School) | Mohali - 140413, Punjab | [www.cuchd.in](https://www.cuchd.in) |
+| **124** | Jagan Institute of Management Studies (JIMS Rohini Sector-5) | Private Autonomous (Management Institute) | New Delhi - 110085, Delhi NCR | [www.jimsindia.org](https://www.jimsindia.org) |
+| **125** | International Institute of Management Studies (IIMS Pune) | Private (Management Institute / SaiBalaji Society) | Pune - 411033, Maharashtra | [www.iimspune.edu.in](https://www.iimspune.edu.in) |
+| **126** | Krishnadevaraya College of Dental Sciences and Hospital (KCDSH Bengaluru) | Private (Dental College & Hospital / RGUHS Affiliated) | Bengaluru - 562157, Karnataka | [kcdsh.org](https://kcdsh.org) |
+| **127** | Sri Devaraj Urs Academy of Higher Education and Research (SDUAHER Kolar) | Deemed to be University (Medical Academy) | Kolar - 563103, Karnataka | [sduaher.ac.in](https://sduaher.ac.in) |
+| **128** | Adichunchanagiri Institute of Medical Sciences (AIMS Mandya) | Private (Constituent Medical College of Adichunchanagiri University) | Mandya District - 571448, Karnataka | [www.bgsaims.edu.in](https://www.bgsaims.edu.in) |
 
