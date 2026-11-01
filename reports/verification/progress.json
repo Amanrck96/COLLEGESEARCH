@@ -1604,7 +1604,17 @@
     1853,
     1854,
     1855,
-    1856
+    1856,
+    1857,
+    1858,
+    1859,
+    1860,
+    1861,
+    1862,
+    1863,
+    1864,
+    1865,
+    1866
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -1877,6 +1887,24 @@
         1856
       ],
       "verifiedAt": "2026-11-01T20:37:18.417Z"
+    },
+    "187": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "1861-1870",
+      "ids": [
+        1857,
+        1858,
+        1859,
+        1860,
+        1861,
+        1862,
+        1863,
+        1864,
+        1865,
+        1866
+      ],
+      "verifiedAt": "2026-11-01T20:41:24.407Z"
     }
   },
   "all_verified_ids": [
@@ -1891,11 +1919,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 186,
-  "verifiedColleges": 1860,
-  "lastUpdated": "2026-11-01T20:37:18.383Z",
+  "last_batch_completed": 187,
+  "verifiedColleges": 1870,
+  "lastUpdated": "2026-11-01T20:41:24.357Z",
   "batchesCompleted": 172,
-  "currentBatch": 186,
+  "currentBatch": 187,
   "batchHistory": [
     {
       "batch": 160,
@@ -2147,6 +2175,24 @@
         1854,
         1855,
         1856
+      ]
+    },
+    {
+      "batch": 187,
+      "verifiedCount": 10,
+      "totalVerified": 1870,
+      "timestamp": "2026-11-01T20:41:24.407Z",
+      "collegeIds": [
+        1857,
+        1858,
+        1859,
+        1860,
+        1861,
+        1862,
+        1863,
+        1864,
+        1865,
+        1866
       ]
     }
   ]

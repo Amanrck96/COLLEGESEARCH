@@ -2775,3 +2775,19 @@
 | 1858 | Government Polytechnic, Ramanujganj | Balrampur | Chhattisgarh | Public/Government | [Portal](http://gpramanujganj.ac.in) |
 | 1859 | Chhattisgarh Institute of Technology, Jashpur (Govt. Polytechnic) | Jashpur | Chhattisgarh | Public/Government | [Portal](http://gpjashpur.ac.in) |
 | 1860 | Government Polytechnic, Gariaband | Gariaband | Chhattisgarh | Public/Government | [Portal](http://gpgariaband.ac.in) |
+
+
+### Batch 187 (Colleges 1,861–1,870)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1861 | Shri Shankaracharya Institute of Professional Management & Technology, Raipur | Raipur | Chhattisgarh | Private | [Portal](https://www.ssipmt.com) |
+| 1862 | Late Karuna Shukla Government Polytechnic College, Balodabazar | Balodabazar | Chhattisgarh | Public/Government | [Portal](http://gpbalodabazar.ac.in) |
+| 1863 | Government Polytechnic, Khairagarh | Khairagarh | Chhattisgarh | Public/Government | [Portal](http://gpkhairagarh.ac.in) |
+| 1864 | IBT College of Diploma Engineering, Ahiwara | Durg | Chhattisgarh | Private | [Portal](https://ibtgroup.org) |
+| 1865 | Government Polytechnic, Narayanpur | Narayanpur | Chhattisgarh | Public/Government | [Portal](http://gpnarayanpur.ac.in) |
+| 1866 | Uday Prasad Uday Government Polytechnic, Durg | Durg | Chhattisgarh | Public/Government | [Portal](http://gpdurg.ac.in) |
+| 1867 | Ayush College of Polytechnic, Marwahi | Gaurela-Pendra-Marwahi | Chhattisgarh | Private | [Portal](http://ayushcollege.in) |
+| 1868 | Minimata Government Girls Polytechnic, Rajnandgaon | Rajnandgaon | Chhattisgarh | Public/Government | [Portal](http://ggprajnandgaon.ac.in) |
+| 1869 | Government Co-Ed Polytechnic, Bastar (Jagdalpur) | Bastar | Chhattisgarh | Public/Government | [Portal](http://gpbastar.ac.in) |
+| 1870 | Rungta College of Engineering & Technology, Bhilai | Durg | Chhattisgarh | Private | [Portal](https://www.rungta.ac.in) |
