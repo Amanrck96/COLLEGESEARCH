@@ -2689,3 +2689,17 @@
 | 1794 | Government Polytechnic College, Shopian | Shopian | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcshopian.edu.in) |
 | 1795 | Government Polytechnic College, Poonch | Poonch | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://www.gpcpoonch.in) |
 | 1796 | Government Polytechnic College, Reasi | Reasi | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcreasi.in) |
+
+### Batch 181 (Colleges 1,801–1,810, IDs: 1797–1806)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1797 | Government Polytechnic College, Kulgam | Kulgam | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpckulgam.org) |
+| 1798 | Government Polytechnic College, Budgam | Budgam | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcbudgam.org) |
+| 1799 | Department of Computer Science & IT, University of Jammu | Jammu | Jammu & Kashmir | Public/Government (State University Department) | [Website](https://jammuuniversity.ac.in/departments/computer-science-it) |
+| 1800 | Government Polytechnic College, Ramban | Ramban | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://www.gpcramban.in) |
+| 1801 | Kashmir Government Polytechnic (KGP), Srinagar | Srinagar | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://kgpolytechnic.org) |
+| 1802 | Government Polytechnic College, Baramulla | Baramulla | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcbaramulla.org) |
+| 1803 | Government Polytechnic, Jammu | Jammu | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://govtpolytechnicjammu.edu.in) |
+| 1804 | Government Polytechnic College, Samba | Samba | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcsamba.org) |
+| 1805 | Government Polytechnic College, Kathua | Kathua | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpckathua.org) |
+| 1806 | Government Polytechnic College, Anantnag | Anantnag | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcanantnag.org) |
