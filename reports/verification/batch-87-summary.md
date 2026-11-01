@@ -28,3 +28,4 @@
 - [x] Purged campus photo leak on CIET Budbud (`bms_bangalore.jpg`)
 - [x] Updated master registry in `reports/verification/all_verified_colleges.json` and `all_verified_colleges.md`
 - [x] Production build passed with zero errors (`dist/index.html` built in 2.59s)
+

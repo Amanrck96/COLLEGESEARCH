@@ -28,3 +28,4 @@
 - [x] Purged 4 campus photo leaks (C.U. Shah Mumbai, GNIMS Matunga x2, Bangalore University)
 - [x] Updated master registry in `reports/verification/all_verified_colleges.json` and `all_verified_colleges.md`
 - [x] Production build passed with zero errors (`dist/index.html` built in 2.41s)
+

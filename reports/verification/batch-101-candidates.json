@@ -1,0 +1,221 @@
+[
+  {
+    "id": 637,
+    "name": "GOVERNMENT POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.governmentpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "name": "SASTRA DEEMED UNIVERSITY",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.sastradeemeduni.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "name": "XAVIER INSTITUTE OF MANAGEMENT & ENTREPRENEURSHIP",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.xavierinstitute.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "PGDM",
+        "type": "MANAGEMENT",
+        "division": "POST GRADUATE DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 150,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 640,
+    "name": "DON BOSCO POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.donboscopolytec.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "MECHANICAL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "name": "KONGUNADU POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1601447795knpc.jpg?h=240&w=1000&mode=crop",
+    "website": "https://www.kongunadupolyte.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 30,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET)",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.cipet.gov.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "PLASTIC MOULD DESIGN (CAD/CAM)",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "POST DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      },
+      {
+        "title": "PLASTIC TECHNOLOGY",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "name": "SRI RAMAKRISHNA POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/GRD_8342.jpg?width=1080",
+    "website": "https://www.sriramakrishnap.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 30,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "name": "THIAGARAJAR POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://www.tpt.edu.in/assets/images/tpt-entrance-bg.webp",
+    "website": "https://www.thiagarajarpoly.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "name": "ST.JOSEPH'S POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.stjosephspolyte.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "name": "CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/14540655413.png",
+    "website": "https://www.christiancolleg.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "MANUFACTURING ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "POST GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 24,
+        "eligibility": "As per norms"
+      }
+    ]
+  }
+]

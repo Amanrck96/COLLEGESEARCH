@@ -53773,16 +53773,16 @@
     },
     {
       "id": 637,
-      "name": "GOVERNMENT POLYTECHNIC COLLEGE",
+      "name": "Government Polytechnic College, Kelamangalam (Krishnagiri)",
       "shortName": "Course Institute-1",
       "location": "KRISHNAGIRI",
       "state": "Tamil Nadu",
       "address": "GOVERNMENT POLYTECHNIC COLLEGE, KELAMANGALAM, BODICHIPALLI VILL, DENKANIKOTTAI TK, KRISHNAGIRI -635113",
-      "phone": "0123-456789",
-      "website": "https://www.governmentpolyt.edu.in",
-      "rating": 4.9,
+      "phone": "04347-233388",
+      "website": "http://www.gptckelamangalam.com",
+      "rating": 4.2,
       "reviews": 1268,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GOVERNMENT POLYTECHNIC COLLEGE, a premier institute located in KRISHNAGIRI. We offer world-class education and facilities for our students.",
       "ranking": 80,
       "facebook": "#",
@@ -53799,13 +53799,54 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹2,500/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹2,500/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹2,500/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electronics & Communication Engineering",
+          "title": "Diploma in Electronics & Communication Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹2,500/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Computer Engineering",
+          "title": "Diploma in Computer Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹2,500/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -53827,18 +53868,20 @@
       "reviewsCount": 1268,
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20COLLEGE%20KRISHNAGIRI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20COLLEGE%20KRISHNAGIRI%20Tamil%20Nadu",
+      "city": "Krishnagiri",
+      "established": 2013
     },
     {
       "id": 638,
-      "name": "SASTRA DEEMED UNIVERSITY",
+      "name": "SASTRA Deemed University - Chennai Campus (Vadapalani)",
       "shortName": "Course Institute-1",
       "location": "CHENNAI",
       "state": "Tamil Nadu",
       "address": "NO.21, ARCOT ROAD (AVM AVENUE) VADAPALANI, CHENNAI",
-      "phone": "0123-456789",
-      "website": "https://www.sastradeemeduni.edu.in",
-      "rating": 4.9,
+      "phone": "044-23652882",
+      "website": "https://www.sastra.edu",
+      "rating": 4.6,
       "reviews": 824,
       "type": "Private",
       "about": "Welcome to SASTRA DEEMED UNIVERSITY, a premier institute located in CHENNAI. We offer world-class education and facilities for our students.",
@@ -53857,13 +53900,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (50%+)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "B.Sc in Computer Science",
+          "title": "B.Sc in Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Commerce (B.Com)",
+          "title": "Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Commerce/Mathematics",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹70,000/Year",
+          "eligibility": "Graduation with Maths + TANCET / Merit",
+          "exams": "TANCET, Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -53883,20 +53957,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 824,
-      "image": "/images/campuses/campus_architecture_9.jpg",
+      "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SASTRA%20DEEMED%20UNIVERSITY%20CHENNAI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SASTRA%20DEEMED%20UNIVERSITY%20CHENNAI%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 1984
     },
     {
       "id": 639,
-      "name": "XAVIER INSTITUTE OF MANAGEMENT & ENTREPRENEURSHIP",
+      "name": "Xavier Institute of Management & Entrepreneurship (XIME Chennai, Oragadam)",
       "shortName": "Course Institute-1",
       "location": "KANCHIPURAM",
       "state": "Tamil Nadu",
       "address": "PLOT NO. CP â 2 (A) SIPCOT INDUSTRIAL GROWTH CENTRE ORAGADAM VILLAGE KANCHEEPURAM DIST.",
-      "phone": "0123-456789",
-      "website": "https://www.xavierinstitute.edu.in",
-      "rating": 4.9,
+      "phone": "044-67179400",
+      "website": "https://xime.org",
+      "rating": 4.4,
       "reviews": 1081,
       "type": "Private",
       "about": "Welcome to XAVIER INSTITUTE OF MANAGEMENT & ENTREPRENEURSHIP, a premier institute located in KANCHIPURAM. We offer world-class education and facilities for our students.",
@@ -53915,13 +53991,24 @@
       ],
       "courses": [
         {
-          "title": "PGDM",
-          "type": "MANAGEMENT",
-          "division": "POST GRADUATE DIPLOMA",
-          "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 150,
-          "eligibility": "As per norms"
+          "name": "Post Graduate Diploma in Management (PGDM)",
+          "title": "Post Graduate Diploma in Management (PGDM)",
+          "division": "Postgraduate Diploma",
+          "duration": "2 Years",
+          "fees": "₹4,50,000/Year",
+          "eligibility": "Bachelor's degree (50%+) + CAT/XAT/MAT/CMAT/GMAT",
+          "exams": "CAT, XAT, MAT, CMAT",
+          "intake": "150"
+        },
+        {
+          "name": "PGDM in Finance & Analytics",
+          "title": "PGDM in Finance & Analytics",
+          "division": "Postgraduate Diploma",
+          "duration": "2 Years",
+          "fees": "₹4,50,000/Year",
+          "eligibility": "Bachelor's degree (50%+) + Entrance",
+          "exams": "CAT, XAT, MAT, CMAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -53944,18 +54031,20 @@
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=XAVIER%20INSTITUTE%20OF%20MANAGEMENT%20%26%20ENTREPRENEURSHIP%20KANCHIPURAM%20Tamil%20Nadu",
-      "imageUrl": "/images/campuses/kv_imis_coimbatore.jpg"
+      "imageUrl": "/images/campuses/kv_imis_coimbatore.jpg",
+      "city": "Kanchipuram",
+      "established": 2017
     },
     {
       "id": 640,
-      "name": "DON BOSCO POLYTECHNIC COLLEGE",
+      "name": "Don Bosco Polytechnic College (Basin Bridge, Chennai)",
       "shortName": "Course Institute-1",
       "location": "CHENNAI",
       "state": "Tamil Nadu",
       "address": "106 D'CASTOR ROAD, BASIN BRIDGE",
-      "phone": "0123-456789",
-      "website": "https://www.donboscopolytec.edu.in",
-      "rating": 4.9,
+      "phone": "044-25292376",
+      "website": "https://donboscopolytechnic.edu.in",
+      "rating": 4.2,
       "reviews": 1323,
       "type": "Private",
       "about": "Welcome to DON BOSCO POLYTECHNIC COLLEGE, a premier institute located in CHENNAI. We offer world-class education and facilities for our students.",
@@ -53974,13 +54063,44 @@
       ],
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electronics & Communication Engineering",
+          "title": "Diploma in Electronics & Communication Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54000,20 +54120,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1323,
-      "image": "/images/campuses/saraswati_kharghar.webp",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DON%20BOSCO%20POLYTECHNIC%20COLLEGE%20CHENNAI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DON%20BOSCO%20POLYTECHNIC%20COLLEGE%20CHENNAI%20Tamil%20Nadu",
+      "city": "Chennai",
+      "established": 1974
     },
     {
       "id": 641,
-      "name": "KONGUNADU POLYTECHNIC COLLEGE",
+      "name": "Kongunadu Polytechnic College (Tholurpatti, Trichy)",
       "shortName": "Course Institute-1",
       "location": "TIRUCHIRAPPALLI",
       "state": "Tamil Nadu",
       "address": "NAMAKKAL - TRICHY MAIN ROAD, THOLURPATTI.",
-      "phone": "0123-456789",
-      "website": "https://www.kongunadupolyte.edu.in",
-      "rating": 4.9,
+      "phone": "04326-244166",
+      "website": "https://kongunadupolytechnic.ac.in",
+      "rating": 4.1,
       "reviews": 337,
       "type": "Private",
       "about": "Welcome to KONGUNADU POLYTECHNIC COLLEGE, a premier institute located in TIRUCHIRAPPALLI. We offer world-class education and facilities for our students.",
@@ -54032,13 +54154,44 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 30,
-          "eligibility": "As per norms"
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Automobile Engineering",
+          "title": "Diploma in Automobile Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54060,20 +54213,22 @@
       "reviewsCount": 337,
       "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1601447795knpc.jpg?h=240&w=1000&mode=crop",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KONGUNADU%20POLYTECHNIC%20COLLEGE%20TIRUCHIRAPPALLI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KONGUNADU%20POLYTECHNIC%20COLLEGE%20TIRUCHIRAPPALLI%20Tamil%20Nadu",
+      "city": "Tiruchirappalli",
+      "established": 2007
     },
     {
       "id": 642,
-      "name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET)",
+      "name": "Central Institute of Petrochemicals Engineering & Technology (CIPET: CSTS Madurai)",
       "shortName": "Course Institute-1",
       "location": "MADURAI",
       "state": "Tamil Nadu",
       "address": "CIPET:CENTRE FOR SKILLING & TECHNICAL SUPPORT (CSTS) MINISTRY OF CHEMICALS AND FERTILIZERS, GOVT. OF INDIA, THIRUVATHAVUR, MELUR (TALUK), MADURAI (DISTRICT), TAMIL NADU - PIN:625 110",
-      "phone": "0123-456789",
+      "phone": "0452-2424277",
       "website": "https://www.cipet.gov.in",
-      "rating": 4.9,
+      "rating": 4.6,
       "reviews": 688,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET), a premier institute located in MADURAI. We offer world-class education and facilities for our students.",
       "ranking": 83,
       "facebook": "#",
@@ -54090,22 +54245,34 @@
       ],
       "courses": [
         {
-          "title": "PLASTIC MOULD DESIGN (CAD/CAM)",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "POST DIPLOMA",
-          "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Post Diploma in Plastics Mould Design (PD-PMD CAD/CAM)",
+          "title": "Post Diploma in Plastics Mould Design (PD-PMD CAD/CAM)",
+          "division": "Post Diploma",
+          "duration": "1.5 Years",
+          "fees": "₹35,000/Semester",
+          "eligibility": "Diploma in Mechanical / Plastics / Tool Engineering",
+          "exams": "CIPET JEE",
+          "intake": "60"
         },
         {
-          "title": "PLASTIC TECHNOLOGY",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Diploma in Plastics Technology (DPT)",
+          "title": "Diploma in Plastics Technology (DPT)",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹20,000/Semester",
+          "eligibility": "10th Standard / SSLC + CIPET JEE",
+          "exams": "CIPET JEE",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Plastics Mould Technology (DPMT)",
+          "title": "Diploma in Plastics Mould Technology (DPMT)",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹20,000/Semester",
+          "eligibility": "10th Standard / SSLC + CIPET JEE",
+          "exams": "CIPET JEE",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54127,18 +54294,20 @@
       "reviewsCount": 688,
       "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTRAL%20INSTITUTE%20OF%20PETROCHEMICALS%20ENGINEERING%20%26%20TECHNOLOGY%20(CIPET)%20MADURAI%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTRAL%20INSTITUTE%20OF%20PETROCHEMICALS%20ENGINEERING%20%26%20TECHNOLOGY%20(CIPET)%20MADURAI%20Tamil%20Nadu",
+      "city": "Madurai",
+      "established": 2016
     },
     {
       "id": 643,
-      "name": "SRI RAMAKRISHNA POLYTECHNIC COLLEGE",
+      "name": "Sri Ramakrishna Polytechnic College (Sri Saradha Nagar, Perambalur)",
       "shortName": "Course Institute-1",
       "location": "PERAMBALUR",
       "state": "Tamil Nadu",
       "address": "SRI SARADHA NAGAR, NH 43",
-      "phone": "0123-456789",
-      "website": "https://www.sriramakrishnap.edu.in",
-      "rating": 4.9,
+      "phone": "04328-220555",
+      "website": "https://sriramakrishnapolytechnic.com",
+      "rating": 4,
       "reviews": 1228,
       "type": "Private",
       "about": "Welcome to SRI RAMAKRISHNA POLYTECHNIC COLLEGE, a premier institute located in PERAMBALUR. We offer world-class education and facilities for our students.",
@@ -54158,13 +54327,44 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 30,
-          "eligibility": "As per norms"
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Automobile Engineering",
+          "title": "Diploma in Automobile Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹30,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54186,18 +54386,20 @@
       "reviewsCount": 1228,
       "image": "https://media.collegedekho.com/media/img/institute/crawled_images/None/GRD_8342.jpg?width=1080",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20RAMAKRISHNA%20POLYTECHNIC%20COLLEGE%20PERAMBALUR%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRI%20RAMAKRISHNA%20POLYTECHNIC%20COLLEGE%20PERAMBALUR%20Tamil%20Nadu",
+      "city": "Perambalur",
+      "established": 2008
     },
     {
       "id": 644,
-      "name": "THIAGARAJAR POLYTECHNIC COLLEGE",
+      "name": "Thiagarajar Polytechnic College (Suramangalam, Salem)",
       "shortName": "Course Institute-1",
       "location": "SALEM",
       "state": "Tamil Nadu",
       "address": "POST BOX NO 523 JUNCTION MAIN ROAD SURAMANGALAM POST SALEM",
-      "phone": "0123-456789",
-      "website": "https://www.thiagarajarpoly.edu.in",
-      "rating": 4.9,
+      "phone": "0427-4099399",
+      "website": "https://www.tpt.edu.in",
+      "rating": 4.7,
       "reviews": 1281,
       "type": "Private",
       "about": "Welcome to THIAGARAJAR POLYTECHNIC COLLEGE, a premier institute located in SALEM. We offer world-class education and facilities for our students.",
@@ -54216,13 +54418,64 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Production Engineering",
+          "title": "Diploma in Production Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Textile Technology",
+          "title": "Diploma in Textile Technology",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Computer Engineering",
+          "title": "Diploma in Computer Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹15,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54244,18 +54497,20 @@
       "reviewsCount": 1281,
       "image": "https://www.tpt.edu.in/assets/images/tpt-entrance-bg.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=THIAGARAJAR%20POLYTECHNIC%20COLLEGE%20SALEM%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=THIAGARAJAR%20POLYTECHNIC%20COLLEGE%20SALEM%20Tamil%20Nadu",
+      "city": "Salem",
+      "established": 1958
     },
     {
       "id": 645,
-      "name": "ST.JOSEPH'S POLYTECHNIC COLLEGE",
+      "name": "St. Joseph's Polytechnic College (Reddiapatti, Dindigul)",
       "shortName": "Course Institute-1",
       "location": "DINDIGUL",
       "state": "Tamil Nadu",
       "address": "PAPPU NAGAR, NEAR R.M.T.C.NAGAR, REDDIAPATTI POST DINDIGUL, TAMILNADU. PIN:624003",
-      "phone": "0123-456789",
-      "website": "https://www.stjosephspolyte.edu.in",
-      "rating": 4.9,
+      "phone": "0451-2440188",
+      "website": "http://stjosephspolytechnic.com",
+      "rating": 4.1,
       "reviews": 1688,
       "type": "Private",
       "about": "Welcome to ST.JOSEPH'S POLYTECHNIC COLLEGE, a premier institute located in DINDIGUL. We offer world-class education and facilities for our students.",
@@ -54274,13 +54529,44 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Polytechnic Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹32,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Automobile Engineering",
+          "title": "Diploma in Automobile Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "30"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Polytechnic Diploma",
+          "duration": "3 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10th Standard / SSLC",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54302,18 +54588,20 @@
       "reviewsCount": 1688,
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.JOSEPH'S%20POLYTECHNIC%20COLLEGE%20DINDIGUL%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.JOSEPH'S%20POLYTECHNIC%20COLLEGE%20DINDIGUL%20Tamil%20Nadu",
+      "city": "Dindigul",
+      "established": 2009
     },
     {
       "id": 646,
-      "name": "CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "name": "Christian College of Engineering and Technology (Oddanchatram, Dindigul)",
       "shortName": "Course Institute-1",
       "location": "DINDIGUL",
       "state": "Tamil Nadu",
       "address": "CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY, NEAR CHECK POST, ODDANCHATRAM - 624 619, DINDIGUL DISTRICT, TAMILNADU.",
-      "phone": "0123-456789",
-      "website": "https://www.christiancolleg.edu.in",
-      "rating": 4.9,
+      "phone": "04553-241128",
+      "website": "https://christianengineering.in",
+      "rating": 4.2,
       "reviews": 1579,
       "type": "Private",
       "about": "Welcome to CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY, a premier institute located in DINDIGUL. We offer world-class education and facilities for our students.",
@@ -54332,13 +54620,44 @@
       ],
       "courses": [
         {
-          "title": "MANUFACTURING ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "POST GRADUATE",
+          "name": "B.E. in Computer Science and Engineering",
+          "title": "B.E. in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 24,
-          "eligibility": "As per norms"
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Mechanical Engineering",
+          "title": "B.E. in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "B.E. in Electrical and Electronics Engineering",
+          "title": "B.E. in Electrical and Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TNEA",
+          "exams": "TNEA",
+          "intake": "60"
+        },
+        {
+          "name": "M.E. in Manufacturing Engineering",
+          "title": "M.E. in Manufacturing Engineering",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "B.E. Mechanical / Production + TANCET / GATE",
+          "exams": "TANCET, GATE",
+          "intake": "24"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -54360,7 +54679,9 @@
       "reviewsCount": 1579,
       "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/14540655413.png",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHRISTIAN%20COLLEGE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20DINDIGUL%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CHRISTIAN%20COLLEGE%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20DINDIGUL%20Tamil%20Nadu",
+      "city": "Dindigul",
+      "established": 2001
     },
     {
       "id": 647,

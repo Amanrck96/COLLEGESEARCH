@@ -7498,5 +7498,80 @@
         "website": "https://www.periyaruniversity.ac.in"
       }
     ]
+  },
+  {
+    "batch": 101,
+    "items": [
+      {
+        "id": 637,
+        "name": "Government Polytechnic College, Kelamangalam (Krishnagiri)",
+        "type": "Public/Government",
+        "location": "DENKANIKOTTAI TK, KRISHNAGIRI -635113",
+        "website": "http://www.gptckelamangalam.com"
+      },
+      {
+        "id": 638,
+        "name": "SASTRA Deemed University - Chennai Campus (Vadapalani)",
+        "type": "Private",
+        "location": "ARCOT ROAD (AVM AVENUE) VADAPALANI, CHENNAI",
+        "website": "https://www.sastra.edu"
+      },
+      {
+        "id": 639,
+        "name": "Xavier Institute of Management & Entrepreneurship (XIME Chennai, Oragadam)",
+        "type": "Private",
+        "location": "PLOT NO. CP â 2 (A) SIPCOT INDUSTRIAL GROWTH CENTRE ORAGADAM VILLAGE KANCHEEPURAM DIST.",
+        "website": "https://xime.org"
+      },
+      {
+        "id": 640,
+        "name": "Don Bosco Polytechnic College (Basin Bridge, Chennai)",
+        "type": "Private",
+        "location": "106 D'CASTOR ROAD, BASIN BRIDGE",
+        "website": "https://donboscopolytechnic.edu.in"
+      },
+      {
+        "id": 641,
+        "name": "Kongunadu Polytechnic College (Tholurpatti, Trichy)",
+        "type": "Private",
+        "location": "NAMAKKAL - TRICHY MAIN ROAD, THOLURPATTI.",
+        "website": "https://kongunadupolytechnic.ac.in"
+      },
+      {
+        "id": 642,
+        "name": "Central Institute of Petrochemicals Engineering & Technology (CIPET: CSTS Madurai)",
+        "type": "Public/Government",
+        "location": "MADURAI (DISTRICT), TAMIL NADU - PIN:625 110",
+        "website": "https://www.cipet.gov.in"
+      },
+      {
+        "id": 643,
+        "name": "Sri Ramakrishna Polytechnic College (Sri Saradha Nagar, Perambalur)",
+        "type": "Private",
+        "location": "SRI SARADHA NAGAR, NH 43",
+        "website": "https://sriramakrishnapolytechnic.com"
+      },
+      {
+        "id": 644,
+        "name": "Thiagarajar Polytechnic College (Suramangalam, Salem)",
+        "type": "Private",
+        "location": "POST BOX NO 523 JUNCTION MAIN ROAD SURAMANGALAM POST SALEM",
+        "website": "https://www.tpt.edu.in"
+      },
+      {
+        "id": 645,
+        "name": "St. Joseph's Polytechnic College (Reddiapatti, Dindigul)",
+        "type": "Private",
+        "location": "REDDIAPATTI POST DINDIGUL, TAMILNADU. PIN:624003",
+        "website": "http://stjosephspolytechnic.com"
+      },
+      {
+        "id": 646,
+        "name": "Christian College of Engineering and Technology (Oddanchatram, Dindigul)",
+        "type": "Private",
+        "location": "DINDIGUL DISTRICT, TAMILNADU.",
+        "website": "https://christianengineering.in"
+      }
+    ]
   }
 ]

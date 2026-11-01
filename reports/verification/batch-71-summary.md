@@ -29,3 +29,4 @@
 - [x] Purged campus photo leaks (Koshys Bangalore)
 - [x] Updated master registry in `reports/verification/all_verified_colleges.json` and `all_verified_colleges.md`
 - [x] Production build passed with zero errors
+

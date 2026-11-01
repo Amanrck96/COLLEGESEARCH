@@ -28,3 +28,4 @@
 - [x] Purged 4 campus photo leaks (VJTI Mumbai, Saraswati Kharghar, COEP Pune, PIBM Pune)
 - [x] Updated master registry in `reports/verification/all_verified_colleges.json` and `all_verified_colleges.md`
 - [x] Production build passed with zero errors (`dist/index.html` built in 3.27s)
+
