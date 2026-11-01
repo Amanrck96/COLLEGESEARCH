@@ -7873,5 +7873,80 @@
         "website": "https://www.amrita.edu/school/engineering/coimbatore/"
       }
     ]
+  },
+  {
+    "batch": 106,
+    "items": [
+      {
+        "id": 695,
+        "name": "P K Das University (Nehru Group of Institutions, Coimbatore)",
+        "type": "Private",
+        "location": "Nehru Gardens\",Thirumalayampalayam",
+        "website": "https://www.pkdasuniversity.net"
+      },
+      {
+        "id": 696,
+        "name": "Rajalakshmi Engineering College (REC Thandalam, Chennai)",
+        "type": "Private",
+        "location": "Rajalakshmi College of Engineering, Rajalakshmi Nagar",
+        "website": "https://www.rajalakshmi.org"
+      },
+      {
+        "id": 697,
+        "name": "Sathyabama Institute of Science and Technology (Deemed to be University, Chennai)",
+        "type": "Private",
+        "location": "Sathyabama Institute of Science and Technology, Rajiv Gandhi Salai",
+        "website": "https://www.sathyabama.ac.in"
+      },
+      {
+        "id": 698,
+        "name": "Saveetha Institute of Medical and Technical Sciences (SIMATS Deemed University, Chennai)",
+        "type": "Private",
+        "location": "Poonamalle High Road,",
+        "website": "https://www.saveetha.com"
+      },
+      {
+        "id": 699,
+        "name": "Amrita School of Engineering (Amrita Vishwa Vidyapeetham, Coimbatore)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.amrita.edu/school/engineering/coimbatore/"
+      },
+      {
+        "id": 700,
+        "name": "College of Engineering, Guindy, Anna University (CEG Chennai)",
+        "type": "Public/Government",
+        "location": "12, Sardar Patel Road",
+        "website": "https://ceg.annauniv.edu"
+      },
+      {
+        "id": 701,
+        "name": "Vellore Institute of Technology (VIT Deemed University, Vellore)",
+        "type": "Private",
+        "location": "Tiruvalam Rd, Katpadi",
+        "website": "https://www.vit.ac.in"
+      },
+      {
+        "id": 702,
+        "name": "SRM Institute of Science and Technology (SRMIST Kattankulathur Main Campus)",
+        "type": "Private",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.srmist.edu.in"
+      },
+      {
+        "id": 703,
+        "name": "Bharathidasan University (BDU, Tiruchirappalli)",
+        "type": "Public/Government",
+        "location": "Tamil Nadu, India",
+        "website": "https://www.bdu.ac.in"
+      },
+      {
+        "id": 704,
+        "name": "Karunya School of Management (KITS Deemed University, Coimbatore)",
+        "type": "Private",
+        "location": "Karunya Institute of Technology and Sciences, Karunya Nagar",
+        "website": "https://www.karunya.edu/mba"
+      }
+    ]
   }
 ]

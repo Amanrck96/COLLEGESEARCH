@@ -1,0 +1,366 @@
+[
+  {
+    "id": 695,
+    "name": "P K Das University, Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.pkdasuniversity.net/",
+    "phone": "9003012400",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/p-k-das-university-coimbatore-247284",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "name": "Rajalakshmi Engineering College, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.rajalakshmi.org/",
+    "phone": "4467181111",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/rajalakshmi-engineering-college-thandalam-chennai-24039",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "name": "Sathyabama Institute of Science and Technology, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://www.sathyabama.ac.in/sites/default/files/2021-03/DJI_0105-New-Low.jpg",
+    "website": "https://www.sathyabama.ac.in/",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/sathyabama-institute-of-science-and-technology-chennai-23588",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 698,
+    "name": "Saveetha Institute of Medical and Technical Sciences, Poonamallee, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "http://www.saveetha.com/",
+    "phone": "1800123746287 ",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/saveetha-institute-of-medical-and-technical-sciences-poonamallee-chennai-34281",
+    "rawCourses": [
+      {
+        "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+        "division": "Undergraduate",
+        "duration": "5.5 Years",
+        "fees": "₹1.5 Lakhs - ₹15.0 Lakhs",
+        "eligibility": "10+2 with 50% in PCB + NEET UG",
+        "exams": "NEET UG",
+        "intake": "150"
+      },
+      {
+        "title": "MD / MS Postgraduate Degree",
+        "division": "Postgraduate",
+        "duration": "3 Years",
+        "fees": "₹3.5 Lakhs/Year",
+        "eligibility": "MBBS Degree + NEET PG",
+        "exams": "NEET PG",
+        "intake": "40"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "name": "Amrita School of Engineering Coimbatore Amrita School of Engineering Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/amrita-school-of-engineering-coimbatore-364791.webp",
+    "website": "https://www.google.com/search?q=Amrita%20School%20of%20Engineering%20Coimbatore%20Amrita%20School%20of%20Engineering%20Coimbatore%20official%20website%20Tamil%20Tamil%20Nadu",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/amrita-school-of-engineering-amrita-vishwa-vidyapeetham-coimbatore-36898/ranking",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "name": "College of Engineering, Anna University, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "/images/campuses/vjti_mumbai.jpg",
+    "website": "https://ceg.annauniv.edu/",
+    "phone": "04422358491",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/college-of-engineering-anna-university-guindy-chennai-51546/ranking",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 701,
+    "name": "Vellore Institute of Technology (VIT Vellore)",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.vit.ac.in",
+    "phone": "4162243091",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/vit-vellore-29714",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "name": "SRM Institute of Science and Technology SRM Institute of Science and Technology",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://www.srmist.edu.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/srm-institute-of-science-and-technology-kattankulathur-chennai-24749/ranking",
+    "rawCourses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "120"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "division": "Undergraduate",
+        "duration": "4 Years",
+        "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
+        "eligibility": "10+2 with PCM + Entrance Exam",
+        "exams": "JEE Main, State CET",
+        "intake": "60"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹3.2 Lakhs",
+        "eligibility": "B.Tech / B.E. + GATE",
+        "exams": "GATE, State Entrance",
+        "intake": "30"
+      }
+    ]
+  },
+  {
+    "id": 703,
+    "name": "Bharathidasan University, Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.bdu.ac.in/",
+    "phone": "4312407092",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/bharathidasan-university-tiruchirappalli-22026",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 704,
+    "name": "Karunya School of Management, Karunya Institute of Technology and Sciences, Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.karunya.edu/mba",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/karunya-school-of-management-karunya-institute-of-technology-and-sciences-coimbatore-47742",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  }
+]

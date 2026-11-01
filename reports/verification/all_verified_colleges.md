@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1050 / 12,660**  
-**Roadmap Progress**: **105.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1060 / 12,660**  
+**Roadmap Progress**: **106.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1584,4 +1584,19 @@
 | **692** | SRM Dental College (Ramapuram Campus, Chennai) | Private | Tamil Nadu, India | [srmdentalcollege.ac.in](https://srmdentalcollege.ac.in) |
 | **693** | Christian Medical College (CMC Vellore - Bagayam Campus & Chittoor Centre) | Private | Tamil Nadu, India | [www.cmch-vellore.edu](https://www.cmch-vellore.edu) |
 | **694** | Amrita School of Engineering (Amrita Vishwa Vidyapeetham, Ettimadai, Coimbatore) | Private | Tamil Nadu, India | [www.amrita.edu](https://www.amrita.edu/school/engineering/coimbatore/) |
+
+### Batch 106 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **695** | P K Das University (Nehru Group of Institutions, Coimbatore) | Private | Nehru Gardens",Thirumalayampalayam | [www.pkdasuniversity.net](https://www.pkdasuniversity.net) |
+| **696** | Rajalakshmi Engineering College (REC Thandalam, Chennai) | Private | Rajalakshmi College of Engineering, Rajalakshmi Nagar | [www.rajalakshmi.org](https://www.rajalakshmi.org) |
+| **697** | Sathyabama Institute of Science and Technology (Deemed to be University, Chennai) | Private | Sathyabama Institute of Science and Technology, Rajiv Gandhi Salai | [www.sathyabama.ac.in](https://www.sathyabama.ac.in) |
+| **698** | Saveetha Institute of Medical and Technical Sciences (SIMATS Deemed University, Chennai) | Private | Poonamalle High Road, | [www.saveetha.com](https://www.saveetha.com) |
+| **699** | Amrita School of Engineering (Amrita Vishwa Vidyapeetham, Coimbatore) | Private | Tamil Nadu, India | [www.amrita.edu](https://www.amrita.edu/school/engineering/coimbatore/) |
+| **700** | College of Engineering, Guindy, Anna University (CEG Chennai) | Public/Government | 12, Sardar Patel Road | [ceg.annauniv.edu](https://ceg.annauniv.edu) |
+| **701** | Vellore Institute of Technology (VIT Deemed University, Vellore) | Private | Tiruvalam Rd, Katpadi | [www.vit.ac.in](https://www.vit.ac.in) |
+| **702** | SRM Institute of Science and Technology (SRMIST Kattankulathur Main Campus) | Private | Tamil Nadu, India | [www.srmist.edu.in](https://www.srmist.edu.in) |
+| **703** | Bharathidasan University (BDU, Tiruchirappalli) | Public/Government | Tamil Nadu, India | [www.bdu.ac.in](https://www.bdu.ac.in) |
+| **704** | Karunya School of Management (KITS Deemed University, Coimbatore) | Private | Karunya Institute of Technology and Sciences, Karunya Nagar | [www.karunya.edu](https://www.karunya.edu/mba) |
 
