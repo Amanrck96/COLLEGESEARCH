@@ -2409,3 +2409,17 @@
 | 1296 | Government Polytechnic College, Kasaragod | Kasaragod | Kerala | Public/Government | [https://gpckasaragod.ac.in](https://gpckasaragod.ac.in) |
 | 1297 | College of Architecture Trivandrum | Thiruvananthapuram | Kerala | Private | [https://cat.edu.in](https://cat.edu.in) |
 | 1298 | Government Polytechnic College, Palakkad | Palakkad | Kerala | Public/Government | [https://gptcpalakkad.ac.in](https://gptcpalakkad.ac.in) |
+
+### Batch 161 (Colleges 1,601–1,610) — Punjab Higher Education Institutions
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1301 | Guru Nanak Girls College, Ludhiana | Ludhiana | Punjab | Private | [https://www.gngc.ac.in](https://www.gngc.ac.in) |
+| 1302 | Department of Computer Science, Punjabi University | Patiala | Punjab | Public/Government | [https://pupdepartments.ac.in](https://pupdepartments.ac.in) |
+| 1303 | DAV Institute of Engineering & Technology, Jalandhar | Jalandhar | Punjab | Private | [https://www.davietjal.org](https://www.davietjal.org) |
+| 1304 | Ganga Degree College, Khanauri, Patiala | Patiala | Punjab | Private | [https://gdc-khanauri.com](https://gdc-khanauri.com) |
+| 1305 | St. Soldier Institute of Pharmacy & Polytechnic | Jalandhar | Punjab | Private | [https://stsoldierinstitutes.com](https://stsoldierinstitutes.com) |
+| 1306 | Swift Technical Campus, Rajpura | Patiala | Punjab | Private | [https://sgoc.ac.in](https://sgoc.ac.in) |
+| 1307 | Goswami Ganesh Dutta Sanatan Dharma College, Kheri Gurna, Banur | Patiala | Punjab | Private | [https://ggdsdkherigurna.ac.in](https://ggdsdkherigurna.ac.in) |
+| 1308 | Hindu College, Amritsar | Amritsar | Punjab | Public/Government | [https://hinducollegeamritsar.ac.in](https://hinducollegeamritsar.ac.in) |
+| 1309 | Punjab Engineering College (Deemed to be University), Chandigarh | Chandigarh | Punjab | Public/Government | [https://pec.ac.in](https://pec.ac.in) |
+| 1310 | Guru Nanak Dev Engineering College, Ludhiana | Ludhiana | Punjab | Public/Government | [https://gndec.ac.in](https://gndec.ac.in) |

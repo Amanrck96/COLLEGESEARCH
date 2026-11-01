@@ -12013,5 +12013,95 @@
     "type": "Public/Government",
     "website": "https://gptcpalakkad.ac.in",
     "verifiedAt": "2026-11-01T18:40:21.659Z"
+  },
+  {
+    "id": 1301,
+    "name": "Guru Nanak Girls College, Ludhiana",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.gngc.ac.in",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1302,
+    "name": "Department of Computer Science, Punjabi University",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://pupdepartments.ac.in",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1303,
+    "name": "DAV Institute of Engineering & Technology, Jalandhar",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.davietjal.org",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1304,
+    "name": "Ganga Degree College, Khanauri, Patiala",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://gdc-khanauri.com",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1305,
+    "name": "St. Soldier Institute of Pharmacy & Polytechnic",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://stsoldierinstitutes.com",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1306,
+    "name": "Swift Technical Campus, Rajpura",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://sgoc.ac.in",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1307,
+    "name": "Goswami Ganesh Dutta Sanatan Dharma College, Kheri Gurna, Banur",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://ggdsdkherigurna.ac.in",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1308,
+    "name": "Hindu College, Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://hinducollegeamritsar.ac.in",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1309,
+    "name": "Punjab Engineering College (Deemed to be University), Chandigarh",
+    "location": "Chandigarh",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://pec.ac.in",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1310,
+    "name": "Guru Nanak Dev Engineering College, Ludhiana",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gndec.ac.in",
+    "verifiedAt": "2026-11-01T18:44:28.539Z"
   }
 ]
