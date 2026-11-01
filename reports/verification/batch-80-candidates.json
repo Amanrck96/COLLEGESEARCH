@@ -1,0 +1,122 @@
+[
+  {
+    "id": 386,
+    "name": "GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF ENGINEERING AND TECHNOLOGY",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.gujarattechnolo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 389,
+    "name": "SAL COLLEGE OF ENGINEERING",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.salinstituteofm.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 391,
+    "name": "GROW MORE FOUNDATION'S GROUP OF INSTITUTIONS",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.yuvamind.com/colleges/images/college/grow-more-foundations-group-of-institution-himmatnagar-campus.webp",
+    "website": "https://www.growmorefoundat.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 392,
+    "name": "VEERAYATAN POLYTECHNIC",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://www.veerayatanpolyt.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 393,
+    "name": "PRIME COLLEGE OF DIPLOMA",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/prime-group-of-institutions-surat-235107.webp",
+    "website": "https://www.primecollegeofd.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 394,
+    "name": "P P SAVANI SCHOOL OF ENGINEERING",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1505125948cvr.png",
+    "website": "https://www.ppsavanischoolo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 397,
+    "name": "CENTER FOR ADVANCED STUDIES IN DESIGN AND RECONFIGURABLE COMPUTING",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+    "website": "https://www.centerforadvanc.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 398,
+    "name": "AAERT AND THE SSB FACULTY OF ARCHITECTURE SARVAJANIK COLLEGE OF ENGINEERING AN TECHNOLOGY SURAT",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://www.aaertandthessbf.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 399,
+    "name": "DR. V. R. GODHANIA COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+    "website": "https://www.drvrgodhaniacol.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 400,
+    "name": "GMB POLYTECHNIC - RAJULA",
+    "state": "Gujarat",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.gmbpolytechnicr.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

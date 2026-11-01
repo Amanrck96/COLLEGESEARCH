@@ -5923,5 +5923,80 @@
         "website": "https://www.charusat.ac.in/depstar"
       }
     ]
+  },
+  {
+    "batch": 80,
+    "items": [
+      {
+        "id": 386,
+        "name": "Graduate School of Engineering and Technology, GTU (GTU-GSET Ahmedabad)",
+        "type": "Public/Government",
+        "location": "CHANDKHEDA, AHMEDABAD",
+        "website": "https://set.gtu.ac.in"
+      },
+      {
+        "id": 389,
+        "name": "SAL College of Engineering (SAL Education Campus, Ahmedabad)",
+        "type": "Private",
+        "location": "SOLA KALOL ROAD,NR. BHADAJ VILLAGE",
+        "website": "https://sal.edu.in"
+      },
+      {
+        "id": 391,
+        "name": "Grow More Foundation's Group of Institutions (Himatnagar, Sabarkantha)",
+        "type": "Private",
+        "location": "AHMEDABAD -UDAIPUR HIGHWAY HIMATNAGAR DIST- SABARKANTHA",
+        "website": "https://growmore.ac.in"
+      },
+      {
+        "id": 392,
+        "name": "Veerayatan Institute of Pharmacy and Polytechnic (Mandvi, Kutch)",
+        "type": "Private",
+        "location": "TALUKA MANDVI,",
+        "website": "https://veerayataninstitutes.org"
+      },
+      {
+        "id": 393,
+        "name": "Prime College of Diploma (Mangrol, Navsari)",
+        "type": "Private",
+        "location": "TA. JALALPORE, DIST. NAVSARI.",
+        "website": "http://primeiet.in"
+      },
+      {
+        "id": 394,
+        "name": "P. P. Savani School of Engineering (P. P. Savani University, Surat)",
+        "type": "Private",
+        "location": "TA.: MANGROL, DIST.: SURAT - 394125.",
+        "website": "https://www.ppsu.ac.in"
+      },
+      {
+        "id": 397,
+        "name": "Center for Advanced Studies in Design and Reconfigurable Computing (CASDRC CHARUSAT, Anand)",
+        "type": "Private",
+        "location": "VADODARA-390001 GUJARAT, INDIA",
+        "website": "https://www.charusat.ac.in"
+      },
+      {
+        "id": 398,
+        "name": "AAERT & SSB Faculty of Architecture, SCET (Sarvajanik University, Surat)",
+        "type": "Private",
+        "location": "ATHWALINES, SURAT",
+        "website": "https://scetarch.ac.in"
+      },
+      {
+        "id": 399,
+        "name": "Dr. V. R. Godhania College of Engineering and Technology (DRVRGCET Porbandar)",
+        "type": "Private",
+        "location": "OPP. NEW AIR PORT,' RAJKOT PORBANDAR NATIONAL HIGHWAY",
+        "website": "https://www.drvrgcet.ac.in"
+      },
+      {
+        "id": 400,
+        "name": "Gujarat Maritime Board Polytechnic (GMB Polytechnic Rajula, Amreli)",
+        "type": "Public/Government",
+        "location": "NEAR MODEL HIGH SCHOOL -RAJULA PINCODE-365560 DISTRICT;- AMRELI ,STATE ;- GUJARAT",
+        "website": "https://gmbpolytechnic.ac.in"
+      }
+    ]
   }
 ]

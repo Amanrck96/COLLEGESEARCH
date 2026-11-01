@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **790 / 12,660**  
-**Roadmap Progress**: **79.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **800 / 12,660**  
+**Roadmap Progress**: **80.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1194,4 +1194,19 @@
 | **380** | Patel Group of Institutions (PGI Rampura, Kadi, Mehsana) | Private | VILLAGE-MOTI DAU,TAL-DIST-MEHSANA MEHSANA UNJHA HIGHWAY ROAD | [patelgroupe.edu.in](https://patelgroupe.edu.in) |
 | **381** | Dharmsinh Desai University (DDU Nadiad) | Public/Government | COLLEGE ROAD | [www.ddu.ac.in](https://www.ddu.ac.in) |
 | **384** | Devang Patel Institute of Advance Technology and Research (DEPSTAR CHARUSAT, Anand) | Private | OFF. NADIAD-PETLAD HIGHWAY, GUJARAT-388421 | [www.charusat.ac.in](https://www.charusat.ac.in/depstar) |
+
+### Batch 80 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **386** | Graduate School of Engineering and Technology, GTU (GTU-GSET Ahmedabad) | Public/Government | CHANDKHEDA, AHMEDABAD | [set.gtu.ac.in](https://set.gtu.ac.in) |
+| **389** | SAL College of Engineering (SAL Education Campus, Ahmedabad) | Private | SOLA KALOL ROAD,NR. BHADAJ VILLAGE | [sal.edu.in](https://sal.edu.in) |
+| **391** | Grow More Foundation's Group of Institutions (Himatnagar, Sabarkantha) | Private | AHMEDABAD -UDAIPUR HIGHWAY HIMATNAGAR DIST- SABARKANTHA | [growmore.ac.in](https://growmore.ac.in) |
+| **392** | Veerayatan Institute of Pharmacy and Polytechnic (Mandvi, Kutch) | Private | TALUKA MANDVI, | [veerayataninstitutes.org](https://veerayataninstitutes.org) |
+| **393** | Prime College of Diploma (Mangrol, Navsari) | Private | TA. JALALPORE, DIST. NAVSARI. | [primeiet.in](http://primeiet.in) |
+| **394** | P. P. Savani School of Engineering (P. P. Savani University, Surat) | Private | TA.: MANGROL, DIST.: SURAT - 394125. | [www.ppsu.ac.in](https://www.ppsu.ac.in) |
+| **397** | Center for Advanced Studies in Design and Reconfigurable Computing (CASDRC CHARUSAT, Anand) | Private | VADODARA-390001 GUJARAT, INDIA | [www.charusat.ac.in](https://www.charusat.ac.in) |
+| **398** | AAERT & SSB Faculty of Architecture, SCET (Sarvajanik University, Surat) | Private | ATHWALINES, SURAT | [scetarch.ac.in](https://scetarch.ac.in) |
+| **399** | Dr. V. R. Godhania College of Engineering and Technology (DRVRGCET Porbandar) | Private | OPP. NEW AIR PORT,' RAJKOT PORBANDAR NATIONAL HIGHWAY | [www.drvrgcet.ac.in](https://www.drvrgcet.ac.in) |
+| **400** | Gujarat Maritime Board Polytechnic (GMB Polytechnic Rajula, Amreli) | Public/Government | NEAR MODEL HIGH SCHOOL -RAJULA PINCODE-365560 DISTRICT;- AMRELI ,STATE ;- GUJARAT | [gmbpolytechnic.ac.in](https://gmbpolytechnic.ac.in) |
 

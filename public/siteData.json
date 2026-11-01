@@ -33205,16 +33205,16 @@
     },
     {
       "id": 386,
-      "name": "GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF ENGINEERING AND TECHNOLOGY",
+      "name": "Graduate School of Engineering and Technology, GTU (GTU-GSET Ahmedabad)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
       "address": "SABARMATI-KOBA HIGHWAY, NR. VISAT CIRCLE, CHANDKHEDA, AHMEDABAD",
-      "phone": "0123-456789",
-      "website": "https://www.gujarattechnolo.edu.in",
-      "rating": 4.5,
+      "phone": "079-23267500",
+      "website": "https://set.gtu.ac.in",
+      "rating": 4.4,
       "reviews": 287,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GUJARAT TECHNOLOGICAL UNIVERSITY SCHOOL OF ENGINEERING AND TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 7,
       "facebook": "#",
@@ -33232,12 +33232,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER ENGINEERING (CYBER SECURITY)",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "title": "M.Tech in Cyber Security",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "B.Tech in CSE/IT/ECE + GATE / PGCET Gujarat",
+          "exams": "GATE, PGCET",
+          "intake": "30"
+        },
+        {
+          "title": "M.Tech in Internet of Things (IoT)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "B.Tech in CSE/IT/ECE/EE + GATE / PGCET",
+          "exams": "GATE, PGCET",
+          "intake": "30"
+        },
+        {
+          "title": "M.Tech in Artificial Intelligence & Data Science",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "B.Tech in relevant branch + GATE / PGCET",
+          "exams": "GATE, PGCET",
+          "intake": "30"
+        },
+        {
+          "title": "Post Graduate Diploma in Data Science",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹25,000 Total",
+          "eligibility": "Graduation in Engineering / Science / Math",
+          "exams": "Merit",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -33255,7 +33283,9 @@
       ],
       "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GUJARAT%20TECHNOLOGICAL%20UNIVERSITY%20SCHOOL%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20AHMEDABAD%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GUJARAT%20TECHNOLOGICAL%20UNIVERSITY%20SCHOOL%20OF%20ENGINEERING%20AND%20TECHNOLOGY%20AHMEDABAD%20Gujarat",
+      "city": "Ahmedabad",
+      "established": 2017
     },
     {
       "id": 387,
@@ -33369,14 +33399,14 @@
     },
     {
       "id": 389,
-      "name": "SAL COLLEGE OF ENGINEERING",
+      "name": "SAL College of Engineering (SAL Education Campus, Ahmedabad)",
       "shortName": "Course Institute-1",
       "location": "AHMEDABAD",
       "state": "Gujarat",
       "address": "OPP. SCIENCE CITY, SOLA KALOL ROAD,NR. BHADAJ VILLAGE",
-      "phone": "0123-456789",
-      "website": "https://www.salinstituteofm.edu.in",
-      "rating": 4.5,
+      "phone": "079-67129000",
+      "website": "https://sal.edu.in",
+      "rating": 4.1,
       "reviews": 436,
       "type": "Private",
       "about": "Welcome to SAL INSTITUTE OF MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -33396,20 +33426,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MMS",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "MANAGEMENT",
-          "intake": 180
+          "fees": "₹78,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "120"
         },
         {
-          "title": "MECHATRONICS",
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹78,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Chemical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹78,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical / Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹78,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -33425,10 +33475,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SAL%20COLLEGE%20OF%20ENGINEERING%20AHMEDABAD%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Ahmedabad",
+      "established": 2012
     },
     {
       "id": 390,
@@ -33489,14 +33541,14 @@
     },
     {
       "id": 391,
-      "name": "GROW MORE FOUNDATION'S GROUP OF INSTITUTIONS",
+      "name": "Grow More Foundation's Group of Institutions (Himatnagar, Sabarkantha)",
       "shortName": "Course Institute-1",
       "location": "SABARKANTHA",
       "state": "Gujarat",
       "address": "AHMEDABAD -UDAIPUR HIGHWAY HIMATNAGAR DIST- SABARKANTHA",
-      "phone": "0123-456789",
-      "website": "https://www.growmorefoundat.edu.in",
-      "rating": 4.5,
+      "phone": "02772-225501",
+      "website": "https://growmore.ac.in",
+      "rating": 4,
       "reviews": 400,
       "type": "Private",
       "about": "Welcome to GROW MORE FOUNDATION'S GROUP OF INSTITUTIONS, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -33516,12 +33568,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MASTERS IN COMPUTER APPLICATIONS",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 120
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Electrical / Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹63,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -33539,18 +33619,20 @@
       ],
       "image": "https://www.yuvamind.com/colleges/images/college/grow-more-foundations-group-of-institution-himmatnagar-campus.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GROW%20MORE%20FOUNDATION'S%20GROUP%20OF%20INSTITUTIONS%20SABARKANTHA%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GROW%20MORE%20FOUNDATION'S%20GROUP%20OF%20INSTITUTIONS%20SABARKANTHA%20Gujarat",
+      "city": "Sabarkantha",
+      "established": 2008
     },
     {
       "id": 392,
-      "name": "VEERAYATAN POLYTECHNIC",
+      "name": "Veerayatan Institute of Pharmacy and Polytechnic (Mandvi, Kutch)",
       "shortName": "Course Institute-1",
       "location": "KUTCH",
       "state": "Gujarat",
       "address": "HARIPAR, MOTA ASAMBIA, BHUJ-MANDVI ROAD, TALUKA MANDVI,",
-      "phone": "0123-456789",
-      "website": "https://www.veerayatanpolyt.edu.in",
-      "rating": 4.5,
+      "phone": "02834-275241",
+      "website": "https://veerayataninstitutes.org",
+      "rating": 4.1,
       "reviews": 265,
       "type": "Private",
       "about": "Welcome to VEERAYATAN POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -33570,12 +33652,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "ELECTRICAL ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -33591,21 +33701,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/atharva_complex_malad.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=VEERAYATAN%20POLYTECHNIC%20KUTCH%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Kutch",
+      "established": 2006
     },
     {
       "id": 393,
-      "name": "PRIME COLLEGE OF DIPLOMA",
+      "name": "Prime College of Diploma (Mangrol, Navsari)",
       "shortName": "Course Institute-1",
       "location": "NAVSARI",
       "state": "Gujarat",
       "address": "278, VILL. MANGROL,MAROLI-UBHRAT ROAD, TA. JALALPORE, DIST. NAVSARI.",
-      "phone": "0123-456789",
-      "website": "https://www.primecollegeofd.edu.in",
-      "rating": 4.5,
+      "phone": "02637-234200",
+      "website": "http://primeiet.in",
+      "rating": 3.9,
       "reviews": 201,
       "type": "Private",
       "about": "Welcome to PRIME COLLEGE OF DIPLOMA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -33625,12 +33737,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Chemical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -33648,18 +33788,20 @@
       ],
       "image": "https://www.collegebatch.com/static/clg-gallery/prime-group-of-institutions-surat-235107.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRIME%20COLLEGE%20OF%20DIPLOMA%20NAVSARI%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=PRIME%20COLLEGE%20OF%20DIPLOMA%20NAVSARI%20Gujarat",
+      "city": "Navsari",
+      "established": 2015
     },
     {
       "id": 394,
-      "name": "P P SAVANI SCHOOL OF ENGINEERING",
+      "name": "P. P. Savani School of Engineering (P. P. Savani University, Surat)",
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
       "address": "P P SAVANI KNOWLEDGE CITY CAMPUS,NH 8, GETCO, NEAR BILTECH COMPANY, VILLAGE: DHAMDOD, KOSAMBA, TA.: MANGROL, DIST.: SURAT - 394125.",
-      "phone": "0123-456789",
-      "website": "https://www.ppsavanischoolo.edu.in",
-      "rating": 4.5,
+      "phone": "0261-7100100",
+      "website": "https://www.ppsu.ac.in",
+      "rating": 4.3,
       "reviews": 472,
       "type": "Private",
       "about": "Welcome to P P SAVANI SCHOOL OF ENGINEERING, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -33679,12 +33821,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+          "exams": "GUJCET, JEE Main",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+          "exams": "GUJCET, JEE Main",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Chemical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+          "exams": "GUJCET, JEE Main",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil / Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹90,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / JEE Main",
+          "exams": "GUJCET, JEE Main",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -33702,7 +33872,9 @@
       ],
       "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1505125948cvr.png",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=P%20P%20SAVANI%20SCHOOL%20OF%20ENGINEERING%20SURAT%20Gujarat"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=P%20P%20SAVANI%20SCHOOL%20OF%20ENGINEERING%20SURAT%20Gujarat",
+      "city": "Surat",
+      "established": 2016
     },
     {
       "id": 395,
@@ -33818,14 +33990,14 @@
     },
     {
       "id": 397,
-      "name": "CENTER FOR ADVANCED STUDIES IN DESIGN AND RECONFIGURABLE COMPUTING",
+      "name": "Center for Advanced Studies in Design and Reconfigurable Computing (CASDRC CHARUSAT, Anand)",
       "shortName": "Course Institute-1",
       "location": "VADODARA",
       "state": "Gujarat",
       "address": "C/O DEAN, FACULTY OF TECHNOLOGY AND ENGINEERING, THE MAHARAJA SAYAJIRAO UNIVERSITY OF BARODA, VADODARA-390001 GUJARAT, INDIA",
-      "phone": "0123-456789",
-      "website": "https://www.centerforadvanc.edu.in",
-      "rating": 4.5,
+      "phone": "02697-265011",
+      "website": "https://www.charusat.ac.in",
+      "rating": 4.4,
       "reviews": 519,
       "type": "Private",
       "about": "Welcome to CENTER FOR ADVANCED STUDIES IN DESIGN AND RECONFIGURABLE COMPUTING, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -33845,12 +34017,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "TEXTILE PROCESSING",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "title": "M.Tech in VLSI & Embedded Systems",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "B.Tech in ECE/EEE/CSE + GATE / PGCET Gujarat",
+          "exams": "GATE, PGCET",
+          "intake": "18"
+        },
+        {
+          "title": "Post Graduate Diploma in VLSI Design",
+          "division": "Diploma",
+          "duration": "1 Year",
+          "fees": "₹60,000 Total",
+          "eligibility": "B.Tech / B.E. in relevant engineering",
+          "exams": "Merit",
+          "intake": "30"
+        },
+        {
+          "title": "Certificate in Embedded Systems & FPGA",
+          "division": "Certificate",
+          "duration": "6 Months",
+          "fees": "₹30,000 Total",
+          "eligibility": "Diploma / Degree in Engineering",
+          "exams": "Direct Admission",
+          "intake": "30"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -33866,21 +34057,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTER%20FOR%20ADVANCED%20STUDIES%20IN%20DESIGN%20AND%20RECONFIGURABLE%20COMPUTING%20VADODARA%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Anand",
+      "established": 2015
     },
     {
       "id": 398,
-      "name": "AAERT AND THE SSB FACULTY OF ARCHITECTURE SARVAJANIK COLLEGE OF ENGINEERING AN TECHNOLOGY SURAT",
+      "name": "AAERT & SSB Faculty of Architecture, SCET (Sarvajanik University, Surat)",
       "shortName": "Course Institute-1",
       "location": "SURAT",
       "state": "Gujarat",
       "address": "DR. R. K. DESAI MARG, OPP. MISSION HOSPITAL, ATHWALINES, SURAT",
-      "phone": "0123-456789",
-      "website": "https://www.aaertandthessbf.edu.in",
-      "rating": 4.5,
+      "phone": "0261-2240146",
+      "website": "https://scetarch.ac.in",
+      "rating": 4.4,
       "reviews": 331,
       "type": "Private",
       "about": "Welcome to AAERT AND THE SSB FACULTY OF ARCHITECTURE SARVAJANIK COLLEGE OF ENGINEERING AN TECHNOLOGY SURAT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -33900,12 +34093,22 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "URBAN DESIGN",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "PLANNING",
-          "intake": 20
+          "title": "Bachelor of Architecture (B.Arch)",
+          "division": "Undergraduate",
+          "duration": "5 Years",
+          "fees": "₹1,25,000/Year",
+          "eligibility": "10+2 with PCM (50%+) + NATA / ACPC Gujarat",
+          "exams": "NATA, ACPC",
+          "intake": "80"
+        },
+        {
+          "title": "Master of Urban Planning (M.Plan)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,10,000/Year",
+          "eligibility": "B.Arch / B.Plan / B.Tech Civil + GATE / PGCET",
+          "exams": "GATE, PGCET",
+          "intake": "20"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -33921,21 +34124,23 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/atharva_complex_malad.jpg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=AAERT%20AND%20THE%20SSB%20FACULTY%20OF%20ARCHITECTURE%20SARVAJANIK%20COLLEGE%20OF%20ENGINEERING%20AN%20TECHNOLOGY%20SURAT%20SURAT%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Surat",
+      "established": 1995
     },
     {
       "id": 399,
-      "name": "DR. V. R. GODHANIA COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "name": "Dr. V. R. Godhania College of Engineering and Technology (DRVRGCET Porbandar)",
       "shortName": "Course Institute-1",
       "location": "PORBANDAR",
       "state": "Gujarat",
       "address": "BEHIND AMAR PLYFILLS FACTORY, OPP. NEW AIR PORT,' RAJKOT PORBANDAR NATIONAL HIGHWAY",
-      "phone": "0123-456789",
-      "website": "https://www.drvrgodhaniacol.edu.in",
-      "rating": 4.5,
+      "phone": "0286-2247656",
+      "website": "https://www.drvrgcet.ac.in",
+      "rating": 4.1,
       "reviews": 390,
       "type": "Private",
       "about": "Welcome to DR. V. R. GODHANIA COLLEGE OF ENGINEERING & TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -33955,12 +34160,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
+          "title": "B.Tech in Computer Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 30
+          "fees": "₹64,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC Gujarat",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹64,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹64,000/Year",
+          "eligibility": "10+2 with PCM + GUJCET / ACPC",
+          "exams": "GUJCET, ACPC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Engineering (Polytechnic)",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹36,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -33976,23 +34209,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
+      "image": "",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20V.%20R.%20GODHANIA%20COLLEGE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20PORBANDAR%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Porbandar",
+      "established": 2017
     },
     {
       "id": 400,
-      "name": "GMB POLYTECHNIC - RAJULA",
+      "name": "Gujarat Maritime Board Polytechnic (GMB Polytechnic Rajula, Amreli)",
       "shortName": "Course Institute-1",
       "location": "AMRELI",
       "state": "Gujarat",
       "address": "AT:- VILLEGE CHHATADIYA TALUKO:- RAJULA ,NEAR MODEL HIGH SCHOOL -RAJULA PINCODE-365560 DISTRICT;- AMRELI ,STATE ;- GUJARAT",
-      "phone": "0123-456789",
-      "website": "https://www.gmbpolytechnicr.edu.in",
-      "rating": 4.5,
+      "phone": "02794-222060",
+      "website": "https://gmbpolytechnic.ac.in",
+      "rating": 4.3,
       "reviews": 78,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to GMB POLYTECHNIC - RAJULA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 20,
       "facebook": "#",
@@ -34010,12 +34245,40 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
+          "title": "Diploma in Marine Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹25,000/Year",
+          "eligibility": "10th Standard Pass with Science & Math + ACPDC Gujarat",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹25,000/Year",
+          "eligibility": "10th Standard Pass + ACPDC",
+          "exams": "ACPDC",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -34034,7 +34297,9 @@
       "image": "/images/campuses/campus_architecture_5.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GMB%20POLYTECHNIC%20-%20RAJULA%20AMRELI%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_patna.png"
+      "imageUrl": "/images/campuses/campus_iit_patna.png",
+      "city": "Amreli",
+      "established": 2015
     },
     {
       "id": 401,
