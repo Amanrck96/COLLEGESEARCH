@@ -1,0 +1,112 @@
+[
+  {
+    "id": 235,
+    "name": "Hansraj College, University of Delhi",
+    "state": "Maharashtra",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.du.ac.in",
+    "phone": "01127667747",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 236,
+    "name": "Loyola College, Chennai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2023/January/3112023/Loyola-College-Chennai-Campus-View-1.jpg",
+    "website": "https://www.loyolacollegech.edu.in",
+    "phone": "04428178303",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 238,
+    "name": "SYMBIOSIS INSTITUTE OF TECHNOLOGY",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/symbiosis-institute-of-technology-pune-365684.webp",
+    "website": "https://www.symbiosisinstit.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 239,
+    "name": "ST. FRANCIS DE SALES COLLEGE",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/svkm_upg_vileparle.jpg",
+    "website": "https://www.stfrancisdesale.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 240,
+    "name": "SIES COLLEGE OF ARTS SCIENCE AND COMMERCE",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.siescollegeofar.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 241,
+    "name": "MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://assets.collegedunia.com/public/image/GECA_2_32d07fd41fecfc626df56d0f120a8cb3.png",
+    "website": "https://www.moderncollegeof.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 242,
+    "name": "ST WILFREDS COLLEGE OF ARTS COMMERCE AND SCIENCE",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/st-wilfreds-college-of-arts-commerce-science-thane-308305.webp",
+    "website": "https://www.stwilfredscolle.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 243,
+    "name": "INSTITUTE OF TECHNOLOGY AND MANAGEMENT NANDED",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/weschool_matunga_mumbai.jpeg",
+    "website": "https://www.instituteoftech.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 244,
+    "name": "ART SCIENCE AND COMMERCE COLLEGE AMBAD",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.artscienceandco.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 246,
+    "name": "MKD INSTITUTE OF TECHNOLOGY",
+    "state": "Maharashtra",
+    "type": "Private",
+    "image": "https://mkdit.edu.in/assets/img/campus.jpg",
+    "website": "https://www.mkdinstituteoft.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **660 / 12,660**  
-**Roadmap Progress**: **66.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **670 / 12,660**  
+**Roadmap Progress**: **67.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -999,4 +999,19 @@
 | **231** | Maya Academy of Advanced Creativity, Pune (MAAC Pune) | Private | Opposite Aurora Towers, Camp | [www.maacindia.com](https://www.maacindia.com/) |
 | **232** | NMIMS School of Business Management, Mumbai (SBM NMIMS) | Deemed | Mumbai, Maharashtra 400056 | [sbm.nmims.edu](https://sbm.nmims.edu/) |
 | **234** | Fergusson College (Autonomous), Pune | Public | Fergusson College, F.C. Road | [www.fergusson.edu](https://www.fergusson.edu) |
+
+### Batch 67 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **235** | Hansraj College, University of Delhi | Public/Government | Mahatma Hans Raj Marg, Malkaganj. | [www.hansrajcollege.ac.in](https://www.hansrajcollege.ac.in/) |
+| **236** | Loyola College (Autonomous), Chennai | Private | Sterling Road, Nungambakkam | [www.loyolacollege.edu](https://www.loyolacollege.edu/) |
+| **238** | Symbiosis Institute of Technology, Nagpur (SIT Nagpur) | Deemed | VILLAGE LAVALE/NANDE , DIST .PUNE-411042 | [sitnagpur.edu.in](https://sitnagpur.edu.in/) |
+| **239** | St. Francis De Sales College, Nagpur (SFS College) | Private | SEMINARY HILLS, NEAR BALODYAN | [sfscollege.edu.in](https://sfscollege.edu.in/) |
+| **240** | SIES College of Arts, Science and Commerce, Sion, Mumbai | Private | 85, 106 & 107 SION WEST | [siesascs.edu.in](https://siesascs.edu.in/) |
+| **241** | PES Modern College of Computer Science and IT, Nigdi, Pune | Private | SAHJIVAN COLONY SAMARTH NAGAR SAVKRAR CHOWK AURANGABAD | [pesmoderncollege.edu.in](https://pesmoderncollege.edu.in/) |
+| **242** | St. Wilfreds College of Arts, Commerce and Science, Panvel | Private | NEAR MBMC PARK, MIRA ROAD EAST | [stwilfreds.com](https://stwilfreds.com/mumbai/) |
+| **243** | MGMs College of Computer Science and IT, Nanded | Private | MAHARASHTRA, 431602 | [mgmcsit.org](https://mgmcsit.org/) |
+| **244** | MSS Arts, Science and Commerce College, Ambad, Jalna | Private | AT.AMBAD TAL.AMBAD DIST.JALNA | [mssambad.org](https://mssambad.org/) |
+| **246** | MKD Institute of Technology, Nadgaon, Jalgaon | Private | WAGHALE PHATA, VIRCHAK | [mkdit.edu.in](https://mkdit.edu.in/) |
 

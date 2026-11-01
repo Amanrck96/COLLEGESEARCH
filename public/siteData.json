@@ -20338,13 +20338,13 @@
       "name": "Hansraj College, University of Delhi",
       "shortName": "HCUOD",
       "location": "Maharashtra",
-      "state": "Maharashtra",
+      "state": "Delhi NCR",
       "country": "India",
       "address": "Hansraj College, Mahatma Hans Raj Marg, Malkaganj.",
-      "phone": "01127667747",
+      "phone": "011-27667747",
       "email": "principal_hrc@yahoo.com",
-      "website": "https://www.du.ac.in",
-      "rating": 4.5,
+      "website": "https://www.hansrajcollege.ac.in/",
+      "rating": 4.8,
       "reviews": 386,
       "type": "Public/Government",
       "ownership": "Private",
@@ -20366,22 +20366,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "title": "B.Sc (Hons) in Computer Science / Mathematics / Physics",
+          "division": "Undergraduate",
+          "duration": "3-4 Years",
+          "fees": "₹24,000/Year",
+          "eligibility": "10+2 with PCM + CUET UG",
+          "exams": "CUET UG",
+          "intake": "300"
         },
         {
-          "title": "Executive MBA",
+          "title": "Bachelor of Commerce (B.Com Honours)",
+          "division": "Undergraduate",
+          "duration": "3-4 Years",
+          "fees": "₹22,000/Year",
+          "eligibility": "10+2 with Mathematics/Accountancy + CUET UG (99+ %ile)",
+          "exams": "CUET UG",
+          "intake": "260"
+        },
+        {
+          "title": "B.A. (Hons) in Economics / English / History",
+          "division": "Undergraduate",
+          "duration": "3-4 Years",
+          "fees": "₹20,000/Year",
+          "eligibility": "10+2 in any stream + CUET UG",
+          "exams": "CUET UG",
+          "intake": "240"
+        },
+        {
+          "title": "Master of Science (M.Sc) / Master of Arts (M.A.)",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "duration": "2 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "Graduation in relevant discipline + CUET PG",
+          "exams": "CUET PG",
+          "intake": "150"
         }
       ],
       "highestPackage": "₹23 LPA",
@@ -20412,20 +20430,22 @@
       "id": 235,
       "reviewsCount": 386,
       "image": "/images/campuses/campus_architecture_2.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hansraj%20College%2C%20University%20of%20Delhi%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hansraj%20College%2C%20University%20of%20Delhi%20Maharashtra%20Maharashtra",
+      "city": "New Delhi",
+      "established": 1948
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/loyola-college-nungambakkam-chennai-1108",
-      "name": "Loyola College, Chennai",
+      "name": "Loyola College (Autonomous), Chennai",
       "shortName": "LCC",
       "location": "Maharashtra",
-      "state": "Maharashtra",
+      "state": "Tamil Nadu",
       "country": "India",
       "address": "Loyola College, PB 3301, Sterling Road, Nungambakkam",
-      "phone": "04428178303",
+      "phone": "044-28178303",
       "email": "helpdesk@loyolacollege.edu",
-      "website": "https://www.loyolacollegech.edu.in",
-      "rating": 4.5,
+      "website": "https://www.loyolacollege.edu/",
+      "rating": 4.9,
       "reviews": 435,
       "type": "Private",
       "ownership": "Private",
@@ -20447,21 +20467,39 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "title": "Bachelor of Commerce (B.Com - General / Corporate)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹48,000/Year",
+          "eligibility": "10+2 with Commerce & Accountancy Merit",
+          "exams": "Merit",
+          "intake": "400"
         },
         {
-          "title": "Executive MBA",
+          "title": "B.Sc in Visual Communication / Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with Mathematics/Science + Aptitude Test",
+          "exams": "Merit + Aptitude",
+          "intake": "280"
+        },
+        {
+          "title": "B.A. in Economics / English Literature / Sociology",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 in any stream Merit",
+          "exams": "Merit",
+          "intake": "260"
+        },
+        {
+          "title": "M.Sc in Data Science / Biotechnology",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "B.Sc in relevant subject + Entrance",
+          "exams": "Loyola Entrance",
           "intake": "60"
         }
       ],
@@ -20495,7 +20533,9 @@
       "id": 236,
       "reviewsCount": 435,
       "image": "https://img.jagranjosh.com/images/2023/January/3112023/Loyola-College-Chennai-Campus-View-1.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Loyola%20College%2C%20Chennai%20Maharashtra%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Loyola%20College%2C%20Chennai%20Maharashtra%20Maharashtra",
+      "city": "Chennai",
+      "established": 1925
     },
     {
       "id": 237,
@@ -20559,16 +20599,16 @@
     },
     {
       "id": 238,
-      "name": "SYMBIOSIS INSTITUTE OF TECHNOLOGY",
+      "name": "Symbiosis Institute of Technology, Nagpur (SIT Nagpur)",
       "shortName": "Course Institute-1",
       "location": "PUNE",
       "state": "Maharashtra",
       "address": "SYMBIOSIS KNOWLEDGE VILLAGE PROJECT ,TAL MULSHI ,VILLAGE LAVALE/NANDE , DIST .PUNE-411042",
-      "phone": "0123-456789",
-      "website": "https://www.symbiosisinstit.edu.in",
-      "rating": 4.5,
+      "phone": "0712-6192400",
+      "website": "https://sitnagpur.edu.in/",
+      "rating": 4.4,
       "reviews": 615,
-      "type": "Private",
+      "type": "Deemed",
       "about": "Welcome to SYMBIOSIS INSTITUTE OF TECHNOLOGY, a premier institute located in PUNE. We offer world-class education and facilities for our students.",
       "ranking": 74,
       "facebook": "#",
@@ -20585,13 +20625,31 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹2,80,000/Year",
+          "eligibility": "10+2 with PCM + SITEEE / JEE Main / MHT CET",
+          "exams": "SITEEE, JEE Main, MHT CET",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in Computer Science (Artificial Intelligence & ML)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,80,000/Year",
+          "eligibility": "10+2 with PCM + SITEEE / JEE Main",
+          "exams": "SITEEE, JEE Main",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Civil / Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹2,20,000/Year",
+          "eligibility": "10+2 with PCM + SITEEE / JEE Main",
+          "exams": "SITEEE, JEE Main",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -20613,18 +20671,20 @@
       "reviewsCount": 615,
       "image": "https://www.collegebatch.com/static/clg-gallery/symbiosis-institute-of-technology-pune-365684.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SYMBIOSIS%20INSTITUTE%20OF%20TECHNOLOGY%20PUNE%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SYMBIOSIS%20INSTITUTE%20OF%20TECHNOLOGY%20PUNE%20Maharashtra",
+      "city": "Nagpur",
+      "established": 2021
     },
     {
       "id": 239,
-      "name": "ST. FRANCIS DE SALES COLLEGE",
+      "name": "St. Francis De Sales College, Nagpur (SFS College)",
       "shortName": "Course Institute-1",
       "location": "NAGPUR",
       "state": "Maharashtra",
       "address": "SEMINARY HILLS, NEAR BALODYAN",
-      "phone": "0123-456789",
-      "website": "https://www.stfrancisdesale.edu.in",
-      "rating": 4.5,
+      "phone": "0712-2511354",
+      "website": "https://sfscollege.edu.in/",
+      "rating": 4.3,
       "reviews": 476,
       "type": "Private",
       "about": "Welcome to ST. FRANCIS DE SALES COLLEGE, a premier institute located in NAGPUR. We offer world-class education and facilities for our students.",
@@ -20643,13 +20703,31 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 240,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3-4 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10+2 with English and Mathematics",
+          "exams": "Merit",
+          "intake": "240"
+        },
+        {
+          "title": "B.Sc in Computer Science / Biotechnology / Mathematics",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹18,000/Year",
+          "eligibility": "10+2 Science Merit",
+          "exams": "Merit",
+          "intake": "220"
+        },
+        {
+          "title": "B.A. / B.Com Degree Programs",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹12,000/Year",
+          "eligibility": "10+2 in relevant stream",
+          "exams": "Merit",
+          "intake": "320"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -20669,20 +20747,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 476,
-      "image": "/images/campuses/svkm_upg_vileparle.jpg",
+      "image": "",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20FRANCIS%20DE%20SALES%20COLLEGE%20NAGPUR%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20FRANCIS%20DE%20SALES%20COLLEGE%20NAGPUR%20Maharashtra",
+      "city": "Nagpur",
+      "established": 1956
     },
     {
       "id": 240,
-      "name": "SIES COLLEGE OF ARTS SCIENCE AND COMMERCE",
+      "name": "SIES College of Arts, Science and Commerce, Sion, Mumbai",
       "shortName": "Course Institute-1",
       "location": "MUMBAI CITY",
       "state": "Maharashtra",
       "address": "84, 85, 106 & 107 SION WEST",
-      "phone": "0123-456789",
-      "website": "https://www.siescollegeofar.edu.in",
-      "rating": 4.5,
+      "phone": "022-24010051",
+      "website": "https://siesascs.edu.in/",
+      "rating": 4.6,
       "reviews": 1655,
       "type": "Private",
       "about": "Welcome to SIES COLLEGE OF ARTS SCIENCE AND COMMERCE, a premier institute located in MUMBAI CITY. We offer world-class education and facilities for our students.",
@@ -20701,13 +20781,40 @@
       ],
       "courses": [
         {
-          "title": "BMS",
-          "type": "MANAGEMENT",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 180,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Management Studies (BMS)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10+2 Merit / MAH BBA/BMS CET",
+          "exams": "MAH BBA CET, Merit",
+          "intake": "180"
+        },
+        {
+          "title": "B.Sc in Information Technology / Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Mathematics",
+          "exams": "Merit",
+          "intake": "120"
+        },
+        {
+          "title": "B.Com in Accounting & Finance (BAF)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10+2 Commerce Merit",
+          "exams": "Merit",
+          "intake": "180"
+        },
+        {
+          "title": "M.Sc in Information Technology / Organic Chemistry",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹48,000/Year",
+          "eligibility": "B.Sc degree in relevant subject",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -20727,20 +20834,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1655,
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIES%20COLLEGE%20OF%20ARTS%20SCIENCE%20AND%20COMMERCE%20MUMBAI%20CITY%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIES%20COLLEGE%20OF%20ARTS%20SCIENCE%20AND%20COMMERCE%20MUMBAI%20CITY%20Maharashtra",
+      "city": "Mumbai",
+      "established": 1960
     },
     {
       "id": 241,
-      "name": "MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY",
+      "name": "PES Modern College of Computer Science and IT, Nigdi, Pune",
       "shortName": "Course Institute-1",
       "location": "AURANGABAD",
       "state": "Maharashtra",
       "address": "SAHJIVAN COLONY SAMARTH NAGAR SAVKRAR CHOWK AURANGABAD",
-      "phone": "0123-456789",
-      "website": "https://www.moderncollegeof.edu.in",
-      "rating": 4.5,
+      "phone": "020-27650313",
+      "website": "https://pesmoderncollege.edu.in/",
+      "rating": 4.2,
       "reviews": 1565,
       "type": "Private",
       "about": "Welcome to MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY, a premier institute located in AURANGABAD. We offer world-class education and facilities for our students.",
@@ -20759,13 +20868,31 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3-4 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 in any stream with English",
+          "exams": "Merit",
+          "intake": "120"
+        },
+        {
+          "title": "B.Sc in Computer Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹48,000/Year",
+          "eligibility": "10+2 Science with Mathematics",
+          "exams": "Merit",
+          "intake": "80"
+        },
+        {
+          "title": "M.Sc in Computer Science",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "B.Sc (CS) / BCA degree",
+          "exams": "Merit",
+          "intake": "40"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -20785,20 +20912,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1565,
-      "image": "https://assets.collegedunia.com/public/image/GECA_2_32d07fd41fecfc626df56d0f120a8cb3.png",
+      "image": "",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MODERN%20COLLEGE%20OF%20COMPUTER%20SCIENCE%20AND%20INFORMATION%20TECHNOLOGY%20AURANGABAD%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MODERN%20COLLEGE%20OF%20COMPUTER%20SCIENCE%20AND%20INFORMATION%20TECHNOLOGY%20AURANGABAD%20Maharashtra",
+      "city": "Pune",
+      "established": 2006
     },
     {
       "id": 242,
-      "name": "ST WILFREDS COLLEGE OF ARTS COMMERCE AND SCIENCE",
+      "name": "St. Wilfreds College of Arts, Commerce and Science, Panvel",
       "shortName": "Course Institute-1",
       "location": "THANE",
       "state": "Maharashtra",
       "address": "SANGHAVI NAGAR, NEAR MBMC PARK, MIRA ROAD EAST",
-      "phone": "0123-456789",
-      "website": "https://www.stwilfredscolle.edu.in",
-      "rating": 4.5,
+      "phone": "02143-239010",
+      "website": "https://stwilfreds.com/mumbai/",
+      "rating": 4.1,
       "reviews": 632,
       "type": "Private",
       "about": "Welcome to ST WILFREDS COLLEGE OF ARTS COMMERCE AND SCIENCE, a premier institute located in THANE. We offer world-class education and facilities for our students.",
@@ -20817,13 +20946,31 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 180,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3-4 Years",
+          "fees": "₹38,000/Year",
+          "eligibility": "10+2 in any stream with 45%",
+          "exams": "Merit",
+          "intake": "180"
+        },
+        {
+          "title": "Bachelor of Management Studies (BMS)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10+2 Merit",
+          "exams": "Merit",
+          "intake": "120"
+        },
+        {
+          "title": "B.Com in Financial Markets / Banking & Insurance",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 Commerce",
+          "exams": "Merit",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -20845,18 +20992,20 @@
       "reviewsCount": 632,
       "image": "https://www.collegebatch.com/static/clg-gallery/st-wilfreds-college-of-arts-commerce-science-thane-308305.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST%20WILFREDS%20COLLEGE%20OF%20ARTS%20COMMERCE%20AND%20SCIENCE%20THANE%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST%20WILFREDS%20COLLEGE%20OF%20ARTS%20COMMERCE%20AND%20SCIENCE%20THANE%20Maharashtra",
+      "city": "Navi Mumbai",
+      "established": 2011
     },
     {
       "id": 243,
-      "name": "INSTITUTE OF TECHNOLOGY AND MANAGEMENT NANDED",
+      "name": "MGMs College of Computer Science and IT, Nanded",
       "shortName": "Course Institute-1",
       "location": "NANDED",
       "state": "Maharashtra",
       "address": "VIP ROAD NANDED .-431602, NANDED, NANDED, MAHARASHTRA, 431602",
-      "phone": "0123-456789",
-      "website": "https://www.instituteoftech.edu.in",
-      "rating": 4.5,
+      "phone": "02462-222999",
+      "website": "https://mgmcsit.org/",
+      "rating": 4.3,
       "reviews": 1125,
       "type": "Private",
       "about": "Welcome to INSTITUTE OF TECHNOLOGY AND MANAGEMENT NANDED, a premier institute located in NANDED. We offer world-class education and facilities for our students.",
@@ -20875,13 +21024,31 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 320,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3-4 Years",
+          "fees": "₹32,000/Year",
+          "eligibility": "10+2 in any stream with English",
+          "exams": "Merit",
+          "intake": "320"
+        },
+        {
+          "title": "B.Sc in Computer Science / Information Technology",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹28,000/Year",
+          "eligibility": "10+2 Science",
+          "exams": "Merit",
+          "intake": "180"
+        },
+        {
+          "title": "M.Sc in Computer Science",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "B.Sc (CS) / BCA degree",
+          "exams": "Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -20901,20 +21068,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1125,
-      "image": "/images/campuses/weschool_matunga_mumbai.jpeg",
+      "image": "",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20NANDED%20NANDED%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%20NANDED%20NANDED%20Maharashtra",
+      "city": "Nanded",
+      "established": 2000
     },
     {
       "id": 244,
-      "name": "ART SCIENCE AND COMMERCE COLLEGE AMBAD",
+      "name": "MSS Arts, Science and Commerce College, Ambad, Jalna",
       "shortName": "Course Institute-1",
       "location": "JALNA",
       "state": "Maharashtra",
       "address": "AT.AMBAD TAL.AMBAD DIST.JALNA",
-      "phone": "0123-456789",
-      "website": "https://www.artscienceandco.edu.in",
-      "rating": 4.5,
+      "phone": "02483-220038",
+      "website": "https://mssambad.org/",
+      "rating": 4.1,
       "reviews": 493,
       "type": "Private",
       "about": "Welcome to ART SCIENCE AND COMMERCE COLLEGE AMBAD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -20934,12 +21103,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "BCA",
-          "duration": "4 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "COMPUTER APPLICATIONS",
-          "intake": 60
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3-4 Years",
+          "fees": "₹22,000/Year",
+          "eligibility": "10+2 in any stream with 45%",
+          "exams": "Merit",
+          "intake": "60"
+        },
+        {
+          "title": "B.Sc in Chemistry / Botany / Physics / Zoology",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹8,000/Year",
+          "eligibility": "10+2 Science Merit (Subsidized)",
+          "exams": "Merit",
+          "intake": "180"
+        },
+        {
+          "title": "Bachelor of Arts (B.A.) / Bachelor of Commerce (B.Com)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹5,500/Year",
+          "eligibility": "10+2 Merit",
+          "exams": "Merit",
+          "intake": "240"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -20955,9 +21143,11 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ART%20SCIENCE%20AND%20COMMERCE%20COLLEGE%20AMBAD%20JALNA%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ART%20SCIENCE%20AND%20COMMERCE%20COLLEGE%20AMBAD%20JALNA%20Maharashtra",
+      "city": "Jalna",
+      "established": 1972
     },
     {
       "id": 245,
@@ -21016,14 +21206,14 @@
     },
     {
       "id": 246,
-      "name": "MKD INSTITUTE OF TECHNOLOGY",
+      "name": "MKD Institute of Technology, Nadgaon, Jalgaon",
       "shortName": "Course Institute-1",
       "location": "NANDURBAR",
       "state": "Maharashtra",
       "address": "MKD EDUCATIONAL CAMPUS, NAVAPUR ROAD, WAGHALE PHATA, VIRCHAK",
-      "phone": "0123-456789",
-      "website": "https://www.mkdinstituteoft.edu.in",
-      "rating": 4.5,
+      "phone": "0257-2261155",
+      "website": "https://mkdit.edu.in/",
+      "rating": 4,
       "reviews": 529,
       "type": "Private",
       "about": "Welcome to MKD INSTITUTE OF TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
@@ -21043,12 +21233,31 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "COMPUTER ENGINEERING",
+          "title": "Diploma in Computer Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "intake": 60
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard with 35% Science & Mathematics",
+          "exams": "CAP / Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard with Science & Math",
+          "exams": "CAP / Merit",
+          "intake": "60"
+        },
+        {
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10th Standard with Science & Math",
+          "exams": "CAP / Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -21066,7 +21275,9 @@
       ],
       "image": "https://mkdit.edu.in/assets/img/campus.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MKD%20INSTITUTE%20OF%20TECHNOLOGY%20NANDURBAR%20Maharashtra"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MKD%20INSTITUTE%20OF%20TECHNOLOGY%20NANDURBAR%20Maharashtra",
+      "city": "Jalgaon",
+      "established": 2010
     },
     {
       "id": 247,

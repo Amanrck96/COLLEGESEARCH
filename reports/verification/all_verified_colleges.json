@@ -4948,5 +4948,80 @@
         "website": "https://www.fergusson.edu"
       }
     ]
+  },
+  {
+    "batch": 67,
+    "items": [
+      {
+        "id": 235,
+        "name": "Hansraj College, University of Delhi",
+        "type": "Public/Government",
+        "location": "Mahatma Hans Raj Marg, Malkaganj.",
+        "website": "https://www.hansrajcollege.ac.in/"
+      },
+      {
+        "id": 236,
+        "name": "Loyola College (Autonomous), Chennai",
+        "type": "Private",
+        "location": "Sterling Road, Nungambakkam",
+        "website": "https://www.loyolacollege.edu/"
+      },
+      {
+        "id": 238,
+        "name": "Symbiosis Institute of Technology, Nagpur (SIT Nagpur)",
+        "type": "Deemed",
+        "location": "VILLAGE LAVALE/NANDE , DIST .PUNE-411042",
+        "website": "https://sitnagpur.edu.in/"
+      },
+      {
+        "id": 239,
+        "name": "St. Francis De Sales College, Nagpur (SFS College)",
+        "type": "Private",
+        "location": "SEMINARY HILLS, NEAR BALODYAN",
+        "website": "https://sfscollege.edu.in/"
+      },
+      {
+        "id": 240,
+        "name": "SIES College of Arts, Science and Commerce, Sion, Mumbai",
+        "type": "Private",
+        "location": "85, 106 & 107 SION WEST",
+        "website": "https://siesascs.edu.in/"
+      },
+      {
+        "id": 241,
+        "name": "PES Modern College of Computer Science and IT, Nigdi, Pune",
+        "type": "Private",
+        "location": "SAHJIVAN COLONY SAMARTH NAGAR SAVKRAR CHOWK AURANGABAD",
+        "website": "https://pesmoderncollege.edu.in/"
+      },
+      {
+        "id": 242,
+        "name": "St. Wilfreds College of Arts, Commerce and Science, Panvel",
+        "type": "Private",
+        "location": "NEAR MBMC PARK, MIRA ROAD EAST",
+        "website": "https://stwilfreds.com/mumbai/"
+      },
+      {
+        "id": 243,
+        "name": "MGMs College of Computer Science and IT, Nanded",
+        "type": "Private",
+        "location": "MAHARASHTRA, 431602",
+        "website": "https://mgmcsit.org/"
+      },
+      {
+        "id": 244,
+        "name": "MSS Arts, Science and Commerce College, Ambad, Jalna",
+        "type": "Private",
+        "location": "AT.AMBAD TAL.AMBAD DIST.JALNA",
+        "website": "https://mssambad.org/"
+      },
+      {
+        "id": 246,
+        "name": "MKD Institute of Technology, Nadgaon, Jalgaon",
+        "type": "Private",
+        "location": "WAGHALE PHATA, VIRCHAK",
+        "website": "https://mkdit.edu.in/"
+      }
+    ]
   }
 ]
