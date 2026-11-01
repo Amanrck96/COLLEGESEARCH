@@ -1690,7 +1690,17 @@
     1943,
     1944,
     1945,
-    1946
+    1946,
+    1947,
+    1948,
+    1949,
+    1950,
+    1951,
+    1952,
+    1953,
+    1954,
+    1955,
+    1956
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -2125,6 +2135,24 @@
         1946
       ],
       "verifiedAt": "2026-11-01T21:44:59.800Z"
+    },
+    "196": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "1951-1960",
+      "ids": [
+        1947,
+        1948,
+        1949,
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956
+      ],
+      "verifiedAt": "2026-11-01T21:49:17.705Z"
     }
   },
   "all_verified_ids": [
@@ -2139,11 +2167,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 195,
-  "verifiedColleges": 1950,
-  "lastUpdated": "2026-11-01T21:44:59.800Z",
+  "last_batch_completed": 196,
+  "verifiedColleges": 1960,
+  "lastUpdated": "2026-11-01T21:49:17.705Z",
   "batchesCompleted": 172,
-  "currentBatch": 195,
+  "currentBatch": 196,
   "batchHistory": [
     {
       "batch": 160,
@@ -2557,6 +2585,24 @@
         1944,
         1945,
         1946
+      ]
+    },
+    {
+      "batch": 196,
+      "verifiedCount": 10,
+      "totalVerified": 1960,
+      "timestamp": "2026-11-01T21:49:17.705Z",
+      "collegeIds": [
+        1947,
+        1948,
+        1949,
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956
       ]
     }
   ]

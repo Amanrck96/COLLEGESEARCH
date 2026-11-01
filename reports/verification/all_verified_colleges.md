@@ -2919,3 +2919,19 @@
 | 1948 | Government College Dharamshala (Centre of Computer Applications & IT) | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcdharamshala.ac.in) |
 | 1949 | Hydro Engineering College Bandla, Bilaspur | Bilaspur | Himachal Pradesh | Public/Government | [Portal](https://ghec.ac.in) |
 | 1950 | Dreamz Polytechnic, Mandi | Mandi | Himachal Pradesh | Private | [Portal](https://dreamztechnology.in) |
+
+
+### Batch 196 (Colleges 1,951–1,960)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1951 | Government Post Graduate College, Dharamshala | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcdharamshala.ac.in) |
+| 1952 | PVC Naib Subedar Sanjay Kumar Government Polytechnic, Bilaspur at Kalol | Bilaspur | Himachal Pradesh | Public/Government | [Portal](https://gpkalol.org) |
+| 1953 | Atal Bihari Vajpayee Government Institute of Engineering & Technology (ABVGIET) | Shimla | Himachal Pradesh | Public/Government | [Portal](https://abvgiet.ac.in) |
+| 1954 | Government Polytechnic, Kangra | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gpkangra.org.in) |
+| 1955 | Government Polytechnic, Rohru | Shimla | Himachal Pradesh | Public/Government | [Portal](https://gprohru.org) |
+| 1956 | K.C. Polytechnic, Pandoga (Una) | Una | Himachal Pradesh | Private | [Portal](https://kcinstitutes.com) |
+| 1957 | Sundernagar Integrated Rural Development Association (SIRDA) Polytechnic | Mandi | Himachal Pradesh | Private | [Portal](https://sirda.in) |
+| 1958 | Government Polytechnic, Talwar | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gptalwar.org) |
+| 1959 | University Institute of Technology (UIT), Himachal Pradesh University | Shimla | Himachal Pradesh | Public/Government (State University) | [Portal](https://uit.hpuniv.ac.in) |
+| 1960 | Dr. B.R. Ambedkar Government Polytechnic, Ambota | Una | Himachal Pradesh | Public/Government | [Portal](https://gpambota.org.in) |

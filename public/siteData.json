@@ -153220,23 +153220,23 @@
   },
   {
     "id": 1947,
-    "name": "GOVT. PG COLLEGE DHARAMSHALA",
-    "shortName": "Course Institute-1",
-    "location": "KANGRA",
+    "name": "Government Post Graduate College, Dharamshala",
+    "shortName": "Govt PG College Dharamshala",
+    "location": "Kangra",
     "state": "Himachal Pradesh",
-    "address": "CIVIL LINES GOVT. COLLEGE DHARAMSHALA",
-    "phone": "0123-456789",
-    "website": "https://www.govtpgcollegedh.edu.in",
+    "address": "College Road, Civil Lines, Dharamshala, Kangra, Himachal Pradesh - 176215",
+    "phone": "01892-224827",
+    "website": "https://gcdharamshala.ac.in",
     "rating": 4.5,
     "reviews": 241,
-    "type": "Private",
-    "about": "Welcome to GOVT. PG COLLEGE DHARAMSHALA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Post Graduate College Dharamshala, established in 1912, is a premier government heritage college of Himachal Pradesh accredited with NAAC Grade 'A', offering prestigious postgraduate and undergraduate programs in computer applications, science, arts, and management.",
     "ranking": 34,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT.%20PG%20COLLEGE%20DHARAMSHALA%20KANGRA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹18,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_4.jpg",
     "gallery": [
@@ -153244,14 +153244,30 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla (NAAC 'A' Grade)",
     "courses": [
       {
-        "title": "MASTERS IN COMPUTER APPLICATIONS",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹18,000/Yr",
+        "eligibility": "BCA / B.Sc / B.Com with Mathematics + HPU MCA Entrance",
         "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "Graduation with 50% + HPU MAT",
+        "type": "MANAGEMENT",
         "intake": 60
       }
     ],
@@ -153269,28 +153285,30 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_4.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20PG%20COLLEGE%20DHARAMSHALA%20KANGRA%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20PG%20COLLEGE%20DHARAMSHALA%20KANGRA%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.105Z"
   },
   {
     "id": 1948,
-    "name": "PARAM VEER CHAKRA NAIB SUBEDAR SANJAY KUMAR GOVT POLYTECHNIC BILASPUR AT KALOL",
-    "shortName": "Course Institute-1",
-    "location": "BILASPUR",
+    "name": "PVC Naib Subedar Sanjay Kumar Government Polytechnic, Bilaspur at Kalol",
+    "shortName": "PVC Sanjay Kumar Govt Polytechnic",
+    "location": "Bilaspur",
     "state": "Himachal Pradesh",
-    "address": "VPO KALOL TEHSIL JHANDUTA DISTT. BILASPUR HP AT GOVT. POLYTECHNIC HAMIRPUR PO MOHIN HAMIRPUR HP-177001",
-    "phone": "0123-456789",
-    "website": "https://www.paramveerchakra.edu.in",
+    "address": "VPO Kalol, Tehsil Jhandutta, District Bilaspur, Himachal Pradesh - 174035",
+    "phone": "01978-286050",
+    "website": "https://gpkalol.org",
     "rating": 4.5,
     "reviews": 114,
-    "type": "Private",
-    "about": "Welcome to PARAM VEER CHAKRA NAIB SUBEDAR SANJAY KUMAR GOVT POLYTECHNIC BILASPUR AT KALOL, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Param Veer Chakra Naib Subedar Sanjay Kumar Government Polytechnic Kalol (Bilaspur), established in 2013 by the Government of Himachal Pradesh, is an AICTE-approved premier public polytechnic delivering subsidized diploma courses in mechanical, civil, and electrical engineering.",
     "ranking": 51,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=PARAM%20VEER%20CHAKRA%20NAIB%20SUBEDAR%20SANJAY%20KUMAR%20GOVT%20POLYTECHNIC%20BILASPUR%20AT%20KALOL%20BILASPUR%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
     "gallery": [
@@ -153298,13 +153316,29 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "MECHANICAL ENGINEERING",
+        "title": "Diploma in Mechanical Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Electrical Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT counseling",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
@@ -153323,29 +153357,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=PARAM%20VEER%20CHAKRA%20NAIB%20SUBEDAR%20SANJAY%20KUMAR%20GOVT%20POLYTECHNIC%20BILASPUR%20AT%20KALOL%20BILASPUR%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.193Z"
   },
   {
     "id": 1949,
-    "name": "ATAL BIHARI VAJPAYEE GOVERNMENT INSTITUTE OF ENGINEERING & TECHNOLOGY (DIPLOMA PROGRAMME)",
-    "shortName": "Course Institute-1",
-    "location": "SHIMLA",
+    "name": "Atal Bihari Vajpayee Government Institute of Engineering & Technology (ABVGIET)",
+    "shortName": "ABVGIET Pragatinagar",
+    "location": "Shimla",
     "state": "Himachal Pradesh",
-    "address": "PRAGATINAGAR",
-    "phone": "0123-456789",
-    "website": "https://www.atalbiharivajpa.edu.in",
+    "address": "Pragatinagar, Tehsil Kotkhai, Shimla, Himachal Pradesh - 171202",
+    "phone": "01783-253918",
+    "website": "https://abvgiet.ac.in",
     "rating": 4.5,
     "reviews": 381,
-    "type": "Private",
-    "about": "Welcome to ATAL BIHARI VAJPAYEE GOVERNMENT INSTITUTE OF ENGINEERING & TECHNOLOGY (DIPLOMA PROGRAMME), a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Atal Bihari Vajpayee Government Institute of Engineering and Technology Pragatinagar (Shimla), established in 2011, is an AICTE-approved flagship government technical institution named after former Prime Minister Atal Bihari Vajpayee, offering both degree and diploma programs.",
     "ranking": 65,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=ATAL%20BIHARI%20VAJPAYEE%20GOVERNMENT%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20(DIPLOMA%20PROGRAMME)%20SHIMLA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://img.studyclap.com/img/institute/college/773x343/7483/abvgiet-shimla-698e9cacd7.jpg",
     "gallery": [
@@ -153353,13 +153389,29 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "HPTSB Dharamshala & HPTU Hamirpur",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Electrical Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 30
       }
@@ -153378,28 +153430,30 @@
       "Cafeteria"
     ],
     "image": "https://img.studyclap.com/img/institute/college/773x343/7483/abvgiet-shimla-698e9cacd7.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ATAL%20BIHARI%20VAJPAYEE%20GOVERNMENT%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20(DIPLOMA%20PROGRAMME)%20SHIMLA%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ATAL%20BIHARI%20VAJPAYEE%20GOVERNMENT%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20(DIPLOMA%20PROGRAMME)%20SHIMLA%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.194Z"
   },
   {
     "id": 1950,
-    "name": "GOVERENMENT POLYTECHNIC KANGRA",
-    "shortName": "Course Institute-1",
-    "location": "KANGRA",
+    "name": "Government Polytechnic, Kangra",
+    "shortName": "GP Kangra",
+    "location": "Kangra",
     "state": "Himachal Pradesh",
-    "address": "GOVT. POLYTECHNIC KANGRA, DISTT. KANGRA, (H.P.)",
-    "phone": "0123-456789",
-    "website": "https://www.goverenmentpoly.edu.in",
+    "address": "Polytechnic Road, Kangra, Himachal Pradesh - 176001",
+    "phone": "01892-265026",
+    "website": "https://gpkangra.org.in",
     "rating": 4.5,
     "reviews": 424,
-    "type": "Private",
-    "about": "Welcome to GOVERENMENT POLYTECHNIC KANGRA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Kangra, established in 1959, is the oldest and most prestigious polytechnic in Himachal Pradesh, approved by AICTE, providing high-standard engineering diplomas in computer, civil, electrical, and electronics engineering.",
     "ranking": 30,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERENMENT%20POLYTECHNIC%20KANGRA%20KANGRA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_cu_shah_mumbai.png",
     "gallery": [
@@ -153407,13 +153461,37 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "COMPUTER ENGINEERING",
+        "title": "Diploma in Computer Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Electrical Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Electronics & Communication Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
@@ -153432,29 +153510,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_cu_shah_mumbai.png",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERENMENT%20POLYTECHNIC%20KANGRA%20KANGRA%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.194Z"
   },
   {
     "id": 1951,
-    "name": "GOVT. POLYTECHNIC ROHRU",
-    "shortName": "Course Institute-1",
-    "location": "SHIMLA",
+    "name": "Government Polytechnic, Rohru",
+    "shortName": "GP Rohru",
+    "location": "Shimla",
     "state": "Himachal Pradesh",
-    "address": "POST OFFICE ROHRU, DISTT. SHIMLA H.P.",
-    "phone": "0123-456789",
-    "website": "https://www.govtpolytechnic.edu.in",
+    "address": "VPO Rohru, District Shimla, Himachal Pradesh - 171207",
+    "phone": "01781-240120",
+    "website": "https://gprohru.org",
     "rating": 4.5,
     "reviews": 116,
-    "type": "Private",
-    "about": "Welcome to GOVT. POLYTECHNIC ROHRU, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Rohru, established in 1999 under the Department of Technical Education, Himachal Pradesh, is an AICTE-approved co-educational polytechnic institute imparting technical education to the youth of upper Shimla district.",
     "ranking": 70,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT.%20POLYTECHNIC%20ROHRU%20SHIMLA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/saraswati_kharghar.webp",
     "gallery": [
@@ -153462,13 +153542,21 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "ELECTRONICS & COMMUNICATION ENGG",
+        "title": "Diploma in Electronics & Communication Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
@@ -153487,29 +153575,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/saraswati_kharghar.webp",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20POLYTECHNIC%20ROHRU%20SHIMLA%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.194Z"
   },
   {
     "id": 1952,
-    "name": "K.C.POLYTECHNIC",
-    "shortName": "Course Institute-1",
-    "location": "UNA",
+    "name": "K.C. Polytechnic, Pandoga (Una)",
+    "shortName": "KC Polytechnic Una",
+    "location": "Una",
     "state": "Himachal Pradesh",
-    "address": "PANDOGA UPARLA, TEH. & DISTT- UNA(H.P)",
-    "phone": "0123-456789",
-    "website": "https://www.kcpolytechnic.edu.in",
+    "address": "VPO Pandoga, Tehsil Haroli, District Una, Himachal Pradesh - 177207",
+    "phone": "01975-241461",
+    "website": "https://kcinstitutes.com",
     "rating": 4.5,
     "reviews": 488,
     "type": "Private",
-    "about": "Welcome to K.C.POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "K.C. Polytechnic Pandoga, established in 2009 under the K.C. Educational and Social Welfare Society, is an AICTE-approved private polytechnic offering technical diplomas across core engineering branches in Una district.",
     "ranking": 4,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=K.C.POLYTECHNIC%20UNA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹35,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.yuvamind.com/colleges/images/college/k-c-polytechnic-una-campus.png",
     "gallery": [
@@ -153517,13 +153607,29 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹35,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Electrical Engineering",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
@@ -153543,27 +153649,29 @@
     ],
     "image": "https://www.yuvamind.com/colleges/images/college/k-c-polytechnic-una-campus.png",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=K.C.POLYTECHNIC%20UNA%20Himachal%20Pradesh"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=K.C.POLYTECHNIC%20UNA%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.194Z"
   },
   {
     "id": 1953,
-    "name": "SIRDA POLYTECHNIC",
-    "shortName": "Course Institute-1",
-    "location": "MANDI",
+    "name": "Sundernagar Integrated Rural Development Association (SIRDA) Polytechnic",
+    "shortName": "SIRDA Polytechnic Mandi",
+    "location": "Mandi",
     "state": "Himachal Pradesh",
-    "address": "VILL. TAROT, P.O. - KANAID",
-    "phone": "0123-456789",
-    "website": "https://www.sirdapolytechni.edu.in",
+    "address": "Village Naulakha, P.O. Kanaid, Tehsil Sundernagar, District Mandi, Himachal Pradesh - 175019",
+    "phone": "01907-266170",
+    "website": "https://sirda.in",
     "rating": 4.5,
     "reviews": 236,
     "type": "Private",
-    "about": "Welcome to SIRDA POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "SIRDA Polytechnic Naulakha, established in 2009 by Sundernagar Integrated Rural Development Association, is an AICTE-approved polytechnic college delivering diploma training in technical fields.",
     "ranking": 92,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=SIRDA%20POLYTECHNIC%20MANDI%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹35,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.yuvamind.com/colleges/images/college/sirda-polytechnic-mandi-campus.png",
     "gallery": [
@@ -153571,13 +153679,29 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹35,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Electrical Engineering",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 30
       }
@@ -153597,27 +153721,29 @@
     ],
     "image": "https://www.yuvamind.com/colleges/images/college/sirda-polytechnic-mandi-campus.png",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIRDA%20POLYTECHNIC%20MANDI%20Himachal%20Pradesh"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIRDA%20POLYTECHNIC%20MANDI%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.194Z"
   },
   {
     "id": 1954,
-    "name": "GOVERNMENT POLYTECHNIC TALWAR",
-    "shortName": "Course Institute-1",
-    "location": "KANGRA",
+    "name": "Government Polytechnic, Talwar",
+    "shortName": "GP Talwar",
+    "location": "Kangra",
     "state": "Himachal Pradesh",
-    "address": "VILL. TALWAR P.O TALWAR TEH. JAISINGHPUR DISTT. KANGRA",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "VPO Talwar, Tehsil Jaisinghpur, District Kangra, Himachal Pradesh - 176096",
+    "phone": "01894-275100",
+    "website": "https://gptalwar.org",
     "rating": 4.5,
     "reviews": 278,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC TALWAR, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Talwar, established in 2013 under the Directorate of Technical Education, Himachal Pradesh, is an AICTE-approved public institution offering affordable diploma courses in civil and automobile engineering.",
     "ranking": 46,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20TALWAR%20KANGRA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_cu_shah_mumbai.png",
     "gallery": [
@@ -153625,13 +153751,21 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Automobile Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 40
       }
@@ -153650,29 +153784,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_cu_shah_mumbai.png",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20TALWAR%20KANGRA%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.194Z"
   },
   {
     "id": 1955,
-    "name": "UNIVERSITY INSTITUTE OF TECHNOLOGY, HIMACHAL PRADESH UNIVERSITY, SUMMERHILL SHIMLA",
-    "shortName": "Course Institute-1",
-    "location": "SHIMLA",
+    "name": "University Institute of Technology (UIT), Himachal Pradesh University",
+    "shortName": "UIT HPU Shimla",
+    "location": "Shimla",
     "state": "Himachal Pradesh",
-    "address": "SILVERWOOD ESTATE, NEAR POLICE CHAWKI, H.P.UNIVERSITY, SUMMERHILL SHIMLA",
-    "phone": "0123-456789",
-    "website": "https://www.universityinsti.edu.in",
+    "address": "Silverwood Estate, HPU Campus, Summerhill, Shimla, Himachal Pradesh - 171005",
+    "phone": "0177-2832571",
+    "website": "https://uit.hpuniv.ac.in",
     "rating": 4.5,
     "reviews": 481,
-    "type": "Private",
-    "about": "Welcome to UNIVERSITY INSTITUTE OF TECHNOLOGY, HIMACHAL PRADESH UNIVERSITY, SUMMERHILL SHIMLA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government (State University)",
+    "about": "University Institute of Technology (UIT) Shimla, established in 2000 as the engineering constituent of Himachal Pradesh University (a NAAC Grade 'A' State Public University), offers premier AICTE-approved undergraduate engineering degrees.",
     "ranking": 89,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20INSTITUTE%20OF%20TECHNOLOGY%2C%20HIMACHAL%20PRADESH%20UNIVERSITY%2C%20SUMMERHILL%20SHIMLA%20SHIMLA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹80,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_vnit_nagpur.jpeg",
     "gallery": [
@@ -153680,13 +153816,37 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla (State University)",
     "courses": [
       {
-        "title": "INFORMATION TECHNOLOGY",
+        "title": "B.Tech in Information Technology",
         "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹80,000/Yr",
+        "eligibility": "10+2 with PCM + HPU UIT Entrance / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fees": "₹80,000/Yr",
+        "eligibility": "10+2 with PCM + HPU UIT Entrance / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹80,000/Yr",
+        "eligibility": "10+2 with PCM + HPU UIT Entrance / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electrical Engineering",
+        "duration": "4 Years",
+        "fees": "₹80,000/Yr",
+        "eligibility": "10+2 with PCM + HPU UIT Entrance / JEE Main",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
@@ -153705,29 +153865,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_vnit_nagpur.jpeg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNIVERSITY%20INSTITUTE%20OF%20TECHNOLOGY%2C%20HIMACHAL%20PRADESH%20UNIVERSITY%2C%20SUMMERHILL%20SHIMLA%20SHIMLA%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.194Z"
   },
   {
     "id": 1956,
-    "name": "DR. B.R. AMBEDKAR GOVT. POLYTECHNIC",
-    "shortName": "Course Institute-1",
-    "location": "UNA",
+    "name": "Dr. B.R. Ambedkar Government Polytechnic, Ambota",
+    "shortName": "GP Ambota",
+    "location": "Una",
     "state": "Himachal Pradesh",
-    "address": "AMBOTA, DISTT. UNA (HP) PIN 177205",
-    "phone": "0123-456789",
-    "website": "https://www.drbrambedkargov.edu.in",
+    "address": "VPO Ambota, Tehsil Ghanari, District Una, Himachal Pradesh - 177205",
+    "phone": "01976-260249",
+    "website": "https://gpambota.org.in",
     "rating": 4.5,
     "reviews": 190,
-    "type": "Private",
-    "about": "Welcome to DR. B.R. AMBEDKAR GOVT. POLYTECHNIC, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Dr. B.R. Ambedkar Government Polytechnic Ambota (Una), established in 1999 by the Government of Himachal Pradesh, is an AICTE-approved premier public polytechnic delivering diploma training in computer, civil, architecture, and electronics engineering.",
     "ranking": 27,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=DR.%20B.R.%20AMBEDKAR%20GOVT.%20POLYTECHNIC%20UNA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://gpambota.edu.in/images/about-clg.jpg",
     "gallery": [
@@ -153735,15 +153897,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "COMPUTER ENGINEERING",
+        "title": "Diploma in Computer Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Architecture Assistantship",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass with PAT counseling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -153760,8 +153938,10 @@
       "Cafeteria"
     ],
     "image": "https://gpambota.edu.in/images/about-clg.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20B.R.%20AMBEDKAR%20GOVT.%20POLYTECHNIC%20UNA%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=DR.%20B.R.%20AMBEDKAR%20GOVT.%20POLYTECHNIC%20UNA%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-01T21:49:15.194Z"
   },
   {
     "id": 1957,
