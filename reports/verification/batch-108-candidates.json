@@ -1,0 +1,232 @@
+[
+  {
+    "id": 715,
+    "name": "Great Lakes Institute of Management, Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.greatlakes.edu.in/chennai/",
+    "phone": " 7358599107",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/college/great-lakes-institute-of-management-chennai-kanchipuram-2933/ranking",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 716,
+    "name": "Amrita Vishwa Vidyapeetham, Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_6.jpg",
+    "website": "https://amrita.edu/",
+    "phone": "4222685000",
+    "rating": 4.5,
+    "shikshaUrl": "https://www.shiksha.com/university/amrita-vishwa-vidyapeetham-coimbatore-52263/ranking",
+    "rawCourses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "division": "Postgraduate",
+        "duration": "2 Years",
+        "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
+        "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
+        "exams": "CAT, MAT, XAT, CMAT",
+        "intake": "180"
+      },
+      {
+        "title": "Executive MBA",
+        "division": "Postgraduate",
+        "duration": "1 Year",
+        "fees": "₹12.0 Lakhs",
+        "eligibility": "Graduation + 3+ yrs experience",
+        "exams": "GMAT / CAT",
+        "intake": "60"
+      }
+    ]
+  },
+  {
+    "id": 717,
+    "name": "ARIES POLYTECHNIC COLLEGE",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "website": "https://www.ariespolytechni.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "name": "SRS INSTITUTE OF EDUCATION AND TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.srsinstituteofe.edu.in",
+    "phone": "0123-456789",
+    "rating": 5,
+    "rawCourses": [
+      {
+        "title": "BBA",
+        "type": "MANAGEMENT",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://www.greaternoidains.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE & ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 150,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "name": "K.L. POLYTECHNIC",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.klpolytechnic.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "CIVIL ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "DIPLOMA",
+        "duration": "3 Years",
+        "fees": "Contact for details",
+        "intake": 45,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 723,
+    "name": "MAHARANA PRATAP INSTITUTE OF TECHNOLOGY",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/mpitm_kanina.jpg",
+    "website": "https://www.maharanapratapi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "COMPUTER SCIENCE AND ENGINEERING",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 60,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 724,
+    "name": "SHRI RAM COLLEGE",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.google.com/search?q=SHRI%20RAM%20COLLEGE%20official%20website%20MUZAFFARNAGAR%20Uttar%20Pradesh",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 720,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 725,
+    "name": "ACADEMY OF TECHNOLOGY MANAGEMENT AND SCIENCE",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/atms-group-of-institutions-hapur-356997.webp",
+    "website": "https://www.academyoftechno.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 120,
+        "eligibility": "As per norms"
+      }
+    ]
+  },
+  {
+    "id": 726,
+    "name": "ASIAN SCHOOL OF BUSINESS",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.asianschoolofbu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.9,
+    "rawCourses": [
+      {
+        "title": "BCA",
+        "type": "COMPUTER APPLICATIONS",
+        "division": "UNDER GRADUATE",
+        "duration": "4 Years",
+        "fees": "Contact for details",
+        "intake": 240,
+        "eligibility": "As per norms"
+      }
+    ]
+  }
+]

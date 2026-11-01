@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1070 / 12,660**  
-**Roadmap Progress**: **107.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1080 / 12,660**  
+**Roadmap Progress**: **108.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1614,4 +1614,19 @@
 | **712** | St. Joseph's College of Engineering (OMR Semmancheri, Chennai) | Private | Semmancheri, Sholinganallur | [stjosephs.ac.in](https://stjosephs.ac.in) |
 | **713** | Bharathiar University (BU Coimbatore - State Public University) | Public/Government | Tamil Nadu, India | [b-u.ac.in](https://b-u.ac.in) |
 | **714** | IIKM Business School (Indian Institute of Knowledge Management, Chennai) | Private | Tamil Nadu, India | [www.iikm.in](https://www.iikm.in) |
+
+### Batch 108 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **715** | Great Lakes Institute of Management (GLIM Chennai, ECR) | Private | Chengalpattu District, | [www.greatlakes.edu.in](https://www.greatlakes.edu.in/chennai/) |
+| **716** | Amrita Vishwa Vidyapeetham (Amrita Deemed University, Coimbatore) | Private | Amrita Vishwa Vidyapeetham, Amritanagar | [www.amrita.edu](https://www.amrita.edu) |
+| **717** | Aries Polytechnic College (Gingee, Villupuram) | Private | KARUNGUZHI | [www.ariespolytechnic.in](http://www.ariespolytechnic.in) |
+| **718** | SRS Institute of Education and Technology (Rohta Road, Meerut) | Private | VILLAGE-GEJHA MEERUT | [www.srsinstitute.org](http://www.srsinstitute.org) |
+| **719** | Greater Noida Institute of Technology (GNIOT, Knowledge Park II, Greater Noida) | Private | KNOWLEDGE PARK - II, | [www.gniotgroup.edu.in](https://www.gniotgroup.edu.in) |
+| **720** | K.L. Polytechnic (Government-Aided, Roorkee Road, Meerut) | Public/Government | BHARAURA MALHANI PO:MALHANI BAZAR | [klpolytechnic.in](https://klpolytechnic.in) |
+| **723** | Maharana Pratap Institute of Technology (MPIT - MPGI Kanpur) | Private | SONAULI ROAD, GORAKHNATH | [www.mpgi.edu.in](https://www.mpgi.edu.in) |
+| **724** | Shri Ram College (Circular Road, Muzaffarnagar) | Private | PARIKRAMA MARG | [www.shriramcollege.com](https://www.shriramcollege.com) |
+| **725** | Academy of Technology Management and Science (ATMS Group, Hapur) | Private | 49 KM MILESTONE NH 24 | [www.atms.edu.in](https://www.atms.edu.in) |
+| **726** | Asian School of Business (ASB Noida, Sector 127) | Private | BLOK-B PLOT A2, SECTOR 125 NOIDA | [asb.edu.in](https://asb.edu.in) |
 

@@ -8023,5 +8023,80 @@
         "website": "https://www.iikm.in"
       }
     ]
+  },
+  {
+    "batch": 108,
+    "items": [
+      {
+        "id": 715,
+        "name": "Great Lakes Institute of Management (GLIM Chennai, ECR)",
+        "type": "Private",
+        "location": "Chengalpattu District,",
+        "website": "https://www.greatlakes.edu.in/chennai/"
+      },
+      {
+        "id": 716,
+        "name": "Amrita Vishwa Vidyapeetham (Amrita Deemed University, Coimbatore)",
+        "type": "Private",
+        "location": "Amrita Vishwa Vidyapeetham, Amritanagar",
+        "website": "https://www.amrita.edu"
+      },
+      {
+        "id": 717,
+        "name": "Aries Polytechnic College (Gingee, Villupuram)",
+        "type": "Private",
+        "location": "KARUNGUZHI",
+        "website": "http://www.ariespolytechnic.in"
+      },
+      {
+        "id": 718,
+        "name": "SRS Institute of Education and Technology (Rohta Road, Meerut)",
+        "type": "Private",
+        "location": "VILLAGE-GEJHA MEERUT",
+        "website": "http://www.srsinstitute.org"
+      },
+      {
+        "id": 719,
+        "name": "Greater Noida Institute of Technology (GNIOT, Knowledge Park II, Greater Noida)",
+        "type": "Private",
+        "location": "KNOWLEDGE PARK - II,",
+        "website": "https://www.gniotgroup.edu.in"
+      },
+      {
+        "id": 720,
+        "name": "K.L. Polytechnic (Government-Aided, Roorkee Road, Meerut)",
+        "type": "Public/Government",
+        "location": "BHARAURA MALHANI PO:MALHANI BAZAR",
+        "website": "https://klpolytechnic.in"
+      },
+      {
+        "id": 723,
+        "name": "Maharana Pratap Institute of Technology (MPIT - MPGI Kanpur)",
+        "type": "Private",
+        "location": "SONAULI ROAD, GORAKHNATH",
+        "website": "https://www.mpgi.edu.in"
+      },
+      {
+        "id": 724,
+        "name": "Shri Ram College (Circular Road, Muzaffarnagar)",
+        "type": "Private",
+        "location": "PARIKRAMA MARG",
+        "website": "https://www.shriramcollege.com"
+      },
+      {
+        "id": 725,
+        "name": "Academy of Technology Management and Science (ATMS Group, Hapur)",
+        "type": "Private",
+        "location": "49 KM MILESTONE NH 24",
+        "website": "https://www.atms.edu.in"
+      },
+      {
+        "id": 726,
+        "name": "Asian School of Business (ASB Noida, Sector 127)",
+        "type": "Private",
+        "location": "BLOK-B PLOT A2, SECTOR 125 NOIDA",
+        "website": "https://asb.edu.in"
+      }
+    ]
   }
 ]

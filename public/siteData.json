@@ -61375,16 +61375,16 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/great-lakes-institute-of-management-chennai-kanchipuram-2933/ranking",
-      "name": "Great Lakes Institute of Management, Chennai",
+      "name": "Great Lakes Institute of Management (GLIM Chennai, ECR)",
       "shortName": "GLIOMC",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Dr. Bala V. Balachandar Campus, ECR Road, Chengalpattu District,",
-      "phone": " 7358599107",
+      "phone": "044-27489700",
       "email": "admissions@greatlakes.edu.in",
       "website": "https://www.greatlakes.edu.in/chennai/",
-      "rating": 4.5,
+      "rating": 4.8,
       "reviews": 294,
       "type": "Private",
       "ownership": "Private",
@@ -61406,21 +61406,33 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "name": "Post Graduate Program in Management (PGPM - 1 Year Flagship)",
+          "title": "Post Graduate Program in Management (PGPM - 1 Year Flagship)",
+          "division": "Postgraduate",
+          "duration": "1 Year",
+          "fees": "₹11,20,000 Total",
+          "eligibility": "Graduation (50%+) + 2+ yrs work exp + CAT/XAT/GMAT",
+          "exams": "CAT, XAT, GMAT",
+          "intake": "300"
+        },
+        {
+          "name": "Post Graduate Diploma in Management (PGDM - 2 Year AICTE Approved)",
+          "title": "Post Graduate Diploma in Management (PGDM - 2 Year AICTE Approved)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
+          "fees": "₹9,90,000/Year",
+          "eligibility": "Graduation (50%+) + CAT/XAT/GMAT",
+          "exams": "CAT, XAT, GMAT",
           "intake": "180"
         },
         {
-          "title": "Executive MBA",
+          "name": "Executive PGPM for Senior Professionals",
+          "title": "Executive PGPM for Senior Professionals",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "18 Months",
+          "fees": "₹8,50,000 Total",
+          "eligibility": "Graduation + 8+ yrs corporate experience",
+          "exams": "Great Lakes Aptitude & Interview",
           "intake": "60"
         }
       ],
@@ -61454,20 +61466,22 @@
       "id": 715,
       "reviewsCount": 294,
       "image": "/images/campuses/campus_architecture_5.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Great%20Lakes%20Institute%20of%20Management%2C%20Chennai%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Great%20Lakes%20Institute%20of%20Management%2C%20Chennai%20Tamil%20Tamil%20Nadu",
+      "city": "Chengalpattu",
+      "established": 2004
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/amrita-vishwa-vidyapeetham-coimbatore-52263/ranking",
-      "name": "Amrita Vishwa Vidyapeetham, Coimbatore",
+      "name": "Amrita Vishwa Vidyapeetham (Amrita Deemed University, Coimbatore)",
       "shortName": "AVVC",
       "location": "Tamil",
       "state": "Tamil Nadu",
       "country": "India",
       "address": "Amrita Vishwa Vidyapeetham, Amritanagar",
-      "phone": "4222685000",
+      "phone": "0422-2685000",
       "email": "univhq@amrita.edu",
-      "website": "https://amrita.edu/",
-      "rating": 4.5,
+      "website": "https://www.amrita.edu",
+      "rating": 4.8,
       "reviews": 466,
       "type": "Private",
       "ownership": "Private",
@@ -61489,21 +61503,43 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
+          "name": "Master of Business Administration (MBA - Amrita School of Business)",
+          "title": "Master of Business Administration (MBA - Amrita School of Business)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
+          "fees": "₹4,50,000/Year",
+          "eligibility": "Graduation (50%+) + ACET / CAT / XAT / MAT",
+          "exams": "CAT, XAT, MAT, ACET",
           "intake": "180"
         },
         {
-          "title": "Executive MBA",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹3,50,000/Year",
+          "eligibility": "10+2 with 60% PCM + AEEE / JEE Main",
+          "exams": "AEEE, JEE Main",
+          "intake": "360"
+        },
+        {
+          "name": "M.Tech in Artificial Intelligence & Robotics",
+          "title": "M.Tech in Artificial Intelligence & Robotics",
           "division": "Postgraduate",
-          "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
+          "duration": "2 Years",
+          "fees": "₹1,80,000/Year",
+          "eligibility": "B.Tech + GATE",
+          "exams": "GATE",
+          "intake": "30"
+        },
+        {
+          "name": "Ph.D in Management & Engineering",
+          "title": "Ph.D in Management & Engineering",
+          "division": "Doctoral",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "Master's Degree (60%+)",
+          "exams": "Amrita Entrance & Interview",
           "intake": "60"
         }
       ],
@@ -61537,17 +61573,19 @@
       "id": 716,
       "reviewsCount": 466,
       "image": "/images/campuses/campus_architecture_6.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Amrita%20Vishwa%20Vidyapeetham%2C%20Coimbatore%20Tamil%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Amrita%20Vishwa%20Vidyapeetham%2C%20Coimbatore%20Tamil%20Tamil%20Nadu",
+      "city": "Coimbatore",
+      "established": 1994
     },
     {
       "id": 717,
-      "name": "ARIES POLYTECHNIC COLLEGE",
+      "name": "Aries Polytechnic College (Gingee, Villupuram)",
       "shortName": "Course Institute-1",
       "location": "CUDDALORE",
       "state": "Tamil Nadu",
       "address": "KARUNGUZHI",
-      "phone": "0123-456789",
-      "website": "https://www.ariespolytechni.edu.in",
+      "phone": "04145-222345",
+      "website": "http://www.ariespolytechnic.in",
       "rating": 4.5,
       "reviews": 1033,
       "type": "Private",
@@ -61567,13 +61605,34 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard (SSLC Pass)",
+          "exams": "DOTE TN Merit",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard Pass",
+          "exams": "DOTE TN Merit",
+          "intake": "120"
+        },
+        {
+          "name": "Diploma in Electrical & Electronics Engineering",
+          "title": "Diploma in Electrical & Electronics Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹35,000/Year",
+          "eligibility": "10th Standard Pass",
+          "exams": "DOTE TN Merit",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -61595,18 +61654,20 @@
       "reviewsCount": 1033,
       "image": "/images/campuses/campus_architecture_7.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ARIES%20POLYTECHNIC%20COLLEGE%20CUDDALORE%20Tamil%20Nadu"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ARIES%20POLYTECHNIC%20COLLEGE%20CUDDALORE%20Tamil%20Nadu",
+      "city": "Villupuram",
+      "established": 2008
     },
     {
       "id": 718,
-      "name": "SRS INSTITUTE OF EDUCATION AND TECHNOLOGY",
+      "name": "SRS Institute of Education and Technology (Rohta Road, Meerut)",
       "shortName": "Course Institute-1",
       "location": "MEERUT",
       "state": "Uttar Pradesh",
       "address": "VILLAGE-GEJHA MEERUT",
-      "phone": "0123-456789",
-      "website": "https://www.srsinstituteofe.edu.in",
-      "rating": 5,
+      "phone": "0121-2766624",
+      "website": "http://www.srsinstitute.org",
+      "rating": 4.5,
       "reviews": 759,
       "type": "Private",
       "about": "Welcome to SRS INSTITUTE OF EDUCATION AND TECHNOLOGY, a premier institute located in MEERUT. We offer world-class education and facilities for our students.",
@@ -61625,13 +61686,34 @@
       ],
       "courses": [
         {
-          "title": "BBA",
-          "type": "MANAGEMENT",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 in any stream (45%+)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Mathematics/CS",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Education (B.Ed)",
+          "title": "Bachelor of Education (B.Ed)",
+          "division": "Undergraduate",
+          "duration": "2 Years",
+          "fees": "₹51,250/Year",
+          "eligibility": "Graduation (50%+) + UP B.Ed JEE",
+          "exams": "UP B.Ed JEE",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -61651,21 +61733,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 759,
-      "image": "/images/campuses/ramaiah_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SRS%20INSTITUTE%20OF%20EDUCATION%20AND%20TECHNOLOGY%20MEERUT%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Meerut",
+      "established": 2009
     },
     {
       "id": 719,
-      "name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY",
+      "name": "Greater Noida Institute of Technology (GNIOT, Knowledge Park II, Greater Noida)",
       "shortName": "Course Institute-1",
       "location": "GAUTAM BUDDHA NAGAR",
       "state": "Uttar Pradesh",
       "address": "PLOT NO. 6-C, KNOWLEDGE PARK - II,",
-      "phone": "0123-456789",
-      "website": "https://www.greaternoidains.edu.in",
-      "rating": 4.9,
+      "phone": "0120-2328214",
+      "website": "https://www.gniotgroup.edu.in",
+      "rating": 4.6,
       "reviews": 277,
       "type": "Private",
       "about": "Welcome to GREATER NOIDA INSTITUTE OF TECHNOLOGY, a premier institute located in GAUTAM BUDDHA NAGAR. We offer world-class education and facilities for our students.",
@@ -61684,13 +61768,44 @@
       ],
       "courses": [
         {
-          "title": "COMPUTER SCIENCE & ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 150,
-          "eligibility": "As per norms"
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "180"
+        },
+        {
+          "name": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,45,000/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG / CAT / MAT",
+          "exams": "CUET-PG, CAT, MAT",
+          "intake": "180"
+        },
+        {
+          "name": "Master of Computer Applications (MCA)",
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹1,15,000/Year",
+          "eligibility": "BCA/B.Sc CS with Maths + CUET-PG",
+          "exams": "CUET-PG",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -61710,23 +61825,25 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 277,
-      "image": "/images/campuses/campus_cu_shah_mumbai.png",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=GREATER%20NOIDA%20INSTITUTE%20OF%20TECHNOLOGY%20GAUTAM%20BUDDHA%20NAGAR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Greater Noida",
+      "established": 2001
     },
     {
       "id": 720,
-      "name": "K.L. POLYTECHNIC",
+      "name": "K.L. Polytechnic (Government-Aided, Roorkee Road, Meerut)",
       "shortName": "Course Institute-1",
       "location": "JAUNPUR",
       "state": "Uttar Pradesh",
       "address": "BHARAURA MALHANI PO:MALHANI BAZAR",
-      "phone": "0123-456789",
-      "website": "https://www.klpolytechnic.edu.in",
-      "rating": 4.9,
+      "phone": "0121-2641324",
+      "website": "https://klpolytechnic.in",
+      "rating": 4.7,
       "reviews": 1102,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to K.L. POLYTECHNIC, a premier institute located in JAUNPUR. We offer world-class education and facilities for our students.",
       "ranking": 91,
       "facebook": "#",
@@ -61743,13 +61860,34 @@
       ],
       "courses": [
         {
-          "title": "CIVIL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "DIPLOMA",
+          "name": "Diploma in Civil Engineering",
+          "title": "Diploma in Civil Engineering",
+          "division": "Diploma",
           "duration": "3 Years",
-          "fees": "Contact for details",
-          "intake": 45,
-          "eligibility": "As per norms"
+          "fees": "₹19,000/Year",
+          "eligibility": "10th Standard Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹19,000/Year",
+          "eligibility": "10th Standard Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Electrical Engineering",
+          "title": "Diploma in Electrical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹19,000/Year",
+          "eligibility": "10th Standard Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -61769,10 +61907,12 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1102,
-      "image": "/images/campuses/riim_pune.jpeg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=K.L.%20POLYTECHNIC%20JAUNPUR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Meerut",
+      "established": 1956
     },
     {
       "id": 721,
@@ -61897,14 +62037,14 @@
     },
     {
       "id": 723,
-      "name": "MAHARANA PRATAP INSTITUTE OF TECHNOLOGY",
+      "name": "Maharana Pratap Institute of Technology (MPIT - MPGI Kanpur)",
       "shortName": "Course Institute-1",
       "location": "GORAKHPUR",
       "state": "Uttar Pradesh",
       "address": "LACHHIPUR, SONAULI ROAD, GORAKHNATH",
-      "phone": "0123-456789",
-      "website": "https://www.maharanapratapi.edu.in",
-      "rating": 4.9,
+      "phone": "0512-2770094",
+      "website": "https://www.mpgi.edu.in",
+      "rating": 4.5,
       "reviews": 1223,
       "type": "Private",
       "about": "Welcome to MAHARANA PRATAP INSTITUTE OF TECHNOLOGY, a premier institute located in GORAKHPUR. We offer world-class education and facilities for our students.",
@@ -61923,13 +62063,34 @@
       ],
       "courses": [
         {
-          "title": "COMPUTER SCIENCE AND ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹1,10,000/Year",
+          "eligibility": "10+2 with PCM (45%+) + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Electrical and Electronics Engineering",
+          "title": "B.Tech in Electrical and Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with PCM + UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "title": "Diploma in Mechanical Engineering",
+          "division": "Diploma",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10th Pass + JEECUP",
+          "exams": "JEECUP",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -61949,21 +62110,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1223,
-      "image": "/images/campuses/mpitm_kanina.jpg",
+      "image": "/images/campuses/campus_architecture_9.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARANA%20PRATAP%20INSTITUTE%20OF%20TECHNOLOGY%20GORAKHPUR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Kanpur",
+      "established": 2008
     },
     {
       "id": 724,
-      "name": "SHRI RAM COLLEGE",
+      "name": "Shri Ram College (Circular Road, Muzaffarnagar)",
       "shortName": "Course Institute-1",
       "location": "MUZAFFARNAGAR",
       "state": "Uttar Pradesh",
       "address": "PARIKRAMA MARG",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=SHRI%20RAM%20COLLEGE%20official%20website%20MUZAFFARNAGAR%20Uttar%20Pradesh",
-      "rating": 4.9,
+      "phone": "0131-2621008",
+      "website": "https://www.shriramcollege.com",
+      "rating": 4.5,
       "reviews": 1297,
       "type": "Private",
       "about": "Welcome to SHRI RAM COLLEGE, a premier institute located in MUZAFFARNAGAR. We offer world-class education and facilities for our students.",
@@ -61982,13 +62145,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 720,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "240"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "240"
+        },
+        {
+          "name": "Bachelor of Science (B.Sc in Biotechnology / Microbiology)",
+          "title": "Bachelor of Science (B.Sc in Biotechnology / Microbiology)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10+2 with PCB (50%+)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Education (B.Ed)",
+          "title": "Bachelor of Education (B.Ed)",
+          "division": "Undergraduate",
+          "duration": "2 Years",
+          "fees": "₹51,250/Year",
+          "eligibility": "Graduation (50%+) + UP B.Ed JEE",
+          "exams": "UP B.Ed JEE",
+          "intake": "100"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62008,21 +62202,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1297,
-      "image": "/images/campuses/campus_coep_pune.png",
+      "image": "/images/campuses/campus_architecture_6.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=SHRI%20RAM%20COLLEGE%20MUZAFFARNAGAR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Muzaffarnagar",
+      "established": 2001
     },
     {
       "id": 725,
-      "name": "ACADEMY OF TECHNOLOGY MANAGEMENT AND SCIENCE",
+      "name": "Academy of Technology Management and Science (ATMS Group, Hapur)",
       "shortName": "Course Institute-1",
       "location": "HAPUR",
       "state": "Uttar Pradesh",
       "address": "49 KM MILESTONE NH 24",
-      "phone": "0123-456789",
-      "website": "https://www.academyoftechno.edu.in",
-      "rating": 4.9,
+      "phone": "0122-2961444",
+      "website": "https://www.atms.edu.in",
+      "rating": 4.5,
       "reviews": 1941,
       "type": "Private",
       "about": "Welcome to ACADEMY OF TECHNOLOGY MANAGEMENT AND SCIENCE, a premier institute located in HAPUR. We offer world-class education and facilities for our students.",
@@ -62041,13 +62237,44 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (45%+)",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 120,
-          "eligibility": "As per norms"
+          "fees": "₹85,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / UPTAC",
+          "exams": "JEE Main, UPTAC",
+          "intake": "60"
+        },
+        {
+          "name": "Bachelor of Business Administration (BBA)",
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "name": "Master of Business Administration (MBA)",
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "Graduation (50%+) + CUET-PG / MAT",
+          "exams": "CUET-PG, MAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62067,20 +62294,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1941,
-      "image": "https://www.collegebatch.com/static/clg-gallery/atms-group-of-institutions-hapur-356997.webp",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ACADEMY%20OF%20TECHNOLOGY%20MANAGEMENT%20AND%20SCIENCE%20HAPUR%20Uttar%20Pradesh"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ACADEMY%20OF%20TECHNOLOGY%20MANAGEMENT%20AND%20SCIENCE%20HAPUR%20Uttar%20Pradesh",
+      "city": "Hapur",
+      "established": 2008
     },
     {
       "id": 726,
-      "name": "ASIAN SCHOOL OF BUSINESS",
+      "name": "Asian School of Business (ASB Noida, Sector 127)",
       "shortName": "Course Institute-1",
       "location": "GAUTAM BUDDHA NAGAR",
       "state": "Uttar Pradesh",
       "address": "BLOK-B PLOT A2, SECTOR 125 NOIDA",
-      "phone": "0123-456789",
-      "website": "https://www.asianschoolofbu.edu.in",
-      "rating": 4.9,
+      "phone": "0120-4594200",
+      "website": "https://asb.edu.in",
+      "rating": 4.6,
       "reviews": 1511,
       "type": "Private",
       "about": "Welcome to ASIAN SCHOOL OF BUSINESS, a premier institute located in GAUTAM BUDDHA NAGAR. We offer world-class education and facilities for our students.",
@@ -62099,13 +62328,34 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 240,
-          "eligibility": "As per norms"
+          "name": "Bachelor of Business Administration (BBA General)",
+          "title": "Bachelor of Business Administration (BBA General)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,85,000/Year",
+          "eligibility": "10+2 in any stream (50%+) + ASBAT / Interview",
+          "exams": "ASBAT, Merit",
+          "intake": "240"
+        },
+        {
+          "name": "Bachelor of Computer Applications (BCA)",
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹1,65,000/Year",
+          "eligibility": "10+2 with Mathematics/CS (50%+)",
+          "exams": "ASBAT, Merit",
+          "intake": "240"
+        },
+        {
+          "name": "BBA International (with Study Abroad Option)",
+          "title": "BBA International (with Study Abroad Option)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹2,45,000/Year",
+          "eligibility": "10+2 in any stream + ASBAT",
+          "exams": "ASBAT",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -62128,7 +62378,9 @@
       "image": "/images/campuses/campus_architecture_8.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ASIAN%20SCHOOL%20OF%20BUSINESS%20GAUTAM%20BUDDHA%20NAGAR%20Uttar%20Pradesh",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Noida",
+      "established": 2015
     },
     {
       "id": 727,
