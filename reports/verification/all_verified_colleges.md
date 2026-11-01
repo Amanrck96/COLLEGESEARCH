@@ -2493,3 +2493,17 @@
 | 1358 | CT Institute of Management & IT, Maqsudan, Jalandhar | Jalandhar | Punjab | Private | [https://ctgroup.in](https://ctgroup.in) |
 | 1359 | Apeejay Institute of Management & Engineering Technical Campus (AIMETC), Jalandhar | Jalandhar | Punjab | Private | [https://aimetc.apeejay.edu](https://aimetc.apeejay.edu) |
 | 1360 | Pathankot Polytechnic College, Pathankot | Pathankot | Punjab | Private | [https://pathankotpolytechnic.com](https://pathankotpolytechnic.com) |
+
+### Batch 167 (Colleges 1,661–1,670) — Punjab Government & Private Technical Institutions
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1361 | Akal Group of Technical and Management Institutions, Mastuana Sahib, Sangrur | Sangrur | Punjab | Private | [https://www.akalgroup.org](https://www.akalgroup.org) |
+| 1362 | Sri Sai College of Engineering & Technology (SSCET), Badhani, Pathankot | Pathankot | Punjab | Private | [http://sscet.srisaigroup.in](http://sscet.srisaigroup.in) |
+| 1363 | Government Institute of Textile Chemistry and Knitting Technology, Ludhiana | Ludhiana | Punjab | Public/Government | [https://gitcktldh.ac.in](https://gitcktldh.ac.in) |
+| 1364 | Government Polytechnic College, Guru Teg Bahadur Garh, Moga | Moga | Punjab | Public/Government | [https://gpcgtbgarh.ac.in](https://gpcgtbgarh.ac.in) |
+| 1365 | Government Polytechnic College, Behram, SBS Nagar | Shahid Bhagat Singh Nagar | Punjab | Public/Government | [https://gpcbehram.ac.in](https://gpcbehram.ac.in) |
+| 1366 | CKD Institute of Management & Technology (CKDIMT), Tarn Taran | Tarn Taran | Punjab | Private | [https://ckdimt.in](https://ckdimt.in) |
+| 1367 | Radical Technical Institute, Amritsar | Amritsar | Punjab | Private | [http://www.radicaltech.in](http://www.radicaltech.in) |
+| 1368 | Mai Bhago Government Polytechnic College for Girls, Amritsar | Amritsar | Punjab | Public/Government | [https://mbgpc.in](https://mbgpc.in) |
+| 1369 | Sant Baba Attar Singh Government Polytechnic College, Badbar, Barnala | Barnala | Punjab | Public/Government | [https://gpcbadbar.org.in](https://gpcbadbar.org.in) |
+| 1370 | Adesh Polytechnic College, Muktsar | Muktsar | Punjab | Private | [https://adesh.in](https://adesh.in) |

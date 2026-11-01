@@ -12553,5 +12553,95 @@
     "type": "Private",
     "website": "https://pathankotpolytechnic.com",
     "verifiedAt": "2026-11-01T19:14:19.354Z"
+  },
+  {
+    "id": 1361,
+    "name": "Akal Group of Technical and Management Institutions, Mastuana Sahib, Sangrur",
+    "location": "Sangrur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.akalgroup.org",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1362,
+    "name": "Sri Sai College of Engineering & Technology (SSCET), Badhani, Pathankot",
+    "location": "Pathankot",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "http://sscet.srisaigroup.in",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1363,
+    "name": "Government Institute of Textile Chemistry and Knitting Technology, Ludhiana",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gitcktldh.ac.in",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1364,
+    "name": "Government Polytechnic College, Guru Teg Bahadur Garh, Moga",
+    "location": "Moga",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpcgtbgarh.ac.in",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1365,
+    "name": "Government Polytechnic College, Behram, SBS Nagar",
+    "location": "Shahid Bhagat Singh Nagar",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpcbehram.ac.in",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1366,
+    "name": "CKD Institute of Management & Technology (CKDIMT), Tarn Taran",
+    "location": "Tarn Taran",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://ckdimt.in",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1367,
+    "name": "Radical Technical Institute, Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "http://www.radicaltech.in",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1368,
+    "name": "Mai Bhago Government Polytechnic College for Girls, Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://mbgpc.in",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1369,
+    "name": "Sant Baba Attar Singh Government Polytechnic College, Badbar, Barnala",
+    "location": "Barnala",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpcbadbar.org.in",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
+  },
+  {
+    "id": 1370,
+    "name": "Adesh Polytechnic College, Muktsar",
+    "location": "Muktsar",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://adesh.in",
+    "verifiedAt": "2026-11-01T19:17:13.670Z"
   }
 ]
