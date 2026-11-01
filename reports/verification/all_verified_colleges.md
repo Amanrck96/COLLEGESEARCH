@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1360 / 12,660**  
-**Roadmap Progress**: **136.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1370 / 12,660**  
+**Roadmap Progress**: **137.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2049,4 +2049,19 @@
 | **1029** | P.N.B. Polytechnic College | Private | Jaipur, Rajasthan - 303301 | [pnbpolytechnic.com](https://pnbpolytechnic.com) |
 | **1030** | Government Polytechnic College, Nagaur | Public/Government | Nagaur, Rajasthan - 341001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcnagaur) |
 | **1031** | Vidya Bhawan Polytechnic College | Public/Government | Udaipur, Rajasthan - 313004 | [vbpolytechnic.org](https://vbpolytechnic.org) |
+
+### Batch 137 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1032** | Vriddhi Polytechnic College | Private | Jaipur, Rajasthan - 302022 | [vriddhipolytechnic.com](https://vriddhipolytechnic.com) |
+| **1033** | Government Polytechnic College, Rajsamand | Public/Government | Rajsamand, Rajasthan - 313324 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcrajsamand) |
+| **1034** | Kota Polytechnic College | Private | Kota, Rajasthan - 325003 | [kotapolytechnic.com](https://kotapolytechnic.com) |
+| **1035** | Sawai Madhopur College of Engineering and Technology | Private | Sawai Madhopur, Rajasthan - 322021 | [smcet.org](https://smcet.org) |
+| **1036** | Government Polytechnic College, Bikaner | Public/Government | Bikaner, Rajasthan - 334001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcbikaner) |
+| **1037** | Marudhara Polytechnic College | Private | District Sikar, Rajasthan - 332311 | [marudharapolytechnic.com](https://marudharapolytechnic.com) |
+| **1038** | Government Polytechnic College, Bhilwara | Public/Government | Bhilwara, Rajasthan - 311001 | [hte.rajasthan.gov.in](https://hte.rajasthan.gov.in/college/gpcbhilwara) |
+| **1040** | Shree Shoychand Institute of Engineering & Technology | Private | District Churu, Rajasthan - 331304 | [ssietchuru.org](https://ssietchuru.org) |
+| **1041** | Yaduvanshi Polytechnic College | Private | District Jhunjhunu, Rajasthan - 333026 | [yaduvanshigroup.edu.in](https://yaduvanshigroup.edu.in) |
+| **1042** | SLBS Polytechnic College, Jodhpur | Private | Jodhpur, Rajasthan - 342027 | [slbsjodhpur.edu.in](https://slbsjodhpur.edu.in) |
 

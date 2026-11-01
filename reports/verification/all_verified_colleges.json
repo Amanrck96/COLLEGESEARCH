@@ -10198,5 +10198,80 @@
         "website": "https://vbpolytechnic.org"
       }
     ]
+  },
+  {
+    "batch": 137,
+    "items": [
+      {
+        "id": 1032,
+        "name": "Vriddhi Polytechnic College",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302022",
+        "website": "https://vriddhipolytechnic.com"
+      },
+      {
+        "id": 1033,
+        "name": "Government Polytechnic College, Rajsamand",
+        "type": "Public/Government",
+        "location": "Rajsamand, Rajasthan - 313324",
+        "website": "https://hte.rajasthan.gov.in/college/gpcrajsamand"
+      },
+      {
+        "id": 1034,
+        "name": "Kota Polytechnic College",
+        "type": "Private",
+        "location": "Kota, Rajasthan - 325003",
+        "website": "https://kotapolytechnic.com"
+      },
+      {
+        "id": 1035,
+        "name": "Sawai Madhopur College of Engineering and Technology",
+        "type": "Private",
+        "location": "Sawai Madhopur, Rajasthan - 322021",
+        "website": "https://smcet.org"
+      },
+      {
+        "id": 1036,
+        "name": "Government Polytechnic College, Bikaner",
+        "type": "Public/Government",
+        "location": "Bikaner, Rajasthan - 334001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcbikaner"
+      },
+      {
+        "id": 1037,
+        "name": "Marudhara Polytechnic College",
+        "type": "Private",
+        "location": "District Sikar, Rajasthan - 332311",
+        "website": "https://marudharapolytechnic.com"
+      },
+      {
+        "id": 1038,
+        "name": "Government Polytechnic College, Bhilwara",
+        "type": "Public/Government",
+        "location": "Bhilwara, Rajasthan - 311001",
+        "website": "https://hte.rajasthan.gov.in/college/gpcbhilwara"
+      },
+      {
+        "id": 1040,
+        "name": "Shree Shoychand Institute of Engineering & Technology",
+        "type": "Private",
+        "location": "District Churu, Rajasthan - 331304",
+        "website": "https://ssietchuru.org"
+      },
+      {
+        "id": 1041,
+        "name": "Yaduvanshi Polytechnic College",
+        "type": "Private",
+        "location": "District Jhunjhunu, Rajasthan - 333026",
+        "website": "https://yaduvanshigroup.edu.in"
+      },
+      {
+        "id": 1042,
+        "name": "SLBS Polytechnic College, Jodhpur",
+        "type": "Private",
+        "location": "Jodhpur, Rajasthan - 342027",
+        "website": "https://slbsjodhpur.edu.in"
+      }
+    ]
   }
 ]
