@@ -8923,5 +8923,80 @@
         "website": "https://www.gndu.ac.in"
       }
     ]
+  },
+  {
+    "batch": 120,
+    "items": [
+      {
+        "id": 849,
+        "name": "University Business School, Panjab University (UBS Chandigarh)",
+        "type": "Public/Government",
+        "location": "Sector 14, Chandigarh - 160014",
+        "website": "https://ubs.puchd.ac.in"
+      },
+      {
+        "id": 850,
+        "name": "Gian Jyoti Institute of Management and Technology (GJIMT Mohali)",
+        "type": "Private",
+        "location": "Mohali, Punjab - 160055",
+        "website": "https://www.gjimt.ac.in"
+      },
+      {
+        "id": 851,
+        "name": "Chitkara Business School, Chitkara University (CBS Patiala / Chandigarh)",
+        "type": "Private",
+        "location": "Rajpura, Punjab - 140401",
+        "website": "https://www.chitkara.edu.in/cbs"
+      },
+      {
+        "id": 852,
+        "name": "LM Thapar School of Management (LMTSM Thapar Institute, Dera Bassi)",
+        "type": "Private",
+        "location": "Mohali, Punjab - 140507",
+        "website": "https://lmtsm.thapar.edu"
+      },
+      {
+        "id": 853,
+        "name": "Panjab University (PU Chandigarh)",
+        "type": "Public/Government",
+        "location": "Sector 14, Chandigarh - 160014",
+        "website": "https://puchd.ac.in"
+      },
+      {
+        "id": 854,
+        "name": "K.R. Mangalam University (KRMU Gurugram)",
+        "type": "Private",
+        "location": "Gurugram, Haryana - 122103",
+        "website": "https://www.krmangalam.edu.in"
+      },
+      {
+        "id": 855,
+        "name": "Hindu Girls College (HGC Sonipat)",
+        "type": "Private",
+        "location": "Sonipat, Haryana - 131001",
+        "website": "https://hgcsonepat.ac.in"
+      },
+      {
+        "id": 856,
+        "name": "Government Post Graduate College, Sector 1, Panchkula",
+        "type": "Public/Government",
+        "location": "Panchkula, Haryana - 134112",
+        "website": "https://gcpanchkula.ac.in"
+      },
+      {
+        "id": 857,
+        "name": "CBS Group of Institutions (Fatehpuri, Jhajjar)",
+        "type": "Private",
+        "location": "Jhajjar, Haryana - 124103",
+        "website": "https://www.cbscolleges.com"
+      },
+      {
+        "id": 860,
+        "name": "Shri Vishwakarma Skill University (SVSU Palwal)",
+        "type": "Public/Government",
+        "location": "Palwal, Haryana - 121102",
+        "website": "https://svsu.ac.in"
+      }
+    ]
   }
 ]

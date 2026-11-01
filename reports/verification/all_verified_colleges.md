@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1190 / 12,660**  
-**Roadmap Progress**: **119.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1200 / 12,660**  
+**Roadmap Progress**: **120.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1794,4 +1794,19 @@
 | **846** | Amity School of Engineering and Technology, Gurugram (ASET Amity Gurugram) | Private | Gurugram, Haryana - 122413 | [www.amity.edu](https://www.amity.edu/gurugram/aset) |
 | **847** | Central University of Punjab (CUPB Bathinda) | Public/Government | Bathinda, Punjab - 151401 | [www.cup.edu.in](https://www.cup.edu.in) |
 | **848** | Guru Nanak Dev University (GNDU Amritsar) | Public/Government | Amritsar, Punjab - 143005 | [www.gndu.ac.in](https://www.gndu.ac.in) |
+
+### Batch 120 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **849** | University Business School, Panjab University (UBS Chandigarh) | Public/Government | Sector 14, Chandigarh - 160014 | [ubs.puchd.ac.in](https://ubs.puchd.ac.in) |
+| **850** | Gian Jyoti Institute of Management and Technology (GJIMT Mohali) | Private | Mohali, Punjab - 160055 | [www.gjimt.ac.in](https://www.gjimt.ac.in) |
+| **851** | Chitkara Business School, Chitkara University (CBS Patiala / Chandigarh) | Private | Rajpura, Punjab - 140401 | [www.chitkara.edu.in](https://www.chitkara.edu.in/cbs) |
+| **852** | LM Thapar School of Management (LMTSM Thapar Institute, Dera Bassi) | Private | Mohali, Punjab - 140507 | [lmtsm.thapar.edu](https://lmtsm.thapar.edu) |
+| **853** | Panjab University (PU Chandigarh) | Public/Government | Sector 14, Chandigarh - 160014 | [puchd.ac.in](https://puchd.ac.in) |
+| **854** | K.R. Mangalam University (KRMU Gurugram) | Private | Gurugram, Haryana - 122103 | [www.krmangalam.edu.in](https://www.krmangalam.edu.in) |
+| **855** | Hindu Girls College (HGC Sonipat) | Private | Sonipat, Haryana - 131001 | [hgcsonepat.ac.in](https://hgcsonepat.ac.in) |
+| **856** | Government Post Graduate College, Sector 1, Panchkula | Public/Government | Panchkula, Haryana - 134112 | [gcpanchkula.ac.in](https://gcpanchkula.ac.in) |
+| **857** | CBS Group of Institutions (Fatehpuri, Jhajjar) | Private | Jhajjar, Haryana - 124103 | [www.cbscolleges.com](https://www.cbscolleges.com) |
+| **860** | Shri Vishwakarma Skill University (SVSU Palwal) | Public/Government | Palwal, Haryana - 121102 | [svsu.ac.in](https://svsu.ac.in) |
 
