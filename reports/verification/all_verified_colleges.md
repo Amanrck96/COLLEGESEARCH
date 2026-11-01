@@ -2661,3 +2661,17 @@
 | 1478 | Colonel Fateh Jang College, Mhow, Indore | Mhow, Indore | Madhya Pradesh | Private | [Website](https://colonelfatehjangcollege.com) |
 | 1479 | Anushashan Institute of Management (AIM), Katni | Katni | Madhya Pradesh | Private | [Website](http://www.anushashangroup.in) |
 | 1480 | Sanjeev Agrawal Global Educational (SAGE) University, Bhopal | Bhopal | Madhya Pradesh | Private (State Private University) | [Website](https://sageuniversity.edu.in) |
+
+### Batch 179 (Colleges 1,781–1,790, IDs: 1481–1490)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1481 | Dr. Bhagat Singh Rai Institute of Technology, Seoni | Seoni | Madhya Pradesh | Private | [Website](https://dbsr.ac.in) |
+| 1482 | Maharaja Ranjit Singh College of Professional Sciences (MRSC), Indore | Indore | Madhya Pradesh | Private (Autonomous) | [Website](https://www.mrscindore.org) |
+| 1483 | Sant Hirdaram Institute of Management for Women (SHIM), Bhopal | Bhopal | Madhya Pradesh | Private (Women's Institute) | [Website](https://www.shim.co.in) |
+| 1484 | Pentium Point College of Management (PPGI), Rewa | Rewa | Madhya Pradesh | Private | [Website](https://ppgirewa.com) |
+| 1485 | Gomti Nandan Institute of Management and Research (GNiMR), Bina, Sagar | Bina, Sagar | Madhya Pradesh | Private | [Website](https://gnimr.com) |
+| 1486 | Nachiketa College of Computer Science, Commerce & Technology, Jabalpur | Jabalpur | Madhya Pradesh | Private | [Website](https://ncbsjbp.com) |
+| 1487 | Atal Bihari Vajpayee Hindi Vishwavidyalaya (ABVHV), Bhopal | Bhopal | Madhya Pradesh | Public/Government (State University) | [Website](https://www.abvhv.edu.in) |
+| 1488 | Medi-Caps University, Indore | Rau, Indore | Madhya Pradesh | Private (State Private University) | [Website](https://www.medicaps.ac.in) |
+| 1489 | Renaissance University, Indore | Indore | Madhya Pradesh | Private (State Private University) | [Website](https://renaissance.edu.in) |
+| 1490 | Divine International Group of Institutions (DIGI), SADA, Gwalior | Gwalior | Madhya Pradesh | Private | [Website](https://divineinternational.org.in) |
