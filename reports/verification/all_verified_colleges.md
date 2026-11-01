@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **930 / 12,660**  
-**Roadmap Progress**: **93.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **940 / 12,660**  
+**Roadmap Progress**: **94.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1404,4 +1404,19 @@
 | **544** | Trinity College of Engineering & Technology (Karimnagar) | Private | KARIMNAGAR-505001 | [www.trinityengineering.edu.in](http://www.trinityengineering.edu.in) |
 | **545** | Siddhartha Degree College for Women (Hyderabad) | Private | VIVEKNAGAR KUKATAPALLY HYDERABAD | [www.sdcw.co.in](https://www.sdcw.co.in) |
 | **546** | Avinash College of Commerce (Hyderabad) | Private | HYDERABAD, TELANGANA 500029 | [avinashcollege.com](https://avinashcollege.com) |
+
+### Batch 94 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **547** | Gauthami Degree College (Hyderabad) | Private | CHINTAL, IDPL | [www.gauthami.in](https://www.gauthami.in) |
+| **548** | Ramnath Guljarilal Kedia College of Commerce (RG Kedia College, Hyderabad) | Private | OPP.NEW CHADERGHAT BRIDGE, KACHIGUDA STATION ROAD | [www.rgkediacollege.com](https://www.rgkediacollege.com) |
+| **549** | Guru Nanak Institute of Technology (GNIT Ibrahimpatnam, Hyderabad) | Private | IBRAHIMPATNAM, | [gnithyd.ac.in](https://gnithyd.ac.in) |
+| **550** | St. Ann's College for Women (Mehdipatnam, Hyderabad) | Private | MEHDIPATNAM, HYDERABAD | [stannscollegehyd.com](https://stannscollegehyd.com) |
+| **551** | Haindavi Degree & PG College (Hyderabad) | Private | KAMALA NAGAR, ECIL | [haindavipgcollege.com](https://haindavipgcollege.com) |
+| **552** | International Institute of Information Technology, Hyderabad (Main Campus) | Private | Telangana, India | [www.iiit.ac.in](https://www.iiit.ac.in) |
+| **553** | IIIT Hyderabad - Kohli Centre on Intelligent Systems (KCIS, Gachibowli) | Private | Telangana, India | [kcis.iiit.ac.in](https://kcis.iiit.ac.in) |
+| **554** | University College of Engineering, Osmania University (UCEOU Hyderabad) | Public/Government | Telangana, India | [www.uceou.edu](https://www.uceou.edu) |
+| **555** | JNTUH University College of Engineering, Hyderabad (JNTUH UCEH) | Public/Government | Ashok Nagar,  Kukatpally Housing Board Colony | [jntuhceh.ac.in](https://jntuhceh.ac.in) |
+| **556** | Institute of Aeronautical Engineering (IARE Dundigal, Hyderabad) | Private | Institute of Aeronautical Engineering, Dundigal | [www.iare.ac.in](https://www.iare.ac.in) |
 

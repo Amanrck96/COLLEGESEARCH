@@ -46152,14 +46152,14 @@
     },
     {
       "id": 547,
-      "name": "GAUTHAMI DEGREE COLLEGE",
+      "name": "Gauthami Degree College (Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "MEDCHAL-MALKAJGIRI",
       "state": "Telangana",
       "address": "D.NO:60-09/4/6/NR, TELANGANA ENCLAVE, NEAR HP GAS OFFICE, CHINTAL, IDPL",
-      "phone": "0123-456789",
-      "website": "https://www.gauthamidegreec.edu.in",
-      "rating": 4.8,
+      "phone": "089191-36286",
+      "website": "https://www.gauthami.in",
+      "rating": 4.1,
       "reviews": 471,
       "type": "Private",
       "about": "Welcome to GAUTHAMI DEGREE COLLEGE, a premier institute located in MEDCHAL-MALKAJGIRI. We offer world-class education and facilities for our students.",
@@ -46178,13 +46178,31 @@
       ],
       "courses": [
         {
-          "title": "BBA",
-          "type": "MANAGEMENT",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "Bachelor of Commerce (B.Com Computer Applications)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10+2 with Commerce / Math",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "title": "B.Sc in Computer Science & Data Science",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹48,000/Year",
+          "eligibility": "10+2 with Science (PCM)",
+          "exams": "Merit Based",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -46204,20 +46222,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 471,
-      "image": "/images/campuses/chetana_bandra.jpg",
+      "image": "/images/campuses/campus_architecture_2.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GAUTHAMI%20DEGREE%20COLLEGE%20MEDCHAL-MALKAJGIRI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GAUTHAMI%20DEGREE%20COLLEGE%20MEDCHAL-MALKAJGIRI%20Telangana",
+      "city": "Hyderabad",
+      "established": 2005
     },
     {
       "id": 548,
-      "name": "RAMNATH GULJARILAL KEDIA COLLEGE OF COMMERCE",
+      "name": "Ramnath Guljarilal Kedia College of Commerce (RG Kedia College, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "3-1-336, ISAMIA BAZAR, OPP.NEW CHADERGHAT BRIDGE, KACHIGUDA STATION ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.ramnathguljaril.edu.in",
-      "rating": 4.7,
+      "phone": "040-24738708",
+      "website": "https://www.rgkediacollege.com",
+      "rating": 4.3,
       "reviews": 612,
       "type": "Private",
       "about": "Welcome to RAMNATH GULJARILAL KEDIA COLLEGE OF COMMERCE, a premier institute located in HYDERABAD. We offer world-class education and facilities for our students.",
@@ -46236,13 +46256,49 @@
       ],
       "courses": [
         {
-          "title": "BBA",
-          "type": "MANAGEMENT",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Commerce (B.Com Honours)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Commerce (50%+)",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "B.Com in Computer Applications",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹42,000/Year",
+          "eligibility": "10+2 with Commerce / Math",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Computer Applications (MCA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "BCA / B.Sc with Math + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -46262,20 +46318,22 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 612,
-      "image": "/images/campuses/koshys_bangalore.jpg",
+      "image": "/images/campuses/campus_architecture_3.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAMNATH%20GULJARILAL%20KEDIA%20COLLEGE%20OF%20COMMERCE%20HYDERABAD%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAMNATH%20GULJARILAL%20KEDIA%20COLLEGE%20OF%20COMMERCE%20HYDERABAD%20Telangana",
+      "city": "Hyderabad",
+      "established": 1972
     },
     {
       "id": 549,
-      "name": "GURU NANAK INSTITUTE OF TECHNOLOGY",
+      "name": "Guru Nanak Institute of Technology (GNIT Ibrahimpatnam, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "RANGAREDDI",
       "state": "Telangana",
       "address": "KHANAPUR, MANCHAL MANDAL, IBRAHIMPATNAM,",
-      "phone": "0123-456789",
-      "website": "https://www.gurunanakinstit.edu.in",
-      "rating": 4.6,
+      "phone": "08414-202120",
+      "website": "https://gnithyd.ac.in",
+      "rating": 4.3,
       "reviews": 1498,
       "type": "Private",
       "about": "Welcome to GURU NANAK INSTITUTE OF TECHNOLOGY, a premier institute located in RANGAREDDI. We offer world-class education and facilities for our students.",
@@ -46294,13 +46352,49 @@
       ],
       "courses": [
         {
-          "title": "MECHANICAL ENGINEERING",
-          "type": "ENGINEERING AND TECHNOLOGY",
-          "division": "UNDER GRADUATE",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "240"
+        },
+        {
+          "title": "B.Tech in CSE (Artificial Intelligence & Data Science)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹95,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹90,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -46322,17 +46416,19 @@
       "reviewsCount": 1498,
       "image": "https://www.collegebatch.com/static/clg-gallery/guru-nanak-institutions-technical-campus-ranga-reddy-240258.webp",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GURU%20NANAK%20INSTITUTE%20OF%20TECHNOLOGY%20RANGAREDDI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GURU%20NANAK%20INSTITUTE%20OF%20TECHNOLOGY%20RANGAREDDI%20Telangana",
+      "city": "Ranga Reddy",
+      "established": 1999
     },
     {
       "id": 550,
-      "name": "ST. ANN'S COLLEGE FOR WOMEN",
+      "name": "St. Ann's College for Women (Mehdipatnam, Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "HYDERABAD",
       "state": "Telangana",
       "address": "SANTOSHNAGAR COLONY, MEHDIPATNAM, HYDERABAD",
-      "phone": "0123-456789",
-      "website": "https://www.stannscollegefo.edu.in",
+      "phone": "040-23513020",
+      "website": "https://stannscollegehyd.com",
       "rating": 4.6,
       "reviews": 1764,
       "type": "Private",
@@ -46352,13 +46448,49 @@
       ],
       "courses": [
         {
-          "title": "BCA",
-          "type": "COMPUTER APPLICATIONS",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Computer Applications (BCA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹55,000/Year",
+          "eligibility": "10+2 in any stream with Math / CS",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹65,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "B.Sc in Computer Science & Artificial Intelligence",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with Science (PCM)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "title": "B.Sc in Genetics, Microbiology & Chemistry",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Biology & Chemistry",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹75,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -46378,21 +46510,23 @@
       "brochureLink": "",
       "country": "India",
       "reviewsCount": 1764,
-      "image": "/images/campuses/saraswati_kharghar.webp",
+      "image": "/images/campuses/campus_architecture_4.jpg",
       "ownership": "Private",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20ANN'S%20COLLEGE%20FOR%20WOMEN%20HYDERABAD%20Telangana",
-      "imageUrl": "/images/campuses/campus_osmania_university.jpg"
+      "imageUrl": "/images/campuses/campus_osmania_university.jpg",
+      "city": "Hyderabad",
+      "established": 1983
     },
     {
       "id": 551,
-      "name": "HAINDAVI DEGREE COLLEGE",
+      "name": "Haindavi Degree & PG College (Hyderabad)",
       "shortName": "Course Institute-1",
       "location": "MEDCHAL-MALKAJGIRI",
       "state": "Telangana",
       "address": "1-7-185/4, KAMALA NAGAR, ECIL",
-      "phone": "0123-456789",
-      "website": "https://www.haindavidegreec.edu.in",
-      "rating": 4.6,
+      "phone": "092481-21184",
+      "website": "https://haindavipgcollege.com",
+      "rating": 4.1,
       "reviews": 2028,
       "type": "Private",
       "about": "Welcome to HAINDAVI DEGREE COLLEGE, a premier institute located in MEDCHAL-MALKAJGIRI. We offer world-class education and facilities for our students.",
@@ -46411,13 +46545,40 @@
       ],
       "courses": [
         {
-          "title": "BBA",
-          "type": "MANAGEMENT",
-          "division": "UNDER GRADUATE",
-          "duration": "4 Years",
-          "fees": "Contact for details",
-          "intake": 60,
-          "eligibility": "As per norms"
+          "title": "Bachelor of Business Administration (BBA)",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 in any stream",
+          "exams": "Merit Based",
+          "intake": "120"
+        },
+        {
+          "title": "B.Com in Computer Applications",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹40,000/Year",
+          "eligibility": "10+2 with Commerce / Math",
+          "exams": "Merit Based",
+          "intake": "180"
+        },
+        {
+          "title": "B.Sc in Computer Science & Statistics",
+          "division": "Undergraduate",
+          "duration": "3 Years",
+          "fees": "₹45,000/Year",
+          "eligibility": "10+2 with Science (PCM)",
+          "exams": "Merit Based",
+          "intake": "60"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
+          "division": "Postgraduate",
+          "duration": "2 Years",
+          "fees": "₹60,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "120"
         }
       ],
       "highestPackage": "₹18 LPA",
@@ -46439,22 +46600,24 @@
       "reviewsCount": 2028,
       "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-11-3-16-42-14_Hy.jpg",
       "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HAINDAVI%20DEGREE%20COLLEGE%20MEDCHAL-MALKAJGIRI%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HAINDAVI%20DEGREE%20COLLEGE%20MEDCHAL-MALKAJGIRI%20Telangana",
+      "city": "Hyderabad",
+      "established": 2002
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/international-institute-of-information-technology-hyderabad-53885",
-      "name": "IIIT Hyderabad",
+      "name": "International Institute of Information Technology, Hyderabad (Main Campus)",
       "shortName": "IH",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Telangana, Telangana, India",
-      "phone": "080-26597135",
+      "phone": "040-66531000",
       "email": "admissions@ih.edu.in",
-      "website": "https://www.iith.ac.in",
-      "rating": 4.5,
+      "website": "https://www.iiit.ac.in",
+      "rating": 4.8,
       "reviews": 471,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Government",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -46474,31 +46637,40 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹3,80,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / UGEE",
+          "exams": "JEE Main, UGEE",
+          "intake": "150"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Electronics and Communication Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹3,80,000/Year",
+          "eligibility": "10+2 with PCM + JEE Main / UGEE",
+          "exams": "JEE Main, UGEE",
+          "intake": "90"
+        },
+        {
+          "title": "B.Tech + M.S. Dual Degree in CSE",
+          "division": "Dual Degree",
+          "duration": "5 Years",
+          "fees": "₹3,80,000/Year",
+          "eligibility": "10+2 with PCM + UGEE",
+          "exams": "UGEE",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "M.Tech in Computer Science and Engineering",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹3,80,000/Year",
+          "eligibility": "B.Tech in CSE / IT + PGEE",
+          "exams": "PGEE",
+          "intake": "90"
         }
       ],
       "highestPackage": "₹102 LPA",
@@ -46529,22 +46701,24 @@
       "reviewsCount": 471,
       "image": "/images/campuses/campus_architecture_1.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIIT%20Hyderabad%20Telangana%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Hyderabad",
+      "established": 1998
     },
     {
       "shikshaUrl": "https://www.shiksha.com/university/international-institute-of-information-technology-hyderabad-53885/compare",
-      "name": "IIIT Hyderabad ,Gachibowli",
+      "name": "IIIT Hyderabad - Kohli Centre on Intelligent Systems (KCIS, Gachibowli)",
       "shortName": "CIH",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Telangana, Telangana, India",
-      "phone": "080-26597135",
+      "phone": "040-66531000",
       "email": "admissions@cih.edu.in",
-      "website": "https://www.iith.ac.in",
-      "rating": 4.5,
+      "website": "https://kcis.iiit.ac.in",
+      "rating": 4.9,
       "reviews": 168,
-      "type": "Public/Government",
+      "type": "Private",
       "ownership": "Government",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -46564,31 +46738,31 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
-        },
-        {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
-        },
-        {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
+          "title": "M.S. by Research in Artificial Intelligence & Machine Learning",
+          "division": "Postgraduate Research",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
+          "fees": "₹3,80,000/Year",
+          "eligibility": "B.Tech in CSE / ECE / Data Science + PGEE",
+          "exams": "PGEE",
           "intake": "30"
+        },
+        {
+          "title": "M.S. by Research in Robotics & Autonomous Systems",
+          "division": "Postgraduate Research",
+          "duration": "2 Years",
+          "fees": "₹3,80,000/Year",
+          "eligibility": "B.Tech in Mech / EEE / CSE + PGEE",
+          "exams": "PGEE",
+          "intake": "20"
+        },
+        {
+          "title": "Ph.D. in AI and Cognitive Computing",
+          "division": "Doctoral",
+          "duration": "4 Years",
+          "fees": "₹1,50,000/Year",
+          "eligibility": "Master's degree in CS / Engineering + Research Interview",
+          "exams": "PGEE, Interview",
+          "intake": "15"
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -46614,22 +46788,24 @@
       "reviewsCount": 168,
       "image": "/images/campuses/campus_architecture_9.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIIT%20Hyderabad%20%2CGachibowli%20Telangana%20Telangana",
-      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg"
+      "imageUrl": "/images/campuses/campus_nit_surathkal.jpg",
+      "city": "Hyderabad",
+      "established": 2015
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/university-college-of-engineering-osmania-university-amberpet-hyderabad-19300/admission",
-      "name": "UCEOU",
+      "name": "University College of Engineering, Osmania University (UCEOU Hyderabad)",
       "shortName": "UA2",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Telangana, Telangana, India",
-      "phone": "080-26597135",
+      "phone": "040-27098254",
       "email": "admissions@ua2.edu.in",
-      "website": "https://www.google.com/search?q=UCEOU%20official%20website%20Telangana%20Telangana",
-      "rating": 4.5,
+      "website": "https://www.uceou.edu",
+      "rating": 4.7,
       "reviews": 360,
-      "type": "Private",
+      "type": "Public/Government",
       "ownership": "Private",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
@@ -46649,30 +46825,66 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.E. in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
-        },
-        {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
+          "title": "B.E. in Artificial Intelligence & Machine Learning",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.E. in Electronics & Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.E. in Electrical & Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.E. in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.E. in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.E. in Mining Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
           "intake": "30"
         }
       ],
@@ -46705,20 +46917,22 @@
       "id": 554,
       "reviewsCount": 360,
       "image": "https://img.jagranjosh.com/images/2022/December/28122022/University-College-of-Engineering-Osmania-University-UCEOU-Hyderabad-Campus-View.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UCEOU%20Telangana%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=UCEOU%20Telangana%20Telangana",
+      "city": "Hyderabad",
+      "established": 1929
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/jntuh-college-of-engineering-hyderabad-jawaharlal-nehru-technological-university-hyderabad-kukatpally-48793/admission",
-      "name": "JNTUH College of Engineering Hyderabad, Jawaharlal Nehru Technological University, Hyderabad",
+      "name": "JNTUH University College of Engineering, Hyderabad (JNTUH UCEH)",
       "shortName": "JCOEHJ",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Ashok Nagar,  Kukatpally Housing Board Colony",
-      "phone": "04023158661",
+      "phone": "040-23158661",
       "email": "info.ceh@jntuh.ac.in",
-      "website": "https://jntuhceh.ac.in/",
-      "rating": 4.5,
+      "website": "https://jntuhceh.ac.in",
+      "rating": 4.6,
       "reviews": 347,
       "type": "Public/Government",
       "ownership": "Private",
@@ -46740,31 +46954,58 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
-        },
-        {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Electronics and Communication Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Electrical and Electronics Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Mechanical Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
+        },
+        {
+          "title": "B.Tech in Civil Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹50,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET Rank",
+          "exams": "TS EAMCET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹53 LPA",
@@ -46795,20 +47036,22 @@
       "id": 555,
       "reviewsCount": 347,
       "image": "https://jntuh.ac.in/images/jntu.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JNTUH%20College%20of%20Engineering%20Hyderabad%2C%20Jawaharlal%20Nehru%20Technological%20University%2C%20Hyderabad%20Telangana%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JNTUH%20College%20of%20Engineering%20Hyderabad%2C%20Jawaharlal%20Nehru%20Technological%20University%2C%20Hyderabad%20Telangana%20Telangana",
+      "city": "Hyderabad",
+      "established": 1965
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/institute-of-aeronautical-engineering-hyderabad-52620/admission",
-      "name": "Institute of Aeronautical Engineering, Hyderabad",
+      "name": "Institute of Aeronautical Engineering (IARE Dundigal, Hyderabad)",
       "shortName": "IOAEH",
       "location": "Telangana",
       "state": "Telangana",
       "country": "India",
       "address": "Institute of Aeronautical Engineering, Dundigal",
-      "phone": "91546 78975",
+      "phone": "091546-78975",
       "email": "info@iare.ac.in",
-      "website": "https://www.iare.ac.in/",
-      "rating": 4.5,
+      "website": "https://www.iare.ac.in",
+      "rating": 4.4,
       "reviews": 332,
       "type": "Private",
       "ownership": "Private",
@@ -46830,31 +47073,58 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
+          "title": "B.Tech in Aeronautical Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
           "intake": "120"
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
+          "title": "B.Tech in Aerospace Engineering",
           "division": "Undergraduate",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
           "intake": "60"
         },
         {
-          "title": "M.Tech in Technology & Engineering",
+          "title": "B.Tech in Computer Science and Engineering",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "240"
+        },
+        {
+          "title": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,05,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "180"
+        },
+        {
+          "title": "B.Tech in Information Technology",
+          "division": "Undergraduate",
+          "duration": "4 Years",
+          "fees": "₹1,00,000/Year",
+          "eligibility": "10+2 with PCM + TS EAMCET",
+          "exams": "TS EAMCET",
+          "intake": "120"
+        },
+        {
+          "title": "Master of Business Administration (MBA)",
           "division": "Postgraduate",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹65,000/Year",
+          "eligibility": "Graduation (50%+) + TS ICET",
+          "exams": "TS ICET",
+          "intake": "60"
         }
       ],
       "highestPackage": "₹60 LPA",
@@ -46886,7 +47156,9 @@
       "id": 556,
       "reviewsCount": 332,
       "image": "/images/campuses/campus_architecture_8.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Institute%20of%20Aeronautical%20Engineering%2C%20Hyderabad%20Telangana%20Telangana"
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Institute%20of%20Aeronautical%20Engineering%2C%20Hyderabad%20Telangana%20Telangana",
+      "city": "Hyderabad",
+      "established": 2000
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/cvr-college-of-engineering-ranga-reddy-25365/admission",

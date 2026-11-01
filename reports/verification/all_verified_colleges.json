@@ -6973,5 +6973,80 @@
         "website": "https://avinashcollege.com"
       }
     ]
+  },
+  {
+    "batch": 94,
+    "items": [
+      {
+        "id": 547,
+        "name": "Gauthami Degree College (Hyderabad)",
+        "type": "Private",
+        "location": "CHINTAL, IDPL",
+        "website": "https://www.gauthami.in"
+      },
+      {
+        "id": 548,
+        "name": "Ramnath Guljarilal Kedia College of Commerce (RG Kedia College, Hyderabad)",
+        "type": "Private",
+        "location": "OPP.NEW CHADERGHAT BRIDGE, KACHIGUDA STATION ROAD",
+        "website": "https://www.rgkediacollege.com"
+      },
+      {
+        "id": 549,
+        "name": "Guru Nanak Institute of Technology (GNIT Ibrahimpatnam, Hyderabad)",
+        "type": "Private",
+        "location": "IBRAHIMPATNAM,",
+        "website": "https://gnithyd.ac.in"
+      },
+      {
+        "id": 550,
+        "name": "St. Ann's College for Women (Mehdipatnam, Hyderabad)",
+        "type": "Private",
+        "location": "MEHDIPATNAM, HYDERABAD",
+        "website": "https://stannscollegehyd.com"
+      },
+      {
+        "id": 551,
+        "name": "Haindavi Degree & PG College (Hyderabad)",
+        "type": "Private",
+        "location": "KAMALA NAGAR, ECIL",
+        "website": "https://haindavipgcollege.com"
+      },
+      {
+        "id": 552,
+        "name": "International Institute of Information Technology, Hyderabad (Main Campus)",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://www.iiit.ac.in"
+      },
+      {
+        "id": 553,
+        "name": "IIIT Hyderabad - Kohli Centre on Intelligent Systems (KCIS, Gachibowli)",
+        "type": "Private",
+        "location": "Telangana, India",
+        "website": "https://kcis.iiit.ac.in"
+      },
+      {
+        "id": 554,
+        "name": "University College of Engineering, Osmania University (UCEOU Hyderabad)",
+        "type": "Public/Government",
+        "location": "Telangana, India",
+        "website": "https://www.uceou.edu"
+      },
+      {
+        "id": 555,
+        "name": "JNTUH University College of Engineering, Hyderabad (JNTUH UCEH)",
+        "type": "Public/Government",
+        "location": "Ashok Nagar,  Kukatpally Housing Board Colony",
+        "website": "https://jntuhceh.ac.in"
+      },
+      {
+        "id": 556,
+        "name": "Institute of Aeronautical Engineering (IARE Dundigal, Hyderabad)",
+        "type": "Private",
+        "location": "Institute of Aeronautical Engineering, Dundigal",
+        "website": "https://www.iare.ac.in"
+      }
+    ]
   }
 ]

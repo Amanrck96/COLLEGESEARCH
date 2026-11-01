@@ -1,0 +1,122 @@
+[
+  {
+    "id": 547,
+    "name": "GAUTHAMI DEGREE COLLEGE",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/chetana_bandra.jpg",
+    "website": "https://www.gauthamidegreec.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.8,
+    "coursesCount": 1
+  },
+  {
+    "id": 548,
+    "name": "RAMNATH GULJARILAL KEDIA COLLEGE OF COMMERCE",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.ramnathguljaril.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.7,
+    "coursesCount": 1
+  },
+  {
+    "id": 549,
+    "name": "GURU NANAK INSTITUTE OF TECHNOLOGY",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/guru-nanak-institutions-technical-campus-ranga-reddy-240258.webp",
+    "website": "https://www.gurunanakinstit.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "coursesCount": 1
+  },
+  {
+    "id": 550,
+    "name": "ST. ANN'S COLLEGE FOR WOMEN",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.stannscollegefo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "coursesCount": 1
+  },
+  {
+    "id": 551,
+    "name": "HAINDAVI DEGREE COLLEGE",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2019-11-3-16-42-14_Hy.jpg",
+    "website": "https://www.haindavidegreec.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.6,
+    "coursesCount": 1
+  },
+  {
+    "id": 552,
+    "name": "IIIT Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.iith.ac.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 553,
+    "name": "IIIT Hyderabad ,Gachibowli",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "/images/campuses/campus_architecture_9.jpg",
+    "website": "https://www.iith.ac.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 554,
+    "name": "UCEOU",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2022/December/28122022/University-College-of-Engineering-Osmania-University-UCEOU-Hyderabad-Campus-View.jpg",
+    "website": "https://www.google.com/search?q=UCEOU%20official%20website%20Telangana%20Telangana",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 555,
+    "name": "JNTUH College of Engineering Hyderabad, Jawaharlal Nehru Technological University, Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Public/Government",
+    "image": "https://jntuh.ac.in/images/jntu.jpg",
+    "website": "https://jntuhceh.ac.in/",
+    "phone": "04023158661",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 556,
+    "name": "Institute of Aeronautical Engineering, Hyderabad",
+    "state": "Telangana",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://www.iare.ac.in/",
+    "phone": "91546 78975",
+    "rating": 4.5,
+    "coursesCount": 3
+  }
+]
