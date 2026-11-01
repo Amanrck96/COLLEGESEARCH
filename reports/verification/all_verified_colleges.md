@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1460 / 12,660**  
-**Roadmap Progress**: **146.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1470 / 12,660**  
+**Roadmap Progress**: **147.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2199,4 +2199,19 @@
 | **1136** | Government Engineering College, Banka | Public/Government | District Banka, Bihar - 813102 | [www.gecbanka.org](https://www.gecbanka.org) |
 | **1138** | Government Polytechnic, West Champaran | Public/Government | District West Champaran, Bihar - 845438 | [gpwestchamparan.ac.in](https://gpwestchamparan.ac.in) |
 | **1139** | Government Engineering College, Jehanabad | Public/Government | District Jehanabad, Bihar - 804407 | [www.gecjehanabad.ac.in](https://www.gecjehanabad.ac.in) |
+
+### Batch 147 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1141** | Katihar Engineering College, Katihar | Public/Government | Katihar, Bihar - 854109 | [keck.ac.in](https://keck.ac.in) |
+| **1142** | Government Engineering College, Jamui | Public/Government | District Jamui, Bihar - 811313 | [www.gecjamui.org](https://www.gecjamui.org) |
+| **1143** | Government Engineering College, Sheohar | Public/Government | District Sheohar, Bihar - 843329 | [gecsheohar.org.in](https://gecsheohar.org.in) |
+| **1144** | Government Engineering College, Kishanganj | Public/Government | District Kishanganj, Bihar - 855116 | [geckishanganj.ac.in](https://geckishanganj.ac.in) |
+| **1145** | Dr. C.V. Raman University, Faculty of Engineering & Technology, Vaishali | Private | District Vaishali, Bihar - 844114 | [www.cvrubihar.ac.in](https://www.cvrubihar.ac.in/) |
+| **1146** | Purnea College of Engineering, Purnia | Public/Government | Purnea, Bihar - 854303 | [www.pcepurnia.org](https://www.pcepurnia.org) |
+| **1147** | Government Polytechnic, Banka | Public/Government | District Banka, Bihar - 813105 | [gpbanka.ac.in](https://gpbanka.ac.in) |
+| **1148** | College of Commerce, Arts & Science, Patna | Public/Government | Patna, Bihar - 800020 | [cocaspatna.ac.in](https://cocaspatna.ac.in) |
+| **1149** | Government Engineering College, Sheikhpura | Public/Government | District Sheikhpura, Bihar - 811105 | [www.gecsheikhpura.org.in](https://www.gecsheikhpura.org.in) |
+| **1150** | Government Polytechnic, Araria | Public/Government | District Araria, Bihar - 854311 | [gpararia.ac.in](https://gpararia.ac.in) |
 

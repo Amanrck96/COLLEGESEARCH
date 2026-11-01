@@ -10948,5 +10948,80 @@
         "website": "https://www.gecjehanabad.ac.in"
       }
     ]
+  },
+  {
+    "batch": 147,
+    "items": [
+      {
+        "id": 1141,
+        "name": "Katihar Engineering College, Katihar",
+        "type": "Public/Government",
+        "location": "Katihar, Bihar - 854109",
+        "website": "https://keck.ac.in"
+      },
+      {
+        "id": 1142,
+        "name": "Government Engineering College, Jamui",
+        "type": "Public/Government",
+        "location": "District Jamui, Bihar - 811313",
+        "website": "https://www.gecjamui.org"
+      },
+      {
+        "id": 1143,
+        "name": "Government Engineering College, Sheohar",
+        "type": "Public/Government",
+        "location": "District Sheohar, Bihar - 843329",
+        "website": "https://gecsheohar.org.in"
+      },
+      {
+        "id": 1144,
+        "name": "Government Engineering College, Kishanganj",
+        "type": "Public/Government",
+        "location": "District Kishanganj, Bihar - 855116",
+        "website": "https://geckishanganj.ac.in"
+      },
+      {
+        "id": 1145,
+        "name": "Dr. C.V. Raman University, Faculty of Engineering & Technology, Vaishali",
+        "type": "Private",
+        "location": "District Vaishali, Bihar - 844114",
+        "website": "https://www.cvrubihar.ac.in/"
+      },
+      {
+        "id": 1146,
+        "name": "Purnea College of Engineering, Purnia",
+        "type": "Public/Government",
+        "location": "Purnea, Bihar - 854303",
+        "website": "https://www.pcepurnia.org"
+      },
+      {
+        "id": 1147,
+        "name": "Government Polytechnic, Banka",
+        "type": "Public/Government",
+        "location": "District Banka, Bihar - 813105",
+        "website": "https://gpbanka.ac.in"
+      },
+      {
+        "id": 1148,
+        "name": "College of Commerce, Arts & Science, Patna",
+        "type": "Public/Government",
+        "location": "Patna, Bihar - 800020",
+        "website": "https://cocaspatna.ac.in"
+      },
+      {
+        "id": 1149,
+        "name": "Government Engineering College, Sheikhpura",
+        "type": "Public/Government",
+        "location": "District Sheikhpura, Bihar - 811105",
+        "website": "https://www.gecsheikhpura.org.in"
+      },
+      {
+        "id": 1150,
+        "name": "Government Polytechnic, Araria",
+        "type": "Public/Government",
+        "location": "District Araria, Bihar - 854311",
+        "website": "https://gpararia.ac.in"
+      }
+    ]
   }
 ]
