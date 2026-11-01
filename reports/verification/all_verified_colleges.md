@@ -2577,3 +2577,17 @@
 | 1418 | Sri Aditya Degree College, Denduluru, Eluru | West Godavari | Andhra Pradesh | Private | [https://aditya.ac.in/degree](https://aditya.ac.in/degree) |
 | 1419 | Sri Srinivasa Degree College, Madanapalle | Chittoor | Andhra Pradesh | Private | [https://srisrinivasacollege.in](https://srisrinivasacollege.in) |
 | 1420 | Vignan Degree College, Nandyal | Kurnool | Andhra Pradesh | Private | [https://vignandegreecollege.in](https://vignandegreecollege.in) |
+
+### Batch 173 (Colleges 1,721–1,730, IDs: 1421–1430)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1421 | Vishwa Hitha Degree College, Madanapalle | Madanapalle, Annamayya | Andhra Pradesh | Private | [Website](https://vishwahithadegreecollege.in) |
+| 1422 | Rajiv Gandhi University of Knowledge Technologies, Srikakulam | Srikakulam | Andhra Pradesh | Public/Government | [Website](https://rguktsklm.ac.in) |
+| 1423 | Vignan's Foundation for Science, Technology and Research | Vadlamudi, Guntur | Andhra Pradesh | Private (Deemed University) | [Website](https://www.vignan.ac.in) |
+| 1424 | Harinadha Reddy Institute of Management Sciences | Chinnagottigallu, Tirupati | Andhra Pradesh | Private | [Website](https://himsmanagement.com) |
+| 1425 | Government Polytechnic for Minorities, Kurnool | Kurnool | Andhra Pradesh | Public/Government | [Website](https://polytechnic.ap.gov.in) |
+| 1426 | NRI Institute of Technology (Autonomous) | Agiripalli, Krishna | Andhra Pradesh | Private | [Website](https://nriit.edu.in) |
+| 1427 | Sri Sai Degree College, Anantapur | Anantapur | Andhra Pradesh | Private | [Website](https://srisaidegreeatp.com) |
+| 1428 | Sir C R Reddy College (Autonomous) | Eluru, West Godavari | Andhra Pradesh | Private (Aided Autonomous) | [Website](https://sircrreddycollege.ac.in) |
+| 1429 | Rajiv Gandhi Degree College, Rajahmundry | Rajahmundry, East Godavari | Andhra Pradesh | Private | [Website](https://rajivgandhidegreecollege.in) |
+| 1430 | Government Polytechnic, Madakasira | Madakasira, Sri Sathya Sai | Andhra Pradesh | Public/Government | [Website](https://polytechnic.ap.gov.in) |
