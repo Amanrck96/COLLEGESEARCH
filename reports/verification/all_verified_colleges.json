@@ -8848,5 +8848,80 @@
         "website": "https://jcboseust.ac.in"
       }
     ]
+  },
+  {
+    "batch": 119,
+    "items": [
+      {
+        "id": 839,
+        "name": "Sanskaram University (Khatiwas, Jhajjar)",
+        "type": "Private",
+        "location": "Jhajjar, Haryana - 124103",
+        "website": "https://www.sanskaramuniversity.ac.in"
+      },
+      {
+        "id": 840,
+        "name": "The NorthCap University (NCU Gurugram)",
+        "type": "Private",
+        "location": "Gurugram, Haryana - 122017",
+        "website": "https://www.ncuindia.edu"
+      },
+      {
+        "id": 841,
+        "name": "Manav Rachna International Institute of Research and Studies (MRIIRS Faridabad)",
+        "type": "Private",
+        "location": "Faridabad, Haryana - 121004",
+        "website": "https://manavrachna.edu.in/mriirs"
+      },
+      {
+        "id": 842,
+        "name": "IILM University (Golf Course Road, Gurugram)",
+        "type": "Private",
+        "location": "Gurugram, Haryana - 122003",
+        "website": "https://iilm.edu.in"
+      },
+      {
+        "id": 843,
+        "name": "Amity University Gurugram (Manesar Campus)",
+        "type": "Private",
+        "location": "Gurugram, Haryana - 122413",
+        "website": "https://www.amity.edu/gurugram"
+      },
+      {
+        "id": 844,
+        "name": "Faculty of Engineering and Technology, MRIIRS (FET MRIIRS Faridabad)",
+        "type": "Private",
+        "location": "Faridabad, Haryana - 121004",
+        "website": "https://manavrachna.edu.in/mriirs/academics/fet"
+      },
+      {
+        "id": 845,
+        "name": "Maharishi Markandeshwar (Deemed to be University), Mullana (MMDU Ambala)",
+        "type": "Private",
+        "location": "Ambala, Haryana - 133207",
+        "website": "https://www.mmumullana.org"
+      },
+      {
+        "id": 846,
+        "name": "Amity School of Engineering and Technology, Gurugram (ASET Amity Gurugram)",
+        "type": "Private",
+        "location": "Gurugram, Haryana - 122413",
+        "website": "https://www.amity.edu/gurugram/aset"
+      },
+      {
+        "id": 847,
+        "name": "Central University of Punjab (CUPB Bathinda)",
+        "type": "Public/Government",
+        "location": "Bathinda, Punjab - 151401",
+        "website": "https://www.cup.edu.in"
+      },
+      {
+        "id": 848,
+        "name": "Guru Nanak Dev University (GNDU Amritsar)",
+        "type": "Public/Government",
+        "location": "Amritsar, Punjab - 143005",
+        "website": "https://www.gndu.ac.in"
+      }
+    ]
   }
 ]

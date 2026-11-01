@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1180 / 12,660**  
-**Roadmap Progress**: **118.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1190 / 12,660**  
+**Roadmap Progress**: **119.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1779,4 +1779,19 @@
 | **836** | School of Engineering & Technology, BML Munjal University (BMU Gurugram) | Private | Haryana, India | [www.bmu.edu.in](https://www.bmu.edu.in) |
 | **837** | Guru Jambheshwar University of Science and Technology (GJUST Hisar) | Public/Government | Guru Jambheshwar University of Science & Technology, Hisar-Delhi Bypass Rd | [www.gjust.ac.in](https://www.gjust.ac.in) |
 | **838** | J.C. Bose University of Science and Technology, YMCA (YMCA Faridabad) | Public/Government | Sector-6, Mathura Road | [jcboseust.ac.in](https://jcboseust.ac.in) |
+
+### Batch 119 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **839** | Sanskaram University (Khatiwas, Jhajjar) | Private | Jhajjar, Haryana - 124103 | [www.sanskaramuniversity.ac.in](https://www.sanskaramuniversity.ac.in) |
+| **840** | The NorthCap University (NCU Gurugram) | Private | Gurugram, Haryana - 122017 | [www.ncuindia.edu](https://www.ncuindia.edu) |
+| **841** | Manav Rachna International Institute of Research and Studies (MRIIRS Faridabad) | Private | Faridabad, Haryana - 121004 | [manavrachna.edu.in](https://manavrachna.edu.in/mriirs) |
+| **842** | IILM University (Golf Course Road, Gurugram) | Private | Gurugram, Haryana - 122003 | [iilm.edu.in](https://iilm.edu.in) |
+| **843** | Amity University Gurugram (Manesar Campus) | Private | Gurugram, Haryana - 122413 | [www.amity.edu](https://www.amity.edu/gurugram) |
+| **844** | Faculty of Engineering and Technology, MRIIRS (FET MRIIRS Faridabad) | Private | Faridabad, Haryana - 121004 | [manavrachna.edu.in](https://manavrachna.edu.in/mriirs/academics/fet) |
+| **845** | Maharishi Markandeshwar (Deemed to be University), Mullana (MMDU Ambala) | Private | Ambala, Haryana - 133207 | [www.mmumullana.org](https://www.mmumullana.org) |
+| **846** | Amity School of Engineering and Technology, Gurugram (ASET Amity Gurugram) | Private | Gurugram, Haryana - 122413 | [www.amity.edu](https://www.amity.edu/gurugram/aset) |
+| **847** | Central University of Punjab (CUPB Bathinda) | Public/Government | Bathinda, Punjab - 151401 | [www.cup.edu.in](https://www.cup.edu.in) |
+| **848** | Guru Nanak Dev University (GNDU Amritsar) | Public/Government | Amritsar, Punjab - 143005 | [www.gndu.ac.in](https://www.gndu.ac.in) |
 
