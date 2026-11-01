@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1520 / 12,660**  
-**Roadmap Progress**: **152.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1530 / 12,660**  
+**Roadmap Progress**: **153.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2289,4 +2289,19 @@
 | **1202** | Girideepam Institute of Advanced Learning, Kottayam | Private | Kottayam, Kerala - 686010 | [girideepam.org](https://girideepam.org) |
 | **1203** | Don Bosco College, Sulthan Bathery | Private | Wayanad, Kerala - 673592 | [dbcsby.ac.in](https://dbcsby.ac.in) |
 | **1204** | Mount Carmel College, Karukadom | Private | Ernakulam, Kerala - 686691 | [mountcarmelcollege.ac.in](https://mountcarmelcollege.ac.in) |
+
+### Batch 153 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1205** | St. Thomas College of Engineering & Technology, Kannur | Private | Kannur, Kerala - 670702 | [stthomas.edu.in](https://stthomas.edu.in) |
+| **1206** | Providence College of Engineering, Chengannur | Private | Alappuzha, Kerala - 689122 | [providence.edu.in](https://providence.edu.in) |
+| **1207** | St. Thomas College, Thrissur | Public/Government | Thrissur, Kerala - 680001 | [stthomas.ac.in](https://stthomas.ac.in) |
+| **1208** | Sree Narayana Guru College of Advanced Studies, Punalur | Private | Kollam, Kerala - 691305 | [sngcaspunalur.in](https://sngcaspunalur.in) |
+| **1209** | ACE College of Engineering, Thiruvananthapuram | Private | Thiruvananthapuram, Kerala - 695027 | [acece.ac.in](https://acece.ac.in) |
+| **1210** | TKM College of Engineering, Kollam | Public/Government | Kollam, Kerala - 691005 | [tkmce.ac.in](https://tkmce.ac.in) |
+| **1212** | Bishop Vayalil Memorial Holy Cross College, Cherpunkal | Private | Kottayam, Kerala - 686584 | [bvmholycross.org](https://bvmholycross.org) |
+| **1213** | Federal Institute of Science and Technology (FISAT) | Private | Ernakulam, Kerala - 683577 | [fisat.ac.in](https://fisat.ac.in) |
+| **1214** | Mohandas College of Engineering and Technology, Thiruvananthapuram | Private | Thiruvananthapuram, Kerala - 695541 | [mcet.ac.in](https://mcet.ac.in) |
+| **1215** | Government Model Engineering College, Kochi | Public/Government | Kochi, Kerala - 682021 | [www.mec.ac.in](https://www.mec.ac.in) |
 

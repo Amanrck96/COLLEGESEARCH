@@ -11398,5 +11398,80 @@
         "website": "https://mountcarmelcollege.ac.in"
       }
     ]
+  },
+  {
+    "batch": 153,
+    "items": [
+      {
+        "id": 1205,
+        "name": "St. Thomas College of Engineering & Technology, Kannur",
+        "type": "Private",
+        "location": "Kannur, Kerala - 670702",
+        "website": "https://stthomas.edu.in"
+      },
+      {
+        "id": 1206,
+        "name": "Providence College of Engineering, Chengannur",
+        "type": "Private",
+        "location": "Alappuzha, Kerala - 689122",
+        "website": "https://providence.edu.in"
+      },
+      {
+        "id": 1207,
+        "name": "St. Thomas College, Thrissur",
+        "type": "Public/Government",
+        "location": "Thrissur, Kerala - 680001",
+        "website": "https://stthomas.ac.in"
+      },
+      {
+        "id": 1208,
+        "name": "Sree Narayana Guru College of Advanced Studies, Punalur",
+        "type": "Private",
+        "location": "Kollam, Kerala - 691305",
+        "website": "https://sngcaspunalur.in"
+      },
+      {
+        "id": 1209,
+        "name": "ACE College of Engineering, Thiruvananthapuram",
+        "type": "Private",
+        "location": "Thiruvananthapuram, Kerala - 695027",
+        "website": "https://acece.ac.in"
+      },
+      {
+        "id": 1210,
+        "name": "TKM College of Engineering, Kollam",
+        "type": "Public/Government",
+        "location": "Kollam, Kerala - 691005",
+        "website": "https://tkmce.ac.in"
+      },
+      {
+        "id": 1212,
+        "name": "Bishop Vayalil Memorial Holy Cross College, Cherpunkal",
+        "type": "Private",
+        "location": "Kottayam, Kerala - 686584",
+        "website": "https://bvmholycross.org"
+      },
+      {
+        "id": 1213,
+        "name": "Federal Institute of Science and Technology (FISAT)",
+        "type": "Private",
+        "location": "Ernakulam, Kerala - 683577",
+        "website": "https://fisat.ac.in"
+      },
+      {
+        "id": 1214,
+        "name": "Mohandas College of Engineering and Technology, Thiruvananthapuram",
+        "type": "Private",
+        "location": "Thiruvananthapuram, Kerala - 695541",
+        "website": "https://mcet.ac.in"
+      },
+      {
+        "id": 1215,
+        "name": "Government Model Engineering College, Kochi",
+        "type": "Public/Government",
+        "location": "Kochi, Kerala - 682021",
+        "website": "https://www.mec.ac.in"
+      }
+    ]
   }
 ]
