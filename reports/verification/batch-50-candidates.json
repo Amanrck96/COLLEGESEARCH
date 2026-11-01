@@ -1,0 +1,187 @@
+[
+  {
+    "id": 57,
+    "name": "Indian Institute of Technology Madras (IIT Madras)",
+    "address": "Indian Institute of Technology, Madras",
+    "state": "Tamil Nadu",
+    "img": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.iitm.ac.in",
+    "type": "Institute of National Importance",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "IIM Rohtak",
+    "address": "Management City, NH-10, Southern Bypass, Sunaria",
+    "state": "Delhi NCR",
+    "img": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.iimrohtak.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "IIM Nagpur",
+    "address": "Indian Institute of Management, Plot No. 1, Sector 20, MIHAN (Non-SEZ)",
+    "state": "Maharashtra",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.iimnagpur.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "INTERNATIONAL INSTITUTE OF TECHNOLOGY DESIGN AND MANAGEMENT",
+    "address": "P.M.PALEM, MADHURAWADA, BEHIND YSR CRICKET STADIUM, VISAKHAPATNAM, 530041",
+    "state": "Andhra Pradesh",
+    "img": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.iiitdm.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "SATYAM INTERNATIONAL INSTITUTE OF TECHNOLOGY",
+    "address": "GAURICHAK, PATNA, 800007",
+    "state": "Bihar",
+    "img": "/images/campuses/campus_architecture_8.jpg",
+    "website": "https://satyaminternational.com",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "SATYAM INTERNATIONAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "GAURICHAK, PATNA GAYA ROAD",
+    "state": "Bihar",
+    "img": "https://www.collegebatch.com/static/clg-gallery/satyam-institute-of-technology-management-patna-359748.webp",
+    "website": "https://siitm.org",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "SATYAM INTERNATIONAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT PATNA",
+    "address": "PATNA-GAYA ROAD, GAURICHAK",
+    "state": "Bihar",
+    "img": "https://www.collegebatch.com/static/clg-gallery/satyam-institute-of-technology-management-patna-359749.webp",
+    "website": "https://satyaminternational.com",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "INTERNATIONAL INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+    "address": "49 KM STONE,NH-1,MURTHAL(SONIPAT )-131039 HARYANA",
+    "state": "Haryana",
+    "img": "/images/campuses/campus_cu_shah_mumbai.png",
+    "website": "https://iitm.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "BARRISTER RANJIT MOHANTY INTERNATIONAL INSTITUTE OF TECHNOLOGY",
+    "address": "BARRISTER RANJIT MOHANTY INTERNATIONAL INSTITUTE OF TECHNOLOGY, AT- PANDRA , PO- RASULGARH, BHUBANESWAR",
+    "state": "Odisha",
+    "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+    "website": "https://brmiit.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "INDIAN INSTITUTE OF MANAGEMENT AND SCIENCE",
+    "address": "PLOT NO-622, PALASPUR, CHHATABAR, JATNI, DIST-KHORDHA",
+    "state": "Odisha",
+    "img": "https://drupal.mbauniverse.com/sites/default/files/collegebanner/college_gallery_1718603087.jpeg",
+    "website": "https://iimats.com",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "Bachelor Degree Course",
+        "duration": "3-4 Years",
+        "fee": "₹4.5 Lakhs - ₹8.5 Lakhs"
+      }
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **490 / 12,660**  
-**Roadmap Progress**: **49.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **500 / 12,660**  
+**Roadmap Progress**: **50.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -744,4 +744,19 @@
 | **53** | Indian Institute of Management Indore (IIM Indore) | Institute of National Importance | Indore - 453556, Madhya Pradesh | [www.iimidr.ac.in](https://www.iimidr.ac.in) |
 | **54** | National Institute of Technology Delhi (NIT Delhi) | Institute of National Importance | GT Karnal Road, Delhi - 110036 | [nitdelhi.ac.in](https://nitdelhi.ac.in) |
 | **55** | Indian Institute of Management Tiruchirappalli (IIM Trichy) | Institute of National Importance | Tiruchirappalli - 620024, Tamil Nadu | [www.iimtrichy.ac.in](https://www.iimtrichy.ac.in) |
+
+### Batch 50 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **57** | Indian Institute of Technology Madras (IIT Madras) | Institute of National Importance | Chennai - 600036, Tamil Nadu | [www.iitm.ac.in](https://www.iitm.ac.in) |
+| **58** | Indian Institute of Management Rohtak (IIM Rohtak) | Institute of National Importance | Rohtak - 124010, Haryana | [www.iimrohtak.ac.in](https://www.iimrohtak.ac.in) |
+| **59** | Indian Institute of Management Nagpur (IIM Nagpur) | Institute of National Importance | Nagpur - 441108, Maharashtra | [www.iimnagpur.ac.in](https://www.iimnagpur.ac.in) |
+| **60** | Indian Institute of Information Technology Design & Manufacturing Kurnool (IIITDM Kurnool) | Institute of National Importance | Kurnool - 518007, Andhra Pradesh | [www.iiitk.ac.in](https://www.iiitk.ac.in) |
+| **61** | Satyam International Institute of Technology (SIIT Patna) | Private (Polytechnic & Technology Institute) | Patna - 800007, Bihar | [satyaminternational.com](https://satyaminternational.com) |
+| **62** | Satyam International Institute of Technology and Management (SIITM Patna) | Private (Technical & Management Institute) | Patna - 800007, Bihar | [siitm.org](https://siitm.org) |
+| **63** | Satyam International Institute of Technology & Management (SIITM Patna - Management Campus) | Private (Management Institute) | Patna - 800007, Bihar | [satyaminternational.com](https://satyaminternational.com) |
+| **64** | International Institute of Technology & Management (IITM Murthal) | Private (Self-Financed Technical Institute) | Sonipat - 131039, Haryana | [www.iitm.ac.in](https://www.iitm.ac.in) |
+| **65** | Barrister Ranjit Mohanty International Institute of Technology (BRMIIT Bhubaneswar) | Private (Engineering College) | Bhubaneswar - 751010, Odisha | [brmiit.ac.in](https://brmiit.ac.in) |
+| **66** | Indian Institute of Management and Science (IIMS Bhubaneswar / Khordha) | Private (Management & IT Institute) | Khordha - 752054, Odisha | [iimats.com](https://iimats.com) |
 

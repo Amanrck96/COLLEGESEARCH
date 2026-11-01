@@ -3673,5 +3673,80 @@
         "website": "https://www.iimtrichy.ac.in"
       }
     ]
+  },
+  {
+    "batch": 50,
+    "items": [
+      {
+        "id": 57,
+        "name": "Indian Institute of Technology Madras (IIT Madras)",
+        "type": "Institute of National Importance",
+        "location": "Chennai - 600036, Tamil Nadu",
+        "website": "https://www.iitm.ac.in"
+      },
+      {
+        "id": 58,
+        "name": "Indian Institute of Management Rohtak (IIM Rohtak)",
+        "type": "Institute of National Importance",
+        "location": "Rohtak - 124010, Haryana",
+        "website": "https://www.iimrohtak.ac.in"
+      },
+      {
+        "id": 59,
+        "name": "Indian Institute of Management Nagpur (IIM Nagpur)",
+        "type": "Institute of National Importance",
+        "location": "Nagpur - 441108, Maharashtra",
+        "website": "https://www.iimnagpur.ac.in"
+      },
+      {
+        "id": 60,
+        "name": "Indian Institute of Information Technology Design & Manufacturing Kurnool (IIITDM Kurnool)",
+        "type": "Institute of National Importance",
+        "location": "Kurnool - 518007, Andhra Pradesh",
+        "website": "https://www.iiitk.ac.in"
+      },
+      {
+        "id": 61,
+        "name": "Satyam International Institute of Technology (SIIT Patna)",
+        "type": "Private (Polytechnic & Technology Institute)",
+        "location": "Patna - 800007, Bihar",
+        "website": "https://satyaminternational.com"
+      },
+      {
+        "id": 62,
+        "name": "Satyam International Institute of Technology and Management (SIITM Patna)",
+        "type": "Private (Technical & Management Institute)",
+        "location": "Patna - 800007, Bihar",
+        "website": "https://siitm.org"
+      },
+      {
+        "id": 63,
+        "name": "Satyam International Institute of Technology & Management (SIITM Patna - Management Campus)",
+        "type": "Private (Management Institute)",
+        "location": "Patna - 800007, Bihar",
+        "website": "https://satyaminternational.com"
+      },
+      {
+        "id": 64,
+        "name": "International Institute of Technology & Management (IITM Murthal)",
+        "type": "Private (Self-Financed Technical Institute)",
+        "location": "Sonipat - 131039, Haryana",
+        "website": "https://www.iitm.ac.in"
+      },
+      {
+        "id": 65,
+        "name": "Barrister Ranjit Mohanty International Institute of Technology (BRMIIT Bhubaneswar)",
+        "type": "Private (Engineering College)",
+        "location": "Bhubaneswar - 751010, Odisha",
+        "website": "https://brmiit.ac.in"
+      },
+      {
+        "id": 66,
+        "name": "Indian Institute of Management and Science (IIMS Bhubaneswar / Khordha)",
+        "type": "Private (Management & IT Institute)",
+        "location": "Khordha - 752054, Odisha",
+        "website": "https://iimats.com"
+      }
+    ]
   }
 ]
