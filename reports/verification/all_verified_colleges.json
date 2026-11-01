@@ -4048,5 +4048,80 @@
         "website": "https://dce.karnataka.gov.in"
       }
     ]
+  },
+  {
+    "batch": 55,
+    "items": [
+      {
+        "id": 109,
+        "name": "Sambhram College of Hotel Management (SCHM Bengaluru)",
+        "type": "Private (Hotel Management College)",
+        "location": "Bengaluru - 560097, Karnataka",
+        "website": "https://www.sambhram.org"
+      },
+      {
+        "id": 110,
+        "name": "JSS Polytechnic Mysuru (JSS Technical Institutions)",
+        "type": "Private / Grant-in-Aid (Polytechnic)",
+        "location": "Mysuru - 570006, Karnataka",
+        "website": "https://jsspolytechnicmysuru.ac.in"
+      },
+      {
+        "id": 111,
+        "name": "Kristu Jayanti College Autonomous (KJC Bengaluru)",
+        "type": "Private Autonomous (Degree College / NAAC A++)",
+        "location": "Bengaluru - 560077, Karnataka",
+        "website": "https://kristujayanti.edu.in"
+      },
+      {
+        "id": 112,
+        "name": "Maharani Cluster University (MCU Bengaluru)",
+        "type": "Public/Government (State Public University)",
+        "location": "Bengaluru - 560001, Karnataka",
+        "website": "https://mcu.karnataka.gov.in"
+      },
+      {
+        "id": 113,
+        "name": "Pragathi Degree College (PDC Bengaluru)",
+        "type": "Private (Degree College)",
+        "location": "Bengaluru - 560090, Karnataka",
+        "website": "https://pragathicollege.org"
+      },
+      {
+        "id": 114,
+        "name": "Veda Degree College (VDC Bengaluru)",
+        "type": "Private (Degree College)",
+        "location": "Bengaluru - 560058, Karnataka",
+        "website": "https://vedacollege.edu.in"
+      },
+      {
+        "id": 115,
+        "name": "Jamia Millia Islamia (JMI New Delhi)",
+        "type": "Public/Government (Central University, NIRF #3)",
+        "location": "New Delhi - 110025, Delhi NCR",
+        "website": "https://www.jmi.ac.in"
+      },
+      {
+        "id": 116,
+        "name": "UPES School of Law, Dehradun (UPES)",
+        "type": "Private University (UPES Dehradun)",
+        "location": "Dehradun - 248007, Uttarakhand",
+        "website": "https://www.upes.ac.in"
+      },
+      {
+        "id": 117,
+        "name": "Alliance School of Law, Alliance University (Bengaluru)",
+        "type": "Private University (Alliance University)",
+        "location": "Bengaluru - 562106, Karnataka",
+        "website": "https://www.alliance.edu.in"
+      },
+      {
+        "id": 118,
+        "name": "Aligarh Muslim University (AMU Aligarh)",
+        "type": "Public/Government (Central University, NIRF Top 10)",
+        "location": "Aligarh - 202002, Uttar Pradesh",
+        "website": "https://www.amu.ac.in"
+      }
+    ]
   }
 ]

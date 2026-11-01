@@ -1,0 +1,96 @@
+[
+  {
+    "id": 109,
+    "name": "SAMBHRAM COLLEGE OF HOTEL MANAGEMENT",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://img.studyclap.com/img/institute/college/773x343/17357/schm-banglore-kolar-8ff2df83b6.jpg",
+    "website": "https://www.google.com/search?q=SAMBHRAM%20COLLEGE%20OF%20HOTEL%20MANAGEMENT%20official%20website%20KOLAR%20Karnataka",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 110,
+    "name": "JSS POLYTECHNIC",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://www.jsspolytechnicmysuru.ac.in/assets/b1-DmZEREZ0.jpg",
+    "website": "https://www.jsspolytechnic.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 111,
+    "name": "KRISTU JAYANTI COLLEGE",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.kristujayantico.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 112,
+    "name": "MAHARANI CLUSTER UNIVERSITY",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/koshys_bangalore.jpg",
+    "website": "https://www.maharanicluster.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 113,
+    "name": "PRAGATHI DEGREE COLLEGE",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://edufever.in/colleges/wp-content/uploads/2024/02/Pragathi-College-and-Institute-of-Nursing-Bangalore.jpg",
+    "website": "https://www.pragathidegreec.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 114,
+    "name": "VEDA DEGREE COLLEGE",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://www.vedadegreecolle.edu.in",
+    "phone": "0123-456789"
+  },
+  {
+    "id": 115,
+    "name": "JMI Entrance Exam 2026",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/atharva_complex_malad.jpg",
+    "website": "https://www.jmi.ac.in",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 116,
+    "name": "ULSAT 2026",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.google.com/search?q=ULSAT%202026%20official%20website%20Karnataka%20Karnataka",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 117,
+    "name": "ACLAT 2026",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://cdn.universitykart.com/Content/upload/admin/ozbxuksp.vm0.jpg",
+    "website": "https://www.google.com/search?q=ACLAT%202026%20official%20website%20Karnataka%20Karnataka",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  },
+  {
+    "id": 118,
+    "name": "AMU Entrance Exam 2026",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.amu.ac.in",
+    "phone": "080-26597135",
+    "email": "info@college.edu.in"
+  }
+]
