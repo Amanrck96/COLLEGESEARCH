@@ -12373,5 +12373,95 @@
     "type": "Private",
     "website": "https://gnduhoshiarpur.org",
     "verifiedAt": "2026-11-01T18:53:03.346Z"
+  },
+  {
+    "id": 1341,
+    "name": "Baba Isher Singh (BIS) Polytechnic College, Kot-Ise-Khan",
+    "location": "Moga",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://bispolytechnic.com",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1342,
+    "name": "Nancy Polytechnic College, Samana, Patiala",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://nancycollegesamana.com",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1343,
+    "name": "Golden College of Engineering & Technology (GCET Gurdaspur)",
+    "location": "Gurdaspur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://goldengroups.co.in",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1344,
+    "name": "Government Polytechnic College, Amritsar",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://gpamritsar.org",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1345,
+    "name": "Bankey Bihari Polytechnic College, Alamgarh, Abohar",
+    "location": "Fazilka",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://bbpcabohar.com",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1346,
+    "name": "Baba Banda Singh Bahadur Polytechnic College, Fatehgarh Sahib",
+    "location": "Fatehgarh Sahib",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://bbsbpc.com",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1347,
+    "name": "Hoshiarpur Institute of Management and Technology",
+    "location": "Hoshiarpur",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://himtpunjab.com",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1348,
+    "name": "Shaheed Bhagat Singh Polytechnic College, Patti, Tarn Taran",
+    "location": "Tarn Taran",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://sbsgroup.co.in",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1349,
+    "name": "Swami Vivekanand Polytechnic College, Banur",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://sviet.ac.in",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
+  },
+  {
+    "id": 1350,
+    "name": "Baba Farid College of Engineering & Technology, Bathinda",
+    "location": "Bathinda",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://bfcet.com",
+    "verifiedAt": "2026-11-01T18:56:21.281Z"
   }
 ]

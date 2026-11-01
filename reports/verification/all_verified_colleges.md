@@ -2465,3 +2465,17 @@
 | 1338 | KC Polytechnic College, Nawanshahr | Shahid Bhagat Singh Nagar | Punjab | Private | [https://kcnsw.com](https://kcnsw.com) |
 | 1339 | Ramgarhia Polytechnic College, Phagwara | Kapurthala | Punjab | Public/Government | [https://ramgarhiapolytechnic.com](https://ramgarhiapolytechnic.com) |
 | 1340 | Guru Nanak Institute of Engineering & Technology, Hoshiarpur | Hoshiarpur | Punjab | Private | [https://gnduhoshiarpur.org](https://gnduhoshiarpur.org) |
+
+### Batch 165 (Colleges 1,641–1,650) — Punjab Engineering & Polytechnic Colleges
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1341 | Baba Isher Singh (BIS) Polytechnic College, Kot-Ise-Khan | Moga | Punjab | Private | [https://bispolytechnic.com](https://bispolytechnic.com) |
+| 1342 | Nancy Polytechnic College, Samana, Patiala | Patiala | Punjab | Private | [https://nancycollegesamana.com](https://nancycollegesamana.com) |
+| 1343 | Golden College of Engineering & Technology (GCET Gurdaspur) | Gurdaspur | Punjab | Private | [https://goldengroups.co.in](https://goldengroups.co.in) |
+| 1344 | Government Polytechnic College, Amritsar | Amritsar | Punjab | Public/Government | [https://gpamritsar.org](https://gpamritsar.org) |
+| 1345 | Bankey Bihari Polytechnic College, Alamgarh, Abohar | Fazilka | Punjab | Private | [https://bbpcabohar.com](https://bbpcabohar.com) |
+| 1346 | Baba Banda Singh Bahadur Polytechnic College, Fatehgarh Sahib | Fatehgarh Sahib | Punjab | Public/Government | [https://bbsbpc.com](https://bbsbpc.com) |
+| 1347 | Hoshiarpur Institute of Management and Technology | Hoshiarpur | Punjab | Private | [https://himtpunjab.com](https://himtpunjab.com) |
+| 1348 | Shaheed Bhagat Singh Polytechnic College, Patti, Tarn Taran | Tarn Taran | Punjab | Private | [https://sbsgroup.co.in](https://sbsgroup.co.in) |
+| 1349 | Swami Vivekanand Polytechnic College, Banur | Patiala | Punjab | Private | [https://sviet.ac.in](https://sviet.ac.in) |
+| 1350 | Baba Farid College of Engineering & Technology, Bathinda | Bathinda | Punjab | Private | [https://bfcet.com](https://bfcet.com) |
