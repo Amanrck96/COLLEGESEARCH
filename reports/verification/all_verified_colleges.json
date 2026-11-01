@@ -12103,5 +12103,95 @@
     "type": "Public/Government",
     "website": "https://gndec.ac.in",
     "verifiedAt": "2026-11-01T18:44:28.539Z"
+  },
+  {
+    "id": 1311,
+    "name": "Chitkara University, Punjab",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.chitkara.edu.in",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1312,
+    "name": "Thapar Institute of Engineering and Technology (TIET Patiala)",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.thapar.edu",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1313,
+    "name": "Chandigarh University (CU), Mohali",
+    "location": "Mohali",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.cuchd.in",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1314,
+    "name": "Lovely Professional University (LPU Phagwara)",
+    "location": "Kapurthala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.lpu.in",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1315,
+    "name": "Government Polytechnic College, Bikhiwind, Tarn Taran",
+    "location": "Tarn Taran",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "http://gpcbikhiwind.org",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1316,
+    "name": "St. Soldier College (Co-Education), Hadiabad, Phagwara",
+    "location": "Kapurthala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://stsoldierinstitutes.com",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1317,
+    "name": "PCTE Group of Institutes, Ludhiana",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://pcte.edu.in",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1318,
+    "name": "A.S. Group of Institutions (ASGOI), Khanna",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://asinstitutes.com",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1319,
+    "name": "Department of Mechanical Engineering, Punjabi University",
+    "location": "Patiala",
+    "state": "Punjab",
+    "type": "Public/Government",
+    "website": "https://pupdepartments.ac.in",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
+  },
+  {
+    "id": 1320,
+    "name": "Anand College of Engineering & Management, Kapurthala",
+    "location": "Kapurthala",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "http://acem.org.in",
+    "verifiedAt": "2026-11-01T18:47:18.642Z"
   }
 ]

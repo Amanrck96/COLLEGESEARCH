@@ -2423,3 +2423,17 @@
 | 1308 | Hindu College, Amritsar | Amritsar | Punjab | Public/Government | [https://hinducollegeamritsar.ac.in](https://hinducollegeamritsar.ac.in) |
 | 1309 | Punjab Engineering College (Deemed to be University), Chandigarh | Chandigarh | Punjab | Public/Government | [https://pec.ac.in](https://pec.ac.in) |
 | 1310 | Guru Nanak Dev Engineering College, Ludhiana | Ludhiana | Punjab | Public/Government | [https://gndec.ac.in](https://gndec.ac.in) |
+
+### Batch 162 (Colleges 1,611–1,620) — Punjab Universities, Colleges & Polytechnics
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1311 | Chitkara University, Punjab | Patiala | Punjab | Private | [https://www.chitkara.edu.in](https://www.chitkara.edu.in) |
+| 1312 | Thapar Institute of Engineering and Technology (TIET Patiala) | Patiala | Punjab | Private | [https://www.thapar.edu](https://www.thapar.edu) |
+| 1313 | Chandigarh University (CU), Mohali | Mohali | Punjab | Private | [https://www.cuchd.in](https://www.cuchd.in) |
+| 1314 | Lovely Professional University (LPU Phagwara) | Kapurthala | Punjab | Private | [https://www.lpu.in](https://www.lpu.in) |
+| 1315 | Government Polytechnic College, Bikhiwind, Tarn Taran | Tarn Taran | Punjab | Public/Government | [http://gpcbikhiwind.org](http://gpcbikhiwind.org) |
+| 1316 | St. Soldier College (Co-Education), Hadiabad, Phagwara | Kapurthala | Punjab | Private | [https://stsoldierinstitutes.com](https://stsoldierinstitutes.com) |
+| 1317 | PCTE Group of Institutes, Ludhiana | Ludhiana | Punjab | Private | [https://pcte.edu.in](https://pcte.edu.in) |
+| 1318 | A.S. Group of Institutions (ASGOI), Khanna | Ludhiana | Punjab | Private | [https://asinstitutes.com](https://asinstitutes.com) |
+| 1319 | Department of Mechanical Engineering, Punjabi University | Patiala | Punjab | Public/Government | [https://pupdepartments.ac.in](https://pupdepartments.ac.in) |
+| 1320 | Anand College of Engineering & Management, Kapurthala | Kapurthala | Punjab | Private | [http://acem.org.in](http://acem.org.in) |
