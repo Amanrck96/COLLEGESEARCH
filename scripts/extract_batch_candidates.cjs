@@ -17,3 +17,4 @@ next10.forEach((c, idx) => {
 
 fs.writeFileSync(`reports/verification/batch-${progress.current_batch + 1}-candidates.json`, JSON.stringify(next10, null, 2));
 console.log(`\nSaved candidates to reports/verification/batch-${progress.current_batch + 1}-candidates.json`);
+
