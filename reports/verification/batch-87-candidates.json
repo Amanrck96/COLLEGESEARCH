@@ -1,0 +1,122 @@
+[
+  {
+    "id": 471,
+    "name": "CAMELLIA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "https://www.camelliainstitu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 472,
+    "name": "OMDAYAL GROUP OF INSTITUITIONS",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://www.collegebatch.com/static/clg-gallery/om-dayal-group-of-institutions-howrah-313987.webp",
+    "website": "https://www.omdayalgroupofi.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 474,
+    "name": "SANAKA EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://icampus.setgoi.ac.in/images/abt-thumb.jpg",
+    "website": "https://www.sanakaeducation.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 475,
+    "name": "ALIPURDUAR DAMANPUR GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "website": "https://www.alipurduardaman.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 476,
+    "name": "SILIGURI INSTITUTE OF TECHNOLOGY DIPLOMA COLLEGE",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/161146619120190422_142352.jpg",
+    "website": "https://www.siliguriinstitu.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 477,
+    "name": "TECHNO POLYTECHNIC DURGAPUR",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "website": "https://www.technopolytechn.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 478,
+    "name": "IDEAL INSTITUTE OF ENGINEERING",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1488545543bhfsjfjk.PNG",
+    "website": "https://www.idealinstituteo.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 479,
+    "name": "GAYESHPUR GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_3.jpg",
+    "website": "https://www.gayeshpurgovern.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 480,
+    "name": "RANAGHAT GOVERNMENT POLYTECHNIC",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "website": "https://www.ranaghatgovernm.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  },
+  {
+    "id": 481,
+    "name": "COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE",
+    "state": "West Bengal",
+    "city": "",
+    "type": "Private",
+    "image": "/images/campuses/campus_architecture_5.jpg",
+    "website": "https://www.coochbehargover.edu.in",
+    "phone": "0123-456789",
+    "rating": 4.5,
+    "coursesCount": 1
+  }
+]

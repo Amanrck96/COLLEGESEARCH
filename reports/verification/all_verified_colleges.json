@@ -6448,5 +6448,80 @@
         "website": "https://srnmpolytechnic.in"
       }
     ]
+  },
+  {
+    "batch": 87,
+    "items": [
+      {
+        "id": 471,
+        "name": "Camellia Institute of Engineering and Technology (CIET Budbud, Bardhaman)",
+        "type": "Private",
+        "location": "BUD BUD BY-PASS (NORTH)",
+        "website": "https://ciet.ac.in"
+      },
+      {
+        "id": 472,
+        "name": "OmDayal Group of Institutions (ODGI Uluberia, Howrah)",
+        "type": "Private",
+        "location": "39(P) ULUBERIA INDUSTRIAL GROWTH CENTRE,",
+        "website": "https://omdayal.com"
+      },
+      {
+        "id": 474,
+        "name": "Sanaka Educational Trust's Group of Institutions (SETGOI Durgapur)",
+        "type": "Private",
+        "location": "INSTITUTE OF ENGINEERING & INDUSTRIAL TECHNOLOGY P.O.-MALANDIGHI, DURGAPUR DIST.- BURDWAN WEST BENGAL",
+        "website": "https://setgoi.ac.in"
+      },
+      {
+        "id": 475,
+        "name": "Alipurduar Government Polytechnic (Damanpur, Alipurduar)",
+        "type": "Public/Government",
+        "location": "PRANKRISHNA SARANI, WARD NO.4",
+        "website": "https://alipurduarpolytechnic.in"
+      },
+      {
+        "id": 476,
+        "name": "Siliguri Institute of Technology Diploma College (SIT Siliguri)",
+        "type": "Private",
+        "location": "DARJEELING, PIN: 734009",
+        "website": "https://sittechno.org"
+      },
+      {
+        "id": 477,
+        "name": "Techno Polytechnic Durgapur (TPD Durgapur)",
+        "type": "Private",
+        "location": "DIST.- BURDWAN, PIN - 713148 (W.B.)",
+        "website": "https://tpd.technoindiagroup.com"
+      },
+      {
+        "id": 478,
+        "name": "Ideal Institute of Engineering (IIE Kalyani, Nadia)",
+        "type": "Private",
+        "location": "WEST BENGAL, PIN CODE- 741235",
+        "website": "https://iie.ac.in"
+      },
+      {
+        "id": 479,
+        "name": "Gayeshpur Government Polytechnic (GGP Nadia)",
+        "type": "Public/Government",
+        "location": "GAYESHPUR,KALYANI; NADIA;WEST BENGAL; PIN:741234",
+        "website": "https://gayeshpurpolytechnic.in"
+      },
+      {
+        "id": 480,
+        "name": "Ranaghat Government Polytechnic (RGP Nadia)",
+        "type": "Public/Government",
+        "location": "WEST BENGAL, PIN- 741201",
+        "website": "https://ranaghatpolytechnic.in"
+      },
+      {
+        "id": 481,
+        "name": "Cooch Behar Government Engineering College (CGEC Cooch Behar)",
+        "type": "Public/Government",
+        "location": "HARINCHAWRA, P.O.-GHUGHUMARI DIST-COOCHBEHAR PIN-736170",
+        "website": "https://cgec.org.in"
+      }
+    ]
   }
 ]

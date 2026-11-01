@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **860 / 12,660**  
-**Roadmap Progress**: **86.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **870 / 12,660**  
+**Roadmap Progress**: **87.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1299,4 +1299,19 @@
 | **468** | Kalimpong Government Polytechnic (KGP Kalimpong) | Public/Government | WARD NO. 21, KALIMPONG - 734301 | [kalimpongpolytechnic.in](https://kalimpongpolytechnic.in) |
 | **469** | JIS University (Agarpara, Kolkata) | Private | NILGUNJ ROAD, AGARPARA. | [www.jisuniversity.ac.in](https://www.jisuniversity.ac.in) |
 | **470** | Sir Rajendra Nath Mookerjee Government Polytechnic (SRNMGP Magrahat) | Public/Government | WEST BENGAL,PIN-743422 | [srnmpolytechnic.in](https://srnmpolytechnic.in) |
+
+### Batch 87 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **471** | Camellia Institute of Engineering and Technology (CIET Budbud, Bardhaman) | Private | BUD BUD BY-PASS (NORTH) | [ciet.ac.in](https://ciet.ac.in) |
+| **472** | OmDayal Group of Institutions (ODGI Uluberia, Howrah) | Private | 39(P) ULUBERIA INDUSTRIAL GROWTH CENTRE, | [omdayal.com](https://omdayal.com) |
+| **474** | Sanaka Educational Trust's Group of Institutions (SETGOI Durgapur) | Private | INSTITUTE OF ENGINEERING & INDUSTRIAL TECHNOLOGY P.O.-MALANDIGHI, DURGAPUR DIST.- BURDWAN WEST BENGAL | [setgoi.ac.in](https://setgoi.ac.in) |
+| **475** | Alipurduar Government Polytechnic (Damanpur, Alipurduar) | Public/Government | PRANKRISHNA SARANI, WARD NO.4 | [alipurduarpolytechnic.in](https://alipurduarpolytechnic.in) |
+| **476** | Siliguri Institute of Technology Diploma College (SIT Siliguri) | Private | DARJEELING, PIN: 734009 | [sittechno.org](https://sittechno.org) |
+| **477** | Techno Polytechnic Durgapur (TPD Durgapur) | Private | DIST.- BURDWAN, PIN - 713148 (W.B.) | [tpd.technoindiagroup.com](https://tpd.technoindiagroup.com) |
+| **478** | Ideal Institute of Engineering (IIE Kalyani, Nadia) | Private | WEST BENGAL, PIN CODE- 741235 | [iie.ac.in](https://iie.ac.in) |
+| **479** | Gayeshpur Government Polytechnic (GGP Nadia) | Public/Government | GAYESHPUR,KALYANI; NADIA;WEST BENGAL; PIN:741234 | [gayeshpurpolytechnic.in](https://gayeshpurpolytechnic.in) |
+| **480** | Ranaghat Government Polytechnic (RGP Nadia) | Public/Government | WEST BENGAL, PIN- 741201 | [ranaghatpolytechnic.in](https://ranaghatpolytechnic.in) |
+| **481** | Cooch Behar Government Engineering College (CGEC Cooch Behar) | Public/Government | HARINCHAWRA, P.O.-GHUGHUMARI DIST-COOCHBEHAR PIN-736170 | [cgec.org.in](https://cgec.org.in) |
 
