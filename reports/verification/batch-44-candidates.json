@@ -1,0 +1,217 @@
+[
+  {
+    "id": 3659,
+    "name": "SIGMA INSTITUTE OF ENGINEERING",
+    "address": "SIGMA INSTITUTE OF TECHNOLOGY & ENGINEERING CAMPUS AJWA-NIMETA ROAD, BAKROL , TA: WAGHODIA, DIST: VADODARA",
+    "state": "Gujarat",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15962010732020-04-28.png",
+    "website": "https://www.sigmainstituteo.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3660,
+    "name": "ATMIYA UNIVERSITY",
+    "address": "\"YOGIDHAM GURUKUL\", KALAWAD ROAD",
+    "state": "Gujarat",
+    "img": "/images/campuses/riim_pune.jpeg",
+    "website": "https://www.google.com/search?q=ATMIYA%20UNIVERSITY%20RAJKOT%20Gujarat%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MCA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3663,
+    "name": "DEPARTMENT OF COMMERCE & MANAGEMENT, K.S.K.V. KACHCHH UNIVERSITY, BHUJ.",
+    "address": "KACHCHH UNIVERSITY, MUNDRA ROAD, BHUJ",
+    "state": "Gujarat",
+    "img": "https://media.collegedekho.com/media/img/institute/crawled_images/394277/Ku20Entry203.jpg?width=640",
+    "website": "https://www.bhu.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3668,
+    "name": "SEVANTILAL KANTILAL SCHOOL OF BUSINESS MANAGEMENT",
+    "address": "GUJARAT",
+    "state": "Gujarat",
+    "img": "https://www.campusoption.com/images/colleges/gallery/31_03_17_044142_College1.jpg",
+    "website": "https://www.sevantilalkanti.edu.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 3669,
+    "name": "D. L. PATEL INSTITUTE OF MANAGEMENT & TECHNOLOGY, MBA COLLEGE",
+    "address": "VIDHYANAGARI, HIMATNAGAR BY PASS ROAD, OPP. NEW CIRCUTE HOUSE",
+    "state": "Gujarat",
+    "img": "/images/campuses/saraswati_kharghar.webp",
+    "website": "https://www.google.com/search?q=D.%20L.%20PATEL%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%2C%20MBA%20COLLEGE%20SABARKANTHA%20Gujarat%20official%20website",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "MBA",
+        "duration": "2 Years",
+        "fee": "₹2.5 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "IIT Gandhinagar",
+    "address": "Gujarat, Gujarat, India",
+    "state": "Gujarat",
+    "img": "https://campus.iitgn.ac.in/images/CAMPUS_2 (2).jpg",
+    "website": "https://www.iitgn.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Sardar Vallabhbhai National Institute of Technology",
+    "address": "Gujarat, Gujarat, India",
+    "state": "Gujarat",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.svnit.ac.in",
+    "type": "Private",
+    "ownership": "Private",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Sardar Vallabhbhai National Institute of Technology SVNIT Surat",
+    "address": "Gujarat, Gujarat, India",
+    "state": "Gujarat",
+    "img": "https://www.collegebatch.com/static/clg-gallery/sardar-vallabhbhai-national-institute-of-technology-surat-309872.webp",
+    "website": "https://www.svnit.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "IIT Gandhinagar IIT Gandhinagar",
+    "address": "Gujarat, Gujarat, India",
+    "state": "Gujarat",
+    "img": "https://iitgn.ac.in/assets/img/campus-lite1.jpg",
+    "website": "https://www.iitgn.ac.in",
+    "type": "Public/Government",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "B.Tech in Artificial Intelligence & Data Science",
+        "duration": "4 Years",
+        "fee": "₹6.5 Lakhs - ₹12.5 Lakhs"
+      },
+      {
+        "title": "M.Tech in Technology & Engineering",
+        "duration": "2 Years",
+        "fee": "₹3.2 Lakhs"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Indian Institute of Management Ahmedabad (IIM Ahmedabad)",
+    "address": "Gujarat, Gujarat, India",
+    "state": "Gujarat",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.iima.ac.in",
+    "type": "Institute of National Importance",
+    "ownership": "Government",
+    "courses": [
+      {
+        "title": "Master of Business Administration (MBA / PGDM)",
+        "duration": "2 Years",
+        "fee": "₹8.5 Lakhs - ₹16.5 Lakhs"
+      },
+      {
+        "title": "Executive MBA",
+        "duration": "1 Year",
+        "fee": "₹12.0 Lakhs"
+      }
+    ]
+  }
+]

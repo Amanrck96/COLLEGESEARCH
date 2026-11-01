@@ -3223,5 +3223,80 @@
         "website": "https://www.ediindia.org"
       }
     ]
+  },
+  {
+    "batch": 44,
+    "items": [
+      {
+        "id": 3659,
+        "name": "Sigma Institute of Engineering (Sigma University)",
+        "type": "Private",
+        "location": "Vadodara - 390019, Gujarat",
+        "website": "https://sigma.ac.in"
+      },
+      {
+        "id": 3660,
+        "name": "Atmiya University",
+        "type": "Private (State Private University)",
+        "location": "Rajkot - 360005, Gujarat",
+        "website": "https://atmiyauni.ac.in"
+      },
+      {
+        "id": 3663,
+        "name": "Department of Commerce & Management, K.S.K.V. Kachchh University, Bhuj",
+        "type": "Public/Government",
+        "location": "Kachchh - 370001, Gujarat",
+        "website": "https://kskvku.ac.in"
+      },
+      {
+        "id": 3668,
+        "name": "Sevantilal Kantilal School of Business Management (B.K. School, Gujarat University)",
+        "type": "Public/Government",
+        "location": "Ahmedabad - 380009, Gujarat",
+        "website": "https://bkschool.org.in"
+      },
+      {
+        "id": 3669,
+        "name": "D. L. Patel Institute of Management & Technology (DLPIMT Himatnagar)",
+        "type": "Private",
+        "location": "Sabarkantha, Gujarat",
+        "website": "http://www.vidhyanagari.org"
+      },
+      {
+        "id": 32,
+        "name": "Indian Institute of Technology Gandhinagar (IIT Gandhinagar)",
+        "type": "Institute of National Importance",
+        "location": "Gandhinagar - 382355, Gujarat",
+        "website": "https://www.iitgn.ac.in"
+      },
+      {
+        "id": 33,
+        "name": "Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)",
+        "type": "Institute of National Importance",
+        "location": "Surat - 395007, Gujarat",
+        "website": "https://www.svnit.ac.in"
+      },
+      {
+        "id": 34,
+        "name": "Sardar Vallabhbhai National Institute of Technology (SVNIT Surat - PG Department)",
+        "type": "Institute of National Importance",
+        "location": "Surat - 395007, Gujarat",
+        "website": "https://www.svnit.ac.in"
+      },
+      {
+        "id": 35,
+        "name": "Indian Institute of Technology Gandhinagar (IIT Gandhinagar - Engineering)",
+        "type": "Institute of National Importance",
+        "location": "Gandhinagar - 382355, Gujarat",
+        "website": "https://www.iitgn.ac.in"
+      },
+      {
+        "id": 48,
+        "name": "Indian Institute of Management Ahmedabad (IIM Ahmedabad)",
+        "type": "Institute of National Importance",
+        "location": "Ahmedabad - 380015, Gujarat",
+        "website": "https://www.iima.ac.in"
+      }
+    ]
   }
 ]

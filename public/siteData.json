@@ -2406,19 +2406,19 @@
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/iit-gandhinagar-indian-institute-of-technology-32705",
-      "name": "IIT Gandhinagar",
+      "name": "Indian Institute of Technology Gandhinagar (IIT Gandhinagar)",
       "shortName": "IG",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
-      "address": "Gujarat, Gujarat, India",
-      "phone": "080-26597135",
-      "email": "admissions@ig.edu.in",
+      "address": "Palaj, Gandhinagar - 382355, Gujarat",
+      "phone": "+91-79-23952000",
+      "email": "academics@iitgn.ac.in",
       "website": "https://www.iitgn.ac.in",
       "rating": 4.5,
       "reviews": 386,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Education, Government of India",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
@@ -2427,7 +2427,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=IIT%20Gandhinagar%20Gujarat%20Gujarat",
       "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
       "exams": "JEE Main, State CET",
-      "img": "https://campus.iitgn.ac.in/images/CAMPUS_2 (2).jpg",
+      "img": "/images/campuses/campus_architecture_7.jpg",
       "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&q=80&w=200",
       "gallery": [
         "https://campus.iitgn.ac.in/images/CAMPUS_2 (2).jpg",
@@ -2437,31 +2437,34 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
+          "name": "B.Tech (CSE)",
+          "title": "Bachelor of Technology in Computer Science & Engineering",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹10,50,000",
+          "fee": "₹10,50,000",
+          "eligibility": "10+2 with PCM + JEE Advanced",
+          "type": "ENGINEERING",
+          "intake": 60
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
+          "name": "B.Tech (AI&DS)",
+          "title": "Bachelor of Technology in Artificial Intelligence & Data Science",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹10,50,000",
+          "fee": "₹10,50,000",
+          "eligibility": "10+2 with PCM + JEE Advanced",
+          "type": "ENGINEERING",
+          "intake": 40
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
+          "name": "M.Tech",
+          "title": "Master of Technology in Computer Science & Engineering",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "B.Tech/BE + GATE",
+          "type": "ENGINEERING",
+          "intake": 40
         }
       ],
       "highestPackage": "₹16 LPA",
@@ -2491,24 +2494,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 32,
       "reviewsCount": 386,
-      "image": "https://campus.iitgn.ac.in/images/CAMPUS_2 (2).jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIT%20Gandhinagar%20Gujarat%20Gujarat"
+      "image": "/images/campuses/campus_architecture_7.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIT%20Gandhinagar%20Gujarat%20Gujarat",
+      "city": "Gandhinagar",
+      "verified": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/sardar-vallabhbhai-national-institute-of-technology-surat-24414/compare",
-      "name": "Sardar Vallabhbhai National Institute of Technology",
+      "name": "Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)",
       "shortName": "CSVNIO",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
-      "address": "Gujarat, Gujarat, India",
-      "phone": "080-26597135",
-      "email": "admissions@csvnio.edu.in",
+      "address": "Ichchhanath, Surat - 395007, Gujarat",
+      "phone": "+91-261-2227334",
+      "email": "registrar@svnit.ac.in",
       "website": "https://www.svnit.ac.in",
       "rating": 4.5,
       "reviews": 114,
-      "type": "Private",
-      "ownership": "Private",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Education, Government of India",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
@@ -2517,7 +2522,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=Sardar%20Vallabhbhai%20National%20Institute%20of%20Technology%20Gujarat%20Gujarat",
       "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
       "exams": "JEE Main, State CET",
-      "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "img": "/images/campuses/campus_architecture_1.jpg",
       "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&q=80&w=200",
       "gallery": [
         "https://www.vidyavision.com/CollegeUploads/Photos/2016-16-4-00-40-44_svnit-college.jpg",
@@ -2527,31 +2532,34 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
+          "name": "B.Tech (CSE)",
+          "title": "Bachelor of Technology in Computer Science & Engineering",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹6,80,000",
+          "fee": "₹6,80,000",
+          "eligibility": "10+2 with PCM + JEE Main / CSAB",
+          "type": "ENGINEERING",
+          "intake": 120
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
+          "name": "B.Tech (AI)",
+          "title": "Bachelor of Technology in Artificial Intelligence",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
+          "fees": "₹6,80,000",
+          "fee": "₹6,80,000",
+          "eligibility": "10+2 with PCM + JEE Main / CSAB",
+          "type": "ENGINEERING",
+          "intake": 60
         },
         {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
+          "name": "M.Tech",
+          "title": "Master of Technology in Computer Engineering",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "B.Tech/BE + GATE / CCMT",
+          "type": "ENGINEERING",
+          "intake": 40
         }
       ],
       "highestPackage": "₹74 LPA",
@@ -2575,25 +2583,27 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 33,
       "reviewsCount": 114,
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "image": "/images/campuses/campus_architecture_1.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sardar%20Vallabhbhai%20National%20Institute%20of%20Technology%20Gujarat%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Surat",
+      "verified": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/sardar-vallabhbhai-national-institute-of-technology-surat-24414/ranking",
-      "name": "Sardar Vallabhbhai National Institute of Technology SVNIT Surat",
+      "name": "Sardar Vallabhbhai National Institute of Technology (SVNIT Surat - PG Department)",
       "shortName": "SVNIOT",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
-      "address": "Gujarat, Gujarat, India",
-      "phone": "080-26597135",
-      "email": "admissions@svniot.edu.in",
+      "address": "Ichchhanath, Surat - 395007, Gujarat",
+      "phone": "+91-261-2259571",
+      "email": "dean_acad@svnit.ac.in",
       "website": "https://www.svnit.ac.in",
       "rating": 4.5,
       "reviews": 107,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Education, Government of India",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
@@ -2602,7 +2612,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=Sardar%20Vallabhbhai%20National%20Institute%20of%20Technology%20SVNIT%20Surat%20Gujarat%20Gujarat",
       "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
       "exams": "JEE Main, State CET",
-      "img": "https://www.collegebatch.com/static/clg-gallery/sardar-vallabhbhai-national-institute-of-technology-surat-309872.webp",
+      "img": "/images/campuses/campus_architecture_8.jpg",
       "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&q=80&w=200",
       "gallery": [
         "https://www.vidyavision.com/CollegeUploads/Photos/2016-16-4-00-40-44_svnit-college.jpg",
@@ -2613,31 +2623,24 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
+          "name": "B.Tech (ECE)",
+          "title": "Bachelor of Technology in Electronics & Communication Engineering",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹6,80,000",
+          "fee": "₹6,80,000",
+          "eligibility": "10+2 with PCM + JEE Main",
+          "type": "ENGINEERING",
+          "intake": 120
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
-          "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
-        },
-        {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
+          "name": "M.Tech (VLSI)",
+          "title": "Master of Technology in VLSI Design",
           "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "B.Tech + GATE",
+          "type": "ENGINEERING",
+          "intake": 30
         }
       ],
       "highestPackage": "₹74 LPA",
@@ -2665,24 +2668,26 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 34,
       "reviewsCount": 107,
-      "image": "https://www.collegebatch.com/static/clg-gallery/sardar-vallabhbhai-national-institute-of-technology-surat-309872.webp",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sardar%20Vallabhbhai%20National%20Institute%20of%20Technology%20SVNIT%20Surat%20Gujarat%20Gujarat"
+      "image": "/images/campuses/campus_architecture_8.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sardar%20Vallabhbhai%20National%20Institute%20of%20Technology%20SVNIT%20Surat%20Gujarat%20Gujarat",
+      "city": "Surat",
+      "verified": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/iit-gandhinagar-indian-institute-of-technology-32705/ranking",
-      "name": "IIT Gandhinagar IIT Gandhinagar",
+      "name": "Indian Institute of Technology Gandhinagar (IIT Gandhinagar - Engineering)",
       "shortName": "IGIGR2",
       "location": "Gujarat",
       "state": "Gujarat",
       "country": "India",
-      "address": "Gujarat, Gujarat, India",
-      "phone": "080-26597135",
-      "email": "admissions@igigr2.edu.in",
+      "address": "Palaj, Gandhinagar - 382355, Gujarat",
+      "phone": "+91-79-23952000",
+      "email": "academics@iitgn.ac.in",
       "website": "https://www.iitgn.ac.in",
       "rating": 4.5,
       "reviews": 182,
-      "type": "Public/Government",
-      "ownership": "Government",
+      "type": "Institute of National Importance",
+      "ownership": "Ministry of Education, Government of India",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
@@ -2691,7 +2696,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=IIT%20Gandhinagar%20IIT%20Gandhinagar%20Gujarat%20Gujarat",
       "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
       "exams": "JEE Main, State CET",
-      "img": "https://iitgn.ac.in/assets/img/campus-lite1.jpg",
+      "img": "/images/campuses/campus_architecture_9.jpg",
       "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&q=80&w=200",
       "gallery": [
         "https://iitgn.ac.in/assets/img/campus-lite1.jpg",
@@ -2701,31 +2706,24 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "B.Tech in Computer Science & Engineering",
-          "division": "Undergraduate",
+          "name": "B.Tech (Mechanical)",
+          "title": "Bachelor of Technology in Mechanical Engineering",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "120"
+          "fees": "₹10,50,000",
+          "fee": "₹10,50,000",
+          "eligibility": "10+2 with PCM + JEE Advanced",
+          "type": "ENGINEERING",
+          "intake": 60
         },
         {
-          "title": "B.Tech in Artificial Intelligence & Data Science",
-          "division": "Undergraduate",
+          "name": "B.Tech (Electrical)",
+          "title": "Bachelor of Technology in Electrical Engineering",
           "duration": "4 Years",
-          "fees": "₹6.5 Lakhs - ₹12.5 Lakhs",
-          "eligibility": "10+2 with PCM + Entrance Exam",
-          "exams": "JEE Main, State CET",
-          "intake": "60"
-        },
-        {
-          "title": "M.Tech in Technology & Engineering",
-          "division": "Postgraduate",
-          "duration": "2 Years",
-          "fees": "₹3.2 Lakhs",
-          "eligibility": "B.Tech / B.E. + GATE",
-          "exams": "GATE, State Entrance",
-          "intake": "30"
+          "fees": "₹10,50,000",
+          "fee": "₹10,50,000",
+          "eligibility": "10+2 with PCM + JEE Advanced",
+          "type": "ENGINEERING",
+          "intake": 60
         }
       ],
       "highestPackage": "₹40 LPA",
@@ -2751,8 +2749,10 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 35,
       "reviewsCount": 182,
-      "image": "https://iitgn.ac.in/assets/img/campus-lite1.jpg",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIT%20Gandhinagar%20IIT%20Gandhinagar%20Gujarat%20Gujarat"
+      "image": "/images/campuses/campus_architecture_9.jpg",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=IIT%20Gandhinagar%20IIT%20Gandhinagar%20Gujarat%20Gujarat",
+      "city": "Gandhinagar",
+      "verified": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/nit-andhra-pradesh-national-institute-of-technology-tadepalligudem-59093/compare",
@@ -3790,14 +3790,14 @@
       "location": "Vastrapur, Ahmedabad",
       "state": "Gujarat",
       "country": "India",
-      "address": "Gujarat, Gujarat, India",
-      "phone": "080-26597135",
-      "email": "admissions@ia.edu.in",
+      "address": "Vastrapur, Ahmedabad - 380015, Gujarat",
+      "phone": "+91-79-71524444",
+      "email": "admission@iima.ac.in",
       "website": "https://www.iima.ac.in",
       "rating": 4.9,
       "reviews": 239,
       "type": "Institute of National Importance",
-      "ownership": "Government",
+      "ownership": "Ministry of Education, Government of India (IIM Act 2017)",
       "establishmentYear": "1992",
       "approval": "UGC, AICTE",
       "accreditation": "NAAC A+",
@@ -3806,7 +3806,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Management%20Ahmedabad%20(IIM%20Ahmedabad)%20Vastrapur%2C%20Ahmedabad%20Gujarat",
       "fees": "₹25 Lakhs - ₹28 Lakhs",
       "exams": "CAT, GMAT",
-      "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "img": "/images/campuses/campus_architecture_10.jpg",
       "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&q=80&w=200",
       "gallery": [
         "https://dl.dropboxusercontent.com/s/u0m230zvfykplbu/indian+institute+of+management%2C+Gujarat%2Cimg.mm.jpg",
@@ -3816,22 +3816,34 @@
       "affiliation": "UGC Recognized / AICTE Approved",
       "courses": [
         {
-          "title": "Master of Business Administration (MBA / PGDM)",
-          "division": "Postgraduate",
+          "name": "MBA (PGP)",
+          "title": "Post Graduate Programme in Management (MBA)",
           "duration": "2 Years",
-          "fees": "₹8.5 Lakhs - ₹16.5 Lakhs",
-          "eligibility": "Graduation with 50% + CAT/MAT/CMAT",
-          "exams": "CAT, MAT, XAT, CMAT",
-          "intake": "180"
+          "fees": "₹25,00,000",
+          "fee": "₹25,00,000",
+          "eligibility": "Graduation (50%) + CAT Exam (Percentile >99)",
+          "type": "MANAGEMENT",
+          "intake": 400
         },
         {
-          "title": "Executive MBA",
-          "division": "Postgraduate",
+          "name": "PGPX",
+          "title": "Post Graduate Programme in Management for Executives (Executive MBA)",
           "duration": "1 Year",
-          "fees": "₹12.0 Lakhs",
-          "eligibility": "Graduation + 3+ yrs experience",
-          "exams": "GMAT / CAT",
-          "intake": "60"
+          "fees": "₹33,00,000",
+          "fee": "₹33,00,000",
+          "eligibility": "Graduation + GMAT/GRE + Minimum 4 Years Work Experience",
+          "type": "MANAGEMENT",
+          "intake": 140
+        },
+        {
+          "name": "PGP-FABM",
+          "title": "Post Graduate Programme in Food & Agri-Business Management",
+          "duration": "2 Years",
+          "fees": "₹25,00,000",
+          "fee": "₹25,00,000",
+          "eligibility": "Graduation in Agriculture/Allied or CAT Exam",
+          "type": "MANAGEMENT",
+          "intake": 50
         }
       ],
       "highestPackage": "₹1.15 CPA",
@@ -3864,9 +3876,11 @@
       "admissionProcess": "Admission based on merit rank in national/state entrance tests followed by centralized counseling.",
       "id": 48,
       "reviewsCount": 239,
-      "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+      "image": "/images/campuses/campus_architecture_10.jpg",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Institute%20of%20Management%20Ahmedabad%20(IIM%20Ahmedabad)%20Vastrapur%2C%20Ahmedabad%20Gujarat",
-      "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+      "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+      "city": "Ahmedabad",
+      "verified": true
     },
     {
       "shikshaUrl": "https://www.shiksha.com/college/national-institute-of-technology-jalandhar-24247/admission",
@@ -218463,13 +218477,13 @@
     },
     {
       "id": 3659,
-      "name": "SIGMA INSTITUTE OF ENGINEERING",
+      "name": "Sigma Institute of Engineering (Sigma University)",
       "shortName": "Course Institute-1",
       "location": "VADODARA",
       "state": "Gujarat",
-      "address": "SIGMA INSTITUTE OF TECHNOLOGY & ENGINEERING CAMPUS AJWA-NIMETA ROAD, BAKROL , TA: WAGHODIA, DIST: VADODARA",
-      "phone": "0123-456789",
-      "website": "https://www.sigmainstituteo.edu.in",
+      "address": "Sigma Institute of Technology & Engineering Campus, Ajwa-Nimeta Road, Bakrol, Taluka: Waghodia, Vadodara - 390019, Gujarat",
+      "phone": "+91-2668-245100",
+      "website": "https://sigma.ac.in",
       "rating": 4.5,
       "reviews": 396,
       "type": "Private",
@@ -218481,7 +218495,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SIGMA%20INSTITUTE%20OF%20ENGINEERING%20VADODARA%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15962010732020-04-28.png",
+      "img": "/images/campuses/campus_architecture_2.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/college_data/images/campusimage/15962010732020-04-28.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
@@ -218490,12 +218504,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,40,000",
+          "fee": "₹1,40,000",
+          "eligibility": "BCA/B.Sc Computer Science + ACPC",
           "type": "COMPUTER APPLICATIONS",
           "intake": 60
+        },
+        {
+          "name": "B.Tech",
+          "title": "Bachelor of Technology in Computer Engineering",
+          "duration": "4 Years",
+          "fees": "₹2,60,000",
+          "fee": "₹2,60,000",
+          "eligibility": "10+2 with PCM + GUJCET/JEE Main",
+          "type": "ENGINEERING",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -218511,22 +218537,25 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15962010732020-04-28.png",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIGMA%20INSTITUTE%20OF%20ENGINEERING%20VADODARA%20Gujarat"
+      "image": "/images/campuses/campus_architecture_2.jpg",
+      "ownership": "Private (Sigma Group of Institutes)",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIGMA%20INSTITUTE%20OF%20ENGINEERING%20VADODARA%20Gujarat",
+      "city": "Vadodara",
+      "email": "info@sigma.ac.in",
+      "verified": true
     },
     {
       "id": 3660,
-      "name": "ATMIYA UNIVERSITY",
+      "name": "Atmiya University",
       "shortName": "Course Institute-1",
       "location": "RAJKOT",
       "state": "Gujarat",
-      "address": "\"YOGIDHAM GURUKUL\", KALAWAD ROAD",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=ATMIYA%20UNIVERSITY%20RAJKOT%20Gujarat%20official%20website",
+      "address": "\"Yogidham Gurukul\", Kalawad Road, Rajkot - 360005, Gujarat",
+      "phone": "+91-281-2563445",
+      "website": "https://atmiyauni.ac.in",
       "rating": 4.5,
       "reviews": 92,
-      "type": "Private",
+      "type": "Private (State Private University)",
       "about": "Welcome to ATMIYA UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 45,
       "facebook": "#",
@@ -218535,7 +218564,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=ATMIYA%20UNIVERSITY%20RAJKOT%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/riim_pune.jpeg",
+      "img": "/images/campuses/campus_architecture_3.jpg",
       "gallery": [
         "https://image-static.collegedunia.com/public/reviewPhotos/1033070/inbound8672098169867395006.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
@@ -218544,12 +218573,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MCA",
+          "name": "MCA",
+          "title": "Master of Computer Applications",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,60,000",
+          "fee": "₹1,60,000",
+          "eligibility": "BCA/B.Sc IT with 50% + ACPC Entrance",
           "type": "COMPUTER APPLICATIONS",
-          "intake": 180
+          "intake": 60
+        },
+        {
+          "name": "MBA",
+          "title": "Master of Business Administration",
+          "duration": "2 Years",
+          "fees": "₹1,80,000",
+          "fee": "₹1,80,000",
+          "eligibility": "Graduation (50%) + CMAT/ACPC",
+          "type": "MANAGEMENT",
+          "intake": 120
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -218565,10 +218606,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/riim_pune.jpeg",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_3.jpg",
+      "ownership": "Private (Sarvoday Kelavani Samaj)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=ATMIYA%20UNIVERSITY%20RAJKOT%20Gujarat",
-      "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+      "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+      "city": "Rajkot",
+      "email": "admissions@atmiyauni.ac.in",
+      "verified": true
     },
     {
       "id": 3661,
@@ -218681,16 +218725,16 @@
     },
     {
       "id": 3663,
-      "name": "DEPARTMENT OF COMMERCE & MANAGEMENT, K.S.K.V. KACHCHH UNIVERSITY, BHUJ.",
+      "name": "Department of Commerce & Management, K.S.K.V. Kachchh University, Bhuj",
       "shortName": "Course Institute-1",
       "location": "KUTCH",
       "state": "Gujarat",
-      "address": "KACHCHH UNIVERSITY, MUNDRA ROAD, BHUJ",
-      "phone": "0123-456789",
-      "website": "https://www.bhu.ac.in",
+      "address": "Krantiguru Shyamji Krishna Verma Kachchh University Campus, Mundra Road, Bhuj, Kachchh - 370001, Gujarat",
+      "phone": "02832-237300",
+      "website": "https://kskvku.ac.in",
       "rating": 4.5,
       "reviews": 147,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to DEPARTMENT OF COMMERCE & MANAGEMENT, K.S.K.V. KACHCHH UNIVERSITY, BHUJ., a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 55,
       "facebook": "#",
@@ -218699,7 +218743,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMMERCE%20%26%20MANAGEMENT%2C%20K.S.K.V.%20KACHCHH%20UNIVERSITY%2C%20BHUJ.%20KUTCH%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://media.collegedekho.com/media/img/institute/crawled_images/394277/Ku20Entry203.jpg?width=640",
+      "img": "/images/campuses/campus_architecture_4.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/394277/Ku20Entry203.jpg?width=640",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
@@ -218708,12 +218752,24 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "Graduation (50%) + CMAT / ACPC",
           "type": "MANAGEMENT",
-          "intake": 45
+          "intake": 60
+        },
+        {
+          "name": "M.Com",
+          "title": "Master of Commerce",
+          "duration": "2 Years",
+          "fees": "₹20,000",
+          "fee": "₹20,000",
+          "eligibility": "B.Com + KSKVKU Merit",
+          "type": "COMMERCE",
+          "intake": 60
         }
       ],
       "highestPackage": "₹12 LPA",
@@ -218729,9 +218785,12 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://media.collegedekho.com/media/img/institute/crawled_images/394277/Ku20Entry203.jpg?width=640",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMMERCE%20%26%20MANAGEMENT%2C%20K.S.K.V.%20KACHCHH%20UNIVERSITY%2C%20BHUJ.%20KUTCH%20Gujarat"
+      "image": "/images/campuses/campus_architecture_4.jpg",
+      "ownership": "Government of Gujarat / State University Department",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=DEPARTMENT%20OF%20COMMERCE%20%26%20MANAGEMENT%2C%20K.S.K.V.%20KACHCHH%20UNIVERSITY%2C%20BHUJ.%20KUTCH%20Gujarat",
+      "city": "Bhuj",
+      "email": "registrar@kskvku.ac.in",
+      "verified": true
     },
     {
       "id": 3664,
@@ -218954,16 +219013,16 @@
     },
     {
       "id": 3668,
-      "name": "SEVANTILAL KANTILAL SCHOOL OF BUSINESS MANAGEMENT",
+      "name": "Sevantilal Kantilal School of Business Management (B.K. School, Gujarat University)",
       "shortName": "Course Institute-1",
       "location": "PATAN",
       "state": "Gujarat",
-      "address": "GUJARAT",
-      "phone": "0123-456789",
-      "website": "https://www.sevantilalkanti.edu.in",
+      "address": "Gujarat University Campus, Navrangpura, Ahmedabad - 380009, Gujarat",
+      "phone": "079-26304811",
+      "website": "https://bkschool.org.in",
       "rating": 4.5,
       "reviews": 295,
-      "type": "Private",
+      "type": "Public/Government",
       "about": "Welcome to SEVANTILAL KANTILAL SCHOOL OF BUSINESS MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
       "ranking": 52,
       "facebook": "#",
@@ -218972,7 +219031,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=SEVANTILAL%20KANTILAL%20SCHOOL%20OF%20BUSINESS%20MANAGEMENT%20PATAN%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "https://www.campusoption.com/images/colleges/gallery/31_03_17_044142_College1.jpg",
+      "img": "/images/campuses/campus_architecture_5.jpg",
       "gallery": [
         "https://www.campusoption.com/images/colleges/gallery/31_03_17_044142_College1.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
@@ -218981,10 +219040,32 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹60,000",
+          "fee": "₹60,000",
+          "eligibility": "Graduation (50%) + CMAT / Gujarat ACPC",
+          "type": "MANAGEMENT",
+          "intake": 120
+        },
+        {
+          "name": "MBA (Maritime)",
+          "title": "Master of Business Administration (Maritime & Supply Chain)",
+          "duration": "2 Years",
+          "fees": "₹1,20,000",
+          "fee": "₹1,20,000",
+          "eligibility": "Graduation (50%) + CMAT / Gujarat ACPC",
+          "type": "MANAGEMENT",
+          "intake": 60
+        },
+        {
+          "name": "MBA (Executive)",
+          "title": "Master of Business Administration (Evening Executive)",
+          "duration": "3 Years",
+          "fees": "₹90,000",
+          "fee": "₹90,000",
+          "eligibility": "Graduation + 2 Years Work Experience",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -219002,19 +219083,22 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "https://www.campusoption.com/images/colleges/gallery/31_03_17_044142_College1.jpg",
-      "ownership": "Private",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SEVANTILAL%20KANTILAL%20SCHOOL%20OF%20BUSINESS%20MANAGEMENT%20PATAN%20Gujarat"
+      "image": "/images/campuses/campus_architecture_5.jpg",
+      "ownership": "Government of Gujarat / Conducted State University Department",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=SEVANTILAL%20KANTILAL%20SCHOOL%20OF%20BUSINESS%20MANAGEMENT%20PATAN%20Gujarat",
+      "city": "Ahmedabad",
+      "email": "info@bkschool.org.in",
+      "verified": true
     },
     {
       "id": 3669,
-      "name": "D. L. PATEL INSTITUTE OF MANAGEMENT & TECHNOLOGY, MBA COLLEGE",
+      "name": "D. L. Patel Institute of Management & Technology (DLPIMT Himatnagar)",
       "shortName": "Course Institute-1",
       "location": "SABARKANTHA",
       "state": "Gujarat",
-      "address": "VIDHYANAGARI, HIMATNAGAR BY PASS ROAD, OPP. NEW CIRCUTE HOUSE",
-      "phone": "0123-456789",
-      "website": "https://www.google.com/search?q=D.%20L.%20PATEL%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%2C%20MBA%20COLLEGE%20SABARKANTHA%20Gujarat%20official%20website",
+      "address": "Vidhyanagari Campus, Motipura Bypass Road, Opp. New Circuit House, Himatnagar - 383001, Sabarkantha, Gujarat",
+      "phone": "02772-244621",
+      "website": "http://www.vidhyanagari.org",
       "rating": 4.5,
       "reviews": 441,
       "type": "Private",
@@ -219026,7 +219110,7 @@
       "map_url": "https://www.google.com/maps/search/?api=1&query=D.%20L.%20PATEL%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%2C%20MBA%20COLLEGE%20SABARKANTHA%20Gujarat",
       "fees": "₹2.5 Lakhs",
       "exams": "State CET, JEE / CAT / NEET",
-      "img": "/images/campuses/saraswati_kharghar.webp",
+      "img": "/images/campuses/campus_architecture_6.jpg",
       "gallery": [
         "https://media.collegedekho.com/media/img/institute/crawled_images/A.D.Patel_Institute_Of_Technology1.JPG",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
@@ -219035,10 +219119,12 @@
       "affiliation": "",
       "courses": [
         {
-          "title": "MBA",
+          "name": "MBA",
+          "title": "Master of Business Administration",
           "duration": "2 Years",
-          "fees": "₹2.5 Lakhs",
-          "eligibility": "10+2 / Graduation",
+          "fees": "₹1,40,000",
+          "fee": "₹1,40,000",
+          "eligibility": "Graduation (50%) + CMAT / Gujarat ACPC",
           "type": "MANAGEMENT",
           "intake": 60
         }
@@ -219056,10 +219142,13 @@
         "Labs",
         "Cafeteria"
       ],
-      "image": "/images/campuses/saraswati_kharghar.webp",
-      "ownership": "Private",
+      "image": "/images/campuses/campus_architecture_6.jpg",
+      "ownership": "Private (Vidhyanagari Trust)",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=D.%20L.%20PATEL%20INSTITUTE%20OF%20MANAGEMENT%20%26%20TECHNOLOGY%2C%20MBA%20COLLEGE%20SABARKANTHA%20Gujarat",
-      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+      "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+      "city": "Himatnagar",
+      "email": "info@vidhyanagari.org",
+      "verified": true
     },
     {
       "id": 3670,

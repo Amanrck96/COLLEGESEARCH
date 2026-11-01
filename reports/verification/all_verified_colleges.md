@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **430 / 12,660**  
-**Roadmap Progress**: **43.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **440 / 12,660**  
+**Roadmap Progress**: **44.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -654,4 +654,19 @@
 | **3634** | St. Kabir Institute of Professional Studies (SKIPS Ahmedabad) | Private | Ahmedabad - 380054, Gujarat | [www.skips.in](https://www.skips.in) |
 | **3654** | Chimanbhai Patel Institute of Management & Research (CPIMR Ahmedabad) | Private | Ahmedabad - 380015, Gujarat | [cpi.edu.in](https://cpi.edu.in) |
 | **3656** | Entrepreneurship Development Institute of India (EDII Gandhinagar) | Public/Government (Autonomous) | Dist. Gandhinagar, Gujarat | [www.ediindia.org](https://www.ediindia.org) |
+
+### Batch 44 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **3659** | Sigma Institute of Engineering (Sigma University) | Private | Vadodara - 390019, Gujarat | [sigma.ac.in](https://sigma.ac.in) |
+| **3660** | Atmiya University | Private (State Private University) | Rajkot - 360005, Gujarat | [atmiyauni.ac.in](https://atmiyauni.ac.in) |
+| **3663** | Department of Commerce & Management, K.S.K.V. Kachchh University, Bhuj | Public/Government | Kachchh - 370001, Gujarat | [kskvku.ac.in](https://kskvku.ac.in) |
+| **3668** | Sevantilal Kantilal School of Business Management (B.K. School, Gujarat University) | Public/Government | Ahmedabad - 380009, Gujarat | [bkschool.org.in](https://bkschool.org.in) |
+| **3669** | D. L. Patel Institute of Management & Technology (DLPIMT Himatnagar) | Private | Sabarkantha, Gujarat | [www.vidhyanagari.org](http://www.vidhyanagari.org) |
+| **32** | Indian Institute of Technology Gandhinagar (IIT Gandhinagar) | Institute of National Importance | Gandhinagar - 382355, Gujarat | [www.iitgn.ac.in](https://www.iitgn.ac.in) |
+| **33** | Sardar Vallabhbhai National Institute of Technology (SVNIT Surat) | Institute of National Importance | Surat - 395007, Gujarat | [www.svnit.ac.in](https://www.svnit.ac.in) |
+| **34** | Sardar Vallabhbhai National Institute of Technology (SVNIT Surat - PG Department) | Institute of National Importance | Surat - 395007, Gujarat | [www.svnit.ac.in](https://www.svnit.ac.in) |
+| **35** | Indian Institute of Technology Gandhinagar (IIT Gandhinagar - Engineering) | Institute of National Importance | Gandhinagar - 382355, Gujarat | [www.iitgn.ac.in](https://www.iitgn.ac.in) |
+| **48** | Indian Institute of Management Ahmedabad (IIM Ahmedabad) | Institute of National Importance | Ahmedabad - 380015, Gujarat | [www.iima.ac.in](https://www.iima.ac.in) |
 
