@@ -1651,6 +1651,24 @@
         1440
       ],
       "verifiedAt": "2026-11-01T19:56:34.900Z"
+    },
+    "175": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "1741-1750",
+      "ids": [
+        1441,
+        1442,
+        1443,
+        1444,
+        1445,
+        1446,
+        1447,
+        1448,
+        1449,
+        1450
+      ],
+      "verifiedAt": "2026-11-01T19:59:16.297Z"
     }
   },
   "all_verified_ids": [
@@ -1666,10 +1684,10 @@
     1106
   ],
   "last_batch_completed": 159,
-  "verifiedColleges": 1740,
-  "lastUpdated": "2026-11-01T19:56:34.849Z",
+  "verifiedColleges": 1750,
+  "lastUpdated": "2026-11-01T19:59:16.168Z",
   "batchesCompleted": 172,
-  "currentBatch": 174,
+  "currentBatch": 175,
   "batchHistory": [
     {
       "batch": 160,

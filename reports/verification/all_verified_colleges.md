@@ -2605,3 +2605,17 @@
 | 1438 | Dr. Lankapalli Bullayya College (Autonomous) | Visakhapatnam | Andhra Pradesh | Private (Aided Autonomous) | [Website](https://bullayyacollege.info) |
 | 1439 | Gyanodaya Institute of Professional Studies, Neemuch | Neemuch | Madhya Pradesh | Private | [Website](https://gyanodayanmh.in) |
 | 1440 | Syna International College of Management Studies, Katni | Katni | Madhya Pradesh | Private | [Website](https://synacollege.com) |
+
+### Batch 175 (Colleges 1,741–1,750, IDs: 1441–1450)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1441 | Government Model Science College (Autonomous), Jabalpur | Jabalpur | Madhya Pradesh | Public/Government | [Website](https://sciencecollegejabalpur.ac.in) |
+| 1442 | Prestige Institute of Management and Research (PIMR), Gwalior | Gwalior | Madhya Pradesh | Private (Autonomous) | [Website](https://prestigegwl.org) |
+| 1443 | Late Shri Shankarlal Acharya (LSA) College, Dhar | Dhar | Madhya Pradesh | Private | [Website](https://lsacollegedhar.com) |
+| 1444 | Jijamata Government Polytechnic College, Burhanpur | Burhanpur | Madhya Pradesh | Public/Government | [Website](https://gpcburhanpur.ac.in) |
+| 1445 | University Institute of Science and Technology (UIST), Rabindranath Tagore University | Raisen | Madhya Pradesh | Private | [Website](https://rntu.ac.in) |
+| 1446 | Victoria College of Education & Management, Sehore | Sehore | Madhya Pradesh | Private | [Website](https://vcebhopal.ac.in) |
+| 1447 | International School of Business Administration (ISBA), Indore | Indore | Madhya Pradesh | Private | [Website](https://isba.edu.in) |
+| 1448 | School of Engineering and Technology (SOET), Vikram University | Ujjain | Madhya Pradesh | Public/Government | [Website](https://vikramuniv.ac.in) |
+| 1449 | Indore Institute of Management and Research (IIMR), Rau, Indore | Rau, Indore | Madhya Pradesh | Private | [Website](https://indoreinstitute.com/iimr) |
+| 1450 | Maharishi Centre for Educational Excellence (MCEE), Bhopal | Bhopal | Madhya Pradesh | Private | [Website](https://mceebhopal.org) |
