@@ -2703,3 +2703,17 @@
 | 1804 | Government Polytechnic College, Samba | Samba | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcsamba.org) |
 | 1805 | Government Polytechnic College, Kathua | Kathua | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpckathua.org) |
 | 1806 | Government Polytechnic College, Anantnag | Anantnag | Jammu & Kashmir | Public/Government (Govt of J&K) | [Website](http://gpcanantnag.org) |
+
+### Batch 182 (Colleges 1,811–1,820, IDs: 1807–1816)
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1807 | Mahant Bachittar Singh College of Engineering & Technology (MBSCET), Jammu | Jammu | Jammu & Kashmir | Private | [Website](https://mbscet.edu.in) |
+| 1808 | College of Engineering & Technology, Baba Ghulam Shah Badshah University (BGSBU), Rajouri | Rajouri | Jammu & Kashmir | Public/Government (State University Constituent College) | [Website](https://www.bgsbu.ac.in) |
+| 1809 | School of Computer Sciences & Information Technology, BGSB University, Rajouri | Rajouri | Jammu & Kashmir | Public/Government (State University Department) | [Website](https://www.bgsbu.ac.in) |
+| 1810 | Dogra Degree College, Bari Brahmana, Samba | Samba | Jammu & Kashmir | Private | [Website](https://dogradegreecollege.com) |
+| 1811 | CASET College of Computer Sciences, Srinagar | Srinagar | Jammu & Kashmir | Private | [Website](http://www.casetcollege.in) |
+| 1812 | Islamia College of Science and Commerce (ICSC), Srinagar | Srinagar | Jammu & Kashmir | Public/Government (Autonomous Aided, NAAC 'A') | [Website](https://islamiacollege.edu.in) |
+| 1813 | Government College for Women, Nawakadal, Srinagar | Srinagar | Jammu & Kashmir | Public/Government (Constituent College) | [Website](https://www.gcwnk.ac.in) |
+| 1814 | Central University of Jammu | Samba | Jammu & Kashmir | Public/Government (Central University) | [Website](https://www.cujammu.ac.in) |
+| 1815 | Cluster University of Jammu | Jammu | Jammu & Kashmir | Public/Government (State University) | [Website](https://clujammu.ac.in) |
+| 1816 | Central University of Kashmir | Ganderbal | Jammu & Kashmir | Public/Government (Central University) | [Website](https://www.cukashmir.ac.in) |
