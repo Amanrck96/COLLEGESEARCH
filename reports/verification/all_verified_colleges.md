@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **1400 / 12,660**  
-**Roadmap Progress**: **140.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **1410 / 12,660**  
+**Roadmap Progress**: **141.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -2109,4 +2109,19 @@
 | **1072** | National Law School of India University, Bangalore | Public/Government | Bengaluru, Karnataka - 560072 | [www.nls.ac.in](https://www.nls.ac.in) |
 | **1073** | Galgotias University | Private | Gautam Buddha Nagar, Uttar Pradesh - 203201 | [www.galgotiasuniversity.edu.in](https://www.galgotiasuniversity.edu.in) |
 | **1074** | Doon Business School | Private | Dehradun, Uttarakhand - 248011 | [www.doonbusinessschool.com](https://www.doonbusinessschool.com) |
+
+### Batch 141 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **1075** | Unitedworld Institute of Technology (UIT), Karnavati University | Private | Gandhinagar, Gujarat - 382422 | [karnavatiuniversity.edu.in](https://karnavatiuniversity.edu.in/uit/) |
+| **1076** | RCS Education Society | Private | Bengaluru, Karnataka - 560010 | [rcsedu.com](https://rcsedu.com) |
+| **1077** | International Institute of Business Studies | Private | Bengaluru, Karnataka - 562149 | [www.iibs.edu.in](https://www.iibs.edu.in) |
+| **1078** | D.Y. Patil College of Engineering, Akurdi, Pune | Private | Pune, Maharashtra - 411044 | [www.dypcoeakurdi.ac.in](https://www.dypcoeakurdi.ac.in) |
+| **1079** | Galgotias College of Engineering and Technology | Private | Gautam Buddha Nagar, Uttar Pradesh - 201306 | [galgotiacollege.edu](https://galgotiacollege.edu) |
+| **1080** | S.S. Jain Subodh PG College, Jaipur | Private | Jaipur, Rajasthan - 302004 | [www.subodhpgcollege.com](https://www.subodhpgcollege.com) |
+| **1081** | Madras Christian College (MCC Chennai) | Public/Government | Chennai, Tamil Nadu - 600059 | [mcc.edu.in](https://mcc.edu.in) |
+| **1082** | PSG College of Arts and Science (PSGCAS Coimbatore) | Public/Government | Coimbatore, Tamil Nadu - 641014 | [www.psgcas.ac.in](https://www.psgcas.ac.in) |
+| **1083** | Galgotias Institute of Management and Technology | Private | Gautam Buddha Nagar, Uttar Pradesh - 201306 | [www.galgotias.edu.in](https://www.galgotias.edu.in) |
+| **1084** | Dr. Vishwanath Karad MIT World Peace University | Private | Pune, Maharashtra - 411038 | [mitwpu.edu.in](https://mitwpu.edu.in) |
 

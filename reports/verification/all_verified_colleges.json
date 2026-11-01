@@ -10498,5 +10498,80 @@
         "website": "https://www.doonbusinessschool.com"
       }
     ]
+  },
+  {
+    "batch": 141,
+    "items": [
+      {
+        "id": 1075,
+        "name": "Unitedworld Institute of Technology (UIT), Karnavati University",
+        "type": "Private",
+        "location": "Gandhinagar, Gujarat - 382422",
+        "website": "https://karnavatiuniversity.edu.in/uit/"
+      },
+      {
+        "id": 1076,
+        "name": "RCS Education Society",
+        "type": "Private",
+        "location": "Bengaluru, Karnataka - 560010",
+        "website": "https://rcsedu.com"
+      },
+      {
+        "id": 1077,
+        "name": "International Institute of Business Studies",
+        "type": "Private",
+        "location": "Bengaluru, Karnataka - 562149",
+        "website": "https://www.iibs.edu.in"
+      },
+      {
+        "id": 1078,
+        "name": "D.Y. Patil College of Engineering, Akurdi, Pune",
+        "type": "Private",
+        "location": "Pune, Maharashtra - 411044",
+        "website": "https://www.dypcoeakurdi.ac.in"
+      },
+      {
+        "id": 1079,
+        "name": "Galgotias College of Engineering and Technology",
+        "type": "Private",
+        "location": "Gautam Buddha Nagar, Uttar Pradesh - 201306",
+        "website": "https://galgotiacollege.edu"
+      },
+      {
+        "id": 1080,
+        "name": "S.S. Jain Subodh PG College, Jaipur",
+        "type": "Private",
+        "location": "Jaipur, Rajasthan - 302004",
+        "website": "https://www.subodhpgcollege.com"
+      },
+      {
+        "id": 1081,
+        "name": "Madras Christian College (MCC Chennai)",
+        "type": "Public/Government",
+        "location": "Chennai, Tamil Nadu - 600059",
+        "website": "https://mcc.edu.in"
+      },
+      {
+        "id": 1082,
+        "name": "PSG College of Arts and Science (PSGCAS Coimbatore)",
+        "type": "Public/Government",
+        "location": "Coimbatore, Tamil Nadu - 641014",
+        "website": "https://www.psgcas.ac.in"
+      },
+      {
+        "id": 1083,
+        "name": "Galgotias Institute of Management and Technology",
+        "type": "Private",
+        "location": "Gautam Buddha Nagar, Uttar Pradesh - 201306",
+        "website": "https://www.galgotias.edu.in"
+      },
+      {
+        "id": 1084,
+        "name": "Dr. Vishwanath Karad MIT World Peace University",
+        "type": "Private",
+        "location": "Pune, Maharashtra - 411038",
+        "website": "https://mitwpu.edu.in"
+      }
+    ]
   }
 ]
