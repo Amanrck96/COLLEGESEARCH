@@ -1,0 +1,112 @@
+[
+  {
+    "id": 269,
+    "name": "Maulana Azad Medical College (MAMC New Delhi)",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_coep_pune.png",
+    "website": "https://www.mamc.ac.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 270,
+    "name": "Vardhman Mahavir Medical College, Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/bms_bangalore.jpg",
+    "website": "http://vmmc-sjh.nic.in/Default_College.aspx",
+    "phone": "01126165060",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 271,
+    "name": "Management Development Institute, Gurgaon",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://drupal.mbauniverse.com/sites/default/files/2025-07/MDI-Gurgoan-02-Campus.jpg",
+    "website": "https://www.mdi.ac.in/",
+    "phone": "01244560666",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 272,
+    "name": "Lloyd Institute of Engineering and Technology, Greater Noida",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://liet.in/",
+    "phone": "8588803919",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 274,
+    "name": "Ganga Institute of Technology and Management, Jhajjar",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "website": "https://www.gangainstitute.com",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 275,
+    "name": "DTU Delhi DTU",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/delhi_technological_university.jpg",
+    "website": "https://www.google.com/search?q=DTU%20Delhi%20DTU%20official%20website%20Delhi%20Delhi%20NCR",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 276,
+    "name": "Maharaja Agrasen Institute of Technology, Delhi",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "https://www.joonsquare.com/usermanage/image/business/maharaja-agrasen-institute-of-technology-west-delhi-2516/maharaja-agrasen-institute-of-technology-west-delhi-mait-1.jpg",
+    "website": "https://www.mait.ac.in",
+    "phone": "8448186931",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 277,
+    "name": "KCC Institute of Technology and Management, Greater Noida",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.kccitm.edu.in",
+    "phone": "9210065555",
+    "rating": 4.5,
+    "coursesCount": 3
+  },
+  {
+    "id": 278,
+    "name": "Delhi School of Management, DTU",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/delhi_technological_university.jpg",
+    "website": "http://www.dtu.ac.in/",
+    "phone": "01127871018",
+    "rating": 4.5,
+    "coursesCount": 2
+  },
+  {
+    "id": 279,
+    "name": "SRM Institute of Science and Technology Delhi-NCR Campus, Ghaziabad",
+    "state": "Delhi NCR",
+    "type": "Private",
+    "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
+    "website": "https://www.srmist.edu.in",
+    "phone": "080-26597135",
+    "rating": 4.5,
+    "coursesCount": 3
+  }
+]

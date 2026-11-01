@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **690 / 12,660**  
-**Roadmap Progress**: **69.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **700 / 12,660**  
+**Roadmap Progress**: **70.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -1044,4 +1044,19 @@
 | **266** | Institute of Liver and Biliary Sciences, New Delhi (ILBS) | Public/Government | Delhi, India | [www.ilbs.in](https://www.ilbs.in/) |
 | **267** | Max Institute of Medical Excellence, Rohini, New Delhi | Private | Delhi, India | [www.maxhealthcare.in](https://www.maxhealthcare.in/academics) |
 | **268** | Delhi Paramedical and Management Institute, New Delhi (DPMI) | Private | New Ashok Nagar, Near New Ashok Nagar Metro Station & Rapid Rail Station (RRTS) | [www.dpmiindia.com](https://www.dpmiindia.com/) |
+
+### Batch 70 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **269** | Maulana Azad Medical College (MAMC New Delhi) | Public/Government | Delhi, India | [www.mamc.ac.in](https://www.mamc.ac.in) |
+| **270** | Vardhman Mahavir Medical College, Delhi (VMMC & Safdarjung Hospital) | Public/Government | Ansari Nagar, near AIIMS Hospital | [vmmc-sjh.nic.in](https://vmmc-sjh.nic.in/) |
+| **271** | Management Development Institute, Gurgaon (MDI Gurgaon) | Private | Mehrauli Road, Sukhrali | [www.mdi.ac.in](https://www.mdi.ac.in/) |
+| **272** | Lloyd Institute of Engineering and Technology, Greater Noida | Private | Plot No. 3, Knowledge Park - 2 | [liet.in](https://liet.in/) |
+| **274** | Ganga Institute of Technology and Management, Jhajjar | Private | Bahadurgarh-Jhajjar Road, Kablana | [www.gangainstitute.com](https://www.gangainstitute.com) |
+| **275** | Delhi Technological University (DTU New Delhi) | Public/Government | Delhi NCR, India | [www.dtu.ac.in](https://www.dtu.ac.in/) |
+| **276** | Maharaja Agrasen Institute of Technology, Delhi (MAIT Delhi) | Private | Plot No. 1, Sector-22 | [www.mait.ac.in](https://www.mait.ac.in) |
+| **277** | KCC Institute of Technology and Management, Greater Noida | Private | Near Knowledge Park II Metro Station, Delhi-NCR | [www.kccitm.edu.in](https://www.kccitm.edu.in) |
+| **278** | Delhi School of Management, DTU (DSM DTU New Delhi) | Public/Government | Shahbad Daulatpur, Main Bawana Road | [dsm.dtu.ac.in](https://dsm.dtu.ac.in/) |
+| **279** | SRM Institute of Science and Technology Delhi-NCR Campus, Ghaziabad | Deemed | Delhi-Meerut Road, | [www.srmup.in](https://www.srmup.in/) |
 

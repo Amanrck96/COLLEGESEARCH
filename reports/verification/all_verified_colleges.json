@@ -5173,5 +5173,80 @@
         "website": "https://www.dpmiindia.com/"
       }
     ]
+  },
+  {
+    "batch": 70,
+    "items": [
+      {
+        "id": 269,
+        "name": "Maulana Azad Medical College (MAMC New Delhi)",
+        "type": "Public/Government",
+        "location": "Delhi, India",
+        "website": "https://www.mamc.ac.in"
+      },
+      {
+        "id": 270,
+        "name": "Vardhman Mahavir Medical College, Delhi (VMMC & Safdarjung Hospital)",
+        "type": "Public/Government",
+        "location": "Ansari Nagar, near AIIMS Hospital",
+        "website": "https://vmmc-sjh.nic.in/"
+      },
+      {
+        "id": 271,
+        "name": "Management Development Institute, Gurgaon (MDI Gurgaon)",
+        "type": "Private",
+        "location": "Mehrauli Road, Sukhrali",
+        "website": "https://www.mdi.ac.in/"
+      },
+      {
+        "id": 272,
+        "name": "Lloyd Institute of Engineering and Technology, Greater Noida",
+        "type": "Private",
+        "location": "Plot No. 3, Knowledge Park - 2",
+        "website": "https://liet.in/"
+      },
+      {
+        "id": 274,
+        "name": "Ganga Institute of Technology and Management, Jhajjar",
+        "type": "Private",
+        "location": "Bahadurgarh-Jhajjar Road, Kablana",
+        "website": "https://www.gangainstitute.com"
+      },
+      {
+        "id": 275,
+        "name": "Delhi Technological University (DTU New Delhi)",
+        "type": "Public/Government",
+        "location": "Delhi NCR, India",
+        "website": "https://www.dtu.ac.in/"
+      },
+      {
+        "id": 276,
+        "name": "Maharaja Agrasen Institute of Technology, Delhi (MAIT Delhi)",
+        "type": "Private",
+        "location": "Plot No. 1, Sector-22",
+        "website": "https://www.mait.ac.in"
+      },
+      {
+        "id": 277,
+        "name": "KCC Institute of Technology and Management, Greater Noida",
+        "type": "Private",
+        "location": "Near Knowledge Park II Metro Station, Delhi-NCR",
+        "website": "https://www.kccitm.edu.in"
+      },
+      {
+        "id": 278,
+        "name": "Delhi School of Management, DTU (DSM DTU New Delhi)",
+        "type": "Public/Government",
+        "location": "Shahbad Daulatpur, Main Bawana Road",
+        "website": "https://dsm.dtu.ac.in/"
+      },
+      {
+        "id": 279,
+        "name": "SRM Institute of Science and Technology Delhi-NCR Campus, Ghaziabad",
+        "type": "Deemed",
+        "location": "Delhi-Meerut Road,",
+        "website": "https://www.srmup.in/"
+      }
+    ]
   }
 ]
