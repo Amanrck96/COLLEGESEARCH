@@ -1,7 +1,7 @@
 # CollegeSearch360 — Complete Master Directory of Verified Institutions
 
-**Total Officially Verified Institutions**: **570 / 12,660**  
-**Roadmap Progress**: **57.0% of 1,000 Milestone**  
+**Total Officially Verified Institutions**: **580 / 12,660**  
+**Roadmap Progress**: **58.0% of 1,000 Milestone**  
 **Repository Branch**: `main`  
 **GitHub Origin Status**: Synced directly with `origin/main` (`https://github.com/Amanrck96/COLLEGESEARCH`)  
 **Audit Verification Date**: 2026-10-31  
@@ -864,4 +864,19 @@
 | **136** | Jawaharlal Nehru Medical College, Belagavi (JNMC KAHER) | Deemed to be University (Constituent Medical College of KAHER) | Belagavi - 590010, Karnataka | [www.jnmc.edu](https://www.jnmc.edu) |
 | **137** | JSS Medical College, Mysuru (JSSMC JSSAHER) | Deemed to be University (Constituent College of JSS AHER, NIRF Top 35 Medical) | Mysuru - 570015, Karnataka | [jssuni.edu.in](https://jssuni.edu.in) |
 | **138** | Kasturba Medical College, Manipal (KMC Manipal - MAHE) | Deemed to be University (Constituent of MAHE - IoE, NIRF Top 10 Medical) | Udupi District - 576104, Karnataka | [manipal.edu](https://manipal.edu/kmc-manipal.html) |
+
+### Batch 58 (10 Colleges)
+
+| ID | Institution Name | Classification | Location | Verified Official Portal |
+|:---|:---|:---|:---|:---|
+| **139** | Chettinad Academy of Research and Education, Kolar Campus (CARE) | Deemed to be University (Off-Campus Healthcare Centre) | Kolar - 563101, Karnataka | [kolar.care.edu.in](https://kolar.care.edu.in) |
+| **140** | Dayananda Sagar University (DSU Bengaluru) | Private University (State Private University) | Bengaluru - 560068, Karnataka | [www.dsu.edu.in](https://www.dsu.edu.in) |
+| **141** | St. John's National Academy of Health Sciences (St. John's Medical College) | Private (Premier Minority Medical College, NIRF Top 20) | Bengaluru - 560034, Karnataka | [www.stjohns.in](https://www.stjohns.in) |
+| **142** | National Institute of Mental Health and Neuro Sciences (NIMHANS Bengaluru) | Institute of National Importance (INI - MoHFW, NIRF #4 Medical) | Bengaluru - 560029, Karnataka | [nimhans.ac.in](https://nimhans.ac.in) |
+| **143** | Kasturba Medical College, Mangalore (KMC Mangalore - MAHE) | Deemed to be University (Constituent of MAHE - IoE, NIRF Top 30 Medical) | Mangaluru - 575001, Karnataka | [manipal.edu](https://manipal.edu/kmc-mangalore.html) |
+| **144** | International Institute of Information Technology Bangalore (IIIT-B) | Deemed to be University (Section 3 UGC Act / Non-Profit PPP) | Bengaluru - 560100, Karnataka | [www.iiitb.ac.in](https://www.iiitb.ac.in) |
+| **145** | GM Institute of Technology (GMIT Davangere) | Private (Engineering College / VTU Affiliated) | Davangere - 577006, Karnataka | [gmit.ac.in](https://gmit.ac.in) |
+| **146** | PES University (PESU Bengaluru - RR Campus) | Private University (State Private University) | Bengaluru - 560085, Karnataka | [pes.edu](https://pes.edu) |
+| **147** | Nitte Meenakshi Institute of Technology (NMIT Bengaluru) | Private Autonomous (Engineering College / VTU Affiliated) | Bengaluru - 560064, Karnataka | [www.nmit.ac.in](https://www.nmit.ac.in) |
+| **148** | BMS College of Engineering (BMSCE Basavanagudi, Bengaluru) | Private / Grant-in-Aid (First Private Engineering College in India - 1946) | Bengaluru - 560019, Karnataka | [www.bmsce.ac.in](https://www.bmsce.ac.in) |
 

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 139,
+    "name": "Chettinad Academy of Research and Education, Kolar",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://kolar.care.edu.in/",
+    "phone": " 8447892022",
+    "email": "kolarenquiry@care.edu.in"
+  },
+  {
+    "id": 140,
+    "name": "DSU",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://www.dsu.edu.in/international/international-affairs/Images/schools.jpg",
+    "website": "https://www.dsu.edu.in/",
+    "phone": "080-26597135",
+    "email": "admissions@dsu.edu.in"
+  },
+  {
+    "id": 141,
+    "name": "St. John&acirc;&euro;&trade;s National Academy of Health Sciences",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://www.stjohns.in",
+    "phone": "080-26597135",
+    "email": "admissions@sjnaoh.edu.in"
+  },
+  {
+    "id": 142,
+    "name": "NIMHANS Bangalore",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/ramaiah_bangalore.jpg",
+    "website": "https://nimhans.ac.in",
+    "phone": "080-26597135",
+    "email": "admissions@nb.edu.in"
+  },
+  {
+    "id": 143,
+    "name": "Kasturba Medical College, Manipal, Manipal Academy of Higher Education",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2023/January/1912023/Kasturba-Medical-College-Manipal-Campus-View-1.jpg",
+    "website": "https://www.manipal.edu",
+    "phone": "9243777700",
+    "email": "admissions@manipal.edu"
+  },
+  {
+    "id": 144,
+    "name": "IIIT Bangalore",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "/images/campuses/iiit_bangalore_campus.jpg",
+    "website": "https://www.iiitb.ac.in",
+    "phone": "080-26597135",
+    "email": "admissions@ib.edu.in"
+  },
+  {
+    "id": 145,
+    "name": "GMIT",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "/images/campuses/iim_bangalore.jpg",
+    "website": "http://www.gmit.ac.in/",
+    "phone": "08192233345",
+    "email": "info@gmit.info"
+  },
+  {
+    "id": 146,
+    "name": "PES University, Bangalore",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "/images/campuses/pes_bangalore.jpg",
+    "website": "https://pes.edu/",
+    "phone": "08010297297",
+    "email": "admissions@pes.edu"
+  },
+  {
+    "id": 147,
+    "name": "NITTE Meenakshi Institute of Technology, Bangalore",
+    "state": "Karnataka",
+    "type": "Public/Government",
+    "image": "https://www.collegebatch.com/static/clg-gallery/nitte-meenakshi-institute-of-technology-bangalore-364672.webp",
+    "website": "https://www.nmit.ac.in/",
+    "phone": "8151004455",
+    "email": "admissions@nmit.ac.in"
+  },
+  {
+    "id": 148,
+    "name": "BMS College of Engineering, Bangalore",
+    "state": "Karnataka",
+    "type": "Private",
+    "image": "https://img.jagranjosh.com/images/2022/December/1122022/BMS-College-of-Engineering-Bangalore-Campus-View-3.jpg",
+    "website": "http://www.bmsce.in/",
+    "phone": "08026622130",
+    "email": "info@bmsce.ac.in"
+  }
+]

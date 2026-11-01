@@ -4273,5 +4273,80 @@
         "website": "https://manipal.edu/kmc-manipal.html"
       }
     ]
+  },
+  {
+    "batch": 58,
+    "items": [
+      {
+        "id": 139,
+        "name": "Chettinad Academy of Research and Education, Kolar Campus (CARE)",
+        "type": "Deemed to be University (Off-Campus Healthcare Centre)",
+        "location": "Kolar - 563101, Karnataka",
+        "website": "https://kolar.care.edu.in"
+      },
+      {
+        "id": 140,
+        "name": "Dayananda Sagar University (DSU Bengaluru)",
+        "type": "Private University (State Private University)",
+        "location": "Bengaluru - 560068, Karnataka",
+        "website": "https://www.dsu.edu.in"
+      },
+      {
+        "id": 141,
+        "name": "St. John's National Academy of Health Sciences (St. John's Medical College)",
+        "type": "Private (Premier Minority Medical College, NIRF Top 20)",
+        "location": "Bengaluru - 560034, Karnataka",
+        "website": "https://www.stjohns.in"
+      },
+      {
+        "id": 142,
+        "name": "National Institute of Mental Health and Neuro Sciences (NIMHANS Bengaluru)",
+        "type": "Institute of National Importance (INI - MoHFW, NIRF #4 Medical)",
+        "location": "Bengaluru - 560029, Karnataka",
+        "website": "https://nimhans.ac.in"
+      },
+      {
+        "id": 143,
+        "name": "Kasturba Medical College, Mangalore (KMC Mangalore - MAHE)",
+        "type": "Deemed to be University (Constituent of MAHE - IoE, NIRF Top 30 Medical)",
+        "location": "Mangaluru - 575001, Karnataka",
+        "website": "https://manipal.edu/kmc-mangalore.html"
+      },
+      {
+        "id": 144,
+        "name": "International Institute of Information Technology Bangalore (IIIT-B)",
+        "type": "Deemed to be University (Section 3 UGC Act / Non-Profit PPP)",
+        "location": "Bengaluru - 560100, Karnataka",
+        "website": "https://www.iiitb.ac.in"
+      },
+      {
+        "id": 145,
+        "name": "GM Institute of Technology (GMIT Davangere)",
+        "type": "Private (Engineering College / VTU Affiliated)",
+        "location": "Davangere - 577006, Karnataka",
+        "website": "https://gmit.ac.in"
+      },
+      {
+        "id": 146,
+        "name": "PES University (PESU Bengaluru - RR Campus)",
+        "type": "Private University (State Private University)",
+        "location": "Bengaluru - 560085, Karnataka",
+        "website": "https://pes.edu"
+      },
+      {
+        "id": 147,
+        "name": "Nitte Meenakshi Institute of Technology (NMIT Bengaluru)",
+        "type": "Private Autonomous (Engineering College / VTU Affiliated)",
+        "location": "Bengaluru - 560064, Karnataka",
+        "website": "https://www.nmit.ac.in"
+      },
+      {
+        "id": 148,
+        "name": "BMS College of Engineering (BMSCE Basavanagudi, Bengaluru)",
+        "type": "Private / Grant-in-Aid (First Private Engineering College in India - 1946)",
+        "location": "Bengaluru - 560019, Karnataka",
+        "website": "https://www.bmsce.ac.in"
+      }
+    ]
   }
 ]
