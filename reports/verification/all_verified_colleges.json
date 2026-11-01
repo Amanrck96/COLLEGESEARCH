@@ -12913,5 +12913,95 @@
     "type": "Private",
     "website": "https://satyaminstitute.in",
     "verifiedAt": "2026-11-01T19:24:40.170Z"
+  },
+  {
+    "id": 1401,
+    "name": "Chandigarh School of Business, Jhanjeri, Mohali",
+    "location": "Mohali",
+    "state": "Punjab",
+    "type": "Private",
+    "website": "https://www.cgc.ac.in",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1402,
+    "name": "Alwardas Polytechnic, Visakhapatnam",
+    "location": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://www.alwardaspolytechnic.com",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1403,
+    "name": "ASK College of Technology and Management, Anakapalle",
+    "location": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://askctm.in",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1404,
+    "name": "Gayatri Vidya Parishad College of Engineering (GVPCE Autonomous), Visakhapatnam",
+    "location": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://www.gvpce.ac.in",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1405,
+    "name": "Miracle Educational Society Group of Institutions, Bhogapuram, Vizianagaram",
+    "location": "Vizianagaram",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://miracle.edu.in",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1406,
+    "name": "Government Polytechnic, Gannavaram, Krishna",
+    "location": "Krishna",
+    "state": "Andhra Pradesh",
+    "type": "Public/Government",
+    "website": "https://polytechnic.ap.gov.in",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1407,
+    "name": "Daita Madhusudana Sastry Sri Venkateswara Hindu College of Engineering (DMSSVH), Machilipatnam",
+    "location": "Krishna",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://dmssvhec.ac.in",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1408,
+    "name": "Aditya Degree College, Payakapuram, Vijayawada",
+    "location": "Krishna",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://aditya.ac.in/degree",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1409,
+    "name": "Annamacharya Institute of Technology and Sciences (AITS), Kadapa",
+    "location": "YSR District",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://aitskadapa.ac.in",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
+  },
+  {
+    "id": 1410,
+    "name": "Mother Theresa Institute of Engineering and Technology (MTIET), Palamaner, Chittoor",
+    "location": "Chittoor",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "website": "https://mtieat.org",
+    "verifiedAt": "2026-11-01T19:47:05.357Z"
   }
 ]

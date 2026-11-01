@@ -2549,3 +2549,17 @@
 | 1398 | Dr. IT College of Polytechnic, Banur, Patiala | Patiala | Punjab | Private | [https://dritgoi.edu.in](https://dritgoi.edu.in) |
 | 1399 | Government Polytechnic College, Jalandhar | Jalandhar | Punjab | Public/Government | [https://gpcjalandhar.ac.in](https://gpcjalandhar.ac.in) |
 | 1400 | Satyam Institute of Engineering & Technology, Amritsar | Amritsar | Punjab | Private | [https://satyaminstitute.in](https://satyaminstitute.in) |
+
+### Batch 171 (Colleges 1,701–1,710) — Punjab & Andhra Pradesh Engineering & Technical Institutions
+| ID | College Name | Location | State | Type | Website |
+|---|---|---|---|---|---|
+| 1401 | Chandigarh School of Business, Jhanjeri, Mohali | Mohali | Punjab | Private | [https://www.cgc.ac.in](https://www.cgc.ac.in) |
+| 1402 | Alwardas Polytechnic, Visakhapatnam | Visakhapatnam | Andhra Pradesh | Private | [https://www.alwardaspolytechnic.com](https://www.alwardaspolytechnic.com) |
+| 1403 | ASK College of Technology and Management, Anakapalle | Visakhapatnam | Andhra Pradesh | Private | [https://askctm.in](https://askctm.in) |
+| 1404 | Gayatri Vidya Parishad College of Engineering (GVPCE Autonomous), Visakhapatnam | Visakhapatnam | Andhra Pradesh | Private | [https://www.gvpce.ac.in](https://www.gvpce.ac.in) |
+| 1405 | Miracle Educational Society Group of Institutions, Bhogapuram, Vizianagaram | Vizianagaram | Andhra Pradesh | Private | [https://miracle.edu.in](https://miracle.edu.in) |
+| 1406 | Government Polytechnic, Gannavaram, Krishna | Krishna | Andhra Pradesh | Public/Government | [https://polytechnic.ap.gov.in](https://polytechnic.ap.gov.in) |
+| 1407 | Daita Madhusudana Sastry Sri Venkateswara Hindu College of Engineering (DMSSVH), Machilipatnam | Krishna | Andhra Pradesh | Private | [https://dmssvhec.ac.in](https://dmssvhec.ac.in) |
+| 1408 | Aditya Degree College, Payakapuram, Vijayawada | Krishna | Andhra Pradesh | Private | [https://aditya.ac.in/degree](https://aditya.ac.in/degree) |
+| 1409 | Annamacharya Institute of Technology and Sciences (AITS), Kadapa | YSR District | Andhra Pradesh | Private | [https://aitskadapa.ac.in](https://aitskadapa.ac.in) |
+| 1410 | Mother Theresa Institute of Engineering and Technology (MTIET), Palamaner, Chittoor | Chittoor | Andhra Pradesh | Private | [https://mtieat.org](https://mtieat.org) |
