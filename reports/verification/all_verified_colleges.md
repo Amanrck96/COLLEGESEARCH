@@ -2967,3 +2967,19 @@
 | 1978 | Himalayan Institute of Computer Sciences (HICS), Kala Amb | Sirmaur | Himachal Pradesh | Private | [Portal](https://hgpi.in) |
 | 1979 | Green Hills Engineering College (GHEC), Kumarhatti | Solan | Himachal Pradesh | Private | [Portal](https://greenhills.ac.in) |
 | 1980 | Himalayan Institute of Engineering & Technology (HIET), Kala Amb | Sirmaur | Himachal Pradesh | Private | [Portal](https://hgpi.in) |
+
+
+### Batch 199 (Colleges 1,981–1,990)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1981 | K.C. Group of Research & Professional Institutes, Pandoga | Una | Himachal Pradesh | Private | [Portal](https://kcinstitutes.com) |
+| 1982 | T.R. Abhilashi Memorial Institute of Engineering and Technology (TRAMIET) | Mandi | Himachal Pradesh | Private | [Portal](https://abhilashiuniversity.ac.in) |
+| 1983 | Shri Vishnu Sanatan Dharam (SVSD) PG College, Bhatoli | Una | Himachal Pradesh | Private | [Portal](https://svsdcollege.in) |
+| 1984 | Maharana Pratap Government Degree College, Amb | Una | Himachal Pradesh | Public/Government | [Portal](https://gcamb.ac.in) |
+| 1985 | Maharaja Sansar Chand Memorial (MSCM) Government College, Thural | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcthural.ac.in) |
+| 1986 | Shoolini Institute of Life Sciences and Business Management (SILB) | Solan | Himachal Pradesh | Private | [Portal](https://silb.org) |
+| 1987 | Mehr Chand Mahajan (MCM) DAV College, Kangra | Kangra | Himachal Pradesh | Private | [Portal](https://mcmdavckangra.org) |
+| 1988 | Minerva College of Education, Indora | Kangra | Himachal Pradesh | Private | [Portal](https://minervacollege.org) |
+| 1989 | Laureate Institute of Management and Information Technology (LIMIT) | Kangra | Himachal Pradesh | Private | [Portal](https://laureate.ac.in) |
+| 1990 | Lala Lilu Ram (LLR) Institute of Management, Solan | Solan | Himachal Pradesh | Private | [Portal](https://www.lrinstitutes.edu.in) |
