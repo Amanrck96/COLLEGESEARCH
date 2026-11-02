@@ -3031,3 +3031,19 @@
 | 2018 | Dronacharya Post Graduate College of Education, Rait | Kangra | Himachal Pradesh | Private | [Portal](https://dronacharyahp.org) |
 | 2019 | Birla Institute of Technology and Science (BITS Pilani) - K.K. Birla Goa Campus | South Goa | Goa | Private (Deemed to be University - Institute of Eminence) | [Portal](https://www.bits-pilani.ac.in/goa/) |
 | 2020 | Guardian Angel Institute of Hotel Management and Catering Technology | South Goa | Goa | Private | [Portal](https://gaihmct.in) |
+
+
+### Batch 203 (Colleges 2,021–2,030)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2021 | Agnel Institute of Technology and Design (AITD), Assagao | North Goa | Goa | Private | [Portal](https://aitdgoa.edu.in) |
+| 2022 | Agnel Institute of Food Crafts and Culinary Sciences (AIFCCS), Verna | South Goa | Goa | Private | [Portal](https://aifccsgoa.com) |
+| 2023 | Government Polytechnic, Mayem, Bicholim | North Goa | Goa | Public/Government | [Portal](https://gpbicholim.org) |
+| 2024 | Institute of Shipbuilding Technology (ISBT), Vasco da Gama | South Goa | Goa | Private | [Portal](https://isbt.ac.in) |
+| 2025 | Agnel Polytechnic, Verna | South Goa | Goa | Private | [Portal](https://agnelpolytechnic.ac.in) |
+| 2026 | Government Polytechnic, Curchorem | South Goa | Goa | Public/Government | [Portal](https://gpcurchorem.org) |
+| 2027 | Government Polytechnic, Panaji | North Goa | Goa | Public/Government | [Portal](https://gpp.goa.gov.in) |
+| 2028 | Don Bosco College of Engineering (DBCE), Fatorda | South Goa | Goa | Private | [Portal](https://dbcegoa.ac.in) |
+| 2029 | Goa Institute of Management (GIM), Sanquelim | North Goa | Goa | Private (Autonomous B-School) | [Portal](https://gim.ac.in) |
+| 2030 | Padre Conceicao College of Engineering (PCCE), Verna | South Goa | Goa | Private | [Portal](https://pccegoa.edu.in) |

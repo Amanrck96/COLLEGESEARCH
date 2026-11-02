@@ -35222,5 +35222,753 @@
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GUARDIAN%20ANGEL%20INSTITUTE%20OF%20HOTEL%20MANAGEMENT%20AND%20CATERING%20TECHNOLOGY%20SOUTH%20GOA%20Goa",
     "verified": true,
     "verificationDate": "2026-11-02T06:41:49.605Z"
+  },
+  {
+    "id": 2017,
+    "name": "Agnel Institute of Technology and Design (AITD), Assagao",
+    "shortName": "AITD Assagao Goa",
+    "location": "North Goa",
+    "state": "Goa",
+    "address": "Agnel Technical Education Complex, Assagao, Bardez, North Goa, Goa - 403507",
+    "phone": "0832-2268642",
+    "website": "https://aitdgoa.edu.in",
+    "rating": 4.5,
+    "reviews": 446,
+    "type": "Private",
+    "about": "Agnel Institute of Technology and Design (AITD) Assagao, established in 2012 by Agnel Charities, is an AICTE-approved engineering college affiliated to Goa University, delivering undergraduate engineering programs in mechanical, computer, and electronics engineering.",
+    "ranking": 51,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=AGNEL%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20DESIGN%20NORTH%20GOA%20Goa",
+    "fees": "₹1,45,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "gallery": [
+      "https://cache.careers360.mobi/media/colleges/social-media/media-gallery/5061/2021/10/12/Campus View of Agnel Institute of Technology and Design Goa_Campus-View.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
+    ],
+    "affiliation": "Goa University, Taleigao Plateau, Goa",
+    "courses": [
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electronics and Computer Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 446,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=AGNEL%20INSTITUTE%20OF%20TECHNOLOGY%20AND%20DESIGN%20NORTH%20GOA%20Goa",
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.312Z"
+  },
+  {
+    "id": 2018,
+    "name": "Agnel Institute of Food Crafts and Culinary Sciences (AIFCCS), Verna",
+    "shortName": "AIFCCS Verna Goa",
+    "location": "South Goa",
+    "state": "Goa",
+    "address": "Agnel Ashram, Verna, Salcete, South Goa, Goa - 403722",
+    "phone": "0832-2791206",
+    "website": "https://aifccsgoa.com",
+    "rating": 4.5,
+    "reviews": 212,
+    "type": "Private",
+    "about": "Agnel Institute of Food Crafts and Culinary Sciences Verna, established by Agnel Charities, offers professional diploma and certificate programs in hotel management, food production, bakery, and hospitality services.",
+    "ranking": 56,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=AGNEL%20INSTITUTE%20OF%20FOOD%20CRAFTS%20AND%20CULINARY%20SCIENCES%20SOUTH%20GOA%20Goa",
+    "fees": "₹50,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+    "gallery": [
+      "https://career.webindia123.com/career/institutes/aspupload/Uploads/goa/23245/3_main.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
+    ],
+    "affiliation": "Directorate of Technical Education (DTE), Government of Goa",
+    "courses": [
+      {
+        "title": "Diploma in Hotel Management and Catering Technology",
+        "duration": "3 Years",
+        "fees": "₹50,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "HOTEL MANAGEMENT AND CATERING",
+        "intake": 60
+      },
+      {
+        "title": "Certificate Course in Food and Beverage Service",
+        "duration": "1 Year",
+        "fees": "₹30,000/Yr",
+        "eligibility": "Class 10th pass",
+        "type": "HOTEL MANAGEMENT AND CATERING",
+        "intake": 40
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 212,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=AGNEL%20INSTITUTE%20OF%20FOOD%20CRAFTS%20AND%20CULINARY%20SCIENCES%20SOUTH%20GOA%20Goa",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.370Z"
+  },
+  {
+    "id": 2019,
+    "name": "Government Polytechnic, Mayem, Bicholim",
+    "shortName": "GP Bicholim Goa",
+    "location": "North Goa",
+    "state": "Goa",
+    "address": "Mayem, Bicholim, North Goa, Goa - 403504",
+    "phone": "0832-2361235",
+    "website": "https://gpbicholim.org",
+    "rating": 4.5,
+    "reviews": 384,
+    "type": "Public/Government",
+    "about": "Government Polytechnic Mayem-Bicholim, established in 2002 under the Directorate of Technical Education, Government of Goa, is an AICTE-approved premier public polytechnic delivering subsidized diploma courses across engineering trades.",
+    "ranking": 96,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20MAYEM%20BICHOLIM%20NORTH%20GOA%20Goa",
+    "fees": "₹16,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://images.careerindia.com/college-photos/20225/12_1652720301.jpg",
+    "gallery": [
+      "https://images.careerindia.com/college-photos/20225/12_1652720301.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
+    ],
+    "affiliation": "Board of Technical Education, Government of Goa",
+    "courses": [
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Math & Science + DTE Goa Centralized Admission",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Math & Science + DTE Goa Centralized Admission",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Electrical & Electronics Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Math & Science + DTE Goa Centralized Admission",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 384,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://images.careerindia.com/college-photos/20225/12_1652720301.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20MAYEM%20BICHOLIM%20NORTH%20GOA%20Goa",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.409Z"
+  },
+  {
+    "id": 2020,
+    "name": "Institute of Shipbuilding Technology (ISBT), Vasco da Gama",
+    "shortName": "ISBT Goa",
+    "location": "South Goa",
+    "state": "Goa",
+    "address": "Bogda, Vasco da Gama, South Goa, Goa - 403802",
+    "phone": "0832-2520984",
+    "website": "https://isbt.ac.in",
+    "rating": 4.5,
+    "reviews": 229,
+    "type": "Private",
+    "about": "Institute of Shipbuilding Technology (ISBT) Vasco da Gama, established in 1981 by the Society for Industrial & Technical Education of Goa, is an AICTE-approved, government-aided premier technical polytechnic specializing in shipbuilding engineering and marine technical trades.",
+    "ranking": 73,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20SHIPBUILDING%20TECHNOLOGY%20SOUTH%20GOA%20Goa",
+    "fees": "₹18,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/vjti_mumbai.jpg",
+    "gallery": [
+      "https://dl.dropboxusercontent.com/s/5aafahut09lao66/mainbuilding.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
+    ],
+    "affiliation": "Board of Technical Education, Government of Goa",
+    "courses": [
+      {
+        "title": "Diploma in Shipbuilding Engineering",
+        "duration": "3 Years",
+        "fees": "₹18,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹18,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Electronics & Communication Engineering",
+        "duration": "3 Years",
+        "fees": "₹18,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 229,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/vjti_mumbai.jpg",
+    "ownership": "Private (Govt-Aided Autonomous)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20SHIPBUILDING%20TECHNOLOGY%20SOUTH%20GOA%20Goa",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.409Z"
+  },
+  {
+    "id": 2021,
+    "name": "Agnel Polytechnic, Verna",
+    "shortName": "Agnel Polytechnic Goa",
+    "location": "South Goa",
+    "state": "Goa",
+    "address": "Agnel Ashram, Verna, Salcete, South Goa, Goa - 403722",
+    "phone": "0832-2791266",
+    "website": "https://agnelpolytechnic.ac.in",
+    "rating": 4.5,
+    "reviews": 190,
+    "type": "Private",
+    "about": "Agnel Polytechnic Verna, established in 1983 by Agnel Charities, is an AICTE-approved, government-aided polytechnic providing accredited diploma engineering education in automobile, mechanical, civil, and computer engineering.",
+    "ranking": 64,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=AGNEL%20POLYTECHNIC%20SOUTH%20GOA%20Goa",
+    "fees": "₹22,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://agnelpolytechnic.ac.in/wp-content/uploads/2024/03/slider-1-2048x1536.jpg",
+    "gallery": [
+      "https://agnelpolytechnic.ac.in/wp-content/uploads/2024/03/slider-1-2048x1536.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
+    ],
+    "affiliation": "Board of Technical Education, Government of Goa",
+    "courses": [
+      {
+        "title": "Diploma in Automobile Engineering",
+        "duration": "3 Years",
+        "fees": "₹22,000/Yr",
+        "eligibility": "Class 10th pass + DTE Goa Admission",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 36
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹22,000/Yr",
+        "eligibility": "Class 10th pass + DTE Goa Admission",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 36
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹22,000/Yr",
+        "eligibility": "Class 10th pass + DTE Goa Admission",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 36
+      },
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fees": "₹22,000/Yr",
+        "eligibility": "Class 10th pass + DTE Goa Admission",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 36
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 190,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://agnelpolytechnic.ac.in/wp-content/uploads/2024/03/slider-1-2048x1536.jpg",
+    "ownership": "Private (Govt-Aided)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=AGNEL%20POLYTECHNIC%20SOUTH%20GOA%20Goa",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.409Z"
+  },
+  {
+    "id": 2022,
+    "name": "Government Polytechnic, Curchorem",
+    "shortName": "GP Curchorem Goa",
+    "location": "South Goa",
+    "state": "Goa",
+    "address": "Curchorem, Quepem, South Goa, Goa - 403706",
+    "phone": "0832-2651351",
+    "website": "https://gpcurchorem.org",
+    "rating": 4.5,
+    "reviews": 435,
+    "type": "Public/Government",
+    "about": "Government Polytechnic Curchorem, established in 1996 by the Government of Goa under the Directorate of Technical Education, is an AICTE-approved public polytechnic delivering subsidized diploma engineering education in southern Goa.",
+    "ranking": 72,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20CURCHOREM%20SOUTH%20GOA%20Goa",
+    "fees": "₹16,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.vidyavision.com/CollegeUploads/Photos/2016-31-8-06-29-27_gp2.jpg",
+    "gallery": [
+      "https://www.vidyavision.com/CollegeUploads/Photos/2016-31-8-06-29-27_gp2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
+    ],
+    "affiliation": "Board of Technical Education, Government of Goa",
+    "courses": [
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Electrical & Electronics Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 435,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.vidyavision.com/CollegeUploads/Photos/2016-31-8-06-29-27_gp2.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20CURCHOREM%20SOUTH%20GOA%20Goa",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.409Z"
+  },
+  {
+    "id": 2023,
+    "name": "Government Polytechnic, Panaji",
+    "shortName": "GP Panaji Goa",
+    "location": "North Goa",
+    "state": "Goa",
+    "address": "Altinho, Panaji, North Goa, Goa - 403001",
+    "phone": "0832-2432667",
+    "website": "https://gpp.goa.gov.in",
+    "rating": 4.5,
+    "reviews": 86,
+    "type": "Public/Government",
+    "about": "Government Polytechnic Panaji, established in 1963 at Altinho Panaji, is the oldest and premier government polytechnic in Goa, approved by AICTE, providing high-quality subsidized diploma training in civil, mechanical, electrical, and computer engineering.",
+    "ranking": 52,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PANAJI%20NORTH%20GOA%20Goa",
+    "fees": "₹16,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://gpp.goa.gov.in/wp-content/uploads/2020/11/s1.jpg",
+    "gallery": [
+      "https://gpp.goa.gov.in/wp-content/uploads/2020/11/s1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
+    ],
+    "affiliation": "Board of Technical Education, Government of Goa",
+    "courses": [
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Electrical Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fees": "₹16,000/Yr",
+        "eligibility": "Class 10th pass with Science & Math",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 86,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://gpp.goa.gov.in/wp-content/uploads/2020/11/s1.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PANAJI%20NORTH%20GOA%20Goa",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.409Z"
+  },
+  {
+    "id": 2024,
+    "name": "Don Bosco College of Engineering (DBCE), Fatorda",
+    "shortName": "DBCE Fatorda Goa",
+    "location": "South Goa",
+    "state": "Goa",
+    "address": "Don Bosco Campus, Fatorda, Margao, South Goa, Goa - 403602",
+    "phone": "0832-2741045",
+    "website": "https://dbcegoa.ac.in",
+    "rating": 4.5,
+    "reviews": 427,
+    "type": "Private",
+    "about": "Don Bosco College of Engineering Fatorda, established in 2011 by Salesians of Don Bosco, is an AICTE-approved premier engineering institution affiliated to Goa University offering undergraduate B.Tech degrees across civil, mechanical, computer, and electronics engineering.",
+    "ranking": 72,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=DON%20BOSCO%20COLLEGE%20OF%20ENGINEERING%20SOUTH%20GOA%20Goa",
+    "fees": "₹1,45,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/sheila_raheja_bandra.webp",
+    "gallery": [
+      "https://goanewshub.com/wp-content/uploads/2021/08/IMG-20210820-WA0048-1536x1152.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
+    ],
+    "affiliation": "Goa University, Taleigao Plateau, Goa",
+    "courses": [
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electronics & Telecommunication Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 427,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/sheila_raheja_bandra.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=DON%20BOSCO%20COLLEGE%20OF%20ENGINEERING%20SOUTH%20GOA%20Goa",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.409Z"
+  },
+  {
+    "id": 2025,
+    "name": "Goa Institute of Management (GIM), Sanquelim",
+    "shortName": "GIM Goa",
+    "location": "North Goa",
+    "state": "Goa",
+    "address": "Near Sanquelim, Poriem, Sattari, North Goa, Goa - 403505",
+    "phone": "0832-2366700",
+    "website": "https://gim.ac.in",
+    "rating": 4.5,
+    "reviews": 330,
+    "type": "Private (Autonomous B-School)",
+    "about": "Goa Institute of Management (GIM) Sanquelim, established in 1993, is one of India's premier top-tier business schools holding coveted global accreditations (AMBA, AACSB, NBA, AICTE) offering flagship residential PGDM programs across general management, big data analytics, healthcare, and banking.",
+    "ranking": 96,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=GOA%20INSTITUTE%20OF%20MANAGEMENT%20NORTH%20GOA%20Goa",
+    "fees": "₹9,75,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_1.jpg",
+    "gallery": [
+      "https://www.bits-pilani.ac.in/wp-content/uploads/NAB-5-scaled.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
+    ],
+    "affiliation": "Autonomous (AICTE, NBA, AMBA, AACSB Accredited)",
+    "courses": [
+      {
+        "title": "Post Graduate Diploma in Management (PGDM)",
+        "duration": "2 Years",
+        "fees": "₹9,75,000/Yr",
+        "eligibility": "Graduation with 50% + CAT / XAT / GMAT",
+        "type": "MANAGEMENT",
+        "intake": 300
+      },
+      {
+        "title": "PGDM in Big Data Analytics (PGDM-BDA)",
+        "duration": "2 Years",
+        "fees": "₹9,75,000/Yr",
+        "eligibility": "Graduation with 50% + CAT / XAT / GMAT",
+        "type": "MANAGEMENT",
+        "intake": 120
+      },
+      {
+        "title": "PGDM in Healthcare Management (PGDM-HCM)",
+        "duration": "2 Years",
+        "fees": "₹8,25,000/Yr",
+        "eligibility": "Graduation with 50% + CAT / XAT / GMAT",
+        "type": "MANAGEMENT",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 330,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_1.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOA%20INSTITUTE%20OF%20MANAGEMENT%20NORTH%20GOA%20Goa",
+    "city": "Sanquelim",
+    "email": "admin@gim.ac.in",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.409Z"
+  },
+  {
+    "id": 2026,
+    "name": "Padre Conceicao College of Engineering (PCCE), Verna",
+    "shortName": "PCCE Verna Goa",
+    "location": "South Goa",
+    "state": "Goa",
+    "address": "Agnel Ashram, Verna, Salcete, South Goa, Goa - 403722",
+    "phone": "0832-2791266",
+    "website": "https://pccegoa.edu.in",
+    "rating": 4.5,
+    "reviews": 61,
+    "type": "Private",
+    "about": "Padre Conceicao College of Engineering (PCCE) Verna, established in 1997 by Agnel Charities as Goa's first private engineering college, is an AICTE-approved institution affiliated to Goa University offering undergraduate and postgraduate engineering courses.",
+    "ranking": 61,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=PADRE%20CONCEICAO%20COLLEGE%20OF%20ENGINEERING%20SOUTH%20GOA%20Goa",
+    "fees": "₹1,45,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/padre-conceicao-college-of-engineering-goa-228294.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/padre-conceicao-college-of-engineering-goa-228294.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
+    ],
+    "affiliation": "Goa University, Taleigao Plateau, Goa",
+    "courses": [
+      {
+        "title": "B.Tech in Computer Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Information Technology",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electronics & Computer Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,45,000/Yr",
+        "eligibility": "10+2 with PCM + GCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 61,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/padre-conceicao-college-of-engineering-goa-228294.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=PADRE%20CONCEICAO%20COLLEGE%20OF%20ENGINEERING%20SOUTH%20GOA%20Goa",
+    "verified": true,
+    "verificationDate": "2026-11-02T12:32:23.409Z"
   }
 ]
