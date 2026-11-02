@@ -3063,3 +3063,19 @@
 | 2038 | Goa College of Hospitality and Culinary Education (GCHCE) | North Goa | Goa | Private | [Portal](https://gchce.org) |
 | 2039 | GVM's Gopal Govind Poy Raiturcar College of Commerce and Economics | North Goa | Goa | Private | [Portal](https://gvmcommercecollege.ac.in) |
 | 2040 | VVM's Shree Damodar College of Commerce & Economics | South Goa | Goa | Private | [Portal](https://damodarcollege.edu.in) |
+
+
+### Batch 205 (Colleges 2,041–2,050)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2041 | Rosary College of Commerce and Arts, Navelim | South Goa | Goa | Private | [Portal](https://rosarycollege.ac.in) |
+| 2042 | Saraswat Vidyalaya's Sridora Caculo College of Commerce & Management Studies | North Goa | Goa | Private | [Portal](https://caculocollege.ac.in) |
+| 2043 | St. Xavier's College, Mapusa | North Goa | Goa | Private | [Portal](https://xavierscollege-goa.com) |
+| 2044 | Sant Sohirobanath Ambiye Government College of Arts & Commerce | North Goa | Goa | Public/Government | [Portal](https://gcap.ac.in) |
+| 2045 | National Institute of Electronics & Information Technology (NIELIT), Imphal | Imphal East | Manipur | Public/Government (Autonomous Central Government Institute) | [Portal](https://nielit.gov.in/imphal/) |
+| 2046 | Manipur Institute of Technology (MIT), Imphal | Imphal West | Manipur | Public/Government (Central University Constituent) | [Portal](https://mitmanipur.ac.in) |
+| 2047 | School of Technology, North-Eastern Hill University (NEHU) | East Khasi Hills | Meghalaya | Public/Government (Central University) | [Portal](https://nehu.ac.in) |
+| 2048 | Jowai Polytechnic, Jowai | West Jaintia Hills | Meghalaya | Public/Government | [Portal](https://jowaipolytechnic.in) |
+| 2049 | School of Technology & Management, USTM | Ri-Bhoi | Meghalaya | Private | [Portal](https://ustm.ac.in) |
+| 2050 | Tura Polytechnic, Tura | West Garo Hills | Meghalaya | Public/Government | [Portal](https://turapolytechnic.in) |

@@ -36662,5 +36662,777 @@
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=VVM'S%20SHREE%20DAMODAR%20COLLEGE%20OF%20COMMERCE%20AND%20ECONOMICS%20SOUTH%20GOA%20Goa",
     "verified": true,
     "verificationDate": "2026-11-02T12:40:00.321Z"
+  },
+  {
+    "id": 2037,
+    "name": "Rosary College of Commerce and Arts, Navelim",
+    "shortName": "Rosary College Navelim",
+    "location": "South Goa",
+    "state": "Goa",
+    "address": "Navelim, Salcete, South Goa, Goa - 403707",
+    "phone": "0832-2701560",
+    "website": "https://rosarycollege.ac.in",
+    "rating": 4.5,
+    "reviews": 446,
+    "type": "Private",
+    "about": "Rosary College of Commerce and Arts Navelim, established in 1990 by the Diocesan Society of Education, is a premier Christian minority government-aided institution affiliated to Goa University, accredited with 'A' Grade by NAAC, providing education in computer applications, commerce, business administration, and arts.",
+    "ranking": 77,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=ROSARY%20COLLEGE%20OF%20COMMERCE%20AND%20ARTS%20SOUTH%20GOA%20Goa",
+    "fees": "₹45,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://rosarycollege.ac.in/wp-content/uploads/2024/01/DJI_0363.jpg",
+    "gallery": [
+      "https://rosarycollege.ac.in/wp-content/uploads/2024/01/DJI_0363.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
+    ],
+    "affiliation": "Goa University, Taleigao Plateau, Goa (NAAC 'A' Grade)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer / Business Maths",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 in any stream with minimum 50%",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 in Commerce stream",
+        "type": "COMMERCE",
+        "intake": 120
+      },
+      {
+        "title": "Bachelor of Arts (B.A.)",
+        "duration": "3 Years",
+        "fees": "₹12,000/Yr",
+        "eligibility": "10+2 in Arts / any stream",
+        "type": "ARTS",
+        "intake": 120
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 446,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://rosarycollege.ac.in/wp-content/uploads/2024/01/DJI_0363.jpg",
+    "ownership": "Private (Govt-Aided)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ROSARY%20COLLEGE%20OF%20COMMERCE%20AND%20ARTS%20SOUTH%20GOA%20Goa",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.786Z"
+  },
+  {
+    "id": 2038,
+    "name": "Saraswat Vidyalaya's Sridora Caculo College of Commerce & Management Studies",
+    "shortName": "Caculo College Mapusa",
+    "location": "North Goa",
+    "state": "Goa",
+    "address": "Telang Nagar, Khorlim, Mapusa, Bardez, North Goa, Goa - 403507",
+    "phone": "0832-2254470",
+    "website": "https://caculocollege.ac.in",
+    "rating": 4.5,
+    "reviews": 225,
+    "type": "Private",
+    "about": "Saraswat Vidyalaya's Sridora Caculo College of Commerce and Management Studies Mapusa, established in 1991 by the Saraswat Vidyalaya Society, is a leading government-aided institution affiliated to Goa University, offering undergraduate programs in computer applications, management studies, and commerce.",
+    "ranking": 87,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SARASWAT%20EDUCATION%20SOCIETY'S%20SRIDORA%20CACULO%20COLLEGE%20OF%20COMMERCE%20AND%20MANAGEMENT%20STUDIES%20NORTH%20GOA%20Goa",
+    "fees": "₹45,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/saraswati_kharghar.webp",
+    "gallery": [
+      "https://caculo.vercel.app/main.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
+    ],
+    "affiliation": "Goa University, Taleigao Plateau, Goa (NAAC 'B+')",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 in any discipline with UGAT / Merit",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 in Commerce stream",
+        "type": "COMMERCE",
+        "intake": 120
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 225,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/saraswati_kharghar.webp",
+    "ownership": "Private (Govt-Aided)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SARASWAT%20EDUCATION%20SOCIETY'S%20SRIDORA%20CACULO%20COLLEGE%20OF%20COMMERCE%20AND%20MANAGEMENT%20STUDIES%20NORTH%20GOA%20Goa",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.876Z"
+  },
+  {
+    "id": 2039,
+    "name": "St. Xavier's College, Mapusa",
+    "shortName": "St Xavier's College Goa",
+    "location": "North Goa",
+    "state": "Goa",
+    "address": "Xavier Nagar, Mapusa, Bardez, North Goa, Goa - 403507",
+    "phone": "0832-2262356",
+    "website": "https://xavierscollege-goa.com",
+    "rating": 4.5,
+    "reviews": 290,
+    "type": "Private",
+    "about": "St. Xavier's College Mapusa, founded in 1963 by the Archdiocese of Goa and Daman, is one of Goa's oldest and most renowned multi-faculty colleges, affiliated to Goa University and accredited with 'A' Grade by NAAC, providing quality higher education in IT, science, arts, management, and commerce.",
+    "ranking": 32,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=ST.%20XAVIER'S%20COLLEGE%20NORTH%20GOA%20Goa",
+    "fees": "₹45,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
+    "gallery": [
+      "https://xavierscollegegoa.ac.in/wp-content/uploads/2025/03/abt-banner-sxc-003.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
+    ],
+    "affiliation": "Goa University, Taleigao Plateau, Goa (NAAC 'A' Grade)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 in any stream with minimum 50%",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "B.Sc in Computer Science",
+        "duration": "3 Years",
+        "fees": "₹20,000/Yr",
+        "eligibility": "10+2 with Science stream (PCM)",
+        "type": "SCIENCE",
+        "intake": 40
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹14,000/Yr",
+        "eligibility": "10+2 in Commerce stream",
+        "type": "COMMERCE",
+        "intake": 180
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 290,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://xavierscollegegoa.ac.in/wp-content/uploads/2025/03/abt-banner-sxc-003.jpg",
+    "ownership": "Private (Govt-Aided)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20XAVIER'S%20COLLEGE%20NORTH%20GOA%20Goa",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.877Z"
+  },
+  {
+    "id": 2040,
+    "name": "Sant Sohirobanath Ambiye Government College of Arts & Commerce",
+    "shortName": "SSAG Govt College Pernem",
+    "location": "North Goa",
+    "state": "Goa",
+    "address": "Virnoda, Pernem, North Goa, Goa - 403512",
+    "phone": "0832-2272234",
+    "website": "https://gcap.ac.in",
+    "rating": 4.5,
+    "reviews": 86,
+    "type": "Public/Government",
+    "about": "Sant Sohirobanath Ambiye Government College of Arts & Commerce Pernem, established in 1993 by the Government of Goa under the Directorate of Higher Education, is a premier state government college catering to the rural student community of northern Goa with higher education in arts, commerce, and management.",
+    "ranking": 54,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SANT%20SOHIROBANATH%20AMBIYE%20GOVERNMENT%20COLLEGE%20OF%20ARTS%20AND%20COMMERCE%20NORTH%20GOA%20Goa",
+    "fees": "₹15,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/sant-sohirobanath-ambiye-government-college-of-arts-commerce-201925.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/sant-sohirobanath-ambiye-government-college-of-arts-commerce-201925.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
+    ],
+    "affiliation": "Goa University, Taleigao Plateau, Goa (NAAC 'B')",
+    "courses": [
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 40
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹7,500/Yr",
+        "eligibility": "10+2 in Commerce stream",
+        "type": "COMMERCE",
+        "intake": 120
+      },
+      {
+        "title": "Bachelor of Arts (B.A.)",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "10+2 in Arts / any stream",
+        "type": "ARTS",
+        "intake": 120
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 86,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/sant-sohirobanath-ambiye-government-college-of-arts-commerce-201925.webp",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SANT%20SOHIROBANATH%20AMBIYE%20GOVERNMENT%20COLLEGE%20OF%20ARTS%20AND%20COMMERCE%20NORTH%20GOA%20Goa",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.877Z"
+  },
+  {
+    "id": 2041,
+    "name": "National Institute of Electronics & Information Technology (NIELIT), Imphal",
+    "shortName": "NIELIT Imphal",
+    "location": "Imphal East",
+    "state": "Manipur",
+    "address": "Akampat, Post Box No. 104, Imphal East, Manipur - 795001",
+    "phone": "0385-2454109",
+    "website": "https://nielit.gov.in/imphal/",
+    "rating": 4.5,
+    "reviews": 389,
+    "type": "Public/Government (Autonomous Central Government Institute)",
+    "about": "National Institute of Electronics & Information Technology (NIELIT) Imphal, established in 1987 (formerly CEDTI/DOEACC), is an autonomous scientific society under the Ministry of Electronics and Information Technology (MeitY), Government of India, pioneering technical human resource development in IT and electronics across the North East.",
+    "ranking": 1,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20ELECTRONICS%20AND%20INFORMATION%20TECHNOLOGY%20IMPHAL%20IMPHAL%20EAST%20Manipur",
+    "fees": "₹70,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_2.jpg",
+    "gallery": [
+      "https://media.collegedekho.com/media/img/institute/crawled_images/None/NL7.jpg?width=1080",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
+    ],
+    "affiliation": "Autonomous Institute under Ministry of Electronics and Information Technology (MeitY), Government of India / Manipur University",
+    "courses": [
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "BCA / B.Sc (IT/CS) / B.E. with 50% + Entrance Test",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Electronics & Communication Engineering",
+        "duration": "3 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Computer Science & Technology",
+        "duration": "3 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 389,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_2.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20ELECTRONICS%20AND%20INFORMATION%20TECHNOLOGY%20IMPHAL%20IMPHAL%20EAST%20Manipur",
+    "city": "Imphal",
+    "email": "dir-imphal@nielit.gov.in",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.877Z"
+  },
+  {
+    "id": 2042,
+    "name": "Manipur Institute of Technology (MIT), Imphal",
+    "shortName": "MIT Manipur University",
+    "location": "Imphal West",
+    "state": "Manipur",
+    "address": "Takyelpat, Imphal West, Manipur - 795004",
+    "phone": "0385-2413105",
+    "website": "https://mitmanipur.ac.in",
+    "rating": 4.5,
+    "reviews": 87,
+    "type": "Public/Government (Central University Constituent)",
+    "about": "Manipur Institute of Technology (MIT) Imphal, established in 1998 (formerly Government College of Technology) and taken over in 2005 as the constituent engineering college of Manipur University (a Central University), is AICTE-approved and offers high quality engineering degree education in Manipur.",
+    "ranking": 74,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=MANIPUR%20INSTITUTE%20OF%20TECHNOLOGY%20IMPHAL%20WEST%20Manipur",
+    "fees": "₹45,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://media.getmyuni.com/azure/college-image/big/manipur-institute-of-technology-mit-imphal.jpg",
+    "gallery": [
+      "https://media.getmyuni.com/azure/college-image/big/manipur-institute-of-technology-mit-imphal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
+    ],
+    "affiliation": "Constituent College of Manipur University (Central University, NAAC 'A')",
+    "courses": [
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / State Entrance",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / State Entrance",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electronics & Communication Engineering",
+        "duration": "4 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / State Entrance",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electrical Engineering",
+        "duration": "4 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / State Entrance",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 87,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://media.getmyuni.com/azure/college-image/big/manipur-institute-of-technology-mit-imphal.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=MANIPUR%20INSTITUTE%20OF%20TECHNOLOGY%20IMPHAL%20WEST%20Manipur",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.877Z"
+  },
+  {
+    "id": 2043,
+    "name": "School of Technology, North-Eastern Hill University (NEHU)",
+    "shortName": "NEHU School of Technology",
+    "location": "East Khasi Hills",
+    "state": "Meghalaya",
+    "address": "NEHU Permanent Campus, Mawkynroh-Umshing, Shillong, East Khasi Hills, Meghalaya - 793022",
+    "phone": "0364-2723601",
+    "website": "https://nehu.ac.in",
+    "rating": 4.5,
+    "reviews": 191,
+    "type": "Public/Government (Central University)",
+    "about": "School of Technology, North-Eastern Hill University (NEHU) Shillong, established in 2006 on the central university permanent campus, offers AICTE-approved Bachelor of Technology and postgraduate programs with world-class computational and experimental laboratories in Meghalaya.",
+    "ranking": 7,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20TECHNOLOGY%20EAST%20KHASI%20HILLS%20Meghalaya",
+    "fees": "₹40,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/sailee_college_borivali.jpg",
+    "gallery": [
+      "https://www.first-unitarian-pgh.org/wp-content/uploads/2022/10/School-expansion-October-2022-lighter-good-angle-of-our-original-e08803be25ee54d5654e7d002ac3f87b.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
+    ],
+    "affiliation": "North-Eastern Hill University (Central University established by Act of Parliament, NAAC 'A')",
+    "courses": [
+      {
+        "title": "B.Tech in Information Technology",
+        "duration": "4 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / CSAB Counselling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electronics & Communication Engineering",
+        "duration": "4 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / CSAB Counselling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Biomedical Engineering",
+        "duration": "4 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "10+2 with PCM/PCB + JEE Main / NEHU Entrance",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "B.Tech in Energy Engineering",
+        "duration": "4 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / CSAB Counselling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "M.Tech in Information Technology",
+        "duration": "2 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "B.Tech in IT/CSE/ECE + GATE score",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 18
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 191,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/sailee_college_borivali.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20TECHNOLOGY%20EAST%20KHASI%20HILLS%20Meghalaya",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.877Z"
+  },
+  {
+    "id": 2044,
+    "name": "Jowai Polytechnic, Jowai",
+    "shortName": "Jowai Polytechnic",
+    "location": "West Jaintia Hills",
+    "state": "Meghalaya",
+    "address": "Ladthadlaboh, Jowai, West Jaintia Hills, Meghalaya - 793150",
+    "phone": "03652-220035",
+    "website": "https://jowaipolytechnic.in",
+    "rating": 4.5,
+    "reviews": 163,
+    "type": "Public/Government",
+    "about": "Jowai Polytechnic, established in 2000 by the Education Department, Government of Meghalaya, is a premier state government polytechnic institute located in West Jaintia Hills, providing AICTE-approved diploma programs in vocational and engineering domains.",
+    "ranking": 33,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=JOWAI%20POLYTECHNIC%20JAINTIA%20HILLS%20Meghalaya",
+    "fees": "₹4,500/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://img.jagranjosh.com/images/2025/07/25/result/image/campus vieww-1753427028690.webp",
+    "gallery": [
+      "https://img.jagranjosh.com/images/2025/07/25/result/image/campus vieww-1753427028690.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
+    ],
+    "affiliation": "Meghalaya State Council for Technical Education (MSCTE), Shillong",
+    "courses": [
+      {
+        "title": "Diploma in Costume Design & Garment Technology",
+        "duration": "3 Years",
+        "fees": "₹4,500/Yr",
+        "eligibility": "Class 10th / SSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Architectural Assistantship",
+        "duration": "3 Years",
+        "fees": "₹4,500/Yr",
+        "eligibility": "Class 10th / SSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Automobile Engineering",
+        "duration": "3 Years",
+        "fees": "₹4,500/Yr",
+        "eligibility": "Class 10th / SSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 163,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://img.jagranjosh.com/images/2025/07/25/result/image/campus vieww-1753427028690.webp",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=JOWAI%20POLYTECHNIC%20JAINTIA%20HILLS%20Meghalaya",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.877Z"
+  },
+  {
+    "id": 2045,
+    "name": "School of Technology & Management, USTM",
+    "shortName": "STM USTM Meghalaya",
+    "location": "Ri-Bhoi",
+    "state": "Meghalaya",
+    "address": "Techno City, Kling Road, Baridua, 9th Mile, Ri-Bhoi, Meghalaya - 793101",
+    "phone": "0361-2895030",
+    "website": "https://ustm.ac.in",
+    "rating": 4.5,
+    "reviews": 258,
+    "type": "Private",
+    "about": "School of Technology & Management (STM) is a constituent academic school of the University of Science and Technology Meghalaya (USTM), located at Techno City, Ri-Bhoi. It offers comprehensive AICTE and UGC recognized undergraduate and postgraduate degrees in civil engineering, computer science, and computer applications.",
+    "ranking": 15,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20TECHNOLOGY%20%26%20MANAGEMENT%20RI%20BHOI%20Meghalaya",
+    "fees": "₹95,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/159100770801.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/college_data/images/campusimage/159100770801.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
+    ],
+    "affiliation": "University of Science and Technology Meghalaya (USTM, NAAC 'A')",
+    "courses": [
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹95,000/Yr",
+        "eligibility": "10+2 with PCM minimum 45% + USTM-CAT / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹1,05,000/Yr",
+        "eligibility": "10+2 with PCM minimum 45% + USTM-CAT / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹60,000/Yr",
+        "eligibility": "10+2 in any stream with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "BCA / B.Sc (CS/IT) with minimum 50%",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 258,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/159100770801.jpg",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SCHOOL%20OF%20TECHNOLOGY%20%26%20MANAGEMENT%20RI%20BHOI%20Meghalaya",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.877Z"
+  },
+  {
+    "id": 2046,
+    "name": "Tura Polytechnic, Tura",
+    "shortName": "Tura Polytechnic",
+    "location": "West Garo Hills",
+    "state": "Meghalaya",
+    "address": "Cherangre, Tura, West Garo Hills, Meghalaya - 794101",
+    "phone": "03651-232412",
+    "website": "https://turapolytechnic.in",
+    "rating": 4.5,
+    "reviews": 166,
+    "type": "Public/Government",
+    "about": "Tura Polytechnic, established in 2003 by the Government of Meghalaya under the Directorate of Higher and Technical Education, is an AICTE-approved premier state polytechnic institute located in West Garo Hills, providing professional technical diploma training in computer applications, electronics, and food technology.",
+    "ranking": 29,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=TURA%20POLYTECHNIC%20WEST%20GARO%20HILLS%20Meghalaya",
+    "fees": "₹4,500/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1599652343cover.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/college_data/images/campusimage/1599652343cover.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
+    ],
+    "affiliation": "Meghalaya State Council for Technical Education (MSCTE), Shillong",
+    "courses": [
+      {
+        "title": "Diploma in Computer Applications",
+        "duration": "3 Years",
+        "fees": "₹4,500/Yr",
+        "eligibility": "Class 10th / SSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Medical Electronics",
+        "duration": "3 Years",
+        "fees": "₹4,500/Yr",
+        "eligibility": "Class 10th / SSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Food Processing Technology",
+        "duration": "3 Years",
+        "fees": "₹4,500/Yr",
+        "eligibility": "Class 10th / SSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 166,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1599652343cover.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=TURA%20POLYTECHNIC%20WEST%20GARO%20HILLS%20Meghalaya",
+    "verified": true,
+    "verifiedAt": "2026-11-02T12:51:06.881Z"
   }
 ]
