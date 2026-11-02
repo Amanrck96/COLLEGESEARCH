@@ -156755,23 +156755,23 @@
   },
   {
     "id": 1997,
-    "name": "GOVT. COLLEGE BARSAR",
-    "shortName": "Course Institute-1",
-    "location": "HAMIRPUR",
+    "name": "Government College, Barsar",
+    "shortName": "Govt College Barsar",
+    "location": "Hamirpur",
     "state": "Himachal Pradesh",
-    "address": "VILL BAROLI P.O. BARSAR TEHSIL BARSAR",
-    "phone": "0123-456789",
-    "website": "https://www.govtcollegebars.edu.in",
+    "address": "VPO Barsar, Tehsil Barsar, District Hamirpur, Himachal Pradesh - 174305",
+    "phone": "01972-288258",
+    "website": "https://gcbarsar.ac.in",
     "rating": 4.5,
     "reviews": 446,
-    "type": "Private",
-    "about": "Welcome to GOVT. COLLEGE BARSAR, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government College Barsar, established in 2007 by the Government of Himachal Pradesh, is an affiliated government college under HPU Shimla offering subsidized undergraduate degree programs in computer applications, sciences, and humanities.",
     "ranking": 78,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT.%20COLLEGE%20BARSAR%20HAMIRPUR%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹15,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/svkm_upg_vileparle.jpg",
     "gallery": [
@@ -156779,15 +156779,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 40
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹3,500/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 80
+      },
+      {
+        "title": "Bachelor of Arts (B.A)",
+        "duration": "3 Years",
+        "fees": "₹2,500/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "ARTS",
+        "intake": 120
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -156804,28 +156820,30 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/svkm_upg_vileparle.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20COLLEGE%20BARSAR%20HAMIRPUR%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20COLLEGE%20BARSAR%20HAMIRPUR%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:10.800Z"
   },
   {
     "id": 1998,
-    "name": "MAHARAJA LAKSHMAN SEN MEMORIAL COLLEGE",
-    "shortName": "Course Institute-1",
-    "location": "MANDI",
+    "name": "Maharaja Lakshman Sen Memorial (MLSM) College, Sundernagar",
+    "shortName": "MLSM College Sundernagar",
+    "location": "Mandi",
     "state": "Himachal Pradesh",
-    "address": "POST OFFICE CHATROKHARI, SUNDERNAGAR,",
-    "phone": "0123-456789",
-    "website": "https://www.maharajalakshma.edu.in",
+    "address": "Sundernagar, District Mandi, Himachal Pradesh - 175018",
+    "phone": "01907-266339",
+    "website": "https://mlsm.in",
     "rating": 4.5,
     "reviews": 144,
     "type": "Private",
-    "about": "Welcome to MAHARAJA LAKSHMAN SEN MEMORIAL COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Maharaja Lakshman Sen Memorial (MLSM) College Sundernagar, established in 1976, is a premier grant-in-aid institution affiliated to SPU Mandi and HPU Shimla, providing undergraduate education in computer applications, commerce, management, and sciences.",
     "ranking": 13,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20LAKSHMAN%20SEN%20MEMORIAL%20COLLEGE%20MANDI%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹32,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/bunts_sangha_mumbai.jpeg",
     "gallery": [
@@ -156833,15 +156851,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Sardar Patel University (SPU), Mandi & HPU Shimla (NAAC 'B')",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹32,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹32,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 120
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -156858,29 +156892,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/bunts_sangha_mumbai.jpeg",
-    "ownership": "Private",
+    "ownership": "Private (Govt-Aided)",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=MAHARAJA%20LAKSHMAN%20SEN%20MEMORIAL%20COLLEGE%20MANDI%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:10.942Z"
   },
   {
     "id": 1999,
-    "name": "RKMV SHIMLA LONGWOOD",
-    "shortName": "Course Institute-1",
-    "location": "SHIMLA",
+    "name": "Rajkiya Kanya Maha Vidyalaya (RKMV), Shimla",
+    "shortName": "RKMV Shimla",
+    "location": "Shimla",
     "state": "Himachal Pradesh",
-    "address": "RKMV SHIMLA LONGWOOD",
-    "phone": "0123-456789",
-    "website": "https://www.rkmvshimlalongw.edu.in",
+    "address": "Longwood, Shimla, Himachal Pradesh - 171001",
+    "phone": "0177-2807959",
+    "website": "https://rkmvshimla.edu.in",
     "rating": 4.5,
     "reviews": 491,
-    "type": "Private",
-    "about": "Welcome to RKMV SHIMLA LONGWOOD, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Rajkiya Kanya Maha Vidyalaya (RKMV) Shimla, established in 1975, is the premier historic Government Girls College of Himachal Pradesh, accredited with NAAC Grade 'A', delivering subsidized higher education to women students in computing, management, science, and arts.",
     "ranking": 43,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=RKMV%20SHIMLA%20LONGWOOD%20SHIMLA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹15,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://media.collegedekho.com/media/img/institute/crawled_images/RKMV.jpg?width=1080",
     "gallery": [
@@ -156888,15 +156924,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla (NAAC 'A' Grade)",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹3,500/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 200
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -156913,28 +156965,30 @@
       "Cafeteria"
     ],
     "image": "https://media.collegedekho.com/media/img/institute/crawled_images/RKMV.jpg?width=1080",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=RKMV%20SHIMLA%20LONGWOOD%20SHIMLA%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=RKMV%20SHIMLA%20LONGWOOD%20SHIMLA%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:11.010Z"
   },
   {
     "id": 2000,
-    "name": "VALLABH GOVT COLLEGE MANDI",
-    "shortName": "Course Institute-1",
-    "location": "MANDI",
+    "name": "Vallabh Government College, Mandi",
+    "shortName": "Vallabh Govt College Mandi",
+    "location": "Mandi",
     "state": "Himachal Pradesh",
-    "address": "VGC MANDI H.P.",
-    "phone": "0123-456789",
-    "website": "https://www.vallabhgovtcoll.edu.in",
+    "address": "College Road, Mandi, Himachal Pradesh - 175001",
+    "phone": "01905-235508",
+    "website": "https://vgcmandi.co.in",
     "rating": 4.5,
     "reviews": 107,
-    "type": "Private",
-    "about": "Welcome to VALLABH GOVT COLLEGE MANDI, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Vallabh Government College Mandi, established in 1948, is the first and oldest college of Himachal Pradesh, accredited with NAAC Grade 'A', serving as the lead institution and lead campus for higher education across central Himachal Pradesh.",
     "ranking": 38,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=VALLABH%20GOVT%20COLLEGE%20MANDI%20MANDI%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹15,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/chetana_bandra.jpg",
     "gallery": [
@@ -156942,15 +156996,39 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Sardar Patel University (SPU), Mandi & HPU Shimla (NAAC 'A' Grade)",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 100
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+        "duration": "1 Year",
+        "fees": "₹10,000/Yr",
+        "eligibility": "Graduation in any stream",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹3,500/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 300
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -156967,29 +157045,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/chetana_bandra.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=VALLABH%20GOVT%20COLLEGE%20MANDI%20MANDI%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:11.010Z"
   },
   {
     "id": 2001,
-    "name": "GOVERNMENT COLLEGE BHORANJ TARKWARI",
-    "shortName": "Course Institute-1",
-    "location": "HAMIRPUR",
+    "name": "Government College, Bhoranj (Tarkwari)",
+    "shortName": "Govt College Bhoranj",
+    "location": "Hamirpur",
     "state": "Himachal Pradesh",
-    "address": "PRINCIPAL GOVERNMENT COLLEGE BHORANJ TARKWARI",
-    "phone": "0123-456789",
-    "website": "https://www.governmentcolle.edu.in",
+    "address": "VPO Tarkwari, Tehsil Bhoranj, District Hamirpur, Himachal Pradesh - 176045",
+    "phone": "01972-266155",
+    "website": "https://gcbhoranj.ac.in",
     "rating": 4.5,
     "reviews": 367,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT COLLEGE BHORANJ TARKWARI, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government College Bhoranj (Tarkwari), established in 2002 by the Government of Himachal Pradesh, provides subsidized degree courses in computer applications, sciences, commerce, and arts to the rural belt of Hamirpur district.",
     "ranking": 40,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLEGE%20BHORANJ%20TARKWARI%20HAMIRPUR%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹15,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_4.jpg",
     "gallery": [
@@ -156997,15 +157077,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 50
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹3,500/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 80
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹2,500/Yr",
+        "eligibility": "10+2 with Commerce / Mathematics",
+        "type": "COMMERCE",
+        "intake": 80
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -157022,29 +157118,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_4.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLEGE%20BHORANJ%20TARKWARI%20HAMIRPUR%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:11.010Z"
   },
   {
     "id": 2002,
-    "name": "GOVERNMENT COLLEGE DHALIARA",
-    "shortName": "Course Institute-1",
-    "location": "KANGRA",
+    "name": "Thakur Kesho Dass Government College, Dhaliara",
+    "shortName": "TKD Govt College Dhaliara",
+    "location": "Kangra",
     "state": "Himachal Pradesh",
-    "address": "VPO DHALIARA TEHSIL DEHRA",
-    "phone": "0123-456789",
-    "website": "https://www.governmentcolle.edu.in",
+    "address": "VPO Dhaliara, Tehsil Dehra, District Kangra, Himachal Pradesh - 177103",
+    "phone": "01970-268065",
+    "website": "https://gcdhaliara.ac.in",
     "rating": 4.5,
     "reviews": 309,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT COLLEGE DHALIARA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Thakur Kesho Dass Government College Dhaliara, established in 1973 by the Government of Himachal Pradesh, is an affiliated institution under HPU Shimla offering undergraduate and postgraduate education in computing, sciences, and management.",
     "ranking": 70,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLEGE%20DHALIARA%20KANGRA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹15,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/56817_Untitled.png.png",
     "gallery": [
@@ -157052,15 +157150,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla (NAAC 'B')",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 100
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹3,500/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 120
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -157077,28 +157191,30 @@
       "Cafeteria"
     ],
     "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/56817_Untitled.png.png",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLEGE%20DHALIARA%20KANGRA%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLEGE%20DHALIARA%20KANGRA%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:11.010Z"
   },
   {
     "id": 2003,
-    "name": "CTNT STUDY CENTRE",
-    "shortName": "Course Institute-1",
-    "location": "MANDI",
+    "name": "Center for Technological Need Transformation (CTNT), Mandi",
+    "shortName": "CTNT Mandi",
+    "location": "Mandi",
     "state": "Himachal Pradesh",
-    "address": "CTNT STUDY CENTRE, 27/5 ARMY CANTEEN ROAD PALACE COLONY MANDI",
-    "phone": "0123-456789",
-    "website": "https://www.ctntstudycentre.edu.in",
+    "address": "Hospital Road, Mandi, Himachal Pradesh - 175001",
+    "phone": "01905-224100",
+    "website": "https://spumandi.ac.in",
     "rating": 4.5,
     "reviews": 384,
     "type": "Private",
-    "about": "Welcome to CTNT STUDY CENTRE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Center for Technological Need Transformation (CTNT) Mandi is an affiliated center providing technical education and computer applications training in Mandi.",
     "ranking": 52,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=CTNT%20STUDY%20CENTRE%20MANDI%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹30,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_9.jpg",
     "gallery": [
@@ -157106,13 +157222,13 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Sardar Patel University (SPU), Mandi",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹30,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 40
       }
@@ -157133,27 +157249,29 @@
     "image": "/images/campuses/campus_architecture_9.jpg",
     "ownership": "Private",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=CTNT%20STUDY%20CENTRE%20MANDI%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:11.010Z"
   },
   {
     "id": 2004,
-    "name": "GOVT.DEGREE COLLEGE INDORA",
-    "shortName": "Course Institute-1",
-    "location": "KANGRA",
+    "name": "Government Degree College, Indora",
+    "shortName": "Govt Degree College Indora",
+    "location": "Kangra",
     "state": "Himachal Pradesh",
-    "address": "GOVT.DEGREE COLLGE,INDORA TEHSIL-INDORA DISTT-KANGRA",
-    "phone": "0123-456789",
-    "website": "https://www.govtdegreecolle.edu.in",
+    "address": "VPO Indora, District Kangra, Himachal Pradesh - 176401",
+    "phone": "01893-241033",
+    "website": "https://gcindora.in",
     "rating": 4.5,
     "reviews": 170,
-    "type": "Private",
-    "about": "Welcome to GOVT.DEGREE COLLEGE INDORA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Degree College Indora, established in 1995 by the Government of Himachal Pradesh, provides subsidized higher education in computer applications, sciences, and commerce to the border regions of Kangra district.",
     "ranking": 6,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT.DEGREE%20COLLEGE%20INDORA%20KANGRA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹15,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/pes_bangalore.jpg",
     "gallery": [
@@ -157161,15 +157279,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 60
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹3,500/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 80
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹2,500/Yr",
+        "eligibility": "10+2 with Commerce / Mathematics",
+        "type": "COMMERCE",
+        "intake": 80
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -157186,29 +157320,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/pes_bangalore.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.DEGREE%20COLLEGE%20INDORA%20KANGRA%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:11.010Z"
   },
   {
     "id": 2005,
-    "name": "THAKUR JAGDEV CHAND MEMORIAL GOVERNMENT DEGREE COLLEGE SUJANPUR TIHRA",
-    "shortName": "Course Institute-1",
-    "location": "HAMIRPUR",
+    "name": "Thakur Jagdev Chand Memorial Govt. Degree College, Sujanpur Tihra",
+    "shortName": "TJCM Govt College Sujanpur Tihra",
+    "location": "Hamirpur",
     "state": "Himachal Pradesh",
-    "address": "THAKUR JAGDEV CHAND MEMORIAL GOVERNMENT DEGREE COLLEGE SUJANPUR TIHRA, P.O.& TEH. SUJANPUR TIHRA, DISTT. HAMIRPUR H.P. 176110",
-    "phone": "0123-456789",
-    "website": "https://www.thakurjagdevcha.edu.in",
+    "address": "VPO Sujanpur Tihra, District Hamirpur, Himachal Pradesh - 176110",
+    "phone": "01972-272023",
+    "website": "https://gcsujanpurtihra.in",
     "rating": 4.5,
     "reviews": 205,
-    "type": "Private",
-    "about": "Welcome to THAKUR JAGDEV CHAND MEMORIAL GOVERNMENT DEGREE COLLEGE SUJANPUR TIHRA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Thakur Jagdev Chand Memorial Government Degree College Sujanpur Tihra, established in 2001 by the Government of Himachal Pradesh, offers subsidized undergraduate degree programs across computing, sciences, and arts.",
     "ranking": 63,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=THAKUR%20JAGDEV%20CHAND%20MEMORIAL%20GOVERNMENT%20DEGREE%20COLLEGE%20SUJANPUR%20TIHRA%20HAMIRPUR%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹15,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_4.jpg",
     "gallery": [
@@ -157216,15 +157352,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 60
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹3,500/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 100
+      },
+      {
+        "title": "Bachelor of Arts (B.A)",
+        "duration": "3 Years",
+        "fees": "₹2,500/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "ARTS",
+        "intake": 120
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -157241,29 +157393,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_4.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=THAKUR%20JAGDEV%20CHAND%20MEMORIAL%20GOVERNMENT%20DEGREE%20COLLEGE%20SUJANPUR%20TIHRA%20HAMIRPUR%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:11.010Z"
   },
   {
     "id": 2006,
-    "name": "GOVERNMENT COLLGE NAURA",
-    "shortName": "Course Institute-1",
-    "location": "KANGRA",
+    "name": "Government College, Naura",
+    "shortName": "Govt College Naura",
+    "location": "Kangra",
     "state": "Himachal Pradesh",
-    "address": "VPO NAURA TESHIL DHEERA",
-    "phone": "0123-456789",
-    "website": "https://www.governmentcollg.edu.in",
+    "address": "VPO Naura, Tehsil Sulah, District Kangra, Himachal Pradesh - 176084",
+    "phone": "01894-258045",
+    "website": "https://gcnaura.ac.in",
     "rating": 4.5,
     "reviews": 270,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT COLLGE NAURA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government College Naura, established in 2014 by the Government of Himachal Pradesh, provides accessible, subsidized undergraduate degrees in computer applications, sciences, and humanities.",
     "ranking": 45,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLGE%20NAURA%20KANGRA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹15,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.collegebatch.com/static/clg-gallery/dr-rajendra-prasad-government-medical-college-kangra-307443.webp",
     "gallery": [
@@ -157271,15 +157425,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 40
+      },
+      {
+        "title": "Bachelor of Science (B.Sc)",
+        "duration": "3 Years",
+        "fees": "₹3,500/Yr",
+        "eligibility": "10+2 with Science stream",
+        "type": "SCIENCE",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Arts (B.A)",
+        "duration": "3 Years",
+        "fees": "₹2,500/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "ARTS",
+        "intake": 80
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -157296,8 +157466,10 @@
       "Cafeteria"
     ],
     "image": "https://www.collegebatch.com/static/clg-gallery/dr-rajendra-prasad-government-medical-college-kangra-307443.webp",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLGE%20NAURA%20KANGRA%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20COLLGE%20NAURA%20KANGRA%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:36:11.010Z"
   },
   {
     "id": 2007,

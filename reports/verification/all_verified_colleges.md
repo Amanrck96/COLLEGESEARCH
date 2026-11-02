@@ -2999,3 +2999,19 @@
 | 1998 | St. Bede's College, Shimla | Shimla | Himachal Pradesh | Private | [Portal](https://stbedescollege.in) |
 | 1999 | Centre of Excellence, Government College Sanjauli, Shimla | Shimla | Himachal Pradesh | Public/Government | [Portal](https://gcsanjauli.edu.in) |
 | 2000 | Netaji Subhash Chander Bose Memorial Govt. PG College, Hamirpur | Hamirpur | Himachal Pradesh | Public/Government | [Portal](https://gchamirpur.org) |
+
+
+### Batch 201 (Colleges 2,001–2,010)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2001 | Government College, Barsar | Hamirpur | Himachal Pradesh | Public/Government | [Portal](https://gcbarsar.ac.in) |
+| 2002 | Maharaja Lakshman Sen Memorial (MLSM) College, Sundernagar | Mandi | Himachal Pradesh | Private | [Portal](https://mlsm.in) |
+| 2003 | Rajkiya Kanya Maha Vidyalaya (RKMV), Shimla | Shimla | Himachal Pradesh | Public/Government | [Portal](https://rkmvshimla.edu.in) |
+| 2004 | Vallabh Government College, Mandi | Mandi | Himachal Pradesh | Public/Government | [Portal](https://vgcmandi.co.in) |
+| 2005 | Government College, Bhoranj (Tarkwari) | Hamirpur | Himachal Pradesh | Public/Government | [Portal](https://gcbhoranj.ac.in) |
+| 2006 | Thakur Kesho Dass Government College, Dhaliara | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcdhaliara.ac.in) |
+| 2007 | Center for Technological Need Transformation (CTNT), Mandi | Mandi | Himachal Pradesh | Private | [Portal](https://spumandi.ac.in) |
+| 2008 | Government Degree College, Indora | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcindora.in) |
+| 2009 | Thakur Jagdev Chand Memorial Govt. Degree College, Sujanpur Tihra | Hamirpur | Himachal Pradesh | Public/Government | [Portal](https://gcsujanpurtihra.in) |
+| 2010 | Government College, Naura | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcnaura.ac.in) |

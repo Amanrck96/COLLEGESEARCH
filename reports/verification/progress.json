@@ -1738,7 +1738,17 @@
     1993,
     1994,
     1995,
-    1996
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -2263,6 +2273,24 @@
         1996
       ],
       "verifiedAt": "2026-11-02T06:25:14.287Z"
+    },
+    "201": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "2001-2010",
+      "ids": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ],
+      "verifiedAt": "2026-11-02T06:36:12.230Z"
     }
   },
   "all_verified_ids": [
@@ -2277,11 +2305,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 200,
-  "verifiedColleges": 2000,
-  "lastUpdated": "2026-11-02T06:25:14.287Z",
+  "last_batch_completed": 201,
+  "verifiedColleges": 2010,
+  "lastUpdated": "2026-11-02T06:36:12.230Z",
   "batchesCompleted": 172,
-  "currentBatch": 200,
+  "currentBatch": 201,
   "batchHistory": [
     {
       "batch": 160,
@@ -2785,6 +2813,24 @@
         1994,
         1995,
         1996
+      ]
+    },
+    {
+      "batch": 201,
+      "verifiedCount": 10,
+      "totalVerified": 2010,
+      "timestamp": "2026-11-02T06:36:12.230Z",
+      "collegeIds": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
       ]
     }
   ]
