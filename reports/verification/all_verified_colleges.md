@@ -3111,3 +3111,19 @@
 | 2068 | Nagaland Tool Room & Training Centre (NTTC), Dimapur | Dimapur | Nagaland | Public/Government (Govt. of Nagaland Society with Ministry of MSME) | [Portal](http://www.nttcdimapur.org.in) |
 | 2069 | Khelhoshe Polytechnic Atoizu (KPA), Zunheboto | Zunheboto | Nagaland | Public/Government | [Portal](https://kpanagaland.org.in) |
 | 2070 | Government Polytechnic Kohima (GPK) | Kohima | Nagaland | Public/Government | [Portal](https://www.gpknagaland.org) |
+
+
+### Batch 208 (Colleges 2,071–2,080)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2071 | Government Polytechnic, Mokokchung (formerly ICIT) | Mokokchung | Nagaland | Public/Government | [Portal](https://www.icitmkg.in) |
+| 2072 | C-Edge College, Chümoukedima | Dimapur | Nagaland | Private | [Portal](https://cedgecollege.org) |
+| 2073 | Tetso College, Chümoukedima | Dimapur | Nagaland | Private | [Portal](https://tetsocollege.edu.in) |
+| 2074 | Sazolie College, Jotsoma, Kohima | Kohima | Nagaland | Private | [Portal](https://sazoliecollege.in) |
+| 2075 | St. Joseph's College (Autonomous), Jakhama | Kohima | Nagaland | Private | [Portal](https://stjosephjakhama.ac.in) |
+| 2076 | Unity College, Dimapur | Dimapur | Nagaland | Private | [Portal](https://unitycollegedimapur.com) |
+| 2077 | Sikkim Institute of Science and Technology (SIST), Chisopani | South Sikkim | Sikkim | Public/Government | [Portal](https://sist.edu.in) |
+| 2078 | Centre for Computers and Communication Technology (CCCT), Chisopani | South Sikkim | Sikkim | Public/Government | [Portal](https://ccct.skmpoly.edu.in) |
+| 2079 | Advanced Technical Training Centre (ATTC), Bardang | East Sikkim | Sikkim | Public/Government | [Portal](https://www.attc.skmpoly.edu.in) |
+| 2080 | Sikkim Manipal Institute of Technology (SMIT), Majhitar | East Sikkim | Sikkim | Private | [Portal](https://smu.edu.in/smit.html) |

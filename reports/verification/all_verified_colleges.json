@@ -38866,5 +38866,762 @@
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20KOHIMA%20KOHIMA%20Nagaland",
     "verified": true,
     "verifiedAt": "2026-11-02T17:38:49.886Z"
+  },
+  {
+    "id": 2067,
+    "name": "Government Polytechnic, Mokokchung (formerly ICIT)",
+    "shortName": "Govt Polytechnic Mokokchung",
+    "location": "Mokokchung",
+    "state": "Nagaland",
+    "address": "Aolijen, Mokokchung, Nagaland - 798601",
+    "phone": "0369-2226255",
+    "website": "https://www.icitmkg.in",
+    "rating": 4.5,
+    "reviews": 414,
+    "type": "Public/Government",
+    "about": "Government Polytechnic Mokokchung (formerly Institute of Communication and Information Technology - ICIT), established in 2000 by the Directorate of Technical Education, Government of Nagaland with World Bank assistance, is an AICTE-approved premier public polytechnic delivering subsidized diploma education in Computer Engineering, Electronics, and IT.",
+    "ranking": 29,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20COMMUNICATION%20AND%20INFORMATION%20TECHNOLOGY%20MOKOKCHUNG%20Nagaland",
+    "fees": "₹5,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1599746650home1.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/college_data/images/campusimage/1599746650home1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg"
+    ],
+    "affiliation": "State Council for Technical Education (SCTE), Nagaland & AICTE",
+    "courses": [
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Electronics & Communication Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Information Technology",
+        "duration": "3 Years",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 414,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1599746650home1.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20COMMUNICATION%20AND%20INFORMATION%20TECHNOLOGY%20MOKOKCHUNG%20Nagaland",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.859Z"
+  },
+  {
+    "id": 2068,
+    "name": "C-Edge College, Chümoukedima",
+    "shortName": "C-Edge College",
+    "location": "Dimapur",
+    "state": "Nagaland",
+    "address": "Naga United Village, Chümoukedima, Nagaland - 797103",
+    "phone": "03862-242734",
+    "website": "https://cedgecollege.org",
+    "rating": 4.5,
+    "reviews": 508,
+    "type": "Private",
+    "about": "C-Edge College Chümoukedima, established in 2012 and affiliated to Nagaland University, is a private higher educational institution offering specialized undergraduate degree courses in business administration, management, arts, and commerce.",
+    "ranking": 7,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=C%20EDGE%20COLLEGE%20DIMAPUR%20Nagaland",
+    "fees": "₹45,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/c-edge-college-202275.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/c-edge-college-202275.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidency_University_Kolkata_Heritage_Tower.jpg/1200px-Presidency_University_Kolkata_Heritage_Tower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg"
+    ],
+    "affiliation": "Nagaland University (Central University, NAAC 'B' Grade)",
+    "courses": [
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 in any stream with minimum 50%",
+        "type": "MANAGEMENT",
+        "intake": 40
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 in Commerce / any stream",
+        "type": "COMMERCE",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Arts (B.A.) in Humanities",
+        "duration": "3 Years",
+        "fees": "₹32,000/Yr",
+        "eligibility": "10+2 in Arts or equivalent",
+        "type": "ARTS",
+        "intake": 120
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 508,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/c-edge-college-202275.webp",
+    "ownership": "Private",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%20EDGE%20COLLEGE%20DIMAPUR%20Nagaland",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.948Z"
+  },
+  {
+    "id": 2069,
+    "name": "Tetso College, Chümoukedima",
+    "shortName": "Tetso College",
+    "location": "Dimapur",
+    "state": "Nagaland",
+    "address": "Sovima, 5th Mile, Chümoukedima, Nagaland - 797103",
+    "phone": "03862-242555",
+    "website": "https://tetsocollege.edu.in",
+    "rating": 4.5,
+    "reviews": 391,
+    "type": "Private",
+    "about": "Tetso College Chümoukedima, established in 1994, is a premier multidisciplinary degree college accredited with 'A' Grade by NAAC and affiliated to Nagaland University, offering modern undergraduate and postgraduate programs in computer applications, commerce, management, and humanities.",
+    "ranking": 35,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=TETSO%20COLLEGE%20DIMAPUR%20Nagaland",
+    "fees": "₹55,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://tetsocollege.edu.in/assets/images/campus-1.png",
+    "gallery": [
+      "https://tetsocollege.edu.in/assets/images/campus-1.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Law_School_of_India_University_Bangalore.jpg/1200px-National_Law_School_of_India_University_Bangalore.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg"
+    ],
+    "affiliation": "Nagaland University (Central University, NAAC 'A' Grade)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 in any discipline with minimum 50%",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "10+2 in Commerce stream",
+        "type": "COMMERCE",
+        "intake": 120
+      },
+      {
+        "title": "Bachelor of Arts (B.A.)",
+        "duration": "3 Years",
+        "fees": "₹38,000/Yr",
+        "eligibility": "10+2 in Arts or equivalent",
+        "type": "ARTS",
+        "intake": 200
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 391,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://tetsocollege.edu.in/assets/images/campus-1.png",
+    "ownership": "Private (Autonomous / NAAC 'A' Grade)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=TETSO%20COLLEGE%20DIMAPUR%20Nagaland",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.948Z"
+  },
+  {
+    "id": 2070,
+    "name": "Sazolie College, Jotsoma, Kohima",
+    "shortName": "Sazolie College Kohima",
+    "location": "Kohima",
+    "state": "Nagaland",
+    "address": "Phekerkrü, Jotsoma, Kohima, Nagaland - 797002",
+    "phone": "0370-2224016",
+    "website": "https://sazoliecollege.in",
+    "rating": 4.5,
+    "reviews": 114,
+    "type": "Private",
+    "about": "Sazolie College Jotsoma Kohima, established in 2007 by the CRBC under the aegis of the Sazolie Memorial Society, is an 'A' Grade NAAC accredited institution affiliated to Nagaland University, providing quality higher education in business management and liberal arts.",
+    "ranking": 41,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SAZOLIE%20COLLEGE%20KOHIMA%20Nagaland",
+    "fees": "₹40,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/sazolie-college-202222.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/sazolie-college-202222.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IIM_Bangalore_Stone_Architecture.jpg/1200px-IIM_Bangalore_Stone_Architecture.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg"
+    ],
+    "affiliation": "Nagaland University (Central University, NAAC 'A' Grade)",
+    "courses": [
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "10+2 in any stream with minimum 50%",
+        "type": "MANAGEMENT",
+        "intake": 40
+      },
+      {
+        "title": "Bachelor of Arts (B.A.) Honours in Humanities",
+        "duration": "3 Years",
+        "fees": "₹28,000/Yr",
+        "eligibility": "10+2 in Arts or equivalent",
+        "type": "ARTS",
+        "intake": 150
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 114,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/sazolie-college-202222.webp",
+    "ownership": "Private (Govt-Aided / NAAC 'A' Grade)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SAZOLIE%20COLLEGE%20KOHIMA%20Nagaland",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.948Z"
+  },
+  {
+    "id": 2071,
+    "name": "St. Joseph's College (Autonomous), Jakhama",
+    "shortName": "St Joseph's College Jakhama",
+    "location": "Kohima",
+    "state": "Nagaland",
+    "address": "Jakhama, P.O. Box 39, Kohima, Nagaland - 797005",
+    "phone": "0370-2231022",
+    "website": "https://stjosephjakhama.ac.in",
+    "rating": 4.5,
+    "reviews": 95,
+    "type": "Private",
+    "about": "St. Joseph's College (Autonomous) Jakhama, established in 1985 by the Catholic Diocese of Kohima, is Nagaland's premier autonomous college, accredited with 'A+' Grade by NAAC. It delivers distinguished academic education in business administration, commerce, computer science, and arts.",
+    "ranking": 83,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=ST%20JOSEPHS%20COLLEGE%20AUTONOMOUS%20KOHIMA%20Nagaland",
+    "fees": "₹42,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/reviewPhotos/1136009/IMG_20250306_103609.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St_Stephens_College_Delhi.jpg/1200px-St_Stephens_College_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg"
+    ],
+    "affiliation": "Nagaland University (Central University, Autonomous status, NAAC 'A+' Grade)",
+    "courses": [
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹42,000/Yr",
+        "eligibility": "10+2 in any stream with minimum 50%",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "B.Sc in Computer Science",
+        "duration": "3 Years",
+        "fees": "₹36,000/Yr",
+        "eligibility": "10+2 with Science (PCM)",
+        "type": "SCIENCE",
+        "intake": 50
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹30,000/Yr",
+        "eligibility": "10+2 in Commerce stream",
+        "type": "COMMERCE",
+        "intake": 120
+      },
+      {
+        "title": "Bachelor of Arts (B.A.)",
+        "duration": "3 Years",
+        "fees": "₹26,000/Yr",
+        "eligibility": "10+2 in Arts or any discipline",
+        "type": "ARTS",
+        "intake": 300
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 95,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_mgm_navi_mumbai.jpg",
+    "ownership": "Private (Catholic Autonomous College, NAAC 'A+' Grade)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST%20JOSEPHS%20COLLEGE%20AUTONOMOUS%20KOHIMA%20Nagaland",
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.948Z"
+  },
+  {
+    "id": 2072,
+    "name": "Unity College, Dimapur",
+    "shortName": "Unity College Dimapur",
+    "location": "Dimapur",
+    "state": "Nagaland",
+    "address": "Residency Colony, Near Stadium, Dimapur, Nagaland - 797112",
+    "phone": "03862-248279",
+    "website": "https://unitycollegedimapur.com",
+    "rating": 4.5,
+    "reviews": 321,
+    "type": "Private",
+    "about": "Unity College Dimapur, established in 2007, is a premier higher educational institution in Nagaland accredited with 'A' Grade by NAAC and affiliated to Nagaland University, offering undergraduate programs in computer applications, commerce, management, and arts.",
+    "ranking": 37,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=UNITY%20COLLEGE%20DIMAPUR%20Nagaland",
+    "fees": "₹45,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/pes_bangalore.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/reviewPhotos/883501/IMG_7225.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
+    ],
+    "affiliation": "Nagaland University (Central University, NAAC 'A' Grade)",
+    "courses": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 40
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹32,000/Yr",
+        "eligibility": "10+2 in Commerce stream",
+        "type": "COMMERCE",
+        "intake": 120
+      },
+      {
+        "title": "Bachelor of Arts (B.A.)",
+        "duration": "3 Years",
+        "fees": "₹28,000/Yr",
+        "eligibility": "10+2 in Arts or any stream",
+        "type": "ARTS",
+        "intake": 200
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 321,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/pes_bangalore.jpg",
+    "ownership": "Private (NAAC 'A' Grade)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=UNITY%20COLLEGE%20DIMAPUR%20Nagaland",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.948Z"
+  },
+  {
+    "id": 2073,
+    "name": "Sikkim Institute of Science and Technology (SIST), Chisopani",
+    "shortName": "SIST Chisopani",
+    "location": "South Sikkim",
+    "state": "Sikkim",
+    "address": "Chisopani, South Sikkim / Namchi, Sikkim - 737126",
+    "phone": "03595-259124",
+    "website": "https://sist.edu.in",
+    "rating": 4.5,
+    "reviews": 56,
+    "type": "Public/Government",
+    "about": "Sikkim Institute of Science and Technology (SIST) Chisopani, established in 2018 by the Education Department, Government of Sikkim, is the state's very first government engineering degree college. Approved by AICTE and affiliated to Sikkim University, it offers subsidized B.Tech programs in Civil Engineering and Computer Science & Engineering.",
+    "ranking": 71,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SIKKIM%20INSTITUTE%20OF%20SCIENCE%20AND%20TECHNOLOGY%20EAST%20SIKKIM%20Sikkim",
+    "fees": "₹35,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_4.jpg",
+    "gallery": [
+      "https://image-static.collegedunia.com/public/reviewPhotos/861181/inbound2926737068078846148.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
+    ],
+    "affiliation": "Sikkim University (Central University) & AICTE",
+    "courses": [
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / State Entrance",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / State Entrance",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 56,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_4.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIKKIM%20INSTITUTE%20OF%20SCIENCE%20AND%20TECHNOLOGY%20EAST%20SIKKIM%20Sikkim",
+    "imageUrl": "/images/campuses/campus_iit_patna.png",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.955Z"
+  },
+  {
+    "id": 2074,
+    "name": "Centre for Computers and Communication Technology (CCCT), Chisopani",
+    "shortName": "CCCT Chisopani",
+    "location": "South Sikkim",
+    "state": "Sikkim",
+    "address": "Chisopani, South Sikkim / Namchi, Sikkim - 737126",
+    "phone": "03595-259123",
+    "website": "https://ccct.skmpoly.edu.in",
+    "rating": 4.5,
+    "reviews": 469,
+    "type": "Public/Government",
+    "about": "Centre for Computers and Communication Technology (CCCT) Chisopani, established in 1999 under the Directorate of Technical Education, Government of Sikkim with World Bank funding, is a premier state government polytechnic providing AICTE-approved engineering diploma education in civil, computer, and electronics engineering.",
+    "ranking": 42,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=CENTRE%20FOR%20COMPUTERS%20AND%20COMMUNICATION%20TECHNOLOGY%20(CCCT)%20SOUTH%20SIKKIM%20Sikkim",
+    "fees": "₹6,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_architecture_7.jpg",
+    "gallery": [
+      "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/17734/2018/12/6/Campus View of Centre for Computers and Communication Technology South Sikkim_Campus-View.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
+    ],
+    "affiliation": "Directorate of Technical Education, Government of Sikkim & AICTE",
+    "courses": [
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "Class 10th / Secondary with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "Class 10th / Secondary with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Electronics & Communication Engineering",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "Class 10th / Secondary with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Electrical & Electronics Engineering",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "Class 10th / Secondary with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 469,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_architecture_7.jpg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=CENTRE%20FOR%20COMPUTERS%20AND%20COMMUNICATION%20TECHNOLOGY%20(CCCT)%20SOUTH%20SIKKIM%20Sikkim",
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.955Z"
+  },
+  {
+    "id": 2075,
+    "name": "Advanced Technical Training Centre (ATTC), Bardang",
+    "shortName": "ATTC Bardang",
+    "location": "East Sikkim",
+    "state": "Sikkim",
+    "address": "Bardang, Singtam, East Sikkim, Sikkim - 737134",
+    "phone": "03592-235381",
+    "website": "https://www.attc.skmpoly.edu.in",
+    "rating": 4.5,
+    "reviews": 338,
+    "type": "Public/Government",
+    "about": "Advanced Technical Training Centre (ATTC) Bardang, established in 1999 by the Government of Sikkim with World Bank support, is an AICTE-approved public polytechnic delivering specialized diploma training in computer engineering, mechanical engineering, mechatronics, and tool & die making.",
+    "ranking": 60,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=ADVANCED%20TECHNICAL%20TRAINING%20CENTRE%20EAST%20SIKKIM%20Sikkim",
+    "fees": "₹6,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHjJDKLa5PHvxCj2nleZnzm4z43_xNWwBdg0jVV7Ib4jhNYSmk25-QVO2khu6cwG31j5D5FtOglbJUYFCVPBvAItY2-b7QiDp2KU90oqvIQ82Qm5HdRPegWwTJYeZIl538tyaj/s1600/attccollegemod.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
+    ],
+    "affiliation": "Directorate of Technical Education, Government of Sikkim & AICTE",
+    "courses": [
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "Class 10th / Secondary with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "Class 10th / Secondary with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Mechatronics",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "Class 10th / Secondary with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Tool & Die Making",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "Class 10th / Secondary with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 338,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "/images/campuses/campus_vnit_nagpur.jpeg",
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ADVANCED%20TECHNICAL%20TRAINING%20CENTRE%20EAST%20SIKKIM%20Sikkim",
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.955Z"
+  },
+  {
+    "id": 2076,
+    "name": "Sikkim Manipal Institute of Technology (SMIT), Majhitar",
+    "shortName": "SMIT Majhitar",
+    "location": "East Sikkim",
+    "state": "Sikkim",
+    "address": "Majhitar, Rangpo, East Sikkim, Sikkim - 737136",
+    "phone": "03592-246020",
+    "website": "https://smu.edu.in/smit.html",
+    "rating": 4.5,
+    "reviews": 107,
+    "type": "Private",
+    "about": "Sikkim Manipal Institute of Technology (SMIT) Majhitar, established in 1997 as the flagship engineering campus of Sikkim Manipal University, is an AICTE-approved and NAAC 'A+' accredited premier institute offering undergraduate and postgraduate education in engineering, computer applications, and management.",
+    "ranking": 37,
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=SIKKIM%20MANIPAL%20INSTITUTE%20OF%20TECHNOLOGY%20EAST%20SIKKIM%20Sikkim",
+    "fees": "₹1,60,000/Yr",
+    "exams": "State CET, JEE / CAT / NEET",
+    "img": "https://www.collegebatch.com/static/clg-gallery/sikkim-manipal-institute-of-technology-east-sikkim-272712.webp",
+    "gallery": [
+      "https://www.collegebatch.com/static/clg-gallery/sikkim-manipal-institute-of-technology-east-sikkim-272712.webp",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
+    ],
+    "affiliation": "Constituent Campus of Sikkim Manipal University (SMU, NAAC 'A+' Grade) & AICTE",
+    "courses": [
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹1,60,000/Yr",
+        "eligibility": "BCA / B.Sc (IT/CS) with minimum 50% + SMIT Entrance / Merit",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹1,20,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer with minimum 50%",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹2,80,000/Yr",
+        "eligibility": "10+2 with PCM minimum 50% + JEE Main / SMIT Offline Test",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 180
+      },
+      {
+        "title": "B.Tech in Information Technology",
+        "duration": "4 Years",
+        "fees": "₹2,60,000/Yr",
+        "eligibility": "10+2 with PCM minimum 50% + JEE Main / SMIT Offline Test",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹2,40,000/Yr",
+        "eligibility": "10+2 with PCM minimum 50% + JEE Main / SMIT Offline Test",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      }
+    ],
+    "highestPackage": "₹12 LPA",
+    "averagePackage": "₹6 LPA",
+    "placements": "95%",
+    "country": "India",
+    "reviewsCount": 107,
+    "facilities": [
+      "Hostel",
+      "Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Labs",
+      "Cafeteria"
+    ],
+    "image": "https://www.collegebatch.com/static/clg-gallery/sikkim-manipal-institute-of-technology-east-sikkim-272712.webp",
+    "ownership": "Private (Constituent of Sikkim Manipal University, NAAC 'A+' Grade)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=SIKKIM%20MANIPAL%20INSTITUTE%20OF%20TECHNOLOGY%20EAST%20SIKKIM%20Sikkim",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:47:27.955Z"
   }
 ]
