@@ -3015,3 +3015,19 @@
 | 2008 | Government Degree College, Indora | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcindora.in) |
 | 2009 | Thakur Jagdev Chand Memorial Govt. Degree College, Sujanpur Tihra | Hamirpur | Himachal Pradesh | Public/Government | [Portal](https://gcsujanpurtihra.in) |
 | 2010 | Government College, Naura | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcnaura.ac.in) |
+
+
+### Batch 202 (Colleges 2,011–2,020)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2011 | Rajiv Gandhi Memorial Government College, Joginder Nagar | Mandi | Himachal Pradesh | Public/Government | [Portal](https://rgmgc.edu.in) |
+| 2012 | Government Degree College, Nagrota Surian | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcnagrotasurian.ac.in) |
+| 2013 | Kanwar Durga Chand (KDC) Government Degree College, Jaisinghpur | Kangra | Himachal Pradesh | Public/Government | [Portal](https://kdcgdc.ac.in) |
+| 2014 | Pandit Sant Ram (PSR) Government College, Baijnath | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcbaijnath.ac.in) |
+| 2015 | Shiva College of Education, Ghumarwin | Bilaspur | Himachal Pradesh | Private | [Portal](https://shivaeducation.com) |
+| 2016 | Freedom Fighter Pt. Susheel Rattan Govt. College, Jawalamukhi | Kangra | Himachal Pradesh | Public/Government | [Portal](https://gcjawalamukhi.in) |
+| 2017 | Himachal Institute of Management Studies (HIMS), Rampur (Kangra) | Kangra | Himachal Pradesh | Private | [Portal](https://hpuniv.ac.in) |
+| 2018 | Dronacharya Post Graduate College of Education, Rait | Kangra | Himachal Pradesh | Private | [Portal](https://dronacharyahp.org) |
+| 2019 | Birla Institute of Technology and Science (BITS Pilani) - K.K. Birla Goa Campus | South Goa | Goa | Private (Deemed to be University - Institute of Eminence) | [Portal](https://www.bits-pilani.ac.in/goa/) |
+| 2020 | Guardian Angel Institute of Hotel Management and Catering Technology | South Goa | Goa | Private | [Portal](https://gaihmct.in) |
