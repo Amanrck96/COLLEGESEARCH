@@ -161157,23 +161157,23 @@
   },
   {
     "id": 2057,
-    "name": "GOVERNMENT SERCHHIP COLLEGE",
-    "shortName": "Course Institute-1",
-    "location": "SERCHHIP",
+    "name": "Government Serchhip College, Serchhip",
+    "shortName": "Govt Serchhip College",
+    "location": "Serchhip",
     "state": "Mizoram",
-    "address": "NEW SERCHHIP, SERCHHIP MIZORAM 796181",
-    "phone": "0123-456789",
-    "website": "https://www.governmentserch.edu.in",
+    "address": "New Serchhip, Serchhip, Mizoram - 796181",
+    "phone": "03838-222045",
+    "website": "https://gsc.edu.in",
     "rating": 4.5,
     "reviews": 176,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT SERCHHIP COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Serchhip College, established in 1973 and provincialized in 1989 by the Government of Mizoram, is a premier state government college accredited with 'B++' grade by NAAC. Affiliated to Mizoram University, it delivers accessible quality higher education in computer applications and arts to students of central Mizoram.",
     "ranking": 53,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20SERCHHIP%20COLLEGE%20SERCHHIP%20Mizoram",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,500/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://images.careerindia.com/webp/college-photos/2280/college-campus_1503048079.jpg",
     "gallery": [
@@ -161181,15 +161181,23 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Mizoram University (Central University, NAAC 'B++' Grade)",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹8,500/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
         "type": "COMPUTER APPLICATIONS",
-        "intake": 60
+        "intake": 30
+      },
+      {
+        "title": "Bachelor of Arts (B.A.) in Humanities & Social Sciences",
+        "duration": "3 Years",
+        "fees": "₹6,000/Yr",
+        "eligibility": "10+2 in Arts / any stream",
+        "type": "ARTS",
+        "intake": 200
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -161206,28 +161214,30 @@
       "Cafeteria"
     ],
     "image": "https://images.careerindia.com/webp/college-photos/2280/college-campus_1503048079.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20SERCHHIP%20COLLEGE%20SERCHHIP%20Mizoram"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20SERCHHIP%20COLLEGE%20SERCHHIP%20Mizoram",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.657Z"
   },
   {
     "id": 2058,
-    "name": "GOVERNMENT POLYTECHNIC SEITHEKEMA C, CHUMOUKEDIMA",
-    "shortName": "Course Institute-1",
-    "location": "DIMAPUR",
+    "name": "Government Polytechnic Seithekema-C, Chümoukedima",
+    "shortName": "GP Seithekema Chumoukedima",
+    "location": "Dimapur",
     "state": "Nagaland",
-    "address": "GOVERNMENT POLYTECHNIC SEITHEKEMA-C, DIMAPUR 797103",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Seithekema-C, Chümoukedima, Nagaland - 797103",
+    "phone": "03862-240120",
+    "website": "https://www.gpscnagaland.in",
     "rating": 4.5,
     "reviews": 242,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC SEITHEKEMA C, CHUMOUKEDIMA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Seithekema-C Chümoukedima, established in 2018 under the Directorate of Technical Education, Government of Nagaland, is an AICTE-approved premier state polytechnic institute located in Chümoukedima, providing subsidized technical engineering diploma education.",
     "ranking": 49,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20SEITHEKEMA%20C%2C%20CHUMOUKEDIMA%20DIMAPUR%20Nagaland",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹5,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/vjti_mumbai.jpg",
     "gallery": [
@@ -161235,15 +161245,15 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "State Council for Technical Education (SCTE), Nagaland & AICTE",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 40
+        "intake": 30
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -161260,29 +161270,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/vjti_mumbai.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20SEITHEKEMA%20C%2C%20CHUMOUKEDIMA%20DIMAPUR%20Nagaland",
-    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.885Z"
   },
   {
     "id": 2059,
-    "name": "ST. JOSEPH UNIVERSITY",
-    "shortName": "Course Institute-1",
-    "location": "DIMAPUR",
+    "name": "St. Joseph University, Chümoukedima",
+    "shortName": "St Joseph University Nagaland",
+    "location": "Dimapur",
     "state": "Nagaland",
-    "address": "VIRGIN TOWN, IKISHE VILLAGE",
-    "phone": "0123-456789",
-    "website": "https://www.stjosephunivers.edu.in",
+    "address": "Virgin Town, Ikishe Model Village, Chümoukedima, Nagaland - 797115",
+    "phone": "03862-242069",
+    "website": "https://www.stjosephuniv.edu.in",
     "rating": 4.5,
     "reviews": 218,
     "type": "Private",
-    "about": "Welcome to ST. JOSEPH UNIVERSITY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "St. Joseph University Chümoukedima, established in 2016 by the DMI Sisters under the Nagaland St. Joseph University Act, is a private university recognized by UGC. It offers comprehensive multi-disciplinary undergraduate and postgraduate programs in engineering, IT, management, and sciences.",
     "ranking": 52,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=ST.%20JOSEPH%20UNIVERSITY%20DIMAPUR%20Nagaland",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹85,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15326816764923_joseph_new.jpg",
     "gallery": [
@@ -161290,14 +161302,46 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "UGC Recognized Private University (Nagaland Act No. 6 of 2016)",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "B.Tech in Civil Engineering",
         "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹85,000/Yr",
+        "eligibility": "10+2 with PCM minimum 45% + Entrance / Merit",
         "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹95,000/Yr",
+        "eligibility": "10+2 with PCM minimum 45% + Entrance / Merit",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "BCA / B.Sc (IT/CS) with minimum 50%",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 30
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹50,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
         "intake": 60
       }
     ],
@@ -161315,28 +161359,30 @@
       "Cafeteria"
     ],
     "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/15326816764923_joseph_new.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20JOSEPH%20UNIVERSITY%20DIMAPUR%20Nagaland"
+    "ownership": "Private (State Private University)",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ST.%20JOSEPH%20UNIVERSITY%20DIMAPUR%20Nagaland",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.885Z"
   },
   {
     "id": 2060,
-    "name": "GOVERNMENT POLYTECHNIC TSUNAZHO CHETHEBA",
-    "shortName": "Course Institute-1",
-    "location": "PHEK",
+    "name": "Government Polytechnic Tsunazho, Chetheba",
+    "shortName": "GP Tsunazho Chetheba",
+    "location": "Phek",
     "state": "Nagaland",
-    "address": "GOVERNMENT POLYTECHNIC TSUNAZHO, CHETHEBA, PHEK, 797108",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Tsunazho, Chetheba, Phek District, Nagaland - 797104",
+    "phone": "03865-245100",
+    "website": "https://gptnagaland.org/",
     "rating": 4.5,
     "reviews": 539,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC TSUNAZHO CHETHEBA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Tsunazho Chetheba, established under the Department of Higher & Technical Education, Government of Nagaland, is an AICTE-approved public polytechnic delivering specialized diploma training in Electrical & Electronics Engineering to students in Phek district.",
     "ranking": 52,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20TSUNAZHO%20CHETHEBA%20PHEK%20Nagaland",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹5,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_cu_shah_mumbai.png",
     "gallery": [
@@ -161344,13 +161390,13 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "State Council for Technical Education (SCTE), Nagaland & AICTE",
     "courses": [
       {
-        "title": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "title": "Diploma in Electrical & Electronics Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 30
       }
@@ -161369,29 +161415,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_cu_shah_mumbai.png",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20TSUNAZHO%20CHETHEBA%20PHEK%20Nagaland",
-    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.885Z"
   },
   {
     "id": 2061,
-    "name": "GOVERNMENT POLYTECHNIC SEDEM",
-    "shortName": "Course Institute-1",
-    "location": "TUENSANG",
+    "name": "Government Polytechnic Sedem, Tuensang",
+    "shortName": "GP Sedem Tuensang",
+    "location": "Tuensang",
     "state": "Nagaland",
-    "address": "GOVERNMENT POLYTECHNIC SEDEM TUENSANG",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Sedem, Tuensang District, Nagaland - 798612",
+    "phone": "03861-220021",
+    "website": "https://gpstnagaland.org.in",
     "rating": 4.5,
     "reviews": 277,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC SEDEM, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Sedem Tuensang, established by the Directorate of Technical Education, Government of Nagaland, is an AICTE-approved state technical institute catering to eastern Nagaland, offering subsidized 3-year diploma education in Civil Engineering.",
     "ranking": 58,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20SEDEM%20TUENSANG%20Nagaland",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹5,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_1.jpg",
     "gallery": [
@@ -161399,13 +161447,13 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "State Council for Technical Education (SCTE), Nagaland & AICTE",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 30
       }
@@ -161424,28 +161472,30 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_1.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20SEDEM%20TUENSANG%20Nagaland"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20SEDEM%20TUENSANG%20Nagaland",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.885Z"
   },
   {
     "id": 2062,
-    "name": "GOVERNMENT POLYTECHNIC ABOI",
-    "shortName": "Course Institute-1",
-    "location": "MON",
+    "name": "Government Polytechnic Aboi, Mon",
+    "shortName": "GP Aboi Mon",
+    "location": "Mon",
     "state": "Nagaland",
-    "address": "ABOI TOWN, MON DISTRICT",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Aboi, Mon District, Nagaland - 798603",
+    "phone": "03869-221015",
+    "website": "https://gpamonnagaland.in",
     "rating": 4.5,
     "reviews": 218,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC ABOI, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Aboi Mon, established under the Government of Nagaland and approved by AICTE, provides critical technical skill education and engineering diploma pathways in Civil Engineering to youths in the northern border district of Mon.",
     "ranking": 21,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20ABOI%20MON%20Nagaland",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹5,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.govpolytechnicbilsi.edu.in/images/keshav/new-02.jpeg",
     "gallery": [
@@ -161453,13 +161503,13 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "State Council for Technical Education (SCTE), Nagaland & AICTE",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 30
       }
@@ -161478,28 +161528,30 @@
       "Cafeteria"
     ],
     "image": "https://www.govpolytechnicbilsi.edu.in/images/keshav/new-02.jpeg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20ABOI%20MON%20Nagaland"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20ABOI%20MON%20Nagaland",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.885Z"
   },
   {
     "id": 2063,
-    "name": "NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY",
-    "shortName": "Course Institute-1",
-    "location": "KOHIMA",
+    "name": "National Institute of Electronics & Information Technology (NIELIT), Kohima",
+    "shortName": "NIELIT Kohima",
+    "location": "Kohima",
     "state": "Nagaland",
-    "address": "MERIEMA, NEW HIGH COURT ROAD, POST BOX NO.733, KOHIMA",
-    "phone": "0123-456789",
-    "website": "https://www.nationalinstitu.edu.in",
+    "address": "Meriema, New High Court Road, Kohima, Nagaland - 797001",
+    "phone": "0370-2270921",
+    "website": "https://www.nielit.gov.in/kohima/",
     "rating": 4.5,
     "reviews": 415,
-    "type": "Private",
-    "about": "Welcome to NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government (Autonomous Central Government Institute)",
+    "about": "National Institute of Electronics & Information Technology (NIELIT) Kohima, established in 2004, is an autonomous scientific institute under the Ministry of Electronics & IT (MeitY), Government of India. Located at Meriema, Kohima, it provides formal degree and diploma training in computer applications and information technology.",
     "ranking": 54,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20ELECTRONICS%20AND%20INFORMATION%20TECHNOLOGY%20KOHIMA%20Nagaland",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹48,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_9.jpg",
     "gallery": [
@@ -161507,15 +161559,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Ministry of Electronics and Information Technology (MeitY), Government of India / Nagaland University",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹48,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
         "type": "COMPUTER APPLICATIONS",
-        "intake": 60
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Computer Science & Engineering",
+        "duration": "3 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Electronics & Communication Engineering",
+        "duration": "3 Years",
+        "fees": "₹25,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -161532,29 +161600,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_9.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=NATIONAL%20INSTITUTE%20OF%20ELECTRONICS%20AND%20INFORMATION%20TECHNOLOGY%20KOHIMA%20Nagaland",
-    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.885Z"
   },
   {
     "id": 2064,
-    "name": "NAGALAND TOOL ROOM & TRAINING CENTRE",
-    "shortName": "Course Institute-1",
-    "location": "DIMAPUR",
+    "name": "Nagaland Tool Room & Training Centre (NTTC), Dimapur",
+    "shortName": "NTTC Dimapur",
+    "location": "Dimapur",
     "state": "Nagaland",
-    "address": "NAGALAND TOOL ROOM & TRAINING CENTRE, NEW INDUSTRIAL, NEAR SUB-JAIL JUNCTION, TINALI, NH-36, DIMAPUR, NAGALAND 797112",
-    "phone": "0123-456789",
-    "website": "https://www.nagalandtoolroo.edu.in",
+    "address": "Sub-Jail Road, Netaji Colony, Dimapur, Nagaland - 797112",
+    "phone": "03862-248008",
+    "website": "http://www.nttcdimapur.org.in",
     "rating": 4.5,
     "reviews": 376,
-    "type": "Private",
-    "about": "Welcome to NAGALAND TOOL ROOM & TRAINING CENTRE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government (Govt. of Nagaland Society with Ministry of MSME)",
+    "about": "Nagaland Tool Room & Training Centre (NTTC) Dimapur, established in 2006 by the Department of Industries & Commerce, Government of Nagaland with assistance from the Ministry of MSME, Govt of India, is an AICTE-approved premier autonomous society providing advanced technical diploma education in tool design, die making, and mechanical engineering.",
     "ranking": 40,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=NAGALAND%20TOOL%20ROOM%20%26%20TRAINING%20CENTRE%20DIMAPUR%20Nagaland",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹28,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/gnims_matunga.png",
     "gallery": [
@@ -161562,15 +161632,23 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "State Council for Technical Education (SCTE), Nagaland & AICTE",
     "courses": [
       {
-        "title": "DIPLOMA IN MECHANICAL ENGINEERING",
+        "title": "Diploma in Tool & Die Making (DTDM)",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹28,000/Yr",
+        "eligibility": "Class 10th / HSLC with minimum 50% in Maths & Science",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 60
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹28,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -161587,28 +161665,30 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/gnims_matunga.png",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=NAGALAND%20TOOL%20ROOM%20%26%20TRAINING%20CENTRE%20DIMAPUR%20Nagaland"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=NAGALAND%20TOOL%20ROOM%20%26%20TRAINING%20CENTRE%20DIMAPUR%20Nagaland",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.885Z"
   },
   {
     "id": 2065,
-    "name": "KHELHOSHE POLYTECHNIC ATOIZU",
-    "shortName": "Course Institute-1",
-    "location": "ZUNHEBOTO",
+    "name": "Khelhoshe Polytechnic Atoizu (KPA), Zunheboto",
+    "shortName": "Khelhoshe Polytechnic Atoizu",
+    "location": "Zunheboto",
     "state": "Nagaland",
-    "address": "KHELHOSHE POLYTECHNIC ATOIZU : ZUNHEBOTO: NAGALAND",
-    "phone": "0123-456789",
-    "website": "https://www.khelhoshepolyte.edu.in",
+    "address": "Atoizu, Zunheboto District, Nagaland - 798620",
+    "phone": "03867-285012",
+    "website": "https://kpanagaland.org.in",
     "rating": 4.5,
     "reviews": 331,
-    "type": "Private",
-    "about": "Welcome to KHELHOSHE POLYTECHNIC ATOIZU, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Khelhoshe Polytechnic Atoizu (KPA) Zunheboto, established in 1972, is the pioneer and premier state government polytechnic of Nagaland, operating under the Directorate of Technical Education. Approved by AICTE, it delivers subsidized 3-year engineering diploma programs across civil, mechanical, electrical, and automobile branches.",
     "ranking": 21,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=KHELHOSHE%20POLYTECHNIC%20ATOIZU%20ZUNHEBOTO%20Nagaland",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹5,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_st_xaviers_mumbai.jpg",
     "gallery": [
@@ -161616,15 +161696,39 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "State Council for Technical Education (SCTE), Nagaland & AICTE",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 60
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Electrical & Electronics Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Automobile Engineering",
+        "duration": "3 Years",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -161641,29 +161745,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_st_xaviers_mumbai.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=KHELHOSHE%20POLYTECHNIC%20ATOIZU%20ZUNHEBOTO%20Nagaland",
-    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.885Z"
   },
   {
     "id": 2066,
-    "name": "GOVERNMENT POLYTECHNIC KOHIMA",
-    "shortName": "Course Institute-1",
-    "location": "KOHIMA",
+    "name": "Government Polytechnic Kohima (GPK)",
+    "shortName": "Govt Polytechnic Kohima",
+    "location": "Kohima",
     "state": "Nagaland",
-    "address": "GOVERNMENT POLYTECHNIC KOHIMA, NEAR I.G STADIUM, KOHIMA, NAGALAND 797001",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Below ATI, Kimho, Kohima, Nagaland - 797001",
+    "phone": "0370-2244018",
+    "website": "https://www.gpknagaland.org",
     "rating": 4.5,
     "reviews": 232,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC KOHIMA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Kohima (GPK), established in 1994 by the Government of Nagaland under the Directorate of Technical Education, is an AICTE-approved premier public polytechnic in the state capital, offering subsidized diploma programs in computer engineering, modern office practice, and fashion technology.",
     "ranking": 10,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20KOHIMA%20KOHIMA%20Nagaland",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹5,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1597643700slide3.jpg",
     "gallery": [
@@ -161671,13 +161777,29 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "State Council for Technical Education (SCTE), Nagaland & AICTE",
     "courses": [
       {
-        "title": "FASHION TECHNOLOGY",
+        "title": "Diploma in Computer Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC with Science & Mathematics",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Modern Office Practice (MOP)",
+        "duration": "3 Years",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC passed",
+        "type": "MANAGEMENT",
+        "intake": 30
+      },
+      {
+        "title": "Diploma in Fashion Technology",
+        "duration": "3 Years",
+        "fees": "₹5,000/Yr",
+        "eligibility": "Class 10th / HSLC passed",
         "type": "APPLIED ARTS AND CRAFTS",
         "intake": 30
       }
@@ -161696,8 +161818,10 @@
       "Cafeteria"
     ],
     "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1597643700slide3.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20KOHIMA%20KOHIMA%20Nagaland"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20KOHIMA%20KOHIMA%20Nagaland",
+    "verified": true,
+    "verifiedAt": "2026-11-02T17:38:49.886Z"
   },
   {
     "id": 2067,

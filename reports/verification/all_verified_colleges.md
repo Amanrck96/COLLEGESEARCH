@@ -3095,3 +3095,19 @@
 | 2058 | National Institute of Electronics & Information Technology (NIELIT), Aizawl | Aizawl | Mizoram | Public/Government (Autonomous Central Government Institute) | [Portal](https://nielit.gov.in/aizawl/) |
 | 2059 | Women's Polytechnic, Aizawl | Aizawl | Mizoram | Public/Government | [Portal](https://womenspolytechnicaizawl.edu.in) |
 | 2060 | Government Zirtiri Residential Science College (GZRSC), Aizawl | Aizawl | Mizoram | Public/Government | [Portal](https://www.gzrsc.edu.in) |
+
+
+### Batch 207 (Colleges 2,061–2,070)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2061 | Government Serchhip College, Serchhip | Serchhip | Mizoram | Public/Government | [Portal](https://gsc.edu.in) |
+| 2062 | Government Polytechnic Seithekema-C, Chümoukedima | Dimapur | Nagaland | Public/Government | [Portal](https://www.gpscnagaland.in) |
+| 2063 | St. Joseph University, Chümoukedima | Dimapur | Nagaland | Private | [Portal](https://www.stjosephuniv.edu.in) |
+| 2064 | Government Polytechnic Tsunazho, Chetheba | Phek | Nagaland | Public/Government | [Portal](https://gptnagaland.org/) |
+| 2065 | Government Polytechnic Sedem, Tuensang | Tuensang | Nagaland | Public/Government | [Portal](https://gpstnagaland.org.in) |
+| 2066 | Government Polytechnic Aboi, Mon | Mon | Nagaland | Public/Government | [Portal](https://gpamonnagaland.in) |
+| 2067 | National Institute of Electronics & Information Technology (NIELIT), Kohima | Kohima | Nagaland | Public/Government (Autonomous Central Government Institute) | [Portal](https://www.nielit.gov.in/kohima/) |
+| 2068 | Nagaland Tool Room & Training Centre (NTTC), Dimapur | Dimapur | Nagaland | Public/Government (Govt. of Nagaland Society with Ministry of MSME) | [Portal](http://www.nttcdimapur.org.in) |
+| 2069 | Khelhoshe Polytechnic Atoizu (KPA), Zunheboto | Zunheboto | Nagaland | Public/Government | [Portal](https://kpanagaland.org.in) |
+| 2070 | Government Polytechnic Kohima (GPK) | Kohima | Nagaland | Public/Government | [Portal](https://www.gpknagaland.org) |
