@@ -154655,23 +154655,23 @@
   },
   {
     "id": 1967,
-    "name": "JAWAHARLAL NEHRU GOVERNMENT ENGINEERING COLLEGE",
-    "shortName": "Course Institute-1",
-    "location": "MANDI",
+    "name": "Jawaharlal Nehru Government Engineering College (JNGEC), Sundernagar",
+    "shortName": "JNGEC Sundernagar",
+    "location": "Mandi",
     "state": "Himachal Pradesh",
-    "address": "SUNDERNAGAR DISTT. MANDI HIMACHAL PRADESH -174401",
-    "phone": "0123-456789",
-    "website": "https://www.jawaharlalnehru.edu.in",
+    "address": "Sundernagar, District Mandi, Himachal Pradesh - 175018",
+    "phone": "01907-267199",
+    "website": "https://jngec.ac.in",
     "rating": 4.5,
     "reviews": 264,
-    "type": "Private",
-    "about": "Welcome to JAWAHARLAL NEHRU GOVERNMENT ENGINEERING COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Jawaharlal Nehru Government Engineering College Sundernagar, established in 2006 by the Government of Himachal Pradesh, is the flagship first state government engineering college in Himachal Pradesh, providing AICTE-accredited engineering degrees.",
     "ranking": 50,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=JAWAHARLAL%20NEHRU%20GOVERNMENT%20ENGINEERING%20COLLEGE%20MANDI%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹42,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/bms_bangalore.jpg",
     "gallery": [
@@ -154679,15 +154679,39 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Technical University (HPTU), Hamirpur",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "B.Tech in Civil Engineering",
         "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹42,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹42,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electronics & Communication Engineering",
+        "duration": "4 Years",
+        "fees": "₹42,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Textile Engineering",
+        "duration": "4 Years",
+        "fees": "₹42,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -154704,29 +154728,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/bms_bangalore.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=JAWAHARLAL%20NEHRU%20GOVERNMENT%20ENGINEERING%20COLLEGE%20MANDI%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:24.765Z"
   },
   {
     "id": 1968,
-    "name": "RAJIV GANDHI GOVERNMENT POLYTECHNIC BANIKHET AT KANDA",
-    "shortName": "Course Institute-1",
-    "location": "CHAMBA",
+    "name": "Rajiv Gandhi Government Polytechnic, Banikhet at Kanda",
+    "shortName": "RGGP Banikhet",
+    "location": "Chamba",
     "state": "Himachal Pradesh",
-    "address": "GP BANIKHET VPO BANIKHET TEH. DALHOUSIE DISTT. CHAMBA H.P.",
-    "phone": "0123-456789",
-    "website": "https://www.rajivgandhigove.edu.in",
+    "address": "Kanda, P.O. Banikhet, Tehsil Dalhousie, District Chamba, Himachal Pradesh - 176303",
+    "phone": "01899-254400",
+    "website": "https://gpbanikhet.org",
     "rating": 4.5,
     "reviews": 70,
-    "type": "Private",
-    "about": "Welcome to RAJIV GANDHI GOVERNMENT POLYTECHNIC BANIKHET AT KANDA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Rajiv Gandhi Government Polytechnic Banikhet at Kanda, established in 2013 under the Department of Technical Education, Himachal Pradesh, is an AICTE-approved public technical diploma institution situated in scenic Dalhousie hills.",
     "ranking": 25,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=RAJIV%20GANDHI%20GOVERNMENT%20POLYTECHNIC%20BANIKHET%20AT%20KANDA%20CHAMBA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_9.jpg",
     "gallery": [
@@ -154734,13 +154760,21 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Electrical Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 40
       }
@@ -154759,29 +154793,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_9.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=RAJIV%20GANDHI%20GOVERNMENT%20POLYTECHNIC%20BANIKHET%20AT%20KANDA%20CHAMBA%20Himachal%20Pradesh",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:25.782Z"
   },
   {
     "id": 1969,
-    "name": "ATAL BIHARI VAJPAYEE GOVT. INSTITUTE OF ENGINEERING & TECHNOLOGY ( DEGREE PROGRAMME)",
-    "shortName": "Course Institute-1",
-    "location": "SHIMLA",
+    "name": "Atal Bihari Vajpayee Govt. Institute of Engineering & Technology (Degree Wing)",
+    "shortName": "ABVGIET Degree Wing",
+    "location": "Shimla",
     "state": "Himachal Pradesh",
-    "address": "ATAL BIHARI VAJPAYEE GOVT. INSTITUTE OF ENGINEERING & TECHNOLOGY ( DEGREE PROGRAMME), PRAGATINAGAR",
-    "phone": "0123-456789",
-    "website": "https://www.atalbiharivajpa.edu.in",
+    "address": "Pragatinagar, Tehsil Kotkhai, Shimla, Himachal Pradesh - 171202",
+    "phone": "01783-253918",
+    "website": "https://abvgiet.ac.in",
     "rating": 4.5,
     "reviews": 352,
-    "type": "Private",
-    "about": "Welcome to ATAL BIHARI VAJPAYEE GOVT. INSTITUTE OF ENGINEERING & TECHNOLOGY ( DEGREE PROGRAMME), a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Atal Bihari Vajpayee Government Institute of Engineering and Technology (Degree Wing) Pragatinagar, established in 2011 by the Government of Himachal Pradesh, delivers AICTE-approved four-year B.Tech degree programs in ECE and CSE.",
     "ranking": 66,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=ATAL%20BIHARI%20VAJPAYEE%20GOVT.%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20(%20DEGREE%20PROGRAMME)%20SHIMLA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹42,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.yuvamind.com/colleges/images/college/atal-bihari-vajpayee-govt-institute-of-engineering-and-technology-shimla-campus.webp",
     "gallery": [
@@ -154790,13 +154826,21 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Technical University (HPTU), Hamirpur",
     "courses": [
       {
-        "title": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "title": "B.Tech in Electronics and Communication Engineering",
         "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹42,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 48
+      },
+      {
+        "title": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "fees": "₹42,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 48
       }
@@ -154815,28 +154859,30 @@
       "Cafeteria"
     ],
     "image": "https://www.yuvamind.com/colleges/images/college/atal-bihari-vajpayee-govt-institute-of-engineering-and-technology-shimla-campus.webp",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ATAL%20BIHARI%20VAJPAYEE%20GOVT.%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20(%20DEGREE%20PROGRAMME)%20SHIMLA%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ATAL%20BIHARI%20VAJPAYEE%20GOVT.%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20(%20DEGREE%20PROGRAMME)%20SHIMLA%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:25.782Z"
   },
   {
     "id": 1970,
-    "name": "GOVT. POLYTECHNIC FOR WOMEN, KANDAGHAT",
-    "shortName": "Course Institute-1",
-    "location": "SOLAN",
+    "name": "Government Polytechnic for Women, Kandaghat",
+    "shortName": "GPW Kandaghat",
+    "location": "Solan",
     "state": "Himachal Pradesh",
-    "address": "GOVT. POLYTECHNIC FOR WOMEN, KANDAGHAT",
-    "phone": "0123-456789",
-    "website": "https://www.govtpolytechnic.edu.in",
+    "address": "VPO Kandaghat, District Solan, Himachal Pradesh - 173215",
+    "phone": "01792-256134",
+    "website": "https://gpwkandaghat.org",
     "rating": 4.5,
     "reviews": 489,
-    "type": "Private",
-    "about": "Welcome to GOVT. POLYTECHNIC FOR WOMEN, KANDAGHAT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic for Women Kandaghat, established in 1984, is a premier women's technical institution in Himachal Pradesh, approved by AICTE, providing professional technical diploma training.",
     "ranking": 20,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT.%20POLYTECHNIC%20FOR%20WOMEN%2C%20KANDAGHAT%20SOLAN%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://media.collegedekho.com/media/img/institute/crawled_images/Govt._Polytechnic_for_Women1.jpg?width=640",
     "gallery": [
@@ -154844,15 +154890,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "COMPUTER ENGINEERING",
+        "title": "Diploma in Computer Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Electronics & Communication Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -154869,28 +154931,30 @@
       "Cafeteria"
     ],
     "image": "https://media.collegedekho.com/media/img/institute/crawled_images/Govt._Polytechnic_for_Women1.jpg?width=640",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20POLYTECHNIC%20FOR%20WOMEN%2C%20KANDAGHAT%20SOLAN%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20POLYTECHNIC%20FOR%20WOMEN%2C%20KANDAGHAT%20SOLAN%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:25.782Z"
   },
   {
     "id": 1971,
-    "name": "Himalayan Institute of Management",
-    "shortName": "Course Institute-1",
-    "location": "SIRMAUR",
+    "name": "Himalayan Institute of Management (HIM), Kala Amb",
+    "shortName": "HIM Kala Amb",
+    "location": "Sirmaur",
     "state": "Himachal Pradesh",
-    "address": "Sadhora Road, Near Suketi Fossil Park Road, Kala-Amb, District Sirmour, Himachal Pradesh - 173030",
-    "phone": "+91-9671300918",
+    "address": "Sadhaura Road, Kala Amb, District Sirmaur, Himachal Pradesh - 173030",
+    "phone": "01702-238654",
     "website": "https://hgpi.in",
     "rating": 4.5,
     "reviews": 420,
     "type": "Private",
-    "about": "Welcome to HIMALAYAN INSTITUTE OF MANAGEMENT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Himalayan Institute of Management Kala Amb, established in 2007 under Himalayan Group of Professional Institutions, is an AICTE-approved business management school offering MBA programs.",
     "ranking": 72,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20MANAGEMENT%20SIRMAUR%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹75,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_10.jpg",
     "gallery": [
@@ -154898,15 +154962,13 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Technical University (HPTU), Hamirpur",
     "courses": [
       {
-        "name": "MBA",
-        "title": "Master of Business Administration",
+        "title": "Master of Business Administration (MBA)",
         "duration": "2 Years",
-        "fees": "₹1.5 Lakhs",
-        "fee": "₹1.5 Lakhs",
-        "eligibility": "Graduation with 50% + HPCET/MAT/CAT",
+        "fees": "₹75,000/Yr",
+        "eligibility": "Graduation with 50% + HPCET / MAT / CMAT",
         "type": "MANAGEMENT",
         "intake": 90
       }
@@ -154929,27 +154991,28 @@
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20MANAGEMENT%20SIRMAUR%20Himachal%20Pradesh",
     "city": "Kala Amb",
     "email": "info@hgpi.in",
-    "verified": true
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:25.782Z"
   },
   {
     "id": 1972,
-    "name": "GOVT. PG COLLEGE UNA (HP)",
-    "shortName": "Course Institute-1",
-    "location": "UNA",
+    "name": "Government Post Graduate College, Una",
+    "shortName": "Govt PG College Una",
+    "location": "Una",
     "state": "Himachal Pradesh",
-    "address": "GOVT. PG COLLEGE UNA (HP)-174303",
-    "phone": "0123-456789",
-    "website": "https://www.govtpgcollegeun.edu.in",
+    "address": "Near Bus Stand, Prof. Ram Murti Sharma Marg, Una, Himachal Pradesh - 174303",
+    "phone": "01975-226035",
+    "website": "https://gcuna.ac.in",
     "rating": 4.5,
     "reviews": 399,
-    "type": "Private",
-    "about": "Welcome to GOVT. PG COLLEGE UNA (HP), a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Post Graduate College Una, established in 1968, is a premier government institution of higher learning in Una district, offering undergraduate and postgraduate education in computer applications, sciences, commerce, and humanities.",
     "ranking": 19,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT.%20PG%20COLLEGE%20UNA%20(HP)%20UNA%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹18,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_coep_pune.png",
     "gallery": [
@@ -154957,14 +155020,30 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh University (HPU), Shimla (NAAC 'B')",
     "courses": [
       {
-        "title": "MASTER OF COMPUTER APPLICATIONS",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹18,000/Yr",
+        "eligibility": "BCA / B.Sc / B.Com with Mathematics + HPU MCA Entrance",
         "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹15,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
         "intake": 60
       }
     ],
@@ -154982,28 +155061,30 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_coep_pune.png",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20PG%20COLLEGE%20UNA%20(HP)%20UNA%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20PG%20COLLEGE%20UNA%20(HP)%20UNA%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:25.782Z"
   },
   {
     "id": 1973,
-    "name": "GOVT. POLYTECHNIC KINNAUR (AT GOVT. POLYTECHNIC ROHRU AS MENTOR INSTITUTE)",
-    "shortName": "Course Institute-1",
-    "location": "KINNAUR",
+    "name": "Government Polytechnic, Kinnaur",
+    "shortName": "GP Kinnaur",
+    "location": "Kinnaur",
     "state": "Himachal Pradesh",
-    "address": "KALPA KINNAUR",
-    "phone": "0123-456789",
-    "website": "https://www.govtpolytechnic.edu.in",
+    "address": "VPO Kalpa, District Kinnaur (Camp at GP Rohru), Himachal Pradesh - 172108",
+    "phone": "01781-240120",
+    "website": "https://gpkinnaur.org",
     "rating": 4.5,
     "reviews": 346,
-    "type": "Private",
-    "about": "Welcome to GOVT. POLYTECHNIC KINNAUR (AT GOVT. POLYTECHNIC ROHRU AS MENTOR INSTITUTE), a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Kinnaur, established under the Department of Technical Education, Government of Himachal Pradesh, is an AICTE-approved tribal technical polytechnic (operating from GP Rohru mentor campus) delivering civil and mechanical engineering diplomas.",
     "ranking": 93,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT.%20POLYTECHNIC%20KINNAUR%20(AT%20GOVT.%20POLYTECHNIC%20ROHRU%20AS%20MENTOR%20INSTITUTE)%20KINNAUR%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_6.jpg",
     "gallery": [
@@ -155011,15 +155092,23 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Takniki Shiksha Board (HPTSB), Dharamshala",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
+      },
+      {
+        "title": "Diploma in Mechanical Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th pass + HP PAT",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -155036,28 +155125,30 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_6.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20POLYTECHNIC%20KINNAUR%20(AT%20GOVT.%20POLYTECHNIC%20ROHRU%20AS%20MENTOR%20INSTITUTE)%20KINNAUR%20Himachal%20Pradesh"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT.%20POLYTECHNIC%20KINNAUR%20(AT%20GOVT.%20POLYTECHNIC%20ROHRU%20AS%20MENTOR%20INSTITUTE)%20KINNAUR%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:25.782Z"
   },
   {
     "id": 1974,
-    "name": "HIMALAYAN INSTITUTE OF COMPUTER SCIENCES",
-    "shortName": "Course Institute-1",
-    "location": "SIRMAUR",
+    "name": "Himalayan Institute of Computer Sciences (HICS), Kala Amb",
+    "shortName": "HICS Kala Amb",
+    "location": "Sirmaur",
     "state": "Himachal Pradesh",
-    "address": "SADHORA ROAD, KALA-AMB, DISTT. SIRMOUR (H.P)",
-    "phone": "0123-456789",
-    "website": "https://www.himalayaninstit.edu.in",
+    "address": "Sadhaura Road, Kala Amb, District Sirmaur, Himachal Pradesh - 173030",
+    "phone": "01702-238654",
+    "website": "https://hgpi.in",
     "rating": 4.5,
     "reviews": 73,
     "type": "Private",
-    "about": "Welcome to HIMALAYAN INSTITUTE OF COMPUTER SCIENCES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Himalayan Institute of Computer Sciences Kala Amb, established in 2008 by Maa Saraswati Educational Trust, provides undergraduate computing courses affiliated to HPTU Hamirpur.",
     "ranking": 54,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20COMPUTER%20SCIENCES%20SIRMAUR%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹35,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.collegebatch.com/static/clg-gallery/himalayan-institute-of-computer-science-sirmaur-101238.webp",
     "gallery": [
@@ -155065,13 +155156,13 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Technical University (HPTU), Hamirpur",
     "courses": [
       {
-        "title": "BCA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
         "type": "COMPUTER APPLICATIONS",
         "intake": 80
       }
@@ -155091,27 +155182,29 @@
     ],
     "image": "https://www.collegebatch.com/static/clg-gallery/himalayan-institute-of-computer-science-sirmaur-101238.webp",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20COMPUTER%20SCIENCES%20SIRMAUR%20Himachal%20Pradesh"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20COMPUTER%20SCIENCES%20SIRMAUR%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:25.782Z"
   },
   {
     "id": 1975,
-    "name": "GREEN HILLS ENGINEERING COLLEGE",
-    "shortName": "Course Institute-1",
-    "location": "SOLAN",
+    "name": "Green Hills Engineering College (GHEC), Kumarhatti",
+    "shortName": "GHEC Solan",
+    "location": "Solan",
     "state": "Himachal Pradesh",
-    "address": "GREEN HILLS ENGINEERING COLLEGE VILL-GANDHIGRAM, P.O. BAHOLI, KUMARHATTI-NAHAN ROAD, KUMARHATTI, DISTT. SOLAN (H.P.)-173229",
-    "phone": "0123-456789",
-    "website": "https://www.greenhillsengin.edu.in",
+    "address": "Gandhigram, Kumarhatti, District Solan, Himachal Pradesh - 173229",
+    "phone": "01792-268388",
+    "website": "https://greenhills.ac.in",
     "rating": 4.5,
     "reviews": 498,
     "type": "Private",
-    "about": "Welcome to GREEN HILLS ENGINEERING COLLEGE, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Green Hills Engineering College Kumarhatti, established in 2003, is an AICTE-approved engineering college in Solan district affiliated to HPTU Hamirpur, offering undergraduate engineering degrees.",
     "ranking": 66,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GREEN%20HILLS%20ENGINEERING%20COLLEGE%20SOLAN%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹80,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.joonsquare.com/usermanage/image/business/green-hills-engineering-college-solan-13495/green-hills-engineering-college-solan-green-hills-engineering-college-004.jpg",
     "gallery": [
@@ -155119,13 +155212,29 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Technical University (HPTU), Hamirpur",
     "courses": [
       {
-        "title": "ELECTRICAL ENGINEERING",
+        "title": "B.Tech in Computer Science & Engineering",
         "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹80,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electrical Engineering",
+        "duration": "4 Years",
+        "fees": "₹80,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹80,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
@@ -155145,27 +155254,29 @@
     ],
     "image": "https://www.joonsquare.com/usermanage/image/business/green-hills-engineering-college-solan-13495/green-hills-engineering-college-solan-green-hills-engineering-college-004.jpg",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GREEN%20HILLS%20ENGINEERING%20COLLEGE%20SOLAN%20Himachal%20Pradesh"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GREEN%20HILLS%20ENGINEERING%20COLLEGE%20SOLAN%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:25.782Z"
   },
   {
     "id": 1976,
-    "name": "HIMALAYAN INSTITUTE OF ENGINEERING & TECHNOLOGY",
-    "shortName": "Course Institute-1",
-    "location": "SIRMAUR",
+    "name": "Himalayan Institute of Engineering & Technology (HIET), Kala Amb",
+    "shortName": "HIET Kala Amb",
+    "location": "Sirmaur",
     "state": "Himachal Pradesh",
-    "address": "SADHORA ROAD, KALA-AMB, TEH. NAHAN, DISTT SIRMOUR, HIMACHAL PARDESH.",
-    "phone": "0123-456789",
-    "website": "https://www.himalayaninstit.edu.in",
+    "address": "Sadhaura Road, Kala Amb, District Sirmaur, Himachal Pradesh - 173030",
+    "phone": "01702-238654",
+    "website": "https://hgpi.in",
     "rating": 4.5,
     "reviews": 405,
     "type": "Private",
-    "about": "Welcome to HIMALAYAN INSTITUTE OF ENGINEERING & TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Himalayan Institute of Engineering and Technology Kala Amb, established in 2009 under HGPI, is an AICTE-approved technical campus providing bachelor degrees in engineering.",
     "ranking": 76,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20SIRMAUR%20Himachal%20Pradesh",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹70,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://media.getmyuni.com/azure/college-image/big/himalayan-institute-of-technology-dehradun.jpg",
     "gallery": [
@@ -155173,13 +155284,29 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Himachal Pradesh Technical University (HPTU), Hamirpur",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "B.Tech in Computer Science & Engineering",
         "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹70,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 30
+      },
+      {
+        "title": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "fees": "₹70,000/Yr",
+        "eligibility": "10+2 with PCM + HPCET / JEE Main",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 30
       }
@@ -155199,7 +155326,9 @@
     ],
     "image": "https://media.getmyuni.com/azure/college-image/big/himalayan-institute-of-technology-dehradun.jpg",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20SIRMAUR%20Himachal%20Pradesh"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20ENGINEERING%20%26%20TECHNOLOGY%20SIRMAUR%20Himachal%20Pradesh",
+    "verified": true,
+    "verificationDate": "2026-11-02T06:15:25.782Z"
   },
   {
     "id": 1977,

@@ -1709,7 +1709,16 @@
     1963,
     1964,
     1965,
-    1966
+    1966,
+    1967,
+    1968,
+    1969,
+    1970,
+    1972,
+    1973,
+    1974,
+    1975,
+    1976
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -2180,6 +2189,24 @@
         1966
       ],
       "verifiedAt": "2026-11-01T21:53:19.497Z"
+    },
+    "198": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "1971-1980",
+      "ids": [
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973,
+        1974,
+        1975,
+        1976
+      ],
+      "verifiedAt": "2026-11-02T06:15:28.764Z"
     }
   },
   "all_verified_ids": [
@@ -2194,11 +2221,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 197,
-  "verifiedColleges": 1970,
-  "lastUpdated": "2026-11-01T21:53:19.497Z",
+  "last_batch_completed": 198,
+  "verifiedColleges": 1980,
+  "lastUpdated": "2026-11-02T06:15:28.764Z",
   "batchesCompleted": 172,
-  "currentBatch": 197,
+  "currentBatch": 198,
   "batchHistory": [
     {
       "batch": 160,
@@ -2648,6 +2675,24 @@
         1964,
         1965,
         1966
+      ]
+    },
+    {
+      "batch": 198,
+      "verifiedCount": 10,
+      "totalVerified": 1980,
+      "timestamp": "2026-11-02T06:15:28.765Z",
+      "collegeIds": [
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973,
+        1974,
+        1975,
+        1976
       ]
     }
   ]

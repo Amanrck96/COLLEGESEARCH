@@ -2951,3 +2951,19 @@
 | 1968 | Government Polytechnic, Kullu | Kullu | Himachal Pradesh | Public/Government | [Portal](https://gpkullu.org) |
 | 1969 | School of Engineering & Technology, Sri Sai University | Kangra | Himachal Pradesh | Private | [Portal](https://srisaiuniversity.org) |
 | 1970 | Government Polytechnic, Paonta Sahib | Sirmaur | Himachal Pradesh | Public/Government | [Portal](https://gppaontasahib.org) |
+
+
+### Batch 198 (Colleges 1,971–1,980)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1971 | Jawaharlal Nehru Government Engineering College (JNGEC), Sundernagar | Mandi | Himachal Pradesh | Public/Government | [Portal](https://jngec.ac.in) |
+| 1972 | Rajiv Gandhi Government Polytechnic, Banikhet at Kanda | Chamba | Himachal Pradesh | Public/Government | [Portal](https://gpbanikhet.org) |
+| 1973 | Atal Bihari Vajpayee Govt. Institute of Engineering & Technology (Degree Wing) | Shimla | Himachal Pradesh | Public/Government | [Portal](https://abvgiet.ac.in) |
+| 1974 | Government Polytechnic for Women, Kandaghat | Solan | Himachal Pradesh | Public/Government | [Portal](https://gpwkandaghat.org) |
+| 1975 | Himalayan Institute of Management (HIM), Kala Amb | Sirmaur | Himachal Pradesh | Private | [Portal](https://hgpi.in) |
+| 1976 | Government Post Graduate College, Una | Una | Himachal Pradesh | Public/Government | [Portal](https://gcuna.ac.in) |
+| 1977 | Government Polytechnic, Kinnaur | Kinnaur | Himachal Pradesh | Public/Government | [Portal](https://gpkinnaur.org) |
+| 1978 | Himalayan Institute of Computer Sciences (HICS), Kala Amb | Sirmaur | Himachal Pradesh | Private | [Portal](https://hgpi.in) |
+| 1979 | Green Hills Engineering College (GHEC), Kumarhatti | Solan | Himachal Pradesh | Private | [Portal](https://greenhills.ac.in) |
+| 1980 | Himalayan Institute of Engineering & Technology (HIET), Kala Amb | Sirmaur | Himachal Pradesh | Private | [Portal](https://hgpi.in) |
