@@ -3079,3 +3079,19 @@
 | 2048 | Jowai Polytechnic, Jowai | West Jaintia Hills | Meghalaya | Public/Government | [Portal](https://jowaipolytechnic.in) |
 | 2049 | School of Technology & Management, USTM | Ri-Bhoi | Meghalaya | Private | [Portal](https://ustm.ac.in) |
 | 2050 | Tura Polytechnic, Tura | West Garo Hills | Meghalaya | Public/Government | [Portal](https://turapolytechnic.in) |
+
+
+### Batch 206 (Colleges 2,051–2,060)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2051 | Shillong Polytechnic, Shillong | East Khasi Hills | Meghalaya | Public/Government | [Portal](https://www.shillongpolytechnic.com) |
+| 2052 | St. Anthony's College, Shillong (Post Graduate Section) | East Khasi Hills | Meghalaya | Private | [Portal](https://anthonys.ac.in) |
+| 2053 | St. Anthony's College, Shillong | East Khasi Hills | Meghalaya | Private | [Portal](https://anthonys.ac.in) |
+| 2054 | Umshyrpi College, Shillong | East Khasi Hills | Meghalaya | Private | [Portal](https://www.umshyrpicollege.com) |
+| 2055 | Shillong Government College of Engineering (SGCE) | East Khasi Hills | Meghalaya | Public/Government | [Portal](https://sgce.eu5.org) |
+| 2056 | Bellefonte Community College, Shillong | East Khasi Hills | Meghalaya | Private | [Portal](https://www.bellefontecommunitycollege.com) |
+| 2057 | Mizoram Polytechnic, Lunglei | Lunglei | Mizoram | Public/Government | [Portal](https://polytechlunglei.mizoram.gov.in/) |
+| 2058 | National Institute of Electronics & Information Technology (NIELIT), Aizawl | Aizawl | Mizoram | Public/Government (Autonomous Central Government Institute) | [Portal](https://nielit.gov.in/aizawl/) |
+| 2059 | Women's Polytechnic, Aizawl | Aizawl | Mizoram | Public/Government | [Portal](https://womenspolytechnicaizawl.edu.in) |
+| 2060 | Government Zirtiri Residential Science College (GZRSC), Aizawl | Aizawl | Mizoram | Public/Government | [Portal](https://www.gzrsc.edu.in) |
