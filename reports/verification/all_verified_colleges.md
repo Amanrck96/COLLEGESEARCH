@@ -3127,3 +3127,19 @@
 | 2078 | Centre for Computers and Communication Technology (CCCT), Chisopani | South Sikkim | Sikkim | Public/Government | [Portal](https://ccct.skmpoly.edu.in) |
 | 2079 | Advanced Technical Training Centre (ATTC), Bardang | East Sikkim | Sikkim | Public/Government | [Portal](https://www.attc.skmpoly.edu.in) |
 | 2080 | Sikkim Manipal Institute of Technology (SMIT), Majhitar | East Sikkim | Sikkim | Private | [Portal](https://smu.edu.in/smit.html) |
+
+
+### Batch 209 (Colleges 2,081–2,090)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2081 | SRM University Sikkim, Gangtok | East Sikkim | Sikkim | Private | [Portal](https://srmus.ac.in) |
+| 2082 | CIPET: Centre for Skilling and Technical Support (CSTS), Agartala | West Tripura | Tripura | Public/Government (Autonomous Central Government Institute) | [Portal](https://www.cipet.gov.in/centres/cipet-agartala/) |
+| 2083 | Tripura University, Suryamaninagar, Agartala | West Tripura | Tripura | Public/Government (Central University) | [Portal](https://www.tripurauniv.ac.in) |
+| 2084 | TTAADC Polytechnic Institute, Khumulwng | West Tripura | Tripura | Public/Government (Statutory Autonomous District Council) | [Portal](http://www.tpikhumulwng.edu.in) |
+| 2085 | National Institute of Electronics & Information Technology (NIELIT), Agartala | West Tripura | Tripura | Public/Government (Autonomous Central Government Institute) | [Portal](https://nielit.gov.in/agartala/) |
+| 2086 | Gomati District Polytechnic, Fulkumari, Udaipur | Gomati | Tripura | Public/Government | [Portal](https://gomati.nic.in/) |
+| 2087 | Dhalai District Polytechnic, Ambassa | Dhalai | Tripura | Public/Government | [Portal](http://www.ddptripura.nic.in) |
+| 2088 | Techno College of Engineering Agartala (TCEA) | West Tripura | Tripura | Private | [Portal](https://tiaedu.org) |
+| 2089 | North Tripura District Polytechnic, Dharmanagar | North Tripura | Tripura | Public/Government | [Portal](http://www.ntdpdharmanagar.ac.in) |
+| 2090 | Women's Polytechnic, Hapania, Agartala | West Tripura | Tripura | Public/Government | [Portal](https://wptripura.nic.in) |
