@@ -3159,3 +3159,19 @@
 | 2098 | Omkarananda Institute of Management and Technology (OIMT), Rishikesh | Tehri Garhwal | Uttarakhand | Private | [Portal](https://www.oimt.ac.in) |
 | 2099 | Institute of Hospitality, Management and Sciences (IHMS), Kotdwar | Pauri Garhwal | Uttarakhand | Private | [Portal](https://www.ihms.ac.in) |
 | 2100 | Government Polytechnic Chopta, Rudraprayag | Rudraprayag | Uttarakhand | Public/Government | [Portal](https://ukdte.in) |
+
+
+### Batch 211 (Colleges 2,101–2,110)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2101 | Government Polytechnic Bachelikhal, Tehri Garhwal | Tehri Garhwal | Uttarakhand | Public/Government | [Portal](https://gpbachelikhal.org.in) |
+| 2102 | Government Polytechnic Khatima, Udham Singh Nagar | Udham Singh Nagar | Uttarakhand | Public/Government | [Portal](https://gpkhatima.org) |
+| 2103 | Satyanand Dimri Uttarakhand Government Institute of Polytechnic, Barkot | Uttarkashi | Uttarakhand | Public/Government | [Portal](https://gpbarkot.org.in) |
+| 2104 | Government Polytechnic Bans Bagarh, Pithoragarh | Pithoragarh | Uttarakhand | Public/Government | [Portal](https://ugipbanspth.org.in) |
+| 2105 | Government Polytechnic Bhimtal, Nainital | Nainital | Uttarakhand | Public/Government | [Portal](https://gpbhimtal.org.in) |
+| 2106 | Government Polytechnic Jakhanidhar, Tehri Garhwal | Tehri Garhwal | Uttarakhand | Public/Government | [Portal](https://gpjakhanidhar.in) |
+| 2107 | Government Polytechnic Munakot, Pithoragarh | Pithoragarh | Uttarakhand | Public/Government | [Portal](https://www.gpmunakot.in) |
+| 2108 | Government Polytechnic Chinyalisaur, Uttarkashi | Uttarkashi | Uttarakhand | Public/Government | [Portal](https://ukdte.in) |
+| 2109 | Harishchandra Government Polytechnic Bhalswagaj, Haridwar | Haridwar | Uttarakhand | Public/Government | [Portal](https://gpbjharidwar.org) |
+| 2110 | Government Polytechnic Kapkot, Bageshwar | Bageshwar | Uttarakhand | Public/Government | [Portal](https://ukdte.in) |
