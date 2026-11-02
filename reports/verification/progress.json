@@ -1767,7 +1767,17 @@
     2022,
     2023,
     2024,
-    2026
+    2026,
+    2027,
+    2028,
+    2029,
+    2030,
+    2031,
+    2032,
+    2033,
+    2034,
+    2035,
+    2036
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -2346,6 +2356,24 @@
         2026
       ],
       "verifiedAt": "2026-11-02T12:32:24.351Z"
+    },
+    "204": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "2031-2040",
+      "ids": [
+        2027,
+        2028,
+        2029,
+        2030,
+        2031,
+        2032,
+        2033,
+        2034,
+        2035,
+        2036
+      ],
+      "verifiedAt": "2026-11-02T12:40:04.212Z"
     }
   },
   "all_verified_ids": [
@@ -2360,11 +2388,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 203,
-  "verifiedColleges": 2030,
-  "lastUpdated": "2026-11-02T12:32:24.351Z",
+  "last_batch_completed": 204,
+  "verifiedColleges": 2040,
+  "lastUpdated": "2026-11-02T12:40:04.211Z",
   "batchesCompleted": 172,
-  "currentBatch": 203,
+  "currentBatch": 204,
   "batchHistory": [
     {
       "batch": 160,
@@ -2922,6 +2950,24 @@
         2024,
         2025,
         2026
+      ]
+    },
+    {
+      "batch": 204,
+      "verifiedCount": 10,
+      "totalVerified": 2040,
+      "timestamp": "2026-11-02T12:40:04.228Z",
+      "collegeIds": [
+        2027,
+        2028,
+        2029,
+        2030,
+        2031,
+        2032,
+        2033,
+        2034,
+        2035,
+        2036
       ]
     }
   ]

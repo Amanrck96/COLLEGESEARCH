@@ -3047,3 +3047,19 @@
 | 2028 | Don Bosco College of Engineering (DBCE), Fatorda | South Goa | Goa | Private | [Portal](https://dbcegoa.ac.in) |
 | 2029 | Goa Institute of Management (GIM), Sanquelim | North Goa | Goa | Private (Autonomous B-School) | [Portal](https://gim.ac.in) |
 | 2030 | Padre Conceicao College of Engineering (PCCE), Verna | South Goa | Goa | Private | [Portal](https://pccegoa.edu.in) |
+
+
+### Batch 204 (Colleges 2,031–2,040)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2031 | Shree Rayeshwar Institute of Engineering and Information Technology (SRIEIT) | South Goa | Goa | Private | [Portal](https://ritgoa.ac.in) |
+| 2032 | Goa College of Art, Panaji | North Goa | Goa | Public/Government | [Portal](https://goaartcollege.gov.in) |
+| 2033 | Shri Gopal Gaonkar Memorial Goa Multi-Faculty College (GMFC) | South Goa | Goa | Private | [Portal](https://gmfc.ac.in) |
+| 2034 | S.S. Dempo College of Commerce and Economics (Autonomous) | North Goa | Goa | Private | [Portal](https://dempocollege.edu.in) |
+| 2035 | MES Vasant Joshi College of Arts & Commerce | South Goa | Goa | Private | [Portal](https://mescollege.org) |
+| 2036 | Dnyanprassarak Mandal's College and Research Centre (DMC) | North Goa | Goa | Private | [Portal](https://dmscollege.ac.in) |
+| 2037 | Fr. Agnel College of Arts and Commerce, Pilar | North Goa | Goa | Private | [Portal](https://agnelcollege.org) |
+| 2038 | Goa College of Hospitality and Culinary Education (GCHCE) | North Goa | Goa | Private | [Portal](https://gchce.org) |
+| 2039 | GVM's Gopal Govind Poy Raiturcar College of Commerce and Economics | North Goa | Goa | Private | [Portal](https://gvmcommercecollege.ac.in) |
+| 2040 | VVM's Shree Damodar College of Commerce & Economics | South Goa | Goa | Private | [Portal](https://damodarcollege.edu.in) |
