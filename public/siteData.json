@@ -163316,23 +163316,23 @@
   },
   {
     "id": 2087,
-    "name": "Techno India University, Tripura",
-    "shortName": "Course Institute-1",
-    "location": "WEST TRIPURA",
+    "name": "Techno India University, Tripura (TIUT)",
+    "shortName": "Techno India University Tripura",
+    "location": "West Tripura",
     "state": "Tripura",
-    "address": "Maheshkhola, Anandanagar, Agartala, Tripura - 799004",
-    "phone": "+91-9230994080",
+    "address": "Maheshkhala, Anandanagar, Agartala, West Tripura, Tripura - 799004",
+    "phone": "0381-2370281",
     "website": "https://tiut.ac.in",
     "rating": 4.5,
     "reviews": 347,
     "type": "Private",
-    "about": "Welcome to TECHNO INDIA UNIVERSITY TRIPURA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Techno India University Tripura (TIUT) Agartala, established under the Techno India University Tripura Act, is a private university offering diverse career-oriented undergraduate and postgraduate degrees in computer applications, IT, management, and emerging technologies.",
     "ranking": 19,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=TECHNO%20INDIA%20UNIVERSITY%20TRIPURA%20WEST%20TRIPURA%20Tripura",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹90,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_4.jpg",
     "gallery": [
@@ -163340,16 +163340,30 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "UGC Recognized Private University (Tripura Act No. 6 of 2023)",
     "courses": [
       {
-        "name": "MCA",
-        "title": "Master of Computer Applications",
+        "title": "Master of Computer Applications (MCA)",
         "duration": "2 Years",
-        "fees": "₹1.8 Lakhs",
-        "fee": "₹1.8 Lakhs",
-        "eligibility": "BCA/B.Sc Computer Science or Graduation with Mathematics",
+        "fees": "₹90,000/Yr",
+        "eligibility": "BCA / B.Sc (IT/CS) with minimum 50%",
         "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹65,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹60,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
         "intake": 60
       }
     ],
@@ -163367,31 +163381,32 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_4.jpg",
-    "ownership": "Private",
+    "ownership": "Private (State Private University)",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=TECHNO%20INDIA%20UNIVERSITY%20TRIPURA%20WEST%20TRIPURA%20Tripura",
     "city": "Agartala",
     "email": "info@tiut.ac.in",
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.162Z"
   },
   {
     "id": 2088,
     "name": "Holy Cross College, Agartala",
-    "shortName": "Course Institute-1",
-    "location": "WEST TRIPURA",
+    "shortName": "Holy Cross College Agartala",
+    "location": "West Tripura",
     "state": "Tripura",
-    "address": "Jubatara, Lembucherra P.O., Mohanpur Road, Agartala, West Tripura - 799210",
-    "phone": "+91-9402315672",
+    "address": "Jubatara, Lembucherra, Agartala, West Tripura, Tripura - 799210",
+    "phone": "0381-2869244",
     "website": "https://hccagt.ac.in",
     "rating": 4.5,
     "reviews": 217,
     "type": "Private",
-    "about": "Welcome to HOLY CROSS COLLEGE AGARTALA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Holy Cross College Agartala, established in 2009 by the Congregation of Holy Cross, is Tripura's premier Catholic minority institution, accredited with 'A+' Grade by NAAC and affiliated to Tripura University. It provides values-based quality education in business administration, computer applications, commerce, sciences, and humanities.",
     "ranking": 35,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=HOLY%20CROSS%20COLLEGE%20AGARTALA%20WEST%20TRIPURA%20Tripura",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹60,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_5.jpg",
     "gallery": [
@@ -163399,17 +163414,39 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Tripura University (Central University, NAAC 'A+' Grade)",
     "courses": [
       {
-        "name": "MBA",
-        "title": "Master of Business Administration",
+        "title": "Master of Business Administration (MBA)",
         "duration": "2 Years",
-        "fees": "₹2.2 Lakhs",
-        "fee": "₹2.2 Lakhs",
-        "eligibility": "Graduation with 50% + MAT/CAT/XAT",
+        "fees": "₹1,10,000/Yr",
+        "eligibility": "Graduation in any discipline with minimum 50% + Entrance",
         "type": "MANAGEMENT",
         "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 in any stream with minimum 50%",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Commerce (B.Com)",
+        "duration": "3 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "10+2 in Commerce stream",
+        "type": "COMMERCE",
+        "intake": 120
+      },
+      {
+        "title": "Bachelor of Arts (B.A.)",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 in Arts or equivalent",
+        "type": "ARTS",
+        "intake": 180
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -163426,31 +163463,32 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_5.jpg",
-    "ownership": "Private",
+    "ownership": "Private (Christian Minority / NAAC 'A+' Grade)",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=HOLY%20CROSS%20COLLEGE%20AGARTALA%20WEST%20TRIPURA%20Tripura",
     "city": "Agartala",
     "email": "principal@hccagt.ac.in",
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.435Z"
   },
   {
     "id": 2089,
-    "name": "BHAVAN'S TRIPURA COLLEGE OF SCIENCE AND TECHNOLOGY",
-    "shortName": "Course Institute-1",
-    "location": "WEST TRIPURA",
+    "name": "Bhavan's Tripura College of Science & Technology (BTCST), Agartala",
+    "shortName": "BTCST Agartala",
+    "location": "West Tripura",
     "state": "Tripura",
-    "address": "UTTAR ANANDANAGAR, ANANDANAGAR",
-    "phone": "0123-456789",
-    "website": "https://www.bhavanstripurac.edu.in",
+    "address": "Joynagar / Anandanagar, Agartala, West Tripura, Tripura - 799001",
+    "phone": "0381-2370258",
+    "website": "https://www.btcstagartala.org/",
     "rating": 4.5,
     "reviews": 470,
     "type": "Private",
-    "about": "Welcome to BHAVAN'S TRIPURA COLLEGE OF SCIENCE AND TECHNOLOGY, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Bhavan's Tripura College of Science & Technology (BTCST) Agartala, established in 2003 under the Bharatiya Vidya Bhavan, is an institution affiliated to Tripura University providing professional degree programs in management, computer science, and bio-sciences.",
     "ranking": 55,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=BHAVAN'S%20TRIPURA%20COLLEGE%20OF%20SCIENCE%20AND%20TECHNOLOGY%20WEST%20TRIPURA%20Tripura",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹45,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/maniben_mp_shah_matunga.jpg",
     "gallery": [
@@ -163458,15 +163496,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Tripura University (Central University)",
     "courses": [
       {
-        "title": "BBA",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 in any stream",
         "type": "MANAGEMENT",
-        "intake": 30
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "B.Sc in Computer Science",
+        "duration": "3 Years",
+        "fees": "₹35,000/Yr",
+        "eligibility": "10+2 with Science (PCM)",
+        "type": "SCIENCE",
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -163483,29 +163537,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/maniben_mp_shah_matunga.jpg",
-    "ownership": "Private",
+    "ownership": "Private (Bharatiya Vidya Bhavan)",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=BHAVAN'S%20TRIPURA%20COLLEGE%20OF%20SCIENCE%20AND%20TECHNOLOGY%20WEST%20TRIPURA%20Tripura",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.435Z"
   },
   {
     "id": 2090,
-    "name": "ROORKEE COLLEGE OF POLYTECHNIC ROORKEE.",
-    "shortName": "Course Institute-1",
-    "location": "HARIDWAR",
+    "name": "Roorkee College of Polytechnic, Roorkee",
+    "shortName": "Roorkee College of Polytechnic",
+    "location": "Haridwar",
     "state": "Uttarakhand",
-    "address": "09- MILE STONE, ROORKEE-DEHRADUN HIGHWAY, VILLAGE- KISHANPUR ROORKEE-247667, DISTT- HARDWAR (UK)",
-    "phone": "0123-456789",
-    "website": "https://rcp.edu.in",
+    "address": "7th Km, Roorkee-Hardwar Road, Bajuheri, Roorkee, Haridwar, Uttarakhand - 247667",
+    "phone": "01332-261795",
+    "website": "https://rcppolytechnic.com",
     "rating": 4.9,
     "reviews": 1262,
     "type": "Private",
-    "about": "Welcome to ROORKEE COLLEGE OF POLYTECHNIC ROORKEE., a premier institute located in HARIDWAR. We offer world-class education and facilities for our students.",
+    "about": "Roorkee College of Polytechnic, established in 2009 under the RCP Group of Institutions, is an AICTE-approved private polytechnic affiliated to UBTER Roorkee, providing 3-year technical diploma engineering programs across mechanical, civil, electrical, and computer science branches.",
     "ranking": 37,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=ROORKEE%20COLLEGE%20OF%20POLYTECHNIC%20ROORKEE.%20HARIDWAR%20Uttarakhand",
-    "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
+    "fees": "₹42,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/gnims_matunga.png",
     "gallery": [
@@ -163515,13 +163571,36 @@
     ],
     "courses": [
       {
-        "title": "MECHANICAL ENGINEERING (PROD)",
-        "type": "ENGINEERING AND TECHNOLOGY",
-        "division": "DIPLOMA",
+        "title": "Diploma in Mechanical Engineering (Production)",
         "duration": "3 Years",
-        "fees": "Contact for details",
-        "intake": 30,
-        "eligibility": "As per norms"
+        "fees": "₹42,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹42,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Electrical Engineering",
+        "duration": "3 Years",
+        "fees": "₹42,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Diploma in Computer Science & Engineering",
+        "duration": "3 Years",
+        "fees": "₹42,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
       }
     ],
     "highestPackage": "₹18 LPA",
@@ -163544,27 +163623,30 @@
     "image": "/images/campuses/gnims_matunga.png",
     "ownership": "Private",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=ROORKEE%20COLLEGE%20OF%20POLYTECHNIC%20ROORKEE.%20HARIDWAR%20Uttarakhand",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "affiliation": "Uttarakhand Board of Technical Education, Roorkee (UBTER) & AICTE",
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.436Z"
   },
   {
     "id": 2091,
-    "name": "HIMALAYAN INSTITUTE OF TECHNOLOGY",
-    "shortName": "Course Institute-1",
-    "location": "DEHRADUN",
+    "name": "Himalayan Institute of Technology (HIT), Dehradun",
+    "shortName": "HIT Dehradun",
+    "location": "Dehradun",
     "state": "Uttarakhand",
-    "address": "DEHRADUN",
-    "phone": "0123-456789",
-    "website": "https://www.himalayaninstit.edu.in",
+    "address": "Near Central Excise Building, Haridwar Road, Dehradun, Uttarakhand - 248001",
+    "phone": "0135-2499175",
+    "website": "https://hitdoon.com",
     "rating": 4.9,
     "reviews": 1676,
     "type": "Private",
-    "about": "Welcome to HIMALAYAN INSTITUTE OF TECHNOLOGY, a premier institute located in DEHRADUN. We offer world-class education and facilities for our students.",
+    "about": "Himalayan Institute of Technology (HIT) Dehradun, established in 2001, is a leading professional institute affiliated to HNB Garhwal Central University and SDSUV, offering recognized undergraduate programs in computer applications, management, hotel management, and agriculture.",
     "ranking": 18,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20TECHNOLOGY%20DEHRADUN%20Uttarakhand",
-    "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
+    "fees": "₹55,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/pibm_pune.webp",
     "gallery": [
@@ -163574,13 +163656,36 @@
     ],
     "courses": [
       {
-        "title": "BCA",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
         "type": "COMPUTER APPLICATIONS",
-        "division": "UNDER GRADUATE",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹55,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "B.Sc in Information Technology",
+        "duration": "3 Years",
+        "fees": "₹48,000/Yr",
+        "eligibility": "10+2 with Mathematics / Science",
+        "type": "SCIENCE",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Hotel Management (BHM)",
         "duration": "4 Years",
-        "fees": "Contact for details",
-        "intake": 120,
-        "eligibility": "As per norms"
+        "fees": "₹75,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "HOTEL MANAGEMENT",
+        "intake": 60
       }
     ],
     "highestPackage": "₹18 LPA",
@@ -163603,27 +163708,30 @@
     "image": "/images/campuses/pibm_pune.webp",
     "ownership": "Private",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=HIMALAYAN%20INSTITUTE%20OF%20TECHNOLOGY%20DEHRADUN%20Uttarakhand",
-    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "affiliation": "HNB Garhwal Central University / Sri Dev Suman Uttarakhand University (SDSUV)",
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.436Z"
   },
   {
     "id": 2092,
-    "name": "MODERN INSTITUTE OF TECHNOLOGY",
-    "shortName": "Course Institute-1",
-    "location": "TEHRI GARHWAL",
+    "name": "Modern Institute of Technology (MIT), Rishikesh",
+    "shortName": "MIT Rishikesh",
+    "location": "Tehri Garhwal",
     "state": "Uttarakhand",
-    "address": "DHALWALA",
-    "phone": "0123-456789",
-    "website": "https://www.moderninstitute.edu.in",
+    "address": "Dhalwala, Rishikesh, Tehri Garhwal, Uttarakhand - 249201",
+    "phone": "0135-2435012",
+    "website": "https://www.mitrishikesh.com/",
     "rating": 4.6,
     "reviews": 1699,
     "type": "Private",
-    "about": "Welcome to MODERN INSTITUTE OF TECHNOLOGY, a premier institute located in TEHRI GARHWAL. We offer world-class education and facilities for our students.",
+    "about": "Modern Institute of Technology (MIT) Rishikesh, established in 2002 by the Amrit Vidya Educational Society, is an institution affiliated to HNB Garhwal Central University and UTU, providing degree education in computer applications, management, biotechnology, and education.",
     "ranking": 73,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=MODERN%20INSTITUTE%20OF%20TECHNOLOGY%20TEHRI%20GARHWAL%20Uttarakhand",
-    "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
+    "fees": "₹48,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://thdcihet.ac.in/wp-content/uploads/2023/06/thdcihet_Library-768x431.jpg",
     "gallery": [
@@ -163633,13 +163741,28 @@
     ],
     "courses": [
       {
-        "title": "BCA",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹48,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
         "type": "COMPUTER APPLICATIONS",
-        "division": "UNDER GRADUATE",
-        "duration": "4 Years",
-        "fees": "Contact for details",
-        "intake": 60,
-        "eligibility": "As per norms"
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹48,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "B.Sc in Biotechnology",
+        "duration": "3 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "10+2 with Biology / Biotechnology",
+        "type": "SCIENCE",
+        "intake": 60
       }
     ],
     "highestPackage": "₹18 LPA",
@@ -163661,27 +163784,30 @@
     "reviewsCount": 1699,
     "image": "https://thdcihet.ac.in/wp-content/uploads/2023/06/thdcihet_Library-768x431.jpg",
     "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=MODERN%20INSTITUTE%20OF%20TECHNOLOGY%20TEHRI%20GARHWAL%20Uttarakhand"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=MODERN%20INSTITUTE%20OF%20TECHNOLOGY%20TEHRI%20GARHWAL%20Uttarakhand",
+    "affiliation": "HNB Garhwal Central University / Uttarakhand Technical University (UTU)",
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.436Z"
   },
   {
     "id": 2093,
-    "name": "BIPIN TRIPATHI KUMAON INSTITUTE OF TECHNOLOGY",
-    "shortName": "Course Institute-1",
-    "location": "ALMORA",
+    "name": "Bipin Tripathi Kumaon Institute of Technology (BTKIT), Dwarahat",
+    "shortName": "BTKIT Dwarahat",
+    "location": "Almora",
     "state": "Uttarakhand",
-    "address": "VILL - SALANA / MALLI MIRAI",
-    "phone": "0123-456789",
-    "website": "https://www.bipintripathiku.edu.in",
+    "address": "Dwarahat, Almora District, Uttarakhand - 263653",
+    "phone": "05966-244250",
+    "website": "https://kecua.ac.in",
     "rating": 4.5,
     "reviews": 124,
-    "type": "Private",
-    "about": "Welcome to BIPIN TRIPATHI KUMAON INSTITUTE OF TECHNOLOGY, a premier institute located in ALMORA. We offer world-class education and facilities for our students.",
+    "type": "Public/Government (Autonomous State Government Institute)",
+    "about": "Bipin Tripathi Kumaon Institute of Technology (BTKIT) Dwarahat, established in 1991 by the Government of Uttar Pradesh / Uttarakhand (formerly Kumaon Engineering College - KEC), is an autonomous state government engineering college spread across a 155-acre residential campus in the Kumaon hills, offering AICTE-approved B.Tech, M.Tech, and MCA programs.",
     "ranking": 16,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=BIPIN%20TRIPATHI%20KUMAON%20INSTITUTE%20OF%20TECHNOLOGY%20ALMORA%20Uttarakhand",
-    "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
+    "fees": "₹58,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.collegebatch.com/static/clg-gallery/bipin-tripathi-kumaon-institute-of-technology-almora-360171.webp",
     "gallery": [
@@ -163691,13 +163817,44 @@
     ],
     "courses": [
       {
-        "title": "CHEMICAL ENGINEERING",
-        "type": "ENGINEERING AND TECHNOLOGY",
-        "division": "UNDER GRADUATE",
+        "title": "B.Tech in Chemical Engineering",
         "duration": "4 Years",
-        "fees": "Contact for details",
-        "intake": 30,
-        "eligibility": "As per norms"
+        "fees": "₹58,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / UTU Counselling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Computer Science and Engineering",
+        "duration": "4 Years",
+        "fees": "₹58,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / UTU Counselling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Electronics & Communication Engineering",
+        "duration": "4 Years",
+        "fees": "₹58,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / UTU Counselling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "fees": "₹58,000/Yr",
+        "eligibility": "10+2 with PCM + JEE Main / UTU Counselling",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 60
+      },
+      {
+        "title": "Master of Computer Applications (MCA)",
+        "duration": "2 Years",
+        "fees": "₹45,000/Yr",
+        "eligibility": "BCA / B.Sc (IT/CS) with Mathematics + UTU Entrance",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
       }
     ],
     "highestPackage": "₹18 LPA",
@@ -163718,28 +163875,31 @@
     "country": "India",
     "reviewsCount": 124,
     "image": "https://www.collegebatch.com/static/clg-gallery/bipin-tripathi-kumaon-institute-of-technology-almora-360171.webp",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=BIPIN%20TRIPATHI%20KUMAON%20INSTITUTE%20OF%20TECHNOLOGY%20ALMORA%20Uttarakhand"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=BIPIN%20TRIPATHI%20KUMAON%20INSTITUTE%20OF%20TECHNOLOGY%20ALMORA%20Uttarakhand",
+    "affiliation": "Autonomous Institute funded by Government of Uttarakhand / UTU & AICTE",
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.436Z"
   },
   {
     "id": 2094,
-    "name": "OMKARANANDA INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
-    "shortName": "Course Institute-1",
-    "location": "TEHRI GARHWAL",
+    "name": "Omkarananda Institute of Management and Technology (OIMT), Rishikesh",
+    "shortName": "OIMT Rishikesh",
+    "location": "Tehri Garhwal",
     "state": "Uttarakhand",
-    "address": "OIMT, SWAMI OMKARANANDA MARG MUNI KI RETI",
-    "phone": "0123-456789",
-    "website": "https://www.omkaranandainst.edu.in",
+    "address": "Swami Omkarananda Saraswati Marg, Muni-ki-Reti, Rishikesh, Tehri Garhwal, Uttarakhand - 249192",
+    "phone": "0135-2431020",
+    "website": "https://www.oimt.ac.in",
     "rating": 4.5,
     "reviews": 812,
     "type": "Private",
-    "about": "Welcome to OMKARANANDA INSTITUTE OF MANAGEMENT AND TECHNOLOGY, a premier institute located in TEHRI GARHWAL. We offer world-class education and facilities for our students.",
+    "about": "Omkarananda Institute of Management and Technology (OIMT) Rishikesh, established in 1999 by the Swami Omkarananda Saraswati Trust, is an AICTE-approved institution located on the banks of the Ganges in Muni-ki-Reti, offering undergraduate and postgraduate education in management and computer applications.",
     "ranking": 94,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=OMKARANANDA%20INSTITUTE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20TEHRI%20GARHWAL%20Uttarakhand",
-    "fees": "₹1.5 Lakhs - ₹5.5 Lakhs",
+    "fees": "₹52,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/iiit_bangalore_campus.jpg",
     "gallery": [
@@ -163749,13 +163909,28 @@
     ],
     "courses": [
       {
-        "title": "BCA",
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹52,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
         "type": "COMPUTER APPLICATIONS",
-        "division": "UNDER GRADUATE",
-        "duration": "4 Years",
-        "fees": "Contact for details",
-        "intake": 120,
-        "eligibility": "As per norms"
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹52,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "fees": "₹75,000/Yr",
+        "eligibility": "Graduation with minimum 50% + MAT/CAT/UTU",
+        "type": "MANAGEMENT",
+        "intake": 60
       }
     ],
     "highestPackage": "₹18 LPA",
@@ -163776,29 +163951,32 @@
     "country": "India",
     "reviewsCount": 812,
     "image": "/images/campuses/iiit_bangalore_campus.jpg",
-    "ownership": "Private",
+    "ownership": "Private (Omkarananda Ashram Himalayas Trust)",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=OMKARANANDA%20INSTITUTE%20OF%20MANAGEMENT%20AND%20TECHNOLOGY%20TEHRI%20GARHWAL%20Uttarakhand",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "affiliation": "Uttarakhand Technical University (UTU) & SDSUV",
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.436Z"
   },
   {
     "id": 2095,
-    "name": "Institute of Hospitality, Management and Sciences",
-    "shortName": "Course Institute-1",
-    "location": "PAURI GARHWAL",
+    "name": "Institute of Hospitality, Management and Sciences (IHMS), Kotdwar",
+    "shortName": "IHMS Kotdwar",
+    "location": "Pauri Garhwal",
     "state": "Uttarakhand",
-    "address": "Balbhadrapur, B.E.L. Road, Kotdwar, Pauri Garhwal, Uttarakhand - 246149",
-    "phone": "+91-7902000023",
+    "address": "Balbhadrapur, Kotdwar, Pauri Garhwal, Uttarakhand - 246149",
+    "phone": "01382-229150",
     "website": "https://www.ihms.ac.in",
     "rating": 4.5,
     "reviews": 292,
     "type": "Private",
-    "about": "Welcome to INSTITUTE OF HOSPITALITY MANAGEMENT AND SCIENCES, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "about": "Institute of Hospitality, Management and Sciences (IHMS) Kotdwar, established in 2006, is a premier higher education institute in the Garhwal foothills affiliated to HNB Garhwal Central University and UTU, offering specialized courses in IT, management, and hospitality.",
     "ranking": 50,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=INSTITUTE%20OF%20HOSPITALITY%20MANAGEMENT%20AND%20SCIENCES%20PAURI%20GARHWAL%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹70,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_6.jpg",
     "gallery": [
@@ -163806,16 +163984,38 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "HNB Garhwal Central University / Uttarakhand Technical University (UTU)",
     "courses": [
       {
-        "name": "MCA",
-        "title": "Master of Computer Applications",
+        "title": "Master of Computer Applications (MCA)",
         "duration": "2 Years",
-        "fees": "₹1.4 Lakhs",
-        "fee": "₹1.4 Lakhs",
-        "eligibility": "BCA / B.Sc with Mathematics with 50%",
+        "fees": "₹70,000/Yr",
+        "eligibility": "BCA / B.Sc (IT/CS) with minimum 50%",
         "type": "COMPUTER APPLICATIONS",
+        "intake": 30
+      },
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "duration": "3 Years",
+        "fees": "₹48,000/Yr",
+        "eligibility": "10+2 with Mathematics / Computer Studies",
+        "type": "COMPUTER APPLICATIONS",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Business Administration (BBA)",
+        "duration": "3 Years",
+        "fees": "₹48,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "MANAGEMENT",
+        "intake": 60
+      },
+      {
+        "title": "Bachelor of Hotel Management (BHM)",
+        "duration": "4 Years",
+        "fees": "₹65,000/Yr",
+        "eligibility": "10+2 in any stream",
+        "type": "HOTEL MANAGEMENT",
         "intake": 60
       }
     ],
@@ -163838,27 +164038,28 @@
     "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
     "city": "Kotdwar",
     "email": "info@ihms.ac.in",
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.436Z"
   },
   {
     "id": 2096,
-    "name": "GOVERNMENT POLYTECHNIC CHOPTA",
-    "shortName": "Course Institute-1",
-    "location": "RUDRAPRAYAG",
+    "name": "Government Polytechnic Chopta, Rudraprayag",
+    "shortName": "Govt Polytechnic Chopta",
+    "location": "Rudraprayag",
     "state": "Uttarakhand",
-    "address": "VILLEGE KUNDA DANKOT POST OFFICE JAKHANI DIST. RUDRAPRAYAG",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Chopta, Mohankhal, Rudraprayag District, Uttarakhand - 246419",
+    "phone": "01364-267120",
+    "website": "https://ukdte.in",
     "rating": 4.5,
     "reviews": 73,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC CHOPTA, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Chopta, established in 2017 by the Government of Uttarakhand under the Directorate of Technical Education, is an AICTE-approved public technical institute in the Garhwal Himalayas offering subsidized 3-year engineering diploma education in Civil Engineering.",
     "ranking": 93,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20CHOPTA%20RUDRAPRAYAG%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_cu_shah_mumbai.png",
     "gallery": [
@@ -163866,15 +164067,15 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER & AICTE",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 30
+        "intake": 60
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -163891,9 +164092,11 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_cu_shah_mumbai.png",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20CHOPTA%20RUDRAPRAYAG%20Uttarakhand",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-02T18:03:32.436Z"
   },
   {
     "id": 2097,

@@ -3143,3 +3143,19 @@
 | 2088 | Techno College of Engineering Agartala (TCEA) | West Tripura | Tripura | Private | [Portal](https://tiaedu.org) |
 | 2089 | North Tripura District Polytechnic, Dharmanagar | North Tripura | Tripura | Public/Government | [Portal](http://www.ntdpdharmanagar.ac.in) |
 | 2090 | Women's Polytechnic, Hapania, Agartala | West Tripura | Tripura | Public/Government | [Portal](https://wptripura.nic.in) |
+
+
+### Batch 210 (Colleges 2,091–2,100)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2091 | Techno India University, Tripura (TIUT) | West Tripura | Tripura | Private | [Portal](https://tiut.ac.in) |
+| 2092 | Holy Cross College, Agartala | West Tripura | Tripura | Private | [Portal](https://hccagt.ac.in) |
+| 2093 | Bhavan's Tripura College of Science & Technology (BTCST), Agartala | West Tripura | Tripura | Private | [Portal](https://www.btcstagartala.org/) |
+| 2094 | Roorkee College of Polytechnic, Roorkee | Haridwar | Uttarakhand | Private | [Portal](https://rcppolytechnic.com) |
+| 2095 | Himalayan Institute of Technology (HIT), Dehradun | Dehradun | Uttarakhand | Private | [Portal](https://hitdoon.com) |
+| 2096 | Modern Institute of Technology (MIT), Rishikesh | Tehri Garhwal | Uttarakhand | Private | [Portal](https://www.mitrishikesh.com/) |
+| 2097 | Bipin Tripathi Kumaon Institute of Technology (BTKIT), Dwarahat | Almora | Uttarakhand | Public/Government (Autonomous State Government Institute) | [Portal](https://kecua.ac.in) |
+| 2098 | Omkarananda Institute of Management and Technology (OIMT), Rishikesh | Tehri Garhwal | Uttarakhand | Private | [Portal](https://www.oimt.ac.in) |
+| 2099 | Institute of Hospitality, Management and Sciences (IHMS), Kotdwar | Pauri Garhwal | Uttarakhand | Private | [Portal](https://www.ihms.ac.in) |
+| 2100 | Government Polytechnic Chopta, Rudraprayag | Rudraprayag | Uttarakhand | Public/Government | [Portal](https://ukdte.in) |

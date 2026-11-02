@@ -1825,7 +1825,14 @@
     2083,
     2084,
     2085,
-    2086
+    2086,
+    2089,
+    2090,
+    2091,
+    2092,
+    2093,
+    2094,
+    2096
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -2512,6 +2519,24 @@
         2086
       ],
       "verifiedAt": "2026-11-02T17:53:50.443Z"
+    },
+    "210": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "2091-2100",
+      "ids": [
+        2087,
+        2088,
+        2089,
+        2090,
+        2091,
+        2092,
+        2093,
+        2094,
+        2095,
+        2096
+      ],
+      "verifiedAt": "2026-11-02T18:03:33.899Z"
     }
   },
   "all_verified_ids": [
@@ -2526,11 +2551,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 209,
-  "verifiedColleges": 2090,
-  "lastUpdated": "2026-11-02T17:53:50.443Z",
+  "last_batch_completed": 210,
+  "verifiedColleges": 2100,
+  "lastUpdated": "2026-11-02T18:03:33.899Z",
   "batchesCompleted": 172,
-  "currentBatch": 209,
+  "currentBatch": 210,
   "batchHistory": [
     {
       "batch": 160,
@@ -3196,6 +3221,24 @@
         2084,
         2085,
         2086
+      ]
+    },
+    {
+      "batch": 210,
+      "verifiedCount": 10,
+      "totalVerified": 2100,
+      "timestamp": "2026-11-02T18:03:33.913Z",
+      "collegeIds": [
+        2087,
+        2088,
+        2089,
+        2090,
+        2091,
+        2092,
+        2093,
+        2094,
+        2095,
+        2096
       ]
     }
   ]
