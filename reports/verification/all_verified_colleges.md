@@ -2983,3 +2983,19 @@
 | 1988 | Minerva College of Education, Indora | Kangra | Himachal Pradesh | Private | [Portal](https://minervacollege.org) |
 | 1989 | Laureate Institute of Management and Information Technology (LIMIT) | Kangra | Himachal Pradesh | Private | [Portal](https://laureate.ac.in) |
 | 1990 | Lala Lilu Ram (LLR) Institute of Management, Solan | Solan | Himachal Pradesh | Private | [Portal](https://www.lrinstitutes.edu.in) |
+
+
+### Batch 200 (Colleges 1,991–2,000) — Landmark 2,000th Milestone
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 1991 | Government College, Daulatpur Chowk | Una | Himachal Pradesh | Public/Government | [Portal](https://gcdc.ac.in) |
+| 1992 | Vijay Memorial College of Education / Institute of Higher Education | Mandi | Himachal Pradesh | Private | [Portal](https://vijaymemorial.com) |
+| 1993 | Lal Bahadur Shastri Government Degree College, Saraswati Nagar | Shimla | Himachal Pradesh | Public/Government | [Portal](https://lbsgcsaraswatinagar.edu.in) |
+| 1994 | Atal Bihari Vajpayee Government Degree College, Bangana | Una | Himachal Pradesh | Public/Government | [Portal](https://gcbangana.ac.in) |
+| 1995 | Goswami Ganesh Dutt Sanatan Dharam (GGDSD) College, Rajpur | Kangra | Himachal Pradesh | Private | [Portal](https://ggdsdrajpur.com) |
+| 1996 | Swami Vivekanand Government College, Ghumarwin | Bilaspur | Himachal Pradesh | Public/Government | [Portal](https://gcghumarwin.org.in) |
+| 1997 | K.C. Institute of Management, Pandoga | Una | Himachal Pradesh | Private | [Portal](https://kcinstitutes.com) |
+| 1998 | St. Bede's College, Shimla | Shimla | Himachal Pradesh | Private | [Portal](https://stbedescollege.in) |
+| 1999 | Centre of Excellence, Government College Sanjauli, Shimla | Shimla | Himachal Pradesh | Public/Government | [Portal](https://gcsanjauli.edu.in) |
+| 2000 | Netaji Subhash Chander Bose Memorial Govt. PG College, Hamirpur | Hamirpur | Himachal Pradesh | Public/Government | [Portal](https://gchamirpur.org) |
