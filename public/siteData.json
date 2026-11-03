@@ -165372,23 +165372,23 @@
   },
   {
     "id": 2117,
-    "name": "INDIAN INSTITUTE OF REMOTE SENSING",
-    "shortName": "Course Institute-1",
-    "location": "DEHRADUN",
+    "name": "Indian Institute of Remote Sensing (IIRS), ISRO, Dehradun",
+    "shortName": "IIRS ISRO Dehradun",
+    "location": "Dehradun",
     "state": "Uttarakhand",
-    "address": "4 KALIDAS ROAD, DEHRADUN",
-    "phone": "0123-456789",
-    "website": "https://www.indianinstitute.edu.in",
+    "address": "4, Kalidas Road, Post Box No. 135, Dehradun, Uttarakhand - 248001",
+    "phone": "0135-2524399",
+    "website": "https://www.iirs.gov.in",
     "rating": 4.5,
     "reviews": 473,
-    "type": "Private",
-    "about": "Welcome to INDIAN INSTITUTE OF REMOTE SENSING, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government (Constituent Unit of ISRO, Dept of Space, Govt of India)",
+    "about": "Indian Institute of Remote Sensing (IIRS) Dehradun, established in 1966 under the Indian Space Research Organisation (ISRO), Department of Space, Government of India, is the premier institute for capacity building in remote sensing, geoinformatics, and GPS technologies for natural resource management and disaster applications.",
     "ranking": 33,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20REMOTE%20SENSING%20DEHRADUN%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹40,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.isro.gov.in/media_isro/image/ISRO_Centres/resized/IIRS_large.jpg.webp",
     "gallery": [
@@ -165396,15 +165396,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hindu_College_Delhi_University.jpg/1200px-Hindu_College_Delhi_University.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Indian Space Research Organisation (ISRO), Department of Space, Government of India / Andhra University",
     "courses": [
       {
-        "title": "REMOTE SENSING AND GIS",
-        "duration": "4 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "title": "M.Tech in Remote Sensing and GIS",
+        "duration": "2 Years",
+        "fees": "₹40,000/Yr",
+        "eligibility": "B.E. / B.Tech / M.Sc in relevant field + GATE / IIRS Entrance",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 60
+        "intake": 30
+      },
+      {
+        "title": "M.Sc in Geoinformatics",
+        "duration": "2 Years",
+        "fees": "₹60,000/Yr",
+        "eligibility": "Bachelor's degree in Science / Engineering with 55%",
+        "type": "SCIENCE",
+        "intake": 20
+      },
+      {
+        "title": "Post Graduate Diploma in Remote Sensing & GIS",
+        "duration": "1 Year",
+        "fees": "₹30,000",
+        "eligibility": "Graduate degree in relevant discipline",
+        "type": "POST GRADUATE DIPLOMA",
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -165421,28 +165437,30 @@
       "Cafeteria"
     ],
     "image": "https://www.isro.gov.in/media_isro/image/ISRO_Centres/resized/IIRS_large.jpg.webp",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20REMOTE%20SENSING%20DEHRADUN%20Uttarakhand"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=INDIAN%20INSTITUTE%20OF%20REMOTE%20SENSING%20DEHRADUN%20Uttarakhand",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.221Z"
   },
   {
     "id": 2118,
-    "name": "GOVERNMENT POLYTECHNIC, HINDOLAKHAL",
-    "shortName": "Course Institute-1",
-    "location": "TEHRI GARHWAL",
+    "name": "Government Polytechnic Hindolakhal, Tehri Garhwal",
+    "shortName": "Govt Polytechnic Hindolakhal",
+    "location": "Tehri Garhwal",
     "state": "Uttarakhand",
-    "address": "HINDOLAKHAL, TEHRI GARHWAL",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Hindolakhal, Kirtinagar, Tehri Garhwal District, Uttarakhand - 249126",
+    "phone": "01378-226010",
+    "website": "http://gphindolakhal.org.in/",
     "rating": 4.5,
     "reviews": 475,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC, HINDOLAKHAL, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Hindolakhal, established under the Directorate of Technical Education, Government of Uttarakhand, is an AICTE-approved public technical polytechnic in Tehri Garhwal providing subsidized 3-year diploma education in mechanical engineering.",
     "ranking": 71,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2C%20HINDOLAKHAL%20TEHRI%20GARHWAL%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://cdn.universitykart.com/Content/upload/admin/kuyqigcg.ku4.jpeg",
     "gallery": [
@@ -165450,15 +165468,15 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IIT_Madras_Heritage_Centre.jpg/1200px-IIT_Madras_Heritage_Centre.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER Roorkee & AICTE",
     "courses": [
       {
-        "title": "MECHANICAL ENGINEERING",
+        "title": "Diploma in Mechanical Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 30
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -165475,28 +165493,30 @@
       "Cafeteria"
     ],
     "image": "https://cdn.universitykart.com/Content/upload/admin/kuyqigcg.ku4.jpeg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2C%20HINDOLAKHAL%20TEHRI%20GARHWAL%20Uttarakhand"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%2C%20HINDOLAKHAL%20TEHRI%20GARHWAL%20Uttarakhand",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.222Z"
   },
   {
     "id": 2119,
-    "name": "GOVERNMENT POLYTECHNIC PIPLI",
-    "shortName": "Course Institute-1",
-    "location": "UTTARKASHI",
+    "name": "Government Polytechnic Pipli, Uttarkashi",
+    "shortName": "Govt Polytechnic Pipli",
+    "location": "Uttarkashi",
     "state": "Uttarakhand",
-    "address": "GOVERNMENT POLYTECHNIC PIPLI PO THATI DHARARI",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Pipli, Dunda, Uttarkashi District, Uttarakhand - 249151",
+    "phone": "01374-222120",
+    "website": "https://gppipli.org.in",
     "rating": 4.5,
     "reviews": 88,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC PIPLI, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Pipli, established by the Directorate of Technical Education, Government of Uttarakhand, is an AICTE-approved public technical polytechnic in Uttarkashi offering subsidized 3-year diploma training in electrical engineering.",
     "ranking": 35,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PIPLI%20UTTARKASHI%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/government-polytechnic-uttarkashi.jpg",
     "gallery": [
@@ -165504,15 +165524,15 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IIT_Delhi_Main_Building.jpg/1200px-IIT_Delhi_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER Roorkee & AICTE",
     "courses": [
       {
-        "title": "ELECTRICAL ENGINEERING",
+        "title": "Diploma in Electrical Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 30
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -165529,28 +165549,30 @@
       "Cafeteria"
     ],
     "image": "https://www.studyplaces.co.in/wp-content/uploads/2021/06/government-polytechnic-uttarkashi.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PIPLI%20UTTARKASHI%20Uttarakhand"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PIPLI%20UTTARKASHI%20Uttarakhand",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.222Z"
   },
   {
     "id": 2120,
-    "name": "GOVERNMENT POLYTECHNIC PEERUMADARA RAMNAGAR( NAINITAL)",
-    "shortName": "Course Institute-1",
-    "location": "NAINITAL",
+    "name": "Government Polytechnic Peerumadara, Ramnagar, Nainital",
+    "shortName": "Govt Polytechnic Peerumadara",
+    "location": "Nainital",
     "state": "Uttarakhand",
-    "address": "VILLEGE DHANPUR GUSAIN PEERUMADARA",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Peerumadara, Ramnagar, Nainital District, Uttarakhand - 244715",
+    "phone": "05947-285010",
+    "website": "https://gppeerumadara.org",
     "rating": 4.5,
     "reviews": 114,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC PEERUMADARA RAMNAGAR( NAINITAL), a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Peerumadara Ramnagar, established in 2014 by the Government of Uttarakhand under the Directorate of Technical Education, is an AICTE-approved state polytechnic near Corbett National Park providing subsidized technical diploma education in electrical engineering.",
     "ranking": 22,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PEERUMADARA%20RAMNAGAR(%20NAINITAL)%20NAINITAL%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/riim_pune.jpeg",
     "gallery": [
@@ -165558,15 +165580,15 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BITS_Pilani_Goa_Campus_Main_Building.jpg/1200px-BITS_Pilani_Goa_Campus_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER Roorkee & AICTE",
     "courses": [
       {
-        "title": "ELECTRICAL ENGINEERING",
+        "title": "Diploma in Electrical Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 30
+        "intake": 60
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -165583,29 +165605,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/riim_pune.jpeg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20PEERUMADARA%20RAMNAGAR(%20NAINITAL)%20NAINITAL%20Uttarakhand",
-    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg"
+    "imageUrl": "/images/campuses/campus_aligarh_muslim_university.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.222Z"
   },
   {
     "id": 2121,
-    "name": "GOVT POLYTECHNIC GAIRSAIN",
-    "shortName": "Course Institute-1",
-    "location": "CHAMOLI",
+    "name": "Government Polytechnic Gairsain, Chamoli",
+    "shortName": "Govt Polytechnic Gairsain",
+    "location": "Chamoli",
     "state": "Uttarakhand",
-    "address": "FURKUNDAY ROAD,GWAR TALAA",
-    "phone": "0123-456789",
-    "website": "https://www.govtpolytechnic.edu.in",
+    "address": "Gairsain (Summer Capital of Uttarakhand), Chamoli District, Uttarakhand - 246428",
+    "phone": "01363-268020",
+    "website": "https://www.gpgairsain.com",
     "rating": 4.5,
     "reviews": 83,
-    "type": "Private",
-    "about": "Welcome to GOVT POLYTECHNIC GAIRSAIN, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Gairsain, located in the summer capital of Uttarakhand, is an AICTE-approved state government polytechnic institute under the Directorate of Technical Education, offering subsidized 3-year diploma education in electrical engineering and civil engineering.",
     "ranking": 87,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVT%20POLYTECHNIC%20GAIRSAIN%20CHAMOLI%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/riim_pune.jpeg",
     "gallery": [
@@ -165613,15 +165637,23 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IIT_Bombay_Main_Building.jpg/1200px-IIT_Bombay_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER Roorkee & AICTE",
     "courses": [
       {
-        "title": "ELECTRICAL ENGINEERING",
+        "title": "Diploma in Electrical Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 30
+        "intake": 40
+      },
+      {
+        "title": "Diploma in Civil Engineering",
+        "duration": "3 Years",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
+        "type": "ENGINEERING AND TECHNOLOGY",
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -165638,29 +165670,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/riim_pune.jpeg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVT%20POLYTECHNIC%20GAIRSAIN%20CHAMOLI%20Uttarakhand",
-    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.222Z"
   },
   {
     "id": 2122,
-    "name": "GOVERNMENT POLYTECHNIC (OKHALLKHAL) PRATAPNAGAR",
-    "shortName": "Course Institute-1",
-    "location": "TEHRI GARHWAL",
+    "name": "Government Polytechnic Okhalkhal, Pratapnagar, Tehri Garhwal",
+    "shortName": "Govt Polytechnic Pratapnagar",
+    "location": "Tehri Garhwal",
     "state": "Uttarakhand",
-    "address": "GOVERNMENT POLYTECHNIC (OKHALAKHAL) PRATAPNAGAR",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Okhalkhal, Pratapnagar, Tehri Garhwal District, Uttarakhand - 249165",
+    "phone": "01376-284010",
+    "website": "https://gppratapnagar.org.in",
     "rating": 4.5,
     "reviews": 352,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC (OKHALLKHAL) PRATAPNAGAR, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Okhalkhal Pratapnagar, established under the Department of Higher & Technical Education, Government of Uttarakhand, is an AICTE-approved state polytechnic delivering subsidized 3-year technical diploma education in Civil Engineering to youth in rural Tehri Garhwal.",
     "ranking": 64,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20(OKHALLKHAL)%20PRATAPNAGAR%20TEHRI%20GARHWAL%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/sheila_raheja_bandra.webp",
     "gallery": [
@@ -165668,13 +165702,13 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IIM_Ahmedabad_Louis_Kahn_Plaza.jpg/1200px-IIM_Ahmedabad_Louis_Kahn_Plaza.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER Roorkee & AICTE",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
         "intake": 60
       }
@@ -165693,29 +165727,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/sheila_raheja_bandra.webp",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20(OKHALLKHAL)%20PRATAPNAGAR%20TEHRI%20GARHWAL%20Uttarakhand",
-    "imageUrl": "/images/campuses/campus_iit_delhi.jpg"
+    "imageUrl": "/images/campuses/campus_iit_delhi.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.222Z"
   },
   {
     "id": 2123,
-    "name": "GOVERNMENT POLYTECHNIC CHAMPAWAT",
-    "shortName": "Course Institute-1",
-    "location": "CHAMPAWAT",
+    "name": "Government Polytechnic Champawat",
+    "shortName": "Govt Polytechnic Champawat",
+    "location": "Champawat",
     "state": "Uttarakhand",
-    "address": "FIRST FLOOR NAGAR PALIKA SHOPPING COMPLEX GORAL CHAUR ROAD CHAMPAWAT",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Chharbar, Champawat, Champawat District, Uttarakhand - 262523",
+    "phone": "05967-227010",
+    "website": "https://gpchampawat.org.in",
     "rating": 4.5,
     "reviews": 504,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC CHAMPAWAT, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Champawat, established in 2014 by the Government of Uttarakhand, is an AICTE-approved public technical institute in eastern Kumaon providing subsidized 3-year diploma training in electrical engineering.",
     "ranking": 89,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20CHAMPAWAT%20CHAMPAWAT%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "https://image-static.collegedunia.com/public/college_data/images/appImage/1601897348CampusviewofGovernmentPolytechnicLohaghatCampusView.jpg?h=240&w=1000&mode=crop",
     "gallery": [
@@ -165723,15 +165759,15 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AIIMS_New_Delhi_Main_Hospital_Building.jpg/1200px-AIIMS_New_Delhi_Main_Hospital_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER Roorkee & AICTE",
     "courses": [
       {
-        "title": "ELECTRICAL ENGINEERING",
+        "title": "Diploma in Electrical Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 30
+        "intake": 60
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -165748,28 +165784,30 @@
       "Cafeteria"
     ],
     "image": "https://image-static.collegedunia.com/public/college_data/images/appImage/1601897348CampusviewofGovernmentPolytechnicLohaghatCampusView.jpg?h=240&w=1000&mode=crop",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20CHAMPAWAT%20CHAMPAWAT%20Uttarakhand"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20CHAMPAWAT%20CHAMPAWAT%20Uttarakhand",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.222Z"
   },
   {
     "id": 2124,
-    "name": "GOVERNMENT POLYTECHNIC BERINAG",
-    "shortName": "Course Institute-1",
-    "location": "PITHORAGARH",
+    "name": "Government Polytechnic Berinag, Pithoragarh",
+    "shortName": "Govt Polytechnic Berinag",
+    "location": "Pithoragarh",
     "state": "Uttarakhand",
-    "address": "DEVI NAGAR VILLAGE - GAROUN POST OFFICE - BERINAG DISTRICT - PITHORAGARH, UTTRAKHAND 262531",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Berinag, Pithoragarh District, Uttarakhand - 262531",
+    "phone": "05964-244015",
+    "website": "https://gpberinag.in",
     "rating": 4.5,
     "reviews": 114,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC BERINAG, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Berinag, established by the Directorate of Technical Education, Government of Uttarakhand, is an AICTE-approved public polytechnic situated in the scenic hills of Berinag, offering subsidized 3-year diploma education in Civil and Environmental Engineering.",
     "ranking": 88,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20BERINAG%20PITHORAGARH%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_1.jpg",
     "gallery": [
@@ -165777,15 +165815,15 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Xaviers_College_Kolkata_Campus.jpg/1200px-St_Xaviers_College_Kolkata_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER Roorkee & AICTE",
     "courses": [
       {
-        "title": "CIVIL AND ENVIRONMENTAL ENGINEERING",
+        "title": "Diploma in Civil and Environmental Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 30
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -165802,28 +165840,30 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_1.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20BERINAG%20PITHORAGARH%20Uttarakhand"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20BERINAG%20PITHORAGARH%20Uttarakhand",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.223Z"
   },
   {
     "id": 2125,
-    "name": "GOVERNMENT POLYTECHNIC KANDIKHAL TEHRI GARHWAL",
-    "shortName": "Course Institute-1",
-    "location": "TEHRI GARHWAL",
+    "name": "Government Polytechnic Kandikhal, Tehri Garhwal",
+    "shortName": "Govt Polytechnic Kandikhal",
+    "location": "Tehri Garhwal",
     "state": "Uttarakhand",
-    "address": "GOVERNMENT POLYTECHNIC KANDIKHAL TEHRI GARHWAL 249131",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Kandikhal, Tehri Garhwal District, Uttarakhand - 249131",
+    "phone": "01377-225010",
+    "website": "https://gpkandikhal.org",
     "rating": 4.5,
     "reviews": 417,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC KANDIKHAL TEHRI GARHWAL, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Kandikhal, established by the Government of Uttarakhand under the Directorate of Technical Education, is an AICTE-approved public technical polytechnic offering subsidized 3-year diploma training in civil engineering.",
     "ranking": 30,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20KANDIKHAL%20TEHRI%20GARHWAL%20TEHRI%20GARHWAL%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/campus_architecture_4.jpg",
     "gallery": [
@@ -165831,15 +165871,15 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Loyola_College_Chennai_Main_Building.jpg/1200px-Loyola_College_Chennai_Main_Building.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER Roorkee & AICTE",
     "courses": [
       {
-        "title": "CIVIL ENGINEERING",
+        "title": "Diploma in Civil Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 30
+        "intake": 60
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -165856,29 +165896,31 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/campus_architecture_4.jpg",
-    "ownership": "Private",
+    "ownership": "Public/Government",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20KANDIKHAL%20TEHRI%20GARHWAL%20TEHRI%20GARHWAL%20Uttarakhand",
-    "imageUrl": "/images/campuses/campus_bits_pilani.jpg"
+    "imageUrl": "/images/campuses/campus_bits_pilani.jpg",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.223Z"
   },
   {
     "id": 2126,
-    "name": "GOVERNMENT POLYTECHNIC BARAM",
-    "shortName": "Course Institute-1",
-    "location": "PITHORAGARH",
+    "name": "Government Polytechnic Baram, Pithoragarh",
+    "shortName": "Govt Polytechnic Baram",
+    "location": "Pithoragarh",
     "state": "Uttarakhand",
-    "address": "GOVERNMENT POLYTECHNIC BARAM",
-    "phone": "0123-456789",
-    "website": "https://www.governmentpolyt.edu.in",
+    "address": "Baram, Didihat, Pithoragarh District, Uttarakhand - 262551",
+    "phone": "05964-266010",
+    "website": "https://gpbaram.org.in",
     "rating": 4.5,
     "reviews": 133,
-    "type": "Private",
-    "about": "Welcome to GOVERNMENT POLYTECHNIC BARAM, a premier institute. We offer world-class education and facilities for our students. Our campus is equipped with modern infrastructure and highly experienced faculty.",
+    "type": "Public/Government",
+    "about": "Government Polytechnic Baram, located in the remote Himalayan border region of Didihat in Pithoragarh, is an AICTE-approved state government technical institute offering subsidized 3-year diploma education in electrical engineering.",
     "ranking": 23,
     "facebook": "#",
     "instagram": "#",
     "linkedin": "#",
     "map_url": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20BARAM%20PITHORAGARH%20Uttarakhand",
-    "fees": "₹2.5 Lakhs",
+    "fees": "₹8,000/Yr",
     "exams": "State CET, JEE / CAT / NEET",
     "img": "/images/campuses/ramaiah_bangalore.jpg",
     "gallery": [
@@ -165886,15 +165928,15 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Christ_University_Bangalore_Central_Campus.jpg/1200px-Christ_University_Bangalore_Central_Campus.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fergusson_College_Main_Building_Pune.jpg/1200px-Fergusson_College_Main_Building_Pune.jpg"
     ],
-    "affiliation": "",
+    "affiliation": "Directorate of Technical Education, Uttarakhand / UBTER Roorkee & AICTE",
     "courses": [
       {
-        "title": "ELECTRICAL ENGINEERING",
+        "title": "Diploma in Electrical Engineering",
         "duration": "3 Years",
-        "fees": "₹2.5 Lakhs",
-        "eligibility": "10+2 / Graduation",
+        "fees": "₹8,000/Yr",
+        "eligibility": "Class 10th with Science & Mathematics + JEEP",
         "type": "ENGINEERING AND TECHNOLOGY",
-        "intake": 30
+        "intake": 40
       }
     ],
     "highestPackage": "₹12 LPA",
@@ -165911,8 +165953,10 @@
       "Cafeteria"
     ],
     "image": "/images/campuses/ramaiah_bangalore.jpg",
-    "ownership": "Private",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20BARAM%20PITHORAGARH%20Uttarakhand"
+    "ownership": "Public/Government",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GOVERNMENT%20POLYTECHNIC%20BARAM%20PITHORAGARH%20Uttarakhand",
+    "verified": true,
+    "verifiedAt": "2026-11-03T00:30:23.223Z"
   },
   {
     "id": 2127,

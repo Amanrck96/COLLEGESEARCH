@@ -3191,3 +3191,19 @@
 | 2118 | Gaura Devi Government Polytechnic Joshimath, Chamoli | Chamoli | Uttarakhand | Public/Government | [Portal](https://gpjoshimath.in) |
 | 2119 | Government Polytechnic Bazpur, Udham Singh Nagar | Udham Singh Nagar | Uttarakhand | Public/Government | [Portal](https://www.gpbazpur.in) |
 | 2120 | State Institute of Hotel Management Catering Technology & Applied Nutrition (SIHM), New Tehri | Tehri Garhwal | Uttarakhand | Public/Government (Autonomous Central/State Govt. Society) | [Portal](https://ihmtehri.org) |
+
+
+### Batch 213 (Colleges 2,121–2,130)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2121 | Indian Institute of Remote Sensing (IIRS), ISRO, Dehradun | Dehradun | Uttarakhand | Public/Government (Constituent Unit of ISRO, Dept of Space, Govt of India) | [Portal](https://www.iirs.gov.in) |
+| 2122 | Government Polytechnic Hindolakhal, Tehri Garhwal | Tehri Garhwal | Uttarakhand | Public/Government | [Portal](http://gphindolakhal.org.in/) |
+| 2123 | Government Polytechnic Pipli, Uttarkashi | Uttarkashi | Uttarakhand | Public/Government | [Portal](https://gppipli.org.in) |
+| 2124 | Government Polytechnic Peerumadara, Ramnagar, Nainital | Nainital | Uttarakhand | Public/Government | [Portal](https://gppeerumadara.org) |
+| 2125 | Government Polytechnic Gairsain, Chamoli | Chamoli | Uttarakhand | Public/Government | [Portal](https://www.gpgairsain.com) |
+| 2126 | Government Polytechnic Okhalkhal, Pratapnagar, Tehri Garhwal | Tehri Garhwal | Uttarakhand | Public/Government | [Portal](https://gppratapnagar.org.in) |
+| 2127 | Government Polytechnic Champawat | Champawat | Uttarakhand | Public/Government | [Portal](https://gpchampawat.org.in) |
+| 2128 | Government Polytechnic Berinag, Pithoragarh | Pithoragarh | Uttarakhand | Public/Government | [Portal](https://gpberinag.in) |
+| 2129 | Government Polytechnic Kandikhal, Tehri Garhwal | Tehri Garhwal | Uttarakhand | Public/Government | [Portal](https://gpkandikhal.org) |
+| 2130 | Government Polytechnic Baram, Pithoragarh | Pithoragarh | Uttarakhand | Public/Government | [Portal](https://gpbaram.org.in) |
