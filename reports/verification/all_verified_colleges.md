@@ -3223,3 +3223,19 @@
 | 2138 | Bishamber Sahai Institute of Technology (BSIT) | Roorkee | Uttarakhand | Private | [Portal](http://bsitroorkee.org) |
 | 2139 | Government Polytechnic, Pabau | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
 | 2140 | Government Polytechnic, Jakholi | Rudraprayag | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+
+
+### Batch 215 (Colleges 2,141–2,150)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2141 | Government Polytechnic, Ranipokhari | Dehradun | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2142 | Government Polytechnic, Bans | Pithoragarh | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2143 | Graphic Era (Deemed to be University), Dehradun | Dehradun | Uttarakhand | Private | [Portal](https://www.geu.ac.in) |
+| 2144 | Government Girls Polytechnic, Almora | Almora | Uttarakhand | Public/Government | [Portal](https://ggpalmora.org.in) |
+| 2145 | Government Polytechnic, Didihat | Pithoragarh | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2146 | Rudrapur Institute of Technology (RIT) | Udham Singh Nagar | Uttarakhand | Private | [Portal](http://ritrudrapur.com) |
+| 2147 | Six Sigma Institute of Technology & Science, Rudrapur | Udham Singh Nagar | Uttarakhand | Private | [Portal](https://sixsigmainstitute.com) |
+| 2148 | Uttarakhand Institute of Technical & Professional Education | Nainital | Uttarakhand | Private | [Portal](http://uitpe.org) |
+| 2149 | Government Polytechnic, Kaladhungi | Nainital | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2150 | Government Polytechnic, SIDCUL Haridwar | Haridwar | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |

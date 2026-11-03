@@ -1870,7 +1870,17 @@
     2133,
     2134,
     2135,
-    2136
+    2136,
+    2137,
+    2138,
+    2139,
+    2140,
+    2141,
+    2142,
+    2143,
+    2144,
+    2145,
+    2146
   ],
   "verified_count": 620,
   "total_verified": 1590,
@@ -2647,6 +2657,24 @@
         2136
       ],
       "verifiedAt": "2026-11-03T00:36:24.917Z"
+    },
+    "215": {
+      "status": "verified",
+      "verifiedCount": 10,
+      "range": "2141-2150",
+      "ids": [
+        2137,
+        2138,
+        2139,
+        2140,
+        2141,
+        2142,
+        2143,
+        2144,
+        2145,
+        2146
+      ],
+      "verifiedAt": "2026-11-03T00:40:55.739Z"
     }
   },
   "all_verified_ids": [
@@ -2661,11 +2689,11 @@
     1105,
     1106
   ],
-  "last_batch_completed": 214,
-  "verifiedColleges": 2140,
-  "lastUpdated": "2026-11-03T00:36:24.917Z",
-  "batchesCompleted": 214,
-  "currentBatch": 214,
+  "last_batch_completed": 215,
+  "verifiedColleges": 2150,
+  "lastUpdated": "2026-11-03T00:40:55.739Z",
+  "batchesCompleted": 215,
+  "currentBatch": 215,
   "batchHistory": [
     {
       "batch": 160,
@@ -3422,7 +3450,25 @@
         2135,
         2136
       ]
+    },
+    {
+      "batch": 215,
+      "verifiedCount": 10,
+      "totalVerified": 2150,
+      "timestamp": "2026-11-03T00:40:55.739Z",
+      "collegeIds": [
+        2137,
+        2138,
+        2139,
+        2140,
+        2141,
+        2142,
+        2143,
+        2144,
+        2145,
+        2146
+      ]
     }
   ],
-  "completionPercentage": "21.40%"
+  "completionPercentage": "21.50%"
 }
