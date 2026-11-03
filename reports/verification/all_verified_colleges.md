@@ -3271,3 +3271,19 @@
 | 2168 | Bishamber Sahai Diploma Engineering College, Roorkee | Haridwar | Uttarakhand | Private | [Portal](https://www.bsgrouproorkee.com) |
 | 2169 | Government Rural Polytechnic, Thalnadi | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
 | 2170 | Balwant Singh Mukhiya (BSM) College of Engineering | Haridwar | Uttarakhand | Private | [Portal](http://bsmcoe.com) |
+
+
+### Batch 218 (Colleges 2,171–2,180)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2171 | Government Polytechnic, Gopeshwar | Chamoli | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2172 | Government Polytechnic, Satpuli | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2173 | Institute of Technology, Gopeshwar (IT Gopeshwar) | Chamoli | Uttarakhand | Public/Government (Constituent College of UTU) | [Portal](https://www.itgopeshwar.ac.in) |
+| 2174 | Government Polytechnic, Lohaghat | Champawat | Uttarakhand | Public/Government | [Portal](https://gplohaghat.org.in) |
+| 2175 | Government Polytechnic, Ganai Gangoli | Pithoragarh | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2176 | Balwant Singh Mukhiya (BSM) College of Polytechnic | Haridwar | Uttarakhand | Private | [Portal](http://bsmpolytechnic.com) |
+| 2177 | Government Polytechnic, Shaktifarm | Udham Singh Nagar | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2178 | Bishamber Sahai Management Institute (BSMI), Roorkee | Roorkee | Uttarakhand | Private | [Portal](https://www.bsgrouproorkee.com) |
+| 2179 | Dev Bhoomi Institute of Polytechnic, Dehradun | Dehradun | Uttarakhand | Private | [Portal](https://www.dbuu.ac.in) |
+| 2180 | College of Advanced Technology, Roorkee | Haridwar | Uttarakhand | Private | [Portal](http://catroorkee.org) |
