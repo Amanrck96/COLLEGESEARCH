@@ -3367,3 +3367,8003 @@
 | 2248 | HM School of Business Management (HMSBM), Khordha | Khordha | Odisha | Private | [Portal](http://hmsbm.org) |
 | 2249 | Bhubaneswar Institute of Management Studies (BIMS) | Khordha | Odisha | Private | [Portal](https://bimsbbsr.in) |
 | 2250 | Gayatri Institute of Science and Technology (GIST), Berhampur | Ganjam | Odisha | Private | [Portal](https://www.gistmba.in) |
+
+
+### Batch 226 (Colleges 2251–2260)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2251 | Maulana Azad National Urdu University Polytechnic Cuttack | CUTTACK | Odisha | Private | [Portal](https://manuu.edu.in) |
+| 2252 | Templecity Institute of Technology and Engineering | KHORDHA | Odisha | Private | [Portal](http://tiotae.org) |
+| 2253 | Jayadeva Business School | Bhubaneswar | Odisha | Private | [Portal](https://jbsodisha.org) |
+| 2254 | Gayatri Institute of Management | Bhubaneswar | Odisha | Private | [Portal](http://www.gimmba.in) |
+| 2255 | Institute of Chemical Technology Mumbai IOC Odisha Off Campus | KHORDHA | Odisha | Private | [Portal](http://instituteofchemical.org) |
+| 2256 | Ganesh Institute of Management Studies | Bhubaneswar | Odisha | Private | [Portal](https://gims.in.net) |
+| 2257 | Vijayanjali School of Engineering | BALASORE | Odisha | Private | [Portal](http://vsoe.org) |
+| 2258 | Oxford College of Management | Bhubaneswar | Odisha | Private | [Portal](http://www.oxfordbbsr.com) |
+| 2259 | Govt Polytechnic, Deogarh | DEBAGARH (DEOGARH) | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+| 2260 | Radhakrishna Institute of Technology and Engineering (RITE) | Bhubaneswar | Odisha | Private | [Portal](https://www.riteindia.edu.in) |
+
+
+### Batch 227 (Colleges 2261–2270)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2261 | Government Polytechnic, Jagatsinghpur | JAGATSINGHPUR | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+| 2262 | Iipm School of Engineering & Technology | SUNDERGARH | Odisha | Private | [Portal](http://isoet.org) |
+| 2263 | Cambridge School of Management | BALASORE | Odisha | Private | [Portal](http://csom.org) |
+| 2264 | Sri Institute of Management | NAYAGARH | Odisha | Private | [Portal](http://siom.org) |
+| 2265 | Utkal Institute of Technology and Management | Bhubaneswar | Odisha | Private | [Portal](https://uitm.co.in) |
+| 2266 | Ashaa Kirann Business School | Bhubaneswar | Odisha | Private | [Portal](https://ashaakiranngroup.com) |
+| 2267 | Govt.polytechnic Angul | ANGUL | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+| 2268 | Indus School of Engineering | KHORDHA | Odisha | Private | [Portal](http://isoe.org) |
+| 2269 | Government Polytechnic, Boudh | BOUDH (BAUDA) | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+| 2270 | Government Polytechnic, Koraput | KORAPUT | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+
+
+### Batch 228 (Colleges 2271–2280)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2271 | Oxford School of Polytechnic (Diploma) | KHORDHA | Odisha | Private | [Portal](http://osopd.org) |
+| 2272 | Government College of Engineering. Keonjhar | KENDUJHAR (KEONJHAR) | Odisha | Public/Government | [Portal](https://gcoek.gov.in) |
+| 2273 | Purushottam School of Engineering and Technology | SUNDERGARH | Odisha | Private | [Portal](http://psoeat.org) |
+| 2274 | Bharatinstituteofengineeringandtechnology(Polytechnic) | GANJAM | Odisha | Private | [Portal](http://bharatinstituteofengineeringandtechnologypolytechnic.org) |
+| 2275 | Government Polytechnic Sambalpur | SAMBALPUR | Odisha | Public/Government | [Portal](https://www.lpu.in) |
+| 2276 | Zenith Institute of Science & Technology | KHORDHA | Odisha | Private | [Portal](http://ziost.org) |
+| 2277 | Synergy Institute of Engineering & Technology | DHENKANAL | Odisha | Private | [Portal](https://synergyinstitute.net) |
+| 2278 | BIT Polytechnic | BALASORE | Odisha | Private | [Portal](http://bitpolytechnic.org) |
+| 2279 | Driems Polytechnic | CUTTACK | Odisha | Private | [Portal](http://driemspolytechnic.org) |
+| 2280 | Divine Institute of Engineering & Technology (Polytechnic) | MAYURBHANJ | Odisha | Private | [Portal](http://dioetp.org) |
+
+
+### Batch 229 (Colleges 2281–2290)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2281 | Odisha Polytechnic | BALASORE | Odisha | Private | [Portal](http://odishapolytechnic.org) |
+| 2282 | International Management Institute (Imi), Bhubaneswar | Bhubaneswar | Odisha | Private | [Portal](https://www.imibh.edu.in) |
+| 2283 | Ideal School of Engineering | KHORDHA | Odisha | Private | [Portal](http://isoe.org) |
+| 2284 | Mahalaxmi Institute of Technology & Engineering | BALASORE | Odisha | Private | [Portal](http://miote.org) |
+| 2285 | Venus Group of Educational & Research Institute | BALASORE | Odisha | Private | [Portal](http://vgoeri.org) |
+| 2286 | Oxford College of Engineering and Management | KHORDHA | Odisha | Private | [Portal](http://ocoeam.org) |
+| 2287 | Nayagarh Institute of Engineering & Technology (Polytechnic) | NAYAGARH | Odisha | Private | [Portal](http://nioetp.org) |
+| 2288 | Raja Kishore Chandra Academy of Technology(Polytechnic) | BALASORE | Odisha | Private | [Portal](http://rkcaot.org) |
+| 2289 | Gurukula Engineering School | KHORDHA | Odisha | Private | [Portal](http://ges.org) |
+| 2290 | Government Polytechnic Nayagarh | NAYAGARH | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+
+
+### Batch 230 (Colleges 2291–2300)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2291 | Jeypore School of Engineering and Technology (Jset) | KORAPUT | Odisha | Private | [Portal](http://jeyporeschoolof.org) |
+| 2292 | Biju Pattanaik Film & Television Institute of Orissa | CUTTACK | Odisha | Private | [Portal](http://bijupattanaikfilm.org) |
+| 2293 | Government Polytechnic, Bolangir | BALANGIR | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+| 2294 | Biju Patnaik Institute of Technology | KANDHAMAL | Odisha | Private | [Portal](http://bpiot.org) |
+| 2295 | Orissa School of Mining Engineering | KENDUJHAR (KEONJHAR) | Odisha | Private | [Portal](http://osome.org) |
+| 2296 | Sri Sri University - Faculty of Management Studies | Cuttack | Odisha | Private | [Portal](https://srisriuniversity.edu.in) |
+| 2297 | Government Polytechnic, Bhubhaneswar | KHORDHA | Odisha | Public/Government | [Portal](https://www.bhu.ac.in) |
+| 2298 | Sushree Institute of Technical Education (Site) | BALANGIR | Odisha | Private | [Portal](https://sitecollege.org) |
+| 2299 | Ganapati Institute of Engineering & Technology (Polytechnic) | CUTTACK | Odisha | Private | [Portal](http://gioetp.org) |
+| 2300 | Kmbb College of Engineering and Technology | KHORDHA | Odisha | Private | [Portal](http://kcoeat.org) |
+
+
+### Batch 231 (Colleges 2301–2310)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2301 | Government Polytechnic, Malkanagiri | MALKANGIRI | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+| 2302 | NM Institute of Engineering & Technology | KHORDHA | Odisha | Private | [Portal](http://nioet.org) |
+| 2303 | Government Polytechnic, Mayurbhanj | MAYURBHANJ | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+| 2304 | Bajirout Institute of Engineering and Technology (Polytechnic) | DHENKANAL | Odisha | Private | [Portal](http://bajiroutinstituteof.org) |
+| 2305 | Nilachala Polytechnic College of Engineering | KHORDHA | Odisha | Private | [Portal](http://npcoe.org) |
+| 2306 | Berhampur School of Engineering & Technology | GANJAM | Odisha | Private | [Portal](http://bsoet.org) |
+| 2307 | Black Diamond School of Engineering | JHARSUGUDA | Odisha | Private | [Portal](http://bdsoe.org) |
+| 2308 | Aum Sai Institute of Technical Education | GANJAM | Odisha | Private | [Portal](http://asiote.org) |
+| 2309 | Nilasaila Institute of Science & Technology | BALASORE | Odisha | Private | [Portal](http://niost.org) |
+| 2310 | Balaji Institute of Technology & Science (Polytechnic) | RAYAGADA | Odisha | Private | [Portal](http://biotsp.org) |
+
+
+### Batch 232 (Colleges 2311–2320)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2311 | Jharsuguda Engineering School | JHARSUGUDA | Odisha | Private | [Portal](http://jes.org) |
+| 2312 | Balasore College of Engineering and Technology | BALASORE | Odisha | Private | [Portal](http://bcoeat.org) |
+| 2313 | Skdav Government Polytechnic | SUNDERGARH | Odisha | Public/Government | [Portal](https://dtetodisha.gov.in) |
+| 2314 | HI-Tech Institute of Information & Technology | KORAPUT | Odisha | Private | [Portal](http://hioit.org) |
+| 2315 | Dhabaleswar Institute of Polytechnic | CUTTACK | Odisha | Private | [Portal](http://diop.org) |
+| 2316 | Pathani Samanta Institute of Engineering & Technology | ANGUL | Odisha | Private | [Portal](http://psioet.org) |
+| 2317 | Sri Vivekananda Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 2318 | Mvr Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://mdc.org) |
+| 2319 | KL University Guntur KL (Deemed to BE University) | Andhra | Andhra Pradesh | Private (Deemed to be University) | [Portal](http://kluniversityguntur.org) |
+| 2320 | Godavari Global University, Rajahmundry | Andhra | Andhra Pradesh | Private | [Portal](https://ggu.edu.in/) |
+
+
+### Batch 233 (Colleges 2321–2330)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2321 | KL University Guntur ,Guntur | Andhra | Andhra Pradesh | Private | [Portal](http://kugg.org) |
+| 2322 | Andhra University College of Engineering , Andhra University, Visakhapatnam | Andhra | Andhra Pradesh | Private | [Portal](http://andhrauniversitycollege.org) |
+| 2323 | University College of Engineering, Adikavi Nannaya University, Rajahmundry | Andhra | Andhra Pradesh | Private | [Portal](https://www.aknu.edu.in) |
+| 2324 | Siddhartha Academy of Higher Education, Deemed to BE University (Formerly VR Siddhartha Engineering College), Vijayawada | Andhra | Andhra Pradesh | Private (Deemed to be University) | [Portal](https://siddhartha.edu.in/) |
+| 2325 | Sri Venkateswara College of Engineering, Kadapa | Andhra | Andhra Pradesh | Private | [Portal](http://svck.edu.in) |
+| 2326 | KL University Guntur | Andhra | Andhra Pradesh | Private | [Portal](http://kug.org) |
+| 2327 | Vishnu Institute of Technology (Vit Bhimavaram) | Andhra | Andhra Pradesh | Private | [Portal](http://vishnu.edu.in/) |
+| 2328 | Adikavi Nannaya University | Andhra | Andhra Pradesh | Private | [Portal](http://anu.org) |
+| 2329 | Andhra University, Visakhapatnam | Andhra | Andhra Pradesh | Private | [Portal](http://auv.org) |
+| 2330 | Jawaharlal Nehru Technological University, Kakinada | Andhra | Andhra Pradesh | Private | [Portal](http://www.jntuk.edu.in/) |
+
+
+### Batch 234 (Colleges 2331–2340)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2331 | Acharya Nagarjuna University, Guntur | Andhra | Andhra Pradesh | Private | [Portal](https://www.nagarjunauniversity.ac.in/indexanu.html) |
+| 2332 | Gitam School of Business Visakhapatnam | Andhra | Andhra Pradesh | Private | [Portal](http://gsobv.org) |
+| 2333 | Vignan's Foundation for Science, Technology and Research, Guntur | Andhra | Andhra Pradesh | Private | [Portal](https://vignan.ac.in/) |
+| 2334 | KL Business School | Andhra | Andhra Pradesh | Private | [Portal](http://kbs.org) |
+| 2335 | Ifmr Graduate School of Business, Krea University (Ifmr Gsb), Sricity, Andhra Pradesh | Andhra | Andhra Pradesh | Private | [Portal](https://krea.edu.in/ifmrgsb/) |
+| 2336 | SK University | Andhra | Andhra Pradesh | Private | [Portal](http://skuniversity.org) |
+| 2337 | Amity University, Bengaluru, Bangalore | Karnataka | Karnataka | Private | [Portal](https://www.amity.edu) |
+| 2338 | East Point Group of Institutions, Bangalore | Karnataka | Karnataka | Private | [Portal](https://www.eastpoint.ac.in) |
+| 2339 | University of Mysore India | Karnataka | Karnataka | Private | [Portal](http://uomi.org) |
+| 2340 | Visvesvaraya Technological University, Belgaum | Karnataka | Karnataka | Private | [Portal](https://vtu.ac.in/en/) |
+
+
+### Batch 235 (Colleges 2341–2350)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2341 | Indian Institute of Materials Management, (Iimm, Bangalore) | Karnataka | Karnataka | Public/Government | [Portal](https://www.iimmbangalore.org) |
+| 2342 | Jain Deemed-to-BE University, Bangalore | Karnataka | Karnataka | Private (Deemed to be University) | [Portal](https://scsit.jainuniversity.ac.in/) |
+| 2343 | Symbiosis Centre for Distance Learning, Bangalore | Karnataka | Karnataka | Private | [Portal](http://www.scdl.net/) |
+| 2344 | Indian School of Business Management and Administration, Bangalore | Karnataka | Karnataka | Private | [Portal](https://isbm.org.in/) |
+| 2345 | MIT School of Distance Education, Gandhi Nagar, Bangalore | Karnataka | Karnataka | Private | [Portal](http://www.mitsde.com) |
+| 2346 | Government Polytechnic Chodavaram | VISAKHAPATNAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2347 | Government Polytechnic, Parvathipuram. | VIZIANAGARAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2348 | Tellakula Jalayya Polisetty Somasundaram (Tjps) College | Guntur | Andhra Pradesh | Private | [Portal](https://tjpscollege.ac.in) |
+| 2349 | Yalamarty Institute of Computer Sciences | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://yiocs.org) |
+| 2350 | Sri Gowthami Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://sgdc.org) |
+
+
+### Batch 236 (Colleges 2351–2360)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2351 | Bangalore University | BANGALORE URBAN | Karnataka | Private | [Portal](http://bangaloreuniversity.org) |
+| 2352 | Government Polytecnic | MANDYA | Karnataka | Public/Government | [Portal](https://governmentpolytecnic.gov.in) |
+| 2353 | Cmr Institute of Technology | BANGALORE URBAN | Karnataka | Private | [Portal](http://ciot.org) |
+| 2354 | Rjs Institute of Management Studies | BANGALORE URBAN | Karnataka | Private | [Portal](http://rioms.org) |
+| 2355 | Government College for Women | CHIKABALLAPUR | Karnataka | Public/Government | [Portal](https://gcfw.gov.in) |
+| 2356 | Vijaya College | DAKSHINA KANNADA | Karnataka | Private | [Portal](http://vijayacollege.org) |
+| 2357 | Vogue Business School | BANGALORE RURAL | Karnataka | Private | [Portal](http://vbs.org) |
+| 2358 | Sri Chaitanya Degree College | BELLARY | Karnataka | Private | [Portal](http://scdc.org) |
+| 2359 | Vijaya Jyothi Degree College | BANGALORE URBAN | Karnataka | Private | [Portal](http://vjdc.org) |
+| 2360 | OM Sai Degree College | BANGALORE URBAN | Karnataka | Private | [Portal](http://osdc.org) |
+
+
+### Batch 237 (Colleges 2361–2370)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2361 | Diamond College of Management and Science | BANGALORE URBAN | Karnataka | Private | [Portal](https://diamondcollege.in) |
+| 2362 | Government Arts College, Paramakudi | Paramakudi | Tamil Nadu | Public/Government | [Portal](https://gacpmk.in) |
+| 2363 | Narayana Institute of Management | Anantapur | Andhra Pradesh | Private | [Portal](http://www.narayana24.com) |
+| 2364 | Yogi Vemana University | Kadapa | Andhra Pradesh | Private | [Portal](https://yvu.edu.in) |
+| 2365 | Amrita Vishwa Vidyapeetham Amaravati Campus | GUNTUR | Andhra Pradesh | Private | [Portal](http://avvac.org) |
+| 2366 | Government Polytechnic Bethamcherla | KURNOOL | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2367 | Hindu College of Management | Guntur | Andhra Pradesh | Private | [Portal](https://www.hcmgt.co.in) |
+| 2368 | Behara Polytechnic | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://beharapolytechnic.org) |
+| 2369 | S.s.k Institute of Business Management | Kadapa | Andhra Pradesh | Private | [Portal](https://sskinstitute.org) |
+| 2370 | Vignanasudha Institute of Management and Technology (Vimat) | Chittoor | Andhra Pradesh | Private | [Portal](http://www.vignanasudhamba.com) |
+
+
+### Batch 238 (Colleges 2371–2380)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2371 | Srinivasa Polytechinc College | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://spc.org) |
+| 2372 | Maulana Azad National Urdu University Polytechnic Kadapa | YSR DISTRICT | Andhra Pradesh | Private | [Portal](https://manuu.edu.in) |
+| 2373 | Vijayam Business School | CHITTOOR | Andhra Pradesh | Private | [Portal](http://vbs.org) |
+| 2374 | Rayalaseema University College of Engineering | KURNOOL | Andhra Pradesh | Private | [Portal](http://rucoe.org) |
+| 2375 | Sanskrithi School of Business | Puttaparthi | Andhra Pradesh | Private | [Portal](https://sanskrithibschool.com) |
+| 2376 | Newton's Institute of Science & Technology | GUNTUR | Andhra Pradesh | Private | [Portal](https://newtonsinstitute.edu.in) |
+| 2377 | Shree Vivekananda Institute of Science | Anantapur | Andhra Pradesh | Private | [Portal](https://svisgooty.org) |
+| 2378 | DR Lankapalli Bullayya College of Engineering | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://dlbcoe.org) |
+| 2379 | Centre for Management & Technology (Cmt) | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://cfmtc.org) |
+| 2380 | Dnr College of Engineering & Technology | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://dcoet.org) |
+
+
+### Batch 239 (Colleges 2381–2390)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2381 | Rajiv Gandhi University of Knowledge Technologies DR A P J Abdul Kalam IIIT Ongole | YSR DISTRICT | Andhra Pradesh | Public/Government | [Portal](https://rajivgandhiuniversity.gov.in) |
+| 2382 | Tadipatri Engineering College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://tec.org) |
+| 2383 | Central Institute of Petrochemicals Engineering and Technology Vijayawada | KRISHNA | Andhra Pradesh | Private | [Portal](https://www.cipet.gov.in) |
+| 2384 | Kallam Haranadhareddy Institute of Technology (Khit) | Guntur | Andhra Pradesh | Private | [Portal](https://khitguntur.ac.in) |
+| 2385 | Sapthagiri Institute of Management | Hindupur | Andhra Pradesh | Private | [Portal](https://simmba.in) |
+| 2386 | Bheemi Reddy Institute of Management Science (BIMS) | Adoni | Andhra Pradesh | Private | [Portal](http://www.bimsadoni.com) |
+| 2387 | Visakha Institute of Management Science (Vims) | Visakhapatnam | Andhra Pradesh | Private | [Portal](http://www.vimsvizag.com) |
+| 2388 | Gokul Group of Institutions | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://ggoi.org) |
+| 2389 | Andhra Engineering College | NELLORE | Andhra Pradesh | Private | [Portal](https://andhraec.edu.in) |
+| 2390 | Global Institute of Business Management | Markapur | Andhra Pradesh | Private | [Portal](https://gibmmarkapur.org) |
+
+
+### Batch 240 (Colleges 2391–2400)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2391 | Srinivasa Institute of Management | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://siom.org) |
+| 2392 | Nadimpalli Satyanarayana Raju Institute of Technology (Nsrit) | Visakhapatnam | Andhra Pradesh | Private | [Portal](https://www.nsrit.edu.in) |
+| 2393 | Andhra University College of Engineering for Women | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://andhrauniversitycollege.org) |
+| 2394 | Krishna University (Kru) | Machilipatnam | Andhra Pradesh | Private | [Portal](https://kru.ac.in) |
+| 2395 | Koneru Lakshmaiah Education Foundation | GUNTUR | Andhra Pradesh | Private | [Portal](http://klef.org) |
+| 2396 | Gandhi Institute of Technology and Management Gitam Visakhapatnam | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://gandhiinstituteof.org) |
+| 2397 | Benaiah Institute of Technology & Sciences | EAST GODAVARI | Andhra Pradesh | Private | [Portal](https://benaiah.edu.in) |
+| 2398 | Sai Ranga Polytechnic | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://srp.org) |
+| 2399 | Sumourya Institute of Management | Kurnool | Andhra Pradesh | Private | [Portal](http://sumourya.org.in) |
+| 2400 | JNTUA College of Engineering Kalikiri | CHITTOOR | Andhra Pradesh | Private | [Portal](http://jcoek.org) |
+
+
+### Batch 241 (Colleges 2401–2410)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2401 | Satya Institute of Technology and Management (Sitam) | Vizianagaram | Andhra Pradesh | Private | [Portal](https://sitam.co.in) |
+| 2402 | Government Polytechnic Pendurthi | VISHAKHAPATNAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2403 | Sree Vyshnavi M.b.a.college | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://svm.org) |
+| 2404 | School of Management Studies JNTUK Kakinada | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://somsjk.org) |
+| 2405 | University College of Engineering Narasaraopet | GUNTUR | Andhra Pradesh | Private | [Portal](http://ucoen.org) |
+| 2406 | Vikas Group of Institutions | KRISHNA | Andhra Pradesh | Private | [Portal](http://vgoi.org) |
+| 2407 | St. Mary's Group of Institutions Guntur for Women | GUNTUR | Andhra Pradesh | Private | [Portal](http://stmarysgroup.org) |
+| 2408 | Sri Padmavathi Womens Polytechnic | CHITTOOR | Andhra Pradesh | Private | [Portal](http://spwp.org) |
+| 2409 | Spatial Information Technology,Ist,JNTUK | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://sit.org) |
+| 2410 | Maharaja Ananda Gajapathi Raju Government Polytechnic | VIZIANAGARAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+
+
+### Batch 242 (Colleges 2411–2420)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2411 | D.l.r. College PG Courses | Gollalamamidada | Andhra Pradesh | Private | [Portal](http://www.dlrcollege.org) |
+| 2412 | Vasavi Polytechnic | KURNOOL | Andhra Pradesh | Private | [Portal](http://vasavipolytechnic.org) |
+| 2413 | Vijaya Institute of Technology for Women | KRISHNA | Andhra Pradesh | Private | [Portal](http://viotfw.org) |
+| 2414 | Government Institute of Ceramic Technology | NELLORE | Andhra Pradesh | Public/Government | [Portal](https://gioct.gov.in) |
+| 2415 | P.n.c. & K.r. College of PG Courses | Narasaraopet | Andhra Pradesh | Private | [Portal](http://www.pnckr.com) |
+| 2416 | Govt Polytechnic,Vempalli | YSR DISTRICT | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2417 | Government Institute of Chemical Engineering | VISHAKHAPATNAM | Andhra Pradesh | Public/Government | [Portal](https://gioce.gov.in) |
+| 2418 | Sir C.v. Raman Institute of Management Studies | Tadipatri | Andhra Pradesh | Private | [Portal](https://scvrim.com) |
+| 2419 | Balajee Polytechnic | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://balajeepolytechnic.org) |
+| 2420 | Sanketika Polytechnic College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://spc.org) |
+
+
+### Batch 243 (Colleges 2421–2430)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2421 | Government Polytechnic for Women, Nandigama | KRISHNA | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2422 | Govt.polytechnic ,Repalle | GUNTUR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2423 | JNTUA School of Management Studies | Ananthapuramu | Andhra Pradesh | Private | [Portal](https://www.jntua.ac.in) |
+| 2424 | Sanskrithi School of Engineering | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://ssoe.org) |
+| 2425 | Mjr Institute of Business Management | Piler | Andhra Pradesh | Private | [Portal](http://mjribm.org) |
+| 2426 | Government Model Residential Polytechnic, Gummalaxmipuram | VIZIANAGARAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2427 | Government Polytechnic, Draksharamam | EAST GODAVARI | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2428 | Government Model Residential Polytechnic, Rampachodavaram | EAST GODAVARI | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2429 | Sri Mittapalli College of Engineering | GUNTUR | Andhra Pradesh | Private | [Portal](http://smcoe.org) |
+| 2430 | Gmr Institute of Technology | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://giot.org) |
+
+
+### Batch 244 (Colleges 2431–2440)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2431 | Thandra Paparaya Polytechnic | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://tpp.org) |
+| 2432 | Usha Rama College of Engineering and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://usharamacollege.org) |
+| 2433 | Rgukt- RK Valley | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://rrv.org) |
+| 2434 | D A Governement Polytechnic | PRAKASAM | Andhra Pradesh | Private | [Portal](http://dagp.org) |
+| 2435 | Ravindra College of Engineering for Women | KURNOOL | Andhra Pradesh | Private | [Portal](http://rcoefw.org) |
+| 2436 | S.v. Arts & Science College | Gudur | Andhra Pradesh | Private | [Portal](https://svartscollegegudur.co.in) |
+| 2437 | Sree Mullapudi Venkataraya Memorial Polytechnic | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://smvmp.org) |
+| 2438 | Visakha Institute for Professional Studies (Vips) | Visakhapatnam | Andhra Pradesh | Private | [Portal](https://www.vips.org.in) |
+| 2439 | Government Polytechnic, Pillaripattu | CHITTOOR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2440 | Royal School of Information & Management Sciences | Tirupati | Andhra Pradesh | Private | [Portal](https://www.royalbschool.com) |
+
+
+### Batch 245 (Colleges 2441–2450)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2441 | Government Polytechnic,Kavali,Nellore Dist Andhrapradesh | NELLORE | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2442 | Simhadhri Educational Society Group of Institutions | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sesgoi.org) |
+| 2443 | Sai Ganapathi Polytechnic | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sgp.org) |
+| 2444 | S.v.government Polytechnic | CHITTOOR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2445 | Sreenivasa Institute of Technology and Management Studies | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sreenivasainstituteof.org) |
+| 2446 | Govt.model Resedential Polytechnic | VISHAKHAPATNAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2447 | Andhra Polytechnic | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://andhrapolytechnic.org) |
+| 2448 | Chirala Engineering College (Cecc) | Chirala | Andhra Pradesh | Private | [Portal](https://www.cecc.co.in) |
+| 2449 | Suvr & SR Government Polytechnic for Women | PRAKASAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2450 | Andhra Loyola College (Autonomous) | Vijayawada | Andhra Pradesh | Private | [Portal](https://www.andhraloyolacollege.ac.in) |
+
+
+### Batch 246 (Colleges 2451–2460)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2451 | Spkm Indian Institute of Handloom Technology | NELLORE | Andhra Pradesh | Public/Government | [Portal](https://siioht.gov.in) |
+| 2452 | Aksharaa Polytechnic | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://aksharaapolytechnic.org) |
+| 2453 | Govt Institute of Textile Technology | GUNTUR | Andhra Pradesh | Public/Government | [Portal](https://giott.gov.in) |
+| 2454 | E S C Govt. Polytechnic | KURNOOL | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2455 | Sir C Ramalinga Reddy Polytechnic | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://scrrp.org) |
+| 2456 | Hindu College of Engineering and Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://hcoeat.org) |
+| 2457 | Godavari Global University | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://ggu.org) |
+| 2458 | Tirumala Engineering College | GUNTUR | Andhra Pradesh | Private | [Portal](http://tec.org) |
+| 2459 | S.r.k.institute of Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://sot.org) |
+| 2460 | Government Polytechnic, Rayadurg | ANANTAPUR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+
+
+### Batch 247 (Colleges 2461–2470)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2461 | Govenment Polytechnic | KRISHNA | Andhra Pradesh | Private | [Portal](http://govenmentpolytechnic.org) |
+| 2462 | Daggubati Chenchu Ramaiah Memorial (Dcrm) PG College | Inkollu | Andhra Pradesh | Private | [Portal](http://www.daggubatigroup.org) |
+| 2463 | Loyola Polytechnic (Ysrr) | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://lpy.org) |
+| 2464 | Seshachala Institute of Engineering & Technology | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sioet.org) |
+| 2465 | Dbb Institute of PG Studies | Puttur | Andhra Pradesh | Private | [Portal](http://www.dbbips.org) |
+| 2466 | Dr. Ysr Government Polytechnic, Kalidindi | KRISHNA | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2467 | Yalamarty College of Polytechnic | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://ycop.org) |
+| 2468 | Sri Krishnadevaraya University College of Engineering and Technology | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://srikrishnadevarayauniversity.org) |
+| 2469 | Smt. T.k.r. Polytechnic | KRISHNA | Andhra Pradesh | Private | [Portal](http://stp.org) |
+| 2470 | Krishna Chaitanya Institute of Management | Markapur | Andhra Pradesh | Private | [Portal](http://www.kits-anna.com) |
+
+
+### Batch 248 (Colleges 2471–2480)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2471 | Govt. Polytechnic for Women, Hindupur, Govt. of A.p | ANANTAPUR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2472 | Nuzvid Polytechnic | KRISHNA | Andhra Pradesh | Private | [Portal](http://nuzvidpolytechnic.org) |
+| 2473 | Seshachala Polytechnic College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://spc.org) |
+| 2474 | Col.d.s.raju Polytechnic | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://coldsrajupolytechnic.org) |
+| 2475 | Y.s.r. Engineering College of Y.v.u. | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://yecoy.org) |
+| 2476 | Vrn College of Computer Science and Management | CHITTOOR | Andhra Pradesh | Private | [Portal](http://vrncollegeof.org) |
+| 2477 | G.b.r. Degree College (PG Courses) | Anaparthi | Andhra Pradesh | Private | [Portal](https://www.gbrcolleges.com) |
+| 2478 | Balaji Institute of IT and Management | Kadapa | Andhra Pradesh | Private | [Portal](https://www.bimkadapa.in) |
+| 2479 | Behara Technical Campus(Behara Polytechnic) | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://btcp.org) |
+| 2480 | A.a.n.m. & V.v.r.s.r. Polytechnic | KRISHNA | Andhra Pradesh | Private | [Portal](http://avp.org) |
+
+
+### Batch 249 (Colleges 2481–2490)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2481 | Gayatri Vidya Parishad College of Engineering for Women | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://gayatrividyaparishad.org) |
+| 2482 | Mrs. A V N College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://mavnc.org) |
+| 2483 | Rayalaseema Institute of Information and Management Sciences (MBA College) | CHITTOOR | Andhra Pradesh | Private | [Portal](http://rayalaseemainstituteof.org) |
+| 2484 | Govt. Polytechnic,Dharmavaram, Govt. of A.p | ANANTAPUR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2485 | M.b.t.s. Government Polytechnic | GUNTUR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2486 | Sri Datta Sai School of Business | Kadapa | Andhra Pradesh | Private | [Portal](http://www.sdsbschool.in) |
+| 2487 | JNTUA College of Engineering | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://jcoe.org) |
+| 2488 | Planet Finance Business School | KRISHNA | Andhra Pradesh | Private | [Portal](http://pfbs.org) |
+| 2489 | Swamy Vivekananda Polytechnic | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://svp.org) |
+| 2490 | Ch.s.d. St. Theresa's College for Women (Autonomous) | Eluru | Andhra Pradesh | Private | [Portal](https://stcelr.ac.in) |
+
+
+### Batch 250 (Colleges 2491–2500)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2491 | Chaitanya Institute of Science and Technology | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://ciosat.org) |
+| 2492 | Sree Venkateswara College of Engineering (Svcn) | Kodavalur | Andhra Pradesh | Private | [Portal](http://svcn.ac.in) |
+| 2493 | Sraddaha College of Diploma in Eng & Technology | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://sraddahacollegeof.org) |
+| 2494 | Sri Vaddamanu Chidanandam Memorial Polytechnic | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://svcmp.org) |
+| 2495 | Government Polytechnic Tekkali | SRIKAKULAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2496 | Government Polytechnic, Satyavedu | CHITTOOR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2497 | Sri Jyothi Polytechnic | KRISHNA | Andhra Pradesh | Private | [Portal](http://sjp.org) |
+| 2498 | Dr.b.r.a.g.m.r.polytechnic | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://drbragmrpolytechnic.org) |
+| 2499 | Sri Kalahastiswara Institute of Information and Management Sciences (Skiims) | CHITTOOR | Andhra Pradesh | Private | [Portal](http://srikalahastiswarainstitute.org) |
+| 2500 | Bellamkonda Polytechnic College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://bpc.org) |
+
+
+### Batch 251 (Colleges 2501–2510)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2501 | Sai Rajeswari Institute of Technology | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://sriot.org) |
+| 2502 | Government Polytechnic-Seethampeta | SRIKAKULAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2503 | Kalyani MCA College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://kmc.org) |
+| 2504 | Alwar Polytechnic | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://alwarpolytechnic.org) |
+| 2505 | Krishnaveni Exhibition Societys Polytechnic | KRISHNA | Andhra Pradesh | Private | [Portal](http://kesp.org) |
+| 2506 | T V R Polytechnic | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://tvrp.org) |
+| 2507 | Andhra University College of Engineering | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://aucoe.org) |
+| 2508 | Diviseema Polytechnic | KRISHNA | Andhra Pradesh | Private | [Portal](http://diviseemapolytechnic.org) |
+| 2509 | Pace Institute of Technology and Sciences | PRAKASAM | Andhra Pradesh | Private | [Portal](http://piotas.org) |
+| 2510 | Parvathareddy Babulreddy Visvodaya Institute of Technology and Science | NELLORE | Andhra Pradesh | Private | [Portal](http://parvathareddybabulreddyvisvodaya.org) |
+
+
+### Batch 252 (Colleges 2511–2520)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2511 | Chadalawada Ramanamma Engineering College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://crec.org) |
+| 2512 | Government Polytechnic Mydukur | YSR DISTRICT | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2513 | Bapatla Polytechnic | GUNTUR | Andhra Pradesh | Private | [Portal](http://bapatlapolytechnic.org) |
+| 2514 | Avanthi Polytechnic College | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://apc.org) |
+| 2515 | JNTUA College of Engineering Pulivendula | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://jcoep.org) |
+| 2516 | School of Food Technology | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://soft.org) |
+| 2517 | Smt. Satrucharla Sasikala Devi Government Polytechnic, Chinamerangi | VIZIANAGARAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2518 | Wings Business School | Tirupati | Andhra Pradesh | Private | [Portal](http://www.wingsbschool.org) |
+| 2519 | Benaiah Institute of Technology & Science | EAST GODAVARI | Andhra Pradesh | Private | [Portal](https://benaiah.edu.in) |
+| 2520 | Edge International B School | Bangarupalyam | Andhra Pradesh | Private | [Portal](http://www.edgebschool.in) |
+
+
+### Batch 253 (Colleges 2521–2530)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2521 | School of Biotechnology | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://sob.org) |
+| 2522 | Noble Institute of Science and Technology | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://niosat.org) |
+| 2523 | Dr. Y.c.james Yen Govt. Polytechnic, Kuppam | CHITTOOR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2524 | Government Polytechnic, Uravakonda | ANANTAPUR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2525 | Sri Venkateswara Institute of Traditional Sculpture and Architecture | CHITTOOR | Andhra Pradesh | Private | [Portal](http://srivenkateswarainstitute.org) |
+| 2526 | Government Polytechnic Nellore | NELLORE | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2527 | Smt. B.seetha Polytechnic | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://sbp.org) |
+| 2528 | Institute of Science and Technology,JNTUK,Kakinada | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://iosat.org) |
+| 2529 | Rgukt-Nuzivid | KRISHNA | Andhra Pradesh | Private | [Portal](http://rguktnuzivid.org) |
+| 2530 | Aryabhatta Polytechnic | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://aryabhattapolytechnic.org) |
+
+
+### Batch 254 (Colleges 2531–2540)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2531 | Sri Venkateswara Polytechnic | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://svp.org) |
+| 2532 | Government Polytechnic, Vijayawada | KRISHNA | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2533 | Rajiv Gandhi Recs Polytechnic | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://rgrp.org) |
+| 2534 | Siddartha Educational Academy Group of Institutions | CHITTOOR | Andhra Pradesh | Private | [Portal](http://seagoi.org) |
+| 2535 | Narayana Polytechnic | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://narayanapolytechnic.org) |
+| 2536 | Eluru College of Engineering & Technology | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://ecoet.org) |
+| 2537 | Prasanthi Polytechnic | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://prasanthipolytechnic.org) |
+| 2538 | Srinivasa Dipolma in Engineering & Technology | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://sdiet.org) |
+| 2539 | Sri Yvs & Sri Brm Polytechnic | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://sysbp.org) |
+| 2540 | Sri Venkatesa Perumal College of Engineering & Technology | CHITTOOR | Andhra Pradesh | Private | [Portal](http://srivenkatesaperumal.org) |
+
+
+### Batch 255 (Colleges 2541–2550)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2541 | Gbr Government Polytechnic | VIZIANAGARAM | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2542 | Government Polytechnic, Pithapuram | EAST GODAVARI | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2543 | V.k.r & V.n.b Polytechnic | KRISHNA | Andhra Pradesh | Private | [Portal](http://vvp.org) |
+| 2544 | A.m.reddy Memorial College of Engineering& Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://amcoet.org) |
+| 2545 | Sri Chaitanya Polytechnic College | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://scpc.org) |
+| 2546 | Sree Vasavi Kanyaka Parameswari Polytechnic | PRAKASAM | Andhra Pradesh | Private | [Portal](http://svkpp.org) |
+| 2547 | Dasari Subba Rao Government Polytechnic, Ponnur | GUNTUR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2548 | Srinivasa Ramanujan Institute of Technology | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sriot.org) |
+| 2549 | Sir C R Reddy College of Engineering | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://sircr.org) |
+| 2550 | Annamacharya PG College of Computer Studies | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://apcocs.org) |
+
+
+### Batch 256 (Colleges 2551–2560)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2551 | Dantuluri Narayana Raju (D.n.r.) College (Autonomous) | Bhimavaram | Andhra Pradesh | Private | [Portal](https://dnrcollege.org) |
+| 2552 | Rao's Institue of Computer Science | NELLORE | Andhra Pradesh | Private | [Portal](http://riocs.org) |
+| 2553 | Sri Y. N. College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://sync.org) |
+| 2554 | Rcr Institute of Management & Technology | CHITTOOR | Andhra Pradesh | Private | [Portal](http://riomt.org) |
+| 2555 | Sri Vani Institute of Management and Sciences (Svims) | Anantapur | Andhra Pradesh | Private | [Portal](https://www.srivanimcamba.org) |
+| 2556 | S.v.k.p. & Dr. K.s. Raju Arts & Science College (Autonomous) | Penugonda | Andhra Pradesh | Private | [Portal](http://svkpdrks.org) |
+| 2557 | Dr. K.v. Subba Reddy Institute of Management | Kurnool | Andhra Pradesh | Private | [Portal](https://www.drkvsmba.in) |
+| 2558 | Raghu Engineering College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://rec.org) |
+| 2559 | S.d.college of Information Technology | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://soit.org) |
+| 2560 | Sri Chaitanya - Djr College of Engineering | KRISHNA | Andhra Pradesh | Private | [Portal](http://scdcoe.org) |
+
+
+### Batch 257 (Colleges 2561–2570)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2561 | Vikas Institute of Business Management | Kadapa | Andhra Pradesh | Private | [Portal](http://www.vibmkadapa.com) |
+| 2562 | Vignan's Institute of Engineering for Women (View) | Visakhapatnam | Andhra Pradesh | Private | [Portal](https://view.edu.in) |
+| 2563 | Audisankara College of Engineering and Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://acoeat.org) |
+| 2564 | Mother Theresa Institute of Management (Mtim) | Palamaner | Andhra Pradesh | Private | [Portal](http://mtimba.edu.in) |
+| 2565 | Samata College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://samatacollege.org) |
+| 2566 | Vasavi MCA & MBA College | Cumbum | Andhra Pradesh | Private | [Portal](http://www.vasavicbm.com) |
+| 2567 | Jagarlamudi Kuppuswamy Choudary College | GUNTUR | Andhra Pradesh | Private | [Portal](https://www.amu.ac.in) |
+| 2568 | Vignan's Nirula Institute of Technology & Science for Women | GUNTUR | Andhra Pradesh | Private | [Portal](http://vignansnirulainstitute.org) |
+| 2569 | Priyadarshini Institute of Technology & Science | GUNTUR | Andhra Pradesh | Private | [Portal](http://piots.org) |
+| 2570 | Mjr College of Engineering & Technology | CHITTOOR | Andhra Pradesh | Private | [Portal](http://mcoet.org) |
+
+
+### Batch 258 (Colleges 2571–2580)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2571 | Damisetty Bala Suresh Institute of Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://dbsiot.org) |
+| 2572 | Sagi Ramakrishnam Raju Engineering College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://srrec.org) |
+| 2573 | Svr Engineering College | KURNOOL | Andhra Pradesh | Private | [Portal](http://sec.org) |
+| 2574 | Vikas College of Engineering & Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://vcoet.org) |
+| 2575 | Rajamahendri Institute of Engineering and Technology (Riet) | Rajahmundry | Andhra Pradesh | Private | [Portal](https://www.rietrjy.co.in) |
+| 2576 | Anil Neerukonda Institute of Technology & Sciences | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://aniots.org) |
+| 2577 | Sri Nalanda Institute of Engineering & Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://snioet.org) |
+| 2578 | Sri Venkateswara College of Engineering and Technology | CHITTOOR | Andhra Pradesh | Private | [Portal](http://srivenkateswaracollege.org) |
+| 2579 | Malineni Lakshmaiah Women's Engineering College | Guntur | Andhra Pradesh | Private | [Portal](http://mlewguntur.com) |
+| 2580 | Sri Ramakrishna Degree College | KURNOOL | Andhra Pradesh | Private | [Portal](http://srdc.org) |
+
+
+### Batch 259 (Colleges 2581–2590)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2581 | S.d.g.s. College (Autonomous) | Hindupur | Andhra Pradesh | Private | [Portal](https://sdgschdp.org) |
+| 2582 | Sir C.v. Raman College of Computer Sciences | Podili | Andhra Pradesh | Private | [Portal](http://cvrccs.org) |
+| 2583 | Tirumala Institute of Technology and Sciences | Satulur | Andhra Pradesh | Private | [Portal](https://titsnrt.org) |
+| 2584 | Aditya Institute of Technology and Management (Aitam) | Tekkali | Andhra Pradesh | Private | [Portal](http://adityainstituteof.org) |
+| 2585 | Bapatla Women's Engineering College | GUNTUR | Andhra Pradesh | Private | [Portal](http://bwec.org) |
+| 2586 | Mothere Theresa Institute of Computer Applications | CHITTOOR | Andhra Pradesh | Private | [Portal](http://mtioca.org) |
+| 2587 | Kbn College | KRISHNA | Andhra Pradesh | Private | [Portal](http://kbncollege.org) |
+| 2588 | Ramachandra College of Engineering | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://rcoe.org) |
+| 2589 | Addanki Institute of Management and Sciences | Addanki | Andhra Pradesh | Private | [Portal](http://www.aimsaddanki.com) |
+| 2590 | Avanthi Institute of Engineering & Technology (Makavarapalem) | Makavarapalem | Andhra Pradesh | Private | [Portal](https://www.avanthienggcollege.ac.in) |
+
+
+### Batch 260 (Colleges 2591–2600)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2591 | Hindu College P.g Courses,Guntur | GUNTUR | Andhra Pradesh | Private | [Portal](http://hcpc.org) |
+| 2592 | Sree Konaseema Bhanoji Ramars College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://skbrc.org) |
+| 2593 | B.v. Raju College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://brc.org) |
+| 2594 | Sri Venkateswara College of Engineering & Technology | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://svcoet.org) |
+| 2595 | Vasavi Institute of Management and Computer Sciences (Vimcs) | Kadapa | Andhra Pradesh | Private | [Portal](http://www.vimcsciences.ac.in) |
+| 2596 | Gitams Business and IT School | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://gbais.org) |
+| 2597 | Gokula Krishna College of Engineering | NELLORE | Andhra Pradesh | Private | [Portal](http://gkcoe.org) |
+| 2598 | Priyadarshini Institutue of Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://piot.org) |
+| 2599 | Audisankara College of Engineering & Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://acoet.org) |
+| 2600 | University College of Engineering and Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://ucoeat.org) |
+
+
+### Batch 261 (Colleges 2601–2610)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2601 | Avanthi Institute of Engineering and Technology (Bhogapuram) | Bhogapuram | Andhra Pradesh | Private | [Portal](http://aietta.ac.in) |
+| 2602 | Bapatla Engineering College | GUNTUR | Andhra Pradesh | Private | [Portal](http://bec.org) |
+| 2603 | Kandula Lakshumma Memorial College of Engineering for Women | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://kandulalakshummamemorial.org) |
+| 2604 | Bonam Venkatachalamayya Institute of Technology & Science | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://bviots.org) |
+| 2605 | Rise Krishna Sai Prakasam Group of Institutions | PRAKASAM | Andhra Pradesh | Private | [Portal](http://risekrishnasai.org) |
+| 2606 | Velaga Nageswara Rao College of Engineering Ponnur | GUNTUR | Andhra Pradesh | Private | [Portal](http://velaganageswararao.org) |
+| 2607 | G.pulla Reddy Engineering College | KURNOOL | Andhra Pradesh | Private | [Portal](http://grec.org) |
+| 2608 | St. Mary's Women's Engineering College | GUNTUR | Andhra Pradesh | Private | [Portal](http://smwec.org) |
+| 2609 | Maris Stella College (Autonomous) | Vijayawada | Andhra Pradesh | Private | [Portal](https://www.marisstella.ac.in) |
+| 2610 | Sri Datta Sai College of MCA | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://sdscom.org) |
+
+
+### Batch 262 (Colleges 2611–2620)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2611 | Nannapaneni Venkat Rao College of Engineering & Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://nannapanenivenkatrao.org) |
+| 2612 | Akkineni Nageswara Rao (Anr) College (Autonomous) | Gudivada | Andhra Pradesh | Private | [Portal](https://www.anrcollege.edu) |
+| 2613 | V.s.m. College (Autonomous) | Ramachandrapuram | Andhra Pradesh | Private | [Portal](https://www.vsm.edu.in) |
+| 2614 | V.s.m. College of Engineering | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://vcoe.org) |
+| 2615 | BIT Institute of Technology | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://biot.org) |
+| 2616 | Sri Nalanda Institute of P.g. Studies | Sattenapalli | Andhra Pradesh | Private | [Portal](https://www.ngi.ac.in) |
+| 2617 | All Saints P.g. College | Bheemunipatnam | Andhra Pradesh | Private | [Portal](http://www.aspgc.org) |
+| 2618 | Srinivasa Institute of Engineering and Technology | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://sioeat.org) |
+| 2619 | Kkc Institute of PG Studies | Puttur | Andhra Pradesh | Private | [Portal](http://kkcmba.org) |
+| 2620 | Seshachala Institute of Management Studies (Sims) | Puttur | Andhra Pradesh | Private | [Portal](http://www.seshachala.in) |
+
+
+### Batch 263 (Colleges 2621–2630)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2621 | A1 Global Institute of Engineering & Technology | PRAKASAM | Andhra Pradesh | Private | [Portal](https://www.a1globalinstitu.edu.in) |
+| 2622 | Malineni Lakshmaiah MBA College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://mlmc.org) |
+| 2623 | Sri Padmavathi College of Computer Sciences & Technology, Tiruchanoor, Tirupati | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sripadmavathicollege.org) |
+| 2624 | Sree Vahini Institute of Science and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://sreevahiniinstitute.org) |
+| 2625 | Prr Institute of Management Sciences | Gooty | Andhra Pradesh | Private | [Portal](http://www.prrims.in) |
+| 2626 | Sir C.v.raman Institute of Technology & Sciences | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sciots.org) |
+| 2627 | V.r.s & Y.r.n College of Engineering and Technology | PRAKASAM | Andhra Pradesh | Private | [Portal](http://vrsyrncollege.org) |
+| 2628 | Integral Institute of Advanced Management (Iiam) | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://iioami.org) |
+| 2629 | Pydah College (P.g. Courses) | Visakhapatnam | Andhra Pradesh | Private | [Portal](http://www.pydah.org) |
+| 2630 | Bheema Institute of Technology and Science | KURNOOL | Andhra Pradesh | Private | [Portal](http://biotas.org) |
+
+
+### Batch 264 (Colleges 2631–2640)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2631 | Helapuri Institute of Technology & Science | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://hiots.org) |
+| 2632 | Dhanekula Institute of Engineering & Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://dioet.org) |
+| 2633 | Nagarjuna Institute of Management Studies | Ongole | Andhra Pradesh | Private | [Portal](http://www.nimsnagarjuna.in) |
+| 2634 | Sri Sai Institute of Technology and Science | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://srisaiinstitute.org) |
+| 2635 | Abr College of Engineering and Technology | PRAKASAM | Andhra Pradesh | Private | [Portal](http://acoeat.org) |
+| 2636 | Vrs & Yrn College of Technology | PRAKASAM | Andhra Pradesh | Private | [Portal](http://vycot.org) |
+| 2637 | Chaitanya Bharathi Institute of Technology | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://cbiot.org) |
+| 2638 | Kakinada Institue of Technological Sciences | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://kiots.org) |
+| 2639 | Aditya College of Engineering & Technology | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://acoet.org) |
+| 2640 | Sasi Institute of Technology & Engineering | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://siote.org) |
+
+
+### Batch 265 (Colleges 2641–2650)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2641 | Madanapalle Institute of Technology & Science | CHITTOOR | Andhra Pradesh | Private | [Portal](http://miots.org) |
+| 2642 | Kkr & Ksr Institute of Technology and Sciences | GUNTUR | Andhra Pradesh | Private | [Portal](http://kkrksrinstitute.org) |
+| 2643 | Global College of Engineering and Technology | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://gcoeat.org) |
+| 2644 | Sree Vidyanikethan Engineering College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://svec.org) |
+| 2645 | Aditya University | EAST GODAVARI | Andhra Pradesh | Private | [Portal](https://adityauniversity.in) |
+| 2646 | Medarametla Anjamma Mastan Rao (Mam) PG College | Narasaraopet | Andhra Pradesh | Private | [Portal](https://mamcolleges.org) |
+| 2647 | Government Polytechnic Guntakal | ANANTAPUR | Andhra Pradesh | Public/Government | [Portal](https://dte.ap.gov.in) |
+| 2648 | R.k. College of Engineering | KRISHNA | Andhra Pradesh | Private | [Portal](http://rcoe.org) |
+| 2649 | Aqj Centre for Post Graduate Studies | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://acfpgs.org) |
+| 2650 | Chalapathi Institute of Engineering and Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://cioeat.org) |
+
+
+### Batch 266 (Colleges 2651–2660)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2651 | Geethanjali Institute of Science and Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://giosat.org) |
+| 2652 | V.k.r., V.n.b. A.g.k. College of Engineering | KRISHNA | Andhra Pradesh | Private | [Portal](http://vvacoe.org) |
+| 2653 | Avanthi's Research & Technological Academy | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://arta.org) |
+| 2654 | Sri Venkateswara Institute of Science and Technology | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://srivenkateswarainstitute.org) |
+| 2655 | Palivela PG College | Palivela | Andhra Pradesh | Private | [Portal](http://www.palivelapgcollege.com) |
+| 2656 | Nova PG College (MBA) | Ibrahimpatnam | Andhra Pradesh | Private | [Portal](https://www.nova.ac.in) |
+| 2657 | GIET Engineering College (Autonomous) | Rajahmundry | Andhra Pradesh | Private | [Portal](https://gietec.ac.in) |
+| 2658 | Pvkk Institute of Technology (Pvkkit) | Anantapur | Andhra Pradesh | Private | [Portal](https://www.pvkkit.ac.in) |
+| 2659 | Universal College of Engineering and Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://ucoeat.org) |
+| 2660 | Eswar College of Engineering | GUNTUR | Andhra Pradesh | Private | [Portal](http://ecoe.org) |
+
+
+### Batch 267 (Colleges 2661–2670)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2661 | Priyadarshini College of Engineering & Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://pcoet.org) |
+| 2662 | Gonna Institute of Information Technology & Sciences (Giits) | Visakhapatnam | Andhra Pradesh | Private | [Portal](http://www.giits.in) |
+| 2663 | Veeravalli Vidya Sundar P.g. College | Rajahmundry | Andhra Pradesh | Private | [Portal](http://www.vvspgl.org) |
+| 2664 | Sri Sarathi Institute of Engineering & Technoology | KRISHNA | Andhra Pradesh | Private | [Portal](http://ssioet.org) |
+| 2665 | School of Management Studies - M.r.p.g. College | Vizianagaram | Andhra Pradesh | Private | [Portal](https://smsmrpg.com) |
+| 2666 | Priyadarshini P.g. College | Guntur | Andhra Pradesh | Private | [Portal](https://www.priyadarshinigroup.in) |
+| 2667 | The Hindu College (PG Courses) Department of Management Studies | Machilipatnam | Andhra Pradesh | Private | [Portal](http://www.hcmtm.ac.in) |
+| 2668 | Mam Women's Engineering College | GUNTUR | Andhra Pradesh | Private | [Portal](http://mwec.org) |
+| 2669 | Sri Annamacharya Institute of Technology and Science | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://sriannamacharyainstitute.org) |
+| 2670 | N.b.k.r.institute of Science & Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://nost.org) |
+
+
+### Batch 268 (Colleges 2671–2680)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2671 | K. Chandrakala P.g. College | Tenali | Andhra Pradesh | Private | [Portal](https://www.psres.org.in/kcpgcollege.org/) |
+| 2672 | Srinivasa Institute of Management Studies (Sims) (Formally Ssvp) | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://srinivasainstituteof.org) |
+| 2673 | Andhra Loyola Institute of Engineering and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://andhraloyolainstitute.org) |
+| 2674 | Mrr College of MCA | KRISHNA | Andhra Pradesh | Private | [Portal](http://mcom.org) |
+| 2675 | Dadi Institute of Engineering & Technology (Diet) | Anakapalle | Andhra Pradesh | Private | [Portal](https://www.diet.edu.in) |
+| 2676 | Siddhartha Academy of Higher Education | KRISHNA | Andhra Pradesh | Private | [Portal](http://saohe.org) |
+| 2677 | G.pullaiah College of Engineering and Technology | KURNOOL | Andhra Pradesh | Private | [Portal](http://gcoeat.org) |
+| 2678 | Kmm Institute of Postgraduate Studies | CHITTOOR | Andhra Pradesh | Private | [Portal](http://kiops.org) |
+| 2679 | Kuppam Engineering College | CHITTOOR | Andhra Pradesh | Private | [Portal](https://kec.ac.in) |
+| 2680 | Prakasam Engineering College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://pec.org) |
+
+
+### Batch 269 (Colleges 2681–2690)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2681 | Narasaraopeta Engineering College | GUNTUR | Andhra Pradesh | Private | [Portal](http://nec.org) |
+| 2682 | School of Engineering & Technology | CHITTOOR | Andhra Pradesh | Private | [Portal](http://soet.org) |
+| 2683 | Shri Vishnu Engineering College for Women | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://svecfw.org) |
+| 2684 | Vignan's Institute of Information Technology | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](https://vignanview.edu.in) |
+| 2685 | Sreerama Institute of Management (Srim) | Tanuku | Andhra Pradesh | Private | [Portal](https://srim.asrgroup.co.in) |
+| 2686 | Pydah College of Engineering | Kakinada | Andhra Pradesh | Private | [Portal](https://www.pydahpce.edu.in) |
+| 2687 | Ashoka Womenâs Engineering College | KURNOOL | Andhra Pradesh | Private | [Portal](http://awec.org) |
+| 2688 | S.k.r. Degree & PG College for Women | Rajahmundry | Andhra Pradesh | Private | [Portal](http://www.skrmbacollege.info) |
+| 2689 | Sri Harsha Institute of PG Studies | NELLORE | Andhra Pradesh | Private | [Portal](http://shiops.org) |
+| 2690 | Sri Balaji PG College (MBA & MCA) | Anantapur | Andhra Pradesh | Private | [Portal](https://www.sribalajimbamca.in) |
+
+
+### Batch 270 (Colleges 2691–2700)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2691 | Swamy Vivekananda Engineering College | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://svec.org) |
+| 2692 | Ba&kr MCA College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://bmc.org) |
+| 2693 | Dr.paulraj Engineering College | KHAMMAM | Andhra Pradesh | Private | [Portal](http://dec.org) |
+| 2694 | Dr. Csn Degree & PG College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://dcdpc.org) |
+| 2695 | The Pedanandipadu College of Arts & Sciences | GUNTUR | Andhra Pradesh | Private | [Portal](http://tpcoas.org) |
+| 2696 | Buchepalli Venkayamma Subbareddy Engineering College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://bvsec.org) |
+| 2697 | Amrita Sai Institute of Science and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://amritasaiinstitute.org) |
+| 2698 | Duvvuru Ramanamma Women's Degree College,Gudur | NELLORE | Andhra Pradesh | Private | [Portal](http://drwdc.org) |
+| 2699 | Madhura Sai Institute of IT & Management (Msim) | Proddatur | Andhra Pradesh | Private | [Portal](http://www.msimpdtr.org) |
+| 2700 | Vignan's Lara Institute of Technology & Science | GUNTUR | Andhra Pradesh | Private | [Portal](http://vliots.org) |
+
+
+### Batch 271 (Colleges 2701–2710)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2701 | N S Raju Institute of Engineering & Technology | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://nsraju.org) |
+| 2702 | Sharada Post Graduate Institute of Research and Technological Sciences (Spirts) | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://sharadapostgraduate.org) |
+| 2703 | Adithe Satyanarayana PG College (Asn) | Amalapuram | Andhra Pradesh | Private | [Portal](http://www.asncolleges.org) |
+| 2704 | St. Johns College of Engineering & Technology | KURNOOL | Andhra Pradesh | Private | [Portal](https://sjcet.ac.in) |
+| 2705 | Jagan's Institute of Management and Computer Studies | NELLORE | Andhra Pradesh | Private | [Portal](http://jagansinstituteof.org) |
+| 2706 | Sri Vidya Institute of Management Studies | Puttur | Andhra Pradesh | Private | [Portal](https://sreevidyacolleges.in) |
+| 2707 | Rao's Institute of Management Studies (Rims) | Nellore | Andhra Pradesh | Private | [Portal](https://www.raosinstitutions.com) |
+| 2708 | Mandava Institute of Engineering and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](https://mandava.edu.in) |
+| 2709 | West Godavari Institute of Science and Engineering | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://westgodavariinstitute.org) |
+| 2710 | Prabhat Institute of Computer Science | KURNOOL | Andhra Pradesh | Private | [Portal](https://prabhatedu.in) |
+
+
+### Batch 272 (Colleges 2711–2720)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2711 | DR Samuel George Institute of Engineering & Technology | PRAKASAM | Andhra Pradesh | Private | [Portal](https://www.amu.ac.in) |
+| 2712 | Vasireddy Venkatadri Institute of Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://vviot.org) |
+| 2713 | St. Ann's College of Engineering & Technology | PRAKASAM | Andhra Pradesh | Private | [Portal](http://sacoet.org) |
+| 2714 | Adarsh College of Engineering | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://acoe.org) |
+| 2715 | Vaagdevi Institute of Technology & Science | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://viots.org) |
+| 2716 | Kandula Obula Reddy Memorial College of Engineering | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://kandulaobulareddy.org) |
+| 2717 | Avanthi's St. Theressa Institute of Engineering & Technology | Garividi | Andhra Pradesh | Private | [Portal](https://www.sttheressaengg.ac.in) |
+| 2718 | Dr. K.v. Subba Reddy School of Business Management | Kurnool | Andhra Pradesh | Private | [Portal](https://www.drkvsbschool.in) |
+| 2719 | Paladugu Parvathi Devi College of Engineering and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://paladuguparvathidevi.org) |
+| 2720 | Bonam Venkata Chalamayya Engineering College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://bvcec.org) |
+
+
+### Batch 273 (Colleges 2721–2730)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2721 | Prasad V Potluri Siddhartha Institue of Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://prasadvpotluri.org) |
+| 2722 | Lakireddy Bali Reddy College of Engineering | KRISHNA | Andhra Pradesh | Private | [Portal](http://lbrcoe.org) |
+| 2723 | Annamacharya University | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://annamacharyauniversity.org) |
+| 2724 | Brindavan Institute of Technology and Science | KURNOOL | Andhra Pradesh | Private | [Portal](http://biotas.org) |
+| 2725 | Bhimavaram Institute of Engineering & Technology | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://bioet.org) |
+| 2726 | Golden Valley Integrated Campus | CHITTOOR | Andhra Pradesh | Private | [Portal](http://gvic.org) |
+| 2727 | Sri Venkateswara Institute of Technology. | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sviot.org) |
+| 2728 | Sri Vasavi Institute of Engineering & Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://svioet.org) |
+| 2729 | Chaitanya Engineering College | Visakhapatnam | Andhra Pradesh | Private | [Portal](https://cec.ac.in) |
+| 2730 | G.v.r & S College of Engineering & Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://gscoet.org) |
+
+
+### Batch 274 (Colleges 2731–2740)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2731 | Gates Institute of Technology | Gooty | Andhra Pradesh | Private | [Portal](https://gatesit.ac.in) |
+| 2732 | Acharya College of Engineering | YSR DISTRICT | Andhra Pradesh | Private | [Portal](https://acharya.ac.in) |
+| 2733 | Lingayas Institute of Management and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://liomat.org) |
+| 2734 | Loyola Institute of Technology and Management | GUNTUR | Andhra Pradesh | Private | [Portal](http://liotam.org) |
+| 2735 | Qis College of Engineering & Technology | PRAKASAM | Andhra Pradesh | Private | [Portal](http://qcoet.org) |
+| 2736 | Krishna Chaitanya Institute of Science and Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://krishnachaitanyainstitute.org) |
+| 2737 | DR Ysr Architecture and Fine Arts University | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://drysrarchitecture.org) |
+| 2738 | Bhaskar Institute of Technology and Science | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://biotas.org) |
+| 2739 | Nimra College of Engineering and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://ncoeat.org) |
+| 2740 | Pragati Engineering College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://pec.org) |
+
+
+### Batch 275 (Colleges 2741–2750)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2741 | Dvr&dr.hs Mic College of Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://dmcot.org) |
+| 2742 | Sri Sai College of IT & Management | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://sscoim.org) |
+| 2743 | Gouthami Institute of Technology & Management for Women | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://gouthamiinstituteof.org) |
+| 2744 | Gayatri Vidya Parishad College for Degree and PG Courses | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://gayatrividyaparishad.org) |
+| 2745 | Newton's Institute of Engineering | GUNTUR | Andhra Pradesh | Private | [Portal](http://nioe.org) |
+| 2746 | Saiganapathi Engineering College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sec.org) |
+| 2747 | Rao's School of Business & Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://rsobt.org) |
+| 2748 | RV Institute of Technology (Rvit) | Guntur | Andhra Pradesh | Private | [Portal](https://www.rvit.edu.in) |
+| 2749 | Rajeev Gandhi Memorial College of Engineering & Technology | KURNOOL | Andhra Pradesh | Private | [Portal](http://rajeevgandhimemorial.org) |
+| 2750 | V.s. Lakshmi Institute of Management Studies | Kakinada | Andhra Pradesh | Private | [Portal](https://vslakshmiwomenscollege.in) |
+
+
+### Batch 276 (Colleges 2751–2760)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2751 | K M M Institute of Technology & Science | CHITTOOR | Andhra Pradesh | Private | [Portal](http://kmm.org) |
+| 2752 | Krishna Chaitanya Institute of Technology & Sciences | PRAKASAM | Andhra Pradesh | Private | [Portal](http://kciots.org) |
+| 2753 | Seshadri Rao Gudlavalleru Engineering College | KRISHNA | Andhra Pradesh | Private | [Portal](http://srgec.org) |
+| 2754 | Ambedkar Institute of Management Studies (Aims) | Visakhapatnam | Andhra Pradesh | Private | [Portal](http://aimsbschool.org) |
+| 2755 | Ramireddy Subbarami Reddy Engineering College | NELLORE | Andhra Pradesh | Private | [Portal](http://rsrec.org) |
+| 2756 | Lenora College of Engineering | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://lcoe.org) |
+| 2757 | Sri Sivani College of Engineering | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://sscoe.org) |
+| 2758 | Visakha Institute of Engineering & Technology (Viet) | Visakhapatnam | Andhra Pradesh | Private | [Portal](https://www.viet.edu.in) |
+| 2759 | Maharaj Vijayaram Gajapathi Raj College of Engineering | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://maharajvijayaramgajapathi.org) |
+| 2760 | Akkineni Nageswara Rao College - M.c.a. Programme | KRISHNA | Andhra Pradesh | Private | [Portal](http://anrcmp.org) |
+
+
+### Batch 277 (Colleges 2761–2770)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2761 | Sri Vasavi Engineering College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://svec.org) |
+| 2762 | Nova College of Engineering and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://ncoeat.org) |
+| 2763 | Haindavi PG College (MBA) | Dharmavaram | Andhra Pradesh | Private | [Portal](http://www.haindavipgcollege.org) |
+| 2764 | Rajah R.s.r.k. Ranga Rao College | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://rrrrc.org) |
+| 2765 | Csi Rayalaseema Diocese Institute of Management & Technology | Gooty | Andhra Pradesh | Private | [Portal](http://www.csirdimt.org) |
+| 2766 | R.v.r.& J.c.college of Engineering | GUNTUR | Andhra Pradesh | Private | [Portal](http://rjoe.org) |
+| 2767 | Indira Institute of Technology and Sciences | PRAKASAM | Andhra Pradesh | Private | [Portal](http://iiotas.org) |
+| 2768 | GATE Institute of Technology and Management Sciences | Tirupati | Andhra Pradesh | Private | [Portal](http://www.gatetirupati.com) |
+| 2769 | Viswam Engineering College | Madanapalle | Andhra Pradesh | Private | [Portal](https://viswam.ac.in) |
+| 2770 | Sanketika Vidya Parishad Engineering College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://svpec.org) |
+
+
+### Batch 278 (Colleges 2771–2780)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2771 | Sanjeev Institute of Planning and Management | Kakinada | Andhra Pradesh | Private | [Portal](https://sim.edu.in) |
+| 2772 | Abhinav Institute of Management & Technology | Singarayakonda | Andhra Pradesh | Private | [Portal](http://www.abhinavinstitutions.com) |
+| 2773 | K. Chandrakala P.g College | GUNTUR | Andhra Pradesh | Private | [Portal](http://kcpc.org) |
+| 2774 | Baba Institute of Technology and Sciences | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://biotas.org) |
+| 2775 | Rajiv Gandhi Institute of Management & Science (Rims) | Kakinada | Andhra Pradesh | Private | [Portal](https://rimsmba.org) |
+| 2776 | Narayanadri Institute of Science and Technology | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://niosat.org) |
+| 2777 | Bharath College of Engineering and Technology for Women | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://bharathcollegeof.org) |
+| 2778 | Srinivasa Institute of Technology & Science (Sits) | Kadapa | Andhra Pradesh | Private | [Portal](https://www.sitskadapa.ac.in) |
+| 2779 | Wellfare Institute of Science, Technology and Management | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://wellfareinstituteof.org) |
+| 2780 | Zenex Vision School of Business and Technology | NELLORE | Andhra Pradesh | Private | [Portal](http://zenexvisionschool.org) |
+
+
+### Batch 279 (Colleges 2781–2790)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2781 | Sri Sai Ram Institute of PG Studies | Kodavalur | Andhra Pradesh | Private | [Portal](https://ssrips.com) |
+| 2782 | Malineni Suseelamma Women's Engineering College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://mswec.org) |
+| 2783 | Chalapathi Institute of Technology | GUNTUR | Andhra Pradesh | Private | [Portal](http://ciot.org) |
+| 2784 | Anantha Lakshmi Institute of Technology & Sciences (Alits) | Anantapur | Andhra Pradesh | Private | [Portal](http://alits.ac.in) |
+| 2785 | Siddharth Institute of Engineering & Technology | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sioet.org) |
+| 2786 | Kits Akshar Institute of Technology | Guntur | Andhra Pradesh | Private | [Portal](https://kitsakshar.ac.in) |
+| 2787 | Kakinada Institute of Engineering & Technology for Women | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://kakinadainstituteof.org) |
+| 2788 | International School of Technology and Sciences for Women (Ists) | Rajanagaram | Andhra Pradesh | Private | [Portal](https://www.ists.ac.in) |
+| 2789 | Santhiram Engineering College (Srec) | Nandyal | Andhra Pradesh | Private | [Portal](http://secs.org) |
+| 2790 | K.s.r.m. College of Engineering | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://kcoe.org) |
+
+
+### Batch 280 (Colleges 2791–2800)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2791 | Kakinada Institute of Engineering & Technology-II | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://kioet.org) |
+| 2792 | Priyadarshini Institute of Technology & Science for Women | GUNTUR | Andhra Pradesh | Private | [Portal](http://priyadarshiniinstituteof.org) |
+| 2793 | Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology (Pscmrcet) | Vijayawada | Andhra Pradesh | Private | [Portal](https://pscmr.ac.in) |
+| 2794 | Mvr College of Engineering and Technology | Paritala | Andhra Pradesh | Private | [Portal](http://www.mvrcoe.ac.in) |
+| 2795 | Tripura Vidya Mandiram | Tadepalligudem | Andhra Pradesh | Private | [Portal](http://www.tvmtpg.org) |
+| 2796 | Sree Rama Engineering College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://srec.org) |
+| 2797 | Chiranjeevi Reddy Institute of Engineering and Technology | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://chiranjeevireddyinstitute.org) |
+| 2798 | Akshara Institute of Management and Technology | Tirupati | Andhra Pradesh | Private | [Portal](https://www.aksharaimt.com) |
+| 2799 | Kakinada Institute of Technology and Science | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://kiotas.org) |
+| 2800 | Kakinada Institute of Engineering & Technology | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://kioet.org) |
+
+
+### Batch 281 (Colleges 2801–2810)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2801 | Swarnandhra College of Engineering & Technology | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://scoet.org) |
+| 2802 | Vijayam Institute of Technology | CHITTOOR | Andhra Pradesh | Private | [Portal](http://viot.org) |
+| 2803 | B.r. Institute of Technology and Management Sciences (Britms) | Guntur | Andhra Pradesh | Private | [Portal](http://britms.in) |
+| 2804 | Saln College of Engineering and Management | Palluru | Andhra Pradesh | Private | [Portal](http://www.salncollege.org) |
+| 2805 | Akula Sreeramulu College of Engineering | WEST GODAVARI | Andhra Pradesh | Private | [Portal](https://www.amu.ac.in) |
+| 2806 | Indian Institute of Foreign Trade (Iift) Kakinada Campus | Kakinada | Andhra Pradesh | Public/Government | [Portal](https://www.iift.ac.in) |
+| 2807 | Behara College of Engineering and Technology | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://bcoeat.org) |
+| 2808 | Vyshnavi Institute of Management Sciences (Vims) | Yemmiganur | Andhra Pradesh | Private | [Portal](https://vyshnavicolleges.com) |
+| 2809 | A.s.n Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://adc.org) |
+| 2810 | Alwar College of Engineering (Ace) | Visakhapatnam | Andhra Pradesh | Private | [Portal](https://ace.edu.in) |
+
+
+### Batch 282 (Colleges 2811–2820)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2811 | Aditya Degree and PG College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://adapc.org) |
+| 2812 | Rao's Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://rdc.org) |
+| 2813 | Krishnaveni Degree & PG College | Narasaraopet | Andhra Pradesh | Private | [Portal](http://www.kvdcnrt.com) |
+| 2814 | International School of Technology and Sciences (Ists) | Rajanagaram | Andhra Pradesh | Private | [Portal](https://www.ists.ac.in) |
+| 2815 | Central Tribal University of Andhra Pradesh | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://ctuoap.org) |
+| 2816 | S.v. College of Engineering | CHITTOOR | Andhra Pradesh | Private | [Portal](http://scoe.org) |
+| 2817 | ST Josephs College for Women Autonomous | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sjcfwa.org) |
+| 2818 | Spaces Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 2819 | Sri Gcsr Degree College | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://sgdc.org) |
+| 2820 | Dr. Jyothirmayi Degree College | KURNOOL | Andhra Pradesh | Private | [Portal](http://djdc.org) |
+
+
+### Batch 283 (Colleges 2821–2830)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2821 | Alwardas Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://adc.org) |
+| 2822 | Gayatri College of Science and Managaement | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://gcosam.org) |
+| 2823 | The Bapatla College of Arts and Sciences Bapatla | GUNTUR | Andhra Pradesh | Private | [Portal](http://thebapatlacollege.org) |
+| 2824 | Aditya Degree College Kakinada | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://adck.org) |
+| 2825 | Kakinada Aditya Degree College | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://kadc.org) |
+| 2826 | Aditya Degree College Palakol | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://adcp.org) |
+| 2827 | Aditya Degree College Srinagar Asilmetta | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://adcsa.org) |
+| 2828 | Aditya Degree College Eluru | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://adce.org) |
+| 2829 | Aditya Degree College for Women, Kakinada | Kakinada | Andhra Pradesh | Private | [Portal](https://aditya.ac.in/degree) |
+| 2830 | Aditya Degree College for Women's | KRISHNA | Andhra Pradesh | Private | [Portal](http://adcfw.org) |
+
+
+### Batch 284 (Colleges 2831–2840)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2831 | Aditya Degree College Rajahmundry | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://adcr.org) |
+| 2832 | Kakinada Sri Aditya Degree College | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://ksadc.org) |
+| 2833 | Aditya Degree College Tuni | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://adct.org) |
+| 2834 | Aditya Degree College for Women | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://adcfw.org) |
+| 2835 | Aqj Degree and PG College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://adapc.org) |
+| 2836 | Ssgs Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 2837 | K.v. Subba Reddy Degree College | KURNOOL | Andhra Pradesh | Private | [Portal](http://ksrdc.org) |
+| 2838 | Sksd Mahila Kalasala UG and PG Autonomous | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://sksdmahilakalasala.org) |
+| 2839 | Unity Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://udc.org) |
+| 2840 | Aditya Degree College, Gudivada | KRISHNA | Andhra Pradesh | Private | [Portal](http://adcg.org) |
+
+
+### Batch 285 (Colleges 2841–2850)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2841 | Sri Durga Malleswara Siddhartha Mahila Kalasala | KRISHNA | Andhra Pradesh | Private | [Portal](http://sdmsmk.org) |
+| 2842 | Brr Gkr Chambers Degree College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://bgcdc.org) |
+| 2843 | Shree Velagapudi Ramakrishna Memorial College Nagaram | GUNTUR | Andhra Pradesh | Private | [Portal](http://svrmcn.org) |
+| 2844 | Pvkk Degree and PG College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://pdapc.org) |
+| 2845 | Adusumilli Gopalakrishnaiah and Sugarcane Growers Siddhartha Degree College of Arts and Science | KRISHNA | Andhra Pradesh | Private | [Portal](http://adusumilligopalakrishnaiahand.org) |
+| 2846 | Akrg Degree College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://adc.org) |
+| 2847 | Srinivasa Degree PG College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sdpc.org) |
+| 2848 | Sri Krishnaveni Degree Kalasala | KRISHNA | Andhra Pradesh | Private | [Portal](http://skdk.org) |
+| 2849 | Swamy Vivekananda Degree PG College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://svdpc.org) |
+| 2850 | Sapthagiri Degree PG College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sdpc.org) |
+
+
+### Batch 286 (Colleges 2851–2860)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2851 | Vikas Degree College | KRISHNA | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+| 2852 | Sanjeevani Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 2853 | Westin College of Hotel Management | KRISHNA | Andhra Pradesh | Private | [Portal](http://wcohm.org) |
+| 2854 | Rajiv Gandhi Institute of Management and Science | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://rajivgandhiinstitute.org) |
+| 2855 | Vyshnavi Degree College | KURNOOL | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+| 2856 | Prism Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://pdc.org) |
+| 2857 | Sreepaada Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 2858 | Sri Satya Sai Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sssdc.org) |
+| 2859 | Svvp Degree and PG College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sdapc.org) |
+| 2860 | Ssn Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+
+
+### Batch 287 (Colleges 2861–2870)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2861 | Sri Vijayadurga Degree College | KURNOOL | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 2862 | Sri Balaji Vidya Parishad Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sbvpdc.org) |
+| 2863 | Ideal College of Arts and Sciences | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://icoaas.org) |
+| 2864 | Yrl College of Arts Science and Technology | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://yrlcollegeof.org) |
+| 2865 | Master Minds Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://mmdc.org) |
+| 2866 | Krishna Chaitanya Degree and PG College | NELLORE | Andhra Pradesh | Private | [Portal](http://kcdapc.org) |
+| 2867 | B.h.h. Degree College for Women | GUNTUR | Andhra Pradesh | Private | [Portal](http://bdcfw.org) |
+| 2868 | Sri Rachapudy Nagabhushanam Degree and PG College | YSR DISTRICT | Andhra Pradesh | Private | [Portal](https://www.bhu.ac.in) |
+| 2869 | A.k.v.k Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://adc.org) |
+| 2870 | Krishnaveni Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://kdc.org) |
+
+
+### Batch 288 (Colleges 2871–2880)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2871 | Sln Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 2872 | B.a and K.r Degree and PG College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://baandkr.org) |
+| 2873 | P.n.c. and KR Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://pakdc.org) |
+| 2874 | N B K R Science and Arts College | NELLORE | Andhra Pradesh | Private | [Portal](http://nbk.org) |
+| 2875 | Mangalakara Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://mdc.org) |
+| 2876 | AL Ameer Institute of Management and Tech | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://alameerinstitute.org) |
+| 2877 | Sanjeev College of Arts and Science | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://scoaas.org) |
+| 2878 | Gitam Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://gdc.org) |
+| 2879 | Sri Harshini Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://shdc.org) |
+| 2880 | DR Samala Ramaiah Janakamma Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://dsrjdc.org) |
+
+
+### Batch 289 (Colleges 2881–2890)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2881 | Seicom Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 2882 | Mcv Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://mdc.org) |
+| 2883 | Madhurai Meenakshi Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://mmdc.org) |
+| 2884 | Prabhas Degree College | KRISHNA | Andhra Pradesh | Private | [Portal](http://pdc.org) |
+| 2885 | P.v.r.trust Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://pdc.org) |
+| 2886 | ST Josephs Degree College | KURNOOL | Andhra Pradesh | Private | [Portal](http://sjdc.org) |
+| 2887 | Sri Sai Baba National Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://ssbndc.org) |
+| 2888 | Osmania College | KURNOOL | Andhra Pradesh | Private | [Portal](http://osmaniacollege.org) |
+| 2889 | The Adoni Arts and Science College | KURNOOL | Andhra Pradesh | Private | [Portal](http://taaasc.org) |
+| 2890 | Samhitha Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+
+
+### Batch 290 (Colleges 2891–2900)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2891 | V V R Kanaka Mahalakshmi Degree College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://vvr.org) |
+| 2892 | P M N Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://pmndc.org) |
+| 2893 | Enlight College of Science and Commerce | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://ecosac.org) |
+| 2894 | Sri Sai Krishna Degree College | KURNOOL | Andhra Pradesh | Private | [Portal](http://sskdc.org) |
+| 2895 | Gckvn Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://gdc.org) |
+| 2896 | Kuppam Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://kdc.org) |
+| 2897 | Vagdevi Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+| 2898 | Krishnaveni Degree College for Women | GUNTUR | Andhra Pradesh | Private | [Portal](http://kdcfw.org) |
+| 2899 | Sri Sai Krishna Smt. Theresa Arts and Science Degree College | KURNOOL | Andhra Pradesh | Private | [Portal](http://srisaikrishna.org) |
+| 2900 | Jagans Degree and PG College | NELLORE | Andhra Pradesh | Private | [Portal](http://jdapc.org) |
+
+
+### Batch 291 (Colleges 2901–2910)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2901 | Shri Gnanambica Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sgdc.org) |
+| 2902 | Krishna Chaitanya Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://kcdc.org) |
+| 2903 | Abhyudaya Mahila Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://amdc.org) |
+| 2904 | Cnr Arts and Science College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://caasc.org) |
+| 2905 | GATE Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://gdc.org) |
+| 2906 | Loyola Degree College Ysrr | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://ldcy.org) |
+| 2907 | Nagarjuna Degree College for Women | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://ndcfw.org) |
+| 2908 | Chaitanya Degree and PG College for Women | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://chaitanyadegreeand.org) |
+| 2909 | S.b.v.r. Degree College | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 2910 | S V Degree and P G College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://svdegree.org) |
+
+
+### Batch 292 (Colleges 2911–2920)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2911 | Pragati Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://pdc.org) |
+| 2912 | Vda Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+| 2913 | Tsr and Tbk Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://tatdc.org) |
+| 2914 | Dr. Hima Sekhar Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://dhsdc.org) |
+| 2915 | Sri Murali Krishna Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://smkdc.org) |
+| 2916 | Pragati Women's Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://pwdc.org) |
+| 2917 | Balayesu Degree College Hindupur | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://bdch.org) |
+| 2918 | Sree Kasyap Degree College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://skdc.org) |
+| 2919 | Nrk and Ksr Gupta Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://nakgdc.org) |
+| 2920 | Gitams Degree College | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://gdc.org) |
+
+
+### Batch 293 (Colleges 2921–2930)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2921 | Pydah Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://pdc.org) |
+| 2922 | Gayatri Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://gdc.org) |
+| 2923 | Avanthi Degree PG College Korukonda Road | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://adpckr.org) |
+| 2924 | Sri Chanakya Degree College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://scdc.org) |
+| 2925 | Sdgs Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 2926 | Dr. Lakireddy Hanimireddy Government Degree College Mylavaram | KRISHNA | Andhra Pradesh | Public/Government | [Portal](https://drlakireddyhanimireddy.gov.in) |
+| 2927 | Visakha Govt Degree College for Women | VISAKHAPATNAM | Andhra Pradesh | Public/Government | [Portal](https://vgdcfw.gov.in) |
+| 2928 | Vignanasudha Degree and PG College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://vdapc.org) |
+| 2929 | Government College Autonomous | ANANTAPUR | Andhra Pradesh | Public/Government | [Portal](https://gca.gov.in) |
+| 2930 | Vsl Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+
+
+### Batch 294 (Colleges 2931–2940)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2931 | Skp Government Degree College | ANANTAPUR | Andhra Pradesh | Public/Government | [Portal](https://sgdc.gov.in) |
+| 2932 | Mother Theresa Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://mtdc.org) |
+| 2933 | Government Degree College Autonomous | CHITTOOR | Andhra Pradesh | Public/Government | [Portal](https://gdca.gov.in) |
+| 2934 | Government College Autonomous Rajahmundry | EAST GODAVARI | Andhra Pradesh | Public/Government | [Portal](https://gcar.gov.in) |
+| 2935 | Sri Vivekananda Degree College for Women Autonomous Kadapa | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://srivivekanandadegree.org) |
+| 2936 | Vcr Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+| 2937 | S.c.i.m Govt. College | WEST GODAVARI | Andhra Pradesh | Public/Government | [Portal](https://sgc.gov.in) |
+| 2938 | Skr Skr Government College for Women | YSR DISTRICT | Andhra Pradesh | Public/Government | [Portal](https://ssgcfw.gov.in) |
+| 2939 | Ksn Government Dgeree College for Women Autonomous | ANANTAPUR | Andhra Pradesh | Public/Government | [Portal](https://ksngovernmentdgeree.gov.in) |
+| 2940 | Government College for Men Autonomous Kadapa | YSR DISTRICT | Andhra Pradesh | Public/Government | [Portal](https://gcfmak.gov.in) |
+
+
+### Batch 295 (Colleges 2941–2950)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2941 | Alliance College of Hotel Management Visakhapatnam | 54-11-40/1 KRISHNA COLLEGE, MADDILAPALEM, VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](https://alliancemgt.org) |
+| 2942 | Aditya Degree College Anakapalli | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://adca.org) |
+| 2943 | R.v.s Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://rdc.org) |
+| 2944 | Smt Nps Gdc for Women | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sngfw.org) |
+| 2945 | Pithapur Rajah's Government College | EAST GODAVARI | Andhra Pradesh | Public/Government | [Portal](https://prgc.gov.in) |
+| 2946 | Govt Degree College for Women | CHITTOOR | Andhra Pradesh | Public/Government | [Portal](https://gdcfw.gov.in) |
+| 2947 | Svcr Govt Degree College | CHITTOOR | Andhra Pradesh | Public/Government | [Portal](https://sgdc.gov.in) |
+| 2948 | Dr. V.s. Krishna Govt. Degree College(A) | VISAKHAPATNAM | Andhra Pradesh | Public/Government | [Portal](https://dvkgdc.gov.in) |
+| 2949 | Vijayam Science and Arts Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://vsaadc.org) |
+| 2950 | V S Lakshmi Womens Degree and PG College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://vslakshmi.org) |
+
+
+### Batch 296 (Colleges 2951–2960)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2951 | Government Degree College Puttur | CHITTOOR | Andhra Pradesh | Public/Government | [Portal](https://gdcp.gov.in) |
+| 2952 | DR R C Reddy Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://drcrdc.org) |
+| 2953 | Sri Hari Degree College | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://shdc.org) |
+| 2954 | Viswam Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+| 2955 | Anam Sanjeeva Reddy Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://asrdc.org) |
+| 2956 | Emeralds Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://edc.org) |
+| 2957 | Sri Balaji Degree College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sbdc.org) |
+| 2958 | Bhavanams Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://bdc.org) |
+| 2959 | Msr Degree College Kavali | NELLORE | Andhra Pradesh | Private | [Portal](http://mdck.org) |
+| 2960 | Victory Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+
+
+### Batch 297 (Colleges 2961–2970)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2961 | Sdhr Degree and PG College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sdapc.org) |
+| 2962 | Rajamahendri Degree and PG College for Women | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://rajamahendridegreeand.org) |
+| 2963 | Vinex Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+| 2964 | Government Degree College for Women Srikalahasthi | CHITTOOR | Andhra Pradesh | Public/Government | [Portal](https://gdcfws.gov.in) |
+| 2965 | Zenex Vision Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://zvdc.org) |
+| 2966 | Vivekananda Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+| 2967 | Nri Degree College (Formerly Sri Sarvepalli Educational Society) | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://nridegreecollege.org) |
+| 2968 | Sree Venkateswara Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 2969 | Krishna Teja Degree and PG College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://ktdapc.org) |
+| 2970 | Sun Degree College | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+
+
+### Batch 298 (Colleges 2971–2980)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2971 | Sri Bala Sai Degree College | KRISHNA | Andhra Pradesh | Private | [Portal](http://sbsdc.org) |
+| 2972 | Sri Vasavi Degree College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 2973 | Sun Senora Institute | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://ssi.org) |
+| 2974 | Sree Sai Master Minds Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://ssmmdc.org) |
+| 2975 | Cssr and Srrm Degree and PG College | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://cssrandsrrm.org) |
+| 2976 | Sri Chandra Reddy Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://scrdc.org) |
+| 2977 | Cnr Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://cdc.org) |
+| 2978 | Don Bosco Degree College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://dbdc.org) |
+| 2979 | Kahl Degree College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://kdc.org) |
+| 2980 | Sri Venkateswara Degree College Madakasira | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://svdcm.org) |
+
+
+### Batch 299 (Colleges 2981–2990)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2981 | Nalanda Degree College | KRISHNA | Andhra Pradesh | Private | [Portal](http://ndc.org) |
+| 2982 | Sri Sai Womens Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sswdc.org) |
+| 2983 | Agl College | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://aglcollege.org) |
+| 2984 | Geethanjali Degree College | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://gdc.org) |
+| 2985 | Himaja Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://hdc.org) |
+| 2986 | Sri Padmavathi Women's Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://spwdc.org) |
+| 2987 | Sarada Degree College | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 2988 | Jagans Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://jdc.org) |
+| 2989 | Blossom Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://bdc.org) |
+| 2990 | R K Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://rkdc.org) |
+
+
+### Batch 300 (Colleges 2991–3000)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2991 | Sree Sai Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://ssdc.org) |
+| 2992 | Sri Vani Degree and PG College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://svdapc.org) |
+| 2993 | Sri Vani Degree College Palamaner | CHITTOOR | Andhra Pradesh | Private | [Portal](http://svdcp.org) |
+| 2994 | Sri Gowri Degree and PG College | VISHAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://sgdapc.org) |
+| 2995 | Vjp and Dlb Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://vaddc.org) |
+| 2996 | Vidya Arts and Science Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://vaasdc.org) |
+| 2997 | Sri Sathya Krupa Degree College for Women | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://srisathyakrupa.org) |
+| 2998 | S V College of Commerece | CHITTOOR | Andhra Pradesh | Private | [Portal](http://svcoc.org) |
+| 2999 | Ramakrishna Arts and Science Degree and PG College | NELLORE | Andhra Pradesh | Private | [Portal](http://ramakrishnaartsand.org) |
+| 3000 | Aaditya Degree and P G College Nellore | NELLORE | Andhra Pradesh | Private | [Portal](http://aadityadegreeand.org) |
+
+
+### Batch 301 (Colleges 3001–3010)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3001 | Sims College of Life Sciences | GUNTUR | Andhra Pradesh | Private | [Portal](http://scols.org) |
+| 3002 | Gayathri Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://gdc.org) |
+| 3003 | Siddartha Institute of Higher Learning | CHITTOOR | Andhra Pradesh | Private | [Portal](http://siohl.org) |
+| 3004 | Sri Venkateswara College of Arts and Science | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://srivenkateswaracollege.org) |
+| 3005 | Sree Vidya Arts and Science Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sreevidyaarts.org) |
+| 3006 | Snr Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 3007 | Sri Vasista Degree College | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 3008 | Spmh Kalasala | KRISHNA | Andhra Pradesh | Private | [Portal](http://spmhkalasala.org) |
+| 3009 | Presidency Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://pdc.org) |
+| 3010 | Sri Nadimpalli Suryanarayana Raju Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://snsrdc.org) |
+
+
+### Batch 302 (Colleges 3011–3020)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3011 | Sreenivasa Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 3012 | S V Arts and Science Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://svarts.org) |
+| 3013 | Sri Shirdi Sai Womens Degree College | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://ssswdc.org) |
+| 3014 | Sri Sreenivasa Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://ssdc.org) |
+| 3015 | Sri Vasavi Grandhi Manikyala Rao Degree College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://srivasavigrandhi.org) |
+| 3016 | Tara Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://tdc.org) |
+| 3017 | Suryaraya Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 3018 | Akshara Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://adc.org) |
+| 3019 | Lendi Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://ldc.org) |
+| 3020 | S.v Arts and Science College | NELLORE | Andhra Pradesh | Private | [Portal](http://saasc.org) |
+
+
+### Batch 303 (Colleges 3021–3030)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3021 | Sri Vinayaka Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 3022 | Sri Lakshmi Venkateswara Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://slvdc.org) |
+| 3023 | Sri C Dass Arts and Science College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sricdass.org) |
+| 3024 | Nalanda Degree College PG Centre | KRISHNA | Andhra Pradesh | Private | [Portal](http://ndcpc.org) |
+| 3025 | Sree Chaitanya Degtee College | NELLORE | Andhra Pradesh | Private | [Portal](http://scdc.org) |
+| 3026 | Sri Vaishnavi Degree College | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 3027 | Sri Balaji Vidya Vihar Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sbvvdc.org) |
+| 3028 | Sun Institute of Hotel Management and Catering Technology | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://suninstituteof.org) |
+| 3029 | Sri Sai Charvith Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://sscdc.org) |
+| 3030 | Sri Viveka Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+
+
+### Batch 304 (Colleges 3031–3040)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3031 | SP Ram Rayalaseema Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://srrdc.org) |
+| 3032 | Sri Krishna Chaitanya Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://skcdc.org) |
+| 3033 | Sri Venkateswra Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 3034 | Sri Vedanarayana Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 3035 | Vidyanidhi Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://vdc.org) |
+| 3036 | G.r.k Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://gdc.org) |
+| 3037 | Spvm Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 3038 | Chaitanya Bharathi Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://cbdc.org) |
+| 3039 | Sree Jeevana Jyothi Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://sjjdc.org) |
+| 3040 | Alnm Dgree College for Women | PRAKASAM | Andhra Pradesh | Private | [Portal](http://adcfw.org) |
+
+
+### Batch 305 (Colleges 3041–3050)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3041 | A.s.n.degree College for Women | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://acfw.org) |
+| 3042 | Sri Venkateswara and Sri Satyadeva Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://srivenkateswaraand.org) |
+| 3043 | Sri Venkateswara Degree College Guntakal | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://svdcg.org) |
+| 3044 | Sri Venkateswara College of Arts and Computer Sciences | YSR DISTRICT | Andhra Pradesh | Private | [Portal](http://srivenkateswaracollege.org) |
+| 3045 | G C and Y P N Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://gcand.org) |
+| 3046 | LN G V Rao Modern Degree Colllege | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://lngv.org) |
+| 3047 | Sri Nagarjuna Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://sndc.org) |
+| 3048 | Sri Venkateswara Degree and PG College | NELLORE | Andhra Pradesh | Private | [Portal](http://svdapc.org) |
+| 3049 | Acts Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://adc.org) |
+| 3050 | E T N and L Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://etn.org) |
+
+
+### Batch 306 (Colleges 3051–3060)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3051 | Sree Vasavi Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 3052 | Atn's Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://adc.org) |
+| 3053 | S V Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 3054 | Sree Padmavathi Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://spdc.org) |
+| 3055 | Smt.barla Subbalkshmi Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://ssdc.org) |
+| 3056 | St.mary's Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 3057 | Gowtham Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://gdc.org) |
+| 3058 | Kanumarla Rural Development and Educaitonal Society | PRAKASAM | Andhra Pradesh | Private | [Portal](http://krdaes.org) |
+| 3059 | Gnana Saraswathi Degree College | KURNOOL | Andhra Pradesh | Private | [Portal](http://gsdc.org) |
+| 3060 | Mahathi Degree College | VISAKHAPATNAM | Andhra Pradesh | Private | [Portal](http://mdc.org) |
+
+
+### Batch 307 (Colleges 3061–3070)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3061 | Ssr Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 3062 | Swamy Vivekananda Degree College | ANANTAPUR | Andhra Pradesh | Private | [Portal](http://svdc.org) |
+| 3063 | Mahatma Gandhi College | GUNTUR | Andhra Pradesh | Private | [Portal](http://mgc.org) |
+| 3064 | Elite Degree College | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://edc.org) |
+| 3065 | Rkm Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://rdc.org) |
+| 3066 | Sri Pragathi Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://spdc.org) |
+| 3067 | Sri Venkateswara Degree College Kalakada | CHITTOOR | Andhra Pradesh | Private | [Portal](http://svdck.org) |
+| 3068 | Sri Vignana Deepthi Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://svddc.org) |
+| 3069 | Sri Nagarjuna Arts and Science College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://snaasc.org) |
+| 3070 | Satya Degree & PG College | VIZIANAGARAM | Andhra Pradesh | Private | [Portal](http://sdpc.org) |
+
+
+### Batch 308 (Colleges 3071–3080)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3071 | Sri Gayatri Vidya Parishd Dgeree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://sgvpdc.org) |
+| 3072 | Satya Sree Parimala Polytechnic | EAST GODAVARI | Andhra Pradesh | Private | [Portal](http://sspp.org) |
+| 3073 | College of Engineering DR B R Ambedkar University Srikakulam | SRIKAKULAM | Andhra Pradesh | Private | [Portal](http://collegeofengineering.org) |
+| 3074 | Chegireddy Linga Reddy Institute of Management (Clrim) | Cumbum | Andhra Pradesh | Private | [Portal](https://www.clritm.com) |
+| 3075 | Kakatiya Degree College | NELLORE | Andhra Pradesh | Private | [Portal](http://kdc.org) |
+| 3076 | Sir C R Reddy College for Women | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://sircr.org) |
+| 3077 | Akkineni Nageswara Rao College of Engineering and Technology | KRISHNA | Andhra Pradesh | Private | [Portal](http://akkineninageswararao.org) |
+| 3078 | Sri Harshini College of Engineering and Technology for Women (Shec) | Maddipadu | Andhra Pradesh | Private | [Portal](https://shec.ac.in) |
+| 3079 | Indira Institute of Management | Chinnamandem | Andhra Pradesh | Private | [Portal](https://iimap.in) |
+| 3080 | Akshay Institute of Management | Kadapa | Andhra Pradesh | Private | [Portal](http://www.aimkadapa.in) |
+
+
+### Batch 309 (Colleges 3081–3090)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3081 | Bramarambha Mallikarjuna Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://bmdc.org) |
+| 3082 | D N R College | WEST GODAVARI | Andhra Pradesh | Private | [Portal](http://dnrc.org) |
+| 3083 | Mam Degree College | GUNTUR | Andhra Pradesh | Private | [Portal](http://mdc.org) |
+| 3084 | Saraswati Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://sdc.org) |
+| 3085 | Cvrm Degree College | CHITTOOR | Andhra Pradesh | Private | [Portal](http://cdc.org) |
+| 3086 | N.n.s.vidya Degree College | PRAKASAM | Andhra Pradesh | Private | [Portal](http://ndc.org) |
+| 3087 | Government Engineering College Aurangabad | GAYA | Bihar | Public/Government | [Portal](https://geca.gov.in) |
+| 3088 | Government Engineering College Kaimur | SARAN | Bihar | Public/Government | [Portal](https://geck.gov.in) |
+| 3089 | Government Polytechnic Barh | PATNA | Bihar | Public/Government | [Portal](https://gpb.gov.in) |
+| 3090 | Exalt College of Polytechnic | VAISHALI | Bihar | Private | [Portal](http://ecop.org) |
+
+
+### Batch 310 (Colleges 3091–3100)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3091 | Development Management Institute (Dmi) | Patna | Bihar | Private | [Portal](https://www.dmi.ac.in) |
+| 3092 | Millia Institute of Technology | PURNIA | Bihar | Private | [Portal](http://miot.org) |
+| 3093 | J P College of Engineering | NALANDA | Bihar | Private | [Portal](http://jpcoe.org) |
+| 3094 | Government Polytechnic Gaya | GAYA | Bihar | Public/Government | [Portal](https://gpg.gov.in) |
+| 3095 | Govt. Polytechnic, Dehrionsone | ROHTAS | Bihar | Public/Government | [Portal](https://gpd.gov.in) |
+| 3096 | Gems Polytechnic College | AURANGABAD | Bihar | Private | [Portal](http://gpc.org) |
+| 3097 | Government Polytechnic Motihari | EAST CHAMPARAN | Bihar | Public/Government | [Portal](https://gpm.gov.in) |
+| 3098 | University Department of Computer Applications, Tilka Manjhi Bhagalpur University | Bhagalpur | Bihar | Private | [Portal](https://udcatmbu.org) |
+| 3099 | Government Polytechnic Gopalganj | GOPALGANJ | Bihar | Public/Government | [Portal](https://gpg.gov.in) |
+| 3100 | Patna Sahib Technical Campus | VAISHALI | Bihar | Private | [Portal](http://pstc.org) |
+
+
+### Batch 311 (Colleges 3101–3110)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3101 | Azmet College of Engineering & Technology | KISHANGANJ | Bihar | Private | [Portal](http://acoet.org) |
+| 3102 | Government Polytechnic, Asthawan Nalanda | NALANDA | Bihar | Public/Government | [Portal](https://gpan.gov.in) |
+| 3103 | International School of Management (Ism) Patna | Patna | Bihar | Private | [Portal](https://www.ismpatna.ac.in) |
+| 3104 | Netaji Subhas Institute of Polytechnic | PATNA | Bihar | Private | [Portal](http://nsiop.org) |
+| 3105 | Govt. Polytechnic, Gulzarbagh | PATNA | Bihar | Public/Government | [Portal](https://gpg.gov.in) |
+| 3106 | Adwaita Mission Institute of Technology | BANKA | Bihar | Private | [Portal](http://amiot.org) |
+| 3107 | Govt. Polytechnic, Vaishali | VAISHALI | Bihar | Public/Government | [Portal](https://gpv.gov.in) |
+| 3108 | Institute of Business Management (Ibm), Bela, Darbhanga | Darbhanga | Bihar | Private | [Portal](https://www.ibmdarbhanga.ac.in) |
+| 3109 | Millia Polytechnic | PURNIA | Bihar | Private | [Portal](http://milliapolytechnic.org) |
+| 3110 | Sandip Foundations, Shri Ram Polytechnic | MADHUBANI | Bihar | Private | [Portal](http://sfsrp.org) |
+
+
+### Batch 312 (Colleges 3111–3120)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3111 | Baddiuzama Khan Polytechnic Institute | SITAMARHI | Bihar | Private | [Portal](http://bkpi.org) |
+| 3112 | Government Polytechnic Katihar | KATIHAR | Bihar | Public/Government | [Portal](https://gpk.gov.in) |
+| 3113 | Government Polytechnic Purnea | PURNIA | Bihar | Public/Government | [Portal](https://gpp.gov.in) |
+| 3114 | Government Polytechnic, Sheohar | SHEOHAR | Bihar | Public/Government | [Portal](https://gps.gov.in) |
+| 3115 | Government Polytechnic Madhubani | MADHUBANI | Bihar | Public/Government | [Portal](https://gpm.gov.in) |
+| 3116 | Sityog Instituteof Technology | AURANGABAD | Bihar | Private | [Portal](http://sit.org) |
+| 3117 | Government Polytechnic, Barauni, Begusarai,Bihar | BEGUSARAI | Bihar | Public/Government | [Portal](https://gpbb.gov.in) |
+| 3118 | Birla Institute of Technology, Patna | PATNA | Bihar | Private | [Portal](http://biotp.org) |
+| 3119 | New Government Polytechnic, Patna-13 | PATNA | Bihar | Public/Government | [Portal](https://ngpp.gov.in) |
+| 3120 | Bindeshwar Singh (B.s.) College, Danapur | Danapur | Bihar | Private | [Portal](https://bscollegedanapur.ac.in) |
+
+
+### Batch 313 (Colleges 3121–3130)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3121 | Department of Business Administration, Sachchidanand Sinha College | Aurangabad | Bihar | Private | [Portal](https://ssinhacollege.co.in) |
+| 3122 | Buddha Institute of Technology | GAYA | Bihar | Private | [Portal](http://biot.org) |
+| 3123 | C R K Polytechnic | VAISHALI | Bihar | Private | [Portal](http://crkp.org) |
+| 3124 | Ganga Memorial College of Polytechnic | NALANDA | Bihar | Private | [Portal](http://gmcop.org) |
+| 3125 | Bhagalpur College of Engineering , Bhagalpur | BHAGALPUR | Bihar | Private | [Portal](https://www.lpu.in) |
+| 3126 | Loknayak Jai Prakash Institute of Technology, Chhapra | SARAN | Bihar | Private | [Portal](http://loknayakjaiprakash.org) |
+| 3127 | Prabhu Kailash Polytechnic | AURANGABAD | Bihar | Private | [Portal](https://www.bhu.ac.in) |
+| 3128 | Govt. Polytechnic, Lakhisarai | LAKHISARAI | Bihar | Public/Government | [Portal](https://gpl.gov.in) |
+| 3129 | Govt. Women's Polytechnic | PATNA | Bihar | Public/Government | [Portal](https://gwp.gov.in) |
+| 3130 | Exalt College of Engineering & Technology | VAISHALI | Bihar | Private | [Portal](http://ecoet.org) |
+
+
+### Batch 314 (Colleges 3131–3140)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3131 | Govt. Polytechnic Bhagalpur | BHAGALPUR | Bihar | Public/Government | [Portal](https://www.lpu.in) |
+| 3132 | Goverment Polytechnic,Saharsa | SAHARSA | Bihar | Private | [Portal](http://govermentpolytechnicsaharsa.org) |
+| 3133 | College of Commerce, Arts & Science, Patna | Patna | Bihar | Private | [Portal](https://cocaspatna.ac.in) |
+| 3134 | Dr. Apj Abdul Kalam Womens Institute of Technology | DARBHANGA | Bihar | Private | [Portal](http://drapjabdul.org) |
+| 3135 | Lalit Narayan Mishra Institute of Economic Development and Social Change (Lnmi) | Patna | Bihar | Private | [Portal](https://lnmipat.ac.in) |
+| 3136 | University Department of Commerce and Business Administration, Lnmu | Darbhanga | Bihar | Private | [Portal](https://lnmu.ac.in) |
+| 3137 | Dept of Computer Application | GAYA | Bihar | Private | [Portal](http://doca.org) |
+| 3138 | Siwan College of Engineering and Management | SIWAN | Bihar | Private | [Portal](http://scoeam.org) |
+| 3139 | Maulana Azad College of Engineering and Technology | PATNA | Bihar | Private | [Portal](http://maulanaazadcollege.org) |
+| 3140 | Motihari College of Engineering, Motihari | EAST CHAMPARAN | Bihar | Private | [Portal](http://mcoem.org) |
+
+
+### Batch 315 (Colleges 3141–3150)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3141 | Rajan Mamta Degree College (Rmdc) | Aurangabad | Bihar | Private | [Portal](http://rmdc.co.in) |
+| 3142 | Anugrah Narayan College, Patna | PATNA | Bihar | Private | [Portal](http://ancp.org) |
+| 3143 | Nalanda College | NALANDA | Bihar | Private | [Portal](http://nalandacollege.org) |
+| 3144 | Lalit Narayan Mishra Institute of Economic Development and Social Change (Lnmi - MBA Department) | Patna | Bihar | Private | [Portal](https://lnmipat.ac.in) |
+| 3145 | Muzaffarpur Institute of Technology, Muzaffarpur | MUZAFFARPUR | Bihar | Private | [Portal](http://miotm.org) |
+| 3146 | Nalanda College of Engineering, Chandi | NALANDA | Bihar | Private | [Portal](http://ncoec.org) |
+| 3147 | Abc College of Education | Patna | Bihar | Private | [Portal](https://abcce.co.in) |
+| 3148 | Maalik Institute of Technology | GAYA | Bihar | Private | [Portal](http://miot.org) |
+| 3149 | Prabhu Kailash Engineering College | AURANGABAD | Bihar | Private | [Portal](https://www.bhu.ac.in) |
+| 3150 | Sns Vidyapeeth | EAST CHAMPARAN | Bihar | Private | [Portal](http://snsvidyapeeth.org) |
+
+
+### Batch 316 (Colleges 3151–3160)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3151 | Rajeev College of Professional Education | SITAMARHI | Bihar | Private | [Portal](http://rcope.org) |
+| 3152 | R.p.sharma Institute of Technology | PATNA | Bihar | Private | [Portal](http://riot.org) |
+| 3153 | Netaji Subhas Institute of Technology | PATNA | Bihar | Private | [Portal](http://nsiot.org) |
+| 3154 | Vaishali Institute of Business & Rural Management | MUZAFFARPUR | Bihar | Private | [Portal](http://viobrm.org) |
+| 3155 | Gaya College of Engineering | GAYA | Bihar | Private | [Portal](http://gcoe.org) |
+| 3156 | Darbhanga College of Engineering | DARBHANGA | Bihar | Private | [Portal](http://dcoe.org) |
+| 3157 | Himalaya College of Professional Education (Hcpe) | Patna | Bihar | Private | [Portal](https://hcpedu.in) |
+| 3158 | Central Institute of Petrochemicals Engineering and Technology Bhagalpur | BHAGALPUR | Bihar | Private | [Portal](https://www.cipet.gov.in) |
+| 3159 | Indian Institute of Business Management | PATNA | Bihar | Public/Government | [Portal](https://iiobm.gov.in) |
+| 3160 | Champaran Group of Institutions | WEST CHAMPARAN | Bihar | Private | [Portal](http://cgoi.org) |
+
+
+### Batch 317 (Colleges 3161–3170)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3161 | Patliputra College of Professional Education | PATNA | Bihar | Private | [Portal](http://pcope.org) |
+| 3162 | Magadh Institute of Technology (MIT) | Danapur | Bihar | Private | [Portal](https://www.magadhinstituteoftechnology.com) |
+| 3163 | Ram Lakhan Singh Yadav College | PATNA | Bihar | Private | [Portal](http://rlsyc.org) |
+| 3164 | Swami Sahzanand College Jehanabad | JEHANABAD | Bihar | Private | [Portal](http://sscj.org) |
+| 3165 | Dr. Ashok Gagan College | PATNA | Bihar | Private | [Portal](http://dagc.org) |
+| 3166 | Sityog Institute of Polytechnic | AURANGABAD | Bihar | Private | [Portal](http://siop.org) |
+| 3167 | Central Institute of Petochemicals Enginnering and Technology Ipt Bihta | PATNA | Bihar | Private | [Portal](http://centralinstituteof.org) |
+| 3168 | Mata Sita Sunder College of Education | SITAMARHI | Bihar | Private | [Portal](http://msscoe.org) |
+| 3169 | Vestor College of Management | PATNA | Bihar | Private | [Portal](http://vcom.org) |
+| 3170 | R.p. College | NAWADA | Bihar | Private | [Portal](http://rpcollege.org) |
+
+
+### Batch 318 (Colleges 3171–3180)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3171 | Dr. Ranjeet Kumar Prakash College | VAISHALI | Bihar | Private | [Portal](http://drkpc.org) |
+| 3172 | Maa Kamakhya Polytechnic | ROHTAS | Bihar | Private | [Portal](http://mkp.org) |
+| 3173 | Tarkeshwar Narain Agrawal College of Education | BHOJPUR | Bihar | Private | [Portal](http://tnacoe.org) |
+| 3174 | DR Zakir Husain Institute for Non Formal and Continuing Education | PATNA | Bihar | Private | [Portal](http://drzakirhusain.org) |
+| 3175 | Sri Umesh Mishra Ranjeet Kumar Prakash College | VAISHALI | Bihar | Private | [Portal](http://sriumeshmishra.org) |
+| 3176 | National Institute of Electronics and Information Technology Nielit Patna | PATNA | Bihar | Public/Government | [Portal](https://nationalinstituteof.gov.in) |
+| 3177 | Kishori Sinha Mahila College | AURANGABAD | Bihar | Private | [Portal](http://ksmc.org) |
+| 3178 | Nibha Institute of Pharmaceutical Sciences | NALANDA | Bihar | Private | [Portal](http://niops.org) |
+| 3179 | Sundarwati Mahila College | BHAGALPUR | Bihar | Private | [Portal](http://smc.org) |
+| 3180 | Arcade Business College | PATNA | Bihar | Private | [Portal](http://abc.org) |
+
+
+### Batch 319 (Colleges 3181–3190)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3181 | Cimage Center of Digital Technology and Entrepreneurship (Ccdte) | Patna | Bihar | Private | [Portal](https://www.cimage.in) |
+| 3182 | Bhuvan Malti College of Education | EAST CHAMPARAN | Bihar | Private | [Portal](https://www.bhu.ac.in) |
+| 3183 | Lichavi Institute of Professional Studies | MUZAFFARPUR | Bihar | Private | [Portal](http://liops.org) |
+| 3184 | Rimu Institute of Technology | GAYA | Bihar | Private | [Portal](http://riot.org) |
+| 3185 | International Business College | PATNA | Bihar | Private | [Portal](http://ibc.org) |
+| 3186 | Institute of Management and Planning and Advanced Computer Training.impact | PATNA | Bihar | Private | [Portal](http://instituteofmanagement.org) |
+| 3187 | St. Xavier's College of Management and Technology | PATNA | Bihar | Private | [Portal](http://stxavierscollege.org) |
+| 3188 | R S Institute of Higher Education | PATNA | Bihar | Private | [Portal](http://rsiohe.org) |
+| 3189 | Marwari College Bhagalpur | BHAGALPUR | Bihar | Private | [Portal](https://www.lpu.in) |
+| 3190 | Satyendra Narayan Sinha College Jehanabad | JEHANABAD | Bihar | Private | [Portal](http://snscj.org) |
+
+
+### Batch 320 (Colleges 3191–3200)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3191 | Oxford Business College | PATNA | Bihar | Private | [Portal](http://obc.org) |
+| 3192 | Ramkrishna Dwarika College | PATNA | Bihar | Private | [Portal](http://rdc.org) |
+| 3193 | Institute of Business Management | DARBHANGA | Bihar | Private | [Portal](http://iobm.org) |
+| 3194 | MD Jawed Alam Degree College | VAISHALI | Bihar | Private | [Portal](http://mjadc.org) |
+| 3195 | Divine Institute of Management and Studies | SIWAN | Bihar | Private | [Portal](http://diomas.org) |
+| 3196 | Rlsy College | AURANGABAD | Bihar | Private | [Portal](http://rlsycollege.org) |
+| 3197 | Imperial College of Business and Science | PATNA | Bihar | Private | [Portal](http://icobas.org) |
+| 3198 | L N D College Motihari | EAST CHAMPARAN | Bihar | Private | [Portal](http://lndcm.org) |
+| 3199 | Radha Shanta Mahavidyalaya | ROHTAS | Bihar | Private | [Portal](http://rsm.org) |
+| 3200 | Kusumraj Educational Institution | PATNA | Bihar | Private | [Portal](http://kei.org) |
+
+
+### Batch 321 (Colleges 3201–3210)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3201 | Langat Singh College | MUZAFFARPUR | Bihar | Private | [Portal](http://lsc.org) |
+| 3202 | Dr. Kumar Educational Institution | ARARIA | Bihar | Private | [Portal](http://dkei.org) |
+| 3203 | Bhagalpur National College | BHAGALPUR | Bihar | Private | [Portal](https://www.lpu.in) |
+| 3204 | Asian Institute of Management and Information Technology Aimit | PATNA | Bihar | Private | [Portal](http://asianinstituteof.org) |
+| 3205 | Sri Narayan Singh College Motihari | EAST CHAMPARAN | Bihar | Private | [Portal](http://snscm.org) |
+| 3206 | Sardar Vallabh Bhai Patel College | KAIMUR | Bihar | Private | [Portal](http://svbpc.org) |
+| 3207 | Thakur Prasad Singh College | PATNA | Bihar | Private | [Portal](http://tpsc.org) |
+| 3208 | T.n.b. College | BHAGALPUR | Bihar | Private | [Portal](http://tnbcollege.org) |
+| 3209 | Gram Bharti College | KAIMUR | Bihar | Private | [Portal](http://gbc.org) |
+| 3210 | Khawaja Shahid Hussain Primary Teachers Training College | KATIHAR | Bihar | Private | [Portal](http://khawajashahidhussain.org) |
+
+
+### Batch 322 (Colleges 3211–3220)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3211 | S P Jain College | ROHTAS | Bihar | Private | [Portal](http://spjc.org) |
+| 3212 | C.m.science College | DARBHANGA | Bihar | Private | [Portal](http://cmsciencecollege.org) |
+| 3213 | S. U. College Hilsa | NALANDA | Bihar | Private | [Portal](http://such.org) |
+| 3214 | Usha Institute of Professional Education | EAST CHAMPARAN | Bihar | Private | [Portal](http://uiope.org) |
+| 3215 | Mahant Sheo Shankar Giri College | EAST CHAMPARAN | Bihar | Private | [Portal](http://mssgc.org) |
+| 3216 | Exalt College | VAISHALI | Bihar | Private | [Portal](http://exaltcollege.org) |
+| 3217 | Maa Sharda College of Technical Education and Research | PATNA | Bihar | Private | [Portal](http://maashardacollege.org) |
+| 3218 | Munshi Singh College Motihari | EAST CHAMPARAN | Bihar | Private | [Portal](http://mscm.org) |
+| 3219 | Subhwanti Institute of Professional Education | WEST CHAMPARAN | Bihar | Private | [Portal](http://siope.org) |
+| 3220 | Kurma Sanskriti Institute of Technology and Management | JEHANABAD | Bihar | Private | [Portal](http://kurmasanskritiinstitute.org) |
+
+
+### Batch 323 (Colleges 3221–3230)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3221 | Malti Dhari College Naubatpur | PATNA | Bihar | Private | [Portal](http://mdcn.org) |
+| 3222 | L N College Bhagwanpur | VAISHALI | Bihar | Private | [Portal](http://lncb.org) |
+| 3223 | Exalt College of Engineering and Technology | VAISHALI | Bihar | Private | [Portal](http://ecoeat.org) |
+| 3224 | Jawahar Lal Nehru College | ROHTAS | Bihar | Private | [Portal](http://jlnc.org) |
+| 3225 | U.v.k College | MADHEPURA | Bihar | Private | [Portal](http://uvkcollege.org) |
+| 3226 | National Business College | PATNA | Bihar | Private | [Portal](http://nbc.org) |
+| 3227 | Tara College of Higher Education | BEGUSARAI | Bihar | Private | [Portal](http://tcohe.org) |
+| 3228 | Rajendra Mishra College | SAHARSA | Bihar | Private | [Portal](http://rmc.org) |
+| 3229 | Kainat Institute of Management and Technology | GAYA | Bihar | Private | [Portal](http://kiomat.org) |
+| 3230 | Mirza Ghalib College | GAYA | Bihar | Private | [Portal](http://mgc.org) |
+
+
+### Batch 324 (Colleges 3231–3240)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3231 | Dharichhana Kunwari College Dumraon | BUXAR | Bihar | Private | [Portal](http://dkcd.org) |
+| 3232 | Shershah College | ROHTAS | Bihar | Private | [Portal](http://shershahcollege.org) |
+| 3233 | Mother Teressa Management College | PATNA | Bihar | Private | [Portal](http://mtmc.org) |
+| 3234 | Maharaja Bahadur Ram Ran Vijay Prasad Singh College Arrah | BHOJPUR | Bihar | Private | [Portal](http://maharajabahadurram.org) |
+| 3235 | Marvel College of Education | SIWAN | Bihar | Private | [Portal](http://mcoe.org) |
+| 3236 | Maharani Janki Kuwar College | WEST CHAMPARAN | Bihar | Private | [Portal](http://mjkc.org) |
+| 3237 | Mahanth Mahadevanand Mahila Mahavidyalaya | BHOJPUR | Bihar | Private | [Portal](http://mmmm.org) |
+| 3238 | Subhwanti Institute of Education | SIWAN | Bihar | Private | [Portal](http://sioe.org) |
+| 3239 | Raj Narain College | VAISHALI | Bihar | Private | [Portal](http://rnc.org) |
+| 3240 | Choudhary Charan Singh College | ROHTAS | Bihar | Private | [Portal](http://ccsc.org) |
+
+
+### Batch 325 (Colleges 3241–3250)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3241 | M L T College Saharsa | SAHARSA | Bihar | Private | [Portal](http://mltcs.org) |
+| 3242 | Thakur Prasad College | MADHEPURA | Bihar | Private | [Portal](http://tpc.org) |
+| 3243 | Magadh Mahila College | PATNA | Bihar | Private | [Portal](http://mmc.org) |
+| 3244 | J N L College Khagaul | PATNA | Bihar | Private | [Portal](http://jnlck.org) |
+| 3245 | Cimage | PATNA | Bihar | Private | [Portal](https://www.cimage.edu.in) |
+| 3246 | Sri Radha Krishna Goenka College | SITAMARHI | Bihar | Private | [Portal](http://srkgc.org) |
+| 3247 | Cimage Professional College | PATNA | Bihar | Private | [Portal](http://cpc.org) |
+| 3248 | Catalyst College | PATNA | Bihar | Private | [Portal](http://catalystcollege.org) |
+| 3249 | M. P. Sinha Science College | MUZAFFARPUR | Bihar | Private | [Portal](http://mpssc.org) |
+| 3250 | DR Ram Manohar Lohia Smarak Mahavidyalaya | MUZAFFARPUR | Bihar | Private | [Portal](http://drmlsm.org) |
+
+
+### Batch 326 (Colleges 3251–3260)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3251 | Shukla College of Professional Education | SITAMARHI | Bihar | Private | [Portal](http://scope.org) |
+| 3252 | M.d.d. Mahila College Muzaffarpur | MUZAFFARPUR | Bihar | Private | [Portal](http://mmcm.org) |
+| 3253 | Ramlakhan Singh Yadav College Bettiah | WEST CHAMPARAN | Bihar | Private | [Portal](http://rsycb.org) |
+| 3254 | S B College Ara | BHOJPUR | Bihar | Private | [Portal](http://sbca.org) |
+| 3255 | Gajadhar Bhagat College Naugachia | BHAGALPUR | Bihar | Private | [Portal](http://gbcn.org) |
+| 3256 | Maharana Pratap College | KAIMUR | Bihar | Private | [Portal](http://mpc.org) |
+| 3257 | Rsu College of Management and Technology | SIWAN | Bihar | Private | [Portal](http://rcomat.org) |
+| 3258 | Hari OM Technical Training College | GAYA | Bihar | Private | [Portal](http://hottc.org) |
+| 3259 | Chaitanya College of Management and Technology | PATNA | Bihar | Private | [Portal](http://ccomat.org) |
+| 3260 | Shakuntalam Institute of Teachers Education | ROHTAS | Bihar | Private | [Portal](http://siote.org) |
+
+
+### Batch 327 (Colleges 3261–3270)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3261 | Krishna Institute of IT and Management | SAMASTIPUR | Bihar | Private | [Portal](http://kioiam.org) |
+| 3262 | Nitishwar Mahavidyalaya | MUZAFFARPUR | Bihar | Private | [Portal](http://nitishwarmahavidyalaya.org) |
+| 3263 | B S S College Supaul | SUPAUL | Bihar | Private | [Portal](http://bsscs.org) |
+| 3264 | Ganga Devi Mahila Mahavidyalaya | PATNA | Bihar | Private | [Portal](http://gdmm.org) |
+| 3265 | Shaheed Pramod Higher Education | MUZAFFARPUR | Bihar | Private | [Portal](http://sphe.org) |
+| 3266 | Z A. Islamia College of Technology and Management | SIWAN | Bihar | Private | [Portal](http://zaislamia.org) |
+| 3267 | Sri Alxmi Kishori College | SITAMARHI | Bihar | Private | [Portal](http://sakc.org) |
+| 3268 | C M College | DARBHANGA | Bihar | Private | [Portal](http://cmc.org) |
+| 3269 | Ram Sakal Singh Science College | SITAMARHI | Bihar | Private | [Portal](http://rsssc.org) |
+| 3270 | Sri Gadadhar Acharya Janta College | PATNA | Bihar | Private | [Portal](http://sgajc.org) |
+
+
+### Batch 328 (Colleges 3271–3280)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3271 | Pandit Ujjwal Kumar Mishra Foundation College | VAISHALI | Bihar | Private | [Portal](http://pukmfc.org) |
+| 3272 | Kamleshwari Prasad College | MADHEPURA | Bihar | Private | [Portal](http://kpc.org) |
+| 3273 | Chetan Sadhan Institute of Science and Technology | MUZAFFARPUR | Bihar | Private | [Portal](http://chetansadhaninstitute.org) |
+| 3274 | Sai Group of Institutions | SHEIKHPURA | Bihar | Private | [Portal](http://sgoi.org) |
+| 3275 | Jamuni Lal College | VAISHALI | Bihar | Private | [Portal](https://www.amu.ac.in) |
+| 3276 | Anjabit Singh College Bikramganj Rohtas | ROHTAS | Bihar | Private | [Portal](http://ascbr.org) |
+| 3277 | R D College Sheikhpura | SHEIKHPURA | Bihar | Private | [Portal](http://rdcs.org) |
+| 3278 | Lalit Narain Tirhut Mahavidyalaya | MUZAFFARPUR | Bihar | Private | [Portal](http://lntm.org) |
+| 3279 | H. D. Jain College | BHOJPUR | Bihar | Private | [Portal](http://hdjc.org) |
+| 3280 | Sampurna College of IT and Management | PATNA | Bihar | Private | [Portal](http://scoiam.org) |
+
+
+### Batch 329 (Colleges 3281–3290)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3281 | Pns Institute of Technology and Management | MUZAFFARPUR | Bihar | Private | [Portal](http://piotam.org) |
+| 3282 | Pandit Vedanand Umesh Mishra Ramjankicollege | VAISHALI | Bihar | Private | [Portal](http://pvumr.org) |
+| 3283 | Vidya Vihar College | SARAN | Bihar | Private | [Portal](http://vvc.org) |
+| 3284 | Adityanath Memorial College | BANKA | Bihar | Private | [Portal](http://amc.org) |
+| 3285 | Pandit Ujjwal Kumar Mishra Foundation College Faculty of IT and Managment | VAISHALI | Bihar | Private | [Portal](http://panditujjwalkumar.org) |
+| 3286 | Mahant Madhusudan College | PATNA | Bihar | Private | [Portal](http://mmc.org) |
+| 3287 | Global Foundation for Higher Studies | PATNA | Bihar | Private | [Portal](http://gffhs.org) |
+| 3288 | Veer Kunwar Singh University (Vksu) | Arrah | Bihar | Private | [Portal](https://vksu.ac.in) |
+| 3289 | Gopal Narayan Singh University | ROHTAS | Bihar | Private | [Portal](http://gnsu.org) |
+| 3290 | Ramesh Jha Mahila College | SAHARSA | Bihar | Private | [Portal](http://rjmc.org) |
+
+
+### Batch 330 (Colleges 3291–3300)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3291 | Rks College of Management and Technology | SARAN | Bihar | Private | [Portal](http://rcomat.org) |
+| 3292 | Braj Mohan Das College | VAISHALI | Bihar | Private | [Portal](http://bmdc.org) |
+| 3293 | Adarsh College Ghailarh Jiwachpur Madhepura | MADHEPURA | Bihar | Private | [Portal](http://acgjm.org) |
+| 3294 | Madhepura College | MADHEPURA | Bihar | Private | [Portal](http://madhepuracollege.org) |
+| 3295 | Smriti College of Technology and Management | BUXAR | Bihar | Private | [Portal](http://scotam.org) |
+| 3296 | Ram Krishna College | MADHUBANI | Bihar | Private | [Portal](http://rkc.org) |
+| 3297 | Vps Techinal College | PATNA | Bihar | Private | [Portal](http://vtc.org) |
+| 3298 | Sheodeni Ram Ayodhya Prasad College | EAST CHAMPARAN | Bihar | Private | [Portal](http://srapc.org) |
+| 3299 | Vps Computer AN Institute of IT and Management | BEGUSARAI | Bihar | Private | [Portal](http://vpscomputeran.org) |
+| 3300 | Banarsilal Saraf Commerce College | BHAGALPUR | Bihar | Private | [Portal](http://bscc.org) |
+
+
+### Batch 331 (Colleges 3301–3310)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3301 | M.s.m. Samta College | VAISHALI | Bihar | Private | [Portal](http://msc.org) |
+| 3302 | Rajendra College | SARAN | Bihar | Private | [Portal](http://rajendracollege.org) |
+| 3303 | Maharshi Vishwamitra Mahavidyalaya | BUXAR | Bihar | Private | [Portal](http://mvm.org) |
+| 3304 | Dream Land Vocational Institute | SAMASTIPUR | Bihar | Private | [Portal](http://dlvi.org) |
+| 3305 | Anugrah Memorial College | GAYA | Bihar | Private | [Portal](http://amc.org) |
+| 3306 | Shams Professional College | MUZAFFARPUR | Bihar | Private | [Portal](http://spc.org) |
+| 3307 | R.p.s. College of Management | MUZAFFARPUR | Bihar | Private | [Portal](http://rcom.org) |
+| 3308 | Purnea Mahila Mahavidyalaya Purnea | PURNIA | Bihar | Private | [Portal](http://pmmp.org) |
+| 3309 | Parmanand Savitri Snatak Mahavidyalaya Harda Purnia | PURNIA | Bihar | Private | [Portal](http://pssmhp.org) |
+| 3310 | Purnea College | PURNIA | Bihar | Private | [Portal](http://purneacollege.org) |
+
+
+### Batch 332 (Colleges 3311–3320)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3311 | Ravi Kant Punam College | NAWADA | Bihar | Private | [Portal](http://rkpc.org) |
+| 3312 | Shahi Institute of Business Management | SIWAN | Bihar | Private | [Portal](http://siobm.org) |
+| 3313 | Sunaina Institute of Management and Science | LAKHISARAI | Bihar | Private | [Portal](http://siomas.org) |
+| 3314 | S.k.r. College Barbigha Sheikhpura | SHEIKHPURA | Bihar | Private | [Portal](http://scbs.org) |
+| 3315 | Mjm Mahila College Katihar | KATIHAR | Bihar | Private | [Portal](http://mmck.org) |
+| 3316 | Seemanchal Degree College  Professional' Araria | ARARIA | Bihar | Private | [Portal](http://sdcpa.org) |
+| 3317 | Ramjyoti Kameshwar College of Professional Educationn | MUZAFFARPUR | Bihar | Private | [Portal](http://rkcope.org) |
+| 3318 | Bihar National College | PATNA | Bihar | Private | [Portal](http://bnc.org) |
+| 3319 | Maulana Mazharul Haque Teachers' Training College | SAMASTIPUR | Bihar | Private | [Portal](http://mmhttc.org) |
+| 3320 | Mps College of Higher Education | MUZAFFARPUR | Bihar | Private | [Portal](http://mcohe.org) |
+
+
+### Batch 333 (Colleges 3321–3330)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3321 | Shivi College of Higher Education | MUZAFFARPUR | Bihar | Private | [Portal](http://scohe.org) |
+| 3322 | R N College of IT and Management | SARAN | Bihar | Private | [Portal](http://rncollege.org) |
+| 3323 | C.n. College Sahebganj | MUZAFFARPUR | Bihar | Private | [Portal](http://ccs.org) |
+| 3324 | Satyam Institute of Technology and Management | PATNA | Bihar | Private | [Portal](http://siotam.org) |
+| 3325 | Arham College of Engineering and Management | BEGUSARAI | Bihar | Private | [Portal](http://acoeam.org) |
+| 3326 | Arvind Degree College | KAIMUR | Bihar | Private | [Portal](http://adc.org) |
+| 3327 | Aqsa Professional College | SAMASTIPUR | Bihar | Private | [Portal](http://apc.org) |
+| 3328 | Alliance College of Professional Education | MUZAFFARPUR | Bihar | Private | [Portal](http://acope.org) |
+| 3329 | Chaitanya International Business College | GAYA | Bihar | Private | [Portal](http://cibc.org) |
+| 3330 | S N Sinha College Tekari | GAYA | Bihar | Private | [Portal](http://snsct.org) |
+
+
+### Batch 334 (Colleges 3331–3340)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3331 | St. Joseph's Management College | MUZAFFARPUR | Bihar | Private | [Portal](http://sjmc.org) |
+| 3332 | School of Management and Science | BEGUSARAI | Bihar | Private | [Portal](http://somas.org) |
+| 3333 | Luv Kush Computer Application and Management College | KATIHAR | Bihar | Private | [Portal](http://luvkushcomputer.org) |
+| 3334 | Kisan College | NALANDA | Bihar | Private | [Portal](http://kisancollege.org) |
+| 3335 | Jagjiwan Mahavidyalaya | GAYA | Bihar | Private | [Portal](http://jagjiwanmahavidyalaya.org) |
+| 3336 | Anooplal Yadav College | SUPAUL | Bihar | Private | [Portal](http://ayc.org) |
+| 3337 | Sheodeni Sao College | ARWAL | Bihar | Private | [Portal](http://ssc.org) |
+| 3338 | Rajendra Degree College | BEGUSARAI | Bihar | Private | [Portal](http://rdc.org) |
+| 3339 | Bihat Management and Degree College | BEGUSARAI | Bihar | Private | [Portal](http://bmadc.org) |
+| 3340 | M H M College Sonbarsa | SAHARSA | Bihar | Private | [Portal](http://mhmcs.org) |
+
+
+### Batch 335 (Colleges 3341–3350)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3341 | Chaitanya College of IT and Management | PATNA | Bihar | Private | [Portal](http://ccoiam.org) |
+| 3342 | Mahila College Dalmianagar | ROHTAS | Bihar | Private | [Portal](http://mcd.org) |
+| 3343 | Dr. Usman Ghani Imarat Girls Computer Institute | PATNA | Bihar | Private | [Portal](http://drusmanghani.org) |
+| 3344 | DT Institute of Management and Technology | SAMASTIPUR | Bihar | Private | [Portal](http://diomat.org) |
+| 3345 | Shree Shyam College of Professional Education | PATNA | Bihar | Private | [Portal](http://sscope.org) |
+| 3346 | Dr. Gauri Shankar Singh College of Professional Education | SITAMARHI | Bihar | Private | [Portal](http://drgaurishankar.org) |
+| 3347 | Sityog Institute of Management | Aurangabad | Bihar | Private | [Portal](https://management.sityog.edu.in) |
+| 3348 | Buddha Institute of Hotel Management & Multiplex (Bihm Gaya) | Gaya | Bihar | Private | [Portal](http://bmhmbodhgaya.in) |
+| 3349 | Vivekanand Institiute of Technology | PATNA | Bihar | Private | [Portal](http://viot.org) |
+| 3350 | Arjun College of Technical Education | BHAGALPUR | Bihar | Private | [Portal](http://acote.org) |
+
+
+### Batch 336 (Colleges 3351–3360)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3351 | Maulana Mazharul Haque Arabic and Persian University (Mmhapu) | Patna | Bihar | Private | [Portal](https://mmhapu.ac.in) |
+| 3352 | Oxford College of Research and Management (Ocrm) | Patna | Bihar | Private | [Portal](https://oxfordedugroup.org) |
+| 3353 | Maitreya College of Education and Management | VAISHALI | Bihar | Private | [Portal](http://mcoeam.org) |
+| 3354 | Faculty of Information Technology and Engineering | ROHTAS | Bihar | Private | [Portal](http://foitae.org) |
+| 3355 | Patliputra Institute of Management and Technology | PATNA | Bihar | Private | [Portal](http://piomat.org) |
+| 3356 | T S College Hisua | NAWADA | Bihar | Private | [Portal](http://tsch.org) |
+| 3357 | S.t. College of Higher Education | PATNA | Bihar | Private | [Portal](http://scohe.org) |
+| 3358 | GD Memorial Professional College | PATNA | Bihar | Private | [Portal](http://gmpc.org) |
+| 3359 | Blue Diamond Institute of Technologynn | MUZAFFARPUR | Bihar | Private | [Portal](http://bdiot.org) |
+| 3360 | Mona Polytechnic College | PATNA | Bihar | Private | [Portal](http://mpc.org) |
+
+
+### Batch 337 (Colleges 3361–3370)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3361 | Sir BD Singh Institute of Technology222p | PATNA | Bihar | Private | [Portal](http://sbsiot.org) |
+| 3362 | Vidya Education Group | PATNA | Bihar | Private | [Portal](http://veg.org) |
+| 3363 | Maa Aranya Devi B.ed. College | BHOJPUR | Bihar | Private | [Portal](http://madbc.org) |
+| 3364 | Urmila Devi Sadanand Yadav Gurukul Degree College | SITAMARHI | Bihar | Private | [Portal](http://urmiladevisadanand.org) |
+| 3365 | Aryaman Higher Education | NALANDA | Bihar | Private | [Portal](http://ahe.org) |
+| 3366 | Aryabhatta Knowledge University | PATNA | Bihar | Private | [Portal](http://aku.org) |
+| 3367 | Ekalavya Institute of Higher Education | MADHEPURA | Bihar | Private | [Portal](http://eiohe.org) |
+| 3368 | Champaran College | WEST CHAMPARAN | Bihar | Private | [Portal](http://champarancollege.org) |
+| 3369 | Divine Institute of Technology | SIWAN | Bihar | Private | [Portal](http://diot.org) |
+| 3370 | Bihar Engineering University Patna | PATNA | Bihar | Private | [Portal](http://beup.org) |
+
+
+### Batch 338 (Colleges 3371–3380)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3371 | Maa Kanti College of Higher Education | Patna | Bihar | Private | [Portal](http://mkcohe.com) |
+| 3372 | Institute of Management Science Patna | PATNA | Bihar | Private | [Portal](http://iomsp.org) |
+| 3373 | Sunlight Skills Rise Foundation | SARAN | Bihar | Private | [Portal](http://ssrf.org) |
+| 3374 | R L Polytechnic College | NALANDA | Bihar | Private | [Portal](http://rlpc.org) |
+| 3375 | Mahabodhi College of Higher Education | GAYA | Bihar | Private | [Portal](http://mcohe.org) |
+| 3376 | Himalaya Institute of Technology | PATNA | Bihar | Private | [Portal](http://hiot.org) |
+| 3377 | R. L. Institute of Management and Technology | WEST CHAMPARAN | Bihar | Private | [Portal](http://rlinstitute.org) |
+| 3378 | Balmiki Rajniti Mahila Mahavidyalaya Munger | MUNGER | Bihar | Private | [Portal](http://brmmm.org) |
+| 3379 | Digmani B.ed. College | GAYA | Bihar | Private | [Portal](http://dbc.org) |
+| 3380 | Oasis Institute of Management and Technology | VAISHALI | Bihar | Private | [Portal](http://oiomat.org) |
+
+
+### Batch 339 (Colleges 3381–3390)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3381 | K L S College Nawada | NAWADA | Bihar | Private | [Portal](http://klscn.org) |
+| 3382 | Kanhaiya Memorial College of Higher Education | GAYA | Bihar | Private | [Portal](http://kmcohe.org) |
+| 3383 | Aadya International College | PATNA | Bihar | Private | [Portal](http://aic.org) |
+| 3384 | Dev College of Higher Education | MUZAFFARPUR | Bihar | Private | [Portal](http://dcohe.org) |
+| 3385 | DR Satyendra Technical Institute of Management | SIWAN | Bihar | Private | [Portal](http://dstiom.org) |
+| 3386 | Yadunandan Pavitri Degree College | ARARIA | Bihar | Private | [Portal](http://ypdc.org) |
+| 3387 | Ramjanam Pratap Institute of Degree Education | SARAN | Bihar | Private | [Portal](http://rpiode.org) |
+| 3388 | Gyansarover Institute of Management and Technology | PATNA | Bihar | Private | [Portal](http://giomat.org) |
+| 3389 | Rampratap Institute | PATNA | Bihar | Private | [Portal](http://rampratapinstitute.org) |
+| 3390 | Mission School of Management | WEST CHAMPARAN | Bihar | Private | [Portal](http://msom.org) |
+
+
+### Batch 340 (Colleges 3391–3400)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3391 | Maa Kamla Chandrika Jee Vidyapeeth | JEHANABAD | Bihar | Private | [Portal](http://mkcjv.org) |
+| 3392 | Prabudh Innstitute of Technology and Management | ROHTAS | Bihar | Private | [Portal](http://piotam.org) |
+| 3393 | Tarkeshwar Prasad Verma College Narkatiganj | WEST CHAMPARAN | Bihar | Private | [Portal](http://tpvcn.org) |
+| 3394 | Awadh Bihari Singh Mahavidhalaya | VAISHALI | Bihar | Private | [Portal](http://absm.org) |
+| 3395 | Rameshwar Mahavidyalaya | MUZAFFARPUR | Bihar | Private | [Portal](http://rameshwarmahavidyalaya.org) |
+| 3396 | Mahila Shilp Kala Bhawan College | MUZAFFARPUR | Bihar | Private | [Portal](http://mskbc.org) |
+| 3397 | Arpita International College | MUZAFFARPUR | Bihar | Private | [Portal](http://aic.org) |
+| 3398 | Ram Sharan Roy College | VAISHALI | Bihar | Private | [Portal](http://rsrc.org) |
+| 3399 | Patna Global Business College | PATNA | Bihar | Private | [Portal](http://pgbc.org) |
+| 3400 | Ram Bilas Singh Ram Dayal Roy College | VAISHALI | Bihar | Private | [Portal](http://rambilassingh.org) |
+
+
+### Batch 341 (Colleges 3401–3410)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3401 | Savitri College of Professional Education | NAWADA | Bihar | Private | [Portal](http://scope.org) |
+| 3402 | Nimi College Nimi Sheikhpura | SHEIKHPURA | Bihar | Private | [Portal](http://ncns.org) |
+| 3403 | Kinesis Institute of Technology | PATNA | Bihar | Private | [Portal](http://kiot.org) |
+| 3404 | Visionary Management and Degree College | BEGUSARAI | Bihar | Private | [Portal](http://vmadc.org) |
+| 3405 | C R K College | VAISHALI | Bihar | Private | [Portal](http://crkc.org) |
+| 3406 | Ram Deo Technical Degree College | VAISHALI | Bihar | Private | [Portal](http://rdtdc.org) |
+| 3407 | Dimond Technical Degree Collage | VAISHALI | Bihar | Private | [Portal](http://dtdc.org) |
+| 3408 | Imperial Institute of Technology and Management | SHEIKHPURA | Bihar | Private | [Portal](http://iiotam.org) |
+| 3409 | Basundhara College of Education | MUZAFFARPUR | Bihar | Private | [Portal](http://bcoe.org) |
+| 3410 | Annie Besant International School of Business Management | PATNA | Bihar | Private | [Portal](http://anniebesantinternational.org) |
+
+
+### Batch 342 (Colleges 3411–3420)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3411 | Babu Hardev Singh College of Higher Education | ARWAL | Bihar | Private | [Portal](http://babuhardevsingh.org) |
+| 3412 | Rsd College of Higher Education | PATNA | Bihar | Private | [Portal](http://rcohe.org) |
+| 3413 | Techno India Management and Degree College | BEGUSARAI | Bihar | Private | [Portal](http://timadc.org) |
+| 3414 | Rajendra Prasad College of Engineering and Management | KHAGARIA | Bihar | Private | [Portal](http://rajendraprasadcollege.org) |
+| 3415 | Mithila College of Managment and Technology | DARBHANGA | Bihar | Private | [Portal](http://mcomat.org) |
+| 3416 | Savitri Devi Degree College | EAST CHAMPARAN | Bihar | Private | [Portal](http://sddc.org) |
+| 3417 | M.b.d Institute of Management | PATNA | Bihar | Private | [Portal](http://miom.org) |
+| 3418 | PE Institute of Business and Technology | PATNA | Bihar | Private | [Portal](http://piobat.org) |
+| 3419 | Govt. Pt. Jln Arts and Science PG College Bemetara | DURG | Chhattisgarh | Public/Government | [Portal](https://govtptjln.gov.in) |
+| 3420 | Seth Phoolchand Agrawal Smriti Mahavidhyalaya | RAIPUR | Chhattisgarh | Private | [Portal](http://spasm.org) |
+
+
+### Batch 343 (Colleges 3421–3430)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3421 | Pragati College | RAIPUR | Chhattisgarh | Private | [Portal](http://pragaticollege.org) |
+| 3422 | Shaskiya Mahaprabhu Vallabhacharya Snatkottar Mahavidyalaya Mahasamund | MAHASAMUND | Chhattisgarh | Private | [Portal](https://www.bhu.ac.in) |
+| 3423 | Bhilai Mahila Mahavidyalaya | DURG | Chhattisgarh | Private | [Portal](http://bmm.org) |
+| 3424 | Gurukul Mahila Mahavidyalaya | RAIPUR | Chhattisgarh | Private | [Portal](http://gmm.org) |
+| 3425 | Confluence College of Higher Education | RAJNANDGAON | Chhattisgarh | Private | [Portal](http://ccohe.org) |
+| 3426 | Maharaja Agrasen International College | RAIPUR | Chhattisgarh | Private | [Portal](http://maic.org) |
+| 3427 | Govt Digvijay Autonomous PG College Rajnandgaon | RAJNANDGAON | Chhattisgarh | Public/Government | [Portal](https://gdapcr.gov.in) |
+| 3428 | Elegant College Rajnandgaon | RAJNANDGAON | Chhattisgarh | Private | [Portal](http://ecr.org) |
+| 3429 | Century Cement College Baikunth | RAIPUR | Chhattisgarh | Private | [Portal](http://cccb.org) |
+| 3430 | Chouksey College of Science and Commerce | BILASPUR | Chhattisgarh | Private | [Portal](http://ccosac.org) |
+
+
+### Batch 344 (Colleges 3431–3440)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3431 | Rungta Institute of Science and Management | DURG | Chhattisgarh | Private | [Portal](http://riosam.org) |
+| 3432 | Swami Atmanand Govt English Medium Model College | DURG | Chhattisgarh | Public/Government | [Portal](https://swamiatmanandgovt.gov.in) |
+| 3433 | Govt Vyt PG Autonomous College Durg | DURG | Chhattisgarh | Public/Government | [Portal](https://gvpacd.gov.in) |
+| 3434 | PT Ramsakha Upadhyay College | RAIPUR | Chhattisgarh | Private | [Portal](http://pruc.org) |
+| 3435 | Comptech Mahavidyalaya | DHAMTARI | Chhattisgarh | Private | [Portal](http://comptechmahavidyalaya.org) |
+| 3436 | Central College of Informmation Technology | RAIPUR | Chhattisgarh | Private | [Portal](http://ccoit.org) |
+| 3437 | Genesis College of Higher Education | DHAMTARI | Chhattisgarh | Private | [Portal](http://gcohe.org) |
+| 3438 | D P Vipra College | BILASPUR | Chhattisgarh | Private | [Portal](http://dpvc.org) |
+| 3439 | Government Ghanshyam Singh Gupt Post Graduate College | BALOD | Chhattisgarh | Public/Government | [Portal](https://governmentghanshyamsingh.gov.in) |
+| 3440 | St. Teresa's College | RAIGARH | Chhattisgarh | Private | [Portal](http://stc.org) |
+
+
+### Batch 345 (Colleges 3441–3450)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3441 | Vivekanand Mahavidyalaya | RAIPUR | Chhattisgarh | Private | [Portal](http://vivekanandmahavidyalaya.org) |
+| 3442 | Lcit College of Commerce and Science | BILASPUR | Chhattisgarh | Private | [Portal](http://lcocas.org) |
+| 3443 | Pt. Jawahar Lal Nehru Mahavidyalay | JANJGIR-CHAMPA | Chhattisgarh | Private | [Portal](http://pjlnm.org) |
+| 3444 | Pns College Bilaspur | BILASPUR | Chhattisgarh | Private | [Portal](http://pcb.org) |
+| 3445 | D.l.s.p.g. College | BILASPUR | Chhattisgarh | Private | [Portal](http://dlspgcollege.org) |
+| 3446 | Swami Atmanand Govt. English Medium Model College Somni | RAJNANDGAON | Chhattisgarh | Public/Government | [Portal](https://swamiatmanandgovt.gov.in) |
+| 3447 | Pragati College of Art Commerce and Science | RAIPUR | Chhattisgarh | Private | [Portal](http://pragaticollegeof.org) |
+| 3448 | Mahamaya Excellency College | BILASPUR | Chhattisgarh | Private | [Portal](http://mec.org) |
+| 3449 | Government Vivekanand PG College Manendragarh | KORIYA | Chhattisgarh | Public/Government | [Portal](https://gvpcm.gov.in) |
+| 3450 | College of I.t. and Applied Social Science | BILASPUR | Chhattisgarh | Private | [Portal](http://collegeofit.org) |
+
+
+### Batch 346 (Colleges 3451–3460)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3451 | Sant Guru Ghasidas Arts and Science College Pachpedi | BILASPUR | Chhattisgarh | Private | [Portal](http://santgurughasidas.org) |
+| 3452 | Disha College of Management Studies | RAIPUR | Chhattisgarh | Private | [Portal](http://dcoms.org) |
+| 3453 | Korba Computer College | KORBA | Chhattisgarh | Private | [Portal](http://kcc.org) |
+| 3454 | Chaitanya Science Arts College | JANJGIR-CHAMPA | Chhattisgarh | Private | [Portal](http://csac.org) |
+| 3455 | Govt Swami Atmanand PG College Narayanpur Chhattisgarh | BASTAR | Chhattisgarh | Public/Government | [Portal](https://govtswamiatmanand.gov.in) |
+| 3456 | C M Dubey Post Graduate College | BILASPUR | Chhattisgarh | Private | [Portal](http://cmdpgc.org) |
+| 3457 | Government Danveer Tularam Postgraduate College Utai Distt Durg CG | DURG | Chhattisgarh | Public/Government | [Portal](https://governmentdanveertularam.gov.in) |
+| 3458 | Govt. Nagarjuna Post Graduate College of Science Raipur | RAIPUR | Chhattisgarh | Public/Government | [Portal](https://govtnagarjunapost.gov.in) |
+| 3459 | Government Mata Shabari Naveen Girls PG College Bilaspur Chhattisgarh | BILASPUR | Chhattisgarh | Public/Government | [Portal](https://governmentmatashabari.gov.in) |
+| 3460 | Govt. E. V. Post Graduate College Korba | KORBA | Chhattisgarh | Public/Government | [Portal](https://govtev.gov.in) |
+
+
+### Batch 347 (Colleges 3461–3470)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3461 | Aacharya Panth Shri Grindh Muni Naam Saheb Govt. P. G. College Kawardha | KAWARDHA | Chhattisgarh | Public/Government | [Portal](https://aacharyapanthshri.gov.in) |
+| 3462 | Swami Atmanand Govt English Medium Model College Jagdalpur | BASTAR | Chhattisgarh | Public/Government | [Portal](https://www.lpu.in) |
+| 3463 | Jagrani Devi Dgree College Baradwar | JANJGIR-CHAMPA | Chhattisgarh | Private | [Portal](http://jddcb.org) |
+| 3464 | Mohan Lal Jain Government College Khursipar Bhilai | DURG | Chhattisgarh | Public/Government | [Portal](https://mohanlaljain.gov.in) |
+| 3465 | Swami Atmanand Govt English Medium Model College Atari | RAIPUR | Chhattisgarh | Public/Government | [Portal](https://swamiatmanandgovt.gov.in) |
+| 3466 | Gracious College of Educatioin Belbhata Abhanpur Raipur Chhattisgarh | RAIPUR | Chhattisgarh | Private | [Portal](http://graciouscollegeof.org) |
+| 3467 | Govt. Bilasa Girls P.g. Autonomous College Bilaspur Chhattisgarh | BILASPUR | Chhattisgarh | Public/Government | [Portal](https://govtbilasagirls.gov.in) |
+| 3468 | Samadhan College | DURG | Chhattisgarh | Private | [Portal](http://samadhancollege.org) |
+| 3469 | Govt E Raghavendra Rao PG Science College | BILASPUR | Chhattisgarh | Public/Government | [Portal](https://govteraghavendra.gov.in) |
+| 3470 | Modern College of Management and Information Technology | KORBA | Chhattisgarh | Private | [Portal](http://moderncollegeof.org) |
+
+
+### Batch 348 (Colleges 3471–3480)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3471 | Shri Rishabh Vidyoday Mahavidyalaya | JANJGIR-CHAMPA | Chhattisgarh | Private | [Portal](http://srvm.org) |
+| 3472 | Siddharth College | BILASPUR | Chhattisgarh | Private | [Portal](http://siddharthcollege.org) |
+| 3473 | Bhanupratap Deo Govt. PG College Kanker | KANKER | Chhattisgarh | Public/Government | [Portal](https://bdgpck.gov.in) |
+| 3474 | College of Professional Studies | SURGUJA | Chhattisgarh | Private | [Portal](http://cops.org) |
+| 3475 | C. S. R. College Pipertarai | BILASPUR | Chhattisgarh | Private | [Portal](http://csrcp.org) |
+| 3476 | Batmul Ashram Shikshan SA | RAIGARH | Chhattisgarh | Private | [Portal](http://bass.org) |
+| 3477 | Government Navin College Hasoud | JANJGIR-CHAMPA | Chhattisgarh | Public/Government | [Portal](https://gnch.gov.in) |
+| 3478 | Saraswati Mahavidyalaya | SURGUJA | Chhattisgarh | Private | [Portal](http://saraswatimahavidyalaya.org) |
+| 3479 | Anant College | RAIGARH | Chhattisgarh | Private | [Portal](http://anantcollege.org) |
+| 3480 | Cpm Arts and Science College | RAIGARH | Chhattisgarh | Private | [Portal](http://caasc.org) |
+
+
+### Batch 349 (Colleges 3481–3490)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3481 | Shri Agrasen Kanya Mahavidyalaya | KORBA | Chhattisgarh | Private | [Portal](http://sakm.org) |
+| 3482 | Kamla Devi Institute of Professonal Studies | DURG | Chhattisgarh | Private | [Portal](http://kdiops.org) |
+| 3483 | Raigarh College of Education | RAIGARH | Chhattisgarh | Private | [Portal](http://rcoe.org) |
+| 3484 | Shri Mahant Lal Das Arts and Science College Sheorinarayan | JANJGIR-CHAMPA | Chhattisgarh | Private | [Portal](http://shrimahantlal.org) |
+| 3485 | DR Bhanwar Singh Porte Arts Science and Commerce College Gharghoda | RAIGARH | Chhattisgarh | Private | [Portal](http://drbhanwarsingh.org) |
+| 3486 | Aricent College | RAIGARH | Chhattisgarh | Private | [Portal](http://aricentcollege.org) |
+| 3487 | Govt. Madan Lal Shukla College Seepat | BILASPUR | Chhattisgarh | Public/Government | [Portal](https://gmlscs.gov.in) |
+| 3488 | O.p. Sharma College | JANJGIR-CHAMPA | Chhattisgarh | Private | [Portal](http://osc.org) |
+| 3489 | Govt. T.c.l. P.g. College Janjgir | JANJGIR-CHAMPA | Chhattisgarh | Public/Government | [Portal](https://gtpcj.gov.in) |
+| 3490 | Saraswati Mahavidyalay | BILASPUR | Chhattisgarh | Private | [Portal](http://saraswatimahavidyalay.org) |
+
+
+### Batch 350 (Colleges 3491–3500)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3491 | Janki College of Education | RAIGARH | Chhattisgarh | Private | [Portal](http://jcoe.org) |
+| 3492 | Kalindri Devi Tilak Ramchandra Arts and Science College Salni | JANJGIR-CHAMPA | Chhattisgarh | Private | [Portal](http://kalindridevitilak.org) |
+| 3493 | Government Polytechnic Kurud | DHAMTARI | Chhattisgarh | Public/Government | [Portal](https://gpk.gov.in) |
+| 3494 | Columbia College of Science and Commerce | RAIPUR | Chhattisgarh | Private | [Portal](http://ccosac.org) |
+| 3495 | Chanakya Academy | RAIPUR | Chhattisgarh | Private | [Portal](http://chanakyaacademy.org) |
+| 3496 | Government J.m.p. College Takhatpur | BILASPUR | Chhattisgarh | Public/Government | [Portal](https://gjct.gov.in) |
+| 3497 | International Polytechnic for Women | SOUTH DELHI | Delhi NCR | Private | [Portal](http://ipfw.org) |
+| 3498 | Delhi Institute of Advanced Studies (Dias) | New Delhi | Delhi NCR | Private | [Portal](https://dias.ac.in) |
+| 3499 | Gitarattan International Business School (Gibs Rohini) | New Delhi | Delhi NCR | Private | [Portal](https://gitarattan.edu.in) |
+| 3500 | Sarada Ukil School of Art | CENTRAL DELHI | Delhi NCR | Private | [Portal](http://susoa.org) |
+
+
+### Batch 351 (Colleges 3501–3510)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3501 | Baba Haridass College of Pharmacy & Technology | SOUTH WEST DELHI | Delhi NCR | Private | [Portal](http://bhcopt.org) |
+| 3502 | Chhotu Ram Rural Institute of Technology | NORTH WEST DELHI | Delhi NCR | Private | [Portal](http://crriot.org) |
+| 3503 | Guru Gobind Singh Indraprastha University | SOUTH WEST DELHI | Delhi NCR | Private | [Portal](http://ggsiu.org) |
+| 3504 | Banarsidas Chandiwala Institute of Information Technology | SOUTH DELHI | Delhi NCR | Private | [Portal](http://bcioit.org) |
+| 3505 | College of Art | EAST DELHI | Delhi NCR | Private | [Portal](http://coa.org) |
+| 3506 | Entrepreneurship & Management Processes International (Empi Business School) | New Delhi | Delhi NCR | Private | [Portal](https://empi.ac.in) |
+| 3507 | Bharati Vidyapeeth's College of Engineering | WEST DELHI | Delhi NCR | Private | [Portal](https://bharatividyapeeth.edu) |
+| 3508 | Dr. Akhilesh Das Gupta Institute of Professional Studies | NORTH WEST DELHI | Delhi NCR | Private | [Portal](http://drakhileshdas.org) |
+| 3509 | Apeejay School of Management (Asm Dwarka) | New Delhi | Delhi NCR | Private | [Portal](https://www.apeejay.edu/asm/) |
+| 3510 | Rukmini Devi Institute of Advanced Studies (Rdias Rohini) | New Delhi | Delhi NCR | Private | [Portal](https://rdias.ac.in) |
+
+
+### Batch 352 (Colleges 3511–3520)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3511 | Asia-Pacific Institute of Management (Aim Jasola) | New Delhi | Delhi NCR | Private | [Portal](https://www.asiapacific.edu) |
+| 3512 | International Institute of Health Management Research | WEST DELHI | Delhi NCR | Private | [Portal](http://iiohmr.org) |
+| 3513 | Lal Bahadur Shastri Institute of Management (Lbsim Delhi) | New Delhi | Delhi NCR | Private | [Portal](https://www.lbsim.ac.in) |
+| 3514 | Sri Sharada Institute of Indian Management Research (Srisiim) | New Delhi | Delhi NCR | Private | [Portal](https://srisiim.ac.in) |
+| 3515 | Bharati Vidyapeeth's Institute of Computer Applications and Management | West Delhi | Delhi NCR | Private | [Portal](https://bharatividyapeeth.edu) |
+| 3516 | Fortune Institute of International Business (Fiib Delhi) | New Delhi | Delhi NCR | Private | [Portal](https://www.fiib.edu.in) |
+| 3517 | Banarsidas Chandiwala Institute of Hotel Managament & Catering Technology | NEW DELHI | Delhi NCR | Private | [Portal](http://banarsidaschandiwalainstitute.org) |
+| 3518 | Tecnia Institute of Advanced Studies | NORTH WEST DELHI | Delhi NCR | Private | [Portal](http://tioas.org) |
+| 3519 | Bharati Vidyapeeth University Institute of Management and Research, New Delhi | NEW DELHI | Delhi NCR | Private | [Portal](https://bharatividyapeeth.edu) |
+| 3520 | Guru Tegh Bahadur Institute of Technology | NEW DELHI | Delhi NCR | Private | [Portal](http://gtbiot.org) |
+
+
+### Batch 353 (Colleges 3521–3530)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3521 | Nsut East Campus | EAST DELHI | Delhi NCR | Private | [Portal](http://nec.org) |
+| 3522 | Aditya Institute of Technology | NEW DELHI | Delhi NCR | Private | [Portal](http://aiot.org) |
+| 3523 | New Delhi Institute of Management (Ndim Delhi) | New Delhi | Delhi NCR | Private | [Portal](https://www.ndimdelhi.org) |
+| 3524 | Institute of Marketing and Management - Business School (Imm Business School) | New Delhi | Delhi NCR | Private | [Portal](https://www.immindia.edu.in) |
+| 3525 | Banarsidas Chandiwala Institute of Professional Studies (Bcips Dwarka) | New Delhi | Delhi NCR | Private | [Portal](https://www.bcips.ac.in) |
+| 3526 | Maharaja Surajmal Institute of Technology | NORTH WEST DELHI | Delhi NCR | Private | [Portal](http://msiot.org) |
+| 3527 | Bhagwan Parshuram Institute of Technology | NORTH DELHI | Delhi NCR | Private | [Portal](http://bpiot.org) |
+| 3528 | Hmr Institute of Technology and Management | NORTH WEST DELHI | Delhi NCR | Private | [Portal](http://hiotam.org) |
+| 3529 | Bharatiya Vidya Bhavan | NEW DELHI | Delhi NCR | Private | [Portal](http://bvb.org) |
+| 3530 | New Delhi Institute of Management. Delhi | SOUTH DELHI | Delhi NCR | Private | [Portal](http://ndiomd.org) |
+
+
+### Batch 354 (Colleges 3531–3540)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3531 | Institute of Innovation in Technology and Management | WEST DELHI | Delhi NCR | Private | [Portal](http://instituteofinnovation.org) |
+| 3532 | Maharaja Agrasen Institute of Management Studies | NORTH WEST DELHI | Delhi NCR | Private | [Portal](http://maioms.org) |
+| 3533 | Kasturi Ram College of Higher Education | NORTH DELHI | Delhi NCR | Private | [Portal](http://krcohe.org) |
+| 3534 | Don Bosco Institute of Technology | SOUTH DELHI | Delhi NCR | Private | [Portal](http://dbiot.org) |
+| 3535 | Ideal Institute of Management and Technology | EAST DELHI | Delhi NCR | Private | [Portal](http://iiomat.org) |
+| 3536 | Trinity Institute of Professional Studies | SOUTH WEST DELHI | Delhi NCR | Private | [Portal](http://tiops.org) |
+| 3537 | Delhi Institute of Science and Technology-Dist | NORTH WEST DELHI | Delhi NCR | Private | [Portal](http://diosat.org) |
+| 3538 | Sant Hari Dass College of Higher Education | SOUTH WEST DELHI | Delhi NCR | Private | [Portal](http://santharidass.org) |
+| 3539 | Kamal Institute of Higher Education and Advance Technology | SOUTH WEST DELHI | Delhi NCR | Private | [Portal](http://kamalinstituteof.org) |
+| 3540 | Sri Guru Tegh Bahadur Institute of Management and Information Technology | NORTH WEST DELHI | Delhi NCR | Private | [Portal](http://srigurutegh.org) |
+
+
+### Batch 355 (Colleges 3541–3550)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3541 | Lingayas Lalita Devi Institute of Management and Sciences | SOUTH DELHI | Delhi NCR | Private | [Portal](http://lingayaslalitadevi.org) |
+| 3542 | Sirifort Institute of Management Studies | NORTH DELHI | Delhi NCR | Private | [Portal](http://sioms.org) |
+| 3543 | Comm IT Career Academy | SOUTH DELHI | Delhi NCR | Private | [Portal](http://cica.org) |
+| 3544 | MBS College | SOUTH WEST DELHI | Delhi NCR | Private | [Portal](http://mbscollege.org) |
+| 3545 | Chanderprabhu Jain College of Higher Studies and School of Law | NORTH WEST DELHI | Delhi NCR | Private | [Portal](https://www.bhu.ac.in) |
+| 3546 | Apeejay Institute of Design | SOUTH DELHI | Delhi NCR | Private | [Portal](http://aiod.org) |
+| 3547 | International Management Centre (Imc New Delhi) | New Delhi | Delhi NCR | Private | [Portal](https://www.imc.edu.in) |
+| 3548 | Indian Institute of Packaging Delhi | EAST DELHI | Delhi NCR | Public/Government | [Portal](https://iiopd.gov.in) |
+| 3549 | Government Polytechnic, Gandhinagar | GANDHINAGAR | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3550 | Aditya Silver Oak Institute of Technology Within Ahmedabad Municipal Corporation Limit | AHMEDABAD | Gujarat | Private | [Portal](http://adityasilveroak.org) |
+
+
+### Batch 356 (Colleges 3551–3560)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3551 | Acharya Motibhai Patel Institute of Computer Studies | MEHSANA | Gujarat | Private | [Portal](http://acharyamotibhaipatel.org) |
+| 3552 | Vidhyadeep Institute of Engineering and Technology | SURAT | Gujarat | Private | [Portal](http://vioeat.org) |
+| 3553 | Chandubhai S. Patel Institute of Technology | ANAND | Gujarat | Private | [Portal](http://cspiot.org) |
+| 3554 | Government Polytechnic Rajpipla | BHARUCH | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3555 | Madhuben & Bhanubhai Patel Institute of Technology | ANAND | Gujarat | Private | [Portal](http://mbpiot.org) |
+| 3556 | Government Engineering College, Valsad | VALSAD | Gujarat | Public/Government | [Portal](https://gecv.gov.in) |
+| 3557 | Bhailalbhai & Bhikhabhai Institute of Technology | ANAND | Gujarat | Private | [Portal](http://bbiot.org) |
+| 3558 | R. C. Technical Institute | AHMEDABAD | Gujarat | Private | [Portal](http://rcti.org) |
+| 3559 | Darshan Institute of Engineering & Technology for Diploma Studies | RAJKOT | Gujarat | Private | [Portal](http://darshaninstituteof.org) |
+| 3560 | Bhavnagar Polytechnic Institute | BHAVNAGAR | Gujarat | Private | [Portal](http://bpi.org) |
+
+
+### Batch 357 (Colleges 3561–3570)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3561 | Mahavir Swami College of Engineering & Technology | SURAT | Gujarat | Private | [Portal](http://mscoet.org) |
+| 3562 | OM Institute of Technology | PANCHMAHAL | Gujarat | Private | [Portal](http://oiot.org) |
+| 3563 | Hansaba College of Engineering & Technology | PATAN | Gujarat | Private | [Portal](http://hcoet.org) |
+| 3564 | Som-Lalit Polytechnic | GANDHINAGAR | Gujarat | Private | [Portal](http://somlalitpolytechnic.org) |
+| 3565 | Government Polytechnic, Jamnagar | JAMNAGAR | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3566 | Adani Institute of Digital Technology Management (Aidtm Gandhinagar) | Gandhinagar | Gujarat | Private | [Portal](https://www.aidtm.ac.in) |
+| 3567 | M.s. Patel Institute of Management Studies (Fms Baroda, Msu Baroda) | Vadodara | Gujarat | Private | [Portal](https://www.msubaroda.ac.in) |
+| 3568 | Faculty of Diploma Engineering | VADODARA | Gujarat | Private | [Portal](http://fode.org) |
+| 3569 | L.j. Polytechnic | AHMEDABAD | Gujarat | Private | [Portal](http://ljpolytechnic.org) |
+| 3570 | Institute of Rural Management Anand (Irma Anand) | Anand | Gujarat | Private | [Portal](https://www.irma.ac.in) |
+
+
+### Batch 358 (Colleges 3571–3580)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3571 | Vallabh Budhi Polytechnic | NAVSARI | Gujarat | Private | [Portal](http://vbp.org) |
+| 3572 | Dr. Jivraj N. Mehta Government Polytechnic, Amreli | AMRELI | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3573 | Sal Engineering & Technical Institute | AHMEDABAD | Gujarat | Private | [Portal](http://seti.org) |
+| 3574 | Vpmp Polytechnic | GANDHINAGAR | Gujarat | Private | [Portal](http://vpmppolytechnic.org) |
+| 3575 | B. S. Patel Polytechnic | MEHSANA | Gujarat | Private | [Portal](http://bspp.org) |
+| 3576 | C.u.shah Polytechnic | SURENDRANAGAR | Gujarat | Private | [Portal](http://cushahpolytechnic.org) |
+| 3577 | Shree Dhanvantary College of Engineering and Technology | SURAT | Gujarat | Private | [Portal](http://shreedhanvantarycollege.org) |
+| 3578 | Parul Institute of Engineering & Technology | VADODARA | Gujarat | Private | [Portal](http://pioet.org) |
+| 3579 | Excel Institute of Diploma Studies | GANDHINAGAR | Gujarat | Private | [Portal](http://eiods.org) |
+| 3580 | OM Engineering College | JUNAGADH | Gujarat | Private | [Portal](http://oec.org) |
+
+
+### Batch 359 (Colleges 3581–3590)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3581 | Mahavir Swami College of Polytechnic | SURAT | Gujarat | Private | [Portal](http://mscop.org) |
+| 3582 | N. R. Vekaria Institute of Technology | JUNAGADH | Gujarat | Private | [Portal](http://nrviot.org) |
+| 3583 | Gujarat Technological University - Institute of Technology & Research | MEHSANA | Gujarat | Private | [Portal](http://gujarattechnologicaluniversity.org) |
+| 3584 | Krishna Institute of Engineering & Technology, Jamnagar | JAMNAGAR | Gujarat | Private | [Portal](http://kioetj.org) |
+| 3585 | Government MCA College, Maninagar(East) | AHMEDABAD | Gujarat | Public/Government | [Portal](https://gmcm.gov.in) |
+| 3586 | Image Engineering & Technical Institute | KHEDA | Gujarat | Private | [Portal](http://ieti.org) |
+| 3587 | Government Polytechnic , Ahmedabad | AHMEDABAD | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3588 | Shri J.m.sabva Institute of Engineering & Technology | BHAVNAGAR | Gujarat | Private | [Portal](http://sjioet.org) |
+| 3589 | Valia Polytechnic College | BHARUCH | Gujarat | Private | [Portal](http://vpc.org) |
+| 3590 | Arrdekta Institute of Technology | Khedbrahma | Gujarat | Private | [Portal](https://www.arrdekta.org) |
+
+
+### Batch 360 (Colleges 3591–3600)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3591 | Amrut Institute Junagadh | JUNAGADH | Gujarat | Private | [Portal](http://aij.org) |
+| 3592 | Vadodara Institute of Engineering | VADODARA | Gujarat | Private | [Portal](http://vioe.org) |
+| 3593 | Shree Hari Polytechnic Institute | MEHSANA | Gujarat | Private | [Portal](http://shpi.org) |
+| 3594 | Pacific School of Engineering | SURAT | Gujarat | Private | [Portal](http://psoe.org) |
+| 3595 | Government Polytechnic - Junagadh | JUNAGADH | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3596 | Shivam Institute of Management, Valasan (Anand) | Anand | Gujarat | Private | [Portal](http://www.shivaminstitute.org) |
+| 3597 | Shree H.n. Shukla College of Management Studies | Rajkot | Gujarat | Private | [Portal](https://www.shreehnshukla.org.in) |
+| 3598 | T.f.gandhidham Polytechnic | KUTCH | Gujarat | Private | [Portal](http://tfgandhidhampolytechnic.org) |
+| 3599 | Shree Swaminarayan Polytehnic | GANDHINAGAR | Gujarat | Private | [Portal](http://ssp.org) |
+| 3600 | Swaminarayan College of Engineering & Technology(Diploma) | GANDHINAGAR | Gujarat | Private | [Portal](http://scoet.org) |
+
+
+### Batch 361 (Colleges 3601–3610)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3601 | Shree M. L. Kakadiya MCA Mahila College | AMRELI | Gujarat | Private | [Portal](http://shreeml.org) |
+| 3602 | Dr. S.&s.s. Ghandhy College of Engineering & Technology | SURAT | Gujarat | Private | [Portal](http://drsssghandhy.org) |
+| 3603 | S. R. Luthra Institute of Management (Srlim Surat) | Surat | Gujarat | Private | [Portal](https://www.srlimba.ac.in) |
+| 3604 | Government Polytechnic Waghai,Dist-Dang | THE DANGS | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3605 | Jayvantrai Harrai Desai Polytechnic | SURAT | Gujarat | Private | [Portal](http://jhdp.org) |
+| 3606 | Smt. Shantaben Haribhai Gajera MBA Mahila College | Amreli | Gujarat | Private | [Portal](https://www.lptshgsankulamreli.net) |
+| 3607 | Som-Lalit Institute of Management Studies (Slims Ahmedabad) | Ahmedabad | Gujarat | Private | [Portal](https://www.somlalitcollege.org) |
+| 3608 | Shri K.j.polytechnic, Bharuch | BHARUCH | Gujarat | Private | [Portal](http://skb.org) |
+| 3609 | Bhulabhai Vanmalibhai Patel Institute of Technology(Diploma Studies) | SURAT | Gujarat | Private | [Portal](https://www.bhu.ac.in) |
+| 3610 | Radhe Institute of Engineering & Technology, Upleta | RAJKOT | Gujarat | Private | [Portal](http://rioetu.org) |
+
+
+### Batch 362 (Colleges 3611–3620)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3611 | C K Shah Vijapurwala Institute of Management (Cksvim Vadodara) | Vadodara | Gujarat | Private | [Portal](https://cksvim.edu.in) |
+| 3612 | S.s.agrawal Institute of Engineering & Technology | NAVSARI | Gujarat | Private | [Portal](http://sioet.org) |
+| 3613 | Apollo Institute of Enggineering & Technology | AHMEDABAD | Gujarat | Private | [Portal](http://aioet.org) |
+| 3614 | Kilachand Devchand Polytechnic | PATAN | Gujarat | Private | [Portal](http://kdp.org) |
+| 3615 | Asiatic Institute of Science & Technology | RAJKOT | Gujarat | Private | [Portal](http://aiost.org) |
+| 3616 | Government Polytechnic Porbandar | PORBANDAR | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3617 | Goverment Polytechnic | MEHSANA | Gujarat | Private | [Portal](http://govermentpolytechnic.org) |
+| 3618 | Sir Bhavsinhji Polytechnic Institute | BHAVNAGAR | Gujarat | Private | [Portal](http://sbpi.org) |
+| 3619 | Balasinor College of Polytechnic | KHEDA | Gujarat | Private | [Portal](http://bcop.org) |
+| 3620 | Government Polytechnic, Valsad | VALSAD | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+
+
+### Batch 363 (Colleges 3621–3630)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3621 | Government Polytechnic, Himatnagar | SABARKANTHA | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3622 | Shree Vasudevbhai and Kantibhai Patel Institute of Engineering | MEHSANA | Gujarat | Private | [Portal](http://shreevasudevbhaiand.org) |
+| 3623 | Government Polytechnic,Navsari | NAVSARI | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3624 | Bhagwan Mahavir College of Management | SURAT | Gujarat | Private | [Portal](http://bmcom.org) |
+| 3625 | Government Polytechnic, Vyara | SURAT | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3626 | Swami Krishnajivandasji Institute of Technology | AHMEDABAD | Gujarat | Private | [Portal](http://skiot.org) |
+| 3627 | Arpit Institute of Engineering and Technology (Diploma) | RAJKOT | Gujarat | Private | [Portal](http://arpitinstituteof.org) |
+| 3628 | H.b.patel Institute of Diploma Engg. & Tech,Limbodara,Lunavada | PANCHMAHAL | Gujarat | Private | [Portal](http://hiodet.org) |
+| 3629 | Government Polytechnic,Godhra | PANCHMAHAL | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3630 | Asian Institute of Technolgy | SABARKANTHA | Gujarat | Private | [Portal](http://aiot.org) |
+
+
+### Batch 364 (Colleges 3631–3640)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3631 | Sardar Patel College of Engineering and Technology | ANAND | Gujarat | Private | [Portal](http://sardarpatelcollege.org) |
+| 3632 | Anand Institute of Management and Information Science | ANAND | Gujarat | Private | [Portal](http://anandinstituteof.org) |
+| 3633 | Navsarjan Polytechnic | MEHSANA | Gujarat | Private | [Portal](http://navsarjanpolytechnic.org) |
+| 3634 | Neotech Institute of Technology | VADODARA | Gujarat | Private | [Portal](http://niot.org) |
+| 3635 | Navsarjan School of Technology | GANDHINAGAR | Gujarat | Private | [Portal](http://nsot.org) |
+| 3636 | F.d.(Mubin) Institute of Engineering & Technology | GANDHINAGAR | Gujarat | Private | [Portal](http://fioet.org) |
+| 3637 | Government Engineering College Palanpur | BANASKANTHA | Gujarat | Public/Government | [Portal](https://gecp.gov.in) |
+| 3638 | St. Kabir Institute of Professional Studies (Skips Ahmedabad) | Ahmedabad | Gujarat | Private | [Portal](https://www.skips.in) |
+| 3639 | Shivam Institute of Computer Technology, Valasan (Anand) | ANAND | Gujarat | Private | [Portal](http://shivaminstituteof.org) |
+| 3640 | Kalyan Polytechnic | JAMNAGAR | Gujarat | Private | [Portal](http://kalyanpolytechnic.org) |
+
+
+### Batch 365 (Colleges 3641–3650)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3641 | Butler Polytechnic | VADODARA | Gujarat | Private | [Portal](http://butlerpolytechnic.org) |
+| 3642 | Narandas Jethalal Sonecha Management & Technical Institute | GIR SOMNATH | Gujarat | Private | [Portal](http://njsmti.org) |
+| 3643 | R. B. Insitute of Management Studies | AHMEDABAD | Gujarat | Private | [Portal](http://rbioms.org) |
+| 3644 | Government Polytechnic, Chhotaudepur | VADODARA | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3645 | Government Polytechnic Rajkot | RAJKOT | Gujarat | Public/Government | [Portal](https://dte.gujarat.gov.in) |
+| 3646 | Ipcowala Institute of Engineering & Technology | ANAND | Gujarat | Private | [Portal](http://iioet.org) |
+| 3647 | Government Polytechnic, Bhuj | KUTCH | Gujarat | Public/Government | [Portal](https://www.bhu.ac.in) |
+| 3648 | Bhagwan Mahavir Polytechnic | SURAT | Gujarat | Private | [Portal](http://bmp.org) |
+| 3649 | Leelaben Dashrathbhai Ramdas Patel(Ldrp)Institute of Technology and Research | GANDHINAGAR | Gujarat | Private | [Portal](http://leelabendashrathbhairamdas.org) |
+| 3650 | Shri Chimanbhai Patel Post Graduate Institute of Computer Applications | AHMEDABAD | Gujarat | Private | [Portal](http://shrichimanbhaipatel.org) |
+
+
+### Batch 366 (Colleges 3651–3660)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3651 | Laljibhai Chaturbhai Institute of Technology | MEHSANA | Gujarat | Private | [Portal](http://lciot.org) |
+| 3652 | Ahmedabad Institute of Technology | AHMEDABAD | Gujarat | Private | [Portal](http://aiot.org) |
+| 3653 | K.j.institute of Engineering & Technology | VADODARA | Gujarat | Private | [Portal](http://koet.org) |
+| 3654 | Sardar Vallabhbhai Patel Institute of Technology (Svit) | ANAND | Gujarat | Private | [Portal](http://sardarvallabhbhaipatel.org) |
+| 3655 | Sankalchand Patel College of Engineering, Visnagar | MEHSANA | Gujarat | Private | [Portal](http://spcoev.org) |
+| 3656 | Veer Narmad South Gujarat University | SURAT | Gujarat | Private | [Portal](http://vnsgu.org) |
+| 3657 | Sanjaybhai Rajguru College of Engineering | RAJKOT | Gujarat | Private | [Portal](http://srcoe.org) |
+| 3658 | Chimanbhai Patel Institute of Management & Research (Cpimr Ahmedabad) | Ahmedabad | Gujarat | Private | [Portal](https://cpi.edu.in) |
+| 3659 | Government Engineering College, Sector-28 | GANDHINAGAR | Gujarat | Public/Government | [Portal](https://gecs.gov.in) |
+| 3660 | Entrepreneurship Development Institute of India (Edii Gandhinagar) | Gandhinagar | Gujarat | Private | [Portal](https://www.ediindia.org) |
+
+
+### Batch 367 (Colleges 3661–3670)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3661 | Kankeshwaridevi Institue of Technology,Jamnagar | JAMNAGAR | Gujarat | Private | [Portal](http://kiot.org) |
+| 3662 | Faculty of Technology & Engineering, the Maharaja Sayajirao University of Baroda | VADODARA | Gujarat | Private | [Portal](http://facultyoftechnology.org) |
+| 3663 | Sigma Institute of Engineering (Sigma University) | Vadodara | Gujarat | Private | [Portal](https://sigma.ac.in) |
+| 3664 | Atmiya University | Rajkot | Gujarat | Private | [Portal](https://atmiyauni.ac.in) |
+| 3665 | Shrimad Rajchandra Institute of Management and Computer Application | SURAT | Gujarat | Private | [Portal](http://shrimadrajchandrainstitute.org) |
+| 3666 | Government Engineering College, Modasa | SABARKANTHA | Gujarat | Public/Government | [Portal](https://gecm.gov.in) |
+| 3667 | Department of Commerce & Management, K.s.k.v. Kachchh University, Bhuj | Bhuj | Gujarat | Private | [Portal](https://kskvku.ac.in) |
+| 3668 | PG Department of Computer Science | PATAN | Gujarat | Private | [Portal](http://pdocs.org) |
+| 3669 | N.g. Patel Polytechinc | SURAT | Gujarat | Private | [Portal](http://npp.org) |
+| 3670 | D.l.patel Institute of Management & Technology,MCA College | SABARKANTHA | Gujarat | Private | [Portal](http://diomtc.org) |
+
+
+### Batch 368 (Colleges 3671–3680)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3671 | Narnarayan Shastri Institute of Technology | AHMEDABAD | Gujarat | Private | [Portal](http://nsiot.org) |
+| 3672 | Sevantilal Kantilal School of Business Management (B.k. School, Gujarat University) | Ahmedabad | Gujarat | Private | [Portal](https://bkschool.org.in) |
+| 3673 | D. L. Patel Institute of Management & Technology (Dlpimt Himatnagar) | Himatnagar | Gujarat | Private | [Portal](http://www.vidhyanagari.org) |
+| 3674 | Bineswar Brahma Engineering | Kokrajhar | Assam | Private | [Portal](https://www.bbec.ac.in) |
+| 3675 | Sld Institute of Management | Palwal | Haryana | Private | [Portal](http://siom.org) |
+| 3676 | NIT Trichy - National Institute of Technology | Tiruchirappalli | Tamil Nadu | Public/Government | [Portal](https://ntniot.gov.in) |
+| 3677 | IIT Delhi - Indian Institute of Technology | New Delhi | Delhi | Public/Government | [Portal](https://idiiot.gov.in) |
+| 3678 | IIT Bombay - Indian Institute of Technology | Mumbai | Maharashtra | Public/Government | [Portal](https://ibiiot.gov.in) |
+| 3679 | Sibm Pune - Symbiosis Institute of Business Management | Pune | Maharashtra | Private | [Portal](http://sibmpunesymbiosis.org) |
+| 3680 | IIM Bangalore - Indian Institute of Management | Bangalore | Karnataka | Public/Government | [Portal](https://ibiiom.gov.in) |
+
+
+### Batch 369 (Colleges 3681–3690)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3681 | King Georges Medical University, Lucknow | Lucknow | Uttar Pradesh | Private | [Portal](http://kgmul.org) |
+| 3682 | Cmc Vellore - Christian Medical College | Vellore | Tamil Nadu | Private | [Portal](http://cvcmc.org) |
+| 3683 | Symbiosis Institute of Business Management, Symbiosis International, Pune | India | India Top | Private | [Portal](https://www.sibm.edu/) |
+| 3684 | Jamnalal Bajaj Institute of Management Studies, Mumbai | India | India Top | Private | [Portal](https://jbims.edu/) |
+| 3685 | IIM Ahmedabad | India | India Top | Public/Government | [Portal](https://iimahmedabad.gov.in) |
+| 3686 | Mumbai University | India | India Top | Private | [Portal](http://mumbaiuniversity.org) |
+| 3687 | Shailesh J. Mehta School of Management, IIT Bombay | Maharashtra | Maharashtra | Public/Government | [Portal](https://www.som.iitb.ac.in/) |
+| 3688 | K J Somaiya Institute of Management, Mumbai | Maharashtra | Maharashtra | Private | [Portal](https://kjsim.somaiya.edu/) |
+| 3689 | IIT Delhi | Delhi | Delhi NCR | Public/Government | [Portal](https://home.iitd.ac.in/) |
+| 3690 | Department of Management Studies, IIT Delhi | Delhi | Delhi NCR | Public/Government | [Portal](https://dms.iitd.ac.in/) |
+
+
+### Batch 370 (Colleges 3691–3700)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3691 | IIM Bangalore | Karnataka | Karnataka | Public/Government | [Portal](https://www.iimb.ac.in/) |
+| 3692 | T A Pai Management Institute, Manipal, Mahe | Karnataka | Karnataka | Private | [Portal](https://www.tapmi.edu.in/) |
+| 3693 | Kochi Business School | Kerala | Kerala | Private | [Portal](https://kbs.edu.in/) |
+| 3694 | Compare Lead College of Management ,Palakkad | Kerala | Kerala | Private | [Portal](http://clcomp.org) |
+| 3695 | IIM Calcutta | West | West Bengal | Public/Government | [Portal](https://iimcalcutta.gov.in) |
+| 3696 | IIT Kharagpur | West | West Bengal | Public/Government | [Portal](http://www.iitkgp.ac.in/) |
+| 3697 | Institute of Engineering and Management, Kolkata | West | West Bengal | Private | [Portal](http://iem.edu.in/) |
+| 3698 | Vgsom IIT Kharagpur | West | West Bengal | Public/Government | [Portal](https://som.iitkgp.ac.in/) |
+| 3699 | Calcutta University | West | West Bengal | Private | [Portal](https://www.caluniv.ac.in/) |
+| 3700 | Compare IIM Calcutta ,Joka, Kolkata | West | West Bengal | Public/Government | [Portal](https://cicjk.gov.in) |
+
+
+### Batch 371 (Colleges 3701–3710)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3701 | IIT Madras | Tamil | Tamil Nadu | Public/Government | [Portal](https://www.iitm.ac.in/) |
+| 3702 | Madurai Kamaraj University | Tamil | Tamil Nadu | Private | [Portal](http://mkuniversity.ac.in/new/) |
+| 3703 | Doms IIT Madras | Tamil | Tamil Nadu | Public/Government | [Portal](https://doms.iitm.ac.in/) |
+| 3704 | IIIT Delhi | Delhi | Delhi NCR | Public/Government | [Portal](https://iiitdelhi.gov.in) |
+| 3705 | Dtu Delhi | Delhi | Delhi NCR | Private | [Portal](http://dtudelhi.org) |
+| 3706 | Netaji Subhas University of Technology, Delhi | Delhi | Delhi NCR | Private | [Portal](http://nsut.ac.in/en) |
+| 3707 | NIT Warangal | Telangana | Telangana | Public/Government | [Portal](https://www.nitw.ac.in/) |
+| 3708 | Compare University of Hyderabad ,Gachibowli | Telangana | Telangana | Private | [Portal](http://cuohg.org) |
+| 3709 | Compare IIM Visakhapatnam , | Andhra | Andhra Pradesh | Public/Government | [Portal](https://civ.gov.in) |
+| 3710 | Institute of Management, Nirma University, Ahmedabad | Gujarat | Gujarat | Private | [Portal](https://management.nirmauni.ac.in/) |
+
+
+### Batch 372 (Colleges 3711–3720)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3711 | Compare IIM Ahmedabad ,Vastrapur | Gujarat | Gujarat | Public/Government | [Portal](https://ciav.gov.in) |
+| 3712 | Compare Mica ,Shela, Ahmedabad | Gujarat | Gujarat | Private | [Portal](http://cmsa.org) |
+| 3713 | IIM Ahmedabad Executive Education Campus | Gujarat | Gujarat | Public/Government | [Portal](https://iaeec.gov.in) |
+| 3714 | Compare IIIT Bangalore ,Hosur Road | Karnataka | Karnataka | Public/Government | [Portal](https://cibhr.gov.in) |
+| 3715 | IIT Bombay | Maharashtra | Maharashtra | Public/Government | [Portal](https://www.iitb.ac.in/) |
+| 3716 | Compare Sardar Patel Institute of Technology ,Andheri West, Mumbai | Maharashtra | Maharashtra | Private | [Portal](http://comparesardarpatel.org) |
+| 3717 | Compare RC Patel College of Engineering Shirpur ,Dhule | Maharashtra | Maharashtra | Private | [Portal](http://comparercpatel.org) |
+| 3718 | Compare Pillai College of Engineering ,Panvel, Mumbai | Maharashtra | Maharashtra | Private | [Portal](http://comparepillaicollege.org) |
+| 3719 | College of Engineering, Pune | Maharashtra | Maharashtra | Private | [Portal](http://coep.org) |
+| 3720 | Vit Vellore | Tamil | Tamil Nadu | Private | [Portal](http://www.vit.ac.in/) |
+
+
+### Batch 373 (Colleges 3721–3730)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3721 | IIT Kanpur | Uttar | Uttar Pradesh | Public/Government | [Portal](https://www.iitk.ac.in/) |
+| 3722 | Bits Pilani | Rajasthan | Rajasthan | Private | [Portal](https://www.bits-pilani.ac.in/) |
+| 3723 | Thapar University, Patiala | Punjab | Punjab | Private | [Portal](http://www.thapar.edu/) |
+| 3724 | Ies College of Technology, Bhopal | Madhya | Madhya Pradesh | Private | [Portal](http://www.icot.co.in/) |
+| 3725 | Compare IIIT Hyderabad ,Gachibowli | Telangana | Telangana | Public/Government | [Portal](https://cihg.gov.in) |
+| 3726 | Compare KL University Guntur ,Guntur | Andhra | Andhra Pradesh | Private | [Portal](http://ckugg.org) |
+| 3727 | Compare IIT Gandhinagar , | Gujarat | Gujarat | Public/Government | [Portal](https://cig.gov.in) |
+| 3728 | Compare Sardar Vallabhbhai National Institute of Technology , | Gujarat | Gujarat | Public/Government | [Portal](https://comparesardarvallabhbhai.gov.in) |
+| 3729 | Compare IIT Ropar , | Punjab | Punjab | Public/Government | [Portal](https://cir.gov.in) |
+| 3730 | Compare Amity University Gurugram ,Gurgaon | Haryana | Haryana | Private | [Portal](http://caugg.org) |
+
+
+### Batch 374 (Colleges 3731–3740)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3731 | Compare Mriirs Faridabad ,Faridabad | Haryana | Haryana | Private | [Portal](http://cmff.org) |
+| 3732 | Compare NIT Durgapur , | West | West Bengal | Public/Government | [Portal](https://cnd.gov.in) |
+| 3733 | Compare Guru Nanak Institute of Technology | West | West Bengal | Private | [Portal](http://cgniot.org) |
+| 3734 | Compare Universal Engineering College ,Thrissur | Kerala | Kerala | Private | [Portal](http://cuect.org) |
+| 3735 | Compare Adwaita Mission Institute of Technology ,Bihar | Bihar | Bihar | Private | [Portal](http://compareadwaitamission.org) |
+| 3736 | Compare Azmet Institute of Technology ,Kishanganj | Bihar | Bihar | Private | [Portal](http://caiotk.org) |
+| 3737 | Kasturba Medical College, Mangalore, Manipal Academy of Higher Education, Karnataka | Karnataka | Karnataka | Private | [Portal](https://manipal.edu/kmc-mangalore.html) |
+| 3738 | Compare Galgotias University ,Greater Noida | India | India Top | Private | [Portal](http://cgugn.org) |
+| 3739 | Jawaharlal Nehru Rajkeeya Mahavidyalaya | PORT BLAIR | ANDAMAN & NICOBAR | Private | [Portal](http://jnrm.org) |
+| 3740 | Government Polytechnic | VISHAKHAPATNAM | ANDHRA PRADESH | Public/Government | [Portal](https://dte.ap.gov.in) |
+
+
+### Batch 375 (Colleges 3741–3750)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3741 | Sri Chaitanya - Djr Institute of Technology | KRISHNA | ANDHRA PRADESH | Private | [Portal](http://scdiot.org) |
+| 3742 | D.l.r. College PG | EAST GODAVARI | ANDHRA PRADESH | Private | [Portal](http://dcp.org) |
+| 3743 | Sri Vani Institute of Management and Sciences (Svims) | ANANTAPUR | ANDHRA PRADESH | Private | [Portal](http://srivaniinstitute.org) |
+| 3744 | Nova PG College(MCA) | KRISHNA | ANDHRA PRADESH | Private | [Portal](http://npc.org) |
+| 3745 | Aditya College of Engineering | CHITTOOR | ANDHRA PRADESH | Private | [Portal](https://acem.ac.in) |
+| 3746 | Dr.k.v.subba Reddy Institute of Technology | KURNOOL | ANDHRA PRADESH | Private | [Portal](http://driot.org) |
+| 3747 | Vishnu Institute of Technology | WEST GODAVARI | ANDHRA PRADESH | Private | [Portal](http://viot.org) |
+| 3748 | Sri Balaji PG College (MBA) | ANANTAPUR | ANDHRA PRADESH | Private | [Portal](http://sbpcm.org) |
+| 3749 | V.s.m. College (P.g. ) | EAST GODAVARI | ANDHRA PRADESH | Private | [Portal](http://vcp.org) |
+| 3750 | Sri Venkateswara University College of Engineering | CHITTOOR | ANDHRA PRADESH | Private | [Portal](http://svucoe.org) |
+
+
+### Batch 376 (Colleges 3751–3760)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3751 | Central Institute of Petrochemicals Engineering & Technology | KAMRUP | ASSAM | Private | [Portal](http://ciopet.org) |
+| 3752 | J.p.institute of Technology | NALANDA | BIHAR | Private | [Portal](http://jot.org) |
+| 3753 | J. D. Women's College | PATNA | BIHAR | Private | [Portal](http://jdwc.org) |
+| 3754 | Department of Computer Application | AURANGABAD | BIHAR | Private | [Portal](http://doca.org) |
+| 3755 | Andaman Nicobar Collge Ancol | PORT BLAIR | ANDAMAN & NICOBAR | Private | [Portal](http://anca.org) |
+| 3756 | Dr. B.r. Ambedkar Institute of Technology | PORT BLAIR | ANDAMAN & NICOBAR | Private | [Portal](http://dbaiot.org) |
+| 3757 | Magadh Institute of Management | PATNA | BIHAR | Private | [Portal](http://miom.org) |
+| 3758 | Institute of Management | RAIPUR | CHHATISGARH | Private | [Portal](http://iom.org) |
+| 3759 | Indraprastha Institute of Information Technology Delhi | SOUTH DELHI | DELHI | Private | [Portal](http://iioitd.org) |
+| 3760 | Netaji Subhas University of Technology West Campus | SOUTH WEST DELHI | DELHI | Private | [Portal](http://netajisubhasuniversity.org) |
+
+
+### Batch 377 (Colleges 3761–3770)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3761 | Delhi Technological University | NORTH WEST DELHI | DELHI | Private | [Portal](http://dtu.org) |
+| 3762 | Jamia Hamdard Deemed to BE University | SOUTH DELHI | DELHI | Private (Deemed to be University) | [Portal](http://jhdtbu.org) |
+| 3763 | Netaji Subhas University of Technology | SOUTH WEST DELHI | DELHI | Private | [Portal](http://nsuot.org) |
+| 3764 | Goa College of Engineering (Government of Goa) | NORTH GOA | GOA | Public/Government | [Portal](https://goacollegeof.gov.in) |
+| 3765 | Sal Institute of Management | AHMEDABAD | GUJARAT | Private | [Portal](http://siom.org) |
+| 3766 | Parul University | VADODARA | GUJARAT | Private | [Portal](http://paruluniversity.org) |
+| 3767 | R.h Patel Institute of Technology | KHEDA | GUJARAT | Private | [Portal](http://rpiot.org) |
+| 3768 | Swaminarayan College of Engineering & Technology(Degree) | GANDHINAGAR | GUJARAT | Private | [Portal](http://scoet.org) |
+| 3769 | Parul Institute of Engineering & Technology (Diploma Studies) | VADODARA | GUJARAT | Private | [Portal](http://parulinstituteof.org) |
+| 3770 | Tapi Diploma Engineering College | SURAT | GUJARAT | Private | [Portal](http://tdec.org) |
+
+
+### Batch 378 (Colleges 3771–3780)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3771 | Indus Institute of Technology & Engineering | GANDHINAGAR | GUJARAT | Private | [Portal](http://iiote.org) |
+| 3772 | U. V. Patel College of Engineering | MEHSANA | GUJARAT | Private | [Portal](http://uvpcoe.org) |
+| 3773 | Dalia Institute of Technology | KHEDA | GUJARAT | Private | [Portal](http://diot.org) |
+| 3774 | Bhagwan Mahavir College of Engineering and Technology | SURAT | GUJARAT | Private | [Portal](http://bhagwanmahavircollege.org) |
+| 3775 | Shri MH Kadakia Institute of Management & Computer Studies | BHARUCH | GUJARAT | Private | [Portal](http://shrimhkadakia.org) |
+| 3776 | Shri Jaysukhlal Vadhar Institute of Management Studies (Jvims) | JAMNAGAR | GUJARAT | Private | [Portal](http://shrijaysukhlalvadhar.org) |
+| 3777 | Department of Computer Science Faculty of Management and Technology Gujarat Vidyapith Ahmedabad | AHMEDABAD | GUJARAT | Private | [Portal](http://departmentofcomputer.org) |
+| 3778 | Chhotubhai Gopalbhai Patel Institute of Technology | SURAT | GUJARAT | Private | [Portal](http://cgpiot.org) |
+| 3779 | Government Engineering College, At.katpur, Patan | PATAN | GUJARAT | Public/Government | [Portal](https://gecap.gov.in) |
+| 3780 | Post Graduate Department of Computer Science and Technology | ANAND | GUJARAT | Private | [Portal](http://postgraduatedepartment.org) |
+
+
+### Batch 379 (Colleges 3781–3790)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3781 | Geetanjali Institute of Managment Studies-Rajkot | RAJKOT | GUJARAT | Private | [Portal](http://gioms.org) |
+| 3782 | Sunshine Educational Trust Group of Institutions | RAJKOT | GUJARAT | Private | [Portal](http://setgoi.org) |
+| 3783 | S.k.patel Institute of Management & Computer Studies-MBA | GANDHINAGAR | GUJARAT | Private | [Portal](http://siomcs.org) |
+| 3784 | Rms Polytechnic | VADODARA | GUJARAT | Private | [Portal](http://rmspolytechnic.org) |
+| 3785 | V. V. P. Engineering College | RAJKOT | GUJARAT | Private | [Portal](http://vvpec.org) |
+| 3786 | L. J. Institute of Engineering & Technology | AHMEDABAD | GUJARAT | Private | [Portal](http://ljioet.org) |
+| 3787 | Sda College of Business Studies | AHMEDABAD | GUJARAT | Private | [Portal](http://scobs.org) |
+| 3788 | Laxmi Institute of Management, Sarigam | VALSAD | GUJARAT | Private | [Portal](http://lioms.org) |
+| 3789 | Indukaka Ipcowala Institute of Management | ANAND | GUJARAT | Private | [Portal](http://iiiom.org) |
+| 3790 | S.v. Institute of Management | MEHSANA | GUJARAT | Private | [Portal](http://siom.org) |
+
+
+### Batch 380 (Colleges 3791–3800)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3791 | Shree Samanvay Institute of MBA | BHAVNAGAR | GUJARAT | Private | [Portal](http://ssiom.org) |
+| 3792 | Shantilal Shah Engineering College | BHAVNAGAR | GUJARAT | Private | [Portal](http://ssec.org) |
+| 3793 | A.d.patel Institute of Technology | ANAND | GUJARAT | Private | [Portal](http://aiot.org) |
+| 3794 | V. M. Patel Institute of Management | MEHSANA | GUJARAT | Private | [Portal](http://vmpiom.org) |
+| 3795 | Smt. R.d. Gardi Department of Business Management | RAJKOT | GUJARAT | Private | [Portal](http://smtrdgardi.org) |
+| 3796 | Government Engineering College, Bharuch | BHARUCH | GUJARAT | Public/Government | [Portal](https://gecb.gov.in) |
+| 3797 | OM Institute of Engineering and Technology | JUNAGADH | GUJARAT | Private | [Portal](http://oioeat.org) |
+| 3798 | Udaybhansinhji Regional Institute of CO-Operative Management | GANDHINAGAR | GUJARAT | Private | [Portal](http://uriocm.org) |
+| 3799 | Sal Institute of Technology & Engineering Research | AHMEDABAD | GUJARAT | Private | [Portal](http://sioter.org) |
+| 3800 | Government Engineering College, Rajkot | RAJKOT | GUJARAT | Public/Government | [Portal](https://gecr.gov.in) |
+
+
+### Batch 381 (Colleges 3801–3810)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3801 | L. D. College of Engineering | AHMEDABAD | GUJARAT | Private | [Portal](http://ldcoe.org) |
+| 3802 | Smt. S. R. Patel Engineering College | MEHSANA | GUJARAT | Private | [Portal](http://ssrpec.org) |
+| 3803 | Kalol Institute of Management | GANDHINAGAR | GUJARAT | Private | [Portal](http://kiom.org) |
+| 3804 | Narmada College of Management | BHARUCH | GUJARAT | Private | [Portal](http://ncom.org) |
+| 3805 | L.j.institute of Management Studies | AHMEDABAD | GUJARAT | Private | [Portal](http://loms.org) |
+| 3806 | S.p.b. Patel Engineering College | MEHSANA | GUJARAT | Private | [Portal](http://spec.org) |
+| 3807 | Darshan Institute of Engineering & Technology | RAJKOT | GUJARAT | Private | [Portal](http://dioet.org) |
+| 3808 | Shree Swami Atmanand Saraswati Institute of Technology | SURAT | GUJARAT | Private | [Portal](http://shreeswamiatmanand.org) |
+| 3809 | Government Engineering College Bhuj | KUTCH | GUJARAT | Public/Government | [Portal](https://gecb.gov.in) |
+| 3810 | Institute of Science & Technology for Advanced Studies & Research (Istar) | ANAND | GUJARAT | Private | [Portal](http://instituteofscience.org) |
+
+
+### Batch 382 (Colleges 3811–3820)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3811 | Engineering College, Tuwa | PANCHMAHAL | GUJARAT | Private | [Portal](http://ect.org) |
+| 3812 | Chaudhari Technical Institute | GANDHINAGAR | GUJARAT | Private | [Portal](http://cti.org) |
+| 3813 | Christ Polytechnic Institute | RAJKOT | GUJARAT | Private | [Portal](http://cpi.org) |
+| 3814 | B. H. Gardi College of Engineering & Technology | JAMNAGAR | GUJARAT | Private | [Portal](http://bhgardi.org) |
+| 3815 | Government Engineering College,Godhra | PANCHMAHAL | GUJARAT | Public/Government | [Portal](https://gec.gov.in) |
+| 3816 | Dr. S. & S. S. Ghandhy Government Engineering College, Surat. | SURAT | GUJARAT | Public/Government | [Portal](https://drss.gov.in) |
+| 3817 | Shri Jairambhai Patel Institute of Business Management and Computer Applications-Technical Campus | GANDHINAGAR | GUJARAT | Private | [Portal](http://shrijairambhaipatel.org) |
+| 3818 | Vishwakarma Government Engineering College, Chandkheda | AHMEDABAD | GUJARAT | Public/Government | [Portal](https://vgecc.gov.in) |
+| 3819 | Kalol Institute of Technology & Research Centre | GANDHINAGAR | GUJARAT | Private | [Portal](http://kiotrc.org) |
+| 3820 | Mahatma Gandhi Institute of Technical Education and Research Centre | NAVSARI | GUJARAT | Private | [Portal](http://mahatmagandhiinstitute.org) |
+
+
+### Batch 383 (Colleges 3821–3830)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3821 | Government Engineering College, Dahod | DAHOD | GUJARAT | Public/Government | [Portal](https://gecd.gov.in) |
+| 3822 | Vivekanand Institute of Hotel & Tourism Management | RAJKOT | GUJARAT | Private | [Portal](http://viohtm.org) |
+| 3823 | Birla Vishvakarma Mahavidyalaya | ANAND | GUJARAT | Private | [Portal](http://bvm.org) |
+| 3824 | N. R. Vekaria Institute of Business Management Studies | JUNAGADH | GUJARAT | Private | [Portal](http://nrvekaria.org) |
+| 3825 | Parul Polytechnic Institute | VADODARA | GUJARAT | Private | [Portal](http://ppi.org) |
+| 3826 | Sarvajanik College of Engineering and Technology | SURAT | GUJARAT | Private | [Portal](http://scoeat.org) |
+| 3827 | L. J. Institute of Computer Applications | AHMEDABAD | GUJARAT | Private | [Portal](http://ljioca.org) |
+| 3828 | Silver Oak College of Engineering and Technology Within Ahmedabad Municipal Corporation Limit | AHMEDABAD | GUJARAT | Private | [Portal](http://silveroakcollege.org) |
+| 3829 | Merchant Engineering College | MEHSANA | GUJARAT | Private | [Portal](http://mec.org) |
+| 3830 | C Z Patel College of Business and Management | ANAND | GUJARAT | Private | [Portal](http://czpatel.org) |
+
+
+### Batch 384 (Colleges 3831–3840)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3831 | C.k.pithawala College of Engg & Technology | SURAT | GUJARAT | Private | [Portal](http://ccoet.org) |
+| 3832 | Vishwabharti Girls Institute of Management and Information Technology | SURAT | GUJARAT | Private | [Portal](http://vishwabhartigirlsinstitute.org) |
+| 3833 | Shri Manilal Kadakia College of Commerce Management Science and Computer Studies | BHARUCH | GUJARAT | Private | [Portal](http://shrimanilalkadakia.org) |
+| 3834 | Harivandana College | RAJKOT | GUJARAT | Private | [Portal](http://harivandanacollege.org) |
+| 3835 | Hillwoods Academy of Higher Education | GANDHINAGAR | GUJARAT | Private | [Portal](http://haohe.org) |
+| 3836 | Maktabah Jafariyah School of Management | PATAN | GUJARAT | Private | [Portal](http://mjsom.org) |
+| 3837 | Narnarayan Shastri Institute of Technology Institute of Forensic Sciences and Cyber Security | AHMEDABAD | GUJARAT | Private | [Portal](http://narnarayanshastriinstitute.org) |
+| 3838 | Ktkm Institute of Management and Computer Application | GANDHINAGAR | GUJARAT | Private | [Portal](http://ktkminstituteof.org) |
+| 3839 | Maktabah Jafariyah School of Engineering and Technology | PATAN | GUJARAT | Private | [Portal](http://maktabahjafariyahschool.org) |
+| 3840 | T N Rao College | RAJKOT | GUJARAT | Private | [Portal](http://tnrc.org) |
+
+
+### Batch 385 (Colleges 3841–3850)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3841 | S V Patel BCA College | RAJKOT | GUJARAT | Private | [Portal](http://svpbc.org) |
+| 3842 | Geneva Institute of Management Studies | AHMEDABAD | GUJARAT | Private | [Portal](http://gioms.org) |
+| 3843 | OM Vindhyavasini College of IT and Management | MORBI | GUJARAT | Private | [Portal](http://omvindhyavasinicollege.org) |
+| 3844 | Sardar Patel College of Administration and Management | ANAND | GUJARAT | Private | [Portal](http://sardarpatelcollege.org) |
+| 3845 | Natubhai V Patelcollege of Pure and Applied Sciences | ANAND | GUJARAT | Private | [Portal](http://natubhaivpatelcollege.org) |
+| 3846 | Sardar Vallabhbhai Patel Institute of Computer Application | ANAND | GUJARAT | Private | [Portal](http://sardarvallabhbhaipatel.org) |
+| 3847 | Udhna Citizen Commerce College and S.p.b. College of Business Administration and Smt. Diwaliben Harjibhai Gondalia College of BCA and IT | SURAT | GUJARAT | Private | [Portal](http://udhnacitizencommerce.org) |
+| 3848 | Sardar Gunj Mercantile CO OP Bank Ltd. Anand English Medium College of Commerce and Management | ANAND | GUJARAT | Private | [Portal](http://sardargunjmercantile.org) |
+| 3849 | Shri V. J. Modha College of Information Technology | PORBANDAR | GUJARAT | Private | [Portal](http://shrivj.org) |
+| 3850 | Shri Mirambika College of Education | RAJKOT | GUJARAT | Private | [Portal](http://smcoe.org) |
+
+
+### Batch 386 (Colleges 3851–3860)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3851 | Shree Rajeshkumar Kantilal Patel BCA College | MEHSANA | GUJARAT | Private | [Portal](http://srkpbc.org) |
+| 3852 | Plastindia International University | VALSAD | GUJARAT | Private | [Portal](http://piu.org) |
+| 3853 | Marwadi University | RAJKOT | GUJARAT | Private | [Portal](http://marwadiuniversity.org) |
+| 3854 | Vidyabharti Trust College of Business Computer Science and Research | SURAT | GUJARAT | Private | [Portal](http://vidyabhartitrustcollege.org) |
+| 3855 | Prof V B Shah Institute of Management R V Patel College of Commerce V L Shah College of Commerce and Sutex Bank College of Computer Applications and Science | SURAT | GUJARAT | Private | [Portal](http://profvb.org) |
+| 3856 | C P Patel and F H Shah Commerce Autonomous College | ANAND | GUJARAT | Private | [Portal](http://cppatel.org) |
+| 3857 | Lokmanya Institute of Management and Computer Application | AHMEDABAD | GUJARAT | Private | [Portal](http://lokmanyainstituteof.org) |
+| 3858 | Anand Mercantile College of Science Management and Computer Technology | ANAND | GUJARAT | Private | [Portal](http://anandmercantilecollege.org) |
+| 3859 | C B Patel Computer College and J N M Patel Science College | SURAT | GUJARAT | Private | [Portal](http://cbpatel.org) |
+| 3860 | Rms College of BCA | VADODARA | GUJARAT | Private | [Portal](http://rcob.org) |
+
+
+### Batch 387 (Colleges 3861–3870)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3861 | Grow More Institute of Computer Application | SABARKANTHA | GUJARAT | Private | [Portal](http://gmioca.org) |
+| 3862 | C Z Patel Institute of Business and Management | ANAND | GUJARAT | Private | [Portal](http://czpatel.org) |
+| 3863 | Smt. Tanuben and Dr. Manubhai Trivedi College of Information Science | SURAT | GUJARAT | Private | [Portal](http://smttanubenand.org) |
+| 3864 | Shree Leuva Patel Trust BBA Mahila College | AMRELI | GUJARAT | Private | [Portal](http://shreeleuvapatel.org) |
+| 3865 | Shree Junagadh Kelavani Mandal Sanchalit Commerce and BBA College | JUNAGADH | GUJARAT | Private | [Portal](http://shreejunagadhkelavani.org) |
+| 3866 | Divyachetana College of BCA | SABARKANTHA | GUJARAT | Private | [Portal](http://dcob.org) |
+| 3867 | Shree Kanjibhai Premjibhai Dholakiya Infotech Mahila College | AMRELI | GUJARAT | Private | [Portal](http://shreekanjibhaipremjibhai.org) |
+| 3868 | Anand Commerce College | ANAND | GUJARAT | Private | [Portal](http://acc.org) |
+| 3869 | R. P. Bhalodia College | RAJKOT | GUJARAT | Private | [Portal](http://rpbc.org) |
+| 3870 | Smt. J. J. Kundalia Commerce College | RAJKOT | GUJARAT | Private | [Portal](http://sjjkcc.org) |
+
+
+### Batch 388 (Colleges 3871–3880)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3871 | Hnsb College of Management Studies | SABARKANTHA | GUJARAT | Private | [Portal](http://hcoms.org) |
+| 3872 | Vivekanand College for BBA | SURAT | GUJARAT | Private | [Portal](http://vcfb.org) |
+| 3873 | The Late Meenaben Kundalia Arts and Commerce Mahila College | RAJKOT | GUJARAT | Private | [Portal](http://thelatemeenaben.org) |
+| 3874 | Vadodara Institute of Computer Application | VADODARA | GUJARAT | Private | [Portal](http://vioca.org) |
+| 3875 | Apollo Hmct College | JUNAGADH | GUJARAT | Private | [Portal](http://ahc.org) |
+| 3876 | J.j.c.e.trust Sanchalit Commerce College | JUNAGADH | GUJARAT | Private | [Portal](http://jscc.org) |
+| 3877 | Ambaba Commerce College Maniba Institute of Business Management and Deviba Institute of Computer Application Sabargam | SURAT | GUJARAT | Private | [Portal](http://ambabacommercecollege.org) |
+| 3878 | Shree H. N. Shukla College of I.t. and Management | RAJKOT | GUJARAT | Private | [Portal](http://shreehn.org) |
+| 3879 | Shree Swaminarayan Anikaben Ashwinbhai Kotadia College of BBA | PORBANDAR | GUJARAT | Private | [Portal](http://shreeswaminarayananikaben.org) |
+| 3880 | The Insb Institute of Information Technology Management Studies BCA and Arvalli College of Computer Higher Education Pgdca College | SABARKANTHA | GUJARAT | Private | [Portal](http://theinsbinstitute.org) |
+
+
+### Batch 389 (Colleges 3881–3890)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3881 | Saraswati College of Commerce BBA and IT | RAJKOT | GUJARAT | Private | [Portal](http://saraswaticollegeof.org) |
+| 3882 | B. J. Vanijya Mahavidyalaya | ANAND | GUJARAT | Private | [Portal](http://bjvm.org) |
+| 3883 | Prime Institute of Computer and Management | NAVSARI | GUJARAT | Private | [Portal](http://piocam.org) |
+| 3884 | Smt Z S Patel College of Computer Application | SURAT | GUJARAT | Private | [Portal](http://smtzs.org) |
+| 3885 | Vitthalbhai Patel and Rajratna P T Patel Science College | ANAND | GUJARAT | Private | [Portal](http://vitthalbhaipateland.org) |
+| 3886 | M K Instittue of Computer Studies | BHARUCH | GUJARAT | Private | [Portal](http://mkiocs.org) |
+| 3887 | Naran Lala College of Commerce and Management | NAVSARI | GUJARAT | Private | [Portal](http://naranlalacollege.org) |
+| 3888 | Naran Lala College of Professional and Applied Sciences | NAVSARI | GUJARAT | Private | [Portal](http://naranlalacollege.org) |
+| 3889 | Shree Junagadh Kelavani Mandal BCA College | JUNAGADH | GUJARAT | Private | [Portal](http://sjkmbc.org) |
+| 3890 | Shri Matru Mandir B.s.w. College | RAJKOT | GUJARAT | Private | [Portal](http://smmbc.org) |
+
+
+### Batch 390 (Colleges 3891–3900)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3891 | Siddi Vinayak Commerce and BBA College | JAMNAGAR | GUJARAT | Private | [Portal](http://svcabc.org) |
+| 3892 | Narmada College of Science and Commerce | BHARUCH | GUJARAT | Private | [Portal](http://ncosac.org) |
+| 3893 | A R Bhatt Computer Science College Una | GIR SOMNATH | GUJARAT | Private | [Portal](http://arbhatt.org) |
+| 3894 | Nandkunvarba Mahila College | BHAVNAGAR | GUJARAT | Private | [Portal](http://nmc.org) |
+| 3895 | Shree Uttar Gujarat BCA College | SURAT | GUJARAT | Private | [Portal](http://sugbc.org) |
+| 3896 | Parangat College | MORBI | GUJARAT | Private | [Portal](http://parangatcollege.org) |
+| 3897 | S S Agrawal College of Commerce and Management | NAVSARI | GUJARAT | Private | [Portal](http://ssagrawal.org) |
+| 3898 | Shree J D Gabani Commerce College and Shree Swami Atmanand Saraswati College of Management | SURAT | GUJARAT | Private | [Portal](http://shreejd.org) |
+| 3899 | Smt R.o.patel Women's College | MORBI | GUJARAT | Private | [Portal](http://srwc.org) |
+| 3900 | Shastri Swami Shree Dharmajivandasji Institute of Information Technology | JUNAGADH | GUJARAT | Private | [Portal](http://shastriswamishree.org) |
+
+
+### Batch 391 (Colleges 3901–3910)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3901 | Sascma Eng. Medium Commerce College & Shri H. Hojiwala BBA College & Smt. U.j. Bodawala BCA College | SURAT | GUJARAT | Private | [Portal](http://sascmaengmedium.org) |
+| 3902 | College of Applied Sciences and Professional Studies Chikhli | NAVSARI | GUJARAT | Private | [Portal](http://collegeofapplied.org) |
+| 3903 | R R Patel Mahila Arts and Commerce College | RAJKOT | GUJARAT | Private | [Portal](http://rrpatel.org) |
+| 3904 | Shree Shantiniketan College | RAJKOT | GUJARAT | Private | [Portal](http://ssc.org) |
+| 3905 | Dr. Virambhai Rajabhai Godhaniya IT College | PORBANDAR | GUJARAT | Private | [Portal](http://dvrgic.org) |
+| 3906 | Shri Gosar Hansraj Gosrani Commerce and Shri D.d.nagda B.b.a. College | JAMNAGAR | GUJARAT | Private | [Portal](http://shrigosarhansraj.org) |
+| 3907 | Bhavans Shree H. J. Doshi Information Technology Institute | JAMNAGAR | GUJARAT | Private | [Portal](http://bhavansshreeh.org) |
+| 3908 | National Computer College | JAMNAGAR | GUJARAT | Private | [Portal](http://ncc.org) |
+| 3909 | Smt. Chandramaniben Zaverchand Meghji Gosrani BCA College | JAMNAGAR | GUJARAT | Private | [Portal](http://smtchandramanibenzaverchand.org) |
+| 3910 | Kamani Science and Prataprai Arts College | AMRELI | GUJARAT | Private | [Portal](http://ksapac.org) |
+
+
+### Batch 392 (Colleges 3911–3920)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3911 | Sdj International College | SURAT | GUJARAT | Private | [Portal](http://sic.org) |
+| 3912 | Shree Veljibhai Narshibhai Borad Mahila B.c.a. College | JUNAGADH | GUJARAT | Private | [Portal](http://shreeveljibhainarshibhai.org) |
+| 3913 | KBS Commerce and Nataraj Professional Sciences College | VALSAD | GUJARAT | Private | [Portal](http://kbscommerceand.org) |
+| 3914 | ST Stephen Institute of Business Management and Technology | ANAND | GUJARAT | Private | [Portal](http://ststepheninstitute.org) |
+| 3915 | Elite Institute of Science Technology and Management | MORBI | GUJARAT | Private | [Portal](http://eliteinstituteof.org) |
+| 3916 | Shree Uttar Gujarat BBA College | SURAT | GUJARAT | Private | [Portal](http://sugbc.org) |
+| 3917 | G.b. Shah College for Technology & Management | AHMEDABAD | GUJARAT | Private | [Portal](http://gscftm.org) |
+| 3918 | D L Patel Institute of Management and Technology BCA College | SABARKANTHA | GUJARAT | Private | [Portal](http://dlpatel.org) |
+| 3919 | Swami Sahajanand College of Commerce and Management | BHAVNAGAR | GUJARAT | Private | [Portal](http://swamisahajanandcollege.org) |
+| 3920 | Matushri Virbaima Mahila College of Commerce Management and IT | RAJKOT | GUJARAT | Private | [Portal](http://matushrivirbaimamahila.org) |
+
+
+### Batch 393 (Colleges 3921–3930)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3921 | Dr. V R Godhaniya B.ED College | PORBANDAR | GUJARAT | Private | [Portal](http://dvrgbc.org) |
+| 3922 | K. K. Parekh Commerce College | AMRELI | GUJARAT | Private | [Portal](http://kkpcc.org) |
+| 3923 | Grace College | RAJKOT | GUJARAT | Private | [Portal](http://gracecollege.org) |
+| 3924 | Shree Brahmanand Institute of Teacher Education | JUNAGADH | GUJARAT | Private | [Portal](http://sbiote.org) |
+| 3925 | Vivekananda College of Computer Science and Management | RAJKOT | GUJARAT | Private | [Portal](http://vivekanandacollegeof.org) |
+| 3926 | Shri K.m.savjani and Smt. K.k.savjani BBA BCA College | GIR SOMNATH | GUJARAT | Private | [Portal](http://shrikmsavjaniand.org) |
+| 3927 | Sdj International College Palsana | SURAT | GUJARAT | Private | [Portal](http://sicp.org) |
+| 3928 | Shree Swaminarayan BCA College | GANDHINAGAR | GUJARAT | Private | [Portal](http://ssbc.org) |
+| 3929 | Set Mahila Arts Commerce BBA BCA College | JUNAGADH | GUJARAT | Private | [Portal](http://setmahilaarts.org) |
+| 3930 | Shri H.l.patel Arts and Commerce College | RAJKOT | GUJARAT | Private | [Portal](http://shaacc.org) |
+
+
+### Batch 394 (Colleges 3931–3940)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3931 | Shri K V Ramani Mahila Arts and Commerce College Mahila Nivasi Sankul | RAJKOT | GUJARAT | Private | [Portal](http://shrikv.org) |
+| 3932 | Shri Sarvajanik BBA College | MEHSANA | GUJARAT | Private | [Portal](http://ssbc.org) |
+| 3933 | Dolat Usha Institute of Applied Sciences and Dhiru Sarla Institute of Management and Commerce | VALSAD | GUJARAT | Private | [Portal](http://dolatushainstitute.org) |
+| 3934 | Shri Adarsh BCA College | PATAN | GUJARAT | Private | [Portal](http://sabc.org) |
+| 3935 | Atmanand Saraswati Science College | SURAT | GUJARAT | Private | [Portal](http://assc.org) |
+| 3936 | Ambaben Shankarlal Bechardas Patel College of Business Administration BBA Programme | MEHSANA | GUJARAT | Private | [Portal](http://ambabenshankarlalbechardas.org) |
+| 3937 | DR Bharat Barad BCA College | GIR SOMNATH | GUJARAT | Private | [Portal](http://dbbbc.org) |
+| 3938 | Smt. B. K. Mehta IT Centre BCA College | BANASKANTHA | GUJARAT | Private | [Portal](http://smtbk.org) |
+| 3939 | Mahisagar BCA College | PANCHMAHAL | GUJARAT | Private | [Portal](http://mbc.org) |
+| 3940 | Shraddha BCA College | SABARKANTHA | GUJARAT | Private | [Portal](http://sbc.org) |
+
+
+### Batch 395 (Colleges 3941–3950)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3941 | OM College of B.b.a. | JUNAGADH | GUJARAT | Private | [Portal](http://ocob.org) |
+| 3942 | Shri Sarvjanik BCA and Pgdca College | MEHSANA | GUJARAT | Private | [Portal](http://ssbapc.org) |
+| 3943 | Shri D N Institute of Business Administration | ANAND | GUJARAT | Private | [Portal](http://shridn.org) |
+| 3944 | Smt K B Parekh College of Computer Science | BHAVNAGAR | GUJARAT | Private | [Portal](http://smtkb.org) |
+| 3945 | B.l.parikh College of Business Administration | BANASKANTHA | GUJARAT | Private | [Portal](http://bcoba.org) |
+| 3946 | Shree H.k.parekh College of Management | BHAVNAGAR | GUJARAT | Private | [Portal](http://shcom.org) |
+| 3947 | Smt Shantaben Jivrajbhai Varmora BBA and BCA Mahila College | SURENDRANAGAR | GUJARAT | Private | [Portal](http://smtshantabenjivrajbhai.org) |
+| 3948 | M L Parmar College of Computer Science and IT | SURAT | GUJARAT | Private | [Portal](http://mlparmar.org) |
+| 3949 | Saurabh BCA College | JUNAGADH | GUJARAT | Private | [Portal](http://sbc.org) |
+| 3950 | Shree Swaminarayan Gurukul College of Information Technology | PORBANDAR | GUJARAT | Private | [Portal](http://shreeswaminarayangurukul.org) |
+
+
+### Batch 396 (Colleges 3951–3960)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3951 | Shri Patel Kelavani Mandal College of Technology and Bed | JUNAGADH | GUJARAT | Private | [Portal](http://shripatelkelavani.org) |
+| 3952 | Shri D N Institute of Computer Applications | ANAND | GUJARAT | Private | [Portal](http://shridn.org) |
+| 3953 | College of Computer Science and Information Technology | JUNAGADH | GUJARAT | Private | [Portal](http://collegeofcomputer.org) |
+| 3954 | Sheth Shree Karsanbhai Jethidas Patel BBA College | MEHSANA | GUJARAT | Private | [Portal](http://shethshreekarsanbhai.org) |
+| 3955 | M.m. Ghodasara Mahila Arts and Commerce College | JUNAGADH | GUJARAT | Private | [Portal](http://mmghodasaramahila.org) |
+| 3956 | D. R. Patel & R. B. Patel Commerce College & Navnirman Institute of Management | SURAT | GUJARAT | Private | [Portal](http://drpatel.org) |
+| 3957 | Shree Swaminarayan BBA College | GANDHINAGAR | GUJARAT | Private | [Portal](http://ssbc.org) |
+| 3958 | Sarvodaya College of Computer Science | RAJKOT | GUJARAT | Private | [Portal](http://scocs.org) |
+| 3959 | Shri M.n. Kampani Arts and Shri A.k. Shah Commerce College | JUNAGADH | GUJARAT | Private | [Portal](http://shrimnkampani.org) |
+| 3960 | Smt. Chandanben S.s.shah BCA College | BANASKANTHA | GUJARAT | Private | [Portal](http://scsbc.org) |
+
+
+### Batch 397 (Colleges 3961–3970)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3961 | D L Patel Institute of Management and Technology BBA College | SABARKANTHA | GUJARAT | Private | [Portal](http://dlpatel.org) |
+| 3962 | Smt V.b.nandola Com.sci College | GIR SOMNATH | GUJARAT | Private | [Portal](http://svcc.org) |
+| 3963 | Vrundavan B.c.a College | MEHSANA | GUJARAT | Private | [Portal](http://vbc.org) |
+| 3964 | Shree P.m. Patel Institute of Business Administration | ANAND | GUJARAT | Private | [Portal](http://shreepmpatel.org) |
+| 3965 | Smt. Raniben Madhabhai Bhadarka BCA College | SURAT | GUJARAT | Private | [Portal](http://srmbbc.org) |
+| 3966 | Mahajan Anath Balashram Commerce College | SURAT | GUJARAT | Private | [Portal](http://mabcc.org) |
+| 3967 | Shri K.h.madhvani Arts and Commerce College Porbandar | PORBANDAR | GUJARAT | Private | [Portal](http://shrikhmadhvaniarts.org) |
+| 3968 | Shree Saurashtra College of Management and Computer Science | RAJKOT | GUJARAT | Private | [Portal](http://shreesaurashtracollege.org) |
+| 3969 | Shree Swami Vivekanand College | SURENDRANAGAR | GUJARAT | Private | [Portal](http://ssvc.org) |
+| 3970 | Shri Bansilal H.gandhi B.b.a College Modasa | SABARKANTHA | GUJARAT | Private | [Portal](http://sbhbcm.org) |
+
+
+### Batch 398 (Colleges 3971–3980)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3971 | Bharat Education Trust Sanchalit BCA College Rasana Mota | BANASKANTHA | GUJARAT | Private | [Portal](http://bharateducationtrust.org) |
+| 3972 | Dr.thakorbhai Patel BCA College | VADODARA | GUJARAT | Private | [Portal](http://dpbc.org) |
+| 3973 | V. S. Patel College of Arts and Science Self Finance Division Bilimora | NAVSARI | GUJARAT | Private | [Portal](http://vspatel.org) |
+| 3974 | Shree Swaminarayan Gurukul Science and Computer Science College | JAMNAGAR | GUJARAT | Private | [Portal](http://shreeswaminarayangurukul.org) |
+| 3975 | Dollyben Desai Institute of Computer and Allied Sciences | SURAT | GUJARAT | Private | [Portal](http://dollybendesaiinstitute.org) |
+| 3976 | Sanskar Institute of Management and Information Technology | KUTCH | GUJARAT | Private | [Portal](http://sanskarinstituteof.org) |
+| 3977 | Shree Swaminarayan College of Computer Science | BHAVNAGAR | GUJARAT | Private | [Portal](http://sscocs.org) |
+| 3978 | Shri T. S. Patel B.c.a. P.g.d.c.a College | SABARKANTHA | GUJARAT | Private | [Portal](http://shrits.org) |
+| 3979 | Vishwabharti Girls Institute of Commerce Management and Computer Application | SURAT | GUJARAT | Private | [Portal](http://vishwabhartigirlsinstitute.org) |
+| 3980 | Shree OM College of Computer Science | RAJKOT | GUJARAT | Private | [Portal](http://sococs.org) |
+
+
+### Batch 399 (Colleges 3981–3990)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3981 | Shree C.u.shah College of Commerce Management and Computer Education | SURENDRANAGAR | GUJARAT | Private | [Portal](http://shreecushahcollege.org) |
+| 3982 | Shree Dharmjivandasji Swami B.ed. College | AMRELI | GUJARAT | Private | [Portal](http://sdsbc.org) |
+| 3983 | Shipra College of Computer Science and Technology | RAJKOT | GUJARAT | Private | [Portal](http://shipracollegeof.org) |
+| 3984 | Geetanjali College of Computer Science and Commerce . BBA | RAJKOT | GUJARAT | Private | [Portal](http://geetanjalicollegeof.org) |
+| 3985 | Veerayatan Institute of Computer Applications and Business Administration | KUTCH | GUJARAT | Private | [Portal](http://veerayataninstituteof.org) |
+| 3986 | Shree P.m. Patel College of Computer Science and Technology | ANAND | GUJARAT | Private | [Portal](http://shreepmpatel.org) |
+| 3987 | Smt. R. P. Chauhan Arts and Smt. J. K. Shah and Shri K. D. Shah Commerce College and Dept of K.r.p. Darjee Indo American Institute of Computer Science Vyara | TAPI | GUJARAT | Private | [Portal](http://smtrp.org) |
+| 3988 | The Mandvi Education Society BBA BCA and Science College | SURAT | GUJARAT | Private | [Portal](http://themandvieducation.org) |
+| 3989 | Smt J.a.patel Mahila Science College | MORBI | GUJARAT | Private | [Portal](http://sjmsc.org) |
+| 3990 | Gurukul Mahila Arts and Commerce College | PORBANDAR | GUJARAT | Private | [Portal](http://gmaacc.org) |
+
+
+### Batch 400 (Colleges 3991–4000)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 3991 | Vimal Tormal Poddar BCA College | SURAT | GUJARAT | Private | [Portal](http://vtpbc.org) |
+| 3992 | Vivekanand College for Advanced Computer and Information Science | SURAT | GUJARAT | Private | [Portal](http://vivekanandcollegefor.org) |
+| 3993 | Shree Swaminarayan College of Technology and Management | AHMEDABAD | GUJARAT | Private | [Portal](http://shreeswaminarayancollege.org) |
+| 3994 | Asian BCA College | SABARKANTHA | GUJARAT | Private | [Portal](http://abc.org) |
+| 3995 | Matrushri L J Gandhi Bakorwala BCA and DR N J Shah Pgdca College | SABARKANTHA | GUJARAT | Private | [Portal](http://matrushrilj.org) |
+| 3996 | Smt. M. T. Dhamsania Commerce and BBA College | RAJKOT | GUJARAT | Private | [Portal](http://smtmt.org) |
+| 3997 | LT Meenaban Jayantilal Kundaliya English Medium Mahila Commerce College BBA Self Finance | RAJKOT | GUJARAT | Private | [Portal](http://ltmeenabanjayantilal.org) |
+| 3998 | Srk Institute of Management and Computer Education | KUTCH | GUJARAT | Private | [Portal](http://srkinstituteof.org) |
+| 3999 | Shri Arjun BCA College Supasi | GIR SOMNATH | GUJARAT | Private | [Portal](http://sabcs.org) |
+| 4000 | Smt Ujiben Lavjibhai Dhaduk Mahila College | RAJKOT | GUJARAT | Private | [Portal](http://suldmc.org) |
+
+
+### Batch 401 (Colleges 4001–4010)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4001 | R.k.desai Memorial Trust | VALSAD | GUJARAT | Private | [Portal](http://rmt.org) |
+| 4002 | G L Kakdia College of Commerce and Management | BHAVNAGAR | GUJARAT | Private | [Portal](http://glkakdia.org) |
+| 4003 | Wellknown College | RAJKOT | GUJARAT | Private | [Portal](http://wellknowncollege.org) |
+| 4004 | Smt K S N Kansagara Mahila College | RAJKOT | GUJARAT | Private | [Portal](http://smtks.org) |
+| 4005 | Shri J. H. Bhalodia Women's College | RAJKOT | GUJARAT | Private | [Portal](http://sjhbwc.org) |
+| 4006 | Glorious College of Computer Science | RAJKOT | GUJARAT | Private | [Portal](http://gcocs.org) |
+| 4007 | Dvp College Devka | AMRELI | GUJARAT | Private | [Portal](http://dcd.org) |
+| 4008 | Dkv Arts and Science College | JAMNAGAR | GUJARAT | Private | [Portal](http://daasc.org) |
+| 4009 | Prabhu BCA College | SURAT | GUJARAT | Private | [Portal](http://pbc.org) |
+| 4010 | Shri Shambhubhai V Patel College of Computer Science and Business Management. | SURAT | GUJARAT | Private | [Portal](http://shrishambhubhaiv.org) |
+
+
+### Batch 402 (Colleges 4011–4020)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4011 | Smt Z S Patel College of Management | SURAT | GUJARAT | Private | [Portal](http://smtzs.org) |
+| 4012 | Umiyaji Parivar Education Trust Mahila B.ed. College-Dhrol | JAMNAGAR | GUJARAT | Private | [Portal](http://umiyajiparivareducation.org) |
+| 4013 | Iqra BCA College | BHARUCH | GUJARAT | Private | [Portal](http://ibc.org) |
+| 4014 | Vidyasagar Infotech College | JAMNAGAR | GUJARAT | Private | [Portal](http://vic.org) |
+| 4015 | Dnv International Education Academy | KUTCH | GUJARAT | Private | [Portal](http://diea.org) |
+| 4016 | Riddhi BCA College | SABARKANTHA | GUJARAT | Private | [Portal](http://rbc.org) |
+| 4017 | Amrut Institute Junagadh BCA College | JUNAGADH | GUJARAT | Private | [Portal](http://aijbc.org) |
+| 4018 | P.g.patel College | MORBI | GUJARAT | Private | [Portal](http://pgpatelcollege.org) |
+| 4019 | Shri Sharad Shah Commerce and Computer Science | PANCHMAHAL | GUJARAT | Private | [Portal](http://shrisharadshah.org) |
+| 4020 | Sardar Patel and Swamivivekanand Lok Kalyan Trust | AMRELI | GUJARAT | Private | [Portal](http://sardarpateland.org) |
+
+
+### Batch 403 (Colleges 4021–4030)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4021 | Shri Satyaprakash College of Management and Computer Science | RAJKOT | GUJARAT | Private | [Portal](http://shrisatyaprakashcollege.org) |
+| 4022 | National Institute of Bachelor of Computer Application | AHMEDABAD | GUJARAT | Public/Government | [Portal](https://nationalinstituteof.gov.in) |
+| 4023 | Rachana Devlopment Center | RAJKOT | GUJARAT | Private | [Portal](http://rdc.org) |
+| 4024 | Karnavati Institute of Computer Application | AHMEDABAD | GUJARAT | Private | [Portal](http://kioca.org) |
+| 4025 | Sahajanand College of IT and Management | RAJKOT | GUJARAT | Private | [Portal](http://scoiam.org) |
+| 4026 | Anant Institute of Computer Application | AHMEDABAD | GUJARAT | Private | [Portal](http://aioca.org) |
+| 4027 | Narayani Education Institute | RAJKOT | GUJARAT | Private | [Portal](http://nei.org) |
+| 4028 | Shree Mahila College Khamta | RAJKOT | GUJARAT | Private | [Portal](http://smck.org) |
+| 4029 | Shree G.k. and C.k. Bosamia College Jetpur | RAJKOT | GUJARAT | Private | [Portal](http://shreegkand.org) |
+| 4030 | M B Arts and Commerce College | RAJKOT | GUJARAT | Private | [Portal](http://mbaacc.org) |
+
+
+### Batch 404 (Colleges 4031–4040)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4031 | Gayatri Gurukrupa BCA College | AMRELI | GUJARAT | Private | [Portal](http://ggbc.org) |
+| 4032 | Asia Pacific Institute of Computer Application | AHMEDABAD | GUJARAT | Private | [Portal](http://apioca.org) |
+| 4033 | Matushree Vrajkunvarben Maganlal Mehta Computer Science and Management College | MORBI | GUJARAT | Private | [Portal](http://matushreevrajkunvarbenmaganlal.org) |
+| 4034 | Lokmanya BBA BCA College | AHMEDABAD | GUJARAT | Private | [Portal](http://lbbc.org) |
+| 4035 | Ahmedabad Institute of Business Management | AHMEDABAD | GUJARAT | Private | [Portal](http://aiobm.org) |
+| 4036 | Matru Shree Shantaben College | RAJKOT | GUJARAT | Private | [Portal](http://mssc.org) |
+| 4037 | I T Sheliya Jafri BCA College | PATAN | GUJARAT | Private | [Portal](http://itsjbc.org) |
+| 4038 | Shree Mukesh Jani B ED College | AMRELI | GUJARAT | Private | [Portal](http://smjbec.org) |
+| 4039 | Ahmedabad Institute of Computer Applications | AHMEDABAD | GUJARAT | Private | [Portal](http://aioca.org) |
+| 4040 | Ahmedabad Business School | AHMEDABAD | GUJARAT | Private | [Portal](http://abs.org) |
+
+
+### Batch 405 (Colleges 4041–4050)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4041 | Akar College of Professional Studies | AHMEDABAD | GUJARAT | Private | [Portal](http://acops.org) |
+| 4042 | National Institute of Business Administration | AHMEDABAD | GUJARAT | Public/Government | [Portal](https://nioba.gov.in) |
+| 4043 | Excellent Institute | AHMEDABAD | GUJARAT | Private | [Portal](http://excellentinstitute.org) |
+| 4044 | Neeldeep College of Computer Applications | AHMEDABAD | GUJARAT | Private | [Portal](http://ncoca.org) |
+| 4045 | Neeldeep College of Business Administration | AHMEDABAD | GUJARAT | Private | [Portal](http://ncoba.org) |
+| 4046 | Arrdekta Institute of BCA | SABARKANTHA | GUJARAT | Private | [Portal](http://aiob.org) |
+| 4047 | Shree Aryatej Institute of Management and Computer Science | MORBI | GUJARAT | Private | [Portal](http://shreearyatejinstitute.org) |
+| 4048 | Taxshila College | MORBI | GUJARAT | Private | [Portal](http://taxshilacollege.org) |
+| 4049 | Elite Institute | AHMEDABAD | GUJARAT | Private | [Portal](http://eliteinstitute.org) |
+| 4050 | Sanskruti College of Management IT Commerce and Arts | SURENDRANAGAR | GUJARAT | Private | [Portal](http://sanskruticollegeof.org) |
+
+
+### Batch 406 (Colleges 4051–4060)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4051 | Shree Umiya BCA College | AHMEDABAD | GUJARAT | Private | [Portal](http://subc.org) |
+| 4052 | Smt. S. N. Patel College | AHMEDABAD | GUJARAT | Private | [Portal](http://ssnpc.org) |
+| 4053 | Mahatma Gandhi Institute of Computer Application | AHMEDABAD | GUJARAT | Private | [Portal](http://mgioca.org) |
+| 4054 | Post Graduate Department of Business Management | ANAND | GUJARAT | Private | [Portal](http://pgdobm.org) |
+| 4055 | Hariben Bhagvanji Lalji Tejura College | AMRELI | GUJARAT | Private | [Portal](http://hbltc.org) |
+| 4056 | Smt R P Bhalodia B C A College Upleta | RAJKOT | GUJARAT | Private | [Portal](http://smtrp.org) |
+| 4057 | Shree Uma Girls College | SURENDRANAGAR | GUJARAT | Private | [Portal](http://sugc.org) |
+| 4058 | Guru Vandana Law College | JAMNAGAR | GUJARAT | Private | [Portal](http://gvlc.org) |
+| 4059 | Balaji College of Commerce Science Technology and Management | VADODARA | GUJARAT | Private | [Portal](http://balajicollegeof.org) |
+| 4060 | C.k.patel College of Management and Computer Studies | SABARKANTHA | GUJARAT | Private | [Portal](http://ckpatelcollegeof.org) |
+
+
+### Batch 407 (Colleges 4061–4070)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4061 | Smt. Bhanumati Vrujlal Dhanak Arts Commerce Science Management College Bagasara | AMRELI | GUJARAT | Private | [Portal](http://smtbhanumativrujlal.org) |
+| 4062 | Vivekanand College of BCA | AHMEDABAD | GUJARAT | Private | [Portal](http://vcob.org) |
+| 4063 | Avirat BBA BCA College | AHMEDABAD | GUJARAT | Private | [Portal](http://abbc.org) |
+| 4064 | Shayona Institute of Management and Computer Application | AHMEDABAD | GUJARAT | Private | [Portal](http://shayonainstituteof.org) |
+| 4065 | Hiraba BBA BCA College | AHMEDABAD | GUJARAT | Private | [Portal](http://hbbc.org) |
+| 4066 | H H B Kotak Institute of Science | RAJKOT | GUJARAT | Private | [Portal](http://hhb.org) |
+| 4067 | Shree Sharda BBA and BCA College | GANDHINAGAR | GUJARAT | Private | [Portal](http://ssbabc.org) |
+| 4068 | Sahajanand Institute of Computer Application | GANDHINAGAR | GUJARAT | Private | [Portal](http://sioca.org) |
+| 4069 | Taxashila College of BBA and BCA | AHMEDABAD | GUJARAT | Private | [Portal](http://tcobab.org) |
+| 4070 | Chimanbhai Patel College | AHMEDABAD | GUJARAT | Private | [Portal](http://cpc.org) |
+
+
+### Batch 408 (Colleges 4071–4080)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4071 | Khyati Institute of Business Administration | AHMEDABAD | GUJARAT | Private | [Portal](http://kioba.org) |
+| 4072 | Shree R. N. Mehta College | RAJKOT | GUJARAT | Private | [Portal](http://srnmc.org) |
+| 4073 | Samarpan Institute of Computer Science | GANDHINAGAR | GUJARAT | Private | [Portal](http://siocs.org) |
+| 4074 | Khyati Institute of Computer Apllication | AHMEDABAD | GUJARAT | Private | [Portal](http://kioca.org) |
+| 4075 | Ahmedabad Business School and Ahmedabad Institute of Computer Applications | AHMEDABAD | GUJARAT | Private | [Portal](http://ahmedabadbusinessschool.org) |
+| 4076 | Ahmedabad Institute of Business Studies | AHMEDABAD | GUJARAT | Private | [Portal](http://aiobs.org) |
+| 4077 | Ucp Institute of Technology | AHMEDABAD | GUJARAT | Private | [Portal](http://uiot.org) |
+| 4078 | Matru Shree Liluben Bhagwanbhai Barad BBA and BCA College | GIR SOMNATH | GUJARAT | Private | [Portal](http://matrushreeliluben.org) |
+| 4079 | Rms College of BBA | VADODARA | GUJARAT | Private | [Portal](http://rcob.org) |
+| 4080 | Narsee Monjee Institute of Management Studies Ahmedabad Off Campus Centre | AHMEDABAD | GUJARAT | Private | [Portal](http://narseemonjeeinstitute.org) |
+
+
+### Batch 409 (Colleges 4081–4090)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4081 | Shree J S Parmar Arts and Commerce College Kodinar | GIR SOMNATH | GUJARAT | Private | [Portal](http://shreejs.org) |
+| 4082 | Amrutam Institute of Business Administration and Computer Application | AHMEDABAD | GUJARAT | Private | [Portal](http://amrutaminstituteof.org) |
+| 4083 | New Vision BCA College | MORBI | GUJARAT | Private | [Portal](http://nvbc.org) |
+| 4084 | Shree Mahavir College | SURENDRANAGAR | GUJARAT | Private | [Portal](http://smc.org) |
+| 4085 | Vedvik College of BCA | AHMEDABAD | GUJARAT | Private | [Portal](http://vcob.org) |
+| 4086 | Siddhi Institute of Computer Applications and Siddhi Institute of Business Administration | SABARKANTHA | GUJARAT | Private | [Portal](http://siddhiinstituteof.org) |
+| 4087 | Manjushree Institute of Design | GANDHINAGAR | GUJARAT | Private | [Portal](http://miod.org) |
+| 4088 | Bkdkm College of Professional Studies | BANASKANTHA | GUJARAT | Private | [Portal](http://bcops.org) |
+| 4089 | S V Virani College | RAJKOT | GUJARAT | Private | [Portal](http://svvc.org) |
+| 4090 | Ananta Institute of BBA and BCA | GANDHINAGAR | GUJARAT | Private | [Portal](http://aiobab.org) |
+
+
+### Batch 410 (Colleges 4091–4100)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4091 | The New Progressive College of Computer and Management Studies | MEHSANA | GUJARAT | Private | [Portal](http://thenewprogressive.org) |
+| 4092 | Apollo Institute of Computer Application | AHMEDABAD | GUJARAT | Private | [Portal](http://aioca.org) |
+| 4093 | Shree Haribapa BCA College | RAJKOT | GUJARAT | Private | [Portal](http://shbc.org) |
+| 4094 | Aims College of Management and Technology | ANAND | GUJARAT | Private | [Portal](http://acomat.org) |
+| 4095 | Akshar Institute of Computer Application | AHMEDABAD | GUJARAT | Private | [Portal](http://aioca.org) |
+| 4096 | Malaviya College | RAJKOT | GUJARAT | Private | [Portal](http://malaviyacollege.org) |
+| 4097 | Noble Institute of Technology | SURAT | GUJARAT | Private | [Portal](http://niot.org) |
+| 4098 | Noble Institute of Computer Science | VADODARA | GUJARAT | Private | [Portal](http://niocs.org) |
+| 4099 | Sardar Patel Kelavani Mandal | RAJKOT | GUJARAT | Private | [Portal](http://spkm.org) |
+| 4100 | Plus Infotech and Management College | SURAT | GUJARAT | Private | [Portal](http://piamc.org) |
+
+
+### Batch 411 (Colleges 4101–4110)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4101 | Dunes College Kutch | KUTCH | GUJARAT | Private | [Portal](http://dck.org) |
+| 4102 | BCA College Androkha | SABARKANTHA | GUJARAT | Private | [Portal](http://bca.org) |
+| 4103 | Shree Jashubhai Dhanabhai Barad B.c.a. College | GIR SOMNATH | GUJARAT | Private | [Portal](http://sjdbbc.org) |
+| 4104 | Shri Maharshi Dayanand Saraswati BCA College | MEHSANA | GUJARAT | Private | [Portal](http://smdsbc.org) |
+| 4105 | Navjivan Science College | DAHOD | GUJARAT | Private | [Portal](http://nsc.org) |
+| 4106 | Muktajivan Institute of Techbiz | AHMEDABAD | GUJARAT | Private | [Portal](http://miot.org) |
+| 4107 | Maharshi Dayanand BCA College | PATAN | GUJARAT | Private | [Portal](http://mdbc.org) |
+| 4108 | Muktajivan Institute of Innovative Technology | AHMEDABAD | GUJARAT | Private | [Portal](http://mioit.org) |
+| 4109 | Shree Gnanganga Institute of Management and Computer Science | JAMNAGAR | GUJARAT | Private | [Portal](http://shreegnangangainstitute.org) |
+| 4110 | Science and Commerce College Tarsadi | SURAT | GUJARAT | Private | [Portal](http://sacct.org) |
+
+
+### Batch 412 (Colleges 4111–4120)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4111 | Shree A. S. Patel BCA College | BANASKANTHA | GUJARAT | Private | [Portal](http://saspbc.org) |
+| 4112 | MR Dav Institute of Management Studies | ROHTAK | HARYANA | Private | [Portal](http://mdioms.org) |
+| 4113 | Guru Gobind Singh Govt.polytechnic Education Society | KAITHAL | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4114 | L.r. Institute of Technology &management | PALWAL | HARYANA | Private | [Portal](http://liotm.org) |
+| 4115 | Akash Institute of Technology | MAHENDERGARH | HARYANA | Private | [Portal](http://aiot.org) |
+| 4116 | Rani Jhansi Laxmi Bai Govt. Polytechnic, Loharu | BHIWANI | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4117 | Cdl Govt. Polytechnic Edu. Society Nathusari Chopta | SIRSA | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4118 | Satyug Darshan Institute of Engineering & Technology | FARIDABAD | HARYANA | Private | [Portal](http://sdioet.org) |
+| 4119 | Faculty of Engineering & Technology | SONEPAT | HARYANA | Private | [Portal](http://foet.org) |
+| 4120 | Swami Devi Dyal Institute of Management Studies | PANCHKULA | HARYANA | Private | [Portal](http://swamidevidyal.org) |
+
+
+### Batch 413 (Colleges 4121–4130)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4121 | Polytechnic Education & Training Institute | KURUKSHETRA | HARYANA | Private | [Portal](http://peti.org) |
+| 4122 | Sheela Devi Institute of Management and Technology (Sdimt) | FARIDABAD | HARYANA | Private | [Portal](http://sheeladeviinstitute.org) |
+| 4123 | Jan Nayak Ch. Devilal Institute of Business MG | SIRSA | HARYANA | Private | [Portal](http://jannayakch.org) |
+| 4124 | Shri Krishan Polytechnic | KURUKSHETRA | HARYANA | Private | [Portal](http://skp.org) |
+| 4125 | Tirupati College of Polytechnic and Pharmacy | FATEHABAD | HARYANA | Private | [Portal](http://tcopap.org) |
+| 4126 | Asia Pacific Institute of Information Technology SD India Panipat | PANIPAT | HARYANA | Private | [Portal](http://asiapacificinstitute.org) |
+| 4127 | Mukhi Polytechnic | SONEPAT | HARYANA | Private | [Portal](http://mukhipolytechnic.org) |
+| 4128 | Guru Daksh Government Polytechnic Hisar | HISAR | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4129 | Baba Kheta Nath Govt Polytechnic | MAHENDERGARH | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4130 | Government College for Girls Sec-14 Gurugram | GURGAON | HARYANA | Public/Government | [Portal](https://gcfgsg.gov.in) |
+
+
+### Batch 414 (Colleges 4131–4140)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4131 | Kalpana Chawla Govt. Polytechnic for Women | AMBALA | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4132 | Smt. Shanti Devi College of Management & Technology | REWARI | HARYANA | Private | [Portal](http://smtshantidevi.org) |
+| 4133 | Vaish Technical Institute | ROHTAK | HARYANA | Private | [Portal](http://vti.org) |
+| 4134 | Mkm College of Polytechnic for Girls | PALWAL | HARYANA | Private | [Portal](http://mcopfg.org) |
+| 4135 | Tagore Institute of Research & Technology | GURGAON | HARYANA | Private | [Portal](http://tiort.org) |
+| 4136 | Vinayak College of Polytechnic | KARNAL | HARYANA | Private | [Portal](http://vcop.org) |
+| 4137 | P D M Institute of Engineering & Technology | JIND | HARYANA | Private | [Portal](http://pdm.org) |
+| 4138 | Ramanujan College of Management | PALWAL | HARYANA | Private | [Portal](http://rcom.org) |
+| 4139 | Jkp Polytechnic | SONEPAT | HARYANA | Private | [Portal](http://jkppolytechnic.org) |
+| 4140 | Ch. Matu Ram Arya Govt. Polytechnic Education Society | ROHTAK | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+
+
+### Batch 415 (Colleges 4141–4150)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4141 | Government Polytechnic Education Society, Morni | PANCHKULA | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4142 | Department of Instrumentation Technology | KURUKSHETRA | HARYANA | Private | [Portal](http://doit.org) |
+| 4143 | Bps Mahila Polytechnic | SONEPAT | HARYANA | Private | [Portal](http://bmp.org) |
+| 4144 | Government Polytechnic Education Society Manesar | GURGAON | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4145 | Jan Nayak Ch. Devi Lal Memorial College of Engineering | SIRSA | HARYANA | Private | [Portal](http://jannayakch.org) |
+| 4146 | South Point Institute of Technology and Management | SONEPAT | HARYANA | Private | [Portal](http://southpointinstitute.org) |
+| 4147 | Government. Polytechnic Sonepat | SONEPAT | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4148 | Baba Saheb Ambedkar Polytechnic | JHAJJAR | HARYANA | Private | [Portal](http://bsap.org) |
+| 4149 | Deenbandhu Sir Chhotu Ram Govt. Polytechnic Education Society, Sampla | ROHTAK | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4150 | Yashvir Memorial Technical Institute | JIND | HARYANA | Private | [Portal](http://ymti.org) |
+
+
+### Batch 416 (Colleges 4151–4160)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4151 | Guru Gorakhnath JI Government Polytechnic, Jhajjar | JHAJJAR | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4152 | Government. Polytechnic Lisana (Rewari) | REWARI | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4153 | Maa Saraswati Institute of Engineering & Technology | ROHTAK | HARYANA | Private | [Portal](http://msioet.org) |
+| 4154 | College of Agricultural Engineering & Technology | HISAR | HARYANA | Private | [Portal](http://coaet.org) |
+| 4155 | Government Polytechnic Umri Kurukshetra | AMBALA | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4156 | Iitm College of Engineering | JHAJJAR | HARYANA | Private | [Portal](http://icoe.org) |
+| 4157 | Ganpati Polytechnic for Engineering | YAMUNA NAGAR | HARYANA | Private | [Portal](http://gpfe.org) |
+| 4158 | Ch. Devi Lal State Institute of Engineering & Technology, Panniwala Mota, Sirsa | SIRSA | HARYANA | Private | [Portal](http://chdevilal.org) |
+| 4159 | St. Andrews Institute of Technology & Management | GURGAON | HARYANA | Private | [Portal](http://saiotm.org) |
+| 4160 | Guru Jambheshwar University of Science & Technology | HISAR | HARYANA | Private | [Portal](http://gjuost.org) |
+
+
+### Batch 417 (Colleges 4161–4170)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4161 | University Institute of Engineering and Technology (PG) | KURUKSHETRA | HARYANA | Private | [Portal](http://universityinstituteof.org) |
+| 4162 | Mewat Engineering College (Waqf) | MEWAT | HARYANA | Private | [Portal](http://mecw.org) |
+| 4163 | S.d. Mewat Institute of Engineering & Technology- Technical Campus | GURGAON | HARYANA | Private | [Portal](http://sdmewatinstitute.org) |
+| 4164 | Deenbandhu Chhotu Ram University of Sci and Tech | SONEPAT | HARYANA | Private | [Portal](http://deenbandhuchhoturam.org) |
+| 4165 | Ganga Institute of Technology and Management | JHAJJAR | HARYANA | Private | [Portal](http://giotam.org) |
+| 4166 | Gyan Ganga Polytechnic | KURUKSHETRA | HARYANA | Private | [Portal](http://ggp.org) |
+| 4167 | Bhagwan Mahaveer Institute of Polytechnic | SONEPAT | HARYANA | Private | [Portal](http://bmiop.org) |
+| 4168 | Electronic Science Department | KURUKSHETRA | HARYANA | Private | [Portal](http://esd.org) |
+| 4169 | Haryana Engineering College,Jagadhri | YAMUNA NAGAR | HARYANA | Private | [Portal](http://hec.org) |
+| 4170 | Krishna Polytechnic College | REWARI | HARYANA | Private | [Portal](http://kpc.org) |
+
+
+### Batch 418 (Colleges 4171–4180)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4171 | SD Institute of Management and Technology | YAMUNA NAGAR | HARYANA | Private | [Portal](http://siomat.org) |
+| 4172 | Jai Parkash Mukand Lal Innovative Engineering & Technology Institute | YAMUNA NAGAR | HARYANA | Private | [Portal](http://jaiparkashmukand.org) |
+| 4173 | Yamuna Polytechnic for Engineering | YAMUNA NAGAR | HARYANA | Private | [Portal](http://ypfe.org) |
+| 4174 | Global Institute of Technology & Management | GURGAON | HARYANA | Private | [Portal](http://giotm.org) |
+| 4175 | Gateway Institute of Engineering & Technology | SONEPAT | HARYANA | Private | [Portal](http://gioet.org) |
+| 4176 | Seth Haribaksh Lohia Jairam Mahila Polytechnic,Lohar Majra,Kurukshetra | KURUKSHETRA | HARYANA | Private | [Portal](http://sethharibakshlohia.org) |
+| 4177 | Deen Dayal Rustagi College of Pharmacy | GURGAON | HARYANA | Private | [Portal](http://ddrcop.org) |
+| 4178 | Rajiv Gandhi Govt. Polytechnic Narwana(Jind) | JIND | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4179 | R.p. Institute of Pharmacy | KARNAL | HARYANA | Private | [Portal](http://riop.org) |
+| 4180 | Swami Devi Dyal College of Technical Education | PANCHKULA | HARYANA | Private | [Portal](http://swamidevidyal.org) |
+
+
+### Batch 419 (Colleges 4181–4190)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4181 | University Institute of Engineering and Technology, Maharshi Dayanand University, Rohtak | ROHTAK | HARYANA | Private | [Portal](http://universityinstituteof.org) |
+| 4182 | Hindu Institute of Management | SONEPAT | HARYANA | Private | [Portal](http://hiom.org) |
+| 4183 | Jind Polytechnic College | JIND | HARYANA | Private | [Portal](http://jpc.org) |
+| 4184 | Institute of Environmental Studies | KURUKSHETRA | HARYANA | Private | [Portal](http://ioes.org) |
+| 4185 | Icl Institute of Management and Technology | AMBALA | HARYANA | Private | [Portal](http://iiomat.org) |
+| 4186 | Shree Ram Mulkh College of Technical Education | AMBALA | HARYANA | Private | [Portal](http://shreerammulkh.org) |
+| 4187 | Yaduvanshi College of Engineering & Technology | MAHENDERGARH | HARYANA | Private | [Portal](http://ycoet.org) |
+| 4188 | Government Polytechnic,Mandi Adampur | HISAR | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4189 | Government. Polytechnic Education Society, Meham | ROHTAK | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4190 | Ch. Bansi Lal Government Polytechnic Bhiwani | BHIWANI | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+
+
+### Batch 420 (Colleges 4191–4200)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4191 | Krishna Vidyapeeth of Management & Technology | BHIWANI | HARYANA | Private | [Portal](http://kvomt.org) |
+| 4192 | Chhotu Ram Polytechnic, Rohtak (Haryana) | ROHTAK | HARYANA | Private | [Portal](http://crprh.org) |
+| 4193 | Shaheed Captain D.k. Khola Technical Campus | REWARI | HARYANA | Private | [Portal](http://scdktc.org) |
+| 4194 | Pt. L R College of Technology- Technical Campus | FARIDABAD | HARYANA | Private | [Portal](http://ptlr.org) |
+| 4195 | Government Polytechnic Ambala City | AMBALA | HARYANA | Public/Government | [Portal](https://techeduhry.gov.in) |
+| 4196 | Aggarwal College Ballabgarh | FARIDABAD | HARYANA | Private | [Portal](http://acb.org) |
+| 4197 | Ncp College of Polytechnic | YAMUNA NAGAR | HARYANA | Private | [Portal](http://ncop.org) |
+| 4198 | Dpg Polytechnic , Sector-34,Gurgaon | GURGAON | HARYANA | Private | [Portal](http://dps.org) |
+| 4199 | The Technological Institute of Textile & Sciences (MBA) | BHIWANI | HARYANA | Private | [Portal](http://thetechnologicalinstitute.org) |
+| 4200 | School of Engineering & Technology, OM Sterling Global University, Hisar | HISAR | HARYANA | Private | [Portal](http://schoolofengineering.org) |
+
+
+### Batch 421 (Colleges 4201–4210)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4201 | Delhi Institute of Technology & Management | SONEPAT | HARYANA | Private | [Portal](http://diotm.org) |
+| 4202 | Department of Computer Science and Applications, Kurukshetra University Kurukshetra | KURUKSHETRA | HARYANA | Private | [Portal](http://departmentofcomputer.org) |
+| 4203 | Janta College of Pharmacy, Butana (Sonepat) | SONEPAT | HARYANA | Private | [Portal](http://jcopbs.org) |
+| 4204 | National Council for Cement and Building Materials | FARIDABAD | HARYANA | Private | [Portal](http://nationalcouncilfor.org) |
+| 4205 | Puran Murti Campus | SONEPAT | HARYANA | Private | [Portal](http://pmc.org) |
+| 4206 | Technology Education & Research Institute | KURUKSHETRA | HARYANA | Private | [Portal](http://teri.org) |
+| 4207 | B. M. Institute of Engineering and Technology, Sonepat | SONEPAT | HARYANA | Private | [Portal](http://bminstitute.org) |
+| 4208 | Hindu College of Engineering | SONEPAT | HARYANA | Private | [Portal](http://hcoe.org) |
+| 4209 | Kiit College of Engineering | GURGAON | HARYANA | Private | [Portal](http://kcoe.org) |
+| 4210 | Brcm College of Engineering & Technology | BHIWANI | HARYANA | Private | [Portal](http://bcoet.org) |
+
+
+### Batch 422 (Colleges 4211–4220)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4211 | Sanskaram Group of Institutions | JHAJJAR | HARYANA | Private | [Portal](http://sgoi.org) |
+| 4212 | Anangpuria School of Management and Technology | FARIDABAD | HARYANA | Private | [Portal](http://asomat.org) |
+| 4213 | R.p. Inderaprastha Institute of Technology | KARNAL | HARYANA | Private | [Portal](http://riiot.org) |
+| 4214 | World College of Technology and Management | GURGAON | HARYANA | Private | [Portal](http://wcotam.org) |
+| 4215 | Matu Ram Institute of Engineering & Management | ROHTAK | HARYANA | Private | [Portal](http://mrioem.org) |
+| 4216 | Delhi College of Technology & Management | PALWAL | HARYANA | Private | [Portal](http://dcotm.org) |
+| 4217 | Institute of Mangement & Technology (MBA Programme) | FARIDABAD | HARYANA | Private | [Portal](http://iomtmp.org) |
+| 4218 | Maharaja Agrasen Institute of Management & Technology | YAMUNA NAGAR | HARYANA | Private | [Portal](http://maiomt.org) |
+| 4219 | Global Research Institute of Management & Technology | YAMUNA NAGAR | HARYANA | Private | [Portal](http://griomt.org) |
+| 4220 | Nav Nirman Sewa Samiti's Samalkha Group of Institutions | PANIPAT | HARYANA | Private | [Portal](http://navnirmansewa.org) |
+
+
+### Batch 423 (Colleges 4221–4230)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4221 | R.p. Educational Trust Group of Institutions | KARNAL | HARYANA | Private | [Portal](http://retgoi.org) |
+| 4222 | Lord Shiva College of Pharmacy, Sirsa | SIRSA | HARYANA | Private | [Portal](http://lscops.org) |
+| 4223 | Dav Institute of Management | FARIDABAD | HARYANA | Private | [Portal](http://diom.org) |
+| 4224 | Shaheed Capt. D.k. Khola College of Managment and Technology | REWARI | HARYANA | Private | [Portal](http://shaheedcaptdk.org) |
+| 4225 | Rao Pahlad Singh Group of Institutions | MAHENDERGARH | HARYANA | Private | [Portal](http://rpsgoi.org) |
+| 4226 | Shri Atmanand Jain Institute of Manag Ement & Technology(MBA & MCA) | AMBALA | HARYANA | Private | [Portal](http://shriatmanandjain.org) |
+| 4227 | Vaish College of Engineering | ROHTAK | HARYANA | Private | [Portal](http://vcoe.org) |
+| 4228 | Faridabad College of Engineering and Menagement, Faridabad (Fcem) | FARIDABAD | HARYANA | Private | [Portal](http://faridabadcollegeof.org) |
+| 4229 | National Power Training Institute | FARIDABAD | HARYANA | Private | [Portal](http://npti.org) |
+| 4230 | Echelon Institute of Technology | FARIDABAD | HARYANA | Private | [Portal](http://eiot.org) |
+
+
+### Batch 424 (Colleges 4231–4240)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4231 | Shivom College of Management and Technology | ROHTAK | HARYANA | Private | [Portal](http://scomat.org) |
+| 4232 | Pkg College of Engineering & Technology | PANIPAT | HARYANA | Private | [Portal](http://pcoet.org) |
+| 4233 | Satya College of Engineering & Technology | PALWAL | HARYANA | Private | [Portal](http://scoet.org) |
+| 4234 | Shri Ram College of Engineering & Management | PALWAL | HARYANA | Private | [Portal](http://srcoem.org) |
+| 4235 | Bimla Devi Educational Society's Group of Institutions | FARIDABAD | HARYANA | Private | [Portal](http://bimladevieducational.org) |
+| 4236 | Bhiwani Institute of Technology and Sciences | BHIWANI | HARYANA | Private | [Portal](http://biotas.org) |
+| 4237 | Institute of Management & Technology | FARIDABAD | HARYANA | Private | [Portal](http://iomt.org) |
+| 4238 | Ganpati Institute of Hotel Management | YAMUNA NAGAR | HARYANA | Private | [Portal](http://giohm.org) |
+| 4239 | J C Bose University of Science and Technology | FARIDABAD | HARYANA | Private | [Portal](http://jcbose.org) |
+| 4240 | M.m. Institute of Computer Technology & Business Management | AMBALA | HARYANA | Private | [Portal](http://mminstituteof.org) |
+
+
+### Batch 425 (Colleges 4241–4250)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4241 | Mahaveer Swami Institute of Technology | SONEPAT | HARYANA | Private | [Portal](http://msiot.org) |
+| 4242 | Rawal Institute of Engineering and Technology | FARIDABAD | HARYANA | Private | [Portal](http://rioeat.org) |
+| 4243 | Yamuna Institute of Engineering & Technology | YAMUNA NAGAR | HARYANA | Private | [Portal](http://yioet.org) |
+| 4244 | Shree Ram Mulkh Institute of Engineering & Technology | AMBALA | HARYANA | Private | [Portal](http://shreerammulkh.org) |
+| 4245 | Ibmr Business College | JHAJJAR | HARYANA | Private | [Portal](http://ibc.org) |
+| 4246 | Maharaja Agrasen Institute of Management and Technology | YAMUNA NAGAR | HARYANA | Private | [Portal](http://maharajaagraseninstitute.org) |
+| 4247 | G.v.m. Institute of Technology & Management (for Girls) | SONEPAT | HARYANA | Private | [Portal](http://gvminstituteof.org) |
+| 4248 | Shri Krishan Institute of Engineering and Technology | KURUKSHETRA | HARYANA | Private | [Portal](http://shrikrishaninstitute.org) |
+| 4249 | Bharat Institute of Technology, Sonepat | SONEPAT | HARYANA | Private | [Portal](http://biots.org) |
+| 4250 | Shri Balwant Institute of Technology | SONEPAT | HARYANA | Private | [Portal](http://sbiot.org) |
+
+
+### Batch 426 (Colleges 4251–4260)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4251 | Indraprastha Institute of Management and Technology | ROHTAK | HARYANA | Private | [Portal](http://iiomat.org) |
+| 4252 | Hindustan Institute of Technology and Management | AMBALA | HARYANA | Private | [Portal](http://hiotam.org) |
+| 4253 | Mkm Institute of Pgdm | PALWAL | HARYANA | Private | [Portal](http://miop.org) |
+| 4254 | Budha College of Management | KARNAL | HARYANA | Private | [Portal](http://bcom.org) |
+| 4255 | Aravali College of Engineering & Management | FARIDABAD | HARYANA | Private | [Portal](http://acoem.org) |
+| 4256 | Dronacharya College of Engineering | GURGAON | HARYANA | Private | [Portal](http://dcoe.org) |
+| 4257 | Advanced Institute of Technology and Management | PALWAL | HARYANA | Private | [Portal](http://aiotam.org) |
+| 4258 | Kedarnath Aggarwal Institute of Management | BHIWANI | HARYANA | Private | [Portal](http://kaiom.org) |
+| 4259 | Hindu Institute of Management& Technology Rohtak | ROHTAK | HARYANA | Private | [Portal](http://hiomtr.org) |
+| 4260 | Somany Institute of Technology and Management | REWARI | HARYANA | Private | [Portal](http://siotam.org) |
+
+
+### Batch 427 (Colleges 4261–4270)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4261 | Tilak Raj Chadha Institute of Mgmt. & Tech. | YAMUNA NAGAR | HARYANA | Private | [Portal](http://tilakrajchadha.org) |
+| 4262 | Swami Devi Dyal Institute of Engg. & Technology (Ex:swami Devi Dyal Institute of Comp & Info. Tech) | PANCHKULA | HARYANA | Private | [Portal](http://swamidevidyal.org) |
+| 4263 | Mata Rajkaur Institute of Engineering and Technology | REWARI | HARYANA | Private | [Portal](http://matarajkaurinstitute.org) |
+| 4264 | Icl Institute of Hotel Management and Catering Technology | AMBALA | HARYANA | Private | [Portal](http://iclinstituteof.org) |
+| 4265 | Ibmr Business School | JHAJJAR | HARYANA | Private | [Portal](http://ibs.org) |
+| 4266 | Sat Kabir Institute of Technology & Management | JHAJJAR | HARYANA | Private | [Portal](http://skiotm.org) |
+| 4267 | Meri College of Engineering and Technology | JHAJJAR | HARYANA | Private | [Portal](http://mcoeat.org) |
+| 4268 | Seth Jai Parkash Mukand Lal Institute of Engineering & Technology | YAMUNA NAGAR | HARYANA | Private | [Portal](http://sethjaiparkash.org) |
+| 4269 | Rattan Institute of Technology & Management | PALWAL | HARYANA | Private | [Portal](http://riotm.org) |
+| 4270 | Management Development Institute | GURGAON | HARYANA | Private | [Portal](http://mdi.org) |
+
+
+### Batch 428 (Colleges 4271–4280)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4271 | Teerthanker Krd College | GURGAON | HARYANA | Private | [Portal](http://tkc.org) |
+| 4272 | Guru Nanak Khalsa Institutes of Technology and Management Technical Campus, Yamuna Nagar | YAMUNA NAGAR | HARYANA | Private | [Portal](http://gurunanakkhalsa.org) |
+| 4273 | Delhi Global Institute of Management | FARIDABAD | HARYANA | Private | [Portal](http://dgiom.org) |
+| 4274 | Cambridge College of Management and Technology | JHAJJAR | HARYANA | Private | [Portal](http://ccomat.org) |
+| 4275 | Panipat Institute of Engineering & Technology | PANIPAT | HARYANA | Private | [Portal](http://pioet.org) |
+| 4276 | Codequotient School of Technology | PANIPAT | HARYANA | Private | [Portal](http://csot.org) |
+| 4277 | The Northcap University | GURGAON | HARYANA | Private | [Portal](http://tnu.org) |
+| 4278 | Gandhi Memorial National College Ambala Cantt | AMBALA | HARYANA | Private | [Portal](http://gmncac.org) |
+| 4279 | Ccls College of Architecture and Design | ROHTAK | HARYANA | Private | [Portal](http://ccoaad.org) |
+| 4280 | LN Institute of Technology | MAHENDERGARH | HARYANA | Private | [Portal](http://liot.org) |
+
+
+### Batch 429 (Colleges 4281–4290)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4281 | SH L N Hindu College Rohtak | ROHTAK | HARYANA | Private | [Portal](http://slnhcr.org) |
+| 4282 | Ramanujan College of Education | PALWAL | HARYANA | Private | [Portal](http://rcoe.org) |
+| 4283 | Gita Vidya Mandir Girls College | SONEPAT | HARYANA | Private | [Portal](http://gvmgc.org) |
+| 4284 | Amrita Vishwa Vidyapeetham Faridabad Off Campus | FARIDABAD | HARYANA | Private | [Portal](http://avvfoc.org) |
+| 4285 | State Institute of Engineering and Technology Panchkula | PANCHKULA | HARYANA | Private | [Portal](http://stateinstituteof.org) |
+| 4286 | Arya College | PANIPAT | HARYANA | Private | [Portal](http://aryacollege.org) |
+| 4287 | Fore Academy of Management Education | GURGAON | HARYANA | Private | [Portal](http://faome.org) |
+| 4288 | Saini.co.edu.college | ROHTAK | HARYANA | Private | [Portal](http://sainicoeducollege.org) |
+| 4289 | Mukand Lal National College | YAMUNA NAGAR | HARYANA | Private | [Portal](http://mlnc.org) |
+| 4290 | Jeevan Chanan Mahila Mahavidyalaya Assandh | KARNAL | HARYANA | Private | [Portal](http://jcmma.org) |
+
+
+### Batch 430 (Colleges 4291–4300)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4291 | Arya Kanya Mahavidyalaya Gurukul | KARNAL | HARYANA | Private | [Portal](http://akmg.org) |
+| 4292 | Nicmar Institute of Construction Management and Research | JHAJJAR | HARYANA | Private | [Portal](http://nicmarinstituteof.org) |
+| 4293 | Maharani Kishori Memorial Kanya Mahavidhyalay Hodal | PALWAL | HARYANA | Private | [Portal](http://mkmkmh.org) |
+| 4294 | Guru Nanak Institute of Higher Education | SONEPAT | HARYANA | Private | [Portal](http://gniohe.org) |
+| 4295 | K L Mehta Dayanand College for Women Faridabad | FARIDABAD | HARYANA | Private | [Portal](http://klmehta.org) |
+| 4296 | Government College for Girls Nacholi | FARIDABAD | HARYANA | Public/Government | [Portal](https://gcfgn.gov.in) |
+| 4297 | Cmk National PG College Run BY Sirsa Education Soceity | SIRSA | HARYANA | Private | [Portal](http://cmknationalpg.org) |
+| 4298 | Government College Barota | SONEPAT | HARYANA | Public/Government | [Portal](https://gcb.gov.in) |
+| 4299 | Government College Bahadurgarh | JHAJJAR | HARYANA | Public/Government | [Portal](https://gcb.gov.in) |
+| 4300 | Vaish College | ROHTAK | HARYANA | Private | [Portal](http://vaishcollege.org) |
+
+
+### Batch 431 (Colleges 4301–4310)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4301 | Shah Satnam JI Boys College Sirsa | SIRSA | HARYANA | Private | [Portal](http://ssjbcs.org) |
+| 4302 | Chhaju Ram Memorial Jat College | HISAR | HARYANA | Private | [Portal](http://crmjc.org) |
+| 4303 | Dronacharya Govt College | GURGAON | HARYANA | Public/Government | [Portal](https://dgc.gov.in) |
+| 4304 | Government College Hansi | HISAR | HARYANA | Public/Government | [Portal](https://gch.gov.in) |
+| 4305 | Ish School of Hospitality | GURGAON | HARYANA | Private | [Portal](http://isoh.org) |
+| 4306 | Rksd College Kaithal | KAITHAL | HARYANA | Private | [Portal](http://rck.org) |
+| 4307 | Vaish Mahila Mahavidyalya | ROHTAK | HARYANA | Private | [Portal](http://vmm.org) |
+| 4308 | Dav College for Girls Yamuna Nagar | YAMUNA NAGAR | HARYANA | Private | [Portal](http://dcfgyn.org) |
+| 4309 | Government. P.g. College for Women Rohtak | ROHTAK | HARYANA | Public/Government | [Portal](https://gpcfwr.gov.in) |
+| 4310 | Government College for Women Faridabad | FARIDABAD | HARYANA | Public/Government | [Portal](https://gcfwf.gov.in) |
+
+
+### Batch 432 (Colleges 4311–4320)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4311 | Government National College Sirsa | SIRSA | HARYANA | Public/Government | [Portal](https://gncs.gov.in) |
+| 4312 | Jan Nayak Chaudhary Devi Lal Memorial College Sirsa | SIRSA | HARYANA | Private | [Portal](http://jannayakchaudhary.org) |
+| 4313 | Government P G College for Women Panchkula | PANCHKULA | HARYANA | Public/Government | [Portal](https://governmentpg.gov.in) |
+| 4314 | Shah Satnam JI Girls College Sirsa | SIRSA | HARYANA | Private | [Portal](http://ssjgcs.org) |
+| 4315 | Smt. Aruna Asaf Ali Govt P. G. College Kalka | PANCHKULA | HARYANA | Public/Government | [Portal](https://smtarunaasaf.gov.in) |
+| 4316 | Government. College Naraingarh | AMBALA | HARYANA | Public/Government | [Portal](https://gcn.gov.in) |
+| 4317 | Government.college Meham | ROHTAK | HARYANA | Public/Government | [Portal](https://governmentcollegemeham.gov.in) |
+| 4318 | Mukhtiar Singh Memorial Degree College | FATEHABAD | HARYANA | Private | [Portal](http://msmdc.org) |
+| 4319 | S.d. P.g. College Panipat | PANIPAT | HARYANA | Private | [Portal](http://spcp.org) |
+| 4320 | Arya Kanya Mahavidyalya | KURUKSHETRA | HARYANA | Private | [Portal](http://akm.org) |
+
+
+### Batch 433 (Colleges 4321–4330)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4321 | Government. College Tigaon | FARIDABAD | HARYANA | Public/Government | [Portal](https://gct.gov.in) |
+| 4322 | Ymd College | MEWAT | HARYANA | Private | [Portal](http://ymdcollege.org) |
+| 4323 | Pt. Chiranji Lal Sharma Govt College Karnal | KARNAL | HARYANA | Public/Government | [Portal](https://ptchiranjilal.gov.in) |
+| 4324 | Shaheed Udham Singh Government College Matak Majri Indri | KARNAL | HARYANA | Public/Government | [Portal](https://shaheedudhamsingh.gov.in) |
+| 4325 | Shri Shanti Sagar Jain Kanya Mahavidyalaya | MEWAT | HARYANA | Private | [Portal](http://sssjkm.org) |
+| 4326 | Budha College of Higher Education | KARNAL | HARYANA | Private | [Portal](http://bcohe.org) |
+| 4327 | Sri Guru Harkrishan Sahib Khalsa College | AMBALA | HARYANA | Private | [Portal](http://sghskc.org) |
+| 4328 | D.a.v. Centenary College | FARIDABAD | HARYANA | Private | [Portal](http://dcc.org) |
+| 4329 | Mata Sundri Khalsa Girls College | KARNAL | HARYANA | Private | [Portal](http://mskgc.org) |
+| 4330 | Suraj Degree College | MAHENDERGARH | HARYANA | Private | [Portal](http://sdc.org) |
+
+
+### Batch 434 (Colleges 4331–4340)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4331 | Smt. Sushma Swaraj Government College for Girls Ballabgarh | FARIDABAD | HARYANA | Public/Government | [Portal](https://smtsushmaswaraj.gov.in) |
+| 4332 | Jyotiba Phule Government College Radaur | YAMUNA NAGAR | HARYANA | Public/Government | [Portal](https://jpgcr.gov.in) |
+| 4333 | Dyal Singh College | KARNAL | HARYANA | Private | [Portal](http://dsc.org) |
+| 4334 | Government College College for Girls Palwal Kurukshetra | KURUKSHETRA | HARYANA | Public/Government | [Portal](https://governmentcollegecollege.gov.in) |
+| 4335 | Government College Chhachhrauli | YAMUNA NAGAR | HARYANA | Public/Government | [Portal](https://gcc.gov.in) |
+| 4336 | Dronacharya Degree College | KURUKSHETRA | HARYANA | Private | [Portal](http://ddc.org) |
+| 4337 | Vaish Arya Kanya Mahavidyalaya Bahadurgarh | JHAJJAR | HARYANA | Private | [Portal](http://vakmb.org) |
+| 4338 | Institute of Management Studies Kurukshetra University | KURUKSHETRA | HARYANA | Private | [Portal](http://iomsku.org) |
+| 4339 | Government College for Women Karnal | KARNAL | HARYANA | Public/Government | [Portal](https://gcfwk.gov.in) |
+| 4340 | Suraj Degree College Sector 75 | GURGAON | HARYANA | Private | [Portal](http://sdcs7.org) |
+
+
+### Batch 435 (Colleges 4341–4350)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4341 | Kva Dav College for Women | KARNAL | HARYANA | Private | [Portal](http://kdcfw.org) |
+| 4342 | Isharjyot Degree College for Women | KURUKSHETRA | HARYANA | Private | [Portal](http://idcfw.org) |
+| 4343 | Vaish College Bhiwani | BHIWANI | HARYANA | Private | [Portal](http://vcb.org) |
+| 4344 | AI Jat HM College Rohtak | ROHTAK | HARYANA | Private | [Portal](http://ajhcr.org) |
+| 4345 | Government. College | PANCHKULA | HARYANA | Public/Government | [Portal](https://governmentcollege.gov.in) |
+| 4346 | Dav College Karnal | KARNAL | HARYANA | Private | [Portal](http://dck.org) |
+| 4347 | Nav Nirman Sewa Samiti's Samalkha Group of Institution | PANIPAT | HARYANA | Private | [Portal](http://navnirmansewa.org) |
+| 4348 | Pandit Neki Ram Sharma Govt College Rohtak | ROHTAK | HARYANA | Public/Government | [Portal](https://panditnekiram.gov.in) |
+| 4349 | Government College Aharwala Bilaspur | YAMUNA NAGAR | HARYANA | Public/Government | [Portal](https://gcab.gov.in) |
+| 4350 | Snrl Jairam Girls College | KURUKSHETRA | HARYANA | Private | [Portal](http://sjgc.org) |
+
+
+### Batch 436 (Colleges 4351–4360)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4351 | Gcw Sirsa | SIRSA | HARYANA | Private | [Portal](http://gcwsirsa.org) |
+| 4352 | Nirankari Baba Gurbachan Singh Memorial College | GURGAON | HARYANA | Private | [Portal](http://nbgsmc.org) |
+| 4353 | Institute of Teachers Education | FARIDABAD | HARYANA | Private | [Portal](http://iote.org) |
+| 4354 | K M College of Education | BHIWANI | HARYANA | Private | [Portal](http://kmcoe.org) |
+| 4355 | Dayanand College Hisar | HISAR | HARYANA | Private | [Portal](http://dch.org) |
+| 4356 | I B PG College Panipat | PANIPAT | HARYANA | Private | [Portal](http://ibpcp.org) |
+| 4357 | BR Degree College | MAHENDERGARH | HARYANA | Private | [Portal](http://bdc.org) |
+| 4358 | Government Post Graduate Nehru College | JHAJJAR | HARYANA | Public/Government | [Portal](https://gpgnc.gov.in) |
+| 4359 | Jagriti Institute of Higher Education | FARIDABAD | HARYANA | Private | [Portal](http://jiohe.org) |
+| 4360 | Ahir College | REWARI | HARYANA | Private | [Portal](http://ahircollege.org) |
+
+
+### Batch 437 (Colleges 4361–4370)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4361 | DR B R Ambedkar Govt College Kaithal | KAITHAL | HARYANA | Public/Government | [Portal](https://drbr.gov.in) |
+| 4362 | Manav Institute of Education | HISAR | HARYANA | Private | [Portal](http://mioe.org) |
+| 4363 | Shiv College of Education | FARIDABAD | HARYANA | Private | [Portal](http://scoe.org) |
+| 4364 | Banwari Lal Jindal Suiwala College Tosham | BHIWANI | HARYANA | Private | [Portal](http://bljsct.org) |
+| 4365 | Kishan Lal Public College | REWARI | HARYANA | Private | [Portal](http://klpc.org) |
+| 4366 | Gaur Brahman Degree College Rohtak | ROHTAK | HARYANA | Private | [Portal](http://gbdcr.org) |
+| 4367 | CH Dhajja Ram Janta Mahavidyalaya | SONEPAT | HARYANA | Private | [Portal](http://cdrjm.org) |
+| 4368 | Dayanand Mahila Mahavidyalaya | KURUKSHETRA | HARYANA | Private | [Portal](http://dmm.org) |
+| 4369 | Aggarwal College of Education | FARIDABAD | HARYANA | Private | [Portal](http://acoe.org) |
+| 4370 | Government College for Girls Sector 52 Gurugram | GURGAON | HARYANA | Public/Government | [Portal](https://governmentcollegefor.gov.in) |
+
+
+### Batch 438 (Colleges 4371–4380)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4371 | Manav Institute of Technology and Mana | HISAR | HARYANA | Private | [Portal](http://miotam.org) |
+| 4372 | Hindu Kanya Mahavidyalya | JIND | HARYANA | Private | [Portal](http://hkm.org) |
+| 4373 | CH Ishwar Singh Kanya Mahavidyalaya Fatehpur Pundri | KAITHAL | HARYANA | Private | [Portal](http://chishwarsingh.org) |
+| 4374 | Maa Omwati Degree College | PALWAL | HARYANA | Private | [Portal](http://modc.org) |
+| 4375 | Maharishi Markandeshwar Institute of Management | AMBALA | HARYANA | Private | [Portal](http://mmiom.org) |
+| 4376 | Adarsh Mahila Mahavidyalaya | BHIWANI | HARYANA | Private | [Portal](http://amm.org) |
+| 4377 | Sanatan Dharam Mahila Mahavidyalya Hansi | HISAR | HARYANA | Private | [Portal](http://sdmmh.org) |
+| 4378 | Institute of Integrated and Honors Studies | KURUKSHETRA | HARYANA | Private | [Portal](http://ioiahs.org) |
+| 4379 | Atulyam Institute of Management | FARIDABAD | HARYANA | Private | [Portal](http://aiom.org) |
+| 4380 | Arya Girls College Ambala Cantt | AMBALA | HARYANA | Private | [Portal](http://agcac.org) |
+
+
+### Batch 439 (Colleges 4381–4390)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4381 | Vision International College of Management and Technology | HISAR | HARYANA | Private | [Portal](http://visioninternationalcollege.org) |
+| 4382 | Krishna Degree College | REWARI | HARYANA | Private | [Portal](http://kdc.org) |
+| 4383 | Pakur Polytechnic | PAKUR | JHARKHAND | Private | [Portal](http://pakurpolytechnic.org) |
+| 4384 | Swami Darshnananda Institute of Management and Technology | HARIDWAR | UTTARAKHAND | Private | [Portal](http://swamidarshnanandainstitute.org) |
+| 4385 | Mahadevi Institute of Technology | DEHRADUN | UTTARAKHAND | Private | [Portal](http://miot.org) |
+| 4386 | Kukreja Institute of Hotel Management and Catering Technology | DEHRADUN | UTTARAKHAND | Private | [Portal](http://kukrejainstituteof.org) |
+| 4387 | Roorkee College of Management & Computer Applications Roorkee. | HARIDWAR | UTTARAKHAND | Private | [Portal](http://roorkeecollegeof.org) |
+| 4388 | College of Technology, Pantnagar | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://cotp.org) |
+| 4389 | Goverment Instituite of Hotel Management Catering Technology and Applied Nuteration | ALMORA | UTTARAKHAND | Private | [Portal](http://govermentinstituiteof.org) |
+| 4390 | Nimbus Academy of Management | DEHRADUN | UTTARAKHAND | Private | [Portal](http://naom.org) |
+
+
+### Batch 440 (Colleges 4391–4400)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4391 | J B Institute of Technology | DEHRADUN | UTTARAKHAND | Private | [Portal](http://jbiot.org) |
+| 4392 | Satyendra Chandra Guria Institute of Management Andtechnology | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://satyendrachandraguria.org) |
+| 4393 | Government Institute of Hotel Management and Applied Nutrition | DEHRADUN | UTTARAKHAND | Public/Government | [Portal](https://governmentinstituteof.gov.in) |
+| 4394 | Phonics Group of Institutions | HARIDWAR | UTTARAKHAND | Private | [Portal](http://pgoi.org) |
+| 4395 | Shriram Institute of Management & Technology PG College | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://shriraminstituteof.org) |
+| 4396 | G.b.pant Institute of Engineering and Technology | PAURI GARHWAL | UTTARAKHAND | Private | [Portal](http://gioeat.org) |
+| 4397 | Institute of Technology Roorkee (Itr) | HARIDWAR | UTTARAKHAND | Private | [Portal](http://iotri.org) |
+| 4398 | Msme Technology Centre Sitarganj | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://mtcs.org) |
+| 4399 | Guru Ram Das Institute of Management & Technology | DEHRADUN | UTTARAKHAND | Private | [Portal](http://gururamdas.org) |
+| 4400 | Kukreja Institute of Management and Technology | DEHRADUN | UTTARAKHAND | Private | [Portal](http://kiomat.org) |
+
+
+### Batch 441 (Colleges 4401–4410)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4401 | Shriram Institute of Management and Technology | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://siomat.org) |
+| 4402 | Miet Kumaon | NAINITAL | UTTARAKHAND | Private | [Portal](http://mietkumaon.org) |
+| 4403 | Satyendra Chandra Guria Imt College of Management and Higher Studies | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://satyendrachandraguria.org) |
+| 4404 | Doon PG College of Agriculture Science and Technology | DEHRADUN | UTTARAKHAND | Private | [Portal](http://doonpgcollege.org) |
+| 4405 | Institute of Management Studies Roorkee | HARIDWAR | UTTARAKHAND | Private | [Portal](http://iomsr.org) |
+| 4406 | Nanhi Pari Seemant Engineering Institute Pithoragarh | PITHORAGARH | UTTARAKHAND | Private | [Portal](http://npseip.org) |
+| 4407 | Guru Nanak College Dehradun | DEHRADUN | UTTARAKHAND | Private | [Portal](http://gncd.org) |
+| 4408 | Rcp's PG College of Allied Sciences Roorkee | HARIDWAR | UTTARAKHAND | Private | [Portal](http://rcpspgcollege.org) |
+| 4409 | Shri Gurunanak Dev PG College Nanakmatta Sahib Minority College | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://shrigurunanakdev.org) |
+| 4410 | Uttaranchal College of Management and Technology | DEHRADUN | UTTARAKHAND | Private | [Portal](http://ucomat.org) |
+
+
+### Batch 442 (Colleges 4411–4420)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4411 | Pal College of Technology and Management Haldwani | NAINITAL | UTTARAKHAND | Private | [Portal](http://palcollegeof.org) |
+| 4412 | Surajmal Agarwal Private Kanya Mahavidyalaya | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://sapkm.org) |
+| 4413 | Haji Md. Serafat Mondal Government Polytechnic | BIRBHUM | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4414 | Kps Institute of Polytechnic | HOOGHLY | WEST BENGAL | Private | [Portal](http://kiop.org) |
+| 4415 | Basantika Institute of Engineering & Technology | BIRBHUM | WEST BENGAL | Private | [Portal](http://bioet.org) |
+| 4416 | Cooch Behar Polytechnic | COOCH BEHAR | WEST BENGAL | Private | [Portal](http://cbp.org) |
+| 4417 | Hemnalini Memorial College of Engineering | NADIA | WEST BENGAL | Private | [Portal](http://hmcoe.org) |
+| 4418 | Murshidabad Institute of Technology | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://miot.org) |
+| 4419 | Iswar Chandra Vidyasagar Polytechnic | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://icvp.org) |
+| 4420 | Bengal Institute of Technology | BARDHAMAN | WEST BENGAL | Private | [Portal](http://biot.org) |
+
+
+### Batch 443 (Colleges 4421–4430)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4421 | Bipradas Palchowdhury Institute of Technology | NADIA | WEST BENGAL | Private | [Portal](http://bpiot.org) |
+| 4422 | International Institute of Hotel Magement | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://iiohm.org) |
+| 4423 | West Bengal Survey Institute | HOOGHLY | WEST BENGAL | Private | [Portal](http://wbsi.org) |
+| 4424 | Future Institute of Technology | KOLKATA | WEST BENGAL | Private | [Portal](http://fiot.org) |
+| 4425 | Durgapur Institute of Advanced Technology & Management | BARDHAMAN | WEST BENGAL | Private | [Portal](http://dioatm.org) |
+| 4426 | Alipurduar Government Engineering and Management College | JALPAIGURI | WEST BENGAL | Public/Government | [Portal](https://ageamc.gov.in) |
+| 4427 | Ghani Khan Choudhury Institute of Engineering and Technology | MALDA | WEST BENGAL | Private | [Portal](http://ghanikhanchoudhury.org) |
+| 4428 | Bundwan Polytechnic | PURULIA | WEST BENGAL | Private | [Portal](http://bundwanpolytechnic.org) |
+| 4429 | Faculty of Technology, Uttar Banga Krishi Viswavidyalaya | COOCH BEHAR | WEST BENGAL | Private | [Portal](http://facultyoftechnology.org) |
+| 4430 | Aliah University | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://aliahuniversity.org) |
+
+
+### Batch 444 (Colleges 4431–4440)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4431 | International Institute of Management Sciences | HOWRAH | WEST BENGAL | Private | [Portal](http://iioms.org) |
+| 4432 | Siliguri Government Polytechnic | DARJEELING | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4433 | Jangipur Government Polytechnic | MURSHIDABAD | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4434 | Hooghly Engineering & Technology College | HOOGHLY | WEST BENGAL | Private | [Portal](http://hetc.org) |
+| 4435 | Nibedita Polytechnic | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://nibeditapolytechnic.org) |
+| 4436 | Discovery Institute of Polytechnic | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://diop.org) |
+| 4437 | Camellia Institute of Technology & Management | HOOGHLY | WEST BENGAL | Private | [Portal](http://ciotm.org) |
+| 4438 | Baghmundi Government Polytechnic | PURULIA | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4439 | Santiniketan Institute of Polytechnic | BIRBHUM | WEST BENGAL | Private | [Portal](http://siop.org) |
+| 4440 | North Calcutta Polytechnic | KOLKATA | WEST BENGAL | Private | [Portal](http://ncp.org) |
+
+
+### Batch 445 (Colleges 4441–4450)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4441 | Jld Engineering and Management College | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://jeamc.org) |
+| 4442 | Asansol Polytechnic | BARDHAMAN | WEST BENGAL | Private | [Portal](http://asansolpolytechnic.org) |
+| 4443 | Darjeeling Polytechnic | DARJEELING | WEST BENGAL | Private | [Portal](http://darjeelingpolytechnic.org) |
+| 4444 | Gobindapur Sephali Memorial Polytechnic | BARDHAMAN | WEST BENGAL | Private | [Portal](http://gsmp.org) |
+| 4445 | Nazrul Centenary Polytechnic | BARDHAMAN | WEST BENGAL | Private | [Portal](http://ncp.org) |
+| 4446 | Management Development Institute Murshidabad | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://mdim.org) |
+| 4447 | Baruipur Government Polytechnic | SOUTH 24 PARGANAS | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4448 | Netaji Subhash Engineering College | KOLKATA | WEST BENGAL | Private | [Portal](http://nsec.org) |
+| 4449 | Contai Polytechnic | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://contaipolytechnic.org) |
+| 4450 | Abs Academy of Polytechnic | BARDHAMAN | WEST BENGAL | Private | [Portal](http://aaop.org) |
+
+
+### Batch 446 (Colleges 4451–4460)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4451 | Swami Vivekananda School of Diploma | BARDHAMAN | WEST BENGAL | Private | [Portal](http://svsod.org) |
+| 4452 | Central Footwear Training Centre | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://cftc.org) |
+| 4453 | Diamond Harbour Government Polytechnic | SOUTH 24 PARGANAS | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4454 | Sidhu Kanhu Birsa Polytechnic | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://skbp.org) |
+| 4455 | Bankura Government Polytechnic | BANKURA | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4456 | Elitte College of Engiineering | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://ecoe.org) |
+| 4457 | Department of Business Management University of Calcutta | KOLKATA | WEST BENGAL | Private | [Portal](http://departmentofbusiness.org) |
+| 4458 | Ratua Satyendra Nath Bose Government Polytechnic | MALDA | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4459 | Sree Ramkrishna Silpa Vidyapith (Govt. Polytechnic) | BIRBHUM | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4460 | Ams College of Polytechnic | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://acop.org) |
+
+
+### Batch 447 (Colleges 4461–4470)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4461 | Jis School of Polytechnic | NADIA | WEST BENGAL | Private | [Portal](http://jsop.org) |
+| 4462 | Mirmadan Mohanlal Government Polytechnic | NADIA | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4463 | Camellia Institute of Polytechnic | BARDHAMAN | WEST BENGAL | Private | [Portal](http://ciop.org) |
+| 4464 | Maynaguri Government Polytechnic | JALPAIGURI | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4465 | Nalhati Government Polytechnic | BIRBHUM | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4466 | Camellia Institute of Technology | KOLKATA | WEST BENGAL | Private | [Portal](http://ciot.org) |
+| 4467 | Rcc Institute of Information Technology | KOLKATA | WEST BENGAL | Private | [Portal](http://rioit.org) |
+| 4468 | Scm Institute of Engineering and Technology | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://sioeat.org) |
+| 4469 | Tufanganj Government Polytechnic | COOCH BEHAR | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 4470 | Acharyya Prafulla Chandra Ray Polytechnic | KOLKATA | WEST BENGAL | Private | [Portal](http://apcrp.org) |
+
+
+### Batch 448 (Colleges 4471–4480)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4471 | Harasankar Bhattachaarya Institute of Technology & Mining | BARDHAMAN | WEST BENGAL | Private | [Portal](http://hbiotm.org) |
+| 4472 | Institute of Science & Technology | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://iost.org) |
+| 4473 | Global Institute of Science & Technology | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://giost.org) |
+| 4474 | Jalpaiguri Polytechnic Institute | JALPAIGURI | WEST BENGAL | Private | [Portal](http://jpi.org) |
+| 4475 | Kingston Polytechnic College | KOLKATA | WEST BENGAL | Private | [Portal](http://kpc.org) |
+| 4476 | Bcare Institute of Management & Technology (Polytechnic) | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://biomtp.org) |
+| 4477 | Regent Institute of Science and Technology | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://riosat.org) |
+| 4478 | Rajmati Parichand Bothra Memorial Jiaganj College of Engineering & Technology (Polytechnic) | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://rajmatiparichandbothra.org) |
+| 4479 | Technique Polytechnic Institute | HOOGHLY | WEST BENGAL | Private | [Portal](http://tpi.org) |
+| 4480 | Murarai Government Polytechnic | BIRBHUM | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+
+
+### Batch 449 (Colleges 4481–4490)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4481 | South Calcutta Polytechnic | KOLKATA | WEST BENGAL | Private | [Portal](http://scp.org) |
+| 4482 | Hooghly Institute of Technology | HOOGHLY | WEST BENGAL | Private | [Portal](http://hiot.org) |
+| 4483 | Siliguri Institute of Technology(Hmct) | DARJEELING | WEST BENGAL | Private | [Portal](http://siot.org) |
+| 4484 | University Science Instrumentation Centre | NADIA | WEST BENGAL | Private | [Portal](http://usic.org) |
+| 4485 | Gurunanak Institute of Hotel Management | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://giohm.org) |
+| 4486 | Techno Bengal Institute of Technology | KOLKATA | WEST BENGAL | Private | [Portal](http://tbiot.org) |
+| 4487 | Regent Education & Research Foundation Group of Institutions | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://regenteducationresearch.org) |
+| 4488 | Heritage Institute of Technology | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://hiot.org) |
+| 4489 | Mallabhum Institute of Technology | BANKURA | WEST BENGAL | Private | [Portal](http://miot.org) |
+| 4490 | Government. College of Engineering and Textile Technology, Berhampore | MURSHIDABAD | WEST BENGAL | Public/Government | [Portal](https://governmentcollegeof.gov.in) |
+
+
+### Batch 450 (Colleges 4491–4500)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4491 | Raiganj University | UTTER DINAJPUR | WEST BENGAL | Private | [Portal](http://raiganjuniversity.org) |
+| 4492 | University College of Science & Technology,Calcutta University) | KOLKATA | WEST BENGAL | Private | [Portal](http://ucostu.org) |
+| 4493 | Swami Vivekananda Institute of Science & Technology | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://sviost.org) |
+| 4494 | Pailan College of Management & Technology (MBA Division) | KOLKATA | WEST BENGAL | Private | [Portal](http://pailancollegeof.org) |
+| 4495 | Vidyasagar University | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://vidyasagaruniversity.org) |
+| 4496 | Meghnad Saha Institute of Technology | KOLKATA | WEST BENGAL | Private | [Portal](http://msiot.org) |
+| 4497 | The University of Burdwan: MBA(HR) Programme | BARDHAMAN | WEST BENGAL | Private | [Portal](http://tuobmp.org) |
+| 4498 | College of Engineering & Management, Kolaghat | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://coemk.org) |
+| 4499 | Bengal College of Engineering & Technology | BARDHAMAN | WEST BENGAL | Private | [Portal](http://bcoet.org) |
+| 4500 | Kalyani Government Engineering College | NADIA | WEST BENGAL | Public/Government | [Portal](https://kgec.gov.in) |
+
+
+### Batch 451 (Colleges 4501–4510)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4501 | Jalpaiguri Government Engineering College | JALPAIGURI | WEST BENGAL | Public/Government | [Portal](https://jgec.gov.in) |
+| 4502 | Dream Institute of Technology | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://diot.org) |
+| 4503 | Jis College of Engineering | NADIA | WEST BENGAL | Private | [Portal](http://jcoe.org) |
+| 4504 | Siliguri Institute of Technology(MCA) | DARJEELING | WEST BENGAL | Private | [Portal](http://siot.org) |
+| 4505 | North Bengal University | DARJEELING | WEST BENGAL | Private | [Portal](http://nbu.org) |
+| 4506 | Calcutta Institute of Technology | HOWRAH | WEST BENGAL | Private | [Portal](http://ciot.org) |
+| 4507 | Techno Main Salt Lake | KOLKATA | WEST BENGAL | Private | [Portal](http://tmsl.org) |
+| 4508 | Abacus Institute of Engineering and Management | HOOGHLY | WEST BENGAL | Private | [Portal](http://aioeam.org) |
+| 4509 | Institute of Business Management & Research | KOLKATA | WEST BENGAL | Private | [Portal](http://iobmr.org) |
+| 4510 | Bengal Institute of Technology and Management | BIRBHUM | WEST BENGAL | Private | [Portal](http://biotam.org) |
+
+
+### Batch 452 (Colleges 4511–4520)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4511 | Techno Institute of Engineering and Management | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://tioeam.org) |
+| 4512 | Calcutta Institute of Engineering and Management | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://cioeam.org) |
+| 4513 | Abs Academy of Science,Technology & Management | BARDHAMAN | WEST BENGAL | Private | [Portal](http://aaosm.org) |
+| 4514 | Swami Vivekananda Institute of Management & Computer Science | KOLKATA | WEST BENGAL | Private | [Portal](http://swamivivekanandainstitute.org) |
+| 4515 | Department of Management | DARJEELING | WEST BENGAL | Private | [Portal](http://dom.org) |
+| 4516 | University of Kalyani, Department of Computer Science and Engineering | NADIA | WEST BENGAL | Private | [Portal](http://universityofkalyani.org) |
+| 4517 | Department of Business Administration, University of Kalyani | NADIA | WEST BENGAL | Private | [Portal](http://departmentofbusiness.org) |
+| 4518 | B. P. Poddar Institute of Management & Technology | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://bppoddar.org) |
+| 4519 | Imps College of Engineering & Technology | MALDA | WEST BENGAL | Private | [Portal](http://icoet.org) |
+| 4520 | Pailan College of Management & Technology[b.tech Division] | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://pcomtd.org) |
+
+
+### Batch 453 (Colleges 4521–4530)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4521 | Dr. B.c. Roy Engineering College, Durgapur | BARDHAMAN | WEST BENGAL | Private | [Portal](http://dbrecd.org) |
+| 4522 | Birbhum Institute of Engineering & Technology | BIRBHUM | WEST BENGAL | Private | [Portal](http://bioet.org) |
+| 4523 | Kanad Institute of Engineering & Management | BARDHAMAN | WEST BENGAL | Private | [Portal](http://kioem.org) |
+| 4524 | Institute of Science and Technology | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://iosat.org) |
+| 4525 | Bhartiya Vidya Bhavan Institute of Management Science | KOLKATA | WEST BENGAL | Private | [Portal](http://bhartiyavidyabhavan.org) |
+| 4526 | Bankura Unnayani Institute of Engineering | BANKURA | WEST BENGAL | Private | [Portal](http://buioe.org) |
+| 4527 | Asansol Engineering College | BARDHAMAN | WEST BENGAL | Private | [Portal](http://aec.org) |
+| 4528 | Department of Business Administration, the University of Burdwan | BARDHAMAN | WEST BENGAL | Private | [Portal](http://departmentofbusiness.org) |
+| 4529 | Government. College of Engg. & Textile Technology,Serampore | HOOGHLY | WEST BENGAL | Public/Government | [Portal](https://gcoett.gov.in) |
+| 4530 | Greater Kolkata College of Engineering & Management | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://gkcoem.org) |
+
+
+### Batch 454 (Colleges 4531–4540)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4531 | Dr.sudhir Chandra Sur Institute of Technology and Sports Complex | KOLKATA | WEST BENGAL | Private | [Portal](http://drsudhirchandrasur.org) |
+| 4532 | Jadavpur University | KOLKATA | WEST BENGAL | Private | [Portal](http://jadavpuruniversity.org) |
+| 4533 | Techno International New Town | KOLKATA | WEST BENGAL | Private | [Portal](http://tint.org) |
+| 4534 | University Institute of Technology | BARDHAMAN | WEST BENGAL | Private | [Portal](http://uiot.org) |
+| 4535 | Future Institute of Engineering and Management | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://fioeam.org) |
+| 4536 | Government College of Engineering & Ceramic Technology | KOLKATA | WEST BENGAL | Public/Government | [Portal](https://gcoect.gov.in) |
+| 4537 | Modern Institute of Engineering & Technology | HOOGHLY | WEST BENGAL | Private | [Portal](http://mioet.org) |
+| 4538 | Seacom Engineering College | KOLKATA | WEST BENGAL | Private | [Portal](http://sec.org) |
+| 4539 | Supreme Knowledge Foundation Group of Institutions | HOOGHLY | WEST BENGAL | Private | [Portal](http://skfgoi.org) |
+| 4540 | Indian Institute of Social Welfare and Business Management | KOLKATA | WEST BENGAL | Public/Government | [Portal](https://indianinstituteof.gov.in) |
+
+
+### Batch 455 (Colleges 4541–4550)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4541 | Dumkal Institute of Engineering & Technology | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://dioet.org) |
+| 4542 | Techno College Hooghly | HOOGHLY | WEST BENGAL | Private | [Portal](http://tch.org) |
+| 4543 | Camellia School of Engineering & Technology | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://csoet.org) |
+| 4544 | Aryabhatta Institute of Engineering & Management Durgapur | BARDHAMAN | WEST BENGAL | Private | [Portal](http://aioemd.org) |
+| 4545 | Siliguri Institute of Technology | DARJEELING | WEST BENGAL | Private | [Portal](http://siot.org) |
+| 4546 | Midnapore City College | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://mcc.org) |
+| 4547 | Contai College of Learning and Management Science | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://contaicollegeof.org) |
+| 4548 | Eminent College of Management and Technology | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://ecomat.org) |
+| 4549 | Dinabandhu Andrews Institute of Technology and Management | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://dinabandhuandrewsinstitute.org) |
+| 4550 | Institute of Hotel and Restaurant Management | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://ioharm.org) |
+
+
+### Batch 456 (Colleges 4551–4560)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4551 | Deshabandhu Mahavidyalaya | BARDHAMAN | WEST BENGAL | Private | [Portal](http://deshabandhumahavidyalaya.org) |
+| 4552 | Institute of Management Study | KOLKATA | WEST BENGAL | Private | [Portal](http://ioms.org) |
+| 4553 | George College | KOLKATA | WEST BENGAL | Private | [Portal](http://georgecollege.org) |
+| 4554 | Management Institute of Durgapur | BARDHAMAN | WEST BENGAL | Private | [Portal](http://miod.org) |
+| 4555 | Kingston School of Management and Science | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://ksomas.org) |
+| 4556 | Nshm College of Management and Technology Kolkata | KOLKATA | WEST BENGAL | Private | [Portal](http://nshmcollegeof.org) |
+| 4557 | Bengal Instiute of Science and Technology | PURULIA | WEST BENGAL | Private | [Portal](http://biosat.org) |
+| 4558 | Bengal School of Technology and Management | HOOGHLY | WEST BENGAL | Private | [Portal](http://bsotam.org) |
+| 4559 | Global Group of Institutions | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://ggoi.org) |
+| 4560 | Durgapur Institute of Management and Science Formerly Known AS Bengal College of Engineering and Technology | BARDHAMAN | WEST BENGAL | Private | [Portal](http://durgapurinstituteof.org) |
+
+
+### Batch 457 (Colleges 4561–4570)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4561 | Tamralipta Institute of Management and Technology | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://tiomat.org) |
+| 4562 | Prajnanananda Institute of Technology and Management | KOLKATA | WEST BENGAL | Private | [Portal](http://piotam.org) |
+| 4563 | JT Educational Trust | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://jet.org) |
+| 4564 | Calcutta Institute of Science and Management | KOLKATA | WEST BENGAL | Private | [Portal](http://ciosam.org) |
+| 4565 | Haldia Institute of Management | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://hiom.org) |
+| 4566 | St. Xavier's College Burdwan | BARDHAMAN | WEST BENGAL | Private | [Portal](http://sxcb.org) |
+| 4567 | Seacom Management College | HOWRAH | WEST BENGAL | Private | [Portal](http://smc.org) |
+| 4568 | Inspiria Knowledge Campus | DARJEELING | WEST BENGAL | Private | [Portal](http://ikc.org) |
+| 4569 | Institute of Advance Education and Research | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://ioaear.org) |
+| 4570 | Nopany Institute of Management Studies | KOLKATA | WEST BENGAL | Private | [Portal](http://nioms.org) |
+
+
+### Batch 458 (Colleges 4571–4580)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4571 | B P Poddar Institute of Management and Technology Salt Lake | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://bppoddar.org) |
+| 4572 | The Heritage Academy | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://tha.org) |
+| 4573 | Nimas | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://nimas.org) |
+| 4574 | Dr. B. C. Roy Academy of Professional | BARDHAMAN | WEST BENGAL | Private | [Portal](http://drbc.org) |
+| 4575 | Paramedical College Durgapur | BARDHAMAN | WEST BENGAL | Private | [Portal](http://pcd.org) |
+| 4576 | Institute of Leadership Entrepreneurship and Development | KOLKATA | WEST BENGAL | Private | [Portal](http://iolead.org) |
+| 4577 | College of Science and Management Formerly Dumkal Institute of Engineering and Technology | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://collegeofscience.org) |
+| 4578 | Gurukul Management Studies | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://gms.org) |
+| 4579 | Iias School of Management Siliguri | DARJEELING | WEST BENGAL | Private | [Portal](http://isoms.org) |
+| 4580 | Syamaprasad Institute of Technology and Management | KOLKATA | WEST BENGAL | Private | [Portal](http://siotam.org) |
+
+
+### Batch 459 (Colleges 4581–4590)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4581 | Sbihm School of Management | KOLKATA | WEST BENGAL | Private | [Portal](http://ssom.org) |
+| 4582 | Kotibarsha Institute of Technology and Management | DAKSHIN DINAJPUR | WEST BENGAL | Private | [Portal](http://kiotam.org) |
+| 4583 | Nshm College of Management and Technology | BARDHAMAN | WEST BENGAL | Private | [Portal](http://ncomat.org) |
+| 4584 | The Bhawanipur Education Society College | KOLKATA | WEST BENGAL | Private | [Portal](http://tbesc.org) |
+| 4585 | The Calcutta Anglo Gujarati College | KOLKATA | WEST BENGAL | Private | [Portal](http://tcagc.org) |
+| 4586 | Institute of Computer and Information Sciences | BANKURA | WEST BENGAL | Private | [Portal](http://iocais.org) |
+| 4587 | Supreme Institute of Management and Technology | HOOGHLY | WEST BENGAL | Private | [Portal](http://siomat.org) |
+| 4588 | George College of Management and Science | KOLKATA | WEST BENGAL | Private | [Portal](http://gcomas.org) |
+| 4589 | Institute of Science and Technology Management | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://iosatm.org) |
+| 4590 | Swami Vivekananda Institute of Modern Studies | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://svioms.org) |
+
+
+### Batch 460 (Colleges 4591–4600)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4591 | Shree Agrasain College | HOWRAH | WEST BENGAL | Private | [Portal](http://sac.org) |
+| 4592 | Kanyashree College | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://kanyashreecollege.org) |
+| 4593 | Techno India | KOLKATA | WEST BENGAL | Private | [Portal](http://technoindia.org) |
+| 4594 | Scottish Church College | KOLKATA | WEST BENGAL | Private | [Portal](http://scc.org) |
+| 4595 | Dooars Academy of Technology and Management | JALPAIGURI | WEST BENGAL | Private | [Portal](http://daotam.org) |
+| 4596 | Rockvale Management College | DARJEELING | WEST BENGAL | Private | [Portal](http://rmc.org) |
+| 4597 | Tara Devi Harakh Chand Kankaria Jain College | KOLKATA | WEST BENGAL | Private | [Portal](http://taradeviharakh.org) |
+| 4598 | Murshidabad College of Engineering and Technology | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://mcoeat.org) |
+| 4599 | Advanced Information and Management Studies | BARDHAMAN | WEST BENGAL | Private | [Portal](http://aiams.org) |
+| 4600 | Dsms College of Tourism and Management | BARDHAMAN | WEST BENGAL | Private | [Portal](http://dcotam.org) |
+
+
+### Batch 461 (Colleges 4601–4610)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4601 | Institute of Advance Education and Research Iaer | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://instituteofadvance.org) |
+| 4602 | Bidhan Chandra College | BARDHAMAN | WEST BENGAL | Private | [Portal](http://bcc.org) |
+| 4603 | Abs Academy of Management and Health Science | BARDHAMAN | WEST BENGAL | Private | [Portal](http://absacademyof.org) |
+| 4604 | Burdwan Institute of Management and Computer Science | BARDHAMAN | WEST BENGAL | Private | [Portal](http://burdwaninstituteof.org) |
+| 4605 | School of International Business and Sciences | BARDHAMAN | WEST BENGAL | Private | [Portal](http://soibas.org) |
+| 4606 | Cluny Women's College | DARJEELING | WEST BENGAL | Private | [Portal](http://cwc.org) |
+| 4607 | J.d. Birla Institute | KOLKATA | WEST BENGAL | Private | [Portal](http://jbi.org) |
+| 4608 | Raniganj Institute of Information Techonology | BARDHAMAN | WEST BENGAL | Private | [Portal](http://rioit.org) |
+| 4609 | Kharagpur College | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://kharagpurcollege.org) |
+| 4610 | Salesian College | DARJEELING | WEST BENGAL | Private | [Portal](http://salesiancollege.org) |
+
+
+### Batch 462 (Colleges 4611–4620)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4611 | Debra Thana Sahid Kshudiram Smriti Mahavidyalaya | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://dtsksm.org) |
+| 4612 | Midnapore College | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://midnaporecollege.org) |
+| 4613 | Raniganj Institute of Computer and Information Science | BARDHAMAN | WEST BENGAL | Private | [Portal](http://raniganjinstituteof.org) |
+| 4614 | Silda Chandrasekhar College | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://scc.org) |
+| 4615 | IQ City United World School of Business | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://iqcityunited.org) |
+| 4616 | Garhbeta College | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://garhbetacollege.org) |
+| 4617 | Michael Madhusudan Memorial College | BARDHAMAN | WEST BENGAL | Private | [Portal](http://mmmc.org) |
+| 4618 | Raja Narendralal Khan Womens College Autonomous | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://rnkwca.org) |
+| 4619 | Belda College | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://beldacollege.org) |
+| 4620 | Berhampore Science and Management College | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://bsamc.org) |
+
+
+### Batch 463 (Colleges 4621–4630)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4621 | Asansol Girls College | BARDHAMAN | WEST BENGAL | Private | [Portal](http://agc.org) |
+| 4622 | Eastern Institute for Integrated Learning in Management | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://easterninstitutefor.org) |
+| 4623 | Global Institute of Science and Technology | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://giosat.org) |
+| 4624 | Hijli College | PASCHIM MEDINIPUR | WEST BENGAL | Private | [Portal](http://hijlicollege.org) |
+| 4625 | Kalpana Institute of Management and Computer Science | BARDHAMAN | WEST BENGAL | Private | [Portal](http://kalpanainstituteof.org) |
+| 4626 | Global College of Science and Technology | NADIA | WEST BENGAL | Private | [Portal](http://gcosat.org) |
+| 4627 | Cyber Research and Training Institute | BARDHAMAN | WEST BENGAL | Private | [Portal](http://crati.org) |
+| 4628 | Trivenidevi Bhalotia College | BARDHAMAN | WEST BENGAL | Private | [Portal](http://tbc.org) |
+| 4629 | International Management and Analytics School Kolkata | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://imaask.org) |
+| 4630 | Dmbh Institute of Management Studies | HOOGHLY | WEST BENGAL | Private | [Portal](http://dioms.org) |
+
+
+### Batch 464 (Colleges 4631–4640)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4631 | Pailan College of Management and Technology | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://pcomat.org) |
+| 4632 | Disha Institute of Polytechnic | BANKURA | WEST BENGAL | Private | [Portal](http://diop.org) |
+| 4633 | Dolphin School of Hotel Management | NADIA | WEST BENGAL | Private | [Portal](http://dsohm.org) |
+| 4634 | Darjeeling Hill Institute of Technology and Management | DARJEELING | WEST BENGAL | Private | [Portal](http://darjeelinghillinstitute.org) |
+| 4635 | Future Business School | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://fbs.org) |
+| 4636 | Bandhan School of Business | BIRBHUM | WEST BENGAL | Private | [Portal](http://bsob.org) |
+| 4637 | Falcon Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://fdc.org) |
+| 4638 | Gdj Degree College | BELGAUM | KARNATAKA | Private | [Portal](http://gdc.org) |
+| 4639 | Visvesvaraya Technological University Centre for Post Graduate Studies Mysuru | BELGAUM | KARNATAKA | Private | [Portal](http://visvesvarayatechnologicaluniversity.org) |
+| 4640 | Vidhya Shekhar Institution of Management Studies | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://vsioms.org) |
+
+
+### Batch 465 (Colleges 4641–4650)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4641 | Izee Business School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ibs.org) |
+| 4642 | Visvesvaraya Technological University | GULBARGA | KARNATAKA | Private | [Portal](http://vtu.org) |
+| 4643 | Bangalore Integrated Management Academy | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bima.org) |
+| 4644 | Manipal Academy of Higher Education | UDUPI | KARNATAKA | Private | [Portal](http://maohe.org) |
+| 4645 | Government Tool Room and Training Centre Magadi | RAMANAGARA | KARNATAKA | Public/Government | [Portal](https://governmenttoolroom.gov.in) |
+| 4646 | Karnataka Handloom Technology Institute | GADAG | KARNATAKA | Private | [Portal](http://khti.org) |
+| 4647 | Dayananda Sagar University | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dsu.org) |
+| 4648 | Visvesvaraya Technological University Centre for Post Graduate Studies Muddenahalli | BELGAUM | KARNATAKA | Private | [Portal](http://visvesvarayatechnologicaluniversity.org) |
+| 4649 | Koshys Institute of Hotel Management | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://kiohm.org) |
+| 4650 | Government Tool Room and Traininig Centre Devanahalli | BANGALORE RURAL | KARNATAKA | Public/Government | [Portal](https://governmenttoolroom.gov.in) |
+
+
+### Batch 466 (Colleges 4651–4660)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4651 | Bangalore Institute of Management Science and Research | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bangaloreinstituteof.org) |
+| 4652 | Government Polytechnic Holealur | GADAG | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4653 | Rathinam School of Business | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rsob.org) |
+| 4654 | ST Philomena's College | MYSORE | KARNATAKA | Private | [Portal](http://spc.org) |
+| 4655 | St. Claret College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://scc.org) |
+| 4656 | Jain Deemed to BE University School of Computer Applications and IT | BANGALORE URBAN | KARNATAKA | Private (Deemed to be University) | [Portal](http://jaindeemedto.org) |
+| 4657 | Government Polytechnic Basavan Bagewadi | BIJAPUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4658 | St. Francis College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sfc.org) |
+| 4659 | Imperial Institute of Advanced Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iioam.org) |
+| 4660 | Sampoorna Group of Institutions | RAMANAGARA | KARNATAKA | Private | [Portal](http://sgoi.org) |
+
+
+### Batch 467 (Colleges 4661–4670)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4661 | Canara Bank School of Management Studies J.b. Campus | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://canarabankschool.org) |
+| 4662 | Koshys Institute of Management Studies | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://kioms.org) |
+| 4663 | Reva University | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://revauniversity.org) |
+| 4664 | Jain Deemed to BE University Faculty of Management Studies | BANGALORE URBAN | KARNATAKA | Private (Deemed to be University) | [Portal](http://jaindeemedto.org) |
+| 4665 | Government Polytechnic Mosalehosahalli | HASSAN | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4666 | Canarabank School of Management Studies Bcu Campus | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://canarabankschoolof.org) |
+| 4667 | Government Tool Room and Training Centre Udupi | UDUPI | KARNATAKA | Public/Government | [Portal](https://governmenttoolroom.gov.in) |
+| 4668 | Goverment Engineering College Gangavathi | KOPPAL | KARNATAKA | Private | [Portal](http://gecg.org) |
+| 4669 | Bangalore Technological Institute | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bti.org) |
+| 4670 | Sindhi Instiute of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://siom.org) |
+
+
+### Batch 468 (Colleges 4671–4680)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4671 | Regional College of Management Bangalore | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://rcomb.org) |
+| 4672 | Yuvaraja's College (Autonomous), University of Mysore | MYSORE | KARNATAKA | Private | [Portal](http://ycauom.org) |
+| 4673 | Sri Krishna International Business School (Skibs - B School) | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://srikrishnainternational.org) |
+| 4674 | Shri Madhwa Vadiraja Institute of Technology and Management | UDUPI | KARNATAKA | Private | [Portal](http://shrimadhwavadiraja.org) |
+| 4675 | International Institute of Business Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iiobs.org) |
+| 4676 | Isbr Business School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ibs.org) |
+| 4677 | Nsb Academy | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://nsbacademy.org) |
+| 4678 | Sarang Institute of Polytechnic | TUMKUR | KARNATAKA | Private | [Portal](http://siop.org) |
+| 4679 | Krupanidhi College of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kcom.org) |
+| 4680 | Dr. Ambedkar Institute of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://daioms.org) |
+
+
+### Batch 469 (Colleges 4681–4690)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4681 | Hal Management Academy | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hma.org) |
+| 4682 | A. J. Institute of Engineering and Technology Mangaluru | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://ajinstitute.org) |
+| 4683 | Sri Gokula College of Arts, Science and Management Studies | KOLAR | KARNATAKA | Private | [Portal](http://srigokulacollege.org) |
+| 4684 | Dr. B R Ambedkar Post Graduate Centre | CHAMARAJNAGAR | KARNATAKA | Private | [Portal](http://drbr.org) |
+| 4685 | Bgs B-School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bgsbschool.org) |
+| 4686 | Government Polytechnic Channagiri | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4687 | Government Polytechnic Sadalga | BELGAUM | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4688 | St. Agnes College Autonomous | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://saca.org) |
+| 4689 | Government Polytechnic Malavalli | MANDYA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4690 | Government Polytechnic Kollegal | CHAMARAJNAGAR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+
+
+### Batch 470 (Colleges 4691–4700)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4691 | Government Polytechnic Kadur | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4692 | Government Polytechnic Hoovinahadagali | BELLARY | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4693 | Vsm's Somashekhar R. Kothiwale Institute of Technology Nipani | BELGAUM | KARNATAKA | Private | [Portal](http://vsmssomashekharr.org) |
+| 4694 | Primus School of Management Studies | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://psoms.org) |
+| 4695 | Sharnbasva University | GULBARGA | KARNATAKA | Private | [Portal](http://sharnbasvauniversity.org) |
+| 4696 | Seshadripuram College Tumakuru | TUMKUR | KARNATAKA | Private | [Portal](http://sct.org) |
+| 4697 | Isbr College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://isbrcollege.org) |
+| 4698 | M. S. Ramaiah University of Applied Sciences | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://msramaiah.org) |
+| 4699 | Sea College of Science Commerce and Arts | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://seacollegeof.org) |
+| 4700 | Srinivas University Institute of Engineering & Technology | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://suioet.org) |
+
+
+### Batch 471 (Colleges 4701–4710)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4701 | Global Institute of Business Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://giobs.org) |
+| 4702 | Visvesvaraya Technological University Department of PG Studies | BELGAUM | KARNATAKA | Private | [Portal](http://visvesvarayatechnologicaluniversity.org) |
+| 4703 | Government Engineering College Talakal | KOPPAL | KARNATAKA | Public/Government | [Portal](https://gect.gov.in) |
+| 4704 | Jain College of Engineering & Technology | DHARWAD | KARNATAKA | Private | [Portal](http://jcoet.org) |
+| 4705 | RV Institute of Technology and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://riotam.org) |
+| 4706 | Kle Technological University | DHARWAD | KARNATAKA | Private | [Portal](http://ktu.org) |
+| 4707 | Patel Institute of Science and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://piosam.org) |
+| 4708 | Jain College of Engineering | BELGAUM | KARNATAKA | Private | [Portal](http://jcoe.org) |
+| 4709 | Christ Deemed to BE University Kengeri Campus | BANGALORE URBAN | KARNATAKA | Private (Deemed to be University) | [Portal](http://christdeemedto.org) |
+| 4710 | Christ Deemed to BE University Bannerghatta Road Campus | BANGALORE URBAN | KARNATAKA | Private (Deemed to be University) | [Portal](http://christdeemedto.org) |
+
+
+### Batch 472 (Colleges 4711–4720)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4711 | Ifim College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ifimcollege.org) |
+| 4712 | Jss Academy of Higher Education and Research | MYSORE | KARNATAKA | Private | [Portal](http://jssacademyof.org) |
+| 4713 | Institute of Health Management Research, Bangalore | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://iohmrb.org) |
+| 4714 | Kirloskar Institute of Management | DAVANAGERE | KARNATAKA | Private | [Portal](http://kiom.org) |
+| 4715 | Svkm's Narsee Monjee Institute of Management Studies, School of Business Managemnet, Bangalore Campus | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://svkmsnarseemonjee.org) |
+| 4716 | International Institute of Information Technology Bangalore | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iioitb.org) |
+| 4717 | Presidency University | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://presidencyuniversity.org) |
+| 4718 | Svr College of Commerce and Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://svrcollegeof.org) |
+| 4719 | Indus Business Academy | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://iba.org) |
+| 4720 | K.s. School of Engineering and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ksoeam.org) |
+
+
+### Batch 473 (Colleges 4721–4730)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4721 | Karnataka German Technical Training Institute | GULBARGA | KARNATAKA | Private | [Portal](http://kgtti.org) |
+| 4722 | Ramaiah Institute of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rioms.org) |
+| 4723 | Nagarjuna College of Management Studies | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://ncoms.org) |
+| 4724 | Government Tool Room and Training Centre Koppal | KOPPAL | KARNATAKA | Public/Government | [Portal](https://governmenttoolroom.gov.in) |
+| 4725 | Christian Institute of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ciom.org) |
+| 4726 | Dhanwantari Academy for Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dafms.org) |
+| 4727 | Government Polytechnic Kaup | UDUPI | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4728 | Bgs College of Engineering and Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bcoeat.org) |
+| 4729 | Harsha Institute of Management Studies | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://hioms.org) |
+| 4730 | Yenepoya Deemed to BE University | DAKSHINA KANNADA | KARNATAKA | Private (Deemed to be University) | [Portal](http://ydtbu.org) |
+
+
+### Batch 474 (Colleges 4731–4740)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4731 | Government Polytechnic Gunnal | KOPPAL | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4732 | Government Polytechnic Haliyal | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4733 | Jain Deemed to BE University Faculty of Engineering and Technology | RAMANAGARA | KARNATAKA | Private (Deemed to be University) | [Portal](http://jaindeemedto.org) |
+| 4734 | Government Engineering College Naragund | GADAG | KARNATAKA | Public/Government | [Portal](https://gecn.gov.in) |
+| 4735 | Government Engineering College Challakere | CHITRADURGA | KARNATAKA | Public/Government | [Portal](https://gecc.gov.in) |
+| 4736 | Jss Science and Technology University | MYSORE | KARNATAKA | Private | [Portal](http://jsatu.org) |
+| 4737 | Government Polytechnic Kamadolli | DHARWAD | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4738 | Basav Engineering School of Technology | BIJAPUR | KARNATAKA | Private | [Portal](http://besot.org) |
+| 4739 | Nsb World Business School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://nwbs.org) |
+| 4740 | Government Polytechnic Arkera | RAICHUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+
+
+### Batch 475 (Colleges 4741–4750)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4741 | International Academy of Management and Entrepreneurship | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iaomae.org) |
+| 4742 | Christ Deemed to BE University Main Campus | BANGALORE URBAN | KARNATAKA | Private (Deemed to be University) | [Portal](http://christdeemedto.org) |
+| 4743 | Regional College of Management and Entrepreneurship | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://rcomae.org) |
+| 4744 | International Institute of Business Study | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iiobs.org) |
+| 4745 | Krupanidhi School of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ksom.org) |
+| 4746 | Lingarajappa Engineering College | BIDAR | KARNATAKA | Private | [Portal](http://lec.org) |
+| 4747 | Christ Academy Institute for Advanced Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://caifas.org) |
+| 4748 | Department of PG Studies and Research in Computer Science | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://departmentofpg.org) |
+| 4749 | Gandhi Institute of Technology and Management Gitam Off Campus Bengaluru | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://gandhiinstituteof.org) |
+| 4750 | Impact Institute of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iioms.org) |
+
+
+### Batch 476 (Colleges 4751–4760)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4751 | Government Tool Room and Training Centre Gowribidanur | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://governmenttoolroom.gov.in) |
+| 4752 | Nitte School of Architecture Planning & Design | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://nsoapd.org) |
+| 4753 | Gopalan College of Engineering and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gcoeam.org) |
+| 4754 | Mqi College of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mcom.org) |
+| 4755 | R.l.jalappa Polytechnic | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://rljalappapolytechnic.org) |
+| 4756 | MBA Department Tumkur University | TUMKUR | KARNATAKA | Private | [Portal](http://mdtu.org) |
+| 4757 | Chetan Business School Institute of Management & Research | DHARWAD | KARNATAKA | Private | [Portal](http://chetanbusinessschool.org) |
+| 4758 | Government. Tool Room and Training Centre, Chikodi | BELGAUM | KARNATAKA | Public/Government | [Portal](https://governmenttoolroom.gov.in) |
+| 4759 | Atme College of Engineering | MYSORE | KARNATAKA | Private | [Portal](http://acoe.org) |
+| 4760 | Acharya Institute of Graduate Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aiogs.org) |
+
+
+### Batch 477 (Colleges 4761–4770)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4761 | Nagarjuna Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ndc.org) |
+| 4762 | Government Polytechnic Gauribidanuru | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4763 | Jss College of Arts Commerce and Science | MYSORE | KARNATAKA | Private | [Portal](http://jsscollegeof.org) |
+| 4764 | Bangalore Management Institute | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bmi.org) |
+| 4765 | Bgs Institute of Hotel Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://biohm.org) |
+| 4766 | Soundarya Institute of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://siomas.org) |
+| 4767 | Government Engineering College Bidar | BIDAR | KARNATAKA | Public/Government | [Portal](https://gecb.gov.in) |
+| 4768 | Government Polytechnic Holalkere | CHITRADURGA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4769 | Shri Kengappa Nayaka Government Polytechnic, Daginakatte | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4770 | Amrita Vishwa Vidyapeetham Bengaluru Campus | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://avvbc.org) |
+
+
+### Batch 478 (Colleges 4771–4780)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4771 | S-Vyasa Deemed to BE University(School of Advanced Studies) | BANGALORE URBAN | KARNATAKA | Private (Deemed to be University) | [Portal](http://svyasadeemedto.org) |
+| 4772 | Shetty Institute of Technology | GULBARGA | KARNATAKA | Private | [Portal](http://siot.org) |
+| 4773 | Tmaes Sir M Visvesvaraya Polytechnic | BELLARY | KARNATAKA | Private | [Portal](http://tsmvp.org) |
+| 4774 | Sri Siddhartha Polytechnic 546 | KOLAR | KARNATAKA | Private | [Portal](http://ssp5.org) |
+| 4775 | Dayananda Sagar Institute of Technology (Polytechnic) | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dsiotp.org) |
+| 4776 | Government Polytechnic, Nagamangala | MANDYA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4777 | Government Polytechnic Kushtagi | KOPPAL | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4778 | Kempegowda Memorial Polytechnic | TUMKUR | KARNATAKA | Private | [Portal](http://kmp.org) |
+| 4779 | Govenment Tool Room and Trainig Centre- Hospet | BELLARY | KARNATAKA | Private | [Portal](http://govenmenttoolroom.org) |
+| 4780 | Government Polytechnic, Afzalpur | GULBARGA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+
+
+### Batch 479 (Colleges 4781–4790)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4781 | School of Mines | KOLAR | KARNATAKA | Private | [Portal](http://som.org) |
+| 4782 | Government GR Institute of Commercial Practice | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://ggiocp.gov.in) |
+| 4783 | K.l.e. Society`s Chidanand B. Kore Polytechnic, Chikodi | BELGAUM | KARNATAKA | Private | [Portal](http://klesocietyschidanand.org) |
+| 4784 | Acharya Institute of Management and Sciences | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aiomas.org) |
+| 4785 | The Oxford Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://top.org) |
+| 4786 | Vget's Dr.g S M Rural Polytechnic | KOPPAL | KARNATAKA | Private | [Portal](http://vdsmrp.org) |
+| 4787 | Sai Krish Polytechnic | KOLAR | KARNATAKA | Private | [Portal](http://skp.org) |
+| 4788 | Hke Society's Women's Polytechnic Gulbarga | GULBARGA | KARNATAKA | Private | [Portal](http://hswpg.org) |
+| 4789 | East West Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ewp.org) |
+| 4790 | Vasavi Jnana Peetha Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vjpp.org) |
+
+
+### Batch 480 (Colleges 4791–4800)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4791 | Government Residential Polytechnic for Women | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4792 | S J M Polytechnic | CHITRADURGA | KARNATAKA | Private | [Portal](http://sjmp.org) |
+| 4793 | Sahyadri Polytechnic | SHIMOGA | KARNATAKA | Private | [Portal](http://sahyadripolytechnic.org) |
+| 4794 | Sri Siddhartha Academy of Higher Education Agalkote | TUMKUR | KARNATAKA | Private | [Portal](http://srisiddharthaacademy.org) |
+| 4795 | Government Tool Room and Training Centre - Humnabad | BIDAR | KARNATAKA | Public/Government | [Portal](https://governmenttoolroom.gov.in) |
+| 4796 | Government.polytechnic,Bagalkot | BAGALKOT | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4797 | Karnataka Institute of Leather & Fashion Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kiolft.org) |
+| 4798 | Aryabharathi Polytechnic | TUMKUR | KARNATAKA | Private | [Portal](http://aryabharathipolytechnic.org) |
+| 4799 | M.s.m.s Rural Polytechnic, Marali | KOPPAL | KARNATAKA | Private | [Portal](http://mrpm.org) |
+| 4800 | Government Polytechnic Gadag | GADAG | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+
+
+### Batch 481 (Colleges 4801–4810)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4801 | Shridevi Polytechnic | TUMKUR | KARNATAKA | Private | [Portal](http://shridevipolytechnic.org) |
+| 4802 | Government Polytechnic Gajendragad | GADAG | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4803 | Government Polytechnic,Turuvekere | TUMKUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4804 | Impact Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://impactpolytechnic.org) |
+| 4805 | Jagdish Sheth School of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jssom.org) |
+| 4806 | Pes Institute of Technology & Management | SHIMOGA | KARNATAKA | Private | [Portal](http://piotm.org) |
+| 4807 | Sahakari Vidya Kendra Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://svkp.org) |
+| 4808 | Shri Manikrao Patil Rural Polytechnic Aided | BIDAR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4809 | Nutan Vidyalaya Society's Polytechnic | GULBARGA | KARNATAKA | Private | [Portal](http://nvsp.org) |
+| 4810 | Amc College (Administrative Management College) | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://acamc.org) |
+
+
+### Batch 482 (Colleges 4811–4820)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4811 | N.r.a.m.polytechnic | UDUPI | KARNATAKA | Private | [Portal](http://nrampolytechnic.org) |
+| 4812 | Government Cpc Polytechnic | MYSORE | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4813 | Government Tool Room and Trining Centre-Dandeli | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gtratc.gov.in) |
+| 4814 | Government Tool Room & Training Centre - Kanakapura | RAMANAGARA | KARNATAKA | Public/Government | [Portal](https://gtrtck.gov.in) |
+| 4815 | R R Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rrp.org) |
+| 4816 | Jss Polytechnic for Women | MYSORE | KARNATAKA | Private | [Portal](http://jpfw.org) |
+| 4817 | Government Polytechnic Harapanahalli | VIJAYANAGARA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4818 | Government Polytechnic Rabakavibanahatti | BAGALKOT | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4819 | Government Tool Room and Training Centre-Hubli | DHARWAD | KARNATAKA | Public/Government | [Portal](https://gtratc.gov.in) |
+| 4820 | S.f.s.shikshan Samiti's Visweswaraiah Polytechnic,Nargund | GADAG | KARNATAKA | Private | [Portal](http://ssvp.org) |
+
+
+### Batch 483 (Colleges 4821–4830)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4821 | Jyothy Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jiot.org) |
+| 4822 | P.v.p Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://pvppolytechnic.org) |
+| 4823 | M.e.i. Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://meipolytechnic.org) |
+| 4824 | Cauvery Institute of Technology | MANDYA | KARNATAKA | Private | [Portal](http://ciot.org) |
+| 4825 | Government Polytechnic Bellary | BELLARY | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4826 | A.g.m.rural Polytechnic | DHARWAD | KARNATAKA | Private | [Portal](http://agmruralpolytechnic.org) |
+| 4827 | B.l.d.e Association's Shree Sanganabasava Mahaswamiji Polytechnic, Vijayapur | BIJAPUR | KARNATAKA | Private | [Portal](http://bldeassociationsshree.org) |
+| 4828 | K.c.t. Polytechnic (Aided), Gulbarga | GULBARGA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4829 | Btl Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://btlpolytechnic.org) |
+| 4830 | Nivedita Polytechnic Yadgir | YADGIR | KARNATAKA | Private | [Portal](http://npy.org) |
+
+
+### Batch 484 (Colleges 4831–4840)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4831 | Governement Tool Room & Training Centre -Gundlupet | CHAMARAJNAGAR | KARNATAKA | Private | [Portal](http://gtrtcg.org) |
+| 4832 | Raibag Polytechnic Raibag | BELGAUM | KARNATAKA | Private | [Portal](http://rpr.org) |
+| 4833 | Government. Toolroom and Training Centre,Mysore | MYSORE | KARNATAKA | Public/Government | [Portal](https://gtatc.gov.in) |
+| 4834 | Bapuji Polytechnic,Shabanur ( Govt.aided) | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4835 | Nadgir Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://nadgirpolytechnic.org) |
+| 4836 | M. S. Ramaiah Institute of Technology-MCA | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://msriot.org) |
+| 4837 | Government.polytechnic Joida | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4838 | Government Polytechnic Gulbarga | GULBARGA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4839 | Bgs Institute of Technology | MANDYA | KARNATAKA | Private | [Portal](http://biot.org) |
+| 4840 | S.j. Govt. Polytechnic | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+
+
+### Batch 485 (Colleges 4841–4850)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4841 | Department of Management Studies, Bellary Center | BELLARY | KARNATAKA | Private | [Portal](http://domsbc.org) |
+| 4842 | Government Polytechnic, Channapatna | RAMANAGARA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4843 | Government.polytechnic Koppal | KOPPAL | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4844 | N.e.s.polytechnic | GULBARGA | KARNATAKA | Private | [Portal](http://nespolytechnic.org) |
+| 4845 | Government Polytechnic, Beluru | HASSAN | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4846 | Sree Siddarameshwara Polytechnic | TUMKUR | KARNATAKA | Private | [Portal](http://ssp.org) |
+| 4847 | Government Polytechnic Bilagi | BAGALKOT | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4848 | East West College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ewcoe.org) |
+| 4849 | Government S. K. S. J. T. Institute | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://governmentsk.gov.in) |
+| 4850 | R.m Polytechnic | GULBARGA | KARNATAKA | Private | [Portal](http://rmpolytechnic.org) |
+
+
+### Batch 486 (Colleges 4851–4860)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4851 | Sri Gurumalleshwara Mahavidya Samsthe Polytechnic | MYSORE | KARNATAKA | Private | [Portal](http://sgmsp.org) |
+| 4852 | Government Polytechnic, Harihara | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4853 | Adichunchanagiri Polytechnic | CHIKMAGALUR | KARNATAKA | Private | [Portal](http://adichunchanagiripolytechnic.org) |
+| 4854 | Government Polytechnic, Karatagi | KOPPAL | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4855 | Dacg Government Polytechnic | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4856 | Community Institute of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://cioms.org) |
+| 4857 | I.r.polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://irpolytechnic.org) |
+| 4858 | Government Polytechnic, Bidar | BIDAR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4859 | S.e.s.polytechnic(Govt Aided) | BELLARY | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4860 | Pes Polytechnic | SHIMOGA | KARNATAKA | Private | [Portal](http://pespolytechnic.org) |
+
+
+### Batch 487 (Colleges 4861–4870)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4861 | Goverment Polytechnic Siddapur | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://gps.org) |
+| 4862 | S N Mudbidri Polytechnic, Moodbidri | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://snmpm.org) |
+| 4863 | Ashoka College of Engineering & Entrepreneurship | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://acoee.org) |
+| 4864 | Sanjay Gandhi Polytechnic (Formerly "sanjay Gandhi Rural Polytechnic") | BELLARY | KARNATAKA | Private | [Portal](http://sanjaygandhipolytechnic.org) |
+| 4865 | Atria Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aiot.org) |
+| 4866 | Bearys Institute of Technology | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://biot.org) |
+| 4867 | Davangere University | DAVANAGERE | KARNATAKA | Private | [Portal](http://davangereuniversity.org) |
+| 4868 | Panchasheela Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://panchasheelapolytechnic.org) |
+| 4869 | Gnana Vikas Polytechnic | CHITRADURGA | KARNATAKA | Private | [Portal](http://gvp.org) |
+| 4870 | AL-Khateeb Government Aided Polytechnic | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+
+
+### Batch 488 (Colleges 4871–4880)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4871 | Mount Faran Polytechnic, Old Hubli | DHARWAD | KARNATAKA | Private | [Portal](http://mfpoh.org) |
+| 4872 | Kalabhyraveswara Polytechnic | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://kalabhyraveswarapolytechnic.org) |
+| 4873 | Annapoorna Institute of Management Research | BELGAUM | KARNATAKA | Private | [Portal](http://aiomr.org) |
+| 4874 | Dayananda Sagar Academy of Technology & Management Technical Campus | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dayanandasagaracademy.org) |
+| 4875 | Rajiv Gandhi Memorial Polyetchnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rgmp.org) |
+| 4876 | University B D T College of Engineering | DAVANAGERE | KARNATAKA | Private | [Portal](http://universitybd.org) |
+| 4877 | C.v.charantimath Rural Polytechnic | BAGALKOT | KARNATAKA | Private | [Portal](http://crp.org) |
+| 4878 | Government Engineering College Raichur | RAICHUR | KARNATAKA | Public/Government | [Portal](https://gecr.gov.in) |
+| 4879 | Snjpsnms Trust's Polytechnic | BELGAUM | KARNATAKA | Private | [Portal](http://stp.org) |
+| 4880 | Sri Krishna Polytechnic | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://skp.org) |
+
+
+### Batch 489 (Colleges 4881–4890)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4881 | Hms Polytechnic (Govt. Aided),Minority | TUMKUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4882 | Government Polytechnic Aurad(B) | BIDAR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4883 | Government Polytechnic,Hangal | HAVERI | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4884 | Government Polytechnic Karkala | UDUPI | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4885 | Government.tool Room & Training Centre | TUMKUR | KARNATAKA | Public/Government | [Portal](https://grtc.gov.in) |
+| 4886 | Government Polytechnic Lingasgur | RAICHUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4887 | Tippu Shaheed Institute of Technilogy (Polytechnic) | DHARWAD | KARNATAKA | Private | [Portal](http://tsiotp.org) |
+| 4888 | Sri Jayachamarajendra Educational Society Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sjesp.org) |
+| 4889 | Balaji Polytechnic | GULBARGA | KARNATAKA | Private | [Portal](http://balajipolytechnic.org) |
+| 4890 | K.l.e.society S Smt Chanabasamma.ishwarappa.munavalli Polytechnic, | DHARWAD | KARNATAKA | Private | [Portal](http://ksscp.org) |
+
+
+### Batch 490 (Colleges 4891–4900)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4891 | Government Polytechnic,K.g.f | KOLAR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4892 | International School of Business & Media | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://isobm.org) |
+| 4893 | R.t.e.society's Rural Polytechnic, Hulkoti | GADAG | KARNATAKA | Private | [Portal](http://rrph.org) |
+| 4894 | Government Tool Room & Training Centre - Harihar | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://gtrtch.gov.in) |
+| 4895 | Government. Polytechnic, Chamarajanagar | CHAMARAJNAGAR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4896 | Government Polytechnic, Immadihalli | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4897 | Hms Rural Polytechnic | TUMKUR | KARNATAKA | Private | [Portal](http://hrp.org) |
+| 4898 | Shri Laxmanrao Jarkiholi Polytechnic | BELGAUM | KARNATAKA | Private | [Portal](http://sljp.org) |
+| 4899 | St. Mary's Polytechnic | CHITRADURGA | KARNATAKA | Private | [Portal](http://smp.org) |
+| 4900 | P.d. A. College of Engineering | GULBARGA | KARNATAKA | Private | [Portal](http://pacoe.org) |
+
+
+### Batch 491 (Colleges 4901–4910)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4901 | Indhira Shiva Rao Polytechnic | UDUPI | KARNATAKA | Private | [Portal](http://isrp.org) |
+| 4902 | Sct Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sctpolytechnic.org) |
+| 4903 | Bnm Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://biot.org) |
+| 4904 | Hyderabad Karnataka Education Society's Polytechnic Gulbarga | GULBARGA | KARNATAKA | Private | [Portal](http://hkespg.org) |
+| 4905 | D V S Polytechnic , Shimoga` | SHIMOGA | KARNATAKA | Private | [Portal](http://dvsps.org) |
+| 4906 | St.john's Polytechnic Hubli-23 | DHARWAD | KARNATAKA | Private | [Portal](http://sph.org) |
+| 4907 | Maratha Mandal Polytechnic | BELGAUM | KARNATAKA | Private | [Portal](http://mmp.org) |
+| 4908 | Mahatma Gandhi Polytechnic College | YADGIR | KARNATAKA | Private | [Portal](http://mgpc.org) |
+| 4909 | International School of Management Excellence | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://isome.org) |
+| 4910 | B.v.peeth's J.v.mandal's Polytechnic | BAGALKOT | KARNATAKA | Private | [Portal](http://bjp.org) |
+
+
+### Batch 492 (Colleges 4911–4920)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4911 | G Madegowda Institute of Technology (Gmit) | MANDYA | KARNATAKA | Private | [Portal](http://gmiotg.org) |
+| 4912 | Biluru Gurubasava Mahaswamiji Inistiture of Technology, Mudhol | BAGALKOT | KARNATAKA | Private | [Portal](http://bilurugurubasavamahaswamiji.org) |
+| 4913 | Government Polytechnic, Bantwal | D KANNADA(DK) | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4914 | Sri Vinayak Polytechnic | KOLAR | KARNATAKA | Private | [Portal](http://svp.org) |
+| 4915 | Hyderabad Karnataka Education Society's Polytechnic | RAICHUR | KARNATAKA | Private | [Portal](http://hkesp.org) |
+| 4916 | K.l.e. Society's C.b.kolli Polytechnic,Haveri | HAVERI | KARNATAKA | Private | [Portal](http://kscp.org) |
+| 4917 | Mahmood Sharief Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://msp.org) |
+| 4918 | Shanthiniketan Polytechnic College | RAMANAGARA | KARNATAKA | Private | [Portal](http://spc.org) |
+| 4919 | K V Polytechnic | HAVERI | KARNATAKA | Private | [Portal](http://kvp.org) |
+| 4920 | SJ Bgs Polytechnic | MANDYA | KARNATAKA | Private | [Portal](http://sbp.org) |
+
+
+### Batch 493 (Colleges 4921–4930)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4921 | Vidyavardhaka Polytechnic - 488 | MYSORE | KARNATAKA | Private | [Portal](http://vp4.org) |
+| 4922 | Government. Tool Room & Training Centre- Kadur | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://gtrtck.gov.in) |
+| 4923 | Government Film and Television Institute | BANGALORE RURAL | KARNATAKA | Public/Government | [Portal](https://gfati.gov.in) |
+| 4924 | Government. Toolroom and Training Centre - Maddur | MANDYA | KARNATAKA | Public/Government | [Portal](https://gtatcm.gov.in) |
+| 4925 | Dr. D. Veerendra Heggade Institute of Management Studies and Research | DHARWAD | KARNATAKA | Private | [Portal](http://drdveerendra.org) |
+| 4926 | Myra School of Business | MYSORE | KARNATAKA | Private | [Portal](http://msob.org) |
+| 4927 | Siddaganga Polytechnic | TUMKUR | KARNATAKA | Private | [Portal](http://siddagangapolytechnic.org) |
+| 4928 | Sri Channakeshava Government Polytechnic College, Guddada Channapura, Bankapura | HAVERI | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4929 | Government Polytechnic, Kalgi | GULBARGA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4930 | Akash Global College of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://akashglobalcollege.org) |
+
+
+### Batch 494 (Colleges 4931–4940)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4931 | Institute of Business Management and Research | DHARWAD | KARNATAKA | Private | [Portal](http://iobmar.org) |
+| 4932 | Ghousia Institute of Technology for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://giotfw.org) |
+| 4933 | Shree Vidyadhiraj Polytechnic, Kumta | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://svpk.org) |
+| 4934 | B. V. V. S. Polytechnic,Bagalkot. | BAGALKOT | KARNATAKA | Private | [Portal](http://bvvsp.org) |
+| 4935 | Government Tool Room and Training Centre-Kolar | KOLAR | KARNATAKA | Public/Government | [Portal](https://gtratc.gov.in) |
+| 4936 | Maharani's Women's Commerce and Management College | MYSORE | KARNATAKA | Private | [Portal](http://mwcamc.org) |
+| 4937 | Government Polytechnic Mudhol | BAGALKOT | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4938 | K.s.polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kspolytechnic.org) |
+| 4939 | Anjuman-E-Islam Polytechnic Gadag | GADAG | KARNATAKA | Private | [Portal](http://apg.org) |
+| 4940 | Shridevi Institute of Engineering and Technology | TUMKUR | KARNATAKA | Private | [Portal](http://sioeat.org) |
+
+
+### Batch 495 (Colleges 4941–4950)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4941 | Srinivas Institute of Technology | D KANNADA(DK) | KARNATAKA | Private | [Portal](http://siot.org) |
+| 4942 | Malik Sandal Polytechnic | BIJAPUR | KARNATAKA | Private | [Portal](http://msp.org) |
+| 4943 | Oxford Polytechnic | DHARWAD | KARNATAKA | Private | [Portal](http://oxfordpolytechnic.org) |
+| 4944 | The Oxford College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://tocoe.org) |
+| 4945 | B E T Polytechnic | MANDYA | KARNATAKA | Private | [Portal](http://betp.org) |
+| 4946 | Angadi Instittute of Technology and Management | BELGAUM | KARNATAKA | Private | [Portal](http://aiotam.org) |
+| 4947 | M. N. Technical Institute | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mnti.org) |
+| 4948 | Jawahar Polytechnic Yadgir | YADGIR | KARNATAKA | Private | [Portal](http://jpy.org) |
+| 4949 | Dayananda Sagar College of Arts,Science & Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dscoac.org) |
+| 4950 | Sjb School of Architecture and Planning | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ssoaap.org) |
+
+
+### Batch 496 (Colleges 4951–4960)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4951 | VTU Post Graduate Center and Skill Development Center Talakal | KOPPAL | KARNATAKA | Private | [Portal](http://vtupostgraduate.org) |
+| 4952 | Smt.l.v.(Govt.) Polytechnic | HASSAN | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4953 | Bheemanna Khandre Institute of Technology | BIDAR | KARNATAKA | Private | [Portal](http://bkiot.org) |
+| 4954 | East West Institute of Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ewiop.org) |
+| 4955 | Basavakalyan Polytechnic College, Basavakalyan | BIDAR | KARNATAKA | Private | [Portal](http://bpcb.org) |
+| 4956 | Dr.t.m.a. Pai Polytechnic | UDUPI | KARNATAKA | Private | [Portal](http://dpp.org) |
+| 4957 | Government Polytechnic for Women Hassan | HASSAN | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4958 | Government Polytechnic Surpur | YADGIR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4959 | Government R C College of Commerce & Management | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://governmentrc.gov.in) |
+| 4960 | Mysore College of Engineering and Management | MYSORE | KARNATAKA | Private | [Portal](http://mcoeam.org) |
+
+
+### Batch 497 (Colleges 4961–4970)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4961 | R.n.shetty Rural Polytechnic | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://rrp.org) |
+| 4962 | B.g.s Polytechnic | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://bgspolytechnic.org) |
+| 4963 | Vissj Government Polytechnic | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4964 | Rural Polytechnic, Haunsbhavi | HAVERI | KARNATAKA | Private | [Portal](http://rph.org) |
+| 4965 | K.l.e.society's Polytechnic Bailhongal. | BELGAUM | KARNATAKA | Private | [Portal](http://kpb.org) |
+| 4966 | Government Polytechnic, Deodurg | RAICHUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4967 | Bangalore Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://biot.org) |
+| 4968 | K.l.e Society's Polytechnic, Mahalingpur | BAGALKOT | KARNATAKA | Private | [Portal](http://kspm.org) |
+| 4969 | Farooqia Polytechnic for Women | MYSORE | KARNATAKA | Private | [Portal](http://fpfw.org) |
+| 4970 | Jain Institute of Technology | DAVANAGERE | KARNATAKA | Private | [Portal](http://jiot.org) |
+
+
+### Batch 498 (Colleges 4971–4980)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4971 | Mother Theresa Polytechnic | KOLAR | KARNATAKA | Private | [Portal](http://mtp.org) |
+| 4972 | S.e.t Polytechnic | MANDYA | KARNATAKA | Private | [Portal](http://setpolytechnic.org) |
+| 4973 | Government. Tool Room and Training Centre - Belgaum | BELGAUM | KARNATAKA | Public/Government | [Portal](https://governmenttoolroom.gov.in) |
+| 4974 | Government.tool Room & Training Centre- Gulbarga | GULBARGA | KARNATAKA | Public/Government | [Portal](https://grtcg.gov.in) |
+| 4975 | Bharatesh Education Trust's Global Business School | BELGAUM | KARNATAKA | Private | [Portal](http://betgbs.org) |
+| 4976 | Shree Shanmukha Shivayogi Rural Polytechnic Jewargi | GULBARGA | KARNATAKA | Private | [Portal](http://sssrpj.org) |
+| 4977 | Mysuru Royal Institute of Technology | MANDYA | KARNATAKA | Private | [Portal](http://mriot.org) |
+| 4978 | Nalanda Foundations Polytechnic | DHARWAD | KARNATAKA | Private | [Portal](http://nfp.org) |
+| 4979 | M.e.s.r.n.s.polytechnic Sirsi | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://mesrnspolytechnicsirsi.org) |
+| 4980 | Cambridge Institute of Technology North Campus | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://ciotnc.org) |
+
+
+### Batch 499 (Colleges 4981–4990)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4981 | Ramaiah Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ramaiahpolytechnic.org) |
+| 4982 | Government Tool Room & Trg Centre - Mangalore | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gtrtcm.gov.in) |
+| 4983 | Government. Tool Room & Training Centre - Lingasugur | RAICHUR | KARNATAKA | Public/Government | [Portal](https://gtrtcl.gov.in) |
+| 4984 | K.l.e's, S.nijalingappa College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ksc.org) |
+| 4985 | Government Polytechnic Chintamani | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4986 | Shri Niranjana Swamy Polytechnic | D KANNADA(DK) | KARNATAKA | Private | [Portal](http://snsp.org) |
+| 4987 | Shri Subhas Nagur Memorial Polytechnic, Bijapur | BIJAPUR | KARNATAKA | Private | [Portal](http://ssnmpb.org) |
+| 4988 | Sri Dharmasthala Manjunatheshwara Polytechnic - Ujire | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sdmpu.org) |
+| 4989 | Tontadarya College of Engineering | GADAG | KARNATAKA | Private | [Portal](http://tcoe.org) |
+| 4990 | B.t.patil and Sons Polytechnic | BELGAUM | KARNATAKA | Private | [Portal](http://basp.org) |
+
+
+### Batch 500 (Colleges 4991–5000)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 4991 | Sri Taralabalu Jagadguru Polytechnic | DAVANAGERE | KARNATAKA | Private | [Portal](http://stjp.org) |
+| 4992 | Kurunji Venkatramana Gowda Polytechnic | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://kvgp.org) |
+| 4993 | P.a Polytechnic | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://papolytechnic.org) |
+| 4994 | Jain Polytechnic Davangere | DAVANAGERE | KARNATAKA | Private | [Portal](http://jpd.org) |
+| 4995 | Government Institute of Printing Technology | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://giopt.gov.in) |
+| 4996 | Jss.k.h.kabbur Institute of Engineering | DHARWAD | KARNATAKA | Private | [Portal](http://jioe.org) |
+| 4997 | Shivasharane Akkamahadevi Government Women's Polytechnic | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 4998 | Dr.sri Sri Sri Shivakumara Mahaswamy Polytechnic | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://dsssmp.org) |
+| 4999 | M. S. Ramaiah Institute of Technology-MBA Programme | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://msramaiah.org) |
+| 5000 | D.banumaiah's Polytechnic | MYSORE | KARNATAKA | Private | [Portal](http://dbanumaiahspolytechnic.org) |
+
+
+### Batch 501 (Colleges 5001–5010)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5001 | Government Polytechnic,Belgaum | BELGAUM | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5002 | Vivekananda Polytechnic | D KANNADA(DK) | KARNATAKA | Private | [Portal](http://vivekanandapolytechnic.org) |
+| 5003 | R E S Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://resp.org) |
+| 5004 | S.s.e.t's R.n.shetty Polytechnic | BELGAUM | KARNATAKA | Private | [Portal](http://srp.org) |
+| 5005 | Government. Engineering College, Hassan | HASSAN | KARNATAKA | Public/Government | [Portal](https://gech.gov.in) |
+| 5006 | Government Polytechnic Bagepalli | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5007 | Government Tool Room & Training Centre- Kudalasangama | BAGALKOT | KARNATAKA | Public/Government | [Portal](https://gtrtck.gov.in) |
+| 5008 | Hanagal Sri Kumareshwara Polytechnic, Bellary | BELLARY | KARNATAKA | Private | [Portal](http://hskpb.org) |
+| 5009 | A. J. Institute of Management | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://ajiom.org) |
+| 5010 | Karnataka (Govt.) Polytechnic | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+
+
+### Batch 502 (Colleges 5011–5020)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5011 | D.r.r.govt Polytechnic | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5012 | Shree Bahubali Polytechnic | HASSAN | KARNATAKA | Private | [Portal](http://sbp.org) |
+| 5013 | K.v.t. Polytechnic | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://kvtpolytechnic.org) |
+| 5014 | Sri Sanjeev Polytechnic | RAICHUR | KARNATAKA | Private | [Portal](http://ssp.org) |
+| 5015 | Government Polytechnic Hosadurga | CHITRADURGA | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5016 | Government Polytechnic Bijapur | BIJAPUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5017 | Gomatesh Polytechnic | BELGAUM | KARNATAKA | Private | [Portal](http://gomateshpolytechnic.org) |
+| 5018 | Yadgir Polytechnic | YADGIR | KARNATAKA | Private | [Portal](http://yadgirpolytechnic.org) |
+| 5019 | B E S Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://besiot.org) |
+| 5020 | Acharya Polytechinc | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://acharyapolytechinc.org) |
+
+
+### Batch 503 (Colleges 5021–5030)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5021 | Motichand Lengade Bharatesh Polytechnic | BELGAUM | KARNATAKA | Private | [Portal](http://mlbp.org) |
+| 5022 | Bhuvan Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bhuvanpolytechnic.org) |
+| 5023 | R.v. Institute of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://riom.org) |
+| 5024 | Government.toolroom and Training Centre,Bangalore | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gatc.gov.in) |
+| 5025 | Mangalore Institute of Technology & Engineering | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://miote.org) |
+| 5026 | Navodaya Institute of Technology, Raichiur. | RAICHUR | KARNATAKA | Private | [Portal](http://niotr.org) |
+| 5027 | Akshaya Institute of Technology | TUMKUR | KARNATAKA | Private | [Portal](http://aiot.org) |
+| 5028 | Kle Society's Institute of Management Studies and Research | DHARWAD | KARNATAKA | Private | [Portal](http://klesocietysinstitute.org) |
+| 5029 | Bahubali College of Engineering | HASSAN | KARNATAKA | Private | [Portal](http://bcoe.org) |
+| 5030 | Department of Computer Science Gulbarga University Gulbarga | GULBARGA | KARNATAKA | Private | [Portal](http://departmentofcomputer.org) |
+
+
+### Batch 504 (Colleges 5031–5040)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5031 | Aditya Institute of Management Studies and Research | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://adityainstituteof.org) |
+| 5032 | Nagarjuna College of Engineering and Technology | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://ncoeat.org) |
+| 5033 | R.v. College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rcoe.org) |
+| 5034 | Rao Bahadur Y Mahabaleswarappa Engineering College | BELLARY | KARNATAKA | Private | [Portal](http://rbymec.org) |
+| 5035 | S.d.m. College of Engineering & Technology | DHARWAD | KARNATAKA | Private | [Portal](http://scoet.org) |
+| 5036 | T A Pai Management Institute | UDUPI | KARNATAKA | Private | [Portal](http://tapmi.org) |
+| 5037 | Bldea's A.s. Patil College of Commerce, MBA Course, Bijapur | BIJAPUR | KARNATAKA | Private | [Portal](http://bldeasaspatil.org) |
+| 5038 | M P Birla Institute of Management Associate Bharatiya Vidya Bhavan | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mpbirla.org) |
+| 5039 | AL-Ameen Institute of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aioms.org) |
+| 5040 | Moodlakatte Institute of Technology | UDUPI | KARNATAKA | Private | [Portal](http://miot.org) |
+
+
+### Batch 505 (Colleges 5041–5050)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5041 | IA School of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://isoms.org) |
+| 5042 | Navkis College of Engineering, Hassan | HASSAN | KARNATAKA | Private | [Portal](http://ncoeh.org) |
+| 5043 | Government Engineering College,Karwar | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gec.gov.in) |
+| 5044 | Nitte Meenakshi Institute of Technology | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://nmiot.org) |
+| 5045 | R. R. Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rriot.org) |
+| 5046 | Sir M. Visvesvaraya Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://smviot.org) |
+| 5047 | Hillside Institute of Management & Academy | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hioma.org) |
+| 5048 | Alva's Institute of Engineering and Technology | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://aioeat.org) |
+| 5049 | Vidyavardhaka College of Engineering | MYSORE | KARNATAKA | Private | [Portal](http://vcoe.org) |
+| 5050 | Rns Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://riot.org) |
+
+
+### Batch 506 (Colleges 5051–5060)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5051 | GM Institute of Technology | DAVANAGERE | KARNATAKA | Private | [Portal](http://giot.org) |
+| 5052 | S J M Institute of Technology | CHITRADURGA | KARNATAKA | Private | [Portal](http://sjmiot.org) |
+| 5053 | Sri Venkateshwara College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://svcoe.org) |
+| 5054 | Shree Devi Institute of Technology | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sdiot.org) |
+| 5055 | K.v.g.college of Engineering | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://koe.org) |
+| 5056 | East Point College of Higher Education | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://epcohe.org) |
+| 5057 | Oxbridge Business School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://obs.org) |
+| 5058 | Maharaja Institute of Technology Mysore | MANDYA | KARNATAKA | Private | [Portal](http://miotm.org) |
+| 5059 | Amruta Institute of Engineering and Management Sciences | RAMANAGARA | KARNATAKA | Private | [Portal](http://amrutainstituteof.org) |
+| 5060 | Brindavan College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bcoe.org) |
+
+
+### Batch 507 (Colleges 5061–5070)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5061 | Karavali College of Hotel Management | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://kcohm.org) |
+| 5062 | K.n.s. Institute of Technology, Bangalore-64 | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kiotb.org) |
+| 5063 | Vivekananda College of Engineering and Technology | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://vcoeat.org) |
+| 5064 | Amc Engineering College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aec.org) |
+| 5065 | Institute of Excellence in Management Science | DHARWAD | KARNATAKA | Private | [Portal](http://ioeims.org) |
+| 5066 | East West College of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ewcom.org) |
+| 5067 | Dr. Ambedkar Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://daiot.org) |
+| 5068 | P.a.college of Engineering | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://poe.org) |
+| 5069 | Hkbk College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hcoe.org) |
+| 5070 | Guru Nanak Dev Engineering College, Bidar | BIDAR | KARNATAKA | Private | [Portal](http://gndecb.org) |
+
+
+### Batch 508 (Colleges 5071–5080)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5071 | C.byregowda Institute of Technology | KOLAR | KARNATAKA | Private | [Portal](http://ciot.org) |
+| 5072 | City College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://citycollege.org) |
+| 5073 | Sri Basaveshwara Institute of Technology | TUMKUR | KARNATAKA | Private | [Portal](http://sbiot.org) |
+| 5074 | New Horizon College of Engineering (E&t) | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://nhcoee.org) |
+| 5075 | The National Institute of Engineering | MYSORE | KARNATAKA | Public/Government | [Portal](https://tnioe.gov.in) |
+| 5076 | The Chanakya University | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://tcu.org) |
+| 5077 | GS College of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gcom.org) |
+| 5078 | Akash Institute of Engineering and Technology | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://aioeat.org) |
+| 5079 | Jyoti Nivas College (MBA) | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jncm.org) |
+| 5080 | Ghousia College of Engineering | RAMANAGARA | KARNATAKA | Private | [Portal](http://gcoe.org) |
+
+
+### Batch 509 (Colleges 5081–5090)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5081 | Sai Vidya Institute of Technology | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://sviot.org) |
+| 5082 | East West College of Management (MCA) | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ewcomm.org) |
+| 5083 | K R Pet Krishna Government Engineering College, K R Pet | MANDYA | KARNATAKA | Public/Government | [Portal](https://krpet.gov.in) |
+| 5084 | The Oxford College of Hotel Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://tocohm.org) |
+| 5085 | Government Engineering College, Haveri | HAVERI | KARNATAKA | Public/Government | [Portal](https://gech.gov.in) |
+| 5086 | Anjuman Institute of Technology and Management | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://aiotam.org) |
+| 5087 | Bapuji Institute of Engineering & Technology | DAVANAGERE | KARNATAKA | Private | [Portal](http://bioet.org) |
+| 5088 | Government Engineering College, Kushalnagar | KODAGU | KARNATAKA | Public/Government | [Portal](https://geck.gov.in) |
+| 5089 | P.a College of Engineering(P.g. Department of Business Administration-MBA) | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://pacollegeof.org) |
+| 5090 | Sri Revana Siddeshwara Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://srsiot.org) |
+
+
+### Batch 510 (Colleges 5091–5100)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5091 | Smt. Kamala and Sri Venkappa M Agadi College of Engineering & Technology | GADAG | KARNATAKA | Private | [Portal](http://smtkamalaand.org) |
+| 5092 | Bapuji Institute of Engineering & Technology, Davangere (MCA) | DAVANAGERE | KARNATAKA | Private | [Portal](http://bapujiinstituteof.org) |
+| 5093 | Indian Institute of Plantation Management | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://iiopm.gov.in) |
+| 5094 | Kle Society's S Nijalingappa College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kssnc.org) |
+| 5095 | Kls Shri Vasantrao Potdar Polytechnic | BELGAUM | KARNATAKA | Private | [Portal](http://ksvpp.org) |
+| 5096 | Karnataka College of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kcom.org) |
+| 5097 | Sdm Institute for Management Development | MYSORE | KARNATAKA | Private | [Portal](http://sifmd.org) |
+| 5098 | T John Institue of Management and Science | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://tjohninstitue.org) |
+| 5099 | Coorg Institute of Technology | COORG | KARNATAKA | Private | [Portal](http://ciot.org) |
+| 5100 | City Engineering College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://cec.org) |
+
+
+### Batch 511 (Colleges 5101–5110)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5101 | Sri Siddhartha Institute of Management Studies | TUMKUR | KARNATAKA | Private | [Portal](http://ssioms.org) |
+| 5102 | Dr.sri Sri Sri Shivakumara Mahaswamy College of Engineering | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://drsrisrisri.org) |
+| 5103 | Dayananda Sagar College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dscoe.org) |
+| 5104 | Brindavan College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://brindavancollege.org) |
+| 5105 | Hirasugar Instiute of Technology | BELGAUM | KARNATAKA | Private | [Portal](http://hiot.org) |
+| 5106 | P.e.s. College of Engineering, Mandya | MANDYA | KARNATAKA | Private | [Portal](http://pcoem.org) |
+| 5107 | Global Academy of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gaot.org) |
+| 5108 | The Oxford College of Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://tocos.org) |
+| 5109 | R.l.jalappa Institute of Technology | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://riot.org) |
+| 5110 | Yenepoya Institute of Technology | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://yiot.org) |
+
+
+### Batch 512 (Colleges 5111–5120)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5111 | Manel Srinivas Nayak Institute of Management | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://msniom.org) |
+| 5112 | Sri Siddhartha School of Engineering | TUMKUR | KARNATAKA | Private | [Portal](http://sssoe.org) |
+| 5113 | Avk Institute of Management | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://aiom.org) |
+| 5114 | Vemana Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://viot.org) |
+| 5115 | Sri Taralabalu Jagadguru Institute of Technology | HAVERI | KARNATAKA | Private | [Portal](http://stjiot.org) |
+| 5116 | S. E. A. College of Engineering & Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sea.org) |
+| 5117 | Kle's Kle College of Engineering and Technology | BELGAUM | KARNATAKA | Private | [Portal](http://klesklecollege.org) |
+| 5118 | Vidya Vikas Institute of Engineering & Technology | MYSORE | KARNATAKA | Private | [Portal](http://vvioet.org) |
+| 5119 | Proudhadevaraya Institute of Technology | BELLARY | KARNATAKA | Private | [Portal](http://piot.org) |
+| 5120 | A P S College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://apscoe.org) |
+
+
+### Batch 513 (Colleges 5121–5130)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5121 | Department of Studies in Computer Science | MYSORE | KARNATAKA | Private | [Portal](http://dosics.org) |
+| 5122 | Shushruti Institute of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sioms.org) |
+| 5123 | Nmam Institute of Technology, Nitte | UDUPI | KARNATAKA | Private | [Portal](http://niotn.org) |
+| 5124 | Maratha Mandal's Engineering College, Belgaum | BELGAUM | KARNATAKA | Private | [Portal](http://mmecb.org) |
+| 5125 | Jss Academy of Technical Education | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jaote.org) |
+| 5126 | Dr. T.thimmaiah Institute of Technology | KOLAR | KARNATAKA | Private | [Portal](http://dtiot.org) |
+| 5127 | Canara Engineering College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://cec.org) |
+| 5128 | T John Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://tjiot.org) |
+| 5129 | Kalpataru Institute of Technology | TUMKUR | KARNATAKA | Private | [Portal](http://kiot.org) |
+| 5130 | Aditya College of Engineering and Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](https://acem.ac.in) |
+
+
+### Batch 514 (Colleges 5131–5140)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5131 | Btl IM | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://btlim.org) |
+| 5132 | Government Polytechnic Periyapatana | MYSORE | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5133 | Seshadripuram College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://seshadripuramcollege.org) |
+| 5134 | Jyoti Nivas College (MCA) | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jncm.org) |
+| 5135 | Sri Devaraj Urs Institute of Management | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://sduiom.org) |
+| 5136 | Allum Karibasappa Institute of Management | BELLARY | KARNATAKA | Private | [Portal](http://akiom.org) |
+| 5137 | Abbs School of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://asom.org) |
+| 5138 | Don Bosco Institute of Management Studies and Computer Applications | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://donboscoinstitute.org) |
+| 5139 | Kls Vishwanathrao Deshpande Institute of Technology | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://kvdiot.org) |
+| 5140 | Rajarajeswari College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rcoe.org) |
+
+
+### Batch 515 (Colleges 5141–5150)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5141 | Manipal Institute of Technology | UDUPI | KARNATAKA | Private | [Portal](http://miot.org) |
+| 5142 | Institute of Management Studies.ilkal | BAGALKOT | KARNATAKA | Private | [Portal](http://ioms.org) |
+| 5143 | Sdm Institute of Technology Ujire-574240 | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://siotu.org) |
+| 5144 | Agriculture and Food Management Institute | MANDYA | KARNATAKA | Private | [Portal](http://aafmi.org) |
+| 5145 | The Oxford College of Business Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://tocobm.org) |
+| 5146 | St. Joseph's Institute of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sjiom.org) |
+| 5147 | Poornaprajna Institute of Management | UDUPI | KARNATAKA | Private | [Portal](http://piom.org) |
+| 5148 | K.l.s. Gogte Institute of Technology | BELGAUM | KARNATAKA | Private | [Portal](http://kgiot.org) |
+| 5149 | Sahyadri College of Engineering & Management | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://scoem.org) |
+| 5150 | Basavakalyan Engineering College | BIDAR | KARNATAKA | Private | [Portal](http://bec.org) |
+
+
+### Batch 516 (Colleges 5151–5160)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5151 | Rajeev Institute of Technology | HASSAN | KARNATAKA | Private | [Portal](http://riot.org) |
+| 5152 | Kct Engineering College Gulbarga | GULBARGA | KARNATAKA | Private | [Portal](http://kecg.org) |
+| 5153 | B V V Sangha's Institute of Management Studies | BAGALKOT | KARNATAKA | Private | [Portal](http://bvv.org) |
+| 5154 | Government Engineering College, Chamarajanagar | CHAMARAJNAGAR | KARNATAKA | Public/Government | [Portal](https://gecc.gov.in) |
+| 5155 | Army Institute of Hotel Management and Catering Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://armyinstituteof.org) |
+| 5156 | Bms Institute of Technology & Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://biotm.org) |
+| 5157 | Impact College of Engineering and Applied Sciences | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://impactcollegeof.org) |
+| 5158 | S J C Institute of Technology | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://sjciot.org) |
+| 5159 | Acharya's Bangalore B-School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://abb.org) |
+| 5160 | R.t.e.society's, Rural Engineering College, Hulkoti | GADAG | KARNATAKA | Private | [Portal](http://rrech.org) |
+
+
+### Batch 517 (Colleges 5161–5170)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5161 | Department of Management, Gulbarga University, Gulbarga | GULBARGA | KARNATAKA | Private | [Portal](http://domgug.org) |
+| 5162 | St. Joseph Engineering College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sjec.org) |
+| 5163 | Prin L N Welingkar Institute of Management Development & Research | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://prinln.org) |
+| 5164 | Nitte Education Trust School of Management | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://netsom.org) |
+| 5165 | Bapuji Institute of Engineering & Technology, Davangere (MBA) | DAVANAGERE | KARNATAKA | Private | [Portal](http://bapujiinstituteof.org) |
+| 5166 | Vivekananda Institute of Technology | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://viot.org) |
+| 5167 | Global Institute of Management Sciences | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gioms.org) |
+| 5168 | M. S. Ramaiah Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://msriot.org) |
+| 5169 | Administrative Managment College | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://amc.org) |
+| 5170 | B V V Sangha's Basaveshwar Engineering College Bagalkot | BAGALKOT | KARNATAKA | Private | [Portal](http://bvv.org) |
+
+
+### Batch 518 (Colleges 5171–5180)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5171 | Sambhram Academy of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://saoms.org) |
+| 5172 | Jawaharlal Nehru New College of Engineering - MBA | SHIMOGA | KARNATAKA | Private | [Portal](http://jawaharlalnehrunew.org) |
+| 5173 | University of Visvesvaraya College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://uovcoe.org) |
+| 5174 | Gsss Institute of Engineering & Technology for Women | MYSORE | KARNATAKA | Private | [Portal](http://gsssinstituteof.org) |
+| 5175 | Secab Institute of Engineering & Technology, Bijapur | BIJAPUR | KARNATAKA | Private | [Portal](http://sioetb.org) |
+| 5176 | Acs College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://acoe.org) |
+| 5177 | Acharya Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aiot.org) |
+| 5178 | East Point College of Engineering & Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://epcoet.org) |
+| 5179 | Vijaya Vittala Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vviot.org) |
+| 5180 | Channabasaveshwara Institute of Technology | TUMKUR | KARNATAKA | Private | [Portal](http://ciot.org) |
+
+
+### Batch 519 (Colleges 5181–5190)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5181 | B.l.d.e.a's V.p DR P.g.halakatti College of Engg. & Tech., Bijapur-03 | BIJAPUR | KARNATAKA | Private | [Portal](http://bldeasvpdr.org) |
+| 5182 | Government Polytechnic Tiptur | TUMKUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5183 | Canara College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://canaracollege.org) |
+| 5184 | Sbrr Mahajana First Grade College, PG Wing | MYSORE | KARNATAKA | Private | [Portal](http://sbrrmahajanafirst.org) |
+| 5185 | B.m.s.college of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://boe.org) |
+| 5186 | Khaja Bandanawaz University | GULBARGA | KARNATAKA | Private | [Portal](http://kbu.org) |
+| 5187 | United International Business School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://uibs.org) |
+| 5188 | Vet First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vfgc.org) |
+| 5189 | G R V Business Management Academy | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://grvbma.org) |
+| 5190 | Anuvartik Mirji Bharatesh Institute of Technology | BELGAUM | KARNATAKA | Private | [Portal](http://ambiot.org) |
+
+
+### Batch 520 (Colleges 5191–5200)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5191 | Shree Medha Degree College | BELLARY | KARNATAKA | Private | [Portal](http://smdc.org) |
+| 5192 | Rasta Center for Road Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rcfrt.org) |
+| 5193 | C B Bhandari Jain College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://cbbjc.org) |
+| 5194 | Seshadripuram First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sfgc.org) |
+| 5195 | Bishop Cotton Academy of Professional Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bcaopm.org) |
+| 5196 | Mpe Societys Sdm College of Arts Science and Commerce Honnavar | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://mpesocietyssdm.org) |
+| 5197 | Government Polytechnic Byadgi | HAVERI | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5198 | Ballari Business College | BELLARY | KARNATAKA | Private | [Portal](http://bbc.org) |
+| 5199 | The Yenepoya College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://tyc.org) |
+| 5200 | MIT Degree College | MYSORE | KARNATAKA | Private | [Portal](http://mdc.org) |
+
+
+### Batch 521 (Colleges 5201–5210)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5201 | Ndrk First Grade College | HASSAN | KARNATAKA | Private | [Portal](http://nfgc.org) |
+| 5202 | Bright Business School | DHARWAD | KARNATAKA | Private | [Portal](http://bbs.org) |
+| 5203 | Bms College of Architecture Design and Planning | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bmscollegeof.org) |
+| 5204 | Seshadripuram Institute of Technology | MYSORE | KARNATAKA | Private | [Portal](http://siot.org) |
+| 5205 | DR H N National College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://drhn.org) |
+| 5206 | Oxford College | DHARWAD | KARNATAKA | Private | [Portal](http://oxfordcollege.org) |
+| 5207 | The Rural College Kanakapura | RAMANAGARA | KARNATAKA | Private | [Portal](http://trck.org) |
+| 5208 | Gopalan College of Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gcoc.org) |
+| 5209 | Govindram Seksaria Science College Belagavi | BELGAUM | KARNATAKA | Private | [Portal](http://gsscb.org) |
+| 5210 | St. Joseph's College of Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sjcoc.org) |
+
+
+### Batch 522 (Colleges 5211–5220)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5211 | MIT First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://mfgc.org) |
+| 5212 | Manjunatha Pai Memorial Government First Grade College of Professional and Business Management | UDUPI | KARNATAKA | Public/Government | [Portal](https://manjunathapaimemorial.gov.in) |
+| 5213 | Nie First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://nfgc.org) |
+| 5214 | Jain Deemed to BE University Centre for Management Studies | BANGALORE URBAN | KARNATAKA | Private (Deemed to be University) | [Portal](http://jaindeemedto.org) |
+| 5215 | Government First Grade College Bettampady | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 5216 | Government Polytechnic Tarikere | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5217 | Alliance University | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://allianceuniversity.org) |
+| 5218 | Dayananda Sagar College of Arts Science and Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dayanandasagarcollege.org) |
+| 5219 | Janata Shikshan Sanghas Shree Tammannappa Chikodi Arts and Commerce College Banhatti | BAGALKOT | KARNATAKA | Private | [Portal](http://janatashikshansanghas.org) |
+| 5220 | Ibmr College of BBA BCA Bcom Post Graduate Studies in Commerce and Management | DHARWAD | KARNATAKA | Private | [Portal](http://ibmrcollegeof.org) |
+
+
+### Batch 523 (Colleges 5221–5230)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5221 | Silicon City College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://scc.org) |
+| 5222 | Community Institute of Commerce and Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://communityinstituteof.org) |
+| 5223 | Kateel Ashok Pai Memorial College | SHIMOGA | KARNATAKA | Private | [Portal](http://kapmc.org) |
+| 5224 | Sitadevi Ratanchand Nahar Adarsh College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://srnac.org) |
+| 5225 | Swastika National Business School | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://snbs.org) |
+| 5226 | Sves B R Darur First Grade College Harugeri | BELGAUM | KARNATAKA | Private | [Portal](http://svesbr.org) |
+| 5227 | Kanara Welfare Trust's Divekar BCA College | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://kwtdbc.org) |
+| 5228 | B.m.s. College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bcfw.org) |
+| 5229 | Gurukul Degree College | GULBARGA | KARNATAKA | Private | [Portal](http://gdc.org) |
+| 5230 | Vsms College of Business Administration and Computer Applications Nipani | BELGAUM | KARNATAKA | Private | [Portal](http://vsmscollegeof.org) |
+
+
+### Batch 524 (Colleges 5231–5240)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5231 | Vasavi Jnana Peetha First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vjpfgc.org) |
+| 5232 | Bhandarkars' Arts and Science College | UDUPI | KARNATAKA | Private | [Portal](http://baasc.org) |
+| 5233 | Vivekananda College of Arts Science and Commerce Autonomous | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://vivekanandacollegeof.org) |
+| 5234 | S.r.n. Mehta Degree College | GULBARGA | KARNATAKA | Private | [Portal](http://smdc.org) |
+| 5235 | J S S Shri Manjunatheshwara Institute of Under Graduate and Post Graduate Studies | DHARWAD | KARNATAKA | Private | [Portal](http://jss.org) |
+| 5236 | Kre Societys Karnatak Arts Science and Commerce College | BIDAR | KARNATAKA | Private | [Portal](http://kresocietyskarnatak.org) |
+| 5237 | Milagres College Kallianpur | UDUPI | KARNATAKA | Private | [Portal](http://mck.org) |
+| 5238 | Government First Grade College Mudipu | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcm.gov.in) |
+| 5239 | Shri Dharmasthala Manjunatheshwara College of Business Management | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://shridharmasthalamanjunatheshwara.org) |
+| 5240 | Sarada Vilas Educational Institutions | MYSORE | KARNATAKA | Private | [Portal](http://svei.org) |
+
+
+### Batch 525 (Colleges 5241–5250)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5241 | Seshadripuram Institute of Commerce and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://siocam.org) |
+| 5242 | Indo Asian Academy Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iaadc.org) |
+| 5243 | Karnatak Law Society BCA College Haliyal | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://klsbch.org) |
+| 5244 | Triveni Institute of Commerce of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://tiocom.org) |
+| 5245 | Kles Societys G.h B.c.a College Haveri | HAVERI | KARNATAKA | Private | [Portal](http://ksgbch.org) |
+| 5246 | Kle Societys Bcom Degree College Kle Campus Gangavathi | KOPPAL | KARNATAKA | Private | [Portal](http://klesocietysbcom.org) |
+| 5247 | Sree Cauvery First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://scfgc.org) |
+| 5248 | Imj Institute of Science and Commerce | UDUPI | KARNATAKA | Private | [Portal](http://iiosac.org) |
+| 5249 | Mla Academy of Higher Learning | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://maohl.org) |
+| 5250 | Bms College of Commerce and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bcocam.org) |
+
+
+### Batch 526 (Colleges 5251–5260)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5251 | Sri Lakshmi College of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://srilakshmicollege.org) |
+| 5252 | Kle Societys K F Patil Institute of Business Administration Ranebennur | HAVERI | KARNATAKA | Private | [Portal](http://klesocietysk.org) |
+| 5253 | Ssmrv Sivananda Sarma Memorial R.v. College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sssmrc.org) |
+| 5254 | Hindustan Business School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hbs.org) |
+| 5255 | Fatima Colleege of Business Administration | DHARWAD | KARNATAKA | Private | [Portal](http://fcoba.org) |
+| 5256 | Kle Society's Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ksdc.org) |
+| 5257 | Government Arts College Autonomous Chitradurga | CHITRADURGA | KARNATAKA | Public/Government | [Portal](https://gacac.gov.in) |
+| 5258 | People Tree Education Society's BBA BCA Bcom College | BELGAUM | KARNATAKA | Private | [Portal](http://peopletreeeducation.org) |
+| 5259 | Anjuman Institute of Information Science and Management Dharwad | DHARWAD | KARNATAKA | Private | [Portal](http://anjumaninstituteof.org) |
+| 5260 | Kle Society College of BCA Rls Institute Belagavi | BELGAUM | KARNATAKA | Private | [Portal](http://klesocietycollege.org) |
+
+
+### Batch 527 (Colleges 5261–5270)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5261 | Kles J T College of Arts Science and Commerce | GADAG | KARNATAKA | Private | [Portal](http://klesjt.org) |
+| 5262 | Sri Sharada College | UDUPI | KARNATAKA | Private | [Portal](http://ssc.org) |
+| 5263 | K L E Societys P C Jabin Science College Hubballi | DHARWAD | KARNATAKA | Private | [Portal](http://kle.org) |
+| 5264 | ST Josephs College | HASSAN | KARNATAKA | Private | [Portal](http://sjc.org) |
+| 5265 | Seshadripuram Degree College | MYSORE | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5266 | Kle Lingaraj College Belgaum | BELGAUM | KARNATAKA | Private | [Portal](http://klcb.org) |
+| 5267 | Basaveshwar Science College | BAGALKOT | KARNATAKA | Private | [Portal](http://bsc.org) |
+| 5268 | Kle Societys BK BBA and BCA College Chikodi | BELGAUM | KARNATAKA | Private | [Portal](http://klesocietysbk.org) |
+| 5269 | Kles Societys Degree College Ankali | BELGAUM | KARNATAKA | Private | [Portal](http://ksdca.org) |
+| 5270 | Kle Societys College of BCA Gokak | BELGAUM | KARNATAKA | Private | [Portal](http://kscobg.org) |
+
+
+### Batch 528 (Colleges 5271–5280)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5271 | DR B B Hegde First Grade College | UDUPI | KARNATAKA | Private | [Portal](http://drbb.org) |
+| 5272 | Gibs Business School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gbs.org) |
+| 5273 | Nmkrv College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ncfw.org) |
+| 5274 | Kle Society Malagouda Patil College of Commerce Raibag | BELGAUM | KARNATAKA | Private | [Portal](http://klesocietymalagouda.org) |
+| 5275 | V.v.n. Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vdc.org) |
+| 5276 | Kls Gogte College of Commerce | BELGAUM | KARNATAKA | Private | [Portal](http://kgcoc.org) |
+| 5277 | Jyothy Institute of Commerce and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jiocam.org) |
+| 5278 | Sangolli Rayanna First Grade Constituent College | BELGAUM | KARNATAKA | Public/Government | [Portal](https://srfgcc.gov.in) |
+| 5279 | Kle Societys Gibagewadi BCA College Nipani | BELGAUM | KARNATAKA | Private | [Portal](http://ksgbcn.org) |
+| 5280 | Kle Society's Coleege of Bachlore of Computer Applications | BELGAUM | KARNATAKA | Private | [Portal](http://klesocietyscoleege.org) |
+
+
+### Batch 529 (Colleges 5281–5290)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5281 | Sri Jagadguru Renukacharya College of Science Arts and Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://srijagadgururenukacharya.org) |
+| 5282 | Government First Grade College Siddakatte | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5283 | Sri Siddhartha Institute of Business Management | TUMKUR | KARNATAKA | Private | [Portal](http://ssiobm.org) |
+| 5284 | Mes Institute of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://miom.org) |
+| 5285 | Pes Institute of Advanced Management Studies | SHIMOGA | KARNATAKA | Private | [Portal](http://pioams.org) |
+| 5286 | Bharath Matha First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://bmfgc.org) |
+| 5287 | Karnataka College of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kcomas.org) |
+| 5288 | Shridevi Degree College | TUMKUR | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5289 | Dolphin's Degree College | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://ddc.org) |
+| 5290 | Karnataka State Akkamahadevi Women's University | BELLARY | KARNATAKA | Private | [Portal](http://ksawu.org) |
+
+
+### Batch 530 (Colleges 5291–5300)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5291 | Sri Maata Degree College | BELLARY | KARNATAKA | Private | [Portal](http://smdc.org) |
+| 5292 | Government First Grade College Kavoor | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5293 | Kle Society G I Bagewadi BBA College Nipani | BELGAUM | KARNATAKA | Private | [Portal](http://klesocietyg.org) |
+| 5294 | Rpa First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rfgc.org) |
+| 5295 | Janatha Government First Grade College | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://jgfgc.gov.in) |
+| 5296 | Vidya Sanskaar Institute of Science Commerce and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vidyasanskaarinstitute.org) |
+| 5297 | Vidyalaxmi Group of Institution | UDUPI | KARNATAKA | Private | [Portal](http://vgoi.org) |
+| 5298 | Kle Societys Ssms BCA College Athani | BELGAUM | KARNATAKA | Private | [Portal](http://kssbca.org) |
+| 5299 | Anupama College of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://acomas.org) |
+| 5300 | Govinda Dasa College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://gdc.org) |
+
+
+### Batch 531 (Colleges 5301–5310)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5301 | D V S Arts and Science College | SHIMOGA | KARNATAKA | Private | [Portal](http://dvs.org) |
+| 5302 | Scs First Grade College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sfgc.org) |
+| 5303 | Mahatma Gandhi Memorial College | UDUPI | KARNATAKA | Private | [Portal](http://mgmc.org) |
+| 5304 | Sree Venkateshwara College of Science and Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sreevenkateshwaracollege.org) |
+| 5305 | S B C First Grade College for Women and Athani P G Centre | DAVANAGERE | KARNATAKA | Private | [Portal](http://sbc.org) |
+| 5306 | B.m.h.e.c's C.s.i. College of Commerce | DHARWAD | KARNATAKA | Private | [Portal](http://bccoc.org) |
+| 5307 | Government First Grade College for Women Mangaluru | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5308 | Snjpsnms Trusts Computer Applications Science and Commerce Degree College Nidasoshi | BELGAUM | KARNATAKA | Private | [Portal](http://snjpsnmstrustscomputer.org) |
+| 5309 | Government First Grade College Sullia | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5310 | Jnanodaya Commerce and Management Academe | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jcama.org) |
+
+
+### Batch 532 (Colleges 5311–5320)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5311 | St.anne's First Grade College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sfgcfw.org) |
+| 5312 | Ames Science Degree College | RAICHUR | KARNATAKA | Private | [Portal](http://asdc.org) |
+| 5313 | Cauvery College | KODAGU | KARNATAKA | Private | [Portal](http://cauverycollege.org) |
+| 5314 | Bipin Chikkatti Degree College | GADAG | KARNATAKA | Private | [Portal](http://bcdc.org) |
+| 5315 | Kle Society's College of BCA Sankeshwar | BELGAUM | KARNATAKA | Private | [Portal](http://kscobs.org) |
+| 5316 | Kles BBA College Hubli | DHARWAD | KARNATAKA | Private | [Portal](http://kbch.org) |
+| 5317 | Cauvery College Virajpet | KODAGU | KARNATAKA | Private | [Portal](http://ccv.org) |
+| 5318 | Bldea Smt Bangaramma Sajjan Arts Commerce and Science College for Women | BIJAPUR | KARNATAKA | Private | [Portal](http://bldeasmtbangaramma.org) |
+| 5319 | Sarvodaya Institute of Graduate Studies | TUMKUR | KARNATAKA | Private | [Portal](http://siogs.org) |
+| 5320 | Padmaraj Ariga Bharatesh College of Business Administration Belgaum | BELGAUM | KARNATAKA | Private | [Portal](http://padmarajarigabharatesh.org) |
+
+
+### Batch 533 (Colleges 5321–5330)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5321 | Government First Grade Residential SC ST S Model College Hadalageri | BIJAPUR | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5322 | Vijaya College Jayanagar | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vcj.org) |
+| 5323 | Mahila Samaja Arts Science Commerce and Management Studies | KOLAR | KARNATAKA | Private | [Portal](http://mahilasamajaarts.org) |
+| 5324 | Bldeas S B Arts and K C P Science College | BIJAPUR | KARNATAKA | Private | [Portal](http://bldeassb.org) |
+| 5325 | B S Channabasappa First Grade College | DAVANAGERE | KARNATAKA | Private | [Portal](http://bscfgc.org) |
+| 5326 | Government First Grade College Tumkur | TUMKUR | KARNATAKA | Public/Government | [Portal](https://gfgct.gov.in) |
+| 5327 | I D S G Government College | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://idsggc.gov.in) |
+| 5328 | Upendra Pai Memorial College | UDUPI | KARNATAKA | Private | [Portal](http://upmc.org) |
+| 5329 | Government First Grade College Harapanahalli | BELLARY | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5330 | The National College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://tnc.org) |
+
+
+### Batch 534 (Colleges 5331–5340)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5331 | Government R C College of Commerce and Management | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://governmentrc.gov.in) |
+| 5332 | Swamy Vivekananda Rural First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://svrfgc.org) |
+| 5333 | Government First Grade Women College | TUMKUR | KARNATAKA | Public/Government | [Portal](https://gfgwc.gov.in) |
+| 5334 | Smt Parvathamma Shamanuru Shivashankarappa School of High Tech Education | DAVANAGERE | KARNATAKA | Private | [Portal](http://smtparvathammashamanuru.org) |
+| 5335 | De Paul College | MANDYA | KARNATAKA | Private | [Portal](http://dpc.org) |
+| 5336 | Channabasaveshwar Gurukul First Grade College Talawad | BIDAR | KARNATAKA | Private | [Portal](http://cgfgct.org) |
+| 5337 | Kanachur Institute of Management and Science | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://kiomas.org) |
+| 5338 | Stg First Grade College | MANDYA | KARNATAKA | Private | [Portal](http://sfgc.org) |
+| 5339 | Christ Deemed to BE University Yeshwanthpur Campus | BANGALORE URBAN | KARNATAKA | Private (Deemed to be University) | [Portal](http://christdeemedto.org) |
+| 5340 | Government First Grade College Belthangady | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+
+
+### Batch 535 (Colleges 5341–5350)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5341 | Mahatma Gandhi Memorial Degree College | KODAGU | KARNATAKA | Private | [Portal](http://mgmdc.org) |
+| 5342 | Tungal School of Basic and Applied Sciences | BAGALKOT | KARNATAKA | Private | [Portal](http://tungalschoolof.org) |
+| 5343 | Government First Grade College Haliyal | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5344 | Global Educare Foundation Global College of Computer Application | DHARWAD | KARNATAKA | Private | [Portal](http://globaleducarefoundation.org) |
+| 5345 | Sri Bhagwan Mahaveer Jain Educational and Cultural Trust Jain College of BBA BCA and Bcom | BELGAUM | KARNATAKA | Private | [Portal](http://sribhagwanmahaveer.org) |
+| 5346 | Government First Grade College Shanthinagar Bengaluru | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgcsb.gov.in) |
+| 5347 | Channabasamma BCA and B Com College Bidar | BIDAR | KARNATAKA | Private | [Portal](http://channabasammabcaand.org) |
+| 5348 | Dms Mandals College of Business Administration | BELGAUM | KARNATAKA | Private | [Portal](http://dmcoba.org) |
+| 5349 | Hira Women's College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://hwc.org) |
+| 5350 | Rani Parvatidevi College of Arts and Commerce | BELGAUM | KARNATAKA | Private | [Portal](http://raniparvatidevicollege.org) |
+
+
+### Batch 536 (Colleges 5351–5360)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5351 | Government First Grade College Gauribidanur | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://gfgcg.gov.in) |
+| 5352 | St. Anne's Degree College | KODAGU | KARNATAKA | Private | [Portal](http://sadc.org) |
+| 5353 | Government First Grade College Khanapur | BELGAUM | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5354 | Seshadripuram Evening College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sec.org) |
+| 5355 | Government First Grade College Saligrama | MYSORE | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5356 | S R Nagappa Shetty Memorial National College of Applied Sciences | SHIMOGA | KARNATAKA | Private | [Portal](http://srnagappa.org) |
+| 5357 | Hoysala College of Management | SHIMOGA | KARNATAKA | Private | [Portal](http://hcom.org) |
+| 5358 | Kittur Rani Channamma Education Societys S.b.harakuni BBA College | BELGAUM | KARNATAKA | Private | [Portal](http://kitturranichannamma.org) |
+| 5359 | Mahatma Gandhi Memorial Evening College | UDUPI | KARNATAKA | Private | [Portal](http://mgmec.org) |
+| 5360 | Bes College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bescollege.org) |
+
+
+### Batch 537 (Colleges 5361–5370)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5361 | Vidya Vikas First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://vvfgc.org) |
+| 5362 | Government First Grade College Ripponpete | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://gfgcr.gov.in) |
+| 5363 | Government First Grade College Humnabad | BIDAR | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5364 | Government First Grade College Bannur | MYSORE | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 5365 | Mvj Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mdc.org) |
+| 5366 | Government First Grade College H D Kote | MYSORE | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5367 | Indus Valley Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ivdc.org) |
+| 5368 | Smt. Kamala Baswaraj Patil Okaly Degree College BCA | GULBARGA | KARNATAKA | Private | [Portal](http://smtkamalabaswaraj.org) |
+| 5369 | DR C V Raman Colleeg of Administration and Network Sciences | DAVANAGERE | KARNATAKA | Private | [Portal](http://drcv.org) |
+| 5370 | Bgs Institute of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://biom.org) |
+
+
+### Batch 538 (Colleges 5371–5380)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5371 | Vijayanagar College | VIJAYANAGARA | KARNATAKA | Private | [Portal](http://vijayanagarcollege.org) |
+| 5372 | Shri Laxmanrao Jarkiholi Institute of Business Administration | BELGAUM | KARNATAKA | Private | [Portal](http://shrilaxmanraojarkiholi.org) |
+| 5373 | Aswathaiah Esthuri Sanjeevamma National Degree College | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://aesndc.org) |
+| 5374 | Sbrr Mahajana First Grade College Autonomous | MYSORE | KARNATAKA | Private | [Portal](http://smfgca.org) |
+| 5375 | Sir M V Government Science College | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://smvgsc.gov.in) |
+| 5376 | Bangalore School of Design | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bsod.org) |
+| 5377 | Smt Indira Gandhi Government First Grade Womens College | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://smtindiragandhi.gov.in) |
+| 5378 | Dayananda Sagar Business Academy | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dsba.org) |
+| 5379 | Daksha First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://dfgc.org) |
+| 5380 | Mallamma Marimallappa Science and Business Management College | MYSORE | KARNATAKA | Private | [Portal](http://mallammamarimallappascience.org) |
+
+
+### Batch 539 (Colleges 5381–5390)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5381 | Vishwadarshana College of BCA | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://vcob.org) |
+| 5382 | Victory First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://vfgc.org) |
+| 5383 | Vaisiri Institute of Management and Technology | TUMKUR | KARNATAKA | Private | [Portal](http://viomat.org) |
+| 5384 | Vidya Vikas Institute of Hotel Management and Catering Technology | MYSORE | KARNATAKA | Private | [Portal](http://vidyavikasinstitute.org) |
+| 5385 | Government First Grade College Peenya Bangalore | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgcpb.gov.in) |
+| 5386 | Government First Grade College Hukkeri | BELGAUM | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5387 | St.anne's Degree College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sdcfw.org) |
+| 5388 | Government First Grade College Ayanur | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://gfgca.gov.in) |
+| 5389 | Government First Grade College T Narasipura | MYSORE | KARNATAKA | Public/Government | [Portal](https://gfgctn.gov.in) |
+| 5390 | Sri Vanivilasa Ursu Womens First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://srivanivilasaursu.org) |
+
+
+### Batch 540 (Colleges 5391–5400)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5391 | Sree Siddaganga College of Arts Science and Commerce for Women | TUMKUR | KARNATAKA | Private | [Portal](http://sreesiddagangacollege.org) |
+| 5392 | Nisarga College of Management | CHAMARAJNAGAR | KARNATAKA | Private | [Portal](http://ncom.org) |
+| 5393 | N.v.society's N.v. Arts Sri Kanhayalal Malu Science and Dr. Pandurangrao Patki College of Commerce | GULBARGA | KARNATAKA | Private | [Portal](http://nvsocietysnvarts.org) |
+| 5394 | Bgs Evening College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bec.org) |
+| 5395 | Jain College of Computer Applications and Management | DAVANAGERE | KARNATAKA | Private | [Portal](http://jaincollegeof.org) |
+| 5396 | Pinnacle Institute of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://piomas.org) |
+| 5397 | Mmk and Sdm Mahila Maha Vidyalaya | MYSORE | KARNATAKA | Private | [Portal](http://masmmv.org) |
+| 5398 | Maharanis Science College for Women Mysore | MYSORE | KARNATAKA | Private | [Portal](http://mscfwm.org) |
+| 5399 | Government First Grade College Honnali | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5400 | Shri Siddhalingeshwara BCA College Gokak | BELGAUM | KARNATAKA | Private | [Portal](http://ssbcg.org) |
+
+
+### Batch 541 (Colleges 5401–5410)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5401 | East West School of Business Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ewsobm.org) |
+| 5402 | Veerashaiva College | BELLARY | KARNATAKA | Private | [Portal](http://veerashaivacollege.org) |
+| 5403 | Aps College of Arts and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://acoaas.org) |
+| 5404 | Smt Rukmini Shedthi Memorial National Government First Grade College | UDUPI | KARNATAKA | Public/Government | [Portal](https://smtrukminishedthi.gov.in) |
+| 5405 | Acharya Tulsi National College of Commerce | SHIMOGA | KARNATAKA | Private | [Portal](http://atncoc.org) |
+| 5406 | Government First Grade College Channarayapatna | HASSAN | KARNATAKA | Public/Government | [Portal](https://gfgcc.gov.in) |
+| 5407 | Adichunchanagiri Institute of Busines Management | CHIKMAGALUR | KARNATAKA | Private | [Portal](http://aiobm.org) |
+| 5408 | Smt. Goudshani Savitramma Comm. Limbangoudar Patil Government First Grade Womens College Haveri | HAVERI | KARNATAKA | Public/Government | [Portal](https://smtgoudshanisavitramma.gov.in) |
+| 5409 | Jyoti Nivas College Autonomous | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jnca.org) |
+| 5410 | Asc Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://adc.org) |
+
+
+### Batch 542 (Colleges 5411–5420)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5411 | Dmsms College of Computer Applications | BELGAUM | KARNATAKA | Private | [Portal](http://dcoca.org) |
+| 5412 | Bits HI Tech College | CHITRADURGA | KARNATAKA | Private | [Portal](http://bhtc.org) |
+| 5413 | Adarsha Shikshana Samiti Shri Laxmanrao Anantrao Potnis Memorial College of Business Administration Gadag | GADAG | KARNATAKA | Private | [Portal](http://adarshashikshanasamiti.org) |
+| 5414 | Government First Grade College Tarikere | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://gfgct.gov.in) |
+| 5415 | Government First Grade College Hoskote | BANGALORE RURAL | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5416 | Vivekananda Degree College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vdcfw.org) |
+| 5417 | Sri Vidyaniketan Degree College | KOPPAL | KARNATAKA | Private | [Portal](http://svdc.org) |
+| 5418 | St. Raymond's College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://src.org) |
+| 5419 | ST Marys College | UDUPI | KARNATAKA | Private | [Portal](http://smc.org) |
+| 5420 | Government First Grade College Kushalnagar | KODAGU | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+
+
+### Batch 543 (Colleges 5421–5430)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5421 | Government College for Women Maddur | MANDYA | KARNATAKA | Public/Government | [Portal](https://gcfwm.gov.in) |
+| 5422 | Government First Grade College Punjalakatte | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcp.gov.in) |
+| 5423 | Sri Adichunchanagiri College of Arts and Commerce Nagamangala | MANDYA | KARNATAKA | Private | [Portal](http://sriadichunchanagiricollege.org) |
+| 5424 | Gfgc Holenarasipura | HASSAN | KARNATAKA | Private | [Portal](http://gfgcholenarasipura.org) |
+| 5425 | Christ College of Science and Management | KOLAR | KARNATAKA | Private | [Portal](http://ccosam.org) |
+| 5426 | Surana Evening College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sec.org) |
+| 5427 | Bharatesh College of Computer Applications | BELGAUM | KARNATAKA | Private | [Portal](http://bcoca.org) |
+| 5428 | Sophia Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5429 | Sri Jagadguru Chandrashekhara Bharathi Memorial College | CHIKMAGALUR | KARNATAKA | Private | [Portal](http://sjcbmc.org) |
+| 5430 | Government. R.c. Evening College | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://grec.gov.in) |
+
+
+### Batch 544 (Colleges 5431–5440)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5431 | Sharnbasveshwar College of Science | GULBARGA | KARNATAKA | Private | [Portal](http://scos.org) |
+| 5432 | Sri Mariyappa Balappa Kalakonnavar Government First Grade College Naregal | GADAG | KARNATAKA | Public/Government | [Portal](https://srimariyappabalappa.gov.in) |
+| 5433 | Alva's College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://alvascollege.org) |
+| 5434 | T John Institute of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://tjohninstitute.org) |
+| 5435 | Milagres College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://milagrescollege.org) |
+| 5436 | Sri Dhavala College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5437 | Advitya Degree College | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://adc.org) |
+| 5438 | Government First Grade College Hungund | BAGALKOT | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5439 | Sri Aurobindo College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sac.org) |
+| 5440 | Kodlipet First Grade College | KODAGU | KARNATAKA | Private | [Portal](http://kfgc.org) |
+
+
+### Batch 545 (Colleges 5441–5450)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5441 | Field Marshal K M Cariappa College | KODAGU | KARNATAKA | Private | [Portal](http://fmkmcc.org) |
+| 5442 | The National Degree College Bagepalli | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://tndcb.org) |
+| 5443 | Sri Sathya Sai Institute for Women | DHARWAD | KARNATAKA | Private | [Portal](http://sssifw.org) |
+| 5444 | Government First Grade College Pandavapura | MANDYA | KARNATAKA | Public/Government | [Portal](https://gfgcp.gov.in) |
+| 5445 | Kuvempu First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kfgc.org) |
+| 5446 | DR P Dayananda Pai P Satisha Pai Government First Grade College | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://drpdayananda.gov.in) |
+| 5447 | Government First Grade College Nanjangud | MYSORE | KARNATAKA | Public/Government | [Portal](https://gfgcn.gov.in) |
+| 5448 | Nehru Memorial College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://nmc.org) |
+| 5449 | Sri Ramakrishna College Mangaluru | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://srcm.org) |
+| 5450 | Baldwin Women's Methodist College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bwmc.org) |
+
+
+### Batch 546 (Colleges 5451–5460)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5451 | Government First Grade College Kadur | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5452 | Government First Grade College Varthur | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgcv.gov.in) |
+| 5453 | St. Teresa Degree College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://stdcfw.org) |
+| 5454 | Government First Grade College Hebbal Bengaluru | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgchb.gov.in) |
+| 5455 | Seshadripuram Academy of Business Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://saobs.org) |
+| 5456 | The Dalai Lama Institute for Higher Education | RAMANAGARA | KARNATAKA | Private | [Portal](http://thedalailama.org) |
+| 5457 | Government First Grade College Hullahalli | MYSORE | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5458 | Kumadvathi First Grade College | SHIMOGA | KARNATAKA | Private | [Portal](http://kfgc.org) |
+| 5459 | Jss College of Arts and Commerce | CHAMARAJNAGAR | KARNATAKA | Private | [Portal](http://jcoaac.org) |
+| 5460 | P A First Grade College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://pafgc.org) |
+
+
+### Batch 547 (Colleges 5461–5470)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5461 | Government First Grade College Shankaranarayana | UDUPI | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5462 | Anugraha First Grade College | KODAGU | KARNATAKA | Private | [Portal](http://afgc.org) |
+| 5463 | Government First Grade College Basavan Bagewadi | BIJAPUR | KARNATAKA | Public/Government | [Portal](https://gfgcbb.gov.in) |
+| 5464 | Government First Grade Evening College Tumkur | TUMKUR | KARNATAKA | Public/Government | [Portal](https://gfgect.gov.in) |
+| 5465 | Kalpataru First Grade Science College | TUMKUR | KARNATAKA | Private | [Portal](http://kfgsc.org) |
+| 5466 | Government First Grade College Siddarthanagar | MYSORE | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5467 | Government First Grade College K R Nagar | MYSORE | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5468 | Secab Institute of Business Administration | BIJAPUR | KARNATAKA | Private | [Portal](http://sioba.org) |
+| 5469 | Smt Danamma Channabasavaiah College of Arts Commerce Science and Management Studies | KOLAR | KARNATAKA | Private | [Portal](http://smtdanammachannabasavaiah.org) |
+| 5470 | Mangalore Academy of Professional Studies | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://maops.org) |
+
+
+### Batch 548 (Colleges 5471–5480)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5471 | Bapuji Institute of HI Tech Education | DAVANAGERE | KARNATAKA | Private | [Portal](http://biohte.org) |
+| 5472 | Svvn Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5473 | Sri Mahaveera College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://smc.org) |
+| 5474 | Lal Bahadur Shastri Govt. First Grade College | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://lalbahadurshastri.gov.in) |
+| 5475 | Kodagu University | KODAGU | KARNATAKA | Private | [Portal](http://kodaguuniversity.org) |
+| 5476 | Acharya Pathasala College of Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://apcoc.org) |
+| 5477 | Government First Grade College Sringeri | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5478 | Shah Sogamal Peeraji Oswal Government First Grade College Muddebihal | BIJAPUR | KARNATAKA | Public/Government | [Portal](https://shahsogamalpeeraji.gov.in) |
+| 5479 | Government First Grade College Basavanagudi | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 5480 | Ramanashree Academy of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://raom.org) |
+
+
+### Batch 549 (Colleges 5481–5490)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5481 | Vidyavardhaka Sangha | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vidyavardhakasangha.org) |
+| 5482 | Government Home Science College Hassan | HASSAN | KARNATAKA | Public/Government | [Portal](https://ghsch.gov.in) |
+| 5483 | Bldeas Commerce Bhs Arts and Tgp Science College Jamkhandi | BAGALKOT | KARNATAKA | Private | [Portal](http://bldeascommercebhs.org) |
+| 5484 | Rock Valley College of Sceince and Management Studies | KOLAR | KARNATAKA | Private | [Portal](http://rockvalleycollege.org) |
+| 5485 | Best First Grade College | HASSAN | KARNATAKA | Private | [Portal](http://bfgc.org) |
+| 5486 | Kle Society Svs Bellubbi Arts and Commerce College Saundatti | BELGAUM | KARNATAKA | Private | [Portal](http://klesocietysvs.org) |
+| 5487 | Government First Grade College Kaup | UDUPI | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5488 | Sanmati Shikshan Sahakari Samiti Limiteds College of Business Administration Belgaum | BELGAUM | KARNATAKA | Private | [Portal](http://sanmatishikshansahakari.org) |
+| 5489 | Besant Women's College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://bwc.org) |
+| 5490 | Varadaraja Degree College | TUMKUR | KARNATAKA | Private | [Portal](http://vdc.org) |
+
+
+### Batch 550 (Colleges 5491–5500)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5491 | Guru Nanak First Grade Science College | BIDAR | KARNATAKA | Private | [Portal](http://gnfgsc.org) |
+| 5492 | Government First Grade College for Women Davanagere | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5493 | Williams International College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://wic.org) |
+| 5494 | Raman Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rdc.org) |
+| 5495 | Government First Grade College Koppal | KOPPAL | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5496 | S M Visvesvaraya Degree College | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://smvdc.org) |
+| 5497 | Sri Bhuvanendra College Trust | UDUPI | KARNATAKA | Private | [Portal](http://sbct.org) |
+| 5498 | Rukmini Shetty Memorial Sudhakar Shetty BCA College | DHARWAD | KARNATAKA | Private | [Portal](http://rukminishettymemorial.org) |
+| 5499 | Interface College of Computer Applications | DAVANAGERE | KARNATAKA | Private | [Portal](http://icoca.org) |
+| 5500 | Government Degree College Yadagiri | YADGIR | KARNATAKA | Public/Government | [Portal](https://gdcy.gov.in) |
+
+
+### Batch 551 (Colleges 5501–5510)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5501 | Shri Vijaya Mahantesh Vidya Vardhaka Sangha's College of Business Administration Ilkal | BAGALKOT | KARNATAKA | Private | [Portal](http://shrivijayamahantesh.org) |
+| 5502 | Gnanadhare First Grade College | HASSAN | KARNATAKA | Private | [Portal](http://gfgc.org) |
+| 5503 | Sahyadri Institute of Commerce | CHIKMAGALUR | KARNATAKA | Private | [Portal](http://sioc.org) |
+| 5504 | Rns Evening College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rec.org) |
+| 5505 | Tunga Mahavidyalaya | SHIMOGA | KARNATAKA | Private | [Portal](http://tungamahavidyalaya.org) |
+| 5506 | Hasanath College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hcfw.org) |
+| 5507 | Anantrao Raghavendrarao Jahagirdar BCA College Ilkal | BAGALKOT | KARNATAKA | Private | [Portal](http://arjbci.org) |
+| 5508 | Doddappa Appa College of BCA Basavakalyan | BIDAR | KARNATAKA | Private | [Portal](http://dacobb.org) |
+| 5509 | Smt Vimalabai Saka BBA and BCA College | BAGALKOT | KARNATAKA | Private | [Portal](http://smtvimalabaisaka.org) |
+| 5510 | Sri Khened Murigeppa Degree College Devadurga | RAICHUR | KARNATAKA | Private | [Portal](http://skmdcd.org) |
+
+
+### Batch 552 (Colleges 5511–5520)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5511 | Government First Grade College Manhalli | BIDAR | KARNATAKA | Public/Government | [Portal](https://gfgcm.gov.in) |
+| 5512 | Government First Grade College Nyamathi | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://gfgcn.gov.in) |
+| 5513 | Vymak Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vdc.org) |
+| 5514 | Sri Sri Shivalingeshwaraswamy Gfgc Channagiri | DAVANAGERE | KARNATAKA | Private | [Portal](http://sssgc.org) |
+| 5515 | R N Shetty Trust R N Shetty Degree College Murdeshwar | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://rnshetty.org) |
+| 5516 | Trisha Vidya College of Commerce and Management | UDUPI | KARNATAKA | Private | [Portal](http://trishavidyacollege.org) |
+| 5517 | Spurthy College of Science and Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://spurthycollegeof.org) |
+| 5518 | Shree Guru Sudhindra College of Computer Applications | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://shreegurusudhindra.org) |
+| 5519 | Saint Mary's Syrian College Brahmavar | UDUPI | KARNATAKA | Private | [Portal](http://smscb.org) |
+| 5520 | Sahyadridegreecollege | KOLAR | KARNATAKA | Private | [Portal](http://sahyadridegreecollege.org) |
+
+
+### Batch 553 (Colleges 5521–5530)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5521 | Government First Grade College Bhatkal | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 5522 | K S Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ksdc.org) |
+| 5523 | Sri Krishna Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://skdc.org) |
+| 5524 | Mysore Institute of Commerce and Arts | MYSORE | KARNATAKA | Private | [Portal](http://miocaa.org) |
+| 5525 | Best Degree College | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://bdc.org) |
+| 5526 | Sree Siddaganga College of Arts Science and Commerce | TUMKUR | KARNATAKA | Private | [Portal](http://sreesiddagangacollege.org) |
+| 5527 | Hkbk Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hdc.org) |
+| 5528 | Padua College of Commerce and Management | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://pcocam.org) |
+| 5529 | AL Ameen Institution of Information Sciences | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aaiois.org) |
+| 5530 | Sri Bhagawan Mahaveer Jain First Grade College | KOLAR | KARNATAKA | Private | [Portal](http://sribhagawanmahaveer.org) |
+
+
+### Batch 554 (Colleges 5531–5540)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5531 | Abbas Khan College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://akcfw.org) |
+| 5532 | Government First Grade College Jewargi | GULBARGA | KARNATAKA | Public/Government | [Portal](https://gfgcj.gov.in) |
+| 5533 | Kle Societys Ssms BBA College Athani | BELGAUM | KARNATAKA | Private | [Portal](http://kssbca.org) |
+| 5534 | Rbanms First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rfgc.org) |
+| 5535 | Government Womens College Hunsur | MYSORE | KARNATAKA | Public/Government | [Portal](https://gwch.gov.in) |
+| 5536 | Government First Grade College Devanahalli | BANGALORE RURAL | KARNATAKA | Public/Government | [Portal](https://gfgcd.gov.in) |
+| 5537 | Bgs Science Academy | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://bsa.org) |
+| 5538 | A.g.b First Grade College | DAVANAGERE | KARNATAKA | Private | [Portal](http://afgc.org) |
+| 5539 | Government First Grade College Magadi | RAMANAGARA | KARNATAKA | Public/Government | [Portal](https://gfgcm.gov.in) |
+| 5540 | Gnana Jyothy Town Mahila Samaja First Grade College | CHIKMAGALUR | KARNATAKA | Private | [Portal](http://gnanajyothytown.org) |
+
+
+### Batch 555 (Colleges 5541–5550)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5541 | Sharada College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sharadacollege.org) |
+| 5542 | Sri Venkateshwara College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://svc.org) |
+| 5543 | Mes College of Arts Commerce and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mescollegeof.org) |
+| 5544 | Nes Institute of Advanced Studies | SHIMOGA | KARNATAKA | Private | [Portal](http://nioas.org) |
+| 5545 | Government Home Science College for Women | HASSAN | KARNATAKA | Public/Government | [Portal](https://ghscfw.gov.in) |
+| 5546 | Royal College of Arts Science and Management | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://royalcollegeof.org) |
+| 5547 | Dr. A. V. Baliga College of Arts and Science | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://drav.org) |
+| 5548 | Smt Kumudben Darbar College of Commerce Science and Management Studies Bijapur | BIJAPUR | KARNATAKA | Private | [Portal](http://smtkumudbendarbar.org) |
+| 5549 | Bishop Norman Carr Sargent College of Commerce and Business Management | MYSORE | KARNATAKA | Private | [Portal](http://bishopnormancarr.org) |
+| 5550 | Government First Grade College Dandeli | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcd.gov.in) |
+
+
+### Batch 556 (Colleges 5551–5560)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5551 | Government First Grade College Narasimharajapura | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://gfgcn.gov.in) |
+| 5552 | Mount Carmel College Autonomous | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mcca.org) |
+| 5553 | Goodwill Christian College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gccfw.org) |
+| 5554 | B V Bhoomaraddi College of Arts Science and Commerce Bidar | BIDAR | KARNATAKA | Private | [Portal](http://bvbhoomaraddi.org) |
+| 5555 | Tippu Sultan First Grade College Ombhathukere Ullal | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://tippusultanfirst.org) |
+| 5556 | Agragami Institute of Computers and Advanced Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://agragamiinstituteof.org) |
+| 5557 | Government First Grade College Vamadapadavu | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcv.gov.in) |
+| 5558 | Sri Raghavendra First Grade College | TUMKUR | KARNATAKA | Private | [Portal](http://srfgc.org) |
+| 5559 | Bgs Institute of Management Studies | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://bioms.org) |
+| 5560 | J H Patel Institute of Management and Technology | DAVANAGERE | KARNATAKA | Private | [Portal](http://jhpatel.org) |
+
+
+### Batch 557 (Colleges 5561–5570)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5561 | Skng Govt. First Grade College | KOPPAL | KARNATAKA | Public/Government | [Portal](https://sgfgc.gov.in) |
+| 5562 | Cavalier Institutions | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://cavalierinstitutions.org) |
+| 5563 | Royal Institute of Commerce | HASSAN | KARNATAKA | Private | [Portal](http://rioc.org) |
+| 5564 | Government Degree College Sindhanur | RAICHUR | KARNATAKA | Public/Government | [Portal](https://gdcs.gov.in) |
+| 5565 | East Point College of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://epcom.org) |
+| 5566 | Hasanath Academy of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://haoms.org) |
+| 5567 | Government First Grade College Banavara | HASSAN | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 5568 | Kle Societys College of BCA Bailhongal | BELGAUM | KARNATAKA | Private | [Portal](http://kscobb.org) |
+| 5569 | Ideal Degree College | RAICHUR | KARNATAKA | Private | [Portal](http://idc.org) |
+| 5570 | Edurite College of Management Studies | SHIMOGA | KARNATAKA | Private | [Portal](http://ecoms.org) |
+
+
+### Batch 558 (Colleges 5571–5580)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5571 | Shri Sangameshwar Arts and Commerce College Chadchan | BIJAPUR | KARNATAKA | Private | [Portal](http://shrisangameshwararts.org) |
+| 5572 | Bearys First Grade College | UDUPI | KARNATAKA | Private | [Portal](http://bfgc.org) |
+| 5573 | Hillside Institute of Management and Academy | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hiomaa.org) |
+| 5574 | Government First Grade College Kolar | KOLAR | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5575 | Silicon City College of Management and Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://siliconcitycollege.org) |
+| 5576 | Sri Bhagawan Mahaveer Jain Evening College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sbmjec.org) |
+| 5577 | Krupanidhi College of Commerce and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kcocam.org) |
+| 5578 | Sri Rama First Grade College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://srfgc.org) |
+| 5579 | Government First Grade College and PG Center | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5580 | M S Padmavathamma M K Sambasiva Setty First Grade College | CHIKMAGALUR | KARNATAKA | Private | [Portal](http://mspadmavathamma.org) |
+
+
+### Batch 559 (Colleges 5581–5590)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5581 | Government First Grade College Honnavar | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5582 | Smt Gali Rukminamma Chengareddy Memorial Govt Commerce and Management College Ballari | BELLARY | KARNATAKA | Public/Government | [Portal](https://smtgalirukminamma.gov.in) |
+| 5583 | Sri Venkateshwara First Grade College | CHITRADURGA | KARNATAKA | Private | [Portal](http://svfgc.org) |
+| 5584 | Government First Grade College Malur | KOLAR | KARNATAKA | Public/Government | [Portal](https://gfgcm.gov.in) |
+| 5585 | Mudalgi Education Societys Arts and Commerce College Mudalgi | BELGAUM | KARNATAKA | Private | [Portal](http://mudalgieducationsocietys.org) |
+| 5586 | Lady Vailankanni Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://lvdc.org) |
+| 5587 | Laxmi Venkatesh Desai College | RAICHUR | KARNATAKA | Private | [Portal](http://lvdc.org) |
+| 5588 | Nalanda BCA College | DHARWAD | KARNATAKA | Private | [Portal](http://nbc.org) |
+| 5589 | Bhageerathi Bai Narayana Rao Maanay College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bbnrmc.org) |
+| 5590 | Sha Bra Mahanta Shivacharya Swamiji Degree College | GULBARGA | KARNATAKA | Private | [Portal](http://shabramahanta.org) |
+
+
+### Batch 560 (Colleges 5591–5600)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5591 | Government First Grade College Bgbbasavakalyan Dist Bidar2077gkkb | BIDAR | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5592 | Sri Mahadeshwara Govt First Grade College Kollegal | CHAMARAJNAGAR | KARNATAKA | Public/Government | [Portal](https://srimahadeshwaragovt.gov.in) |
+| 5593 | Government First Grade College K R Pete | MANDYA | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5594 | Innova Institute of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iiomas.org) |
+| 5595 | Maharanis Arts College for Women | MYSORE | KARNATAKA | Private | [Portal](http://macfw.org) |
+| 5596 | Government First Grade College Yelahanka Bangalore | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgcyb.gov.in) |
+| 5597 | Government First Grade College and PG Centre Dharwad | DHARWAD | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5598 | Vishwa Chethana Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vcdc.org) |
+| 5599 | St. Joseph's College for Women | MYSORE | KARNATAKA | Private | [Portal](http://sjcfw.org) |
+| 5600 | Misbah Womens College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://mwc.org) |
+
+
+### Batch 561 (Colleges 5601–5610)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5601 | Dr. N.s.a.m First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dnfgc.org) |
+| 5602 | Chetana Commerce College | DHARWAD | KARNATAKA | Private | [Portal](http://ccc.org) |
+| 5603 | St. Aloysius Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sadc.org) |
+| 5604 | Government First Grade College for Women K R Nagara | MYSORE | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5605 | Government First Grade College Arakalgud | HASSAN | KARNATAKA | Public/Government | [Portal](https://gfgca.gov.in) |
+| 5606 | Dr. G. Shankar Government Women's First Grade College and P.g. Study Centre | UDUPI | KARNATAKA | Public/Government | [Portal](https://drgshankar.gov.in) |
+| 5607 | Ecr Institute of Management Studies | UDUPI | KARNATAKA | Private | [Portal](http://eioms.org) |
+| 5608 | Government First Grade College Yelburga | KOPPAL | KARNATAKA | Public/Government | [Portal](https://gfgcy.gov.in) |
+| 5609 | Ramaiah Intitute of Business Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://riobs.org) |
+| 5610 | Government First Grade Womens College | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgwc.gov.in) |
+
+
+### Batch 562 (Colleges 5611–5620)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5611 | ST Joseph's College Hunsur | MYSORE | KARNATAKA | Private | [Portal](http://sjch.org) |
+| 5612 | Government First Grade College Chikkanayakanahalli | TUMKUR | KARNATAKA | Public/Government | [Portal](https://gfgcc.gov.in) |
+| 5613 | Skvms Govt First Grade College Kundapura Koteshwara | UDUPI | KARNATAKA | Public/Government | [Portal](https://skvmsgovtfirst.gov.in) |
+| 5614 | Huda National Arts Commerce and Science Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hudanationalarts.org) |
+| 5615 | Dr. A. V. Baliga College of Commerce | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://drav.org) |
+| 5616 | Government First Grade College Bidar | BIDAR | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 5617 | Mangalore Institue of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://miomas.org) |
+| 5618 | Government First Grade College Haleyangadi | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5619 | Shree Sai Chaitanya Degree College Bidar | BIDAR | KARNATAKA | Private | [Portal](http://sscdcb.org) |
+| 5620 | Lakshmi Soma Bangera Government First Grade College | UDUPI | KARNATAKA | Public/Government | [Portal](https://lakshmisomabangera.gov.in) |
+
+
+### Batch 563 (Colleges 5621–5630)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5621 | Jnanadhara First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://jfgc.org) |
+| 5622 | Anjuman E Islams Nehru Arts Science Commerce BBA BCA College and PG Centre Hubli | DHARWAD | KARNATAKA | Private | [Portal](http://anjumaneislams.org) |
+| 5623 | Hppc Government First Grade College Challakere | CHITRADURGA | KARNATAKA | Public/Government | [Portal](https://hgfgcc.gov.in) |
+| 5624 | Sri D Devaraja Urs Government First Grade College Hunsur | MYSORE | KARNATAKA | Public/Government | [Portal](https://sriddevaraja.gov.in) |
+| 5625 | Gfgc Shiralakoppa | SHIMOGA | KARNATAKA | Private | [Portal](http://gfgcshiralakoppa.org) |
+| 5626 | Sgt College | BELLARY | KARNATAKA | Private | [Portal](http://sgtcollege.org) |
+| 5627 | Vijaya Evening College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vec.org) |
+| 5628 | Baldwin Methodist College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bmc.org) |
+| 5629 | Vedavathi Govt First Grade College | CHITRADURGA | KARNATAKA | Public/Government | [Portal](https://vgfgc.gov.in) |
+| 5630 | Vidya Vardhak Sangh | BIJAPUR | KARNATAKA | Private | [Portal](http://vvs.org) |
+
+
+### Batch 564 (Colleges 5631–5640)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5631 | Poornaprajna College | UDUPI | KARNATAKA | Private | [Portal](http://poornaprajnacollege.org) |
+| 5632 | Srs Degree College | CHITRADURGA | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5633 | Loyola College Manvi | RAICHUR | KARNATAKA | Private | [Portal](http://lcm.org) |
+| 5634 | Sri Siddhartha First Grade College | TUMKUR | KARNATAKA | Private | [Portal](http://ssfgc.org) |
+| 5635 | J E Societys Shri K A Lokapur Arts Science and Commerce College Athani | BELGAUM | KARNATAKA | Private | [Portal](http://jesocietys.org) |
+| 5636 | Government First Grade College Belandoor | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 5637 | Sri Krishna Rukmini First Grade College | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://skrfgc.org) |
+| 5638 | Government College Alur | HASSAN | KARNATAKA | Public/Government | [Portal](https://gca.gov.in) |
+| 5639 | Sri Honnadevi Government First Grade College | TUMKUR | KARNATAKA | Public/Government | [Portal](https://shgfgc.gov.in) |
+| 5640 | Grace International Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gidc.org) |
+
+
+### Batch 565 (Colleges 5641–5650)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5641 | Government First Grade College Uppinangady | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcu.gov.in) |
+| 5642 | IIM Ahmedabad IIM Ahmedabad | Gujarat | Gujarat | Public/Government | [Portal](https://iaia.gov.in) |
+| 5643 | Upes Centre for Continuing & Online Education | Gujarat | Gujarat | Private | [Portal](http://ucfcoe.org) |
+| 5644 | Gnlu Gandhinagar Gnlu Gandhinagar | India | India Top | Private | [Portal](http://gggg.org) |
+| 5645 | Chandigarh University Institute of Distance and Online Learning | Maharashtra | Maharashtra | Private | [Portal](http://chandigarhuniversityinstitute.org) |
+| 5646 | World University of Design Campus | Maharashtra | Maharashtra | Private | [Portal](http://wuodc.org) |
+| 5647 | Upes School of Design Studies | Maharashtra | Maharashtra | Private | [Portal](http://usods.org) |
+| 5648 | Asian College of Journalism (Acj) | Karnataka | Karnataka | Private | [Portal](http://acoja.org) |
+| 5649 | Alliance School of Law, Alliance University | Karnataka | Karnataka | Private | [Portal](http://asolau.org) |
+| 5650 | Upes School of Law | Karnataka | Karnataka | Private | [Portal](http://usol.org) |
+
+
+### Batch 566 (Colleges 5651–5660)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5651 | Iimc | Delhi | Delhi NCR | Private | [Portal](http://iimc.org) |
+| 5652 | Sharda University School of Business Studies | Maharashtra | Maharashtra | Private | [Portal](http://susobs.org) |
+| 5653 | D.l.r College PG (MBA Programe) | EAST GODAVARI | ANDHRA PRADESH | Private | [Portal](http://dcpmp.org) |
+| 5654 | Pnc&kr College of PG | GUNTUR | ANDHRA PRADESH | Private | [Portal](http://pcop.org) |
+| 5655 | G B R Degree College (P G ) | EAST GODAVARI | ANDHRA PRADESH | Private | [Portal](http://gbr.org) |
+| 5656 | D. N. R. College, P.g. | WEST GODAVARI | ANDHRA PRADESH | Private | [Portal](http://dnrcp.org) |
+| 5657 | Hindu College P.g ,Guntur | GUNTUR | ANDHRA PRADESH | Private | [Portal](http://hcpg.org) |
+| 5658 | Kgrl College:pg | WEST GODAVARI | ANDHRA PRADESH | Private | [Portal](http://kgrlcollegepg.org) |
+| 5659 | Pydah College(P.g. ) | VISHAKHAPATNAM | ANDHRA PRADESH | Private | [Portal](http://pydahcollegepg.org) |
+| 5660 | The Hindu College (PG ) PG Department of Management Studies,Machilipatnam | KRISHNA | ANDHRA PRADESH | Private | [Portal](http://thehinducollege.org) |
+
+
+### Batch 567 (Colleges 5661–5670)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5661 | Gayatri Vidya Parishad College for Degree and PG | VISHAKHAPATNAM | ANDHRA PRADESH | Private | [Portal](http://gayatrividyaparishad.org) |
+| 5662 | Aadya Aviation College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aac.org) |
+| 5663 | Shree Netaji Subhas Chandra Bose Degree College | BELLARY | KARNATAKA | Private | [Portal](http://shreenetajisubhas.org) |
+| 5664 | Bel First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bfgc.org) |
+| 5665 | RK Vision Degree College | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://rvdc.org) |
+| 5666 | ST Hopkins International College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://shic.org) |
+| 5667 | Sunsoft Degree College Bidar | BIDAR | KARNATAKA | Private | [Portal](http://sdcb.org) |
+| 5668 | Mvj College of Science and Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mcosac.org) |
+| 5669 | Gfgc Ramanagara | RAMANAGARA | KARNATAKA | Private | [Portal](http://gfgcramanagara.org) |
+| 5670 | Government I Grade College Sirasi | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gigcs.gov.in) |
+
+
+### Batch 568 (Colleges 5671–5680)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5671 | Jindal College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jcfw.org) |
+| 5672 | Government First Grade College Hanur | CHAMARAJNAGAR | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5673 | Government First Grade College Vemagal | KOLAR | KARNATAKA | Public/Government | [Portal](https://gfgcv.gov.in) |
+| 5674 | Tumkur University | TUMKUR | KARNATAKA | Private | [Portal](http://tumkuruniversity.org) |
+| 5675 | Sacred Heart Degree College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://shdcfw.org) |
+| 5676 | Srushti College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://srushticollege.org) |
+| 5677 | Smt Neelamma Kudur KA Satyanarayana Shetty Government First Grade College Kudur | RAMANAGARA | KARNATAKA | Public/Government | [Portal](https://smtneelammakudur.gov.in) |
+| 5678 | Government First Grade College Sidlaghatta | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5679 | Government First Grade College Kumta | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5680 | Government First Grade College Turuvekere | TUMKUR | KARNATAKA | Public/Government | [Portal](https://gfgct.gov.in) |
+
+
+### Batch 569 (Colleges 5681–5690)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5681 | Shanthiniketan College of Science and Management Studies | RAMANAGARA | KARNATAKA | Private | [Portal](http://shanthiniketancollegeof.org) |
+| 5682 | Bms Government First Grade College | TUMKUR | KARNATAKA | Public/Government | [Portal](https://bgfgc.gov.in) |
+| 5683 | Government First Grade College and Centre for P.g Studies Thenkanidiyur Udupi | UDUPI | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5684 | Gomatesh Vidyapeeth College of Computer Application | BELGAUM | KARNATAKA | Private | [Portal](http://gvcoca.org) |
+| 5685 | Model Residential Government First Grade College for Women | HASSAN | KARNATAKA | Public/Government | [Portal](https://modelresidentialgovernment.gov.in) |
+| 5686 | Trisha College of Commerce and Management | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://tcocam.org) |
+| 5687 | Indo American Degree College | BELLARY | KARNATAKA | Private | [Portal](http://iadc.org) |
+| 5688 | Kgssgm Theosophical College | VIJAYANAGARA | KARNATAKA | Private | [Portal](http://ktc.org) |
+| 5689 | Sir M.v Government Arts and Commerce College Newtown Bhadravathi | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://sirmvgovernment.gov.in) |
+| 5690 | Sri Gokula College O Arts Science and Management Studies | KOLAR | KARNATAKA | Private | [Portal](http://srigokulacollege.org) |
+
+
+### Batch 570 (Colleges 5691–5700)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5691 | Cjr Rjs FG College Marathahalli | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://crfcm.org) |
+| 5692 | Pride First Grade College Hassan | HASSAN | KARNATAKA | Private | [Portal](http://pfgch.org) |
+| 5693 | Manorama College of Computer Application | GADAG | KARNATAKA | Private | [Portal](http://mcoca.org) |
+| 5694 | Government First Grade College Kanakapura | RAMANAGARA | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5695 | Government First Grade College Ankola | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgca.gov.in) |
+| 5696 | Government First Grade College for Women Vijayanagar Mysuru | MYSORE | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5697 | Shri Shripadbodh Swamiji Government First Grade College Mudalagi | BELGAUM | KARNATAKA | Public/Government | [Portal](https://shrishripadbodhswamiji.gov.in) |
+| 5698 | Government First Grade College of Arts Science and Commerce | TUMKUR | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5699 | Government First Grade College for Women Krishnarajapete | MANDYA | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5700 | Government First Grade College Kuderu | CHAMARAJNAGAR | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+
+
+### Batch 571 (Colleges 5701–5710)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5701 | Aims Ibs Business School Acliv Institute of Management Studies International Business School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aimsibsbusiness.org) |
+| 5702 | Principal Govt First Grade College for Women Jamkhandi | BAGALKOT | KARNATAKA | Public/Government | [Portal](https://principalgovtfirst.gov.in) |
+| 5703 | Government First Grade College Siddapur | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5704 | Crossland College | UDUPI | KARNATAKA | Private | [Portal](http://crosslandcollege.org) |
+| 5705 | Devanga Sangha First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dsfgc.org) |
+| 5706 | Jame UL Uloom Institute of Information Science | RAMANAGARA | KARNATAKA | Private | [Portal](http://jameululoom.org) |
+| 5707 | Vision Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vdc.org) |
+| 5708 | Government First Grade College for Women Raichur | RAICHUR | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5709 | Sharaneshwari Reshmi Women's Degree College Kalaburgi | GULBARGA | KARNATAKA | Private | [Portal](http://srwdck.org) |
+| 5710 | Srisaila Jagadguru Vageesha Panditharadya College | DAVANAGERE | KARNATAKA | Private | [Portal](http://sjvpc.org) |
+
+
+### Batch 572 (Colleges 5711–5720)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5711 | Sri Venkataramana Swamy College Bantwal | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://svscb.org) |
+| 5712 | Government First Grade College Navanagar Bagalkot | BAGALKOT | KARNATAKA | Public/Government | [Portal](https://gfgcnb.gov.in) |
+| 5713 | Government First Grade College Holehonnur | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5714 | Maharani Lakshmi Ammanni College for Women Autonomous | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://maharanilakshmiammanni.org) |
+| 5715 | Kairalee Nikethan Golden Jubilee Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kngjdc.org) |
+| 5716 | Shri Satyam College | BIDAR | KARNATAKA | Private | [Portal](http://ssc.org) |
+| 5717 | Nutana Institute of Management | DAVANAGERE | KARNATAKA | Private | [Portal](http://niom.org) |
+| 5718 | Smt BE Hanumanthamma Memorial Institute of Management | BELLARY | KARNATAKA | Private | [Portal](http://smtbehanumanthamma.org) |
+| 5719 | United Degree College | GULBARGA | KARNATAKA | Private | [Portal](http://udc.org) |
+| 5720 | Bijapur District Education Society Bhavani Management School BBA College | BIJAPUR | KARNATAKA | Private | [Portal](http://bijapurdistricteducation.org) |
+
+
+### Batch 573 (Colleges 5721–5730)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5721 | Sadguru Siddharoodh Women's Degree College Bidar | BIDAR | KARNATAKA | Private | [Portal](http://sswdcb.org) |
+| 5722 | Arg College of Arts and Commerce | DAVANAGERE | KARNATAKA | Private | [Portal](http://acoaac.org) |
+| 5723 | St.philomena First Grade College for Women | HASSAN | KARNATAKA | Private | [Portal](http://sfgcfw.org) |
+| 5724 | Government First Grade College Malleshwaram | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgcm.gov.in) |
+| 5725 | Shri. Bhagawan Mahaveer Jain Educational and Cultural Trust Jain College of B.b.a | DHARWAD | KARNATAKA | Private | [Portal](http://shribhagawanmahaveer.org) |
+| 5726 | Akshaya College Puttur | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://acp.org) |
+| 5727 | Chetana BCA College | BIJAPUR | KARNATAKA | Private | [Portal](http://cbc.org) |
+| 5728 | Chetana BBA College | BIJAPUR | KARNATAKA | Private | [Portal](http://cbc.org) |
+| 5729 | Government First Grade College Hubli | DHARWAD | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5730 | Lal Bahadur Arts Science and S B Solabanna Shetty Commerce College | SHIMOGA | KARNATAKA | Private | [Portal](http://lalbahadurarts.org) |
+
+
+### Batch 574 (Colleges 5731–5740)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5731 | Governement First Grade College Bijapur | BIJAPUR | KARNATAKA | Private | [Portal](http://gfgcb.org) |
+| 5732 | Sri Channabasaveshwar College of Arts Science and Commerce Bhalki | BIDAR | KARNATAKA | Private | [Portal](http://srichannabasaveshwarcollege.org) |
+| 5733 | Government First Grade Evening College Carstreet Mangalore | DAKSHINA KANNADA | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5734 | Holy Trinity College | TUMKUR | KARNATAKA | Private | [Portal](http://htc.org) |
+| 5735 | Government First Grade College Thirthahalli | SHIMOGA | KARNATAKA | Public/Government | [Portal](https://gfgct.gov.in) |
+| 5736 | Hoysala Degree College | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://hdc.org) |
+| 5737 | ST Joseph's First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://sjfgc.org) |
+| 5738 | Smt I S Yadawad Government First Grade College Ramdurg | BELGAUM | KARNATAKA | Public/Government | [Portal](https://smtis.gov.in) |
+| 5739 | Pragathi College of Science and Management Studies | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://pragathicollegeof.org) |
+| 5740 | Teresian College | MYSORE | KARNATAKA | Private | [Portal](http://teresiancollege.org) |
+
+
+### Batch 575 (Colleges 5741–5750)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5741 | Smt Gouramma B Ankalkoti Govt First Grade College Shiggaon | HAVERI | KARNATAKA | Public/Government | [Portal](https://smtgourammab.gov.in) |
+| 5742 | Basaveshwara Degree College Bidadi | RAMANAGARA | KARNATAKA | Private | [Portal](http://bdcb.org) |
+| 5743 | Pest's Belgaum Institute of Management Studies Degree College | BELGAUM | KARNATAKA | Private | [Portal](http://pestsbelgauminstitute.org) |
+| 5744 | Gupta College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://guptacollege.org) |
+| 5745 | Sri H D Devegowda Government First Grade College | HASSAN | KARNATAKA | Public/Government | [Portal](https://srihd.gov.in) |
+| 5746 | Vidya First Grade College | TUMKUR | KARNATAKA | Private | [Portal](http://vfgc.org) |
+| 5747 | Isbc College of Arts Science and Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://isbccollegeof.org) |
+| 5748 | University Colege of Arts | TUMKUR | KARNATAKA | Private | [Portal](http://ucoa.org) |
+| 5749 | Udupi College of Professional Studiesm | UDUPI | KARNATAKA | Private | [Portal](http://ucops.org) |
+| 5750 | Shree Vedha College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://svc.org) |
+
+
+### Batch 576 (Colleges 5751–5760)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5751 | Vidyarashmi First Grade College Savanoor | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://vfgcs.org) |
+| 5752 | Charans Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://cdc.org) |
+| 5753 | Government First Grade College for Women Byrapura | MYSORE | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5754 | Bhadra Institute of Management and Information Science Studies | DAVANAGERE | KARNATAKA | Private | [Portal](http://bhadrainstituteof.org) |
+| 5755 | Shree Mangilal Sundarbai Gotawat Arts and Commerce Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://shreemangilalsundarbai.org) |
+| 5756 | Gvpp Governmement First Grade College | VIJAYANAGARA | KARNATAKA | Private | [Portal](http://ggfgc.org) |
+| 5757 | Nbc College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://nbccollege.org) |
+| 5758 | Akshara First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://afgc.org) |
+| 5759 | Smt. and Sri Y E Rangaiah Shetty Government First Grade College | TUMKUR | KARNATAKA | Public/Government | [Portal](https://smtandsri.gov.in) |
+| 5760 | Shri Padmaraj Vidyavardhak Sangha G P Porawal BCA College | BIJAPUR | KARNATAKA | Private | [Portal](http://shripadmarajvidyavardhak.org) |
+
+
+### Batch 577 (Colleges 5761–5770)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5761 | Sri Dharmasthala Manjunatheshwara Autonomous College Ujire | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sdmacu.org) |
+| 5762 | Government First Grade College Udayapura | HASSAN | KARNATAKA | Public/Government | [Portal](https://gfgcu.gov.in) |
+| 5763 | Shashib College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://shashibcollege.org) |
+| 5764 | Pallagatti Adavappa Arts and Commerce First Grade College | TUMKUR | KARNATAKA | Private | [Portal](http://pallagattiadavappaarts.org) |
+| 5765 | Smt Nalini Raghunath Rao Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://snrrdc.org) |
+| 5766 | Benedictine Academy | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://benedictineacademy.org) |
+| 5767 | Vidyavahini First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vfgc.org) |
+| 5768 | Government First Grade College Kadugudi | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5769 | Mahadeva College of Commerce | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://mcoc.org) |
+| 5770 | Surana College Autonomous | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sca.org) |
+
+
+### Batch 578 (Colleges 5771–5780)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5771 | H R Sriramulu Memorial College Gangavathi | KOPPAL | KARNATAKA | Private | [Portal](http://hrsmcg.org) |
+| 5772 | Government First Grade College Bangarpet | KOLAR | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 5773 | Sri Sai College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sscfw.org) |
+| 5774 | Sarvodaya First Grade College | TUMKUR | KARNATAKA | Private | [Portal](http://sfgc.org) |
+| 5775 | Government Women's First Grade College | GULBARGA | KARNATAKA | Public/Government | [Portal](https://gwfgc.gov.in) |
+| 5776 | Cambridge College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://cambridgecollege.org) |
+| 5777 | Oxbridge College of Science and Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ocosac.org) |
+| 5778 | Government First Grade College Hesaraghatta | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5779 | Government First Grade College Channapatna | RAMANAGARA | KARNATAKA | Public/Government | [Portal](https://gfgcc.gov.in) |
+| 5780 | Sir M Vishweshwarayya Vidya Vardhak Sangha's | BAGALKOT | KARNATAKA | Private | [Portal](http://smvvvs.org) |
+
+
+### Batch 579 (Colleges 5781–5790)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5781 | Shantiniketan College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://shantiniketancollege.org) |
+| 5782 | Ray Educational Trust | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ret.org) |
+| 5783 | Ebenezer Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://edc.org) |
+| 5784 | Indian Academy Degree College Autonomous | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iadca.org) |
+| 5785 | Government First Grade College Sandur | BELLARY | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5786 | Government First Grade Evening College Davanagere | DAVANAGERE | KARNATAKA | Public/Government | [Portal](https://gfgecd.gov.in) |
+| 5787 | Bangalore College of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bcoms.org) |
+| 5788 | Kengeri First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kfgc.org) |
+| 5789 | Nbp Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ndc.org) |
+| 5790 | Mandavya First Grade College | MANDYA | KARNATAKA | Private | [Portal](http://mfgc.org) |
+
+
+### Batch 580 (Colleges 5791–5800)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5791 | M H Institute of Management Sciences | RAMANAGARA | KARNATAKA | Private | [Portal](http://mhioms.org) |
+| 5792 | Government First Grade College Mosalehosahally | HASSAN | KARNATAKA | Public/Government | [Portal](https://gfgcm.gov.in) |
+| 5793 | Veit Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vdc.org) |
+| 5794 | SS Degree College | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5795 | Government Model Degree College | RAICHUR | KARNATAKA | Public/Government | [Portal](https://gmdc.gov.in) |
+| 5796 | Government Model Degree College Shahapur | YADGIR | KARNATAKA | Public/Government | [Portal](https://gmdcs.gov.in) |
+| 5797 | Govrnment First Grade College | CHAMARAJNAGAR | KARNATAKA | Private | [Portal](http://gfgc.org) |
+| 5798 | Acharya Bangalore B School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://abbs.org) |
+| 5799 | Arunodaya College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://arunodayacollege.org) |
+| 5800 | Isbr Evening College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iec.org) |
+
+
+### Batch 581 (Colleges 5801–5810)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5801 | Hindustan College | MYSORE | KARNATAKA | Private | [Portal](http://hindustancollege.org) |
+| 5802 | Bapu Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bdc.org) |
+| 5803 | Sri Vishweshathirtha Mahavidyalaya | UDUPI | KARNATAKA | Private | [Portal](http://svm.org) |
+| 5804 | Sri Basaveshwara First Grade College for Women | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://sribasaveshwarafirst.org) |
+| 5805 | Bharathi College | MANDYA | KARNATAKA | Private | [Portal](http://bharathicollege.org) |
+| 5806 | Don Bosco College Chitradurga | CHITRADURGA | KARNATAKA | Private | [Portal](http://dbcc.org) |
+| 5807 | C V Gurukula College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://cvgc.org) |
+| 5808 | Jaihind Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jdc.org) |
+| 5809 | Government.first Grade College for Women | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://ggcfw.gov.in) |
+| 5810 | Dr.s.gopalaraju Government First Grade College Anekal | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://dgfgca.gov.in) |
+
+
+### Batch 582 (Colleges 5811–5820)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5811 | Wardlaw Csi College | BELLARY | KARNATAKA | Private | [Portal](http://wcc.org) |
+| 5812 | Government First Grade College Molakalmuru | CHITRADURGA | KARNATAKA | Public/Government | [Portal](https://gfgcm.gov.in) |
+| 5813 | St. Philomena's First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://spfgc.org) |
+| 5814 | Siddaganga College of Management and Sceince | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://scomas.org) |
+| 5815 | Aet College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://aetcollege.org) |
+| 5816 | Sri Kuvempu Mahavidyalaya First Grade College | RAMANAGARA | KARNATAKA | Private | [Portal](http://skmfgc.org) |
+| 5817 | Government First Grade College Kolar Gold Fields | KOLAR | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5818 | Shree Daksha Academy | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sda.org) |
+| 5819 | Green City Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gcdc.org) |
+| 5820 | Rvd College of Management and Information Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rvdcollegeof.org) |
+
+
+### Batch 583 (Colleges 5821–5830)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5821 | Svs First Grade College | TUMKUR | KARNATAKA | Private | [Portal](http://sfgc.org) |
+| 5822 | Bvvs's Shri S R Kanthi Arts Commerce and Science College Mudhol | BAGALKOT | KARNATAKA | Private | [Portal](http://bvvssshris.org) |
+| 5823 | Government First Grade College Rabakavi Banhatti | BAGALKOT | KARNATAKA | Public/Government | [Portal](https://gfgcrb.gov.in) |
+| 5824 | Shanthi Ssk First Grade College Pavagada | TUMKUR | KARNATAKA | Private | [Portal](http://ssfgcp.org) |
+| 5825 | B T Chanaiah Gowramma Government Firstgrade College Somwarpet | KODAGU | KARNATAKA | Public/Government | [Portal](https://btchanaiah.gov.in) |
+| 5826 | Anjuman College for Women | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://acfw.org) |
+| 5827 | Government First Grade College Sadalaga | BELGAUM | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+| 5828 | Sgm Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5829 | Vidyavardhaka First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://vfgc.org) |
+| 5830 | M.e.s First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://mfgc.org) |
+
+
+### Batch 584 (Colleges 5831–5840)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5831 | ST Pauls College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://spc.org) |
+| 5832 | Subam Degree College | YADGIR | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5833 | Vidhyaashram First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://vfgc.org) |
+| 5834 | Mc'nay Doon's Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mddc.org) |
+| 5835 | Shree Annadana Vijaya Vidya Prasarka Samiti Naregal | GADAG | KARNATAKA | Private | [Portal](http://shreeannadanavijaya.org) |
+| 5836 | K Puttaswamy First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://kpfgc.org) |
+| 5837 | Government First Grade College Hosadurga Chitradurga Dist | CHITRADURGA | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5838 | Goverment First Grade College Raichur | RAICHUR | KARNATAKA | Private | [Portal](http://gfgcr.org) |
+| 5839 | Manorama College of Business Administration | GADAG | KARNATAKA | Private | [Portal](http://mcoba.org) |
+| 5840 | New Baldwin International Degree Colleg | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://nbidc.org) |
+
+
+### Batch 585 (Colleges 5841–5850)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5841 | R T Nagar Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rtndc.org) |
+| 5842 | Vagdevi Vilas College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vvc.org) |
+| 5843 | Cle Societys Degree College Chikodi | BELGAUM | KARNATAKA | Private | [Portal](http://csdcc.org) |
+| 5844 | Government First Frade College | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gffc.gov.in) |
+| 5845 | Jain Degree College | DAVANAGERE | KARNATAKA | Private | [Portal](http://jdc.org) |
+| 5846 | Ssa Government First Grade College Ballari | BELLARY | KARNATAKA | Public/Government | [Portal](https://sgfgcb.gov.in) |
+| 5847 | Government First Grade College Nagamangala | MANDYA | KARNATAKA | Public/Government | [Portal](https://gfgcn.gov.in) |
+| 5848 | Government First Grade Evening College Bellary | BELLARY | KARNATAKA | Public/Government | [Portal](https://gfgecb.gov.in) |
+| 5849 | AV Kanthamma College for Women | HASSAN | KARNATAKA | Private | [Portal](http://akcfw.org) |
+| 5850 | Gloria Institute of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://giomas.org) |
+
+
+### Batch 586 (Colleges 5851–5860)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5851 | Sri Venkateshwara Degree College Raichur | RAICHUR | KARNATAKA | Private | [Portal](http://svdcr.org) |
+| 5852 | Skybird Aviation | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://skybirdaviation.org) |
+| 5853 | Gnyana Sudha Degree College for Arts Science and Commerce Bidar | BIDAR | KARNATAKA | Private | [Portal](http://gnyanasudhadegree.org) |
+| 5854 | Transcend Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://tdc.org) |
+| 5855 | Government First Grade College Kalasa | CHIKMAGALUR | KARNATAKA | Public/Government | [Portal](https://gfgck.gov.in) |
+| 5856 | S S Degree College Kamalnagar | BIDAR | KARNATAKA | Private | [Portal](http://ssdck.org) |
+| 5857 | St.george College of Management & Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://scoms.org) |
+| 5858 | Shree Padmaraj Vidyavardak Sanstha Sarangamath | BIJAPUR | KARNATAKA | Private | [Portal](http://spvss.org) |
+| 5859 | M S Centre for Advanced Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mscfas.org) |
+| 5860 | DR T Thimmaiah College of Degree and Management Studies | KOLAR | KARNATAKA | Private | [Portal](http://drtthimmaiah.org) |
+
+
+### Batch 587 (Colleges 5861–5870)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5861 | Sri Datta Sai Rural Degree College | KOLAR | KARNATAKA | Private | [Portal](http://sdsrdc.org) |
+| 5862 | Chaitanya Educational Trust | KOLAR | KARNATAKA | Private | [Portal](http://cet.org) |
+| 5863 | Excellent Degree College | KOLAR | KARNATAKA | Private | [Portal](http://edc.org) |
+| 5864 | KK Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kdc.org) |
+| 5865 | Akash Institute of Management and Science | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://aiomas.org) |
+| 5866 | Dayananda Sagar Evening College of Arts and Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dayanandasagarevening.org) |
+| 5867 | Royal Palace Degree College | BAGALKOT | KARNATAKA | Private | [Portal](http://rpdc.org) |
+| 5868 | Harsha Institute of Technology | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://hiot.org) |
+| 5869 | Sir MV School of Architecture | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://smsoa.org) |
+| 5870 | Amara Jyothi Degree College | KOLAR | KARNATAKA | Private | [Portal](http://ajdc.org) |
+
+
+### Batch 588 (Colleges 5871–5880)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5871 | Shree Bharathi College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sbc.org) |
+| 5872 | Imperial Degree College Bidar | BIDAR | KARNATAKA | Private | [Portal](http://idcb.org) |
+| 5873 | J S Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jsdc.org) |
+| 5874 | Msi Degree College | GULBARGA | KARNATAKA | Private | [Portal](http://mdc.org) |
+| 5875 | Karnataka State Remote Sensing Applications Centre VTU Extension Centre | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://karnatakastateremote.org) |
+| 5876 | Gangavathi Bhagyamma Rural Degree College | VIJAYANAGARA | KARNATAKA | Private | [Portal](http://gbrdc.org) |
+| 5877 | Kottureshwara College Kottur | VIJAYANAGARA | KARNATAKA | Private | [Portal](http://kck.org) |
+| 5878 | V.v. Sangh's Vishwanathreddy Mudnal Degree and Post Graduate College Kalaburagi | GULBARGA | KARNATAKA | Private | [Portal](http://vvsanghsvishwanathreddy.org) |
+| 5879 | SC ST Residetial Governament Firs Garade Collgeg | CHITRADURGA | KARNATAKA | Private | [Portal](http://scstresidetial.org) |
+| 5880 | B M S Evening College of Arts and Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bms.org) |
+
+
+### Batch 589 (Colleges 5881–5890)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5881 | Dr. Sarojini Shintri BCA and BBA College | DHARWAD | KARNATAKA | Private | [Portal](http://drsarojinishintri.org) |
+| 5882 | Indian Design School | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://ids.org) |
+| 5883 | Government First Grade College for Women Pavagada | TUMKUR | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 5884 | Government Polytechnic Kolhar | BIJAPUR | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5885 | Sai Presidency Degree College Kalaburagi | GULBARGA | KARNATAKA | Private | [Portal](http://spdck.org) |
+| 5886 | Shri Gurudeva First Grade College Belthangady | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sgfgcb.org) |
+| 5887 | B N Khot Degree College Anagawadi | BAGALKOT | KARNATAKA | Private | [Portal](http://bnkdca.org) |
+| 5888 | Ces BCA College | HAVERI | KARNATAKA | Private | [Portal](http://cbc.org) |
+| 5889 | Lohit's Academy of Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://laoc.org) |
+| 5890 | Mqi Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mdc.org) |
+
+
+### Batch 590 (Colleges 5891–5900)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5891 | Kannada Bharathi First Grade College | KODAGU | KARNATAKA | Private | [Portal](http://kbfgc.org) |
+| 5892 | Shantidhama College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://shantidhamacollege.org) |
+| 5893 | Government Polytechnic Arasikere | HASSAN | KARNATAKA | Public/Government | [Portal](https://dtek.karnataka.gov.in) |
+| 5894 | Sjm Arts Science and Commerce College | CHITRADURGA | KARNATAKA | Private | [Portal](http://sasacc.org) |
+| 5895 | Government First Grade College Bagepalli | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 5896 | Basavashree Institute of Management Studies | KOLAR | KARNATAKA | Private | [Portal](http://bioms.org) |
+| 5897 | R G Institute of Commerce and Management | DAVANAGERE | KARNATAKA | Private | [Portal](http://rginstitute.org) |
+| 5898 | Kuvempu First Grade College Hassan | HASSAN | KARNATAKA | Private | [Portal](http://kfgch.org) |
+| 5899 | S S Tegnoor Degree Collge | GULBARGA | KARNATAKA | Private | [Portal](http://sstdc.org) |
+| 5900 | Shaheen Degree College Bidar | BIDAR | KARNATAKA | Private | [Portal](http://sdcb.org) |
+
+
+### Batch 591 (Colleges 5901–5910)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5901 | Anjuman Institute of Managment and Computer Appliction Bhatkal | UTTARA KANNADA | KARNATAKA | Private | [Portal](http://anjumaninstituteof.org) |
+| 5902 | Government First Grade College Hebri | UDUPI | KARNATAKA | Public/Government | [Portal](https://gfgch.gov.in) |
+| 5903 | Gousiya Degree College Basvakalyan | BIDAR | KARNATAKA | Private | [Portal](http://gdcb.org) |
+| 5904 | University Srimad Rambhapuri College of Arts and Commerce | SHIMOGA | KARNATAKA | Private | [Portal](http://universitysrimadrambhapuri.org) |
+| 5905 | Sree Cauvery Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://scdc.org) |
+| 5906 | Government First Grade College Mundgod | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcm.gov.in) |
+| 5907 | Ttl College of Business Management | MYSORE | KARNATAKA | Private | [Portal](http://tcobm.org) |
+| 5908 | Smart Degree College | KOLAR | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5909 | Bright Beginning Degree College | RAICHUR | KARNATAKA | Private | [Portal](http://bbdc.org) |
+| 5910 | ST Jerome S First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sjsfgc.org) |
+
+
+### Batch 592 (Colleges 5911–5920)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5911 | Adarsha College of Management Studies | KOLAR | KARNATAKA | Private | [Portal](http://acoms.org) |
+| 5912 | Winners First Grade College | DAVANAGERE | KARNATAKA | Private | [Portal](http://wfgc.org) |
+| 5913 | Aacharya First Grade College Hassan | HASSAN | KARNATAKA | Private | [Portal](http://afgch.org) |
+| 5914 | Government First Grade College Gadag | GADAG | KARNATAKA | Public/Government | [Portal](https://gfgcg.gov.in) |
+| 5915 | Yenepoya Deemed to BE University Bangalore Off Campus | BANGALORE URBAN | KARNATAKA | Private (Deemed to be University) | [Portal](http://yenepoyadeemedto.org) |
+| 5916 | Jain Trinity Business School | DAVANAGERE | KARNATAKA | Private | [Portal](http://jtbs.org) |
+| 5917 | Bgs College of Commerce | KOLAR | KARNATAKA | Private | [Portal](http://bcoc.org) |
+| 5918 | Government First Grade College Yellapur | UTTARA KANNADA | KARNATAKA | Public/Government | [Portal](https://gfgcy.gov.in) |
+| 5919 | Dr. Nsam First Grade College Nitte | UDUPI | KARNATAKA | Private | [Portal](http://dnfgcn.org) |
+| 5920 | S.e.t Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sdc.org) |
+
+
+### Batch 593 (Colleges 5921–5930)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5921 | Devalamaharshi Trinity First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://dtfgc.org) |
+| 5922 | Bet Sadathunnisa College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bsc.org) |
+| 5923 | Florence Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://fdc.org) |
+| 5924 | Anugraha Women's College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://awc.org) |
+| 5925 | Basaveshwara Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bdc.org) |
+| 5926 | Ces Institute of Computer Application and Management | HAVERI | KARNATAKA | Private | [Portal](http://cesinstituteof.org) |
+| 5927 | Shri K M Mamani Government First Grade College | BELGAUM | KARNATAKA | Public/Government | [Portal](https://shrikm.gov.in) |
+| 5928 | Government Tool Room and Training Centre Nelagola | HAVERI | KARNATAKA | Public/Government | [Portal](https://governmenttoolroom.gov.in) |
+| 5929 | Intech Institute of Business Management | MYSORE | KARNATAKA | Private | [Portal](http://iiobm.org) |
+| 5930 | Government First Grade College Byatarayanapura Bengaluru | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgcbb.gov.in) |
+
+
+### Batch 594 (Colleges 5931–5940)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5931 | Millat Degree College | KOLAR | KARNATAKA | Private | [Portal](http://mdc.org) |
+| 5932 | Adityas Global Institute of Management | RAMANAGARA | KARNATAKA | Private | [Portal](http://agiom.org) |
+| 5933 | People Education Society Ugar Khurd | BELGAUM | KARNATAKA | Private | [Portal](http://pesuk.org) |
+| 5934 | M S College of Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mscoc.org) |
+| 5935 | Chatrapati Shivaji Arts Commerce and Science Degree College | BELGAUM | KARNATAKA | Private | [Portal](http://chatrapatishivajiarts.org) |
+| 5936 | C S Bembalagi Arts Sha M R Palaresha Science and G L Rathi Commerce College | BELGAUM | KARNATAKA | Private | [Portal](http://csbembalagi.org) |
+| 5937 | Swami Vivekanand First Grade College Bilagi | BAGALKOT | KARNATAKA | Private | [Portal](http://svfgcb.org) |
+| 5938 | Smt Lalitadevi Gurusiddappa Sindhur Government First Grade College Savanur | HAVERI | KARNATAKA | Public/Government | [Portal](https://smtlalitadevigurusiddappa.gov.in) |
+| 5939 | New Ebenezer Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://neiot.org) |
+| 5940 | Shri Mahadevappa Basalingappa Halli Government First Grade College Annigeri | DHARWAD | KARNATAKA | Public/Government | [Portal](https://shrimahadevappabasalingappa.gov.in) |
+
+
+### Batch 595 (Colleges 5941–5950)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5941 | Rathinam Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://riot.org) |
+| 5942 | Shri Mahaveer Education Trust's Smt. Vijayamala V Nilajagi Degree College Hukkeri TQ Belagavi Dist | BELGAUM | KARNATAKA | Private | [Portal](http://shrimahaveereducation.org) |
+| 5943 | Basaveshwara College of Commerce Arts and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://basaveshwaracollegeof.org) |
+| 5944 | Cauvery College of Engineering | MYSORE | KARNATAKA | Private | [Portal](http://ccoe.org) |
+| 5945 | Our Lady of Bon Secours Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ourladyof.org) |
+| 5946 | Shantiniketan Degree College | BELGAUM | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 5947 | Vimal Jyothi Engineering College | KANNUR | KERALA | Private | [Portal](http://vjec.org) |
+| 5948 | Government. Polytechnic College Punalur | KOLLAM | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5949 | Sree Narayana Institute of Technology | KOLLAM | KERALA | Private | [Portal](http://sniot.org) |
+| 5950 | Vedavyasa Institute of Technology | MALAPPURAM | KERALA | Private | [Portal](http://viot.org) |
+
+
+### Batch 596 (Colleges 5951–5960)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5951 | Mes Institute of Technology & Management | KOLLAM | KERALA | Private | [Portal](http://miotm.org) |
+| 5952 | Central Polytechnic College | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://cpc.org) |
+| 5953 | Residential Women's Polytechnic College, Payyanur | KANNUR | KERALA | Private | [Portal](http://rwpcp.org) |
+| 5954 | Government Polytechnic College, Perinthalmanna | MALAPPURAM | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5955 | Government College of Engineering Kannur | KANNUR | KERALA | Public/Government | [Portal](https://gcoek.gov.in) |
+| 5956 | Mes College of Engineering & Technology | ERNAKULAM | KERALA | Private | [Portal](http://mcoet.org) |
+| 5957 | Department of Futures Studies, University of Kerala | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://departmentoffutures.org) |
+| 5958 | Government Polytechnic College, Kalamasrery | ERNAKULAM | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5959 | Santhigiri College of Computer Sciences | IDUKKI | KERALA | Private | [Portal](http://scocs.org) |
+| 5960 | Allama Iqbal Institute of Management | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://aiiom.org) |
+
+
+### Batch 597 (Colleges 5961–5970)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5961 | Government Polytechnic College, Vechoochira | PATHANAMTHITTA | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5962 | School of Management and Business Studies | KOTTAYAM | KERALA | Private | [Portal](http://somabs.org) |
+| 5963 | Kmct Polytechnic College | KOZHIKODE | KERALA | Private | [Portal](http://kpc.org) |
+| 5964 | Government Polytechnic College Purappuzha | IDUKKI | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5965 | Trinity College of Engineering | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://tcoe.org) |
+| 5966 | College of Engineering Munnar | IDUKKI | KERALA | Private | [Portal](http://coem.org) |
+| 5967 | Model Polytechnic College,Vadakara | KOZHIKODE | KERALA | Private | [Portal](http://mpc.org) |
+| 5968 | Visat Engineering College | ERNAKULAM | KERALA | Private | [Portal](http://vec.org) |
+| 5969 | Kristu Jyoti College of Management and Technology | KOTTAYAM | KERALA | Private | [Portal](http://kristujyoticollege.org) |
+| 5970 | Goverment Polytechnic College, Chelakkara | THRISSUR | KERALA | Private | [Portal](http://gpcc.org) |
+
+
+### Batch 598 (Colleges 5971–5980)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5971 | Kottayam Institute of Technology and Science | KOTTAYAM | KERALA | Private | [Portal](http://kiotas.org) |
+| 5972 | Cochin University of Science and Technology | ERNAKULAM | KERALA | Private | [Portal](http://cuosat.org) |
+| 5973 | Government Polytechnic College Meenangadi | WAYANAD | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5974 | Federal Institute of Science and Technology (Fisat) | ERNAKULAM | KERALA | Private | [Portal](http://federalinstituteof.org) |
+| 5975 | Women's Polytechnic College,Kozhikode | KOZHIKODE | KERALA | Private | [Portal](http://wpc.org) |
+| 5976 | Sree Rama Govt Polytechnic College,Thriprayar | THRISSUR | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5977 | Vidya Academy of Science and Technology Technical Campus | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://vidyaacademyof.org) |
+| 5978 | Government Women's Polytechnic College,Kayamkulam | ALAPPUZHA | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5979 | Government Polytechnic College Kannur | KANNUR | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5980 | Model Polytechnic College | KOLLAM | KERALA | Private | [Portal](http://mpc.org) |
+
+
+### Batch 599 (Colleges 5981–5990)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5981 | Eranad Knowledgecity Technical Campus | MALAPPURAM | KERALA | Private | [Portal](http://ektc.org) |
+| 5982 | Musaliar College of Engineering | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://mcoe.org) |
+| 5983 | Carmel College of Engineering and Technology | ALAPPUZHA | KERALA | Private | [Portal](http://ccoeat.org) |
+| 5984 | Institute of Printing Technology and Government Polytechnic College | PALAKKAD | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5985 | International School of Photonics Cochin University of Science and Technology | ERNAKULAM | KERALA | Private | [Portal](http://internationalschoolof.org) |
+| 5986 | Sahrdaya College of Engineering & Technology | THRISSUR | KERALA | Private | [Portal](http://scoet.org) |
+| 5987 | Ahalia School of Engineering & Technology | PALAKKAD | KERALA | Private | [Portal](http://asoet.org) |
+| 5988 | Ilahia Polytechnic College | ERNAKULAM | KERALA | Private | [Portal](http://ipc.org) |
+| 5989 | Chathamkulam Institute of Research & Advanced Studies | PALAKKAD | KERALA | Private | [Portal](http://cioras.org) |
+| 5990 | Universal Engineering College | THRISSUR | KERALA | Private | [Portal](http://uec.org) |
+
+
+### Batch 600 (Colleges 5991–6000)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 5991 | Madin College of Engineering and Management | MALAPPURAM | KERALA | Private | [Portal](http://mcoeam.org) |
+| 5992 | John Cox Memorial Csi Institute of Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://johncoxmemorial.org) |
+| 5993 | Government Polytechnic College, Muttom | IDUKKI | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5994 | Chinmaya Institute of Technology (MBA) | KANNUR | KERALA | Private | [Portal](http://ciotm.org) |
+| 5995 | Government Polytechnic College, Kothamangalam | ERNAKULAM | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5996 | Mahakavi Vennikulam Gopalakurup Memmorial Government Polytechnic College Vennikulam | PATHANAMTHITTA | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5997 | Kmm College of Arts & Science | ERNAKULAM | KERALA | Private | [Portal](http://kcoas.org) |
+| 5998 | Government Women's Polytechnic College, Nedupuzha, Thrissur | THRISSUR | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 5999 | Aknm Government Polytechnic College Thirurangadi | MALAPPURAM | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 6000 | Sree Narayana Gurukulam College of Engineering | ERNAKULAM | KERALA | Private | [Portal](http://sngcoe.org) |
+
+
+### Batch 601 (Colleges 6001–6010)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6001 | Vidya Academy of Science & Technology | THRISSUR | KERALA | Private | [Portal](http://vaost.org) |
+| 6002 | Indian Institute of Handloom Technology - Kannur | KANNUR | KERALA | Public/Government | [Portal](https://iiohtk.gov.in) |
+| 6003 | Christ College of Engineering | THRISSUR | KERALA | Private | [Portal](http://ccoe.org) |
+| 6004 | National Centre for Aquatic Animal Health, Cochin University of Science and Technology | ERNAKULAM | KERALA | Private | [Portal](http://nationalcentrefor.org) |
+| 6005 | Government Polytechnic College, Kunnamkulam | THRISSUR | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 6006 | E K Nayanar Memorial Government Polytechnic College, Thrikkarippur | KASARAGOD | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 6007 | Model Polytechnic College Painavu | IDUKKI | KERALA | Private | [Portal](http://mpcp.org) |
+| 6008 | Sree Narayana Polytechnic College | KOLLAM | KERALA | Private | [Portal](http://snpc.org) |
+| 6009 | Malabar Polytechnic Campus | PALAKKAD | KERALA | Private | [Portal](http://mpc.org) |
+| 6010 | Mar Baselios Institute of Technology and Science | ERNAKULAM | KERALA | Private | [Portal](http://marbaseliosinstitute.org) |
+
+
+### Batch 602 (Colleges 6011–6020)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6011 | Government Polytechnic College, Kaduthuruthy | KOTTAYAM | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 6012 | Kmct Institute of Technology and Management | MALAPPURAM | KERALA | Private | [Portal](http://kiotam.org) |
+| 6013 | Awh Polytechnic College | KOZHIKODE | KERALA | Private | [Portal](http://apc.org) |
+| 6014 | Kerala Government Polytechnic College Kozhikode | KOZHIKODE | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 6015 | A.k.m.polytechnic College | KOLLAM | KERALA | Private | [Portal](http://akmpolytechniccollege.org) |
+| 6016 | Government. Polytechnic College, Cherthala | ALAPPUZHA | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 6017 | Government Engineering College, Wayanad | WAYANAD | KERALA | Public/Government | [Portal](https://gecw.gov.in) |
+| 6018 | Eknayanar Memorial Model Polytechnic College,Kallyassery | KANNUR | KERALA | Private | [Portal](http://emmpc.org) |
+| 6019 | Conspi Academy of Management Studies (Cams) | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://caomsc.org) |
+| 6020 | Government Polytechnic College Perumbavoor | ERNAKULAM | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+
+
+### Batch 603 (Colleges 6021–6030)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6021 | Mangalam College of Engineering | KOTTAYAM | KERALA | Private | [Portal](http://mcoe.org) |
+| 6022 | Government Polytechnic College, Ezhukone | KOLLAM | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 6023 | Government Polytechnic College Kottayam | KOTTAYAM | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 6024 | Albertian Institute of Science and Technology (Aisat)- Technical Campus | ERNAKULAM | KERALA | Private | [Portal](http://albertianinstituteof.org) |
+| 6025 | Ies College of Engineering | THRISSUR | KERALA | Private | [Portal](http://icoe.org) |
+| 6026 | Governmentengineeringcollegethrissur | THRISSUR | KERALA | Private | [Portal](http://governmentengineeringcollegethrissur.org) |
+| 6027 | Seethi Sahib Memorial Polytechnic College | MALAPPURAM | KERALA | Private | [Portal](http://ssmpc.org) |
+| 6028 | P.a.aziz College of Engineering and Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://pcoeat.org) |
+| 6029 | Ahalia School of Management | PALAKKAD | KERALA | Private | [Portal](http://asom.org) |
+| 6030 | Ukf College of Engineering & Technology | KOLLAM | KERALA | Private | [Portal](http://ucoet.org) |
+
+
+### Batch 604 (Colleges 6031–6040)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6031 | College of Engineering, Pathanapuram | KOLLAM | KERALA | Private | [Portal](http://coep.org) |
+| 6032 | Marian College Kuttikkanam | IDUKKI | KERALA | Private | [Portal](http://mck.org) |
+| 6033 | Sadanam Institute of Commerce and Management Studies | PALAKKAD | KERALA | Private | [Portal](http://sadanaminstituteof.org) |
+| 6034 | Rajagiri College of Social Sciences - School of Management | ERNAKULAM | KERALA | Private | [Portal](http://rajagiricollegeof.org) |
+| 6035 | Mahaguru Institute of Technology | ALAPPUZHA | KERALA | Private | [Portal](http://miot.org) |
+| 6036 | Rajagiri School of Engineering & Technology | ERNAKULAM | KERALA | Private | [Portal](http://rsoet.org) |
+| 6037 | Nss College of Engineering | PALAKKAD | KERALA | Private | [Portal](http://ncoe.org) |
+| 6038 | Lbs College of Engineering | KASARAGOD | KERALA | Private | [Portal](http://lcoe.org) |
+| 6039 | Royal College of Engineering & Technology | THRISSUR | KERALA | Private | [Portal](http://rcoet.org) |
+| 6040 | Scms Cochin School of Business | ERNAKULAM | KERALA | Private | [Portal](http://scsob.org) |
+
+
+### Batch 605 (Colleges 6041–6050)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6041 | Younus College of Engineering and Technology | KOLLAM | KERALA | Private | [Portal](http://ycoeat.org) |
+| 6042 | Travancore Engineering College, Oyoor | KOLLAM | KERALA | Private | [Portal](http://teco.org) |
+| 6043 | Amal Jyothi College of Engineering | KOTTAYAM | KERALA | Private | [Portal](http://ajcoe.org) |
+| 6044 | Duxford International Business School | MALAPPURAM | KERALA | Private | [Portal](http://dibs.org) |
+| 6045 | Muslim Association College of Engineering | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://macoe.org) |
+| 6046 | Mount Zion College of Engineering | PATHANAMTHITTA | KERALA | Private | [Portal](http://mzcoe.org) |
+| 6047 | Holy Grace Academy of Management Studies | THRISSUR | KERALA | Private | [Portal](http://hgaoms.org) |
+| 6048 | Institute of Management and Technology Punnapra | ALAPPUZHA | KERALA | Private | [Portal](http://iomatp.org) |
+| 6049 | Kmct College of Engineering for Women | KOZHIKODE | KERALA | Private | [Portal](http://kcoefw.org) |
+| 6050 | Government Engineering College Sreekrishnapuram | PALAKKAD | KERALA | Public/Government | [Portal](https://gecs.gov.in) |
+
+
+### Batch 606 (Colleges 6051–6060)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6051 | People Institute of Management Studies | KASARAGOD | KERALA | Private | [Portal](http://pioms.org) |
+| 6052 | Kmea Engineering College | ERNAKULAM | KERALA | Private | [Portal](http://kec.org) |
+| 6053 | Jaibharath Arts & Science College | ERNAKULAM | KERALA | Private | [Portal](http://jasc.org) |
+| 6054 | T.k.m Institute of Technology | KOLLAM | KERALA | Private | [Portal](http://tiot.org) |
+| 6055 | College of Engineering Adoor | PATHANAMTHITTA | KERALA | Private | [Portal](http://coea.org) |
+| 6056 | Dept. of Computer Science, University of Kerala | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://deptofcomputer.org) |
+| 6057 | Sree Narayana Guru College of Engineering & Technology | KANNUR | KERALA | Private | [Portal](http://sreenarayanaguru.org) |
+| 6058 | Adi Shankara Institute of Engineering and Technology | ERNAKULAM | KERALA | Private | [Portal](http://adishankarainstitute.org) |
+| 6059 | Government Engineering College Idukki | IDUKKI | KERALA | Public/Government | [Portal](https://geci.gov.in) |
+| 6060 | Sree Narayana Guru Memorial Catering College | ALAPPUZHA | KERALA | Private | [Portal](http://sngmcc.org) |
+
+
+### Batch 607 (Colleges 6061–6070)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6061 | Mar Baselios College of Engineering and Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://marbaselioscollege.org) |
+| 6062 | College of Engineering, Thalassery | KANNUR | KERALA | Private | [Portal](http://coet.org) |
+| 6063 | Sarabhai Institute of Science and Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://siosat.org) |
+| 6064 | Mar Baselios Christian College of Engineering & Technology | IDUKKI | KERALA | Private | [Portal](http://marbaselioschristian.org) |
+| 6065 | College of Engineering Trikaripur | KASARAGOD | KERALA | Private | [Portal](http://coet.org) |
+| 6066 | Sreepathy Institute of Management and Technology | PALAKKAD | KERALA | Private | [Portal](http://siomat.org) |
+| 6067 | College of Engineering, Cherthala | ALAPPUZHA | KERALA | Private | [Portal](http://coec.org) |
+| 6068 | M G College of Engineering | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://mgcoe.org) |
+| 6069 | Lbs Institute of Technology for Women | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://liotfw.org) |
+| 6070 | College of Engineering Kallooppara | PATHANAMTHITTA | KERALA | Private | [Portal](http://coek.org) |
+
+
+### Batch 608 (Colleges 6071–6080)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6071 | College of Engineering, Attingal | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://coea.org) |
+| 6072 | Rajagiri College of Social Sciences | ERNAKULAM | KERALA | Private | [Portal](http://rcoss.org) |
+| 6073 | Bhavan's Royal Institute of Management | ERNAKULAM | KERALA | Private | [Portal](http://briom.org) |
+| 6074 | C H Mohd. Koya Memorial College for Advanced Studies | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://chmohd.org) |
+| 6075 | Model Engineering College | ERNAKULAM | KERALA | Private | [Portal](http://mec.org) |
+| 6076 | Kvm College of Engineering & IT | ALAPPUZHA | KERALA | Private | [Portal](http://kcoei.org) |
+| 6077 | Marian Engineering College | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://mec.org) |
+| 6078 | Government. Engineering College, Kozhikode | KOZHIKODE | KERALA | Public/Government | [Portal](https://geck.gov.in) |
+| 6079 | Lourdes Matha Institute of Hotel Management and Catering Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://lourdesmathainstitute.org) |
+| 6080 | Rajagiri Business School | ERNAKULAM | KERALA | Private | [Portal](http://rbs.org) |
+
+
+### Batch 609 (Colleges 6081–6090)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6081 | College of Engineering and Management Punnapra | ALAPPUZHA | KERALA | Private | [Portal](http://coeamp.org) |
+| 6082 | De Paul Institute of Science & Technology | ERNAKULAM | KERALA | Private | [Portal](http://dpiost.org) |
+| 6083 | Lourdes Matha College of Science and Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://lourdesmathacollege.org) |
+| 6084 | Jaibharath College of Management & Engineering Technology | ERNAKULAM | KERALA | Private | [Portal](http://jcomet.org) |
+| 6085 | College of Engineering Chengannur | ALAPPUZHA | KERALA | Private | [Portal](http://coec.org) |
+| 6086 | Oriental School of Hotel Management | WAYANAD | KERALA | Private | [Portal](http://osohm.org) |
+| 6087 | Valia Koonambaikulathamma College of Engineering and Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://valiakoonambaikulathammacollege.org) |
+| 6088 | Scms School of Technology and Management | ERNAKULAM | KERALA | Private | [Portal](http://ssotam.org) |
+| 6089 | Viswajyothi College of Engineering & Technology | ERNAKULAM | KERALA | Private | [Portal](http://vcoet.org) |
+| 6090 | Kerala Institute of Tourism and Travel Studies | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://keralainstituteof.org) |
+
+
+### Batch 610 (Colleges 6091–6100)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6091 | Mount Zion Institute of Science and Technology | ALAPPUZHA | KERALA | Private | [Portal](http://mountzioninstitute.org) |
+| 6092 | AL-Ameen College, Kulappully, Shoranur-2 | PALAKKAD | KERALA | Private | [Portal](http://acks.org) |
+| 6093 | Jawaharlal College of Engineering and Technology | PALAKKAD | KERALA | Private | [Portal](http://jcoeat.org) |
+| 6094 | College of Engineering Karunagappally | KOLLAM | KERALA | Private | [Portal](http://coek.org) |
+| 6095 | Awh Engineering College | KOZHIKODE | KERALA | Private | [Portal](http://aec.org) |
+| 6096 | Mes College of Engineering, Kuttipuram | MALAPPURAM | KERALA | Private | [Portal](http://mcoek.org) |
+| 6097 | Baselios Mathews II College of Engineering | KOLLAM | KERALA | Private | [Portal](http://bmicoe.org) |
+| 6098 | Toc H Institute of Science & Technology | ERNAKULAM | KERALA | Private | [Portal](http://thiost.org) |
+| 6099 | Saintgits College of Engineering | KOTTAYAM | KERALA | Private | [Portal](http://scoe.org) |
+| 6100 | Avani Institute of Design | KOZHIKODE | KERALA | Private | [Portal](http://aiod.org) |
+
+
+### Batch 611 (Colleges 6101–6110)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6101 | Government. Engineering College, Barton Hill | THIRUVANANTHAPURAM | KERALA | Public/Government | [Portal](https://gecbh.gov.in) |
+| 6102 | University College of Engineering, Kariavattom | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://ucoek.org) |
+| 6103 | Chinmaya Institute of Technology | KANNUR | KERALA | Private | [Portal](http://ciot.org) |
+| 6104 | Tkm Institute of Management | KOLLAM | KERALA | Private | [Portal](http://tiom.org) |
+| 6105 | Mar Athanasios College for Advanced Studies Tiruvalla (Macfast) | PATHANAMTHITTA | KERALA | Private | [Portal](http://marathanasioscollege.org) |
+| 6106 | Sree Buddha College of Engineering, Pattoor | ALAPPUZHA | KERALA | Private | [Portal](http://sbcoep.org) |
+| 6107 | College of Engineering Poonjar | KOTTAYAM | KERALA | Private | [Portal](http://coep.org) |
+| 6108 | Bharata Mata College | ERNAKULAM | KERALA | Private | [Portal](http://bmc.org) |
+| 6109 | Albertian Institute of Management | ERNAKULAM | KERALA | Private | [Portal](http://aiom.org) |
+| 6110 | Musaliar College of Engineering and Technology Pathanamthitta | PATHANAMTHITTA | KERALA | Private | [Portal](http://musaliarcollegeof.org) |
+
+
+### Batch 612 (Colleges 6111–6120)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6111 | College of Engineering, Kottarakkara | KOLLAM | KERALA | Private | [Portal](http://coek.org) |
+| 6112 | Er&dci Institute of Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://eiot.org) |
+| 6113 | Regional Centre School of Technology and Applied Sciences Edappally | ERNAKULAM | KERALA | Private | [Portal](http://regionalcentreschool.org) |
+| 6114 | Dept of Optoelectronics, University of Kerala | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://doouok.org) |
+| 6115 | Kerala Institue of CO-Operative Management | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://kiocm.org) |
+| 6116 | St. Joseph's College of Engineering & Technology, Palai | KOTTAYAM | KERALA | Private | [Portal](http://stjosephscollege.org) |
+| 6117 | College of Engineering Perumon | KOLLAM | KERALA | Private | [Portal](http://coep.org) |
+| 6118 | Mar Athanasius College of Engineering, Kothamangalam | ERNAKULAM | KERALA | Private | [Portal](http://macoek.org) |
+| 6119 | Kuttukaran Polytechnic College, North Paravur | ERNAKULAM | KERALA | Private | [Portal](http://kpcnp.org) |
+| 6120 | Rajiv Gandhi Institute of Technology,Kottayam | KOTTAYAM | KERALA | Private | [Portal](http://rgiot.org) |
+
+
+### Batch 613 (Colleges 6121–6130)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6121 | Mea Engineering College, Perinthalmanna | MALAPPURAM | KERALA | Private | [Portal](http://mecp.org) |
+| 6122 | School of Technology & Applied Sciences | KOTTAYAM | KERALA | Private | [Portal](http://sotas.org) |
+| 6123 | College of Engineering, Vadakara | KOZHIKODE | KERALA | Private | [Portal](http://coev.org) |
+| 6124 | Sree Chitra Tirunal Institute for Medical Sciences and Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://sreechitratirunal.org) |
+| 6125 | Scms School of Engineering & Technology | ERNAKULAM | KERALA | Private | [Portal](http://ssoet.org) |
+| 6126 | ST Antony's College Peruvanthanam | IDUKKI | KERALA | Private | [Portal](http://sacp.org) |
+| 6127 | Mother Arts and Science College | THRISSUR | KERALA | Private | [Portal](http://maasc.org) |
+| 6128 | Majlis Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://maasc.org) |
+| 6129 | Met's College of Advanced Studies | THRISSUR | KERALA | Private | [Portal](http://mcoas.org) |
+| 6130 | Mtm College of Arts Science and Commerce Veliyancode | MALAPPURAM | KERALA | Private | [Portal](http://mtmcollegeof.org) |
+
+
+### Batch 614 (Colleges 6131–6140)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6131 | Apj Abdul Kalam Technological University | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://aaktu.org) |
+| 6132 | Saintgits College of Applied Sciences | KOTTAYAM | KERALA | Private | [Portal](http://scoas.org) |
+| 6133 | Noble Womens College Manjeri | MALAPPURAM | KERALA | Private | [Portal](http://nwcm.org) |
+| 6134 | College of Applied Science Vadakkencherry | PALAKKAD | KERALA | Private | [Portal](http://coasv.org) |
+| 6135 | Sanjo College of Management and Advanced Studies | IDUKKI | KERALA | Private | [Portal](http://sanjocollegeof.org) |
+| 6136 | Abr College of Arts Science and Commerce | PATHANAMTHITTA | KERALA | Private | [Portal](http://abrcollegeof.org) |
+| 6137 | Sadanam Kumaran College | PALAKKAD | KERALA | Private | [Portal](http://skc.org) |
+| 6138 | Ansar Women's College | THRISSUR | KERALA | Private | [Portal](http://awc.org) |
+| 6139 | Safa College of Arts and Science | MALAPPURAM | KERALA | Private | [Portal](http://scoaas.org) |
+| 6140 | Shree Vidyadhiraja College of Arts and Science | KOLLAM | KERALA | Private | [Portal](http://shreevidyadhirajacollege.org) |
+
+
+### Batch 615 (Colleges 6141–6150)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6141 | College of Applied Science Perissery | ALAPPUZHA | KERALA | Private | [Portal](http://coasp.org) |
+| 6142 | College of Applied Science | PATHANAMTHITTA | KERALA | Private | [Portal](http://coas.org) |
+| 6143 | Jain Deemed to BE University Off Campus Kochi | ERNAKULAM | KERALA | Private (Deemed to be University) | [Portal](http://jaindeemedto.org) |
+| 6144 | Siena College of Professional Studies | ERNAKULAM | KERALA | Private | [Portal](http://scops.org) |
+| 6145 | College of Applied Science Karthikapally | ALAPPUZHA | KERALA | Private | [Portal](http://coask.org) |
+| 6146 | Iss Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://iaasc.org) |
+| 6147 | Sahrdaya College of Advanced Studies | THRISSUR | KERALA | Private | [Portal](http://scoas.org) |
+| 6148 | Kottakkal Farook Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://kfaasc.org) |
+| 6149 | Markaz Arts and Science College Athavanad | MALAPPURAM | KERALA | Private | [Portal](http://maasca.org) |
+| 6150 | Grace International Academy | KOLLAM | KERALA | Private | [Portal](http://gia.org) |
+
+
+### Batch 616 (Colleges 6151–6160)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6151 | KV Ustad Memorial Darul Hidaya Orphanage Arts and Science College Pookkarathara | MALAPPURAM | KERALA | Private | [Portal](http://kvustadmemorial.org) |
+| 6152 | St. Mary's College of Commerce and Management Studies | ERNAKULAM | KERALA | Private | [Portal](http://stmaryscollege.org) |
+| 6153 | Mar Augusthinose College Ramapuram | KOTTAYAM | KERALA | Private | [Portal](http://macr.org) |
+| 6154 | Mes College Erumely | KOTTAYAM | KERALA | Private | [Portal](http://mce.org) |
+| 6155 | M E S College of Arts and Sciences Chathamangalam | KOZHIKODE | KERALA | Private | [Portal](http://mes.org) |
+| 6156 | Malabar College of Adavnced Studies Vengara | MALAPPURAM | KERALA | Private | [Portal](http://mcoasv.org) |
+| 6157 | Bishop Speechly College for Advanced Studies | KOTTAYAM | KERALA | Private | [Portal](http://bscfas.org) |
+| 6158 | De Paul Arts and Science College Edathotty | KANNUR | KERALA | Private | [Portal](http://depaularts.org) |
+| 6159 | Baker College for Women | KOTTAYAM | KERALA | Private | [Portal](http://bcfw.org) |
+| 6160 | Ssm College Rajakkad | IDUKKI | KERALA | Private | [Portal](http://scr.org) |
+
+
+### Batch 617 (Colleges 6161–6170)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6161 | Concord Arts and Science College | KANNUR | KERALA | Private | [Portal](http://caasc.org) |
+| 6162 | M E S College Erattupetta | KOTTAYAM | KERALA | Private | [Portal](http://mesce.org) |
+| 6163 | Mpmmsn Trusts College Shoranur | PALAKKAD | KERALA | Private | [Portal](http://mtcs.org) |
+| 6164 | Arafa College of Arts and Science | ERNAKULAM | KERALA | Private | [Portal](http://acoaas.org) |
+| 6165 | Marian College of Arts and Science | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://mcoaas.org) |
+| 6166 | Don Bosco Arts and Science College Angadikadavu | KANNUR | KERALA | Private | [Portal](http://donboscoarts.org) |
+| 6167 | College of Applied Science Kodungallur | THRISSUR | KERALA | Private | [Portal](http://coask.org) |
+| 6168 | Christ College Irinjalakuda | THRISSUR | KERALA | Private | [Portal](http://cci.org) |
+| 6169 | Khidmath Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://kaasc.org) |
+| 6170 | Mes Golden Jubilee College Kottayam | KOTTAYAM | KERALA | Private | [Portal](http://mgjck.org) |
+
+
+### Batch 618 (Colleges 6171–6180)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6171 | Holy Cross Institute of Management and Technology | KOZHIKODE | KERALA | Private | [Portal](http://holycrossinstitute.org) |
+| 6172 | Assabah Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://aaasc.org) |
+| 6173 | St. Josephs Arts and Science College | THRISSUR | KERALA | Private | [Portal](http://sjaasc.org) |
+| 6174 | Mes M.k Mackar Pillay College for Advanced Studies | ERNAKULAM | KERALA | Private | [Portal](http://mesmkmackar.org) |
+| 6175 | Kvm College of Arts and Science | ALAPPUZHA | KERALA | Private | [Portal](http://kcoaas.org) |
+| 6176 | Cms College Kottayam | KOTTAYAM | KERALA | Private | [Portal](http://cck.org) |
+| 6177 | Ilahia College of Arts and Science | ERNAKULAM | KERALA | Private | [Portal](http://icoaas.org) |
+| 6178 | Saraswathi College of Arts and Science | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://scoaas.org) |
+| 6179 | Mes Kalladi College Mannarkkad | PALAKKAD | KERALA | Private | [Portal](http://mkcm.org) |
+| 6180 | Nirmala College Muvattupuzha | ERNAKULAM | KERALA | Private | [Portal](http://ncm.org) |
+
+
+### Batch 619 (Colleges 6181–6190)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6181 | Kshm Arts and Science College | PALAKKAD | KERALA | Private | [Portal](http://kaasc.org) |
+| 6182 | AL Jamia Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://ajaasc.org) |
+| 6183 | Mic Arts and Science College | KASARAGOD | KERALA | Private | [Portal](http://maasc.org) |
+| 6184 | Cpa College of Global Studies | MALAPPURAM | KERALA | Private | [Portal](http://ccogs.org) |
+| 6185 | Rajagiri Viswajyothi College of Arts and Applied Sciences | ERNAKULAM | KERALA | Private | [Portal](http://rajagiriviswajyothicollege.org) |
+| 6186 | DR Ambedkar Arts and Science College Periye | KASARAGOD | KERALA | Private | [Portal](http://drambedkararts.org) |
+| 6187 | St. Albert's College Autonomous | ERNAKULAM | KERALA | Private | [Portal](http://saca.org) |
+| 6188 | AL Ameen College Edathala Aluva | ERNAKULAM | KERALA | Private | [Portal](http://aacea.org) |
+| 6189 | Najath Arts and Science College | PALAKKAD | KERALA | Private | [Portal](http://naasc.org) |
+| 6190 | St. Aloysius College | THRISSUR | KERALA | Private | [Portal](http://sac.org) |
+
+
+### Batch 620 (Colleges 6191–6200)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6191 | Mes T O Abdulla Memorial College Kunnukara | ERNAKULAM | KERALA | Private | [Portal](http://mesto.org) |
+| 6192 | Chinmaya College of Arts Commerce and Science | ERNAKULAM | KERALA | Private | [Portal](http://chinmayacollegeof.org) |
+| 6193 | De Paul Institute of Science and Technology Disat | MALAPPURAM | KERALA | Private | [Portal](http://depaulinstitute.org) |
+| 6194 | Mar Dionysius College Pazhanji | THRISSUR | KERALA | Private | [Portal](http://mdcp.org) |
+| 6195 | Sdv College of Arts and Applied Science | ALAPPUZHA | KERALA | Private | [Portal](http://sdvcollegeof.org) |
+| 6196 | Mes Keveeyam College Valanchery | MALAPPURAM | KERALA | Private | [Portal](http://mkcv.org) |
+| 6197 | Mar Thoma College of Science and Technology | KOLLAM | KERALA | Private | [Portal](http://marthomacollege.org) |
+| 6198 | Jpm Arts and Science College | IDUKKI | KERALA | Private | [Portal](http://jaasc.org) |
+| 6199 | St. Josephs Academy of Higher Education and Research | IDUKKI | KERALA | Private | [Portal](http://stjosephsacademy.org) |
+| 6200 | Sree Narayana College | KOZHIKODE | KERALA | Private | [Portal](http://snc.org) |
+
+
+### Batch 621 (Colleges 6201–6210)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6201 | Sir Syed Institute for Technical Studies | KANNUR | KERALA | Private | [Portal](http://ssifts.org) |
+| 6202 | Christ Nagar College | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://cnc.org) |
+| 6203 | Nss College Rajakumari | IDUKKI | KERALA | Private | [Portal](http://ncr.org) |
+| 6204 | Alphonsa College Thiruvambady | KOZHIKODE | KERALA | Private | [Portal](http://act.org) |
+| 6205 | St.kuriakose College of Management and Science | ERNAKULAM | KERALA | Private | [Portal](http://scomas.org) |
+| 6206 | Gurudeva College of Advanced Studies | KOZHIKODE | KERALA | Private | [Portal](http://gcoas.org) |
+| 6207 | College of Applied Science Kalanjoor | PATHANAMTHITTA | KERALA | Private | [Portal](http://coask.org) |
+| 6208 | Mar Gregorios Abdul Jaleel Arts and Science College | ERNAKULAM | KERALA | Private | [Portal](http://margregoriosabdul.org) |
+| 6209 | Snes Kalyani College | PALAKKAD | KERALA | Private | [Portal](http://skc.org) |
+| 6210 | Sngist Arts and Science College | ERNAKULAM | KERALA | Private | [Portal](http://saasc.org) |
+
+
+### Batch 622 (Colleges 6211–6220)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6211 | ST Anns College | ERNAKULAM | KERALA | Private | [Portal](http://sac.org) |
+| 6212 | Sree Narayana Guru College of Advanced Studies Nattika | THRISSUR | KERALA | Private | [Portal](http://sreenarayanaguru.org) |
+| 6213 | College of Applied Science Thamarassery | KOZHIKODE | KERALA | Private | [Portal](http://coast.org) |
+| 6214 | Naipunnya School of Management | ALAPPUZHA | KERALA | Private | [Portal](http://nsom.org) |
+| 6215 | Mohammed Ali Shihab Thangal Memorial Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://mohammedalishihab.org) |
+| 6216 | Sree Narayana Guru College of Arts and Science Paingottoor | ERNAKULAM | KERALA | Private | [Portal](http://sreenarayanaguru.org) |
+| 6217 | Sree Narayana Guru College of Advanced Studies Chelannur | KOZHIKODE | KERALA | Private | [Portal](http://sreenarayanaguru.org) |
+| 6218 | St.thomas Arts and Science College | ERNAKULAM | KERALA | Private | [Portal](http://saasc.org) |
+| 6219 | Mes College Kochi | ERNAKULAM | KERALA | Private | [Portal](http://mck.org) |
+| 6220 | ST Xaviers Arts and Science College | KOZHIKODE | KERALA | Private | [Portal](http://sxaasc.org) |
+
+
+### Batch 623 (Colleges 6221–6230)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6221 | Baselios Poulose Second College Piramadom | ERNAKULAM | KERALA | Private | [Portal](http://bpscp.org) |
+| 6222 | Jdt Islam College of Arts and Science | KOZHIKODE | KERALA | Private | [Portal](http://jdtislamcollege.org) |
+| 6223 | Kuriakose Gregorios College | KOTTAYAM | KERALA | Private | [Portal](http://kgc.org) |
+| 6224 | Devamatha Arts and Science College Paisakary | KANNUR | KERALA | Private | [Portal](http://daascp.org) |
+| 6225 | Pilathara CO Operative Arts and Scence College | KANNUR | KERALA | Private | [Portal](http://pilatharacooperative.org) |
+| 6226 | College of Applied Science Pattuvam | KANNUR | KERALA | Private | [Portal](http://coasp.org) |
+| 6227 | Snes College of Arts Commerce and Management | KOZHIKODE | KERALA | Private | [Portal](http://snescollegeof.org) |
+| 6228 | Sree Sabareesa College | KOTTAYAM | KERALA | Private | [Portal](http://ssc.org) |
+| 6229 | Elims College of Arts and Science | THRISSUR | KERALA | Private | [Portal](http://ecoaas.org) |
+| 6230 | Yeldo Mar Baselios College | ERNAKULAM | KERALA | Private | [Portal](http://ymbc.org) |
+
+
+### Batch 624 (Colleges 6231–6240)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6231 | Presentation College of Applied Sciences | ERNAKULAM | KERALA | Private | [Portal](http://pcoas.org) |
+| 6232 | Bethania Institute of Management Studies | THRISSUR | KERALA | Private | [Portal](http://bioms.org) |
+| 6233 | Mes Ponnani College | MALAPPURAM | KERALA | Private | [Portal](http://mpc.org) |
+| 6234 | Naipunnya Institute of Management and Information Technology | THRISSUR | KERALA | Private | [Portal](http://naipunnyainstituteof.org) |
+| 6235 | A.c.kunhimon Haji Memorial I.c.a College Thozhiyur | THRISSUR | KERALA | Private | [Portal](http://ahmict.org) |
+| 6236 | Sree Sankara Vidyapeetom College | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://ssvc.org) |
+| 6237 | Government Arts and Science College Ollur | THRISSUR | KERALA | Public/Government | [Portal](https://gaasco.gov.in) |
+| 6238 | AL Shifa College of Arts and Science | MALAPPURAM | KERALA | Private | [Portal](http://alshifacollege.org) |
+| 6239 | Awh Collegescience and Technology Anakkara | PALAKKAD | KERALA | Private | [Portal](http://acata.org) |
+| 6240 | Chmm College for Advanced Studies | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://ccfas.org) |
+
+
+### Batch 625 (Colleges 6241–6250)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6241 | Sreekrishnapuram V T Bhattathiripad College | PALAKKAD | KERALA | Private | [Portal](http://svtbc.org) |
+| 6242 | Sndp Yogam Sathabdi Smaraka College | MALAPPURAM | KERALA | Private | [Portal](http://syssc.org) |
+| 6243 | Kuniya College of Arts and Science | KASARAGOD | KERALA | Private | [Portal](http://kcoaas.org) |
+| 6244 | College of Applied Science Peermade | IDUKKI | KERALA | Private | [Portal](http://coasp.org) |
+| 6245 | Ideal College for Advanced Studies | MALAPPURAM | KERALA | Private | [Portal](http://icfas.org) |
+| 6246 | Mes Arts and Science College Perinthalmanna | MALAPPURAM | KERALA | Private | [Portal](http://maascp.org) |
+| 6247 | Kmo Arts and Science College | KOZHIKODE | KERALA | Private | [Portal](http://kaasc.org) |
+| 6248 | Navajyothi College | KANNUR | KERALA | Private | [Portal](http://navajyothicollege.org) |
+| 6249 | ST Josephs College Autonomous Irinjalakuda | THRISSUR | KERALA | Private | [Portal](http://sjcai.org) |
+| 6250 | SA Adiya Arts and Science College | KASARAGOD | KERALA | Private | [Portal](http://saaasc.org) |
+
+
+### Batch 626 (Colleges 6251–6260)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6251 | Mar Sleeva College of Arts and Science | IDUKKI | KERALA | Private | [Portal](http://marsleevacollege.org) |
+| 6252 | Tharananellur Arts and Science College | THRISSUR | KERALA | Private | [Portal](http://taasc.org) |
+| 6253 | Prayaga Foundation for Excellenece and Training | PALAKKAD | KERALA | Private | [Portal](http://pffeat.org) |
+| 6254 | Nethaji Memorial Arts and Science College Nemmara | PALAKKAD | KERALA | Private | [Portal](http://nethajimemorialarts.org) |
+| 6255 | Itm College of Arts and Science Mayyil | KANNUR | KERALA | Private | [Portal](http://itmcollegeof.org) |
+| 6256 | M.e.s College Kuthuparamba | KANNUR | KERALA | Private | [Portal](http://mck.org) |
+| 6257 | St.benedicts College | KOZHIKODE | KERALA | Private | [Portal](http://stbenedictscollege.org) |
+| 6258 | Snm College Maliankara | ERNAKULAM | KERALA | Private | [Portal](http://scm.org) |
+| 6259 | Emea College of Arts and Science Kondotti | MALAPPURAM | KERALA | Private | [Portal](http://emeacollegeof.org) |
+| 6260 | MM Knowledge Arts and Science College | KANNUR | KERALA | Private | [Portal](http://mkaasc.org) |
+
+
+### Batch 627 (Colleges 6261–6270)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6261 | Carmel College | THRISSUR | KERALA | Private | [Portal](http://carmelcollege.org) |
+| 6262 | Nalanda College of Arts and Science Perla | KASARAGOD | KERALA | Private | [Portal](http://nalandacollegeof.org) |
+| 6263 | Sahya Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://saasc.org) |
+| 6264 | Pgrm SN College | KOTTAYAM | KERALA | Private | [Portal](http://psc.org) |
+| 6265 | Ettumanoorappan College | KOTTAYAM | KERALA | Private | [Portal](http://ettumanoorappancollege.org) |
+| 6266 | Ilahiya Arts and Science College Cheliya | KOZHIKODE | KERALA | Private | [Portal](http://iaascc.org) |
+| 6267 | Luminous Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://laasc.org) |
+| 6268 | Farook College Autonomous Kozhikode | KOZHIKODE | KERALA | Private | [Portal](http://fcak.org) |
+| 6269 | Mercy College | PALAKKAD | KERALA | Private | [Portal](http://mercycollege.org) |
+| 6270 | Sree Keralvarma College | THRISSUR | KERALA | Private | [Portal](http://skc.org) |
+
+
+### Batch 628 (Colleges 6271–6280)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6271 | Baithul Izza Arts and Science College | KOZHIKODE | KERALA | Private | [Portal](http://biaasc.org) |
+| 6272 | Ses College Sreekandapuram | KANNUR | KERALA | Private | [Portal](http://scs.org) |
+| 6273 | Blossom Arts and Science College Kondotty | MALAPPURAM | KERALA | Private | [Portal](http://baasck.org) |
+| 6274 | Mes Arts and Science College Kuttippuram | MALAPPURAM | KERALA | Private | [Portal](http://maasck.org) |
+| 6275 | A.v. Abdurahiman Haji Arts and Science College | KOZHIKODE | KERALA | Private | [Portal](http://avabdurahimanhaji.org) |
+| 6276 | ST Thomas College Kozhencherry | PATHANAMTHITTA | KERALA | Private | [Portal](http://stck.org) |
+| 6277 | Kvvs College of Science and Technology | PATHANAMTHITTA | KERALA | Private | [Portal](http://kcosat.org) |
+| 6278 | Malabar College of Commerce and Science | MALAPPURAM | KERALA | Private | [Portal](http://mcocas.org) |
+| 6279 | Mes Arts and Science College Amayoor Pattambi | PALAKKAD | KERALA | Private | [Portal](http://mesartsand.org) |
+| 6280 | V V College of Science and Technology | PALAKKAD | KERALA | Private | [Portal](http://vvcollege.org) |
+
+
+### Batch 629 (Colleges 6281–6290)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6281 | Sri C Achutha Menon Govt College Thrissur | THRISSUR | KERALA | Public/Government | [Portal](https://sricachutha.gov.in) |
+| 6282 | College of Applied Science Nadapuram | KOZHIKODE | KERALA | Private | [Portal](http://coasn.org) |
+| 6283 | Muhammed Abdurahiman Memorial Orphanage College | KOZHIKODE | KERALA | Private | [Portal](http://mamoc.org) |
+| 6284 | Muslim Association College of Arts and Science | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://muslimassociationcollege.org) |
+| 6285 | Ideal Arts and Science College | PALAKKAD | KERALA | Private | [Portal](http://iaasc.org) |
+| 6286 | R Paramesaran Pillai Memorial Arts and Science College | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://rparamesaranpillai.org) |
+| 6287 | Nam College Kallikkandy | KANNUR | KERALA | Private | [Portal](http://nck.org) |
+| 6288 | Universal College of Arts and Science | PALAKKAD | KERALA | Private | [Portal](http://ucoaas.org) |
+| 6289 | Sanatana Arts and Science College | KASARAGOD | KERALA | Private | [Portal](http://saasc.org) |
+| 6290 | Mangalam MC Varghese College of Arts and Science Ettumanoor | KOTTAYAM | KERALA | Private | [Portal](http://mangalammcvarghese.org) |
+
+
+### Batch 630 (Colleges 6291–6300)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6291 | Pazhassiraja College | WAYANAD | KERALA | Private | [Portal](http://pazhassirajacollege.org) |
+| 6292 | Royal College of Arts and Science | PALAKKAD | KERALA | Private | [Portal](http://rcoaas.org) |
+| 6293 | Mgm Collegeof Arts and Science | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://mcaas.org) |
+| 6294 | Jayasree Arts and Science College | WAYANAD | KERALA | Private | [Portal](http://jaasc.org) |
+| 6295 | National College of Arts and Science Puliyavu | KOZHIKODE | KERALA | Private | [Portal](http://nationalcollegeof.org) |
+| 6296 | H.m Arts and Science College | ERNAKULAM | KERALA | Private | [Portal](http://haasc.org) |
+| 6297 | The Mar Thoma College Chungathara | MALAPPURAM | KERALA | Private | [Portal](http://tmtcc.org) |
+| 6298 | Lement College of Advanced Studies | PALAKKAD | KERALA | Private | [Portal](http://lcoas.org) |
+| 6299 | The Elegant Arts and Science College | PALAKKAD | KERALA | Private | [Portal](http://teaasc.org) |
+| 6300 | Sree Vivekananda Padana Kendram Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://sreevivekanandapadana.org) |
+
+
+### Batch 631 (Colleges 6301–6310)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6301 | Zamorin's Guruvayurappan College | KOZHIKODE | KERALA | Private | [Portal](http://zgc.org) |
+| 6302 | Mahatma Gandhi College Iritty | KANNUR | KERALA | Private | [Portal](http://mgci.org) |
+| 6303 | Pgm College | KOTTAYAM | KERALA | Private | [Portal](http://pgmcollege.org) |
+| 6304 | Catholicate College | PATHANAMTHITTA | KERALA | Private | [Portal](http://catholicatecollege.org) |
+| 6305 | Ktct College of Arts and Sciencea | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://kcoaas.org) |
+| 6306 | ST Thomas College of Advanced Studies Edamury Ranni | PATHANAMTHITTA | KERALA | Private | [Portal](http://stthomascollege.org) |
+| 6307 | Alphonsa Arts and Science College | WAYANAD | KERALA | Private | [Portal](http://aaasc.org) |
+| 6308 | Swamy Saswathikananda College Poothotta | ERNAKULAM | KERALA | Private | [Portal](http://sscp.org) |
+| 6309 | Fathima Arts and Science College Moothedam Nilambur | MALAPPURAM | KERALA | Private | [Portal](http://fathimaartsand.org) |
+| 6310 | Markaz College of Arts and Science Karanthur | KOZHIKODE | KERALA | Private | [Portal](http://markazcollegeof.org) |
+
+
+### Batch 632 (Colleges 6311–6320)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6311 | Mannam Memorial N.s.s. College | PATHANAMTHITTA | KERALA | Private | [Portal](http://mmnc.org) |
+| 6312 | Ies College of Arts and Science | THRISSUR | KERALA | Private | [Portal](http://icoaas.org) |
+| 6313 | College of Applied Science Vazhakkad | MALAPPURAM | KERALA | Private | [Portal](http://coasv.org) |
+| 6314 | Muslim Orphanages' College of Arts and Science | KOZHIKODE | KERALA | Private | [Portal](http://muslimorphanagescollege.org) |
+| 6315 | Mes College Vatakara | KOZHIKODE | KERALA | Private | [Portal](http://mcv.org) |
+| 6316 | ST Teresas Arts and Science College Mala | THRISSUR | KERALA | Private | [Portal](http://stteresasarts.org) |
+| 6317 | Mes College Kothamangalam | ERNAKULAM | KERALA | Private | [Portal](http://mck.org) |
+| 6318 | Providence Women's College | KOZHIKODE | KERALA | Private | [Portal](http://pwc.org) |
+| 6319 | Nirmala Arts and Science College | ERNAKULAM | KERALA | Private | [Portal](http://naasc.org) |
+| 6320 | Thunchathezhuthachan College | PALAKKAD | KERALA | Private | [Portal](http://thunchathezhuthachancollege.org) |
+
+
+### Batch 633 (Colleges 6321–6330)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6321 | Najath College of Science and Technology Karuvarakundu | MALAPPURAM | KERALA | Private | [Portal](http://najathcollegeof.org) |
+| 6322 | The Cochin College | ERNAKULAM | KERALA | Private | [Portal](http://tcc.org) |
+| 6323 | Mar Chrysostom College | PATHANAMTHITTA | KERALA | Private | [Portal](http://mcc.org) |
+| 6324 | College of Applied Science Attappadi | PALAKKAD | KERALA | Private | [Portal](http://coasa.org) |
+| 6325 | Bharathamatha College of Arts and Science | PALAKKAD | KERALA | Private | [Portal](http://bcoaas.org) |
+| 6326 | Assumption College | KOTTAYAM | KERALA | Private | [Portal](http://assumptioncollege.org) |
+| 6327 | Parumala Mar Gregorios College | PATHANAMTHITTA | KERALA | Private | [Portal](http://pmgc.org) |
+| 6328 | MH College of Arts and Sicence Kuttiady | KOZHIKODE | KERALA | Private | [Portal](http://mhcollegeof.org) |
+| 6329 | Eranad Knowledge City College of Commerce and Sciences | MALAPPURAM | KERALA | Private | [Portal](http://eranadknowledgecity.org) |
+| 6330 | Mes College Nedumkandam | IDUKKI | KERALA | Private | [Portal](http://mcn.org) |
+
+
+### Batch 634 (Colleges 6331–6340)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6331 | Mar Gregorios College of Arts and Science | ALAPPUZHA | KERALA | Private | [Portal](http://margregorioscollege.org) |
+| 6332 | ST Michaels College | ALAPPUZHA | KERALA | Private | [Portal](http://smc.org) |
+| 6333 | Government. College Tanur | MALAPPURAM | KERALA | Public/Government | [Portal](https://gct.gov.in) |
+| 6334 | ST Judes Arts and Science College Vellarikundu | KASARAGOD | KERALA | Private | [Portal](http://stjudesarts.org) |
+| 6335 | Vns College of Arts and Science | PATHANAMTHITTA | KERALA | Private | [Portal](http://vcoaas.org) |
+| 6336 | Mount Seena College of Arts and Science | PALAKKAD | KERALA | Private | [Portal](http://mountseenacollege.org) |
+| 6337 | Aspire College of Advanced Studies | PALAKKAD | KERALA | Private | [Portal](http://acoas.org) |
+| 6338 | Government Arts and Science College Mankada | MALAPPURAM | KERALA | Public/Government | [Portal](https://gaascm.gov.in) |
+| 6339 | Sharaf Arts and Science College | KASARAGOD | KERALA | Private | [Portal](http://saasc.org) |
+| 6340 | Nattika Educational Society Arts and Science College | THRISSUR | KERALA | Private | [Portal](http://nattikaeducationalsociety.org) |
+
+
+### Batch 635 (Colleges 6341–6350)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6341 | Ideal College of Arts and Science Kuttiadi | KOZHIKODE | KERALA | Private | [Portal](http://idealcollegeof.org) |
+| 6342 | Vigyaan College of Applied Sciences | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://vcoas.org) |
+| 6343 | Silver Arts and Science College Perambra | KOZHIKODE | KERALA | Private | [Portal](http://saascp.org) |
+| 6344 | Mhes College of Science and Technology | KOZHIKODE | KERALA | Private | [Portal](http://mcosat.org) |
+| 6345 | Met Arts and Science College | KOZHIKODE | KERALA | Private | [Portal](http://maasc.org) |
+| 6346 | Rajagiri College of Management and Applied Sciences | ERNAKULAM | KERALA | Private | [Portal](http://rajagiricollegeof.org) |
+| 6347 | School of Technology and Applied Sciences | PATHANAMTHITTA | KERALA | Private | [Portal](http://sotaas.org) |
+| 6348 | A J College of Science and Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://ajcollege.org) |
+| 6349 | Fatima Mata National College | KOLLAM | KERALA | Private | [Portal](http://fmnc.org) |
+| 6350 | Vedavyasa College of Arts and Science | MALAPPURAM | KERALA | Private | [Portal](http://vcoaas.org) |
+
+
+### Batch 636 (Colleges 6351–6360)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6351 | Sree Gokulam Arts and Science College Balussery | KOZHIKODE | KERALA | Private | [Portal](http://sreegokulamarts.org) |
+| 6352 | ST Berchmans College | KOTTAYAM | KERALA | Private | [Portal](http://sbc.org) |
+| 6353 | Saqafath Institute of Advanced Studies Ummathur | KOZHIKODE | KERALA | Private | [Portal](http://sioasu.org) |
+| 6354 | Smi Arts and Science College Kunhippally | KOZHIKODE | KERALA | Private | [Portal](http://saasck.org) |
+| 6355 | Kadathanad Arts and Science College Vadakara | KOZHIKODE | KERALA | Private | [Portal](http://kaascv.org) |
+| 6356 | Educos Arts and Science College | KOZHIKODE | KERALA | Private | [Portal](http://eaasc.org) |
+| 6357 | Regional College of Science and Humanities | MALAPPURAM | KERALA | Private | [Portal](http://rcosah.org) |
+| 6358 | Kmm College of Arts and Science | ERNAKULAM | KERALA | Private | [Portal](http://kcoaas.org) |
+| 6359 | Sunrise College of Advanced Studies | KANNUR | KERALA | Private | [Portal](http://scoas.org) |
+| 6360 | Minority Arts and Science College | PALAKKAD | KERALA | Private | [Portal](http://maasc.org) |
+
+
+### Batch 637 (Colleges 6361–6370)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6361 | Nucleus College of Arts and Science | PALAKKAD | KERALA | Private | [Portal](http://ncoaas.org) |
+| 6362 | Dignity College of Arts and Science Perambra | KOZHIKODE | KERALA | Private | [Portal](http://dignitycollegeof.org) |
+| 6363 | Kmct Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://kaasc.org) |
+| 6364 | Sree Mahadeva College | KOTTAYAM | KERALA | Private | [Portal](http://smc.org) |
+| 6365 | Sree Narayana Arts and Science College | KOTTAYAM | KERALA | Private | [Portal](http://snaasc.org) |
+| 6366 | Rawther College of Arts and Science | PATHANAMTHITTA | KERALA | Private | [Portal](http://rcoaas.org) |
+| 6367 | Kmm College Thrikkakara | ERNAKULAM | KERALA | Private | [Portal](http://kct.org) |
+| 6368 | Cochin Arts and Science College | ERNAKULAM | KERALA | Private | [Portal](http://caasc.org) |
+| 6369 | Ayyappa Institute of Management Studies | IDUKKI | KERALA | Private | [Portal](http://aioms.org) |
+| 6370 | CM College of Arts and Science | WAYANAD | KERALA | Private | [Portal](http://ccoaas.org) |
+
+
+### Batch 638 (Colleges 6371–6380)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6371 | Jawaharlal Nehru Institute of Arts and Science | IDUKKI | KERALA | Private | [Portal](http://jawaharlalnehruinstitute.org) |
+| 6372 | Visat Arts and Science College | ERNAKULAM | KERALA | Private | [Portal](http://vaasc.org) |
+| 6373 | Moulana College of Arts Science and Commerce | MALAPPURAM | KERALA | Private | [Portal](http://moulanacollegeof.org) |
+| 6374 | Naher Arts and Science College Kanhirode | KANNUR | KERALA | Private | [Portal](http://naasck.org) |
+| 6375 | Pvs College of Arts and Science | KOZHIKODE | KERALA | Private | [Portal](http://pcoaas.org) |
+| 6376 | PK Das Liberal College of Arts and Science | PALAKKAD | KERALA | Private | [Portal](http://pkdasliberal.org) |
+| 6377 | Pookoya Thangal Memorial Government College | MALAPPURAM | KERALA | Public/Government | [Portal](https://ptmgc.gov.in) |
+| 6378 | Sree Neelakanta Govt Sanskrit College | PALAKKAD | KERALA | Public/Government | [Portal](https://sngsc.gov.in) |
+| 6379 | Government Arts and Science College Pathirippala | PALAKKAD | KERALA | Public/Government | [Portal](https://gaascp.gov.in) |
+| 6380 | St.berchmans Institute of Management Studies | KOTTAYAM | KERALA | Private | [Portal](http://sioms.org) |
+
+
+### Batch 639 (Colleges 6381–6390)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6381 | Sreepathy Institute of Advanced Studies | PALAKKAD | KERALA | Private | [Portal](http://sioas.org) |
+| 6382 | Vimal Jyothi Institute of Management and Research | KANNUR | KERALA | Private | [Portal](http://vimaljyothiinstitute.org) |
+| 6383 | Mor Ivanian College | PALAKKAD | KERALA | Private | [Portal](http://mic.org) |
+| 6384 | Muthoot Business School | ERNAKULAM | KERALA | Private | [Portal](http://mbs.org) |
+| 6385 | Unity College of Arts and Science | THRISSUR | KERALA | Private | [Portal](http://ucoaas.org) |
+| 6386 | Duxford College for Advanced Studies | MALAPPURAM | KERALA | Private | [Portal](http://dcfas.org) |
+| 6387 | College of Applied Science Dhanuvachapuram | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://coasd.org) |
+| 6388 | Mes Arts and Science College Chathannoor | KOLLAM | KERALA | Private | [Portal](http://maascc.org) |
+| 6389 | Lourdes Matha College of Arts and Science | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://lourdesmathacollege.org) |
+| 6390 | Michaels Institute of Management and Technology | ALAPPUZHA | KERALA | Private | [Portal](http://miomat.org) |
+
+
+### Batch 640 (Colleges 6391–6400)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6391 | Jamia Hamdard Kannur Campus | KANNUR | KERALA | Private | [Portal](http://jhkc.org) |
+| 6392 | Cas Kundara | KOLLAM | KERALA | Private | [Portal](http://caskundara.org) |
+| 6393 | Lbs Model Degree College | MALAPPURAM | KERALA | Private | [Portal](http://lmdc.org) |
+| 6394 | College of Applied Science Mavelikara | ALAPPUZHA | KERALA | Private | [Portal](http://coasm.org) |
+| 6395 | Kodiyeri Balakrishnan Smaraka Government College | KANNUR | KERALA | Public/Government | [Portal](https://kbsgc.gov.in) |
+| 6396 | Dr. Harisingh Gour Vishwavidyalaya Sagar | SAGAR | MADHYA PRADESH | Private | [Portal](http://dhgvs.org) |
+| 6397 | Sai Institute of Management | BARWANI | MADHYA PRADESH | Private | [Portal](http://siom.org) |
+| 6398 | Vaishnavi Institutes of Technology and Science | RAISEN | MADHYA PRADESH | Private | [Portal](http://viotas.org) |
+| 6399 | Little Angel Institute of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://laiops.org) |
+| 6400 | Shri Rawatpura Sarkar Institute of Management Science | DATIA | MADHYA PRADESH | Private | [Portal](http://shrirawatpurasarkar.org) |
+
+
+### Batch 641 (Colleges 6401–6410)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6401 | School of Information Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://soit.org) |
+| 6402 | School of Applied Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://soam.org) |
+| 6403 | Oxford International College of Management | INDORE | MADHYA PRADESH | Private | [Portal](http://oicom.org) |
+| 6404 | Indore International College Dhar | DHAR | MADHYA PRADESH | Private | [Portal](http://iicd.org) |
+| 6405 | Evergreen Education Society College (Pgdm) | HOSHANGABAD | MADHYA PRADESH | Private | [Portal](http://eescp.org) |
+| 6406 | Msme Technology Centre Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mtcb.org) |
+| 6407 | Millennium College of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mcom.org) |
+| 6408 | Shri Rama Krishna College Polytechnic and Management | SATNA | MADHYA PRADESH | Private | [Portal](http://shriramakrishna.org) |
+| 6409 | Ips Academy Institute of Business Management and Research Sanwer Campus | INDORE | MADHYA PRADESH | Private | [Portal](http://ipsacademyinstitute.org) |
+| 6410 | Sks Institute Ofbusiness Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://sios.org) |
+
+
+### Batch 642 (Colleges 6411–6420)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6411 | Arihant College | INDORE | MADHYA PRADESH | Private | [Portal](http://arihantcollege.org) |
+| 6412 | Khajuraho Institute of Pharmaceutical Sciences | CHHATARPUR | MADHYA PRADESH | Private | [Portal](http://kiops.org) |
+| 6413 | Imi Business School | INDORE | MADHYA PRADESH | Private | [Portal](http://ibs.org) |
+| 6414 | Madhuban College of Management Barwani | BARWANI | MADHYA PRADESH | Private | [Portal](http://mcomb.org) |
+| 6415 | Polytechnic (Engineering) | SEHORE | MADHYA PRADESH | Private | [Portal](http://polytechnicengineering.org) |
+| 6416 | Sam College of Management | RAISEN | MADHYA PRADESH | Private | [Portal](http://scom.org) |
+| 6417 | Government Polytechnic College, Jatara | TIKAMGARH | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6418 | Shreejee Institute of Technology and Management | KHARGONE | MADHYA PRADESH | Private | [Portal](http://siotam.org) |
+| 6419 | Kushagra Professional College | UJJAIN | MADHYA PRADESH | Private | [Portal](http://kpc.org) |
+| 6420 | Lal Bahadur Shastri Institute of Management Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://lalbahadurshastri.org) |
+
+
+### Batch 643 (Colleges 6421–6430)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6421 | Vikramaditya Institute of Management and Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://viomat.org) |
+| 6422 | Mathuradevi Institute of Management | INDORE | MADHYA PRADESH | Private | [Portal](http://miom.org) |
+| 6423 | Government Polytechnic College, Agar Malwa | SHAJAPUR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6424 | Synergy Institute of Management Maheshwar | KHARGONE | MADHYA PRADESH | Private | [Portal](http://siomm.org) |
+| 6425 | Indore International College Solsinda | INDORE | MADHYA PRADESH | Private | [Portal](http://iics.org) |
+| 6426 | Bsss Institute of Advanced Studies | BHOPAL | MADHYA PRADESH | Private | [Portal](http://bioas.org) |
+| 6427 | Ambika Institute of Management | SHIVPURI | MADHYA PRADESH | Private | [Portal](http://aiom.org) |
+| 6428 | Anant Institute of Management Studies | GWALIOR | MADHYA PRADESH | Private | [Portal](http://aioms.org) |
+| 6429 | Diksha College of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://dcom.org) |
+| 6430 | Ies Institute of Management | SEHORE | MADHYA PRADESH | Private | [Portal](http://iiom.org) |
+
+
+### Batch 644 (Colleges 6431–6440)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6431 | Jawaharlal Institute of Technology and Management | KHARGONE | MADHYA PRADESH | Private | [Portal](http://jiotam.org) |
+| 6432 | Shree Saraswati Gyanpeeth Shiksha Mahavidyalaya | INDORE | MADHYA PRADESH | Private | [Portal](http://ssgsm.org) |
+| 6433 | Shri Gyan Shiksha Mahavidyalaya | DHAR | MADHYA PRADESH | Private | [Portal](http://sgsm.org) |
+| 6434 | Jaihind College of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://jcom.org) |
+| 6435 | Gyanayatan College of Management | JABALPUR | MADHYA PRADESH | Private | [Portal](http://gcom.org) |
+| 6436 | Harda Degree College | HARDA | MADHYA PRADESH | Private | [Portal](http://hdc.org) |
+| 6437 | Radiant Institute of Management and Science | INDORE | MADHYA PRADESH | Private | [Portal](http://riomas.org) |
+| 6438 | Presidency College Raisen | RAISEN | MADHYA PRADESH | Private | [Portal](http://pcr.org) |
+| 6439 | Dr. A.p.j. Abdul Kalam Uit Jhabua | JHABUA | MADHYA PRADESH | Private | [Portal](http://daakuj.org) |
+| 6440 | Gurukul College for Excellence | BHOPAL | MADHYA PRADESH | Private | [Portal](http://gcfe.org) |
+
+
+### Batch 645 (Colleges 6441–6450)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6441 | Shri Jain Diwakar Mahavidyalaya | INDORE | MADHYA PRADESH | Private | [Portal](http://sjdm.org) |
+| 6442 | Kopal College for Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://kcfm.org) |
+| 6443 | Shriram School of Business Studies | MORENA | MADHYA PRADESH | Private | [Portal](http://ssobs.org) |
+| 6444 | Aditya College of Management | SATNA | MADHYA PRADESH | Private | [Portal](http://acom.org) |
+| 6445 | Betwanchal College of Management | VIDISHA | MADHYA PRADESH | Private | [Portal](http://bcom.org) |
+| 6446 | Kopal Institute of Management Studies | BHOPAL | MADHYA PRADESH | Private | [Portal](http://kioms.org) |
+| 6447 | Svkm's Nmims School of Business Management - Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://svkmsnmimsschool.org) |
+| 6448 | Indra Institute of Management Studies Dewas | DEWAS | MADHYA PRADESH | Private | [Portal](http://iiomsd.org) |
+| 6449 | Government Polytechnic College Bareli | RAISEN | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6450 | Sam College of Pharmacy | RAISEN | MADHYA PRADESH | Private | [Portal](http://scop.org) |
+
+
+### Batch 646 (Colleges 6451–6460)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6451 | Eklavya Government Polytechnic College Harsud Dist Khandwa (M.p.) | KHANDWA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6452 | Gyanveer Institute of Management and Science | SAGAR | MADHYA PRADESH | Private | [Portal](http://giomas.org) |
+| 6453 | Bhopal Institute of Technology and Management MBA | RAISEN | MADHYA PRADESH | Private | [Portal](http://bhopalinstituteof.org) |
+| 6454 | Isba College | NEEMUCH | MADHYA PRADESH | Private | [Portal](http://isbacollege.org) |
+| 6455 | Maharana Pratap College of Managment | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mpcom.org) |
+| 6456 | Sardar Vallabh Bhai Patel Mahavidyalaya | BARWANI | MADHYA PRADESH | Private | [Portal](http://svbpm.org) |
+| 6457 | Thakur Shivkumarsingh Memorial Polytechnic College | BURHANPUR | MADHYA PRADESH | Private | [Portal](http://tsmpc.org) |
+| 6458 | Rbs Institute of Education | NEEMUCH | MADHYA PRADESH | Private | [Portal](http://rioe.org) |
+| 6459 | Iasscom Fortune Institute of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://ifiot.org) |
+| 6460 | Vidhik Institute of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://viom.org) |
+
+
+### Batch 647 (Colleges 6461–6470)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6461 | Artemisia Business School | INDORE | MADHYA PRADESH | Private | [Portal](http://abs.org) |
+| 6462 | Maharishi Institute of Management | INDORE | MADHYA PRADESH | Private | [Portal](http://miom.org) |
+| 6463 | Parijat College | INDORE | MADHYA PRADESH | Private | [Portal](http://parijatcollege.org) |
+| 6464 | Prestige Institute of Global Management, Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://piogmi.org) |
+| 6465 | Chameli Devi Institute of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://cdiops.org) |
+| 6466 | Indore Mahavidyalaya | INDORE | MADHYA PRADESH | Private | [Portal](http://indoremahavidyalaya.org) |
+| 6467 | Takshshila College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://takshshilacollege.org) |
+| 6468 | Sanjivani International | DEWAS | MADHYA PRADESH | Private | [Portal](http://sanjivaniinternational.org) |
+| 6469 | St.paul Institute of Professional and Management Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://stpaulinstituteof.org) |
+| 6470 | Medhavi Institute of Management | JABALPUR | MADHYA PRADESH | Private | [Portal](http://miom.org) |
+
+
+### Batch 648 (Colleges 6471–6480)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6471 | Kewalshree Institute of Management | INDORE | MADHYA PRADESH | Private | [Portal](http://kiom.org) |
+| 6472 | Rewa Gurjar Institute of Management Studies | KHARGONE | MADHYA PRADESH | Private | [Portal](http://rgioms.org) |
+| 6473 | Xavier Institute of Management Jabalpur Ximj | JABALPUR | MADHYA PRADESH | Private | [Portal](http://xiomjx.org) |
+| 6474 | Shri Mahakal Institute of Management and Science | HARDA | MADHYA PRADESH | Private | [Portal](http://shrimahakalinstitute.org) |
+| 6475 | Gurudev Shri Vidhyasagar Institute of Management | VIDISHA | MADHYA PRADESH | Private | [Portal](http://gsviom.org) |
+| 6476 | Mekalsuta College Dindori | DINDORI | MADHYA PRADESH | Private | [Portal](http://mcd.org) |
+| 6477 | Swami Vivekanand Mahavidhyalya | SEHORE | MADHYA PRADESH | Private | [Portal](http://svm.org) |
+| 6478 | Ram Raja College of Management | TIKAMGARH | MADHYA PRADESH | Private | [Portal](http://rrcom.org) |
+| 6479 | Maa Shanta Devi College of Managment | BETUL | MADHYA PRADESH | Private | [Portal](http://msdcom.org) |
+| 6480 | Chameli Devi Group of Institutions | INDORE | MADHYA PRADESH | Private | [Portal](http://cdgoi.org) |
+
+
+### Batch 649 (Colleges 6481–6490)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6481 | Government Polytechnic College Seoni | SEONI | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6482 | Apex Institute of Management & Research | INDORE | MADHYA PRADESH | Private | [Portal](http://aiomr.org) |
+| 6483 | Rustamji Institute of Technology (Diploma) | GWALIOR | MADHYA PRADESH | Private | [Portal](http://riotd.org) |
+| 6484 | Gyanodaya the College of Excellence (Polytechnic) | NEEMUCH | MADHYA PRADESH | Private | [Portal](http://gtcoep.org) |
+| 6485 | G0vt. Polytechnic College Sidhi Camp Waidhan | SIDHI | MADHYA PRADESH | Private | [Portal](http://gpcscw.org) |
+| 6486 | V.m.government Polytechnic College Narsinghpur MP | NARSINHGPUR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6487 | St. Aloysius Institute of Technology | JABALPUR | MADHYA PRADESH | Private | [Portal](http://saiot.org) |
+| 6488 | Government.polytechnic College Jhabua | JHABUA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6489 | Shri Rgp Gujarati Professional Institute | INDORE | MADHYA PRADESH | Private | [Portal](http://srgpi.org) |
+| 6490 | Indo-German Tool Room,Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://itr.org) |
+
+
+### Batch 650 (Colleges 6491–6500)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6491 | Government Polytechnic College Shahdol | SHAHDOL | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6492 | School of Electronics, Devi Ahilya University, Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://schoolofelectronics.org) |
+| 6493 | S.r.govt. Polytechnic College, Sagar (MP) | SAGAR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6494 | Vidhyapeeth Institute of Science & Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://viost.org) |
+| 6495 | Government Polytechnic College, Morena | MORENA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6496 | S.v.polytechnic College, Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://scb.org) |
+| 6497 | Government Polytechnic College Lateri | BHOPAL | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6498 | Xavier Institute of Development Action and Studies - Xidas | JABALPUR | MADHYA PRADESH | Private | [Portal](http://xavierinstituteof.org) |
+| 6499 | Government Women's Polytechnic College Bhopal | BHOPAL | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6500 | Ujjain Polytechnic College, Ujjain | UJJAIN | MADHYA PRADESH | Private | [Portal](http://upcu.org) |
+
+
+### Batch 651 (Colleges 6501–6510)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6501 | University Polytechnic Rgpv Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://uprb.org) |
+| 6502 | Study Centre for Computer Application | REWA | MADHYA PRADESH | Private | [Portal](http://scfca.org) |
+| 6503 | Dr. B.r. Ambedkar Polytechnic College,Gwalior | GWALIOR | MADHYA PRADESH | Private | [Portal](http://dbapc.org) |
+| 6504 | Agnos College of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://acot.org) |
+| 6505 | Government Polytechnic College, Harda | HARDA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6506 | Indira Gandhi Govt.polytechnic College Chhindwara | CHHINDWARA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6507 | Government Polytechnic College Balaghat | BALAGHAT | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6508 | Government Polytechnic College, Dabra | GWALIOR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6509 | College of Polytechnic Engineering | INDORE | MADHYA PRADESH | Private | [Portal](http://cope.org) |
+| 6510 | School of Rural Management | RATLAM | MADHYA PRADESH | Private | [Portal](http://sorm.org) |
+
+
+### Batch 652 (Colleges 6511–6520)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6511 | Government.womens Polytechnic College Sehore | SEHORE | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6512 | Institute of Polytechnic Engineering | BHOPAL | MADHYA PRADESH | Private | [Portal](http://iope.org) |
+| 6513 | Shri Vaishnav Polytechnic College | INDORE | MADHYA PRADESH | Private | [Portal](http://svpc.org) |
+| 6514 | Dhar Polytechnic College | DHAR | MADHYA PRADESH | Private | [Portal](http://dpc.org) |
+| 6515 | Sam College of Managment and Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://scomat.org) |
+| 6516 | Government Poloytechnic College | BHIND | MADHYA PRADESH | Public/Government | [Portal](https://gpc.gov.in) |
+| 6517 | Government Polytechnic College Shajapur | SHAJAPUR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6518 | Government Polytechnic College Dindori | DINDORI | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6519 | Manjula K Ponda College of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mkpcom.org) |
+| 6520 | Government Polytechnic College Satna (M.p.)-484005 | SATNA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+
+
+### Batch 653 (Colleges 6521–6530)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6521 | Lal Bahadur Shastri Institute of Technology and Management | INDORE | MADHYA PRADESH | Private | [Portal](http://lalbahadurshastri.org) |
+| 6522 | Government. Polytechnic College, Sanawad | KHARGONE | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6523 | Government Polytechnic College Alirajpur(M.p.) | ALIRAJPUR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6524 | Thakur Shivkumarsingh Memorial Engineering College | BURHANPUR | MADHYA PRADESH | Private | [Portal](http://tsmec.org) |
+| 6525 | Government Women's Polytechnic College Jabalpur | JABALPUR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6526 | International Institute of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://iiops.org) |
+| 6527 | Acropolis Faculty of Management & Research | INDORE | MADHYA PRADESH | Private | [Portal](http://afomr.org) |
+| 6528 | Aditya College of Technology & Science | SATNA | MADHYA PRADESH | Private | [Portal](http://acots.org) |
+| 6529 | Government. Polytechnic College Waidhan | SINGRAULI | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6530 | Institute of Computer Science, Vikram University Ujjain | UJJAIN | MADHYA PRADESH | Private | [Portal](http://instituteofcomputer.org) |
+
+
+### Batch 654 (Colleges 6531–6540)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6531 | Government Polytechnic College Pawai | PANNA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6532 | Government Polytechnic College Rajgarh | UJJAIN | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6533 | Government Polytechnic College Damoh | DAMOH | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6534 | School of Instrumentation, Devi Ahilya Vishwavidyalaya | INDORE | MADHYA PRADESH | Private | [Portal](http://soidav.org) |
+| 6535 | Infinity Management & Engineering College | SAGAR | MADHYA PRADESH | Private | [Portal](http://imec.org) |
+| 6536 | School of Data Science and Forecasting | INDORE | MADHYA PRADESH | Private | [Portal](http://sodsaf.org) |
+| 6537 | Government Polytechnic College Barwani | BARWANI | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6538 | Government Polytechnic College Itarsi | HOSHANGABAD | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6539 | Government. Polytechnic College Dewas | DEWAS | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6540 | S.o.s. in Computer Science & Applications | GWALIOR | MADHYA PRADESH | Private | [Portal](http://sicsa.org) |
+
+
+### Batch 655 (Colleges 6541–6550)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6541 | Vip College of Management Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://vcomb.org) |
+| 6542 | Government. Polytechnic College, Khurai | SAGAR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6543 | Bethesda Institute of Technology and Sciences | GWALIOR | MADHYA PRADESH | Private | [Portal](http://biotas.org) |
+| 6544 | Government. Polytechnic College Anuppur (M.p.) | ANUPPUR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6545 | Government Polytechnic College,Sheopur | SHEOPUR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6546 | Indore Women's Polytechnic College | INDORE | MADHYA PRADESH | Private | [Portal](http://iwpc.org) |
+| 6547 | Anand Institute of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://aiom.org) |
+| 6548 | Sapphire Institute of Bussiness Management | INDORE | MADHYA PRADESH | Private | [Portal](http://siobm.org) |
+| 6549 | Annie Institute of Technology and Rsearch Centre | CHHINDWARA | MADHYA PRADESH | Private | [Portal](http://annieinstituteof.org) |
+| 6550 | Government Polytechnic College Betul | BETUL | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+
+
+### Batch 656 (Colleges 6551–6560)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6551 | Mayo College of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mcom.org) |
+| 6552 | Shri Yogindra Sagar Institute of Technology & Science | RATLAM | MADHYA PRADESH | Private | [Portal](http://shriyogindrasagar.org) |
+| 6553 | Engineering College Nowgong | CHHATARPUR | MADHYA PRADESH | Private | [Portal](http://ecn.org) |
+| 6554 | Rustamji Institute of Technology | GWALIOR | MADHYA PRADESH | Private | [Portal](http://riot.org) |
+| 6555 | G.t.polytechnic College, Jaora | RATLAM | MADHYA PRADESH | Private | [Portal](http://gcj.org) |
+| 6556 | Ramnath Singh Institute of Technology and Science | GWALIOR | MADHYA PRADESH | Private | [Portal](http://ramnathsinghinstitute.org) |
+| 6557 | Gyanodaya Institute of Management & Technology | NEEMUCH | MADHYA PRADESH | Private | [Portal](http://giomt.org) |
+| 6558 | University Institute of Computer Science and Applications (Uicsa) | JABALPUR | MADHYA PRADESH | Private | [Portal](http://universityinstituteof.org) |
+| 6559 | Government Polytechnic College Ashoknagar | ASHOK NAGAR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6560 | Government. Polytechnic College Shivpuri | SHIVPURI | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+
+
+### Batch 657 (Colleges 6561–6570)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6561 | Government. Polytechnic College, Mandsaur | MANDSAUR | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6562 | Itm University - Gwalior (School of Engineering & Technology) | GWALIOR | MADHYA PRADESH | Private | [Portal](http://itmuniversitygwalior.org) |
+| 6563 | Sushila Devi Bansal College of Engineering | INDORE | MADHYA PRADESH | Private | [Portal](http://sdbcoe.org) |
+| 6564 | Bhopal Institute of Technology & Science | BHOPAL | MADHYA PRADESH | Private | [Portal](http://biots.org) |
+| 6565 | Government Polytechnic College Sendhwa | BARWANI | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6566 | Government. Polytechnic College Panna | PANNA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6567 | Crim,Utd,Barkatullah University,Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://crimutdbarkatullahuniversitybhopal.org) |
+| 6568 | Prestige Institute of Management Dewas | DEWAS | MADHYA PRADESH | Private | [Portal](http://piomd.org) |
+| 6569 | Kalaniketan Polytechnic College Jabalpur | JABALPUR | MADHYA PRADESH | Private | [Portal](http://kpcj.org) |
+| 6570 | Government.polytechnic College Khirsadoh | CHHINDWARA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+
+
+### Batch 658 (Colleges 6571–6580)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6571 | Manthan Polytechnic College | SEHORE | MADHYA PRADESH | Private | [Portal](http://mpc.org) |
+| 6572 | Government Polytechnic College Jawad | NEEMUCH | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6573 | Surabhi College of Engineering and Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://scoeat.org) |
+| 6574 | Bharatiya Vidya Mandir College of Management Education | GWALIOR | MADHYA PRADESH | Private | [Portal](http://bharatiyavidyamandir.org) |
+| 6575 | Government Polytechnic College Katni | KATNI | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6576 | Government Polytechnic College,Raisen | RAISEN | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6577 | Lakshmi Narain College of Technology, Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://lncoti.org) |
+| 6578 | Samrat Ashok Technological Institute Polytechnic College | VIDISHA | MADHYA PRADESH | Private | [Portal](http://satipc.org) |
+| 6579 | Bhopal Institute of Technology & Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://biotm.org) |
+| 6580 | Thakur Shivkumarsingh Memorial Management College | BURHANPUR | MADHYA PRADESH | Private | [Portal](http://tsmmc.org) |
+
+
+### Batch 659 (Colleges 6581–6590)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6581 | Department of Technical Education Mahakaushal University | JABALPUR | MADHYA PRADESH | Private | [Portal](http://dotemu.org) |
+| 6582 | School of Energy & Environmental Studies, Devi Ahilya Vishwavidayala | INDORE | MADHYA PRADESH | Private | [Portal](http://schoolofenergy.org) |
+| 6583 | National Institute of Technical Teachers' Training and Research | BHOPAL | MADHYA PRADESH | Public/Government | [Portal](https://nationalinstituteof.gov.in) |
+| 6584 | Government Polytechnic College Umariya | UMARIA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 6585 | Srajan Institute of Tech. Management & Science | RATLAM | MADHYA PRADESH | Private | [Portal](http://siotms.org) |
+| 6586 | Shri Guru Sandipani Institute of Technology & Science | UJJAIN | MADHYA PRADESH | Private | [Portal](http://shrigurusandipani.org) |
+| 6587 | Nagaji Institute of Technology & Management, Gwalior | GWALIOR | MADHYA PRADESH | Private | [Portal](http://niotmg.org) |
+| 6588 | Sha-Shib College of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://scot.org) |
+| 6589 | Guru Ramdas Khalsa Institute of Science & Technology | JABALPUR | MADHYA PRADESH | Private | [Portal](http://gururamdaskhalsa.org) |
+| 6590 | Malwa Institute of Technology | INDORE | MADHYA PRADESH | Private | [Portal](http://miot.org) |
+
+
+### Batch 660 (Colleges 6591–6600)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6591 | Bansal College of Engineering | RAISEN | MADHYA PRADESH | Private | [Portal](http://bcoe.org) |
+| 6592 | Bhabha Management Research Institute | BHOPAL | MADHYA PRADESH | Private | [Portal](http://bmri.org) |
+| 6593 | Madhuban Institute of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://miops.org) |
+| 6594 | Bhabha Engineering Research Institute | BHOPAL | MADHYA PRADESH | Private | [Portal](http://beri.org) |
+| 6595 | CH Institute of Management & Commerce | INDORE | MADHYA PRADESH | Private | [Portal](http://ciomc.org) |
+| 6596 | Sri Satya Sai College of Engineering | BHOPAL | MADHYA PRADESH | Private | [Portal](http://ssscoe.org) |
+| 6597 | Eklavya University | DAMOH | MADHYA PRADESH | Private | [Portal](http://eklavyauniversity.org) |
+| 6598 | Shri Ram Group of Institutions (Faculty of Engineering, Pharmacy, MCA, MBA) Jabalpur (M.p.) | JABALPUR | MADHYA PRADESH | Private | [Portal](http://shriramgroup.org) |
+| 6599 | Pt. Jawaharlal Nehru Institute of Business Management | UJJAIN | MADHYA PRADESH | Private | [Portal](http://ptjawaharlalnehru.org) |
+| 6600 | Hitkarni College of Engineering & Technology | JABALPUR | MADHYA PRADESH | Private | [Portal](http://hcoet.org) |
+
+
+### Batch 661 (Colleges 6601–6610)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6601 | Shri G.s.institute of Tech. & Science | INDORE | MADHYA PRADESH | Private | [Portal](http://sgots.org) |
+| 6602 | Technocrats Institute of Technology-Computer Science and Engineering | BHOPAL | MADHYA PRADESH | Private | [Portal](http://technocratsinstituteof.org) |
+| 6603 | Nri-Institute of Research & Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://nort.org) |
+| 6604 | Prashanti Institute of Technology & Science | UJJAIN | MADHYA PRADESH | Private | [Portal](http://piots.org) |
+| 6605 | School of Computer Application,Sri Satya Sai University of Technology and Medical Sciences,(Sssutms) | SEHORE | MADHYA PRADESH | Private | [Portal](http://schoolofcomputer.org) |
+| 6606 | Katni Arts and Commerce College | KATNI | MADHYA PRADESH | Private | [Portal](http://kaacc.org) |
+| 6607 | Institute of Professional Education and Research (Iper) | BHOPAL | MADHYA PRADESH | Private | [Portal](http://instituteofprofessional.org) |
+| 6608 | Kopal Institute of Science & Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://kiost.org) |
+| 6609 | Sagar Institute of Science Technology & Research (Sistec-R) | BHOPAL | MADHYA PRADESH | Private | [Portal](http://sagarinstituteof.org) |
+| 6610 | School of Hotel Management, Sri Satya Sai University of Technology and Medical Sciences,(Sssutms) | SEHORE | MADHYA PRADESH | Private | [Portal](http://schoolofhotel.org) |
+
+
+### Batch 662 (Colleges 6611–6620)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6611 | Shri Ram Institute of Technology (MCA) | JABALPUR | MADHYA PRADESH | Private | [Portal](http://sriotm.org) |
+| 6612 | Takshshila Institute of Engineering & Technology, Jabalpur | JABALPUR | MADHYA PRADESH | Private | [Portal](http://tioetj.org) |
+| 6613 | Swami Vivekanand Institute of Technology, Sagar | SAGAR | MADHYA PRADESH | Private | [Portal](http://sviots.org) |
+| 6614 | Radharaman Institute of Technology and Science | BHOPAL | MADHYA PRADESH | Private | [Portal](http://riotas.org) |
+| 6615 | Faculty of Rural Development and Business Administration,Mahatma Gandhi Chitrakoot University, Chitrakoot Satana M.p. | SATNA | MADHYA PRADESH | Private | [Portal](http://facultyofrural.org) |
+| 6616 | Ips College of Technology & Management | GWALIOR | MADHYA PRADESH | Private | [Portal](http://icotm.org) |
+| 6617 | Indira Gandhi Engineering College, Sagar | SAGAR | MADHYA PRADESH | Private | [Portal](http://igecs.org) |
+| 6618 | Shri Rawatpura Sarkar Institute of Technology & Science | DATIA | MADHYA PRADESH | Private | [Portal](http://shrirawatpurasarkar.org) |
+| 6619 | Shri Ram Institute of SC & Technology | JABALPUR | MADHYA PRADESH | Private | [Portal](http://sriost.org) |
+| 6620 | Govindram Seksaria Institute of Management & Research | INDORE | MADHYA PRADESH | Private | [Portal](http://gsiomr.org) |
+
+
+### Batch 663 (Colleges 6621–6630)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6621 | Jabalpur Engineering College,Jabalpur | JABALPUR | MADHYA PRADESH | Private | [Portal](http://jec.org) |
+| 6622 | Technocrats Institute of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://tiot.org) |
+| 6623 | Shri Ram Institute of Management | JABALPUR | MADHYA PRADESH | Private | [Portal](http://sriom.org) |
+| 6624 | Millennium Institute of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://miot.org) |
+| 6625 | Radharaman Engineering College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://rec.org) |
+| 6626 | School of Management Studies, Sri Satya Sai University of Technology and Medical Sciences (Sssutms) | SEHORE | MADHYA PRADESH | Private | [Portal](http://schoolofmanagement.org) |
+| 6627 | Jawaharlal Institute of Technology, Borawan | KHARGONE | MADHYA PRADESH | Private | [Portal](http://jiotb.org) |
+| 6628 | Lakshmi Narain College of Management | GWALIOR | MADHYA PRADESH | Private | [Portal](http://lncom.org) |
+| 6629 | Patel College of Management | INDORE | MADHYA PRADESH | Private | [Portal](http://pcom.org) |
+| 6630 | Laxmi Bai Sahuji Institute of Management | JABALPUR | MADHYA PRADESH | Private | [Portal](http://lbsiom.org) |
+
+
+### Batch 664 (Colleges 6631–6640)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6631 | Babulal Tarabai Institute of Research & Technology | SAGAR | MADHYA PRADESH | Private | [Portal](http://btiort.org) |
+| 6632 | Rkdf College of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://rcot.org) |
+| 6633 | Indira Priyadarshini College of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://ipcom.org) |
+| 6634 | Imi Professional Studies, Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://ipsi.org) |
+| 6635 | Jai Narain College of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://jncot.org) |
+| 6636 | Academy of Managment | BHOPAL | MADHYA PRADESH | Private | [Portal](http://aom.org) |
+| 6637 | Oriental College of Management, Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://ocomb.org) |
+| 6638 | Guru Ramdas Khalsa Institute of Science and Technology (MCA) | JABALPUR | MADHYA PRADESH | Private | [Portal](http://gururamdaskhalsa.org) |
+| 6639 | Oriental Institute of Science & Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://oiost.org) |
+| 6640 | Rewa Engineering College Rewa (MP) | REWA | MADHYA PRADESH | Private | [Portal](http://recrm.org) |
+
+
+### Batch 665 (Colleges 6641–6650)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6641 | Baderia Global Institute of Engineering & Management | JABALPUR | MADHYA PRADESH | Private | [Portal](http://bgioem.org) |
+| 6642 | Technocrats Institute of Technology (Excellence) | BHOPAL | MADHYA PRADESH | Private | [Portal](http://tiote.org) |
+| 6643 | Patel College of Science & Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://pcost.org) |
+| 6644 | Mittal Institute of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://miot.org) |
+| 6645 | Gyan Ganga College of Technology | JABALPUR | MADHYA PRADESH | Private | [Portal](http://ggcot.org) |
+| 6646 | Sri Aurobindo Institute of Technology, Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://saioti.org) |
+| 6647 | Technocrats Insttitute of Technology-MBA | BHOPAL | MADHYA PRADESH | Private | [Portal](http://tiot.org) |
+| 6648 | Nri Institute of Information Science and Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://nriinstituteof.org) |
+| 6649 | Ies Institute of Technology and Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://iiotam.org) |
+| 6650 | Shivajirao Kadam Institute of Technology and Management - Technical Campus | INDORE | MADHYA PRADESH | Private | [Portal](http://shivajiraokadaminstitute.org) |
+
+
+### Batch 666 (Colleges 6651–6660)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6651 | Nri School of Management Studies | BHOPAL | MADHYA PRADESH | Private | [Portal](http://nsoms.org) |
+| 6652 | Gwalior Institute of Information Technology | GWALIOR | MADHYA PRADESH | Private | [Portal](http://gioit.org) |
+| 6653 | University Institute of Management, R.d University, Jabalpur | JABALPUR | MADHYA PRADESH | Private | [Portal](http://universityinstituteof.org) |
+| 6654 | School of Computer Science & IT | INDORE | MADHYA PRADESH | Private | [Portal](http://socsi.org) |
+| 6655 | Ujjain Engineering College (Formerly Govt. Engg. College Estb. in 1966) | UJJAIN | MADHYA PRADESH | Public/Government | [Portal](https://ujjainengineeringcollege.gov.in) |
+| 6656 | Faculty of Management Studies | SAGAR | MADHYA PRADESH | Private | [Portal](http://foms.org) |
+| 6657 | Sendhwa Institute of Professional Studies | BARWANI | MADHYA PRADESH | Private | [Portal](http://siops.org) |
+| 6658 | Corporate Institute of Science & Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://ciost.org) |
+| 6659 | Kailash Narayan Patidar College of Science & Technology, Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://kailashnarayanpatidar.org) |
+| 6660 | Sagar Institute of Research & Technology- Excellence | BHOPAL | MADHYA PRADESH | Private | [Portal](http://siorte.org) |
+
+
+### Batch 667 (Colleges 6661–6670)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6661 | Rkdf Institute of Business Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://riobm.org) |
+| 6662 | Sagar Institute of Science Technology & Engineering (Sistec-E) | BHOPAL | MADHYA PRADESH | Private | [Portal](http://sagarinstituteof.org) |
+| 6663 | Lakshmi Narain College of Technology (MCA) | BHOPAL | MADHYA PRADESH | Private | [Portal](http://lncotm.org) |
+| 6664 | Lakshmi Narain College of Technology Excellence | BHOPAL | MADHYA PRADESH | Private | [Portal](http://lncote.org) |
+| 6665 | S.g.b.m. Institute of Technology & Science | JABALPUR | MADHYA PRADESH | Private | [Portal](http://siots.org) |
+| 6666 | Modern Institute of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://miops.org) |
+| 6667 | Shri Balaji Institute of Technology & Management | BETUL | MADHYA PRADESH | Private | [Portal](http://sbiotm.org) |
+| 6668 | Mathuradevi Institute of Technology & Management | INDORE | MADHYA PRADESH | Private | [Portal](http://miotm.org) |
+| 6669 | Gyan Sagar College of Engineering | SAGAR | MADHYA PRADESH | Private | [Portal](http://gscoe.org) |
+| 6670 | Adina Institute of Science and Technology, Sagar, MP | SAGAR | MADHYA PRADESH | Private | [Portal](http://adinainstituteof.org) |
+
+
+### Batch 668 (Colleges 6671–6680)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6671 | Sanghvi Institute of Management and Science | INDORE | MADHYA PRADESH | Private | [Portal](http://siomas.org) |
+| 6672 | Sagar Institute of Research & Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://siort.org) |
+| 6673 | Sagar Institute of Pharmaceutical Sciences, Sagar (MP) | SAGAR | MADHYA PRADESH | Private | [Portal](http://sagarinstituteof.org) |
+| 6674 | Sanghvi Institute of Management and Science (Pgdm) | INDORE | MADHYA PRADESH | Private | [Portal](http://sanghviinstituteof.org) |
+| 6675 | Institute of Professional Education and Research (Pgdm) | BHOPAL | MADHYA PRADESH | Private | [Portal](http://instituteofprofessional.org) |
+| 6676 | Indian Institute of Forest Management | BHOPAL | MADHYA PRADESH | Public/Government | [Portal](https://iiofm.gov.in) |
+| 6677 | School of Engineering Sri Satya Sai University of Technology and Medical Sciences,(Sssutms) | SEHORE | MADHYA PRADESH | Private | [Portal](http://schoolofengineering.org) |
+| 6678 | Shri Ram Institute of Technology | JABALPUR | MADHYA PRADESH | Private | [Portal](http://sriot.org) |
+| 6679 | Shri Rgp Gujarati Professional Institute, Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://srgpii.org) |
+| 6680 | Shri Ram College of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://srcot.org) |
+
+
+### Batch 669 (Colleges 6681–6690)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6681 | Royal Institute of Management and Advanced Studies | RATLAM | MADHYA PRADESH | Private | [Portal](http://royalinstituteof.org) |
+| 6682 | Ips Academy, Institute of Hotel Management, Indore (MP) | INDORE | MADHYA PRADESH | Private | [Portal](http://ipsacademyinstitute.org) |
+| 6683 | Oriental College of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://ocot.org) |
+| 6684 | Saraswati Institute of Engineering and Technology | JABALPUR | MADHYA PRADESH | Private | [Portal](http://sioeat.org) |
+| 6685 | Sanghvi Institute of Management and Science (MBA) | INDORE | MADHYA PRADESH | Private | [Portal](http://sanghviinstituteof.org) |
+| 6686 | Lakshmi Narain College of Technology and Science | GWALIOR | MADHYA PRADESH | Private | [Portal](http://lakshminaraincollege.org) |
+| 6687 | Bansal Institute of Science and Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://biosat.org) |
+| 6688 | Radhadevi Ramchandra Mangal School of Management & Research | NEEMUCH | MADHYA PRADESH | Private | [Portal](http://radhadeviramchandramangal.org) |
+| 6689 | Shriram College of Engineering & Management, Banmore | MORENA | MADHYA PRADESH | Private | [Portal](http://scoemb.org) |
+| 6690 | Mahakal Institute of Technology & Management | UJJAIN | MADHYA PRADESH | Private | [Portal](http://miotm.org) |
+
+
+### Batch 670 (Colleges 6691–6700)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6691 | Bhabha Institute of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://biom.org) |
+| 6692 | Shri Vaishnav Insitute of Manegment | GWALIOR | MADHYA PRADESH | Private | [Portal](http://sviom.org) |
+| 6693 | Vikrant University (School of Engineering) Gwalior | GWALIOR | MADHYA PRADESH | Private | [Portal](http://vusoeg.org) |
+| 6694 | Truba College of Science & Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://tcost.org) |
+| 6695 | Madhav Institute of Technology & Science | GWALIOR | MADHYA PRADESH | Private | [Portal](http://miots.org) |
+| 6696 | Truba Institute of Engineering & Information Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://tioeit.org) |
+| 6697 | Gyan Ganga Institute of Technology & Sciences | JABALPUR | MADHYA PRADESH | Private | [Portal](http://ggiots.org) |
+| 6698 | Rajeev Gandhi Proudyogiki Mahavidyalaya | BHOPAL | MADHYA PRADESH | Private | [Portal](http://rgpm.org) |
+| 6699 | Ips Academy, Institute of Engineering & Science, Indore (MP) | INDORE | MADHYA PRADESH | Private | [Portal](http://ipsacademyinstitute.org) |
+| 6700 | Acropolis Institute of Technology and Research | INDORE | MADHYA PRADESH | Private | [Portal](http://aiotar.org) |
+
+
+### Batch 671 (Colleges 6701–6710)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6701 | DC Business School | INDORE | MADHYA PRADESH | Private | [Portal](http://dbs.org) |
+| 6702 | Prestige Institute of Institute of Management and Research | INDORE | MADHYA PRADESH | Private | [Portal](http://prestigeinstituteof.org) |
+| 6703 | Abhyuday University | KHARGONE | MADHYA PRADESH | Private | [Portal](http://abhyudayuniversity.org) |
+| 6704 | Scope Global Skills University | BHOPAL | MADHYA PRADESH | Private | [Portal](http://sgsu.org) |
+| 6705 | K L Sharma College of Management | SEHORE | MADHYA PRADESH | Private | [Portal](http://klscom.org) |
+| 6706 | Rkdf Institute of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://riom.org) |
+| 6707 | Swami Vivekanand College of Engineering | INDORE | MADHYA PRADESH | Private | [Portal](http://svcoe.org) |
+| 6708 | Modern Institute of Pharmaceutical Sciences | INDORE | MADHYA PRADESH | Private | [Portal](http://miops.org) |
+| 6709 | All Saints' College of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://ascot.org) |
+| 6710 | Rajeev Gandhi Management Institute | BHOPAL | MADHYA PRADESH | Private | [Portal](http://rgmi.org) |
+
+
+### Batch 672 (Colleges 6711–6720)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6711 | BM College of Technology | INDORE | MADHYA PRADESH | Private | [Portal](http://bcot.org) |
+| 6712 | Technocrats Institue of Technology & Science | BHOPAL | MADHYA PRADESH | Private | [Portal](http://tiots.org) |
+| 6713 | Sanghvi Institute of Management and Science (MCA) | INDORE | MADHYA PRADESH | Private | [Portal](http://sanghviinstituteof.org) |
+| 6714 | Synergy Institute of Technology. Dewas | DEWAS | MADHYA PRADESH | Private | [Portal](http://siotd.org) |
+| 6715 | Rkdf College of Technology & Research | BHOPAL | MADHYA PRADESH | Private | [Portal](http://rcotr.org) |
+| 6716 | All Saints' College of Engineering | BHOPAL | MADHYA PRADESH | Private | [Portal](http://ascoe.org) |
+| 6717 | Maharana Pratap College of Technology | GWALIOR | MADHYA PRADESH | Private | [Portal](http://mpcot.org) |
+| 6718 | Swami Vivekanand College of Science and Technology Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://swamivivekanandcollege.org) |
+| 6719 | University Institute of Technology, Barkatullah University | BHOPAL | MADHYA PRADESH | Private | [Portal](http://uiotbu.org) |
+| 6720 | Prestige Institute of Management and Research, Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://prestigeinstituteof.org) |
+
+
+### Batch 673 (Colleges 6721–6730)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6721 | Laxmipati Institute OE Science &technology Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://liostb.org) |
+| 6722 | Bagula Mukhi College of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://bmcot.org) |
+| 6723 | Lnct (Bhopal) Indore Campus | INDORE | MADHYA PRADESH | Private | [Portal](http://lbic.org) |
+| 6724 | Institute of Engineering Jiwaji University, Gwalior | GWALIOR | MADHYA PRADESH | Private | [Portal](http://ioejug.org) |
+| 6725 | Sagar Institute of Science & Technology (Sistec) | BHOPAL | MADHYA PRADESH | Private | [Portal](http://siosts.org) |
+| 6726 | Jawaharlal Nehru College of Technology | REWA | MADHYA PRADESH | Private | [Portal](http://jncot.org) |
+| 6727 | Shriram Institute of Information Technology | MORENA | MADHYA PRADESH | Private | [Portal](http://sioit.org) |
+| 6728 | Vikrant Institute of Technology & Management | INDORE | MADHYA PRADESH | Private | [Portal](http://viotm.org) |
+| 6729 | Lakshmi Narain College of Technology & Science | BHOPAL | MADHYA PRADESH | Private | [Portal](http://lncots.org) |
+| 6730 | Vedica Institute of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://viot.org) |
+
+
+### Batch 674 (Colleges 6731–6740)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6731 | Institute of Peoples Science and Technology | SATNA | MADHYA PRADESH | Private | [Portal](http://iopsat.org) |
+| 6732 | School of Studies in Commerce and Management , Jiwaji University,Gwalior,M.p. | GWALIOR | MADHYA PRADESH | Private | [Portal](http://schoolofstudies.org) |
+| 6733 | Bansal Institute of Research and Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://biorat.org) |
+| 6734 | Maharana Pratap College of Technology (MCA) | GWALIOR | MADHYA PRADESH | Private | [Portal](http://mpcotm.org) |
+| 6735 | BM College of Management & Research. | INDORE | MADHYA PRADESH | Private | [Portal](http://bcomr.org) |
+| 6736 | Sushila Devi Bansal College of Technology | INDORE | MADHYA PRADESH | Private | [Portal](http://sdbcot.org) |
+| 6737 | Bhabha College of Engineering, Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://bcoeb.org) |
+| 6738 | Girdhar Shiksha Evam Samaj Kalyan Samiti Group of Institutions | RAISEN | MADHYA PRADESH | Private | [Portal](http://girdharshikshaevam.org) |
+| 6739 | Millennium Institute of Technology and Science | BHOPAL | MADHYA PRADESH | Private | [Portal](http://miotas.org) |
+| 6740 | Government. Geetanjali Girls College | BHOPAL | MADHYA PRADESH | Public/Government | [Portal](https://gggc.gov.in) |
+
+
+### Batch 675 (Colleges 6741–6750)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6741 | Alpine Institute of Technology | UJJAIN | MADHYA PRADESH | Private | [Portal](http://aiot.org) |
+| 6742 | Rkdf Institute of Hotel Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://riohm.org) |
+| 6743 | Shri Dadaji Institute of Technology and Science | KHANDWA | MADHYA PRADESH | Private | [Portal](http://shridadajiinstitute.org) |
+| 6744 | Rkdf College of Engineering | BHOPAL | MADHYA PRADESH | Private | [Portal](http://rcoe.org) |
+| 6745 | Bansal Institute of Research, Technology and Science | BHOPAL | MADHYA PRADESH | Private | [Portal](http://bansalinstituteof.org) |
+| 6746 | Mahakal Institute of Technology,Ujjain | UJJAIN | MADHYA PRADESH | Private | [Portal](http://miot.org) |
+| 6747 | Rkdf Institute of Science & Tchnology (MCA) | BHOPAL | MADHYA PRADESH | Private | [Portal](http://riostm.org) |
+| 6748 | Rkdf Institute of Science & Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://riost.org) |
+| 6749 | Vindhya Institute of Technology and Science | SATNA | MADHYA PRADESH | Private | [Portal](http://viotas.org) |
+| 6750 | Oriental University Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://oui.org) |
+
+
+### Batch 676 (Colleges 6751–6760)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6751 | Ips Academy, Institute of Business Management and Research, Indore, (M.p.) | INDORE | MADHYA PRADESH | Private | [Portal](http://ipsacademyinstitute.org) |
+| 6752 | Samrat Ashok Technological Institute | VIDISHA | MADHYA PRADESH | Private | [Portal](http://sati.org) |
+| 6753 | Seva Sadan Prabandhan Mahavidyalaya | BURHANPUR | MADHYA PRADESH | Private | [Portal](http://sspm.org) |
+| 6754 | Acropolis Institute of Management Studies and Research | INDORE | MADHYA PRADESH | Private | [Portal](http://acropolisinstituteof.org) |
+| 6755 | Institute of Professional Education and Research | BHOPAL | MADHYA PRADESH | Private | [Portal](http://iopear.org) |
+| 6756 | Sica College | INDORE | MADHYA PRADESH | Private | [Portal](http://sicacollege.org) |
+| 6757 | Shri Umiya Kanya Mahavidyalaya | INDORE | MADHYA PRADESH | Private | [Portal](http://sukm.org) |
+| 6758 | Ips Academy Jhabua | JHABUA | MADHYA PRADESH | Private | [Portal](http://iaj.org) |
+| 6759 | Ips Academy Institute of Engineering and Science Indore MP | INDORE | MADHYA PRADESH | Private | [Portal](http://ipsacademyinstitute.org) |
+| 6760 | Laxmipati College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://laxmipaticollege.org) |
+
+
+### Batch 677 (Colleges 6761–6770)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6761 | Sri Guru Tegh Bahadur Khalsa College Jabalpur | JABALPUR | MADHYA PRADESH | Private | [Portal](http://srigurutegh.org) |
+| 6762 | M K Ponda College of Business and Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mkponda.org) |
+| 6763 | Shivam Institute of Management | SEONI | MADHYA PRADESH | Private | [Portal](http://siom.org) |
+| 6764 | Oriental Institute of Science and Technology Lalburra | BALAGHAT | MADHYA PRADESH | Private | [Portal](http://orientalinstituteof.org) |
+| 6765 | Sant Hirdaram Girls College Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://shgcb.org) |
+| 6766 | Shri S R Education College | NEEMUCH | MADHYA PRADESH | Private | [Portal](http://ssrec.org) |
+| 6767 | Divy Jyoti Engineering College | SIDHI | MADHYA PRADESH | Private | [Portal](http://djec.org) |
+| 6768 | Shri Jayantilal Hirachand Sanghvi Gujarati Innovative College of Commerce and Science | INDORE | MADHYA PRADESH | Private | [Portal](http://shrijayantilalhirachand.org) |
+| 6769 | Malwa Institute of Science and Management | INDORE | MADHYA PRADESH | Private | [Portal](http://miosam.org) |
+| 6770 | Modern Institute of Professional Sciences | INDORE | MADHYA PRADESH | Private | [Portal](http://miops.org) |
+
+
+### Batch 678 (Colleges 6771–6780)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6771 | Mata Gujri Mahila Mahavidyalaya | JABALPUR | MADHYA PRADESH | Private | [Portal](http://mgmm.org) |
+| 6772 | Shivam Polytechnic College | BALAGHAT | MADHYA PRADESH | Private | [Portal](http://spc.org) |
+| 6773 | Shri Cloth Market Institute of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://shriclothmarket.org) |
+| 6774 | Sanskar College of Professional Studies Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://scopsi.org) |
+| 6775 | Vikrant Institute of Integrated and Advance Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://vikrantinstituteof.org) |
+| 6776 | Annie Besant College | INDORE | MADHYA PRADESH | Private | [Portal](http://abc.org) |
+| 6777 | Rabindranath Tagore University | RAISEN | MADHYA PRADESH | Private | [Portal](http://rtu.org) |
+| 6778 | Sdps College of Commerce and Management | INDORE | MADHYA PRADESH | Private | [Portal](http://scocam.org) |
+| 6779 | The Bhopal School of Social Sciences | BHOPAL | MADHYA PRADESH | Private | [Portal](http://tbsoss.org) |
+| 6780 | Ilva Commerce and Science College | INDORE | MADHYA PRADESH | Private | [Portal](http://icasc.org) |
+
+
+### Batch 679 (Colleges 6781–6790)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6781 | Sapphire Institute | INDORE | MADHYA PRADESH | Private | [Portal](http://sapphireinstitute.org) |
+| 6782 | Lal Bahadur Shastri Vyavsayik Adhyayan Mahavidyalaya | HARDA | MADHYA PRADESH | Private | [Portal](http://lbsvam.org) |
+| 6783 | Alexia College of Professional Studies Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://acopsi.org) |
+| 6784 | Vishisht School of Management | INDORE | MADHYA PRADESH | Private | [Portal](http://vsom.org) |
+| 6785 | Isba Institute of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://iiops.org) |
+| 6786 | Shri Arihant College of Professional Education | RATLAM | MADHYA PRADESH | Private | [Portal](http://sacope.org) |
+| 6787 | Kothari College of Management Science and Technology | INDORE | MADHYA PRADESH | Private | [Portal](http://kotharicollegeof.org) |
+| 6788 | Prashanti College of Professional Studies | UJJAIN | MADHYA PRADESH | Private | [Portal](http://pcops.org) |
+| 6789 | Daly College of Business Management | INDORE | MADHYA PRADESH | Private | [Portal](http://dcobm.org) |
+| 6790 | P.m.b. Gujarati Commerce College | INDORE | MADHYA PRADESH | Private | [Portal](http://pgcc.org) |
+
+
+### Batch 680 (Colleges 6791–6800)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6791 | Lakshmi Narain College of Professional Studies Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://lakshminaraincollege.org) |
+| 6792 | Ips Academy School of Architecture | INDORE | MADHYA PRADESH | Private | [Portal](http://iasoa.org) |
+| 6793 | St. Paul Institute of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://spiops.org) |
+| 6794 | Christian Eminent College Academy of Management Professional Education and Research | INDORE | MADHYA PRADESH | Private | [Portal](http://christianeminentcollege.org) |
+| 6795 | Shreejee Degree College | KHARGONE | MADHYA PRADESH | Private | [Portal](http://sdc.org) |
+| 6796 | Poonamchand Gupta Vocational College Khandwa | KHANDWA | MADHYA PRADESH | Private | [Portal](http://pgvck.org) |
+| 6797 | M.k.h.s. Gujarati Girls College Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://mggci.org) |
+| 6798 | Rukmadevi Pannalal Laddha Maheshwari Mahavidyalay | INDORE | MADHYA PRADESH | Private | [Portal](http://rplmm.org) |
+| 6799 | College of Professional Studies Atc | INDORE | MADHYA PRADESH | Private | [Portal](http://copsa.org) |
+| 6800 | Pmb Gujarati Science College | INDORE | MADHYA PRADESH | Private | [Portal](http://pgsc.org) |
+
+
+### Batch 681 (Colleges 6801–6810)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6801 | Altius Institute of Universal Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://aious.org) |
+| 6802 | Navsamvat Law College | UJJAIN | MADHYA PRADESH | Private | [Portal](http://nlc.org) |
+| 6803 | Vindhya Institute of Management and Science | SATNA | MADHYA PRADESH | Private | [Portal](http://viomas.org) |
+| 6804 | Technocrats Institute of Commerce and Sciences | BHOPAL | MADHYA PRADESH | Private | [Portal](http://tiocas.org) |
+| 6805 | Sardar Vallabh Bhai Patel College Mandleshwar | KHARGONE | MADHYA PRADESH | Private | [Portal](http://svbpcm.org) |
+| 6806 | Renaissance College of Commerce and Management | INDORE | MADHYA PRADESH | Private | [Portal](http://rcocam.org) |
+| 6807 | Madan Maharaj College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mmc.org) |
+| 6808 | Mata Gujri College of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://mgcops.org) |
+| 6809 | Subhash Yadav Memorial Degree College | KHARGONE | MADHYA PRADESH | Private | [Portal](http://symdc.org) |
+| 6810 | Sri Aurobindo Institute of Management and Science | INDORE | MADHYA PRADESH | Private | [Portal](http://sriaurobindoinstitute.org) |
+
+
+### Batch 682 (Colleges 6811–6820)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6811 | Shri Rawatpura Sarkar Snatak Mahavidhyalaya | DATIA | MADHYA PRADESH | Private | [Portal](http://srssm.org) |
+| 6812 | Lnct College of Arts Commerce and Science | JABALPUR | MADHYA PRADESH | Private | [Portal](http://lnctcollegeof.org) |
+| 6813 | Softvision College | INDORE | MADHYA PRADESH | Private | [Portal](http://softvisioncollege.org) |
+| 6814 | Tavite Computer and Software Institute | KATNI | MADHYA PRADESH | Private | [Portal](http://tcasi.org) |
+| 6815 | Prof. Brijmohan Mishra Institute of Medical and Technical Sciences | BURHANPUR | MADHYA PRADESH | Private | [Portal](http://profbrijmohanmishra.org) |
+| 6816 | Sha Shib College of Science and Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://shashibcollege.org) |
+| 6817 | Faculty of Education | SEHORE | MADHYA PRADESH | Private | [Portal](http://foe.org) |
+| 6818 | Unique Academy Parasia | CHHINDWARA | MADHYA PRADESH | Private | [Portal](http://uap.org) |
+| 6819 | Mittal Institute of Education | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mioe.org) |
+| 6820 | Geeta Verma Institute of Technology | CHHINDWARA | MADHYA PRADESH | Private | [Portal](http://gviot.org) |
+
+
+### Batch 683 (Colleges 6821–6830)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6821 | Optimus College of Higher Studies | GWALIOR | MADHYA PRADESH | Private | [Portal](http://ocohs.org) |
+| 6822 | Hitkarini Science Commerce and Arts College | JABALPUR | MADHYA PRADESH | Private | [Portal](http://hscaac.org) |
+| 6823 | Grafix Institute | GUNA | MADHYA PRADESH | Private | [Portal](http://grafixinstitute.org) |
+| 6824 | Daksh Academy | DHAR | MADHYA PRADESH | Private | [Portal](http://dakshacademy.org) |
+| 6825 | BM Institute of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://biops.org) |
+| 6826 | Jabalpur Institute of Computer Science | JABALPUR | MADHYA PRADESH | Private | [Portal](http://jiocs.org) |
+| 6827 | Ssicait College Maihar | SATNA | MADHYA PRADESH | Private | [Portal](http://scm.org) |
+| 6828 | Sant Singaji Institute of Science and Management | DEWAS | MADHYA PRADESH | Private | [Portal](http://santsingajiinstitute.org) |
+| 6829 | Svs Computer | CHHINDWARA | MADHYA PRADESH | Private | [Portal](http://svscomputer.org) |
+| 6830 | Infozone Group of Institutes | INDORE | MADHYA PRADESH | Private | [Portal](http://igoi.org) |
+
+
+### Batch 684 (Colleges 6831–6840)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6831 | Suyash Computer Education | DHAR | MADHYA PRADESH | Private | [Portal](http://sce.org) |
+| 6832 | Career College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://careercollege.org) |
+| 6833 | Bherulal Patidar Govt PG College Mhow | INDORE | MADHYA PRADESH | Public/Government | [Portal](https://bpgpcm.gov.in) |
+| 6834 | Shiv Kumar Singh College of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://shivkumarsingh.org) |
+| 6835 | Advance College of Science and Commerce | UJJAIN | MADHYA PRADESH | Private | [Portal](http://acosac.org) |
+| 6836 | Khandwa Institute of Professional Studies Khandwa | KHANDWA | MADHYA PRADESH | Private | [Portal](http://kiopsk.org) |
+| 6837 | Unique Computer Centre | TIKAMGARH | MADHYA PRADESH | Private | [Portal](http://ucc.org) |
+| 6838 | Cerebral Heights Computer College | SEONI | MADHYA PRADESH | Private | [Portal](http://chcc.org) |
+| 6839 | Panna Institute of Computer Science Panna | PANNA | MADHYA PRADESH | Private | [Portal](http://piocsp.org) |
+| 6840 | Sect Leelawati Institute | BALAGHAT | MADHYA PRADESH | Private | [Portal](http://sli.org) |
+
+
+### Batch 685 (Colleges 6841–6850)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6841 | Space Computer | DAMOH | MADHYA PRADESH | Private | [Portal](http://spacecomputer.org) |
+| 6842 | Mastek Academy | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mastekacademy.org) |
+| 6843 | Mict Computers Academy of Computer | SEONI | MADHYA PRADESH | Private | [Portal](http://mcaoc.org) |
+| 6844 | Sony Computer Education | CHHINDWARA | MADHYA PRADESH | Private | [Portal](http://sce.org) |
+| 6845 | Rajeev Gandhi College of Computer Application and Technology | SATNA | MADHYA PRADESH | Private | [Portal](http://rajeevgandhicollege.org) |
+| 6846 | Design Edutech | JABALPUR | MADHYA PRADESH | Private | [Portal](http://designedutech.org) |
+| 6847 | Lokmanya Tilak Science and Commerce College | UJJAIN | MADHYA PRADESH | Private | [Portal](http://ltsacc.org) |
+| 6848 | Media Computer Education | VIDISHA | MADHYA PRADESH | Private | [Portal](http://mce.org) |
+| 6849 | Digital Computer and Management Academy | CHHATARPUR | MADHYA PRADESH | Private | [Portal](http://dcama.org) |
+| 6850 | Academy of Computer Science and Technology | JABALPUR | MADHYA PRADESH | Private | [Portal](http://aocsat.org) |
+
+
+### Batch 686 (Colleges 6851–6860)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6851 | Compfeeders Aisect College of Professional Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://cacops.org) |
+| 6852 | Seva Sadan Mahavidyalaya Burhanpur | BURHANPUR | MADHYA PRADESH | Private | [Portal](http://ssmb.org) |
+| 6853 | Balkavi Bairagi Mahavidyalaya | NEEMUCH | MADHYA PRADESH | Private | [Portal](http://bbm.org) |
+| 6854 | Sunrise Institute of Professional Studies | MANDSAUR | MADHYA PRADESH | Private | [Portal](http://siops.org) |
+| 6855 | Bhartiya Institute of Professional Studies | UJJAIN | MADHYA PRADESH | Private | [Portal](http://biops.org) |
+| 6856 | Center for Advanced Computer Training Bjs | BHOPAL | MADHYA PRADESH | Private | [Portal](http://cfactb.org) |
+| 6857 | Modak Institute of Computer and Management | KHARGONE | MADHYA PRADESH | Private | [Portal](http://miocam.org) |
+| 6858 | Vidyodaya Mahavidyalaya | DHAR | MADHYA PRADESH | Private | [Portal](http://vidyodayamahavidyalaya.org) |
+| 6859 | Indira Priyadarshini College Chhindwara | CHHINDWARA | MADHYA PRADESH | Private | [Portal](http://ipcc.org) |
+| 6860 | Unique College Parasia | CHHINDWARA | MADHYA PRADESH | Private | [Portal](http://ucp.org) |
+
+
+### Batch 687 (Colleges 6861–6870)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6861 | Shri Rewa Gurjar Bal Niketan College | KHARGONE | MADHYA PRADESH | Private | [Portal](http://srgbnc.org) |
+| 6862 | Bhartiya College Ujjain | UJJAIN | MADHYA PRADESH | Private | [Portal](http://bcu.org) |
+| 6863 | Pushpdeep Girls College | DEWAS | MADHYA PRADESH | Private | [Portal](http://pgc.org) |
+| 6864 | Vivekanand Vigyan Mahavidyalaya Betul | BETUL | MADHYA PRADESH | Private | [Portal](http://vvmb.org) |
+| 6865 | Yash College of Education | DHAR | MADHYA PRADESH | Private | [Portal](http://ycoe.org) |
+| 6866 | Srushti Computer Education Betul | BETUL | MADHYA PRADESH | Private | [Portal](http://sceb.org) |
+| 6867 | Bhartiya Vidya Mandir Institute of Information Technology | GWALIOR | MADHYA PRADESH | Private | [Portal](http://bhartiyavidyamandir.org) |
+| 6868 | Digital Institute of Technology and Science | ANUPPUR | MADHYA PRADESH | Private | [Portal](http://diotas.org) |
+| 6869 | Maharaja Ranjeet Singh College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://mrsc.org) |
+| 6870 | Nimar Institute of Information Technology and Science | KHARGONE | MADHYA PRADESH | Private | [Portal](http://nimarinstituteof.org) |
+
+
+### Batch 688 (Colleges 6871–6880)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6871 | Vardhman College of Professional Studies | UJJAIN | MADHYA PRADESH | Private | [Portal](http://vcops.org) |
+| 6872 | Laxmipati Institute of Professional Studies | BHOPAL | MADHYA PRADESH | Private | [Portal](http://liops.org) |
+| 6873 | Maharaja Ranjit Singh College of Professional Sciences | INDORE | MADHYA PRADESH | Private | [Portal](http://maharajaranjitsingh.org) |
+| 6874 | Gyanodaya Institute of Management Betul | BETUL | MADHYA PRADESH | Private | [Portal](http://giomb.org) |
+| 6875 | Krishna Computer Institute | INDORE | MADHYA PRADESH | Private | [Portal](http://kci.org) |
+| 6876 | Swami Vivekanand Institute of Technology | BALAGHAT | MADHYA PRADESH | Private | [Portal](http://sviot.org) |
+| 6877 | Ips Institute Chhindwara | CHHINDWARA | MADHYA PRADESH | Private | [Portal](http://iic.org) |
+| 6878 | Dayanand Saraswati College | SHAJAPUR | MADHYA PRADESH | Private | [Portal](http://dsc.org) |
+| 6879 | Vidhyasagar Institute of Professional Studies | DEWAS | MADHYA PRADESH | Private | [Portal](http://viops.org) |
+| 6880 | Infotech Computer Academy | INDORE | MADHYA PRADESH | Private | [Portal](http://ica.org) |
+
+
+### Batch 689 (Colleges 6881–6890)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6881 | Rajiv Gandhi Institute of Computer and Excellence | SHAHDOL | MADHYA PRADESH | Private | [Portal](http://rajivgandhiinstitute.org) |
+| 6882 | S.n.patel Institute of Technology (Snpit), Bardoli, Surat | SURAT | GUJARAT | Private | [Portal](http://snpatelinstituteof.org) |
+| 6883 | G H Patel College of Engineering & Technology | ANAND | GUJARAT | Private | [Portal](http://ghpatel.org) |
+| 6884 | M.l.institute of Diploma Studies, Bhandu | MEHSANA | GUJARAT | Private | [Portal](http://modsb.org) |
+| 6885 | Shri S'ad Vidya Mandal Institute of Technology | BHARUCH | GUJARAT | Private | [Portal](http://shrisadvidya.org) |
+| 6886 | C.k.pithawalla College of Commerce Management Computer Application | SURAT | GUJARAT | Private | [Portal](http://ckpithawallacollegeof.org) |
+| 6887 | Shrre Swaminarayan Gadi Institute of Technology | AHMEDABAD | GUJARAT | Private | [Portal](http://ssgiot.org) |
+| 6888 | Yogiji Maharaj Mahavidhyalay Mahila Arts and Commerce College | AMRELI | GUJARAT | Private | [Portal](http://yogijimaharajmahavidhyalay.org) |
+| 6889 | Sgj Institute of Management and IT | KUTCH | GUJARAT | Private | [Portal](http://siomai.org) |
+| 6890 | College of Computer and Management Studies | MEHSANA | GUJARAT | Private | [Portal](http://cocams.org) |
+
+
+### Batch 690 (Colleges 6891–6900)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6891 | Agarwal Vidya Vihar English Medium College | SURAT | GUJARAT | Private | [Portal](http://avvemc.org) |
+| 6892 | Tarkesh and Niranjana Sureshbhai Patel Commerce College | ANAND | GUJARAT | Private | [Portal](http://tarkeshandniranjana.org) |
+| 6893 | Shree Maruti Vidyamandir College of Business Management and Computer Science | BHAVNAGAR | GUJARAT | Private | [Portal](http://shreemarutividyamandir.org) |
+| 6894 | Smt.j.j.kundalia Arts and Commerce College | RAJKOT | GUJARAT | Private | [Portal](http://saacc.org) |
+| 6895 | Matashree K G Dholariya Mahila BBA College | JUNAGADH | GUJARAT | Private | [Portal](http://matashreekg.org) |
+| 6896 | Pt. Jln Govt. College | FARIDABAD | HARYANA | Public/Government | [Portal](https://pjgc.gov.in) |
+| 6897 | M.m. Institute of Computer Technology & Business Management (HM) | AMBALA | HARYANA | Private | [Portal](http://mminstituteof.org) |
+| 6898 | Sat Jinda Kalyana College Kalanaur Rohtak | ROHTAK | HARYANA | Private | [Portal](http://sjkckr.org) |
+| 6899 | Sanatan Dharma College | AMBALA | HARYANA | Private | [Portal](http://sdc.org) |
+| 6900 | St. Peters College | FARIDABAD | HARYANA | Private | [Portal](http://spc.org) |
+
+
+### Batch 691 (Colleges 6901–6910)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6901 | Government PG College Ambala Cantt | AMBALA | HARYANA | Public/Government | [Portal](https://gpcac.gov.in) |
+| 6902 | Imperial College Hisar | HISAR | HARYANA | Private | [Portal](http://ich.org) |
+| 6903 | JK Institute of Management and Technology | KARNAL | HARYANA | Private | [Portal](http://jiomat.org) |
+| 6904 | Shanti Niketan College of Education Fransi Hisar | HISAR | HARYANA | Private | [Portal](http://shantiniketancollege.org) |
+| 6905 | Tripura Institute of Technology | WEST TRIPURA | TRIPURA | Private | [Portal](http://tiot.org) |
+| 6906 | Tripura Institute of Technology (Erstwhile Polytechnic Institute) | WEST TRIPURA | TRIPURA | Private | [Portal](http://tripurainstituteof.org) |
+| 6907 | Government Polytechnic Narendra Nagar ( Tehri Garhwal ) | TEHRI GARHWAL | UTTARAKHAND | Public/Government | [Portal](http://ukdte.org) |
+| 6908 | Roorkee Institute of Technology | HARIDWAR | UTTARAKHAND | Private | [Portal](http://riot.org) |
+| 6909 | Birla Institute of Applied Sciences | NAINITAL | UTTARAKHAND | Private | [Portal](http://bioas.org) |
+| 6910 | OM Bio-Sciences & Management College | HARIDWAR | UTTARAKHAND | Private | [Portal](http://obmc.org) |
+
+
+### Batch 692 (Colleges 6911–6920)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6911 | Droan College of Education and Technology | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://dcoeat.org) |
+| 6912 | Ramanand Institute of Pharmacy and Management | HARIDWAR | UTTARAKHAND | Private | [Portal](http://riopam.org) |
+| 6913 | Gurukul Kangri Deemed to BE University | HARIDWAR | UTTARAKHAND | Private (Deemed to be University) | [Portal](http://gkdtbu.org) |
+| 6914 | Roorkee Adventist College | HARIDWAR | UTTARAKHAND | Private | [Portal](http://rac.org) |
+| 6915 | Government Professional College Banas Paithani | PAURI GARHWAL | UTTARAKHAND | Public/Government | [Portal](https://gpcbp.gov.in) |
+| 6916 | Devsthali Vidyapeeth Department of Professional Education | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://dvdope.org) |
+| 6917 | Alpine Institute of Management and Technology | DEHRADUN | UTTARAKHAND | Private | [Portal](http://aiomat.org) |
+| 6918 | Methodist Girls Degree College | HARIDWAR | UTTARAKHAND | Private | [Portal](http://mgdc.org) |
+| 6919 | Saraswati Institute of Management and Technology | UDHAM SINGH NAGAR | UTTARAKHAND | Private | [Portal](http://siomat.org) |
+| 6920 | Ims Business School | KOLKATA | WEST BENGAL | Private | [Portal](http://ibs.org) |
+
+
+### Batch 693 (Colleges 6921–6930)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6921 | Paradise Institute of Technology | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://piot.org) |
+| 6922 | Department of Physics, the University of Burdwan | BARDHAMAN | WEST BENGAL | Private | [Portal](http://departmentofphysics.org) |
+| 6923 | Minerva Polytechnic | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://minervapolytechnic.org) |
+| 6924 | Hsb Polytechnic | BIRBHUM | WEST BENGAL | Private | [Portal](http://hsbpolytechnic.org) |
+| 6925 | N S Polytechnic College | BARDHAMAN | WEST BENGAL | Private | [Portal](http://nspc.org) |
+| 6926 | Raja Ranjit Kishore Government Polytechnic | PASCHIM MEDINIPUR | WEST BENGAL | Public/Government | [Portal](https://webscte.co.in) |
+| 6927 | Dr. Meghnad Saha Institute of Technology, Haldia | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://drmeghnadsaha.org) |
+| 6928 | Raiganj Polytechnic | UTTER DINAJPUR | WEST BENGAL | Private | [Portal](http://raiganjpolytechnic.org) |
+| 6929 | The Calcutta Technical School | KOLKATA | WEST BENGAL | Private | [Portal](http://tcts.org) |
+| 6930 | Regional Institute of Printing Technology | KOLKATA | WEST BENGAL | Private | [Portal](http://riopt.org) |
+
+
+### Batch 694 (Colleges 6931–6940)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6931 | Sheikhpara Abdur Rahaman Memorial Polytechnic | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://sarmp.org) |
+| 6932 | Ramakrishna Mission Shilpamandira | HOWRAH | WEST BENGAL | Private | [Portal](http://rms.org) |
+| 6933 | Women's Polytechnic, Chandernagore | HOOGHLY | WEST BENGAL | Private | [Portal](http://wpc.org) |
+| 6934 | K. G. Engineering Institute | BANKURA | WEST BENGAL | Private | [Portal](http://kgei.org) |
+| 6935 | Acharya Jagadish Chandra Bose Polytechnic | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://ajcbp.org) |
+| 6936 | Nips School of Hotel Management | NORTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://nsohm.org) |
+| 6937 | Gitaram Institute of Management | MURSHIDABAD | WEST BENGAL | Private | [Portal](http://giom.org) |
+| 6938 | Techno International Batanagar | SOUTH 24 PARGANAS | WEST BENGAL | Private | [Portal](http://tib.org) |
+| 6939 | Banwarilal Bhalotia College | BARDHAMAN | WEST BENGAL | Private | [Portal](http://bbc.org) |
+| 6940 | Panskura Banamali College Autonomous | PURBA MEDINIPUR | WEST BENGAL | Private | [Portal](http://pbca.org) |
+
+
+### Batch 695 (Colleges 6941–6950)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6941 | SB College of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://scoms.org) |
+| 6942 | Jain College of Engineering and Research | BELGAUM | KARNATAKA | Private | [Portal](http://jcoear.org) |
+| 6943 | Veerappa Nisty Engnineering College | YADGIR | KARNATAKA | Private | [Portal](http://vnec.org) |
+| 6944 | G.t. Institute of Management Studies and Reseach | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://gtinstituteof.org) |
+| 6945 | M E S Polytechnic | TUMKUR | KARNATAKA | Private | [Portal](http://mesp.org) |
+| 6946 | Sandur Polytechnic | BELLARY | KARNATAKA | Private | [Portal](http://sandurpolytechnic.org) |
+| 6947 | Jss Polytechnic for the Differently Abled | MYSORE | KARNATAKA | Private | [Portal](http://jpftda.org) |
+| 6948 | Hindustan Electronics Academy | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hea.org) |
+| 6949 | B.v.v.sangha S S.r.vastrad Rural Polytechnic | BAGALKOT | KARNATAKA | Private | [Portal](http://bssrp.org) |
+| 6950 | Rajeev Polytechnic | HASSAN | KARNATAKA | Private | [Portal](http://rajeevpolytechnic.org) |
+
+
+### Batch 696 (Colleges 6951–6960)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6951 | Acharya Patashala Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://app.org) |
+| 6952 | Raman Polytechnic | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ramanpolytechnic.org) |
+| 6953 | Ballari Rural Polytechnic | BELLARY | KARNATAKA | Private | [Portal](http://brp.org) |
+| 6954 | Vidya Vikas Educational Trust (R) Polytechnic | MYSORE | KARNATAKA | Private | [Portal](http://vvetrp.org) |
+| 6955 | Sanjay Memorial Polytechnic | SHIMOGA | KARNATAKA | Private | [Portal](http://smp.org) |
+| 6956 | Margadarshan Institute of Engineering and Technology Polytechnic | BAGALKOT | KARNATAKA | Private | [Portal](http://margadarshaninstituteof.org) |
+| 6957 | Shri Mallikarjuna Polytechnic | CHITRADURGA | KARNATAKA | Private | [Portal](http://smp.org) |
+| 6958 | Adichunchanagiri Institute of Technology | CHIKMAGALUR | KARNATAKA | Private | [Portal](http://aiot.org) |
+| 6959 | M S Ramaiah College of Arts, Science & Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://msramaiah.org) |
+| 6960 | Jawaharlal Nehru New College of Engineering-MCA | SHIMOGA | KARNATAKA | Private | [Portal](http://jnncoe.org) |
+
+
+### Batch 697 (Colleges 6961–6970)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6961 | Kle Dr. M. S. Sheshgiri College of Engineering and Technology, Belgaum | BELGAUM | KARNATAKA | Private | [Portal](http://kledrm.org) |
+| 6962 | Sri Sairam College of Engineering | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sscoe.org) |
+| 6963 | Bapuji Academy of Management & Research | DAVANAGERE | KARNATAKA | Private | [Portal](http://baomr.org) |
+| 6964 | Karavali Institute of Technology | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://kiot.org) |
+| 6965 | Dayananda Sagar Business School | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dsbs.org) |
+| 6966 | Sjb Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://siot.org) |
+| 6967 | H.k.e Society's Sir M Visvesvaraya College of Engineering, Raichur | RAICHUR | KARNATAKA | Private | [Portal](http://hkesocietyssir.org) |
+| 6968 | Parivarthana Business School | MYSORE | KARNATAKA | Private | [Portal](http://pbs.org) |
+| 6969 | Jnanavikas Institute of Technology | RAMANAGARA | KARNATAKA | Private | [Portal](http://jiot.org) |
+| 6970 | Moti Mahal College of Hotel Management | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://mmcohm.org) |
+
+
+### Batch 698 (Colleges 6971–6980)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6971 | Rajiv Gandhi Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rgiot.org) |
+| 6972 | Jawaharlal Nehru New College of Engineering | SHIMOGA | KARNATAKA | Private | [Portal](http://jnncoe.org) |
+| 6973 | M S Engineering College | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://msec.org) |
+| 6974 | Haranahalli Ramaswamy Institute of Higher Education | HASSAN | KARNATAKA | Private | [Portal](http://hriohe.org) |
+| 6975 | Ballari Institute of Technology & Management | BELLARY | KARNATAKA | Private | [Portal](http://biotm.org) |
+| 6976 | Kls Instt. of Mgt., Education & Research | BELGAUM | KARNATAKA | Private | [Portal](http://kiomer.org) |
+| 6977 | East West Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://ewiot.org) |
+| 6978 | R.r. Institute of Advanced Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rioas.org) |
+| 6979 | Sbrr Mahajana First Grade College, PG Wing,Mysore | MYSORE | KARNATAKA | Private | [Portal](http://sbrrmahajanafirst.org) |
+| 6980 | M S Ramaiah Institute of Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://msriom.org) |
+
+
+### Batch 699 (Colleges 6981–6990)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6981 | Sri Jayachamarajendra College of Engineering | MYSORE | KARNATAKA | Private | [Portal](http://sjcoe.org) |
+| 6982 | Adarsh Institute of Management and Information Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://adarshinstituteof.org) |
+| 6983 | Sambhram Institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://siot.org) |
+| 6984 | K.s.institute of Technology | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kot.org) |
+| 6985 | Siddaganga Institute of Technology | TUMKUR | KARNATAKA | Private | [Portal](http://siot.org) |
+| 6986 | Shree Devi College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://sdc.org) |
+| 6987 | ST Philomena College Puttur | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://spcp.org) |
+| 6988 | Mvm College of Arts Science and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://mvmcollegeof.org) |
+| 6989 | Rjs First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rfgc.org) |
+| 6990 | Nandi Institute of Management and Science | BELLARY | KARNATAKA | Private | [Portal](http://niomas.org) |
+
+
+### Batch 700 (Colleges 6991–7000)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 6991 | Jss Shri Manjunatheshwara MCA Institute | DHARWAD | KARNATAKA | Private | [Portal](http://jsmmi.org) |
+| 6992 | Cauvery College of Management | MYSORE | KARNATAKA | Private | [Portal](http://ccom.org) |
+| 6993 | Sree Vasavi First Grade College | CHAMARAJNAGAR | KARNATAKA | Private | [Portal](http://svfgc.org) |
+| 6994 | Gsss Simha Subbamahalakshmi First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://gssfgc.org) |
+| 6995 | B.v.v.sangha's Basaveshwar Commerce College Bagalkot | BAGALKOT | KARNATAKA | Private | [Portal](http://bbccb.org) |
+| 6996 | Government First Grade College Chitaguppa | BIDAR | KARNATAKA | Public/Government | [Portal](https://gfgcc.gov.in) |
+| 6997 | Sgvvts Shri Gavisiddeshwar Arts Science and Commerce College Koppal | KOPPAL | KARNATAKA | Private | [Portal](http://sgvvtsshrigavisiddeshwar.org) |
+| 6998 | International Institute of Finance and Administration | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iiofaa.org) |
+| 6999 | Bishop Cotton Women's Christian College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bcwcc.org) |
+| 7000 | Sgvvts Smt Sharadamma V Kotbal BBA BCA and Bcom College Koppal | KOPPAL | KARNATAKA | Private | [Portal](http://sgvvtssmtsharadamma.org) |
+
+
+### Batch 701 (Colleges 7001–7010)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7001 | Sjr College for Women | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://scfw.org) |
+| 7002 | Government First Grade College Byndoor | UDUPI | KARNATAKA | Public/Government | [Portal](https://gfgcb.gov.in) |
+| 7003 | Krupanidhi Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kdc.org) |
+| 7004 | Shri Shankar Anand Singh Government First Grade College Hospet | VIJAYANAGARA | KARNATAKA | Public/Government | [Portal](https://shrishankaranand.gov.in) |
+| 7005 | Dr.ambedkar First Grade Evening College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://dfgec.org) |
+| 7006 | Kle Societys Shri Channagirishwar Prasadik Arts Science and D D Shirol Commerce College Mahalingpur | BAGALKOT | KARNATAKA | Private | [Portal](http://klesocietysshri.org) |
+| 7007 | Government First Grade College Hsr Agara | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgcha.gov.in) |
+| 7008 | Sri Poornaprajna Evening College Udupi | UDUPI | KARNATAKA | Private | [Portal](http://specu.org) |
+| 7009 | Government First Grade College for Women Holenarsipura | HASSAN | KARNATAKA | Public/Government | [Portal](https://governmentfirstgrade.gov.in) |
+| 7010 | Mulki Sunder Ram Shetty College Shirva | UDUPI | KARNATAKA | Private | [Portal](http://msrscs.org) |
+
+
+### Batch 702 (Colleges 7011–7020)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7011 | Government First Grade College Rajajinagar Bengaluru | BANGALORE URBAN | KARNATAKA | Public/Government | [Portal](https://gfgcrb.gov.in) |
+| 7012 | Indo Asian Women's Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://iawdc.org) |
+| 7013 | Vidyapana Degree College | KOLAR | KARNATAKA | Private | [Portal](http://vdc.org) |
+| 7014 | Vedant BCA and Bcom College | BIJAPUR | KARNATAKA | Private | [Portal](http://vbabc.org) |
+| 7015 | Rajadhani Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rdc.org) |
+| 7016 | Hasanath College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://hasanathcollege.org) |
+| 7017 | Durudundeshwar Vidya Sanvardhak Sangha's B.c.a. College Sankeshwar. | BELGAUM | KARNATAKA | Private | [Portal](http://durudundeshwarvidyasanvardhak.org) |
+| 7018 | Jnana Vikas Institute of Management Studies and Commerce | RAMANAGARA | KARNATAKA | Private | [Portal](http://jnanavikasinstitute.org) |
+| 7019 | Basudeva Somani College | MYSORE | KARNATAKA | Private | [Portal](http://bsc.org) |
+| 7020 | Government First Grade College Sulibele | BANGALORE RURAL | KARNATAKA | Public/Government | [Portal](https://gfgcs.gov.in) |
+
+
+### Batch 703 (Colleges 7021–7030)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7021 | Davan Institute of Advanced Management Studies | DAVANAGERE | KARNATAKA | Private | [Portal](http://dioams.org) |
+| 7022 | AL Ihsan First Grade College | UDUPI | KARNATAKA | Private | [Portal](http://aifgc.org) |
+| 7023 | S.j.m.v.sangha's Business Administration College for Women. | DHARWAD | KARNATAKA | Private | [Portal](http://sbacfw.org) |
+| 7024 | Visveswarapura College of Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vcos.org) |
+| 7025 | Central College of Commerce | HASSAN | KARNATAKA | Private | [Portal](http://ccoc.org) |
+| 7026 | Sindhi College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sindhicollege.org) |
+| 7027 | Kensri Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://kdc.org) |
+| 7028 | Melkar Degree College | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://mdc.org) |
+| 7029 | University College Mangalore | DAKSHINA KANNADA | KARNATAKA | Private | [Portal](http://ucm.org) |
+| 7030 | ST Aloysius Deemed to BE University | DAKSHINA KANNADA | KARNATAKA | Private (Deemed to be University) | [Portal](http://sadtbu.org) |
+
+
+### Batch 704 (Colleges 7031–7040)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7031 | Sri Sai Jnanaganga Degree College | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://ssjdc.org) |
+| 7032 | Government College for Women's (Autonomous) | MANDYA | KARNATAKA | Public/Government | [Portal](https://gcfwa.gov.in) |
+| 7033 | Surana Evening College of Commerce and Management | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://suranaeveningcollege.org) |
+| 7034 | Lowry Adventist College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://lac.org) |
+| 7035 | Siddaganga Shivakumara Swamiji Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sssdc.org) |
+| 7036 | Bethel International College of Commerce | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://bicoc.org) |
+| 7037 | Vishwakavi Kuvempu First Grade College | MYSORE | KARNATAKA | Private | [Portal](http://vkfgc.org) |
+| 7038 | Sapient College of Commerce and Management | MYSORE | KARNATAKA | Private | [Portal](http://scocam.org) |
+| 7039 | Ramakrishna Vivekananda BCA College | BIJAPUR | KARNATAKA | Private | [Portal](http://rvbc.org) |
+| 7040 | Vijaya Vittala Institute of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vijayavittalainstitute.org) |
+
+
+### Batch 705 (Colleges 7041–7050)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7041 | Vishwa Venkateshwara Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vvdc.org) |
+| 7042 | ST Aloysius (Deemed to BE University) Aimit Centre | D KANNADA(DK) | KARNATAKA | Private (Deemed to be University) | [Portal](http://staloysiusdeemed.org) |
+| 7043 | Jesse Degree College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://jdc.org) |
+| 7044 | Venkateshwara Degree College and Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://vdcams.org) |
+| 7045 | Royal College of Management Studies | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://rcoms.org) |
+| 7046 | Navachetana Degree College | KOLAR | KARNATAKA | Private | [Portal](http://ndc.org) |
+| 7047 | Pes College of Science Arts and Commrece | MANDYA | KARNATAKA | Private | [Portal](http://pescollegeof.org) |
+| 7048 | Sdvs Sangh College of Business Administration BBA | BELGAUM | KARNATAKA | Private | [Portal](http://sdvssanghcollege.org) |
+| 7049 | Vishnupriya College of Management Studies | CHIKABALLAPUR | KARNATAKA | Private | [Portal](http://vcoms.org) |
+| 7050 | Rms Institute of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://riomas.org) |
+
+
+### Batch 706 (Colleges 7051–7060)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7051 | RK First Grade College | MANDYA | KARNATAKA | Private | [Portal](http://rfgc.org) |
+| 7052 | Smt Honnuramma Late M Siddappa Government First Grade College Tekkalakote | BELLARY | KARNATAKA | Public/Government | [Portal](https://smthonnurammalate.gov.in) |
+| 7053 | ST George College of Management and Science | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://stgeorgecollege.org) |
+| 7054 | S.e.a Evening First Grade College | BANGALORE URBAN | KARNATAKA | Private | [Portal](http://sefgc.org) |
+| 7055 | Chinmaya Degree College | KOLAR | KARNATAKA | Private | [Portal](http://cdc.org) |
+| 7056 | Government First Grade College Chikkaballapura | CHIKABALLAPUR | KARNATAKA | Public/Government | [Portal](https://gfgcc.gov.in) |
+| 7057 | Sai Vidya First Grade College | BANGALORE RURAL | KARNATAKA | Private | [Portal](http://svfgc.org) |
+| 7058 | Ydd Govt First Grade College Belur | HASSAN | KARNATAKA | Public/Government | [Portal](https://ygfgcb.gov.in) |
+| 7059 | Munnar Catering College | IDUKKI | KERALA | Private | [Portal](http://mcc.org) |
+| 7060 | Department of Electronics, Cochin University of Science and Technology | ERNAKULAM | KERALA | Private | [Portal](http://departmentofelectronics.org) |
+
+
+### Batch 707 (Colleges 7061–7070)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7061 | Model Polytechnic College,Mattakkara | KOTTAYAM | KERALA | Private | [Portal](http://mpc.org) |
+| 7062 | Sahrdaya Institute of Management Studies | THRISSUR | KERALA | Private | [Portal](http://sioms.org) |
+| 7063 | Thejus Engineering College | THRISSUR | KERALA | Private | [Portal](http://tec.org) |
+| 7064 | Ilahia College of Engineering and Technology | ERNAKULAM | KERALA | Private | [Portal](http://icoeat.org) |
+| 7065 | Hassan Haji Memorial Jdt Islam Polytechnic College | KOZHIKODE | KERALA | Private | [Portal](http://hassanhajimemorial.org) |
+| 7066 | Government Polytechnic College,Vandiperiyar | IDUKKI | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 7067 | Goverment Polytechnic College, Neyyattinkara | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://gpcn.org) |
+| 7068 | College of Engineering,Aranmula | PATHANAMTHITTA | KERALA | Private | [Portal](http://coe.org) |
+| 7069 | Snehacharya Institute of Management & Technology | ALAPPUZHA | KERALA | Private | [Portal](http://siomt.org) |
+| 7070 | Muthoot Institute of Technology and Science | ERNAKULAM | KERALA | Private | [Portal](http://miotas.org) |
+
+
+### Batch 708 (Colleges 7071–7080)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7071 | Women's Polytechnic College, Ernakulam | ERNAKULAM | KERALA | Private | [Portal](http://wpce.org) |
+| 7072 | Santhigiri Institute of Management | IDUKKI | KERALA | Private | [Portal](http://siom.org) |
+| 7073 | Mgm College of Engineering and Technology | ERNAKULAM | KERALA | Private | [Portal](http://mcoeat.org) |
+| 7074 | Department of Ship Technology,Cochin University of Science and Technology | ERNAKULAM | KERALA | Private | [Portal](http://departmentofship.org) |
+| 7075 | Maharaja's Technological Institute | THRISSUR | KERALA | Private | [Portal](http://mti.org) |
+| 7076 | Department of Computer Application, Cochin University of Science and Technology | ERNAKULAM | KERALA | Private | [Portal](http://departmentofcomputer.org) |
+| 7077 | K Karunakaran Memorial Model Polytechnic College, Kallettumkara | THRISSUR | KERALA | Private | [Portal](http://kkarunakaranmemorial.org) |
+| 7078 | Carmel Polytechnic College | ALAPPUZHA | KERALA | Private | [Portal](http://cpc.org) |
+| 7079 | College of Engineering & Technology-Payyanur | KANNUR | KERALA | Private | [Portal](http://coet.org) |
+| 7080 | Government. Polytechnic College Meppadi | WAYANAD | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+
+
+### Batch 709 (Colleges 7081–7090)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7081 | Jyothi Engineering College | THRISSUR | KERALA | Private | [Portal](http://jec.org) |
+| 7082 | Farook Institute of Management Studies | KOZHIKODE | KERALA | Private | [Portal](http://fioms.org) |
+| 7083 | Orphanage Polytechnic College Edavanna | MALAPPURAM | KERALA | Private | [Portal](http://opce.org) |
+| 7084 | College of Engineering Trivandrum | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://coet.org) |
+| 7085 | Union Christian College,Aluva | ERNAKULAM | KERALA | Private | [Portal](http://ucc.org) |
+| 7086 | Government Polytechnic College,Mattanur | KANNUR | KERALA | Public/Government | [Portal](https://dtekerala.gov.in) |
+| 7087 | M.e.s. Advanced Institute of Management and Technology (Mes-Aimat) | ERNAKULAM | KERALA | Private | [Portal](http://mesadvancedinstitute.org) |
+| 7088 | Mgm Technological Campus | MALAPPURAM | KERALA | Private | [Portal](http://mtc.org) |
+| 7089 | Malabar College of Engineering and Technology | THRISSUR | KERALA | Private | [Portal](http://mcoeat.org) |
+| 7090 | Met's School of Engineering, Mala | THRISSUR | KERALA | Private | [Portal](http://msoem.org) |
+
+
+### Batch 710 (Colleges 7091–7100)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7091 | Mentor Academy for Design Entrepreneurship Innovation and Technology | ERNAKULAM | KERALA | Private | [Portal](http://mentoracademyfor.org) |
+| 7092 | St. Mary's Polytechnic College | PALAKKAD | KERALA | Private | [Portal](http://smpc.org) |
+| 7093 | Toms College of Engineering | KOTTAYAM | KERALA | Private | [Portal](http://tcoe.org) |
+| 7094 | Member Sree Narayana Pillai Institute of Management and Technology | KOLLAM | KERALA | Private | [Portal](http://membersreenarayana.org) |
+| 7095 | Keltron Toolroom Research & Training Centre (Keltrac) | ALAPPUZHA | KERALA | Private | [Portal](http://ktrtck.org) |
+| 7096 | Nehru College of Engineering and Research Centre | THRISSUR | KERALA | Private | [Portal](http://nehrucollegeof.org) |
+| 7097 | National Institute of Electronics & Information Technology (Nielit), Calicut | KOZHIKODE | KERALA | Public/Government | [Portal](https://nationalinstituteof.gov.in) |
+| 7098 | Elijah Institute of Management Studies | THRISSUR | KERALA | Private | [Portal](http://eioms.org) |
+| 7099 | Cochin University College of Engineering Kuttanadu & Cochin University College of Computer Applications | ALAPPUZHA | KERALA | Private | [Portal](http://cochinuniversitycollege.org) |
+| 7100 | Sree Chitra Thirunal College of Engineering | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://sctcoe.org) |
+
+
+### Batch 711 (Colleges 7101–7110)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7101 | Indira Gandhi Institute of Engineering and Technology | ERNAKULAM | KERALA | Private | [Portal](http://indiragandhiinstitute.org) |
+| 7102 | Rajadhani Institute of Engineering and Technology | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://rioeat.org) |
+| 7103 | Snm Institute of Management and Technology | ERNAKULAM | KERALA | Private | [Portal](http://siomat.org) |
+| 7104 | DC School of Architecture and Design Trivandrum | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://dcschoolof.org) |
+| 7105 | Kmct College of Engineering | KOZHIKODE | KERALA | Private | [Portal](http://kcoe.org) |
+| 7106 | Fr. Porukara Cmi College of Advanced Studies | ALAPPUZHA | KERALA | Private | [Portal](http://frporukaracmi.org) |
+| 7107 | Madin Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://maasc.org) |
+| 7108 | M E S College Marampally | ERNAKULAM | KERALA | Private | [Portal](http://mescm.org) |
+| 7109 | Baselios Poulose II Catholios College | ERNAKULAM | KERALA | Private | [Portal](http://bpicc.org) |
+| 7110 | College of Applied Science Kozhikode | KOZHIKODE | KERALA | Private | [Portal](http://coask.org) |
+
+
+### Batch 712 (Colleges 7111–7120)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7111 | Mar Elias College | ERNAKULAM | KERALA | Private | [Portal](http://mec.org) |
+| 7112 | Kmm College Kumbalam | ERNAKULAM | KERALA | Private | [Portal](http://kck.org) |
+| 7113 | College of Applied Science Muthuvallur | MALAPPURAM | KERALA | Private | [Portal](http://coasm.org) |
+| 7114 | Wadihuda Institute of Research and Advanced Studies | KANNUR | KERALA | Private | [Portal](http://wadihudainstituteof.org) |
+| 7115 | College of Applied Science Chelakkara | THRISSUR | KERALA | Private | [Portal](http://coasc.org) |
+| 7116 | College of Applied Science Ihrd Kaduthuruthy | KOTTAYAM | KERALA | Private | [Portal](http://coasik.org) |
+| 7117 | Pocker Sahib Memorial Orphanage College (Autonomous) Tirurangadi | MALAPPURAM | KERALA | Private | [Portal](http://pockersahibmemorial.org) |
+| 7118 | ST Pauls College Kalamasssery | ERNAKULAM | KERALA | Private | [Portal](http://spck.org) |
+| 7119 | Little Flower College Guruvayur | THRISSUR | KERALA | Private | [Portal](http://lfcg.org) |
+| 7120 | Safi Institute of Advanced Study | MALAPPURAM | KERALA | Private | [Portal](http://sioas.org) |
+
+
+### Batch 713 (Colleges 7121–7130)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7121 | Lakshmi Narayana Arts and Science College | THRISSUR | KERALA | Private | [Portal](http://lnaasc.org) |
+| 7122 | ST Thomas College Palai | KOTTAYAM | KERALA | Private | [Portal](http://stcp.org) |
+| 7123 | Nasra College of Arts and Science | MALAPPURAM | KERALA | Private | [Portal](http://ncoaas.org) |
+| 7124 | College of Applied Science Ihrd Vattamkulam | MALAPPURAM | KERALA | Private | [Portal](http://coasiv.org) |
+| 7125 | Cas Mallappally | PATHANAMTHITTA | KERALA | Private | [Portal](http://casmallappally.org) |
+| 7126 | Yuvakshetra Institute of Management Studies | PALAKKAD | KERALA | Private | [Portal](http://yioms.org) |
+| 7127 | St. George's College Aruvithura | KOTTAYAM | KERALA | Private | [Portal](http://sgca.org) |
+| 7128 | Ahalia School of Commerce and Mathematics | PALAKKAD | KERALA | Private | [Portal](http://asocam.org) |
+| 7129 | Musaliar College of Arts and Science | PATHANAMTHITTA | KERALA | Private | [Portal](http://mcoaas.org) |
+| 7130 | Sahodaran Ayyappan Smaraka Sndp Yogam College | PATHANAMTHITTA | KERALA | Private | [Portal](http://sassyc.org) |
+
+
+### Batch 714 (Colleges 7131–7140)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7131 | Krs Sree Narayana College | MALAPPURAM | KERALA | Private | [Portal](http://ksnc.org) |
+| 7132 | Nirmala College of Arts and Science | THRISSUR | KERALA | Private | [Portal](http://ncoaas.org) |
+| 7133 | Christ College Vizhinjam | THIRUVANANTHAPURAM | KERALA | Private | [Portal](http://ccv.org) |
+| 7134 | St. Marys College Thrissur | THRISSUR | KERALA | Private | [Portal](http://smct.org) |
+| 7135 | ST Joseph's College Autonomous Devagiri | KOZHIKODE | KERALA | Private | [Portal](http://sjcad.org) |
+| 7136 | R Sankar Memorial Sndp Yogam Arts and Sscience College Koyilandy | KOZHIKODE | KERALA | Private | [Portal](http://rsankarmemorial.org) |
+| 7137 | Grace Valley College of Arts and Science | MALAPPURAM | KERALA | Private | [Portal](http://gracevalleycollege.org) |
+| 7138 | Kmp College of Arts and Science | ERNAKULAM | KERALA | Private | [Portal](http://kcoaas.org) |
+| 7139 | Bharata Mata College of Commerce and Arts | ERNAKULAM | KERALA | Private | [Portal](http://bharatamatacollege.org) |
+| 7140 | College of Applied Science Puhtuppally | KOTTAYAM | KERALA | Private | [Portal](http://coasp.org) |
+
+
+### Batch 715 (Colleges 7141–7150)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7141 | Toms Arts and Science College | KOTTAYAM | KERALA | Private | [Portal](http://taasc.org) |
+| 7142 | Sree Narayana College of Technology | KOLLAM | KERALA | Private | [Portal](http://sncot.org) |
+| 7143 | Dharmagiri College of Arts and Science | MALAPPURAM | KERALA | Private | [Portal](http://dcoaas.org) |
+| 7144 | Gems Arts and Science College | MALAPPURAM | KERALA | Private | [Portal](http://gaasc.org) |
+| 7145 | Kmea College of Arts and Science | ERNAKULAM | KERALA | Private | [Portal](http://kcoaas.org) |
+| 7146 | Amal College of Advanced Studies | MALAPPURAM | KERALA | Private | [Portal](http://acoas.org) |
+| 7147 | St. Teresa's College Autonomous | ERNAKULAM | KERALA | Private | [Portal](http://stca.org) |
+| 7148 | Seth Ram Bahadur Singh Gujarati College | ERNAKULAM | KERALA | Private | [Portal](http://srbsgc.org) |
+| 7149 | Amc Group of Educational Institutions | PALAKKAD | KERALA | Private | [Portal](http://agoei.org) |
+| 7150 | College of Applied Science Malampuzha | PALAKKAD | KERALA | Private | [Portal](http://coasm.org) |
+
+
+### Batch 716 (Colleges 7151–7160)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7151 | St.marys College Sulthan Bathery | WAYANAD | KERALA | Private | [Portal](http://scsb.org) |
+| 7152 | Panakkad Pookoya Thangal Memorial Arts and Science College Cherur | MALAPPURAM | KERALA | Private | [Portal](http://panakkadpookoyathangal.org) |
+| 7153 | ST Josephs College Pilathara Kannur | KANNUR | KERALA | Private | [Portal](http://sjcpk.org) |
+| 7154 | Paramekkavu College of Arts and Science | THRISSUR | KERALA | Private | [Portal](http://pcoaas.org) |
+| 7155 | Holy Cross College of Management and Technology | IDUKKI | KERALA | Private | [Portal](http://holycrosscollege.org) |
+| 7156 | Sree Narayana Guru Memorial Arts and Science College | ALAPPUZHA | KERALA | Private | [Portal](http://sreenarayanaguru.org) |
+| 7157 | Chinmaya Arts and Science College for Women | KANNUR | KERALA | Private | [Portal](http://chinmayaartsand.org) |
+| 7158 | Baselius College | KOTTAYAM | KERALA | Private | [Portal](http://baseliuscollege.org) |
+| 7159 | Sree Narayana Guru College of Advanced Studies Kannur | KANNUR | KERALA | Private | [Portal](http://sreenarayanaguru.org) |
+| 7160 | AL Azhar College of Arts and Science | IDUKKI | KERALA | Private | [Portal](http://alazharcollege.org) |
+
+
+### Batch 717 (Colleges 7161–7170)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7161 | Ilm College of Arts and Science | ERNAKULAM | KERALA | Private | [Portal](http://icoaas.org) |
+| 7162 | Aman College of Science and Technology | KOTTAYAM | KERALA | Private | [Portal](http://acosat.org) |
+| 7163 | Mes Asmabi College P Vemballur | THRISSUR | KERALA | Private | [Portal](http://macpv.org) |
+| 7164 | Mes Mampad College | MALAPPURAM | KERALA | Private | [Portal](http://mmc.org) |
+| 7165 | N.s.s. College Nemmara | PALAKKAD | KERALA | Private | [Portal](http://ncn.org) |
+| 7166 | CO Operative Arts and Science College | KOZHIKODE | KERALA | Private | [Portal](http://coaasc.org) |
+| 7167 | Peekay Cics Arts and Science College | KOZHIKODE | KERALA | Private | [Portal](http://pcaasc.org) |
+| 7168 | Malabar College of Arts and Science | KOZHIKODE | KERALA | Private | [Portal](http://mcoaas.org) |
+| 7169 | Don Bosco College Mannuthy | THRISSUR | KERALA | Private | [Portal](http://dbcm.org) |
+| 7170 | Devaswom Board College Keezhoor | KOTTAYAM | KERALA | Private | [Portal](http://dbck.org) |
+
+
+### Batch 718 (Colleges 7171–7180)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7171 | Wmo Arts and Science College Muttil | WAYANAD | KERALA | Private | [Portal](http://waascm.org) |
+| 7172 | Azharul Uloom College of Arts and Science | ERNAKULAM | KERALA | Private | [Portal](http://azharululoomcollege.org) |
+| 7173 | Cherpulassery College of Science and Technology | PALAKKAD | KERALA | Private | [Portal](http://ccosat.org) |
+| 7174 | Holy Grace Academy of Arts and Science | THRISSUR | KERALA | Private | [Portal](http://holygraceacademy.org) |
+| 7175 | ST Marys College for Women | PATHANAMTHITTA | KERALA | Private | [Portal](http://smcfw.org) |
+| 7176 | Schoenstatt Academy | THRISSUR | KERALA | Private | [Portal](http://schoenstattacademy.org) |
+| 7177 | Eldho Mor Baselios College | WAYANAD | KERALA | Private | [Portal](http://embc.org) |
+| 7178 | Mar Osthatheos College | THRISSUR | KERALA | Private | [Portal](http://moc.org) |
+| 7179 | Pmsa Pookoya Thangal Memorial Arts and Science College | KOLLAM | KERALA | Private | [Portal](http://pmsapookoyathangal.org) |
+| 7180 | HI Tech Arts and Science College Vattoli | KOZHIKODE | KERALA | Private | [Portal](http://hitecharts.org) |
+
+
+### Batch 719 (Colleges 7181–7190)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7181 | Lions Educational Trust College | PALAKKAD | KERALA | Private | [Portal](http://letc.org) |
+| 7182 | Gurudev Arts and Science College | KANNUR | KERALA | Private | [Portal](http://gaasc.org) |
+| 7183 | Nest Institute of Humanities and Basic Sciences | KANNUR | KERALA | Private | [Portal](http://nestinstituteof.org) |
+| 7184 | Swami Nithyananda Polytechnic College | KASARAGOD | KERALA | Private | [Portal](http://snpc.org) |
+| 7185 | S.r. College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://srcollege.org) |
+| 7186 | RD Memorial College | INDORE | MADHYA PRADESH | Private | [Portal](http://rmc.org) |
+| 7187 | Shree Institute of Progressive Studies | INDORE | MADHYA PRADESH | Private | [Portal](http://siops.org) |
+| 7188 | Oriental Institute of Management Lalburra | BALAGHAT | MADHYA PRADESH | Private | [Portal](http://oioml.org) |
+| 7189 | New Era College of Management | INDORE | MADHYA PRADESH | Private | [Portal](http://necom.org) |
+| 7190 | Parakh College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://parakhcollege.org) |
+
+
+### Batch 720 (Colleges 7191–7200)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7191 | Government Polytechnic College, Mandla (M.p.) | MANDLA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 7192 | Lakshmi Narain College of Technology and Science (RIT) | INDORE | MADHYA PRADESH | Private | [Portal](http://lakshminaraincollege.org) |
+| 7193 | Government.polytechnic College Rewa | REWA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 7194 | Malwa Institute of Science & Technology | INDORE | MADHYA PRADESH | Private | [Portal](http://miost.org) |
+| 7195 | Shree Sai Institute of Technology | RATLAM | MADHYA PRADESH | Private | [Portal](http://ssiot.org) |
+| 7196 | Polytechinc College Nowgong | CHHATARPUR | MADHYA PRADESH | Private | [Portal](http://pcn.org) |
+| 7197 | Shri Vaishnav Institute of Management and Science Indore | INDORE | MADHYA PRADESH | Private | [Portal](http://shrivaishnavinstitute.org) |
+| 7198 | Prashanti Institute of Management | UJJAIN | MADHYA PRADESH | Private | [Portal](http://piom.org) |
+| 7199 | Government.polytechnic College Pachore | RAJGARH | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 7200 | Government.polytechnic Collge Raghogrh | GUNA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+
+
+### Batch 721 (Colleges 7201–7210)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7201 | Vidyasagar Institute of Management | BHOPAL | MADHYA PRADESH | Private | [Portal](http://viom.org) |
+| 7202 | Mjp Government Polytechnic College, Khandwa | KHANDWA | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 7203 | Government Polytechnic Nasrullaganj | SEHORE | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 7204 | Bhopal Institute of Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://biot.org) |
+| 7205 | Government Polytechnic College Tikamgarh | TIKAMGARH | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 7206 | University Institute of Technology, Rgpv, Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://uiotrb.org) |
+| 7207 | Government. Polytechnic College Hoshangabad(MP) | HOSHANGABAD | MADHYA PRADESH | Public/Government | [Portal](https://mptechedu.org) |
+| 7208 | Indore Institute of Science and Technology | INDORE | MADHYA PRADESH | Private | [Portal](http://iiosat.org) |
+| 7209 | Harmilap Institute of Excellence | ANUPPUR | MADHYA PRADESH | Private | [Portal](http://hioe.org) |
+| 7210 | Government Geetanjali Girls PG College Bhopal | BHOPAL | MADHYA PRADESH | Public/Government | [Portal](https://gggpcb.gov.in) |
+
+
+### Batch 722 (Colleges 7211–7220)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7211 | Sudha Raje Computer Institute Chitrakoot | SATNA | MADHYA PRADESH | Private | [Portal](http://srcic.org) |
+| 7212 | Makhanlal Chaturvedi National University of Journalism and Communication Rewa Campus | REWA | MADHYA PRADESH | Private | [Portal](http://makhanlalchaturvedinational.org) |
+| 7213 | Future Vision College Ujjain | UJJAIN | MADHYA PRADESH | Private | [Portal](http://fvcu.org) |
+| 7214 | City Computer Institute | KATNI | MADHYA PRADESH | Private | [Portal](http://cci.org) |
+| 7215 | Gicts College of Professional Education | GWALIOR | MADHYA PRADESH | Private | [Portal](http://gcope.org) |
+| 7216 | Oxford International College | INDORE | MADHYA PRADESH | Private | [Portal](http://oic.org) |
+| 7217 | Guru Gobind Singh Institute of Computer and Communication | JABALPUR | MADHYA PRADESH | Private | [Portal](http://gurugobindsingh.org) |
+| 7218 | Vivekanand Institute of Information Technology | BARWANI | MADHYA PRADESH | Private | [Portal](http://vioit.org) |
+| 7219 | Betwanchal College of Education | VIDISHA | MADHYA PRADESH | Private | [Portal](http://bcoe.org) |
+| 7220 | Srajan Institute of Technology Management and Science | RATLAM | MADHYA PRADESH | Private | [Portal](http://srajaninstituteof.org) |
+
+
+### Batch 723 (Colleges 7221–7230)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7221 | Bharat Institute of Technology and Science | DATIA | MADHYA PRADESH | Private | [Portal](http://biotas.org) |
+| 7222 | Yogeshwar Acedemy | BARWANI | MADHYA PRADESH | Private | [Portal](http://yogeshwaracedemy.org) |
+| 7223 | Sam College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://samcollege.org) |
+| 7224 | Nachiketa College of Computer Science Commerce and Advanced Technology | JABALPUR | MADHYA PRADESH | Private | [Portal](http://nachiketacollegeof.org) |
+| 7225 | Times College of Computer and IT | DAMOH | MADHYA PRADESH | Private | [Portal](http://tcocai.org) |
+| 7226 | Nice Institute of Computer Education | MANDLA | MADHYA PRADESH | Private | [Portal](http://nioce.org) |
+| 7227 | Universal Computer Academy | SEONI | MADHYA PRADESH | Private | [Portal](http://uca.org) |
+| 7228 | Sardar Ajeet Singh Memorial Girls College Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://sardarajeetsingh.org) |
+| 7229 | Gandhi P R College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://gprc.org) |
+| 7230 | Swami Vivekanand College of Proff. Studies | SEHORE | MADHYA PRADESH | Private | [Portal](http://svcops.org) |
+
+
+### Batch 724 (Colleges 7231–7240)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7231 | Sadhu Vaswani College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://svc.org) |
+| 7232 | Government Holkar Model Autonomous Science College Indore | INDORE | MADHYA PRADESH | Public/Government | [Portal](https://governmentholkarmodel.gov.in) |
+| 7233 | Barhi Computer Seience and Jouralism Institute | KATNI | MADHYA PRADESH | Private | [Portal](http://bcsaji.org) |
+| 7234 | Logical Concepts Computer Education Centre | SEONI | MADHYA PRADESH | Private | [Portal](http://lccec.org) |
+| 7235 | Lnct University | BHOPAL | MADHYA PRADESH | Private | [Portal](http://lnctuniversity.org) |
+| 7236 | Gurukul College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://gurukulcollege.org) |
+| 7237 | Baihar Institute of Computer Education | BALAGHAT | MADHYA PRADESH | Private | [Portal](http://bioce.org) |
+| 7238 | Sri Sathya Sai College for Women | BHOPAL | MADHYA PRADESH | Private | [Portal](http://ssscfw.org) |
+| 7239 | Jln College Sohagpur | HOSHANGABAD | MADHYA PRADESH | Private | [Portal](http://jcs.org) |
+| 7240 | Government. Narmada College Narmdapuram | HOSHANGABAD | MADHYA PRADESH | Public/Government | [Portal](https://gncn.gov.in) |
+
+
+### Batch 725 (Colleges 7241–7250)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 7241 | Vikramaditya Institute of Computer Science and Technology | BHOPAL | MADHYA PRADESH | Private | [Portal](http://vikramadityainstituteof.org) |
+| 7242 | Maharana Pratap College of Allies Sciences | GWALIOR | MADHYA PRADESH | Private | [Portal](http://mpcoas.org) |
+| 7243 | Gyan Vitaranam Research Institute for Media Studies | BHOPAL | MADHYA PRADESH | Private | [Portal](http://gyanvitaranamresearch.org) |
+| 7244 | Tata Institute of Techonology | SIDHI | MADHYA PRADESH | Private | [Portal](http://tiot.org) |
+| 7245 | Government Home Science PG College Narmadapuram MP | HOSHANGABAD | MADHYA PRADESH | Public/Government | [Portal](https://governmenthomescience.gov.in) |
+| 7246 | Saheed Bhagat Singh Government PG College Pipariya | HOSHANGABAD | MADHYA PRADESH | Public/Government | [Portal](https://saheedbhagatsingh.gov.in) |
+| 7247 | Vikramaditya College | BHOPAL | MADHYA PRADESH | Private | [Portal](http://vikramadityacollege.org) |
+| 7248 | Vivekanand College Pipariya | HOSHANGABAD | MADHYA PRADESH | Private | [Portal](http://vcp.org) |
+| 7249 | Harmilap Institute of Computer and Technology | SHAHDOL | MADHYA PRADESH | Private | [Portal](http://hiocat.org) |
+| 7250 | Institute for Excellence in Higher Education Bhopal | BHOPAL | MADHYA PRADESH | Private | [Portal](http://instituteforexcellence.org) |
