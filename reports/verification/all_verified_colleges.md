@@ -3255,3 +3255,19 @@
 | 2158 | Government Polytechnic, Rudraprayag | Rudraprayag | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
 | 2159 | Late General Bipin Chandra Joshi Government Rural Polytechnic, Takula | Almora | Uttarakhand | Public/Government | [Portal](https://www.grptakula.org.in) |
 | 2160 | Government Polytechnic, Aamwala | Dehradun | Uttarakhand | Public/Government | [Portal](http://gpaamwala.org.in) |
+
+
+### Batch 217 (Colleges 2,161–2,170)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2161 | Government Polytechnic, Dehradun | Dehradun | Uttarakhand | Public/Government | [Portal](https://www.gpdehradun.org.in) |
+| 2162 | BFIT Technical Campus, Dehradun | Dehradun | Uttarakhand | Private | [Portal](https://www.bfitdoon.com) |
+| 2163 | Government Polytechnic, Gauchar | Chamoli | Uttarakhand | Public/Government | [Portal](https://gpgauchar.org) |
+| 2164 | BRD College of Management and Sciences, Roorkee | Roorkee | Uttarakhand | Private | [Portal](https://brdcroorkee.in) |
+| 2165 | Women Institute of Technology (WIT), Dehradun | Dehradun | Uttarakhand | Public/Government (Constituent College of UTU) | [Portal](http://wit.ac.in) |
+| 2166 | Gurukula Kangri (Deemed to be University), Haridwar | Haridwar | Uttarakhand | Public/Government (Deemed to be University) | [Portal](https://www.gkv.ac.in) |
+| 2167 | Shri S.S.P.U. Government Polytechnic, Sahaspur | Dehradun | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2168 | Bishamber Sahai Diploma Engineering College, Roorkee | Haridwar | Uttarakhand | Private | [Portal](https://www.bsgrouproorkee.com) |
+| 2169 | Government Rural Polytechnic, Thalnadi | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2170 | Balwant Singh Mukhiya (BSM) College of Engineering | Haridwar | Uttarakhand | Private | [Portal](http://bsmcoe.com) |
