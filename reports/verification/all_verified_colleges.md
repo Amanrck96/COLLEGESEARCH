@@ -3175,3 +3175,19 @@
 | 2108 | Government Polytechnic Chinyalisaur, Uttarkashi | Uttarkashi | Uttarakhand | Public/Government | [Portal](https://ukdte.in) |
 | 2109 | Harishchandra Government Polytechnic Bhalswagaj, Haridwar | Haridwar | Uttarakhand | Public/Government | [Portal](https://gpbjharidwar.org) |
 | 2110 | Government Polytechnic Kapkot, Bageshwar | Bageshwar | Uttarakhand | Public/Government | [Portal](https://ukdte.in) |
+
+
+### Batch 212 (Colleges 2,111–2,120)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2111 | Government Polytechnic Danya, Almora | Almora | Uttarakhand | Public/Government | [Portal](https://ukdte.in) |
+| 2112 | Institute of Management Education & Consultancy (IMEC), Rudrapur | Udham Singh Nagar | Uttarakhand | Private | [Portal](https://imecrudrapur.in) |
+| 2113 | Dr. A.P.J. Abdul Kalam Government Institute of Technology, Tanakpur | Champawat | Uttarakhand | Public/Government (Constituent State Government Institute) | [Portal](https://ittanakpur.ac.in) |
+| 2114 | Faculty of Management, VMSB Uttarakhand Technical University, Dehradun | Dehradun | Uttarakhand | Public/Government (State University Department) | [Portal](https://uktech.ac.in) |
+| 2115 | Sri Sai Institute of Technology (SSIT), Jaspur | Udham Singh Nagar | Uttarakhand | Private | [Portal](https://www.srisaiiot.com) |
+| 2116 | Government Polytechnic Narendra Nagar, Tehri Garhwal | Tehri Garhwal | Uttarakhand | Public/Government | [Portal](https://www.gpnngr.org.in) |
+| 2117 | Shaheed Vikram Singh Negi Government Polytechnic Gaja, Tehri Garhwal | Tehri Garhwal | Uttarakhand | Public/Government | [Portal](https://gpgaja.org.in) |
+| 2118 | Gaura Devi Government Polytechnic Joshimath, Chamoli | Chamoli | Uttarakhand | Public/Government | [Portal](https://gpjoshimath.in) |
+| 2119 | Government Polytechnic Bazpur, Udham Singh Nagar | Udham Singh Nagar | Uttarakhand | Public/Government | [Portal](https://www.gpbazpur.in) |
+| 2120 | State Institute of Hotel Management Catering Technology & Applied Nutrition (SIHM), New Tehri | Tehri Garhwal | Uttarakhand | Public/Government (Autonomous Central/State Govt. Society) | [Portal](https://ihmtehri.org) |
