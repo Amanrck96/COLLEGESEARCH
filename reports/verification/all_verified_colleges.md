@@ -19367,3 +19367,659 @@
 | 12248 | Synergy School of Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://ssoc.org) |
 | 12249 | Maratha Vidhya Prasarak Samaj Nashik Gmd Arts BW Commerce and Science College Sinnar | NASHIK | MAHARASHTRA | Private | [Portal](http://marathavidhyaprasarak.org) |
 | 12250 | Samarth College of Computer Science | PUNE | MAHARASHTRA | Private | [Portal](http://scocs.org) |
+
+
+### Batch 1226 (Colleges 12251–12260)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12251 | Maharshi Karve Mahila Mahavidyalay Wai | SATARA | MAHARASHTRA | Private | [Portal](http://mkmmw.org) |
+| 12252 | Vishwabharati Academy's College of Computer Science and Management | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://vishwabharatiacademyscollege.org) |
+| 12253 | Bhonsala Military College | NASHIK | MAHARASHTRA | Private | [Portal](http://bmc.org) |
+| 12254 | Mamasaheb Mohol College | PUNE | MAHARASHTRA | Private | [Portal](http://mmc.org) |
+| 12255 | Pillai College of Arts Commerce & Science | RAIGAD | MAHARASHTRA | Private | [Portal](http://pcoacs.org) |
+| 12256 | Kai. Bahusaheb Hiray Samarnika Samiti Trust's Indira College | NASHIK | MAHARASHTRA | Private | [Portal](http://kaibahusahebhiray.org) |
+| 12257 | Mahatma Gandhi Vidhyamandir's Panchavati College of Management and Computer Science | NASHIK | MAHARASHTRA | Private | [Portal](http://mahatmagandhividhyamandirs.org) |
+| 12258 | Shrimant Babasaheb Deshmukh Mahavidyalaya | SANGLI | MAHARASHTRA | Private | [Portal](http://sbdm.org) |
+| 12259 | Hislop College | NAGPUR | MAHARASHTRA | Private | [Portal](http://hislopcollege.org) |
+| 12260 | Shankarlal Agrawal College of Management Studies Suryatola Gondia | GONDIA | MAHARASHTRA | Private | [Portal](http://shankarlalagrawalcollege.org) |
+
+
+### Batch 1227 (Colleges 12261–12270)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12261 | Sharda College Sinnar | NASHIK | MAHARASHTRA | Private | [Portal](http://scs.org) |
+| 12262 | Balwant College Vita | SANGLI | MAHARASHTRA | Private | [Portal](http://bcv.org) |
+| 12263 | Rishi Dayaram and Seth Hassaram National College and Seth Wassiamull Assomull Science College | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://rishidayaramand.org) |
+| 12264 | Ramkrishna Wagh College of Arts and Commerce | NAGPUR | MAHARASHTRA | Private | [Portal](http://ramkrishnawaghcollege.org) |
+| 12265 | Venkatesh Mahajan Senior College | OSMANABAD | MAHARASHTRA | Private | [Portal](http://vmsc.org) |
+| 12266 | Gramonnati Mandal's Arts Commerce Science College Narayangaon | PUNE | MAHARASHTRA | Private | [Portal](http://gramonnatimandalsarts.org) |
+| 12267 | Shri Bacchubhau Kadu BCA Mahavidyalaya Jarud | AMRAVATI | MAHARASHTRA | Private | [Portal](http://sbkbmj.org) |
+| 12268 | Rayat Shikshan Sanstha's Maharaja Jivajirao Shinde Mahavidyalaya Shrigonda | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://rayatshikshansansthas.org) |
+| 12269 | Progressive Education Society's Modern College of Arts Science and Commerce Ganeshkhind Pune | PUNE | MAHARASHTRA | Private | [Portal](http://progressiveeducationsocietys.org) |
+| 12270 | Indrayani Mahavidyalaya | PUNE | MAHARASHTRA | Private | [Portal](http://indrayanimahavidyalaya.org) |
+
+
+### Batch 1228 (Colleges 12271–12280)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12271 | Rayat Shikshan Sanstha's Shri Sadguru Gangageer Maharaj Science Gautam Arts and Sanjivani Commerce College Kopargaon | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://rayatshikshansansthas.org) |
+| 12272 | Commerce Management and Computer Science College | NASHIK | MAHARASHTRA | Private | [Portal](http://cmacsc.org) |
+| 12273 | Krt Arts BH Commerce and AM Science College Nashik | NASHIK | MAHARASHTRA | Private | [Portal](http://krtartsbh.org) |
+| 12274 | Sardar Babasaheb Mane Mahavidyalaya Rahimatpur | SATARA | MAHARASHTRA | Private | [Portal](http://sbmmr.org) |
+| 12275 | Gayadevi Joshi Aryabhatta Mahavidyalaya | AKOLA | MAHARASHTRA | Private | [Portal](http://gjam.org) |
+| 12276 | Svpm's College of Commerce, Science and Computer Education, Malegaon (Bk.), Baramati | PUNE | MAHARASHTRA | Private | [Portal](http://svpmscollegeof.org) |
+| 12277 | Reena Mehta College of Arts Science Commerce and Management Studies | THANE | MAHARASHTRA | Private | [Portal](http://reenamehtacollege.org) |
+| 12278 | Sir Parashurambhau College Pune | PUNE | MAHARASHTRA | Private | [Portal](http://spcp.org) |
+| 12279 | Warana Mahavidyalaya | SANGLI | MAHARASHTRA | Private | [Portal](http://waranamahavidyalaya.org) |
+| 12280 | Shivaji University Kolhapur | KOLHAPUR | MAHARASHTRA | Private | [Portal](http://suk.org) |
+
+
+### Batch 1229 (Colleges 12281–12290)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12281 | Des's Kirti M. Doongursee College of Arts Science and Commerce | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://desskirtim.org) |
+| 12282 | Pdeas Shankarrao Bhelke College | PUNE | MAHARASHTRA | Private | [Portal](http://psbc.org) |
+| 12283 | Mes Garware College of Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://mgcoc.org) |
+| 12284 | R.a.podar College of Commerce and Economics Autonomous | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://rapodarcollegeof.org) |
+| 12285 | All India Shri Shivaji Memorial Society's College of Business Administration | PUNE | MAHARASHTRA | Private | [Portal](http://allindiashri.org) |
+| 12286 | B D Kale Mahavidyalaya | PUNE | MAHARASHTRA | Private | [Portal](http://bdkm.org) |
+| 12287 | Jeevan Prabodhini Vita's Sou. Shobhakaki Babar Kanya Mahavidyalaya, Vita | SANGLI | MAHARASHTRA | Private | [Portal](http://jeevanprabodhinivitas.org) |
+| 12288 | Vidya Pratishthan Supe Arts Science and Commerce College | PUNE | MAHARASHTRA | Private | [Portal](http://vidyapratishthansupe.org) |
+| 12289 | Bunts Sangha Mumbai Annna Leela College of Commerce and Economics Shobha Jayaram Shetty College for Bms | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://buntssanghamumbai.org) |
+| 12290 | Anjuman I Islam's Akbar Peerbhoy College of Commerce and Economics | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://anjumaniislams.org) |
+
+
+### Batch 1230 (Colleges 12291–12300)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12291 | Maratha Vidya Prasarak Samaj's S V K T Arts Science and Commerce College | NASHIK | MAHARASHTRA | Private | [Portal](http://marathavidyaprasarak.org) |
+| 12292 | Mithibai College of Arts Chauhan Institute of Science Amrutben Jivanlal College of Commerce and Economics | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://mithibaicollegeof.org) |
+| 12293 | Smt Mithibai Motiram Kundnani College of Commerce and Economics | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://smtmithibaimotiram.org) |
+| 12294 | K.a.a..n.m.sonawane Arts Commerce and Science College Satana Tal Baglan Dist. Nashik | NASHIK | MAHARASHTRA | Private | [Portal](http://kaanmsonawaneartscommerce.org) |
+| 12295 | Dnyanopasak Shikshan Mandals College of Arts Commerce and Science | PARBHANI | MAHARASHTRA | Private | [Portal](http://dnyanopasakshikshanmandals.org) |
+| 12296 | K L E Society's Science and Commerce College | RAIGAD | MAHARASHTRA | Private | [Portal](http://kle.org) |
+| 12297 | Shivratna Institute of Management Studies Shankarnagar Akluj | SOLAPUR | MAHARASHTRA | Private | [Portal](http://shivratnainstituteof.org) |
+| 12298 | Ken Kendre College of Technology and Management | NASHIK | MAHARASHTRA | Private | [Portal](http://kenkendrecollege.org) |
+| 12299 | Aakar Institute of Management and Research Studies | NAGPUR | MAHARASHTRA | Private | [Portal](http://aakarinstituteof.org) |
+| 12300 | Friends Union for Energising Lives Fuel College | PUNE | MAHARASHTRA | Private | [Portal](http://friendsunionfor.org) |
+
+
+### Batch 1231 (Colleges 12301–12310)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12301 | Mandke Human Happiness Foundation Smt Sudhatai Mandke College Pune 411038 | PUNE | MAHARASHTRA | Private | [Portal](http://mandkehumanhappiness.org) |
+| 12302 | City Pride College | NAGPUR | MAHARASHTRA | Private | [Portal](http://cpc.org) |
+| 12303 | Vasantrao Kale College of Journalism and Computer Science Beed | BEED | MAHARASHTRA | Private | [Portal](http://vasantraokalecollege.org) |
+| 12304 | Shardabai Pawar Mahila Arts Commerce and Science College | PUNE | MAHARASHTRA | Private | [Portal](http://shardabaipawarmahila.org) |
+| 12305 | Rajgad Dnyanpeeth's Anantrao Thopte College Bhor | PUNE | MAHARASHTRA | Private | [Portal](http://rdatcb.org) |
+| 12306 | D.g.rupare College of Arts Science and Commerce | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://dgruparecollegeof.org) |
+| 12307 | Mda Institute of Higher Education Sciences and Research | LATUR | MAHARASHTRA | Private | [Portal](http://mdainstituteof.org) |
+| 12308 | Shri Gujarati Seva Samaj Sangli Sanchalit Smt Champaben Balchand Shah Mahila Mahavidyalaya Sangli | SANGLI | MAHARASHTRA | Private | [Portal](http://shrigujaratiseva.org) |
+| 12309 | Shri R K Patil Arts Commerce and Science College Sankh | SANGLI | MAHARASHTRA | Private | [Portal](http://shrirk.org) |
+| 12310 | Swodharak Vidyarthi Sansthas Dadasaheb Rawal College | DHULE | MAHARASHTRA | Private | [Portal](http://svsdrc.org) |
+
+
+### Batch 1232 (Colleges 12311–12320)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12311 | City Premier College | NAGPUR | MAHARASHTRA | Private | [Portal](http://cpc.org) |
+| 12312 | B. P. Sulakhe Commerce College Barshi | SOLAPUR | MAHARASHTRA | Private | [Portal](http://bpsccb.org) |
+| 12313 | Svkm's Narsee Monjee College of Commerce and Economics | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://svkmsnarseemonjee.org) |
+| 12314 | Haribhai V Desai College of Arts Science and Commerce Pune | PUNE | MAHARASHTRA | Private | [Portal](http://haribhaivdesai.org) |
+| 12315 | Regal College of Technology and Management | THANE | MAHARASHTRA | Private | [Portal](http://rcotam.org) |
+| 12316 | Pragnya College of Management and Computer Studies | PUNE | MAHARASHTRA | Private | [Portal](http://pragnyacollegeof.org) |
+| 12317 | Vidya Pratishthan's Commerce and Science College Indapur | PUNE | MAHARASHTRA | Private | [Portal](http://vidyapratishthanscommerce.org) |
+| 12318 | Regal College of Technology | RATNAGIRI | MAHARASHTRA | Private | [Portal](http://rcot.org) |
+| 12319 | Tulajabhavani College of Information Technology | OSMANABAD | MAHARASHTRA | Private | [Portal](http://tcoit.org) |
+| 12320 | Shri Kakasaheb Heeralal Maganlal Chaudhari Arts Commerce and Science College | NANDURBAR | MAHARASHTRA | Private | [Portal](http://shrikakasahebheeralal.org) |
+
+
+### Batch 1233 (Colleges 12321–12330)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12321 | Vidyalankar School of Information Technology | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://vsoit.org) |
+| 12322 | Dr. Babasaheb Ambedkar College | KOLHAPUR | MAHARASHTRA | Private | [Portal](http://dbac.org) |
+| 12323 | Jankidevi Bajaj Institute of Management Studies Sndt Women's University Mumbai | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://jankidevibajajinstitute.org) |
+| 12324 | Atlanta College | NAGPUR | MAHARASHTRA | Private | [Portal](http://atlantacollege.org) |
+| 12325 | Abasaheb Garware College | PUNE | MAHARASHTRA | Private | [Portal](http://agc.org) |
+| 12326 | Arts Commerce and Science College Nandgaon | NASHIK | MAHARASHTRA | Private | [Portal](http://acascn.org) |
+| 12327 | Sangavi Keshri Arts and Commerce College Chinchwad | PUNE | MAHARASHTRA | Private | [Portal](http://sangavikeshriarts.org) |
+| 12328 | Regal College of Computer Application Kankavli | SINDHUDURG | MAHARASHTRA | Private | [Portal](http://rcocak.org) |
+| 12329 | South Indian Education Society's College of Commerce and Economics | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://southindianeducation.org) |
+| 12330 | Janata Shikshan Sanstha's Kisan Veer Mahavidyalay Wai | SATARA | MAHARASHTRA | Private | [Portal](http://janatashikshansansthas.org) |
+
+
+### Batch 1234 (Colleges 12331–12340)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12331 | Maratha Vidya Prasarak Samajs | NASHIK | MAHARASHTRA | Private | [Portal](http://mvps.org) |
+| 12332 | Kamala College | KOLHAPUR | MAHARASHTRA | Private | [Portal](http://kamalacollege.org) |
+| 12333 | ST Mira's College for Girls | PUNE | MAHARASHTRA | Private | [Portal](http://smcfg.org) |
+| 12334 | Ske BCA College | KOLHAPUR | MAHARASHTRA | Private | [Portal](http://sbc.org) |
+| 12335 | Institute of Computer and Management Studies | SOLAPUR | MAHARASHTRA | Private | [Portal](http://iocams.org) |
+| 12336 | DR Bhanuben Mahendra Nanavati College of Home Science | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://drbhanubenmahendra.org) |
+| 12337 | Aaer's Asian College of Science and Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://aaersasiancollege.org) |
+| 12338 | Late Babanrao Deshmukh Mahavidyalaya | AMRAVATI | MAHARASHTRA | Private | [Portal](http://lbdm.org) |
+| 12339 | Guru Nanak Khalsa College of Arts Science and Commerce | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://gurunanakkhalsa.org) |
+| 12340 | Savitribai Phule BCA Mahavidyalya Basmatnagar | HINGOLI | MAHARASHTRA | Private | [Portal](http://spbmb.org) |
+
+
+### Batch 1235 (Colleges 12341–12350)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12341 | Maratha Vidya Prasarak Samajs Arts and Commerce College Soygaon | NASHIK | MAHARASHTRA | Private | [Portal](http://marathavidyaprasarak.org) |
+| 12342 | Skylark Foundation | PUNE | MAHARASHTRA | Private | [Portal](http://skylarkfoundation.org) |
+| 12343 | Shivneri Mahavidyalaya Palam | PARBHANI | MAHARASHTRA | Private | [Portal](http://smp.org) |
+| 12344 | Dnyansagar Arts and Commerce College | PUNE | MAHARASHTRA | Private | [Portal](http://daacc.org) |
+| 12345 | Shri Sheth Murlidharji Mansingka Arts Science and Commerce College Pachora | JALGAON | MAHARASHTRA | Private | [Portal](http://shrishethmurlidharji.org) |
+| 12346 | Sankalp College of BBA and BCA | PUNE | MAHARASHTRA | Private | [Portal](http://scobab.org) |
+| 12347 | Jai Hind College Autonomous | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://jhca.org) |
+| 12348 | Bhaskar Waman Thakur College of Science Yashvant Keshav Patil College of Commerce Vidhya Dayanand Patil College of Arts | THANE | MAHARASHTRA | Private | [Portal](http://bhaskarwamanthakur.org) |
+| 12349 | College of Computer Sciences | PUNE | MAHARASHTRA | Private | [Portal](http://cocs.org) |
+| 12350 | Eknath Sitaram Divekar College Varvand | PUNE | MAHARASHTRA | Private | [Portal](http://esdcv.org) |
+
+
+### Batch 1236 (Colleges 12351–12360)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12351 | Pdea Baburaoji Gholap College | PUNE | MAHARASHTRA | Private | [Portal](http://pbgc.org) |
+| 12352 | B K Birala Colledge Kalayan | THANE | MAHARASHTRA | Private | [Portal](http://bkbck.org) |
+| 12353 | Modern College Kolhapur | KOLHAPUR | MAHARASHTRA | Private | [Portal](http://mck.org) |
+| 12354 | Smt Sitabai Mangilal Agrawal Institute of Management | JALGAON | MAHARASHTRA | Private | [Portal](http://smtsitabaimangilal.org) |
+| 12355 | Kandivli Education Society B K Shroff College of Arts and M H Shroff College of Commerce | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://kandivlieducationsociety.org) |
+| 12356 | Uma Mahavidyalaya Pandharppur | SOLAPUR | MAHARASHTRA | Private | [Portal](http://ump.org) |
+| 12357 | Shri Shahaji Chhatrapati Mahavidyalaya | KOLHAPUR | MAHARASHTRA | Private | [Portal](http://sscm.org) |
+| 12358 | Bharatiya Jain Sanghatanas Arts Science and Commerce College | PUNE | MAHARASHTRA | Private | [Portal](http://bharatiyajainsanghatanas.org) |
+| 12359 | Sndt Womens University Mumbai Ballarpur Campus Maharshi Karve Mahila Sakshamikaran Dynan Sankul | CHANDRAPUR | MAHARASHTRA | Private | [Portal](http://sndtwomensuniversity.org) |
+| 12360 | Sahakar Maharshi Shankarrao Mohite Patil Mahavidyalay Natepute | SOLAPUR | MAHARASHTRA | Private | [Portal](http://sahakarmaharshishankarrao.org) |
+
+
+### Batch 1237 (Colleges 12361–12370)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12361 | Deviprasad Goenka Management College of Media Studies | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://deviprasadgoenkamanagement.org) |
+| 12362 | DR Gangabhau Pathrikar Institute of Management and Computer Science | AURANGABAD | MAHARASHTRA | Private | [Portal](http://drgangabhaupathrikar.org) |
+| 12363 | Gokhale Education Society's B. Y. K. College of Commerce | NASHIK | MAHARASHTRA | Private | [Portal](http://gokhaleeducationsocietys.org) |
+| 12364 | Poona College of Arts Science and Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://poonacollegeof.org) |
+| 12365 | Chandrabhan Sharma College of Arts Commerce and Science | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://chandrabhansharmacollege.org) |
+| 12366 | Marathwada Mitra Mandal's College of Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://mmmcoc.org) |
+| 12367 | Gandhigram College Wardha | WARDHA | MAHARASHTRA | Private | [Portal](http://gcw.org) |
+| 12368 | Siddhi College of Management and Business Studies Dapodi | PUNE | MAHARASHTRA | Private | [Portal](http://siddhicollegeof.org) |
+| 12369 | Aasawa Brothers Business School Arts Science Commerce | AURANGABAD | MAHARASHTRA | Private | [Portal](http://aasawabrothersbusiness.org) |
+| 12370 | Rajiv Gandhi College of Computer Science and Management | NANDED | MAHARASHTRA | Private | [Portal](http://rajivgandhicollege.org) |
+
+
+### Batch 1238 (Colleges 12371–12380)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12371 | Swami Vivekanand Mahavidyalaya Udgir | LATUR | MAHARASHTRA | Private | [Portal](http://svmu.org) |
+| 12372 | Hindi Vidya Prachar Samitis Ramniranjan Jhunjhunwala College of Arts Science and Commerce | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://hindividyaprachar.org) |
+| 12373 | Genba Sopanrao Moze Arts Commerce and Science Bcs College | PUNE | MAHARASHTRA | Private | [Portal](http://genbasopanraomoze.org) |
+| 12374 | Rnc Arts Jdb Commerce and Nsc Science College Nashik Road Nashik 422101 | NASHIK | MAHARASHTRA | Private | [Portal](http://rncartsjdb.org) |
+| 12375 | Sushganga Institute of Management | YAVATMAL | MAHARASHTRA | Private | [Portal](http://siom.org) |
+| 12376 | Balaji College of Arts Commerce and Science | PUNE | MAHARASHTRA | Private | [Portal](http://balajicollegeof.org) |
+| 12377 | Smt. Maniben M.p. Shah Womens College of Arts and Commerce | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://smtmanibenmp.org) |
+| 12378 | Mgms College of Computer Science and IT | NANDED | MAHARASHTRA | Private | [Portal](http://mgmscollegeof.org) |
+| 12379 | Pvgs College of Science and Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://pcosac.org) |
+| 12380 | Shri Niketan Arts Commerce College Nagpur | NAGPUR | MAHARASHTRA | Private | [Portal](http://snaccn.org) |
+
+
+### Batch 1239 (Colleges 12381–12390)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12381 | Swaraj College of Arts Commerce and Science | PUNE | MAHARASHTRA | Private | [Portal](http://swarajcollegeof.org) |
+| 12382 | K Rpandav Mahavidyalaya | NAGPUR | MAHARASHTRA | Private | [Portal](http://krm.org) |
+| 12383 | Tulsi Computer Science and Information Technology College Beed | BEED | MAHARASHTRA | Private | [Portal](http://tulsicomputerscience.org) |
+| 12384 | Sinhgad College of Science | PUNE | MAHARASHTRA | Private | [Portal](http://scos.org) |
+| 12385 | Smt. Kashibai Navale College of Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://skncoc.org) |
+| 12386 | Maratha Vidya Prasarak Samaj Arts and Commerce College Makhamalabad | NASHIK | MAHARASHTRA | Private | [Portal](http://marathavidyaprasarak.org) |
+| 12387 | Gurukul College of Computer Science and Information Technology | BEED | MAHARASHTRA | Private | [Portal](http://gurukulcollegeof.org) |
+| 12388 | DR Abdul Kalam Computer Science and Information Technology | BEED | MAHARASHTRA | Private | [Portal](http://drabdulkalam.org) |
+| 12389 | Sinhgad College of Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://scoc.org) |
+| 12390 | Sinhgad Technical Education Society's Sinhgad College of Arts and Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://sinhgadtechnicaleducation.org) |
+
+
+### Batch 1240 (Colleges 12391–12400)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12391 | Nivrutti Babaji Navale College of Commerce and Science | PUNE | MAHARASHTRA | Private | [Portal](http://nivruttibabajinavale.org) |
+| 12392 | Bunts Sangha's S M Shetty College of Science Commerce and Management Studies | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://buntssanghass.org) |
+| 12393 | Christ College Pune | PUNE | MAHARASHTRA | Private | [Portal](http://ccp.org) |
+| 12394 | Santaji Mahavidyalaya Nagpur | NAGPUR | MAHARASHTRA | Private | [Portal](http://smn.org) |
+| 12395 | Dr. P.d. Patil College of Computer Science and Management Studies | SOLAPUR | MAHARASHTRA | Private | [Portal](http://drpdpatil.org) |
+| 12396 | Tuljaram Chaturchand College of Arts Science and Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://tuljaramchaturchandcollege.org) |
+| 12397 | Snbp College | PUNE | MAHARASHTRA | Private | [Portal](http://snbpcollege.org) |
+| 12398 | Nandigram College of Information Technology | NANDED | MAHARASHTRA | Private | [Portal](http://ncoit.org) |
+| 12399 | Snjb K K H A Arts Smgl Commerce and Sphj Science College Chandwad | NASHIK | MAHARASHTRA | Private | [Portal](http://snjbkk.org) |
+| 12400 | Maharshi Karve Model College for Women | RAIGAD | MAHARASHTRA | Private | [Portal](http://mkmcfw.org) |
+
+
+### Batch 1241 (Colleges 12401–12410)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12401 | Matru Sewa Sangh Institute of Social Work | NAGPUR | MAHARASHTRA | Private | [Portal](http://matrusewasangh.org) |
+| 12402 | Smt. S.k.gandhi Arts Amolak Scince P.h.gandhi Commerce College Kada | BEED | MAHARASHTRA | Private | [Portal](http://smtskgandhiarts.org) |
+| 12403 | Sindhu College of IT and Science Degloor | NANDED | MAHARASHTRA | Private | [Portal](http://sindhucollegeof.org) |
+| 12404 | Smt. Chandibai Himathmal Mansukhani College | THANE | MAHARASHTRA | Private | [Portal](http://schmc.org) |
+| 12405 | Sasmira's Institute of Commerce and Science | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://siocas.org) |
+| 12406 | Wilson College Autonomous | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://wca.org) |
+| 12407 | Ideal College of Arts Commerce and Science | THANE | MAHARASHTRA | Private | [Portal](http://idealcollegeof.org) |
+| 12408 | D. A. V. Velankar College of Commerce Solapur | SOLAPUR | MAHARASHTRA | Private | [Portal](http://dav.org) |
+| 12409 | Lala Lajpatrai College of Commerce and Economics Mumbai | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://lalalajpatraicollege.org) |
+| 12410 | Pssvms Sailee Degree College | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://psdc.org) |
+
+
+### Batch 1242 (Colleges 12411–12420)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12411 | DR S R Ajmera BCA College for Women | NANDURBAR | MAHARASHTRA | Private | [Portal](http://drsr.org) |
+| 12412 | Sadhana College of Commerce Gadhinglaj | KOLHAPUR | MAHARASHTRA | Private | [Portal](http://scocg.org) |
+| 12413 | S.i.w.s. N. R. Swamy College of Commerce and Economics and Smt. Thirumalai College of Science | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://siwsnr.org) |
+| 12414 | Arts Science and Commerce College Indpaur | PUNE | MAHARASHTRA | Private | [Portal](http://asacci.org) |
+| 12415 | Vidya Prasarak Mandals K G Joshi College of Arts and N G Bedekar College of Commerce Autonomous | THANE | MAHARASHTRA | Private | [Portal](http://vidyaprasarakmandals.org) |
+| 12416 | Yuvak Pratishthans MIT College of Computer Sci and IT Vasmat | HINGOLI | MAHARASHTRA | Private | [Portal](http://yuvakpratishthansmit.org) |
+| 12417 | Karmaveer Kakasaheb Wagh Arts Commerce Science and Computer Science College Chandori | NASHIK | MAHARASHTRA | Private | [Portal](http://karmaveerkakasahebwagh.org) |
+| 12418 | Kishinchand Chellaram College | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://kcc.org) |
+| 12419 | Shri Kashiramji Humane Mahavidyalay Kondha Kosra Tah Pauni Dist Bhandara | BHANDARA | MAHARASHTRA | Private | [Portal](http://shrikashiramjihumane.org) |
+| 12420 | Pillai College of Education and Research | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://pcoear.org) |
+
+
+### Batch 1243 (Colleges 12421–12430)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12421 | Vishwabharti Mahavidyalaya Nanded | NANDED | MAHARASHTRA | Private | [Portal](http://vmn.org) |
+| 12422 | Vasant Kale College of Computational and Management Science | NANDED | MAHARASHTRA | Private | [Portal](http://vasantkalecollege.org) |
+| 12423 | Late Narayanrao Amrutrao Deshmukh Arts and Commerce College | AMRAVATI | MAHARASHTRA | Private | [Portal](http://latenarayanraoamrutrao.org) |
+| 12424 | H R College | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://hrc.org) |
+| 12425 | Pune Vidyarthi Griha's College of Science and Technology | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://punevidyarthigrihas.org) |
+| 12426 | Milliya Arts Science and Management Science College Beed | BEED | MAHARASHTRA | Private | [Portal](http://milliyaartsscience.org) |
+| 12427 | Jeevandeep Institute of Technology and Management Studies | THANE | MAHARASHTRA | Private | [Portal](http://jeevandeepinstituteof.org) |
+| 12428 | Dtss College of Commerce | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://dcoc.org) |
+| 12429 | The Poona Diocesan Educational Society's Vidya Bhavan College of Commerce | PUNE | MAHARASHTRA | Private | [Portal](http://thepoonadiocesan.org) |
+| 12430 | Vishwalata Arts Commerce and Science College | NASHIK | MAHARASHTRA | Private | [Portal](http://vacasc.org) |
+
+
+### Batch 1244 (Colleges 12431–12440)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12431 | Nutan Mahavidyalaya Selu | PARBHANI | MAHARASHTRA | Private | [Portal](http://nms.org) |
+| 12432 | Prin DR Sudhakarrao Jadhavar Arts Commerce and Science College | PUNE | MAHARASHTRA | Private | [Portal](http://prindrsudhakarrao.org) |
+| 12433 | Sndt College of Arts and Scb College of Commerce and Science for Women Mumbai | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://sndtcollegeof.org) |
+| 12434 | Modern College of BCA Sonai | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://mcobs.org) |
+| 12435 | Vishwakarma College of Arts Commerce and Science | PUNE | MAHARASHTRA | Private | [Portal](http://vishwakarmacollegeof.org) |
+| 12436 | Sambhaji Raje College of Library and Management Science Beed | BEED | MAHARASHTRA | Private | [Portal](http://sambhajirajecollege.org) |
+| 12437 | Kavikulaguru Kalidas Sanskrit University Ramtek | NAGPUR | MAHARASHTRA | Private | [Portal](http://kksur.org) |
+| 12438 | Arts and Commerce College Belapur | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://aaccb.org) |
+| 12439 | International School of Management and Research | PUNE | MAHARASHTRA | Private | [Portal](http://isomar.org) |
+| 12440 | Raje Shahaji Senior College | AURANGABAD | MAHARASHTRA | Private | [Portal](http://rssc.org) |
+
+
+### Batch 1245 (Colleges 12441–12450)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12441 | G S Patil College of Management and Business Studies Chikhali | PUNE | MAHARASHTRA | Private | [Portal](http://gspatil.org) |
+| 12442 | Snbp's Institute of Management | PUNE | MAHARASHTRA | Private | [Portal](http://siom.org) |
+| 12443 | Subhardra Educational Society Snbp College of Arts Commerce Science and Management Studies | PUNE | MAHARASHTRA | Private | [Portal](http://subhardraeducationalsociety.org) |
+| 12444 | G S Science Arts and Commerce College Khamgaon | BULDHANA | MAHARASHTRA | Private | [Portal](http://gsscience.org) |
+| 12445 | Shree Gurudatta Gramvikas Pratishthan's Jijamata Senior College Jategaon BK | PUNE | MAHARASHTRA | Private | [Portal](http://shreegurudattagramvikas.org) |
+| 12446 | Smt. P. D. Hinduja Trust's K. P. B. Hinduja College of Commerce | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://smtpd.org) |
+| 12447 | Nes Ratnam College of Arts Science and Commerce | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://nesratnamcollege.org) |
+| 12448 | K K Wagh Arts Commerce Science and Computer Science College Kakasahebnagar | NASHIK | MAHARASHTRA | Private | [Portal](http://kkwagh.org) |
+| 12449 | Vinayak Ganesh Vaze College of Arts, Science & Commerce (Autonomous) | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://vinayakganeshvaze.org) |
+| 12450 | Rayat Shikshan Sansthas Laxmibai Bhaurao Patil Mahila Mahavidyalaya Solapur | SOLAPUR | MAHARASHTRA | Private | [Portal](http://rayatshikshansansthas.org) |
+
+
+### Batch 1246 (Colleges 12451–12460)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12451 | Ramkrishna Paramhansa Mahavidyalaya Dharashiv | OSMANABAD | MAHARASHTRA | Private | [Portal](http://rpmd.org) |
+| 12452 | Shri Tambweshwar College of Computer Science and Information Technology | BEED | MAHARASHTRA | Private | [Portal](http://shritambweshwarcollege.org) |
+| 12453 | Achievers Institute of Management & Entrepreneurship | THANE | MAHARASHTRA | Private | [Portal](http://aiome.org) |
+| 12454 | Janaprabha College | NAGPUR | MAHARASHTRA | Private | [Portal](http://janaprabhacollege.org) |
+| 12455 | Aims Institute of Management Studies | PUNE | MAHARASHTRA | Private | [Portal](http://aioms.org) |
+| 12456 | Devmogra Mata Mahila Kala and BCA College | NANDURBAR | MAHARASHTRA | Private | [Portal](http://devmogramatamahila.org) |
+| 12457 | Smef's Brick School of Architecture | PUNE | MAHARASHTRA | Private | [Portal](http://sbsoa.org) |
+| 12458 | Audyogik Shikshan Mandal College of Commerce Science and Information Technology | PUNE | MAHARASHTRA | Private | [Portal](http://audyogikshikshanmandal.org) |
+| 12459 | Dr. Bhanuben Nanavati College of Architecture for Women | PUNE | MAHARASHTRA | Private | [Portal](http://drbhanubennanavati.org) |
+| 12460 | Adarsh College of Computer and Managment | AKOLA | MAHARASHTRA | Private | [Portal](http://acocam.org) |
+
+
+### Batch 1247 (Colleges 12461–12470)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12461 | Supriyatai Sule College of Management Science | AURANGABAD | MAHARASHTRA | Private | [Portal](http://sscoms.org) |
+| 12462 | Kalavati Institute of Management | AURANGABAD | MAHARASHTRA | Private | [Portal](http://kiom.org) |
+| 12463 | Utkarsha Foundation | BULDHANA | MAHARASHTRA | Private | [Portal](http://utkarshafoundation.org) |
+| 12464 | Smt.shakuntalabai Bordikar BCA College Jintur | PARBHANI | MAHARASHTRA | Private | [Portal](http://sbbcj.org) |
+| 12465 | Rajarshi Shahu Maharaj College of Commerce Sadak Arjuni | GONDIA | MAHARASHTRA | Private | [Portal](http://rajarshishahumaharaj.org) |
+| 12466 | Sahyadri Shikshan Sanstha Arts and Commerce | RATNAGIRI | MAHARASHTRA | Private | [Portal](http://sssaac.org) |
+| 12467 | Global Village Arts Science and Commerce College Boramani | SOLAPUR | MAHARASHTRA | Private | [Portal](http://globalvillagearts.org) |
+| 12468 | Dnyansadhana B.c.a. College | PARBHANI | MAHARASHTRA | Private | [Portal](http://dbc.org) |
+| 12469 | Vpms K G Joshi College of Arts and N G Bedekar College of Commerce Autonomous | THANE | MAHARASHTRA | Private | [Portal](http://vpmskg.org) |
+| 12470 | Gdm Arts Krn Commerce and MD Science College | JALGAON | MAHARASHTRA | Private | [Portal](http://gdmartskrn.org) |
+
+
+### Batch 1248 (Colleges 12471–12480)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12471 | The Kandesh Education Societys Pratap College Amalner | JALGAON | MAHARASHTRA | Private | [Portal](http://thekandesheducation.org) |
+| 12472 | H R Patel Arts and Science College Shirpur | DHULE | MAHARASHTRA | Private | [Portal](http://hrpatel.org) |
+| 12473 | Godavari College of Computer Science and Information Technology Kolpa Latur | LATUR | MAHARASHTRA | Private | [Portal](http://godavaricollegeof.org) |
+| 12474 | Ashti Taluka Shikshan Prasarak Mandal's Adv.b.d. Hambarde Mahavidyalaya Ashti | BEED | MAHARASHTRA | Private | [Portal](http://ashtitalukashikshan.org) |
+| 12475 | Seri's School of Management | PUNE | MAHARASHTRA | Private | [Portal](http://ssom.org) |
+| 12476 | Maharashtra Udayagiri Mahavidyalaya | LATUR | MAHARASHTRA | Private | [Portal](http://mum.org) |
+| 12477 | Maharashtra Mahavidyalaya Nilanga | LATUR | MAHARASHTRA | Private | [Portal](http://mmn.org) |
+| 12478 | Nandigram Institute of Information Technology | NANDED | MAHARASHTRA | Private | [Portal](http://nioit.org) |
+| 12479 | Late Sow Kamaltai Jamkar Mahila Mahavidyalaya Parbhani | PARBHANI | MAHARASHTRA | Private | [Portal](http://latesowkamaltai.org) |
+| 12480 | Late Parvatibai Jondhale Womens Law College BCA | THANE | MAHARASHTRA | Private | [Portal](http://lateparvatibaijondhale.org) |
+
+
+### Batch 1249 (Colleges 12481–12490)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12481 | Master Deenanath Mangeshkar Mahavidyalaya | LATUR | MAHARASHTRA | Private | [Portal](http://mdmm.org) |
+| 12482 | Shri Shivaji College Parbhani | PARBHANI | MAHARASHTRA | Private | [Portal](http://sscp.org) |
+| 12483 | Late Parvatibai Jondhale Womens Law College Bms | THANE | MAHARASHTRA | Private | [Portal](http://lateparvatibaijondhale.org) |
+| 12484 | Mahatma Phule BCA College Parbhani 265 | PARBHANI | MAHARASHTRA | Private | [Portal](http://mpbcp2.org) |
+| 12485 | Nmd College of Arts and Commerce Gondia | GONDIA | MAHARASHTRA | Private | [Portal](http://nmdcollegeof.org) |
+| 12486 | Sanjivani Mahavidyalaya Chapoli | LATUR | MAHARASHTRA | Private | [Portal](http://smc.org) |
+| 12487 | Mahatma Basweshwar Mahavidyalaya Latur | LATUR | MAHARASHTRA | Private | [Portal](http://mbml.org) |
+| 12488 | New Model Degree College | HINGOLI | MAHARASHTRA | Private | [Portal](http://nmdc.org) |
+| 12489 | Jalna College of Social Work | JALNA | MAHARASHTRA | Private | [Portal](http://jcosw.org) |
+| 12490 | Aaisheb Maltibai Chitrakathi BCA College | NANDURBAR | MAHARASHTRA | Private | [Portal](http://amcbc.org) |
+
+
+### Batch 1250 (Colleges 12491–12500)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12491 | Y and M Aki College of Arts Science and Commerce | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://yandm.org) |
+| 12492 | School of Computational Sciences | NANDED | MAHARASHTRA | Private | [Portal](http://socs.org) |
+| 12493 | Kokan Ratna Kala Mahavidyalay Baharne | RATNAGIRI | MAHARASHTRA | Private | [Portal](http://krkmb.org) |
+| 12494 | Sindhu Education Society's Institute of Technology and Management | THANE | MAHARASHTRA | Private | [Portal](http://sindhueducationsocietys.org) |
+| 12495 | Vaidyanath College | BEED | MAHARASHTRA | Private | [Portal](http://vaidyanathcollege.org) |
+| 12496 | Jalna College of IT | JALNA | MAHARASHTRA | Private | [Portal](http://jcoi.org) |
+| 12497 | Sahyog College of Arts Commerce and Science | THANE | MAHARASHTRA | Private | [Portal](http://sahyogcollegeof.org) |
+| 12498 | Arts Commerce and Science College Ashoknagar | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://acasca.org) |
+| 12499 | Chatrapati Sambhji Maharaj College Mahur | NANDED | MAHARASHTRA | Private | [Portal](http://csmcm.org) |
+| 12500 | Y and M Aki's Women's College of Arts Science and Commerce | THANE | MAHARASHTRA | Private | [Portal](http://yandm.org) |
+
+
+### Batch 1251 (Colleges 12501–12510)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12501 | Takshashila Mahavidyalaya | AMRAVATI | MAHARASHTRA | Private | [Portal](http://takshashilamahavidyalaya.org) |
+| 12502 | N. D. Marathe Arts Commerce and Science College Shindkheda | DHULE | MAHARASHTRA | Private | [Portal](http://ndmarathe.org) |
+| 12503 | Takshadnya College of BCA | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://tcob.org) |
+| 12504 | Padmashree Dr. D Y Patil Vidyapeeth Deemed to BE Unversity | THANE | MAHARASHTRA | Private (Deemed to be University) | [Portal](http://padmashreedrd.org) |
+| 12505 | Navgan Shikshan Sanstha Rajuris Arts and Commrece College Parli Vajinath Dist Beed | BEED | MAHARASHTRA | Private | [Portal](http://navganshikshansanstha.org) |
+| 12506 | Yashwantrao Bhonsale Institute of Technology and Management | SINDHUDURG | MAHARASHTRA | Private | [Portal](http://yashwantraobhonsaleinstitute.org) |
+| 12507 | Centre for Educatation Technology and Health Governs Women's College of Computer Studies and Research Sawantwadi | SINDHUDURG | MAHARASHTRA | Private | [Portal](http://centreforeducatation.org) |
+| 12508 | Shree L R Tiwari Degree College of Arts Commerce and Science | THANE | MAHARASHTRA | Private | [Portal](http://shreelr.org) |
+| 12509 | Mes Mukunddas Lohia College of Engineering | PUNE | MAHARASHTRA | Private | [Portal](http://mmlcoe.org) |
+| 12510 | Thakur Shree Dps College of Engineering and Management | THANE | MAHARASHTRA | Private | [Portal](http://thakurshreedps.org) |
+
+
+### Batch 1252 (Colleges 12511–12520)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12511 | Government College of Arts and Design Nagpur | NAGPUR | MAHARASHTRA | Public/Government | [Portal](https://governmentcollegeof.gov.in) |
+| 12512 | Nkspt Institute of Engineering and Technology Pathrikar Campus | JALNA | MAHARASHTRA | Private | [Portal](http://nksptinstituteof.org) |
+| 12513 | Shri Muktanand College Gangapur | AURANGABAD | MAHARASHTRA | Private | [Portal](http://smcg.org) |
+| 12514 | Sadhana Education Society's L. S. Raheja College of Arts and Commerce | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://sadhanaeducationsocietys.org) |
+| 12515 | Jalna Education Society | JALNA | MAHARASHTRA | Private | [Portal](http://jes.org) |
+| 12516 | Mula Education Society's Institute of Engineering and Technology | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://mulaeducationsocietys.org) |
+| 12517 | Terna School of Business Management | OSMANABAD | MAHARASHTRA | Private | [Portal](http://tsobm.org) |
+| 12518 | Ajinkya Institute of Technology | AHILYANAGAR | MAHARASHTRA | Private | [Portal](http://aiot.org) |
+| 12519 | Shantai Institute of Technology | DHULE | MAHARASHTRA | Private | [Portal](http://siot.org) |
+| 12520 | Shri Dhokeshwar College Takali Dhokeshwar | AHILYANAGAR | MAHARASHTRA | Private | [Portal](http://sdctd.org) |
+
+
+### Batch 1253 (Colleges 12521–12530)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12521 | Shetkari Shikshan Prasarak Mandals Mahesh Institute of Engineering and Technology Ashti | BEED | MAHARASHTRA | Private | [Portal](http://shetkarishikshanprasarak.org) |
+| 12522 | Jspm College of Engineering | LATUR | MAHARASHTRA | Private | [Portal](http://jcoe.org) |
+| 12523 | Shree Saraswati Institute of Technology | SINDHUDURG | MAHARASHTRA | Private | [Portal](http://ssiot.org) |
+| 12524 | Phalke Patil College of Engineering | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://ppcoe.org) |
+| 12525 | Zeal Institute of Technology | SANGLI | MAHARASHTRA | Private | [Portal](http://ziot.org) |
+| 12526 | Rajarshi Shahu Mahavidyalaya | LATUR | MAHARASHTRA | Private | [Portal](http://rsm.org) |
+| 12527 | DR Sudhakarrao Jadhavar Institute of Management and Technology | PUNE | MAHARASHTRA | Private | [Portal](http://drsudhakarraojadhavar.org) |
+| 12528 | Anandgad Polytechnic College | AHILYANAGAR | MAHARASHTRA | Private | [Portal](http://apc.org) |
+| 12529 | Navjeevan Education Soceity's College of Engineering | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://nescoe.org) |
+| 12530 | Vishweshwarayya Institute of Management and Technology | LATUR | MAHARASHTRA | Private | [Portal](http://viomat.org) |
+
+
+### Batch 1254 (Colleges 12531–12540)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12531 | Abhinav Education Society's College of Computer Science and Management | PUNE | MAHARASHTRA | Private | [Portal](http://abhinaveducationsocietys.org) |
+| 12532 | Vivekanand Arts Sardar Dalipsingh Commerce and Science College | AURANGABAD | MAHARASHTRA | Private | [Portal](http://vivekanandartssardar.org) |
+| 12533 | U.d.pathrikar School of Business Management | AURANGABAD | MAHARASHTRA | Private | [Portal](http://usobm.org) |
+| 12534 | Dnyanvilas College of Engineering | PUNE | MAHARASHTRA | Private | [Portal](http://dcoe.org) |
+| 12535 | Shivchhatrapati College | AURANGABAD | MAHARASHTRA | Private | [Portal](http://shivchhatrapaticollege.org) |
+| 12536 | Amolak College of Engineering Kada | BEED | MAHARASHTRA | Private | [Portal](http://acoek.org) |
+| 12537 | Avdhoot Institute of Computer Application and Management Studies | NAGPUR | MAHARASHTRA | Private | [Portal](http://avdhootinstituteof.org) |
+| 12538 | Vinayakrao Patil Mahavidyalaya Vaijapur | AURANGABAD | MAHARASHTRA | Private | [Portal](http://vpmv.org) |
+| 12539 | Late.adv.shrinivasraoji Dagduraoji Deshmukh College of Computer Science and Managment Bhokardan | JALNA | MAHARASHTRA | Private | [Portal](http://lateadvshrinivasraojidagduraojideshmukh.org) |
+| 12540 | Mssu Nagpur Campus | NAGPUR | MAHARASHTRA | Private | [Portal](http://mnc.org) |
+
+
+### Batch 1255 (Colleges 12541–12550)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12541 | Mssu Pimple Gurav Campus | PUNE | MAHARASHTRA | Private | [Portal](http://mpgc.org) |
+| 12542 | Sumanbai Bengal Mahila Mahavidyalay | HINGOLI | MAHARASHTRA | Private | [Portal](http://sbmm.org) |
+| 12543 | Vidya Niketan Institute of Engineering and Technology | PUNE | MAHARASHTRA | Private | [Portal](http://vidyaniketaninstitute.org) |
+| 12544 | Mhhatma Phule Mahavidyalaya Jalkot | LATUR | MAHARASHTRA | Private | [Portal](http://mpmj.org) |
+| 12545 | Siddhant Senior College | DHULE | MAHARASHTRA | Private | [Portal](http://ssc.org) |
+| 12546 | Khandesh Education Societys Institute of Management and Technology Amalner | JALGAON | MAHARASHTRA | Private | [Portal](http://khandesheducationsocietys.org) |
+| 12547 | Prabhat Institute of Computer Applications and Management Studies | CHANDRAPUR | MAHARASHTRA | Private | [Portal](http://prabhatinstituteof.org) |
+| 12548 | Delight Management Studies and Research Institute | PUNE | MAHARASHTRA | Private | [Portal](http://dmsari.org) |
+| 12549 | Sumanbai Bengal College of BCA | HINGOLI | MAHARASHTRA | Private | [Portal](http://sbcob.org) |
+| 12550 | Prashik College of BCA and Bcs | AURANGABAD | MAHARASHTRA | Private | [Portal](http://pcobab.org) |
+
+
+### Batch 1256 (Colleges 12551–12560)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12551 | Institution of Mechanical Engineers India | RAIGAD | MAHARASHTRA | Private | [Portal](http://iomei.org) |
+| 12552 | Shivsamarth Institute of Management Talmavale | SATARA | MAHARASHTRA | Private | [Portal](http://siomt.org) |
+| 12553 | Sambhajiraje College of Management Science | BEED | MAHARASHTRA | Private | [Portal](http://scoms.org) |
+| 12554 | K T S P Mandal Institute of Technology Management and Research | PUNE | MAHARASHTRA | Private | [Portal](http://kts.org) |
+| 12555 | Indira Polytechnic College | AHILYANAGAR | MAHARASHTRA | Private | [Portal](http://ipc.org) |
+| 12556 | Rtmssu Kharghar Campus | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://rkc.org) |
+| 12557 | Cms Institute of Management Studies | COIMBATORE | TAMIL NADU | Private | [Portal](http://cioms.org) |
+| 12558 | Ganadipathy Tulsi's Jain Engineering College | VELLORE | TAMIL NADU | Private | [Portal](http://gtjec.org) |
+| 12559 | Csi Bishop Appasamy College of Arts & Science | COIMBATORE | TAMIL NADU | Private | [Portal](http://csibishopappasamy.org) |
+| 12560 | Mohamed Sathak Engineering College | RAMANATHAPURAM | TAMIL NADU | Private | [Portal](http://msec.org) |
+
+
+### Batch 1257 (Colleges 12561–12570)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12561 | St. Lourdes Engineering College | CHENNAI | TAMIL NADU | Private | [Portal](http://slec.org) |
+| 12562 | Bhajarang Engineering College | THIRUVALLUR | TAMIL NADU | Private | [Portal](http://bec.org) |
+| 12563 | Bharathi Women's Arts and Science College | VILUPPURAM | TAMIL NADU | Private | [Portal](http://bwaasc.org) |
+| 12564 | Sona College of Arts and Science | SALEM | TAMIL NADU | Private | [Portal](http://scoaas.org) |
+| 12565 | Rvs Kumaran Arts and Science College | DINDIGUL | TAMIL NADU | Private | [Portal](http://rkaasc.org) |
+| 12566 | Vel Tech Ranga Sanku Arts College | THIRUVALLUR | TAMIL NADU | Private | [Portal](http://vtrsac.org) |
+| 12567 | Csi Jayaraj Annapackiam College | TIRUNELVELI | TAMIL NADU | Private | [Portal](http://cjac.org) |
+| 12568 | Ultra Arts and Science College | MADURAI | TAMIL NADU | Private | [Portal](http://uaasc.org) |
+| 12569 | Patrician College of Arts and Science | CHENNAI | TAMIL NADU | Private | [Portal](http://pcoaas.org) |
+| 12570 | Sant Dnyaneshwar Institute of Management and Business Administration | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://santdnyaneshwarinstitute.org) |
+
+
+### Batch 1258 (Colleges 12571–12580)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12571 | Vivekanand Education Society's Polytechnic | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://vesp.org) |
+| 12572 | Agnihotri Polytechnic | WARDHA | MAHARASHTRA | Private | [Portal](http://agnihotripolytechnic.org) |
+| 12573 | B.r. Harne College of Engineering & Technology | THANE | MAHARASHTRA | Private | [Portal](http://bhcoet.org) |
+| 12574 | Government Polytechnic Nagpur | NAGPUR | MAHARASHTRA | Public/Government | [Portal](https://msbte.org.in) |
+| 12575 | Deccan Education Societys Technical Institute | PUNE | MAHARASHTRA | Private | [Portal](http://desti.org) |
+| 12576 | Aditya Polytechnic Beed | BEED | MAHARASHTRA | Private | [Portal](http://apb.org) |
+| 12577 | D.k.t.e.society's Textile & Engineering Institute, Ichalkaranji | KOLHAPUR | MAHARASHTRA | Private | [Portal](http://dteii.org) |
+| 12578 | Krushnaji Purushottam Chousalkar Yogeshwari Polytechnic | BEED | MAHARASHTRA | Private | [Portal](http://kpcyp.org) |
+| 12579 | Government Polytechnic,Yavatmal | YAVATMAL | MAHARASHTRA | Public/Government | [Portal](https://msbte.org.in) |
+| 12580 | Government Polytechnic, Karad | SATARA | MAHARASHTRA | Public/Government | [Portal](https://msbte.org.in) |
+
+
+### Batch 1259 (Colleges 12581–12590)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12581 | Viva Institute of Applied Art | THANE | MAHARASHTRA | Private | [Portal](http://vioaa.org) |
+| 12582 | Ballarpur Sewasamiti's Jainuddin Zaweri Polytechnic | CHANDRAPUR | MAHARASHTRA | Private | [Portal](http://bsjzp.org) |
+| 12583 | K J Somaiya Institute of Technology | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://kjsiot.org) |
+| 12584 | Shri Bhairavnath Nisarg Mandal's, Diploma in Engineering & Technology(Polytechnic) | AURANGABAD | MAHARASHTRA | Private | [Portal](http://shribhairavnathnisarg.org) |
+| 12585 | Government Polytechnic, Gadchiroli | GADCHIROLI | MAHARASHTRA | Public/Government | [Portal](https://msbte.org.in) |
+| 12586 | Shri Gulabrao Deokar Polytechnic, Jalgaon | JALGAON | MAHARASHTRA | Private | [Portal](http://sgdpj.org) |
+| 12587 | Babasaheb Phadtare Engineering & Technology Kalamb-Walchandnagar Tal- Indapur Dist Pune | PUNE | MAHARASHTRA | Private | [Portal](http://babasahebphadtareengineering.org) |
+| 12588 | Laxminarayan Innovation Technological University | NAGPUR | MAHARASHTRA | Private | [Portal](http://litu.org) |
+| 12589 | Sveri's ,College of Engineering (Polytechnic),Pandharpur | SOLAPUR | MAHARASHTRA | Private | [Portal](http://scoep.org) |
+| 12590 | Sunsuba Polytechnic | NASHIK | MAHARASHTRA | Private | [Portal](http://sunsubapolytechnic.org) |
+
+
+### Batch 1260 (Colleges 12591–12600)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12591 | Kinkar Institute of Technology | WARDHA | MAHARASHTRA | Private | [Portal](http://kiot.org) |
+| 12592 | New Institute of Technology, Kolhapur | KOLHAPUR | MAHARASHTRA | Private | [Portal](http://niotk.org) |
+| 12593 | Karmaveer Shankarrao Kale Education Society's Gautam Polytechnic Institute | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://karmaveershankarraokale.org) |
+| 12594 | Puranmal Lahoti Government Institute of Engineering and Technology, Latur | LATUR | MAHARASHTRA | Public/Government | [Portal](https://puranmallahotigovernment.gov.in) |
+| 12595 | The Peoples Education Society's Diploma College of Engineering & Technology | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://thepeopleseducation.org) |
+| 12596 | Jamia Institute of Technology | NANDURBAR | MAHARASHTRA | Private | [Portal](http://jiot.org) |
+| 12597 | Government Polytechnic,Murtizapur | AKOLA | MAHARASHTRA | Public/Government | [Portal](https://msbte.org.in) |
+| 12598 | Devi Mahalaxmi Polytechnic College | THANE | MAHARASHTRA | Private | [Portal](http://dmpc.org) |
+| 12599 | Cusrow Wadia Institute of Technology | PUNE | MAHARASHTRA | Private | [Portal](http://cwiot.org) |
+| 12600 | B.l.patil Polytechnic | RAIGAD | MAHARASHTRA | Private | [Portal](http://blpatilpolytechnic.org) |
+
+
+### Batch 1261 (Colleges 12601–12610)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12601 | Saraswati Institute of Technology | RAIGAD | MAHARASHTRA | Private | [Portal](http://siot.org) |
+| 12602 | Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus | PUNE | MAHARASHTRA | Private | [Portal](http://rasiklalmdhariwal.org) |
+| 12603 | Balaji Institute of Management and Human Resource Development (Bimhrd) | PUNE | MAHARASHTRA | Private | [Portal](http://balajiinstituteof.org) |
+| 12604 | Svkm's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://svkmsshribhagubhai.org) |
+| 12605 | Pankaj Laddhad Institute of Technology and Management Studies | BULDHANA | MAHARASHTRA | Private | [Portal](http://pankajladdhadinstitute.org) |
+| 12606 | Karmayogi Institute of Technology | SOLAPUR | MAHARASHTRA | Private | [Portal](http://kiot.org) |
+| 12607 | Vidya Bharati Mahavidyalaya, Department of Research & PG Studies and Management | AMRAVATI | MAHARASHTRA | Private | [Portal](http://vidyabharatimahavidyalaya.org) |
+| 12608 | Shri Balasaheb Tirpude College of Hotel Management and Catering Technology | NAGPUR | MAHARASHTRA | Private | [Portal](http://shribalasahebtirpude.org) |
+| 12609 | Vidyavardhini's College of Engineering and Technology | THANE | MAHARASHTRA | Private | [Portal](http://vcoeat.org) |
+| 12610 | D. Y. Patil Institute of Master of Computer Applications and Management | PUNE | MAHARASHTRA | Private | [Portal](http://dypatil.org) |
+
+
+### Batch 1262 (Colleges 12611–12620)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12611 | G H Raisoni College of Engineering and Management, Jalgaon | JALGAON | MAHARASHTRA | Private | [Portal](http://ghraisoni.org) |
+| 12612 | Vpm's Dr. V.n.bedekar Institute of Management Studies | THANE | MAHARASHTRA | Private | [Portal](http://vpmsdrvnbedekar.org) |
+| 12613 | Met's Institute of Management | NASHIK | MAHARASHTRA | Private | [Portal](http://miom.org) |
+| 12614 | Bharat Ratna Indira Gandhi College of Engineering | SOLAPUR | MAHARASHTRA | Private | [Portal](http://bharatratnaindira.org) |
+| 12615 | Jawahar Education Society's A. C. Patil College of Engineering | MUMBAI SUBURBAN | MAHARASHTRA | Private | [Portal](http://jawahareducationsocietys.org) |
+| 12616 | Hindi Seva Mandal's , Shri Sant Gadge Baba College of Engineering & Technology, Bhusawal. | JALGAON | MAHARASHTRA | Private | [Portal](http://hindisevamandals.org) |
+| 12617 | Ssbt's College of Engineering & Technology | JALGAON | MAHARASHTRA | Private | [Portal](http://scoet.org) |
+| 12618 | Kasegaon Education Societys Rajarambapu Institute of Technology | SANGLI | MAHARASHTRA | Private | [Portal](http://kasegaoneducationsocietys.org) |
+| 12619 | R.j.s.p.m.'s Institute of Computer & Management Research | PUNE | MAHARASHTRA | Private | [Portal](http://riocmr.org) |
+| 12620 | Modern College of Commerce and Computer Studies | PUNE | MAHARASHTRA | Private | [Portal](http://moderncollegeof.org) |
+
+
+### Batch 1263 (Colleges 12621–12630)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12621 | Bakliwal Foundation | THANE | MAHARASHTRA | Private | [Portal](http://bakliwalfoundation.org) |
+| 12622 | Khed Taluka Shikshan Prasarak Mandal Hutatma Rajguru Mahavidyalaya Tal Khed Dist Pune 410505 | PUNE | MAHARASHTRA | Private | [Portal](http://khedtalukashikshan.org) |
+| 12623 | New Arts Commerce and Science College Parner | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://newartscommerce.org) |
+| 12624 | Mahatma Gandhi Mahavidyalaya Ahmedpur | LATUR | MAHARASHTRA | Private | [Portal](http://mgma.org) |
+| 12625 | National Kannada Education Society's N K E S College of Arts Commerce and Science | MUMBAI CITY | MAHARASHTRA | Private | [Portal](http://nationalkannadaeducation.org) |
+| 12626 | Rajaram Shikshan Sanstha's | SANGLI | MAHARASHTRA | Private | [Portal](http://rss.org) |
+| 12627 | Sharda Mahavidyalaya Arts and Science Parbhani | PARBHANI | MAHARASHTRA | Private | [Portal](http://smaasp.org) |
+| 12628 | Shivaji Mahavidyalaya Udgir | LATUR | MAHARASHTRA | Private | [Portal](http://smu.org) |
+| 12629 | Yogeshwari Mahavidyalaya | BEED | MAHARASHTRA | Private | [Portal](http://yogeshwarimahavidyalaya.org) |
+| 12630 | Dr.sow.i.b.p.mahila Kala Mahavidyalaya | AURANGABAD | MAHARASHTRA | Private | [Portal](http://dkm.org) |
+
+
+### Batch 1264 (Colleges 12631–12640)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12631 | Shri Kanifnath Science College Karanja Kherda | WASHIM | MAHARASHTRA | Private | [Portal](http://sksckk.org) |
+| 12632 | Deogiri Institute of Technology and Management Studies | AURANGABAD | MAHARASHTRA | Private | [Portal](http://deogiriinstituteof.org) |
+| 12633 | National Institute of Securities Markets | RAIGAD | MAHARASHTRA | Public/Government | [Portal](https://niosm.gov.in) |
+| 12634 | Swami Polytechnic | NASHIK | MAHARASHTRA | Private | [Portal](http://swamipolytechnic.org) |
+| 12635 | Vidya Niketan Institute of Management and Computer Applications | AHILYANAGAR | MAHARASHTRA | Private | [Portal](http://vidyaniketaninstitute.org) |
+| 12636 | Audyogik Shikshan Mandals Nextgen Technical Campus | PUNE | MAHARASHTRA | Private | [Portal](http://asmntc.org) |
+| 12637 | Jay Bharat College of Polytechnic Dapka | LATUR | MAHARASHTRA | Private | [Portal](http://jbcopd.org) |
+| 12638 | Cds College of Engineering | AURANGABAD | MAHARASHTRA | Private | [Portal](http://ccoe.org) |
+| 12639 | Taywade College Mahadula Koradi Dist Nagpur | NAGPUR | MAHARASHTRA | Private | [Portal](http://tcmkdn.org) |
+| 12640 | Maeer's Maharashtra Institute of Technology Thane | THANE | MAHARASHTRA | Private | [Portal](http://mmiott.org) |
+
+
+### Batch 1265 (Colleges 12641–12650)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12641 | Aditya Institute of BCA BBA and Bms | BEED | MAHARASHTRA | Private | [Portal](http://adityainstituteof.org) |
+| 12642 | Imperial College of Engineering | THANE | MAHARASHTRA | Private | [Portal](http://icoe.org) |
+| 12643 | Yashoda Mahadeo Kakade College of Engineering Talegaon | PUNE | MAHARASHTRA | Private | [Portal](http://yashodamahadeokakade.org) |
+| 12644 | Adaikalamatha Institute of Management | THANJAVUR | TAMIL NADU | Private | [Portal](http://aiom.org) |
+| 12645 | K.s.rangasamy College of Technology | NAMAKKAL | TAMIL NADU | Private | [Portal](http://kcot.org) |
+| 12646 | Sri Eshwar College of Engineering | COIMBATORE | TAMIL NADU | Private | [Portal](http://secoe.org) |
+| 12647 | Shri Shankarlal Sundarbai Shasun Jain College for Women | CHENNAI | TAMIL NADU | Private | [Portal](http://shrishankarlalsundarbai.org) |
+| 12648 | Matoshri Aasarabai Institute of Technology & Research Centre | NASHIK | MAHARASHTRA | Private | [Portal](http://matoshriaasarabaiinstitute.org) |
+| 12649 | Chhatrapati Shahu Maharaj Shikshan Sanstha,C.s.m.s.s College of Polytechnic | AURANGABAD | MAHARASHTRA | Private | [Portal](http://chhatrapatishahumaharaj.org) |
+| 12650 | Sushganga Polytechnic | YAVATMAL | MAHARASHTRA | Private | [Portal](http://sushgangapolytechnic.org) |
+
+
+### Batch 1266 (Colleges 12651–12660)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 12651 | Terna Public Charitable Trust's Terna Engineering College | THANE | MAHARASHTRA | Private | [Portal](http://ternapubliccharitable.org) |
+| 12652 | G. E. Society's Katgara Polytechnic Institute | THANE | MAHARASHTRA | Private | [Portal](http://geskpi.org) |
+| 12653 | Smt Geeta D Tatkare Polytechnic | RAIGAD | MAHARASHTRA | Private | [Portal](http://sgdtp.org) |
+| 12654 | Viva Institute of Technology | THANE | MAHARASHTRA | Private | [Portal](http://viot.org) |
+| 12655 | Adarsh Education Society's Arts Commerce and Science College Hingoli | HINGOLI | MAHARASHTRA | Private | [Portal](http://adarsheducationsocietys.org) |
+| 12656 | Tatyasaheb A B Chaudhari College of Engineering and Technology | JALGAON | MAHARASHTRA | Private | [Portal](http://tatyasahebab.org) |
+| 12657 | Potdar Foundation Taloda,Potdar Polytechnic, Patne, Malegaon, Nashik | NASHIK | MAHARASHTRA | Private | [Portal](http://potdarfoundationtalodapotdar.org) |
+| 12658 | COEP Technological University | PUNE | MAHARASHTRA | Private | [Portal](http://ctu.org) |
+| 12659 | Adsul's Technical Campus | AHMEDNAGAR | MAHARASHTRA | Private | [Portal](http://atc.org) |
+| 12660 | Indian Institute of Technology Roorkee (IIT Roorkee) | Roorkee | Uttarakhand | Public/Government | [Portal](https://www.iitr.ac.in) |
