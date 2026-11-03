@@ -31910,7 +31910,7 @@
   ],
   "last_batch_completed": 1266,
   "verifiedColleges": 12660,
-  "lastUpdated": "2026-11-03T06:51:47.886Z",
+  "lastUpdated": "2026-11-03T07:09:34.576Z",
   "batchesCompleted": 1266,
   "currentBatch": 1266,
   "batchHistory": [
@@ -32870,5 +32870,6 @@
     }
   ],
   "completionPercentage": "100.00%",
-  "completion_percentage": "100.00%"
+  "completion_percentage": "100.00%",
+  "failed_batches": []
 }
