@@ -3287,3 +3287,19 @@
 | 2178 | Bishamber Sahai Management Institute (BSMI), Roorkee | Roorkee | Uttarakhand | Private | [Portal](https://www.bsgrouproorkee.com) |
 | 2179 | Dev Bhoomi Institute of Polytechnic, Dehradun | Dehradun | Uttarakhand | Private | [Portal](https://www.dbuu.ac.in) |
 | 2180 | College of Advanced Technology, Roorkee | Haridwar | Uttarakhand | Private | [Portal](http://catroorkee.org) |
+
+
+### Batch 219 (Colleges 2,181–2,190)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2181 | Bhagirathi Institute of Technology and Management (Polytechnic) | Champawat | Uttarakhand | Private | [Portal](http://bitmchampawat.org) |
+| 2182 | Government Polytechnic, Malla Salam | Almora | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2183 | Government Polytechnic, Kotabagh | Nainital | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2184 | Government Polytechnic, Vikasnagar | Dehradun | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2185 | Veer Madho Singh Bhandari Uttarakhand Technical University (VMSB UTU) | Dehradun | Uttarakhand | Public/Government (State Public University) | [Portal](https://uktech.ac.in) |
+| 2186 | Tula's Institute, Dehradun | Dehradun | Uttarakhand | Private | [Portal](https://tulas.edu.in) |
+| 2187 | Government Polytechnic, New Tehri | Tehri Garhwal | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2188 | Government Polytechnic, Srinagar (Garhwal) | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](https://www.gpsrinagar.org.in) |
+| 2189 | Government Polytechnic, Kotdwar | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](https://www.gpkotdwar.org.in) |
+| 2190 | Government Polytechnic, Kanda | Bageshwar | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
