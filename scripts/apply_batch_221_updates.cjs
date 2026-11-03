@@ -108,3 +108,4 @@ if (!mdContent.includes(candidates[0].name)) {
 }
 
 console.log('Batch 221 verification successfully applied!');
+

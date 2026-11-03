@@ -108,3 +108,4 @@ if (!mdContent.includes(candidates[0].name)) {
 }
 
 console.log('Batch 223 verification successfully applied!');
+
