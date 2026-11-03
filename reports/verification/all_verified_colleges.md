@@ -3207,3 +3207,19 @@
 | 2128 | Government Polytechnic Berinag, Pithoragarh | Pithoragarh | Uttarakhand | Public/Government | [Portal](https://gpberinag.in) |
 | 2129 | Government Polytechnic Kandikhal, Tehri Garhwal | Tehri Garhwal | Uttarakhand | Public/Government | [Portal](https://gpkandikhal.org) |
 | 2130 | Government Polytechnic Baram, Pithoragarh | Pithoragarh | Uttarakhand | Public/Government | [Portal](https://gpbaram.org.in) |
+
+
+### Batch 214 (Colleges 2,131–2,140)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2131 | Government Polytechnic, Barechhina | Almora | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2132 | Sri Narendra Singh Bhandari Government Polytechnic, Pokhari | Chamoli | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2133 | Government Polytechnic, Jainti | Almora | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2134 | Government Polytechnic, Quansi (Chakrata) | Dehradun | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2135 | Electronics Service & Training Centre (ESTC), Ramnagar | Ramnagar | Uttarakhand | Public/Government | [Portal](https://www.estcindia.com) |
+| 2136 | Government Polytechnic, Kulsari | Chamoli | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2137 | Government Polytechnic, Tanakpur | Champawat | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2138 | Bishamber Sahai Institute of Technology (BSIT) | Roorkee | Uttarakhand | Private | [Portal](http://bsitroorkee.org) |
+| 2139 | Government Polytechnic, Pabau | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2140 | Government Polytechnic, Jakholi | Rudraprayag | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
