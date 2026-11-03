@@ -3319,3 +3319,19 @@
 | 2218 | XIM University, Bhubaneswar | Puri | Odisha | Private (State Private University / Premier Jesuit Institution) | [Portal](https://xim.edu.in) |
 | 2219 | Bharat Institute of Technical Studies (BITS), Balasore | Balasore | Odisha | Private | [Portal](http://bharatinstitute.org) |
 | 2220 | Zenith School of Management (ZSM), Bhubaneswar | Khordha | Odisha | Private | [Portal](http://zenithodisha.com) |
+
+
+### Batch 223 (Colleges 2,221–2,230)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2221 | Bhubaneswar Institute of Industrial Technology (BIIT) | Khordha | Odisha | Private | [Portal](http://biit.ac.in) |
+| 2222 | Amravati Polytechnic, Rairangpur | Mayurbhanj | Odisha | Private | [Portal](http://amravatipolytechnic.org) |
+| 2223 | Capital Institute of Management and Science (CIMS) | Khordha | Odisha | Private | [Portal](https://cimsbbsr.org) |
+| 2224 | Regional College of Management (RCM), Bhubaneswar | Khordha | Odisha | Private (Autonomous Institution) | [Portal](https://rcm.ac.in) |
+| 2225 | Swami Vivekananda Institute of Management (SVIM), Bhubaneswar | Khordha | Odisha | Private | [Portal](https://www.svim.org.in) |
+| 2226 | Rayagada Institute of Technology and Management (RITAM) | Rayagada | Odisha | Private | [Portal](http://ritam.in) |
+| 2227 | Maharaja Purna Chandra Autonomous College (MPC Autonomous College) | Mayurbhanj | Odisha | Public/Government (Autonomous State Government College) | [Portal](https://mpcautocollege.org.in) |
+| 2228 | GIET University, Gunupur | Rayagada | Odisha | Private (State Private University) | [Portal](https://www.giet.edu) |
+| 2229 | SAMET School of Management, Bhubaneswar | Khordha | Odisha | Private | [Portal](http://sametbbsr.org) |
+| 2230 | Vamsi Institute of Management Studies (VIMS), Rayagada | Rayagada | Odisha | Private | [Portal](https://vamsi.edu.in) |
