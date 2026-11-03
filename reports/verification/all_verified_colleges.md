@@ -3303,3 +3303,19 @@
 | 2188 | Government Polytechnic, Srinagar (Garhwal) | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](https://www.gpsrinagar.org.in) |
 | 2189 | Government Polytechnic, Kotdwar | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](https://www.gpkotdwar.org.in) |
 | 2190 | Government Polytechnic, Kanda | Bageshwar | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+
+
+### Batch 222 (Colleges 2,211–2,220)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2211 | Mahendra Institute of Management and Technical Studies (MIMTS) | Khordha | Odisha | Private | [Portal](http://mimts.org) |
+| 2212 | Gandhi Academy of Technology and Engineering (GATE), Berhampur | Ganjam | Odisha | Private | [Portal](http://gate.ac.in) |
+| 2213 | Nalanda Institute of Technology, Bhubaneswar | Khordha | Odisha | Private | [Portal](https://thenalanda.com) |
+| 2214 | Imperial College, Berhampur | Ganjam | Odisha | Private | [Portal](http://imperialcollege.org.in) |
+| 2215 | Swarnalata Management and Information Technology (SMIT), Talcher | Angul | Odisha | Private | [Portal](http://smittalcher.org) |
+| 2216 | Nigamananda Institute of Management Studies (NIMS), Bhubaneswar | Khordha | Odisha | Private | [Portal](http://nimsodisha.org) |
+| 2217 | Arka Academy of Management Studies (AAMS), Kendrapara | Kendrapara | Odisha | Private | [Portal](http://arkaacademy.org) |
+| 2218 | XIM University, Bhubaneswar | Puri | Odisha | Private (State Private University / Premier Jesuit Institution) | [Portal](https://xim.edu.in) |
+| 2219 | Bharat Institute of Technical Studies (BITS), Balasore | Balasore | Odisha | Private | [Portal](http://bharatinstitute.org) |
+| 2220 | Zenith School of Management (ZSM), Bhubaneswar | Khordha | Odisha | Private | [Portal](http://zenithodisha.com) |
