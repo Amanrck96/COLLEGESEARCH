@@ -3239,3 +3239,19 @@
 | 2148 | Uttarakhand Institute of Technical & Professional Education | Nainital | Uttarakhand | Private | [Portal](http://uitpe.org) |
 | 2149 | Government Polytechnic, Kaladhungi | Nainital | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
 | 2150 | Government Polytechnic, SIDCUL Haridwar | Haridwar | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+
+
+### Batch 216 (Colleges 2,151–2,160)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2151 | THDC Institute of Hydropower Engineering and Technology (THDC-IHET) | Tehri Garhwal | Uttarakhand | Public/Government (Constituent College of UTU) | [Portal](https://thdcihet.ac.in) |
+| 2152 | Government Polytechnic, Kanalichhina | Pithoragarh | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2153 | Jaswant Singh Rawat Government Polytechnic, Bironkhal | Pauri Garhwal | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2154 | Government Polytechnic, Garur (Bageshwar) | Bageshwar | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2155 | Alpine College of Management & Technology (ACMT) | Dehradun | Uttarakhand | Private | [Portal](https://www.alpineddn.com) |
+| 2156 | Saraswati Institute of Management & Technology (SIMT) | Rudrapur | Uttarakhand | Private | [Portal](http://www.simtrdr.in) |
+| 2157 | B.S. Negi Mahila Pravidhik Prashikshan Sansthan (BSNMPPS) | Dehradun | Uttarakhand | Public/Government (Govt Aided / ONGC Women's Polytechnic) | [Portal](http://www.bsnmpps.org) |
+| 2158 | Government Polytechnic, Rudraprayag | Rudraprayag | Uttarakhand | Public/Government | [Portal](http://ukdte.org) |
+| 2159 | Late General Bipin Chandra Joshi Government Rural Polytechnic, Takula | Almora | Uttarakhand | Public/Government | [Portal](https://www.grptakula.org.in) |
+| 2160 | Government Polytechnic, Aamwala | Dehradun | Uttarakhand | Public/Government | [Portal](http://gpaamwala.org.in) |
