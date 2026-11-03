@@ -178,12 +178,12 @@ export const CollegeProvider = ({ children }) => {
         return res.json();
       })
       .then(localData => {
-        const list = Array.isArray(localData.colleges) ? localData.colleges : [];
+        const list = Array.isArray(localData) ? localData : (Array.isArray(localData?.colleges) ? localData.colleges : []);
         setRawColleges(list);
         if (list.length > 0) {
           setTotalCollegesCount(list.length);
         }
-        if (Array.isArray(localData.exams)) {
+        if (localData && Array.isArray(localData.exams)) {
           setRawExams(localData.exams);
         }
         if (localData.pendingUpdates && localData.pendingUpdates.length > 0) {
@@ -539,7 +539,7 @@ async function getMasterColleges() {
     masterDataPromise = fetch(`/siteData.json?v=${Date.now()}`, { cache: 'no-cache' })
       .then(res => res.json())
       .then(data => {
-        cachedMasterColleges = data.colleges || [];
+        cachedMasterColleges = Array.isArray(data) ? data : (Array.isArray(data?.colleges) ? data.colleges : []);
         return cachedMasterColleges;
       })
       .catch(e => {
@@ -631,7 +631,7 @@ async function getMasterColleges() {
     }
     if (params.city && params.city.toLowerCase() !== 'all') {
       const cLower = params.city.toLowerCase().trim();
-      results = results.filter(c => safeStr(c.location).toLowerCase().includes(cLower) || safeStr(c.address).toLowerCase().includes(cLower) || safeStr(c.name).toLowerCase().includes(cLower));
+      results = results.filter(c => safeStr(c.city).toLowerCase().includes(cLower) || safeStr(c.location).toLowerCase().includes(cLower) || safeStr(c.address).toLowerCase().includes(cLower) || safeStr(c.name).toLowerCase().includes(cLower));
     }
     if (params.type && params.type.toLowerCase() !== 'all') {
       const tLower = params.type.toLowerCase().trim();
@@ -645,12 +645,30 @@ async function getMasterColleges() {
       results = results.filter(c => safeStr(c.exams).toLowerCase().includes(eStr));
     }
       
-      // 3. Course Filter
-      if (params.course) {
-        const cStr = params.course.toLowerCase();
-        results = results.filter(c => 
-          (c.courses || []).some(co => (co.title || '').toLowerCase().includes(cStr))
-        );
+      // 3. Course / Stream Filter (Smart Tokenized)
+      if (params.course && params.course.toLowerCase() !== 'all') {
+        const crsLower = params.course.toLowerCase().trim();
+        let streamTokens = [crsLower];
+        if (crsLower.includes('tech') || crsLower.includes('engineering')) streamTokens = ['b.tech', 'btech', 'engineering', 'technology', 'b.e.'];
+        if (crsLower.includes('mba') || crsLower.includes('management')) streamTokens = ['mba', 'pgdm', 'management', 'business'];
+        if (crsLower.includes('medical') || crsLower.includes('mbbs')) streamTokens = ['medical', 'mbbs', 'medicine', 'hospital', 'health'];
+        if (crsLower.includes('pharm')) streamTokens = ['pharma', 'pharmacy', 'b.pharm', 'd.pharm'];
+        if (crsLower.includes('bca') || crsLower.includes('mca') || crsLower.includes('computer')) streamTokens = ['bca', 'mca', 'computer', 'it', 'software'];
+        if (crsLower.includes('law')) streamTokens = ['law', 'llb', 'll.b', 'juridical', 'nlu'];
+        if (crsLower.includes('design') || crsLower.includes('fashion')) streamTokens = ['design', 'fashion', 'b.des', 'nift'];
+        if (crsLower.includes('science')) streamTokens = ['b.sc', 'm.sc', 'science'];
+        if (crsLower.includes('commerce')) streamTokens = ['b.com', 'm.com', 'commerce', 'account'];
+
+        results = results.filter(c => {
+          const targetText = [
+            safeStr(c.about),
+            safeStr(c.type),
+            safeStr(c.exams),
+            ...(c.courses || []).map(co => `${safeStr(co.title)} ${safeStr(co.type)} ${safeStr(co.division)}`)
+          ].join(' ').toLowerCase();
+
+          return streamTokens.some(tok => targetText.includes(tok));
+        });
       }
       
       // 4. Hostel Filter
@@ -708,12 +726,24 @@ async function getMasterColleges() {
       
       // 7. Sorting
       const sort = params.sortBy || (params.q?.toLowerCase().includes('top') ? 'ranking' : 'rating');
+      const getNumericFee = (c) => {
+        const feeStr = String(c.courses?.[0]?.fees || c.fees || '');
+        const match = feeStr.match(/(\d+(\.\d+)?)/);
+        if (!match) return 99999999;
+        const val = parseFloat(match[1]);
+        return (feeStr.includes('Lakh') || val < 100) ? val * 100000 : val;
+      };
+
       if (sort === 'ranking') {
-        results.sort((a, b) => (a.ranking || 999) - (b.ranking || 999) || (b.rating || 0) - (a.rating || 0));
+        results.sort((a, b) => (parseInt(a.ranking) || 999) - (parseInt(b.ranking) || 999) || (parseFloat(b.rating) || 0) - (parseFloat(a.rating) || 0));
       } else if (sort === 'rating') {
-        results.sort((a, b) => (b.rating || 0) - (a.rating || 0) || (a.ranking || 999) - (b.ranking || 999));
+        results.sort((a, b) => (parseFloat(b.rating) || 0) - (parseFloat(a.rating) || 0) || (parseInt(a.ranking) || 999) - (parseInt(b.ranking) || 999));
+      } else if (sort === 'fees_low') {
+        results.sort((a, b) => getNumericFee(a) - getNumericFee(b));
+      } else if (sort === 'fees_high') {
+        results.sort((a, b) => getNumericFee(b) - getNumericFee(a));
       } else if (sort === 'reviews') {
-        results.sort((a, b) => (b.reviewsCount || b.reviews || 0) - (a.reviewsCount || a.reviews || 0));
+        results.sort((a, b) => (parseInt(b.reviewsCount || b.reviews) || 0) - (parseInt(a.reviewsCount || a.reviews) || 0));
       } else {
         results.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
       }

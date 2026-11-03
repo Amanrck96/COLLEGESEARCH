@@ -66,7 +66,7 @@ async function simulate() {
   try {
     const siteDataPath = path.join(__dirname, '../public/siteData.json');
     const siteData = JSON.parse(fs.readFileSync(siteDataPath, 'utf8'));
-    const colleges = siteData.colleges || [];
+    const colleges = Array.isArray(siteData) ? siteData : (siteData.colleges || []);
     
     // Filter by Maharashtra
     const maharashtraColleges = colleges.filter(c => (c.state || '').toLowerCase().includes('maharashtra'));
@@ -91,7 +91,8 @@ async function simulate() {
   try {
     const siteDataPath = path.join(__dirname, '../public/siteData.json');
     const siteData = JSON.parse(fs.readFileSync(siteDataPath, 'utf8'));
-    const iitBombay = siteData.colleges.find(c => (c.name || '').toLowerCase().includes('iit bombay'));
+    const collegesList = Array.isArray(siteData) ? siteData : (siteData.colleges || []);
+    const iitBombay = collegesList.find(c => (c.name || '').toLowerCase().includes('iit bombay'));
     if (!iitBombay) throw new Error('IIT Bombay profile not found');
     console.log(`   Inspecting College: ${iitBombay.name}`);
     console.log(`   - Location: ${iitBombay.location}, ${iitBombay.state}`);

@@ -226,10 +226,11 @@ const Colleges = () => {
         fetch('/siteData.json')
           .then(res => res.json())
           .then(data => {
-            if (data && Array.isArray(data.colleges)) {
+            const rawList = Array.isArray(data) ? data : (Array.isArray(data?.colleges) ? data.colleges : []);
+            if (rawList.length > 0) {
               const stateSet = new Set(DEFAULT_STATES);
               const citiesByState = {};
-              data.colleges.forEach(c => {
+              rawList.forEach(c => {
                 const st = c.state || '';
                 const loc = c.location || '';
                 if (st) stateSet.add(st);
@@ -500,7 +501,9 @@ const Colleges = () => {
                 <span className="me-2 text-muted small">Sort By:</span>
                 <Form.Select size="sm" value={sortBy} onChange={(e) => setSortBy(e.target.value)} style={{width: 'auto'}}>
                   <option value="rating">Highest Rating</option>
+                  <option value="ranking">Top Ranked</option>
                   <option value="fees_low">Lowest Fees</option>
+                  <option value="fees_high">Highest Fees</option>
                 </Form.Select>
               </div>
             </div>

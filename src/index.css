@@ -26,6 +26,18 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--primary);
 }
 
+.site-main-content {
+  padding-top: 125px;
+  min-height: calc(100vh - 125px);
+}
+
+@media (max-width: 991px) {
+  .site-main-content {
+    padding-top: 60px;
+    min-height: calc(100vh - 60px);
+  }
+}
+
 /* Custom Nav Header */
 .custom-header-wrapper {
   background: var(--primary);

@@ -22,7 +22,7 @@ function loadCollegesFromDisk() {
       const stats = fs.statSync(SITE_DATA_FILE);
       if (stats.mtimeMs !== lastMtime || inMemoryColleges.length === 0) {
         const data = JSON.parse(fs.readFileSync(SITE_DATA_FILE, 'utf-8'));
-        inMemoryColleges = Array.isArray(data.colleges) ? data.colleges : [];
+        inMemoryColleges = Array.isArray(data) ? data : (Array.isArray(data?.colleges) ? data.colleges : []);
         lastMtime = stats.mtimeMs;
       }
     }
@@ -36,13 +36,21 @@ loadCollegesFromDisk();
 
 function saveCollegesToDisk() {
   try {
-    let siteData = { colleges: [], exams: [] };
+    let existingExams = [];
     if (fs.existsSync(SITE_DATA_FILE)) {
       try {
-        siteData = JSON.parse(fs.readFileSync(SITE_DATA_FILE, 'utf-8'));
+        const existing = JSON.parse(fs.readFileSync(SITE_DATA_FILE, 'utf-8'));
+        if (existing && Array.isArray(existing.exams)) {
+          existingExams = existing.exams;
+        }
       } catch (e) {}
     }
-    siteData.colleges = inMemoryColleges;
+    const siteData = {
+      totalColleges: inMemoryColleges.length,
+      lastUpdated: new Date().toISOString(),
+      exams: existingExams,
+      colleges: inMemoryColleges
+    };
     fs.writeFileSync(SITE_DATA_FILE, JSON.stringify(siteData, null, 2), 'utf-8');
   } catch (err) {
     console.error('❌ Failed to save siteData.json from server:', err.message);
@@ -331,11 +339,23 @@ router.get('/', (req, res) => {
   }
 
   // 3. Sorting
+  const getNumericFee = (c) => {
+    const feeStr = String(c.courses?.[0]?.fees || c.fees || '');
+    const match = feeStr.match(/(\d+(\.\d+)?)/);
+    if (!match) return 99999999;
+    const val = parseFloat(match[1]);
+    return (feeStr.includes('Lakh') || val < 100) ? val * 100000 : val;
+  };
+
   const sort = sortBy || (q && q.toLowerCase().includes('top') ? 'ranking' : 'rating');
   if (sort === 'ranking') {
     results.sort((a, b) => (parseInt(a.ranking) || 999) - (parseInt(b.ranking) || 999) || (parseFloat(b.rating) || 0) - (parseFloat(a.rating) || 0));
   } else if (sort === 'rating') {
     results.sort((a, b) => (parseFloat(b.rating) || 0) - (parseFloat(a.rating) || 0) || (parseInt(a.ranking) || 999) - (parseInt(b.ranking) || 999));
+  } else if (sort === 'fees_low') {
+    results.sort((a, b) => getNumericFee(a) - getNumericFee(b));
+  } else if (sort === 'fees_high') {
+    results.sort((a, b) => getNumericFee(b) - getNumericFee(a));
   } else if (sort === 'reviews') {
     results.sort((a, b) => (parseInt(b.reviewsCount || b.reviews) || 0) - (parseInt(a.reviewsCount || a.reviews) || 0));
   } else {

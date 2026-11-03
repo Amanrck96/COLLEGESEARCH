@@ -8,7 +8,7 @@ const prisma = new PrismaClient();
 
 const siteDataPath = path.join(__dirname, '../public/siteData.json');
 const siteData = JSON.parse(fs.readFileSync(siteDataPath, 'utf8'));
-const colleges = siteData.colleges || [];
+const colleges = Array.isArray(siteData) ? siteData : (siteData.colleges || []);
 
 async function syncToSqlite() {
   console.log(`Starting synchronization of ${colleges.length} colleges to Prisma SQLite database...`);
