@@ -3335,3 +3335,19 @@
 | 2228 | GIET University, Gunupur | Rayagada | Odisha | Private (State Private University) | [Portal](https://www.giet.edu) |
 | 2229 | SAMET School of Management, Bhubaneswar | Khordha | Odisha | Private | [Portal](http://sametbbsr.org) |
 | 2230 | Vamsi Institute of Management Studies (VIMS), Rayagada | Rayagada | Odisha | Private | [Portal](https://vamsi.edu.in) |
+
+
+### Batch 224 (Colleges 2,231–2,240)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2231 | Bharat Institute of Management and Technology (BIMT), Balasore | Balasore | Odisha | Private | [Portal](http://bharatinstitute.org) |
+| 2232 | Siksha 'O' Anusandhan (SOA Deemed to be University) | Khordha | Odisha | Private (Deemed to be University / Category-1 Autonomous) | [Portal](https://www.soa.ac.in) |
+| 2233 | Synergy Polytechnic, Bhubaneswar | Khordha | Odisha | Private | [Portal](http://synergypolytechnic.ac.in) |
+| 2234 | Government Polytechnic, Bhadrak | Bhadrak | Odisha | Public/Government | [Portal](https://gpbhadrak.org.in) |
+| 2235 | Soro School of Engineering (Polytechnic), Balasore | Balasore | Odisha | Private | [Portal](http://soroengineering.org) |
+| 2236 | Saraswat Institute of Management (SIM), Bhubaneswar | Khordha | Odisha | Private | [Portal](http://saraswatgroup.org) |
+| 2237 | Koustuv Business School (KBS), Bhubaneswar | Khordha | Odisha | Private | [Portal](https://kbsbbsr.ac.in) |
+| 2238 | ASBM University (Asian School of Business Management), Bhubaneswar | Khordha | Odisha | Private (State Private University) | [Portal](https://www.asbm.ac.in) |
+| 2239 | Disha College of Management and Technology (DCMT), Berhampur | Ganjam | Odisha | Private | [Portal](https://dishacollege.in) |
+| 2240 | Kruttika Institute of Technical Education (KITE), Khordha | Khordha | Odisha | Private | [Portal](http://kruttika.ac.in) |
