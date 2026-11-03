@@ -3351,3 +3351,19 @@
 | 2238 | ASBM University (Asian School of Business Management), Bhubaneswar | Khordha | Odisha | Private (State Private University) | [Portal](https://www.asbm.ac.in) |
 | 2239 | Disha College of Management and Technology (DCMT), Berhampur | Ganjam | Odisha | Private | [Portal](https://dishacollege.in) |
 | 2240 | Kruttika Institute of Technical Education (KITE), Khordha | Khordha | Odisha | Private | [Portal](http://kruttika.ac.in) |
+
+
+### Batch 225 (Colleges 2,241–2,250)
+
+| # | College Name | City | State | Type | Website |
+|---|---|---|---|---|---|
+| 2241 | Capital Engineering College (CEC), Bhubaneswar | Khordha | Odisha | Private | [Portal](http://cecbbsr.in) |
+| 2242 | Gurukrupa College of Management (GCM), Bhubaneswar | Khordha | Odisha | Private | [Portal](https://gurukrupacollege.org) |
+| 2243 | Academy of Management & Information Technology (AMIT), Bhubaneswar | Khordha | Odisha | Private | [Portal](http://amitbbsr.org) |
+| 2244 | Synergy School of Engineering (Polytechnic), Dhenkanal | Dhenkanal | Odisha | Private | [Portal](http://synergyinstitute.net) |
+| 2245 | Sakuntala Sudarshan Institute of Technology (SSIT Polytechnic) | Mayurbhanj | Odisha | Private | [Portal](http://ssitodisha.org) |
+| 2246 | Sophitorium Management College (SMC), Bhubaneswar | Khordha | Odisha | Private | [Portal](https://sophitoriumsmc.net) |
+| 2247 | Utkal Institute of Management (UIM), Jatani | Khordha | Odisha | Private | [Portal](http://uimodisha.org) |
+| 2248 | HM School of Business Management (HMSBM), Khordha | Khordha | Odisha | Private | [Portal](http://hmsbm.org) |
+| 2249 | Bhubaneswar Institute of Management Studies (BIMS) | Khordha | Odisha | Private | [Portal](https://bimsbbsr.in) |
+| 2250 | Gayatri Institute of Science and Technology (GIST), Berhampur | Ganjam | Odisha | Private | [Portal](https://www.gistmba.in) |
